@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_06_00043_54557.png",
+  "id": "00043_54557",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206004",
+      "question_topic_name": "대각선의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바르게 말한 사람의 이름을 쓰시오.  세훈 : 마름모에 그을 수 있는 대각선은 모두 $2$개야. 소율 : 마름모의 두 대각선의 길이는 같아.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            216,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23.89,
+            116.74,
+            313.9,
+            138.64
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23.89,
+            137.97,
+            260.81,
+            161.2
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            32,
+            144,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.11,
+            0.89,
+            217.11,
+            17.89
+          ],
+          "text": "바르게 말한 사람의 이름을 쓰시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            23.89,
+            116.07,
+            313.24,
+            160.54
+          ],
+          "text": "세훈 : 마름모에 그을 수 있는 대각선은 모두 $2$개야. 소율 : 마름모의 두 대각선의 길이는 같아."
+        }
+      ]
+    }
+  ]
+}

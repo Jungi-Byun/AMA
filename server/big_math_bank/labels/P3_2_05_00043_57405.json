@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_05_00043_57405.png",
+  "id": "00043_57405",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "약수통에 물을 가득 채우려면 각각의 바가지로 다음과 같이 부어야 합니다. 들이가 가장 많은 바가지의 들이는 가장 적은 바가지의 들이의 몇 배입니까?  <table border> <caption></caption>   <tbody>     <tr>       <td>바가지</td>       <td>㉠</td>       <td>㉡</td>       <td>㉢</td>       <td rowspan=2></td>     </tr>     <tr>       <td>부은 횟수(번)</td>       <td>$15$</td>       <td>$30$</td>       <td>$20$</td>     </tr> </tbody> </table> (1) 들이가 가장 많은 바가지를 찾아 기호를 쓰시오. (2) 들이가 가장 적은 바가지를 찾아 기호를 쓰시오. (3) 들이가 가장 많은 바가지의 들이는 가장 적은 바가지의 들이의 몇 배입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            95,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            205,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            221,
+            306,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            243,
+            309,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            265,
+            468,
+            282
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            48,
+            112,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            41
+          ],
+          "text": "약수통에 물을 가득 채우려면 각각의 바가지로 다음과 같이 부어야 합니다. 들이가 가장 많은 바가지의 들이는 가장 적은 바가지의 들이의 몇 배입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            146,
+            470,
+            283
+          ],
+          "text": "<table border> <caption></caption>   <tbody>     <tr>       <td>바가지</td>       <td>㉠</td>       <td>㉡</td>       <td>㉢</td>       <td rowspan=2></td>     </tr>     <tr>       <td>부은 횟수(번)</td>       <td>$15$</td>       <td>$30$</td>       <td>$20$</td>     </tr> </tbody> </table> (1) 들이가 가장 많은 바가지를 찾아 기호를 쓰시오. (2) 들이가 가장 적은 바가지를 찾아 기호를 쓰시오. (3) 들이가 가장 많은 바가지의 들이는 가장 적은 바가지의 들이의 몇 배입니까?"
+        }
+      ]
+    }
+  ]
+}

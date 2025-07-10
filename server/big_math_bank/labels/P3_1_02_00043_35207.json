@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00043_35207.png",
+  "id": "00043_35207",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정사각형 모양의 종이를 대각선 방향으로 두 번 접는 과정을 나타낸 그림으로 첫 번째는 정사각형에 우상향 대각선이 점선으로 그려져 있고 그 위에 접는 표시인 곡선 화살표가 좌상향으로 그려져 있으며 두 번째는 첫 번째에서 접은 종이 모양으로 좌측 상단이 직각인 직각삼각형에 직각을 이등분하고 빗변과 만나는 점선이 그려져 있고 그 위에 접는 표시인 곡선 화살표가 좌하향으로 그려져 있으며 세 번째는 두 번째에서 접은 종이 모양으로 우측 중간 위치에 직각이 있고 빗변이 좌측에 있는 직각삼각형이 그려져 있으며 첫 번째 그림과 두 번째 그림 사이, 두 번째 그림과 세 번째 그림 사이에 우측 방향의 회색 화살표가 있는 그림",
+      "question_text": "정사각형 모양의 종이를 그림과 같이 두 번 접어서 펼쳤을 때 생기는 선을 따라 잘랐습니다. 이때 생기는 직각삼각형은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            789,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            253,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            791,
+            21
+          ],
+          "text": "정사각형 모양의 종이를 그림과 같이 두 번 접어서 펼쳤을 때 생기는 선을 따라 잘랐습니다. 이때 생기는 직각삼각형은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

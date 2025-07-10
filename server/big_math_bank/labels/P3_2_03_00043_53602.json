@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53602.png",
+  "id": "00043_53602",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에는 지름이 10 cm이고, 지름의 왼쪽 끝과 원 아래쪽을 연결하는 8 cm의 현이 있는 작은 원이 있으며, 오른쪽에는 14 cm의 지름이 우상향된 대각선으로 나타나 있으며, 그 왼쪽에 11 cm의 현이 있는 큰 원이 있는 평면도형",
+      "question_text": "두 원의 지름의 합은 몇 $ \\mathrm{cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            217,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            30,
+            285,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            219,
+            22
+          ],
+          "text": "두 원의 지름의 합은 몇 $ \\mathrm{cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

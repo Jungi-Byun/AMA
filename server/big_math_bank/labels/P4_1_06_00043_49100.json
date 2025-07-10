@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_06_00043_49100.png",
+  "id": "00043_49100",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수아가 말한 수를 듣고 경식이가 정한 규칙에 넣어 대답한 수를 기록한 표입니다. 물음에 답하시오.  <table border>   <tbody>     <tr>       <td>$\\;$수아$\\;$</td>       <td>$~1~$</td>       <td>$~3~$</td>       <td>$~5~$</td>       <td>$~7~$</td>            </tr>     <tr>       <td>$\\;$경식$\\;$</td>       <td>$~2~$</td>       <td>$~4~$</td>       <td>$~6~$</td>       <td>$~8~$</td>    </tr>   </tbody> </table> ⑴ 경식이가 정한 규칙은 무엇입니까? (수아가 말한 수)+$\\square$  ⑵ 수아가 $21$을 말했다면 경식이가 대답한 수는 얼마입니까? ⑶ 경식이가 $24$라고 대답했다면 수아가 말한 수는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            572,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            146,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            233,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            93,
+            166,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            359,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            139,
+            375,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            574,
+            157
+          ],
+          "text": "수아가 말한 수를 듣고 경식이가 정한 규칙에 넣어 대답한 수를 기록한 표입니다. 물음에 답하시오.  <table border>   <tbody>     <tr>       <td>$\\;$수아$\\;$</td>       <td>$~1~$</td>       <td>$~3~$</td>       <td>$~5~$</td>       <td>$~7~$</td>            </tr>     <tr>       <td>$\\;$경식$\\;$</td>       <td>$~2~$</td>       <td>$~4~$</td>       <td>$~6~$</td>       <td>$~8~$</td>    </tr>   </tbody> </table> ⑴ 경식이가 정한 규칙은 무엇입니까? (수아가 말한 수)+$\\square$  ⑵ 수아가 $21$을 말했다면 경식이가 대답한 수는 얼마입니까? ⑶ 경식이가 $24$라고 대답했다면 수아가 말한 수는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00042_29817.png",
+  "id": "00042_29817",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101005",
+      "question_topic_name": "천만 단위 수의 각 자리의 숫자와 나타내는 값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수를 바르게 읽은 것은 어느 것입니까? ① $77003$ - 칠천칠백삼 ② $21070$ - 이십만 천칠십 ③ $506010$ - 오십육만 십 ④ $8020800$ - 팔백이만 팔백 ⑤ $40050020$ - 사천오십만 이십",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            237,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            163,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            176,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            173,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            200,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            220,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            239,
+            130
+          ],
+          "text": "수를 바르게 읽은 것은 어느 것입니까? ① $77003$ - 칠천칠백삼 ② $21070$ - 이십만 천칠십 ③ $506010$ - 오십육만 십 ④ $8020800$ - 팔백이만 팔백 ⑤ $40050020$ - 사천오십만 이십"
+        }
+      ]
+    }
+  ]
+}

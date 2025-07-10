@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36171.png",
+  "id": "00043_36171",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지성, 민아, 자철, 신수가 각각 나눗셈식을 하나씩 들고 있습니다. 들고 있는 나눗셈의 몫이 작은 사람부터 차례대로 이름을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            749,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            26,
+            320,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            751,
+            22
+          ],
+          "text": "지성, 민아, 자철, 신수가 각각 나눗셈식을 하나씩 들고 있습니다. 들고 있는 나눗셈의 몫이 작은 사람부터 차례대로 이름을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

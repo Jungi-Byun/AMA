@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_21088.png",
+  "id": "00043_21088",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$0.6$보다 큰 수를 모두 고르시오. ①$0.3$ ②$0.7$ ③$0.4$ ④$0.9$ ⑤$0.5$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            199,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            65,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            65,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            66,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            65,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            65,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            201,
+            130
+          ],
+          "text": "$0.6$보다 큰 수를 모두 고르시오. ①$0.3$ ②$0.7$ ③$0.4$ ④$0.9$ ⑤$0.5$"
+        }
+      ]
+    }
+  ]
+}

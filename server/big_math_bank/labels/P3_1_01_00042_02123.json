@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_02123.png",
+  "id": "00042_02123",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 수의 차를 빈칸에 써넣으시오. <table border>   <tbody>     <tr>       <td>$473$</td>       <td>$520$</td>     </tr>     <tr>       <td colspan=2>$~$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            153,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            205,
+            98
+          ],
+          "text": "두 수의 차를 빈칸에 써넣으시오. <table border>   <tbody>     <tr>       <td>$473$</td>       <td>$520$</td>     </tr>     <tr>       <td colspan=2>$~$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

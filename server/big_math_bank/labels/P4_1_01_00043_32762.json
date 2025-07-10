@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32762.png",
+  "id": "00043_32762",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세탁기와 에어컨의 가격을 각각 비교하시오. (1) $1200000$은 $\\square$자리 수이고, 614000은 $\\square$자리 수이므로 $\\square$가 더 비쌉니다.(2) $867000 \\bigcirc 905000$이므로 $\\square$이 더 비쌉니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            267,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            36,
+            29,
+            320,
+            45
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            37,
+            45,
+            311,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            71,
+            308,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            322,
+            62
+          ],
+          "text": "세탁기와 에어컨의 가격을 각각 비교하시오. (1) $1200000$은 $\\square$자리 수이고, 614000은 $\\square$자리 수이므로 $\\square$가 더 비쌉니다.(2) $867000 \\bigcirc 905000$이므로 $\\square$이 더 비쌉니다."
+        }
+      ]
+    }
+  ]
+}

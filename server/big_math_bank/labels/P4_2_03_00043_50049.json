@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50049.png",
+  "id": "00043_50049",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$0.012$에서 $0.026$까지 소수를 순서대로 찾아 이어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            347,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            30,
+            280,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            349,
+            21
+          ],
+          "text": "$0.012$에서 $0.026$까지 소수를 순서대로 찾아 이어 보시오."
+        }
+      ]
+    }
+  ]
+}

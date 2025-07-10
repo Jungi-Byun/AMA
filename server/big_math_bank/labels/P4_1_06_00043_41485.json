@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_1_06_00043_41485.png",
+  "id": "00043_41485",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "선영이가 샌드위치 $1$개를 만드는 데 빵은 $2$개, 자른 토마토는 $3$개, 햄은 $1$개가 들어간다고 합니다. 물음에 답하시오. ⑴ 다른 재료는 충분하고, 빵이 $14$개 있으면 샌드위치를 몇 개까지 만들 수 있습니까? $14$$÷$$ \\square $ $=$$ \\square $ (개) ⑵ 샌드위치 $6$개를 만들려면 자른 토마토는 몇 개가 필요합니까?$(필요한 자른 토마토)= \\square \\times 6= \\square $ (개) ⑶ 다음 재료를 가지고 샌드위치를 몇 개까지 만들 수 있습니까? 빵 $18$개 자른 토마토 $23$개 햄 $8$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            663,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            184,
+            496,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            206,
+            181,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            228,
+            383,
+            245
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            250,
+            273,
+            272
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            272,
+            379,
+            289
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            293,
+            253,
+            329
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            34,
+            316,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.01,
+            0,
+            664.81,
+            19.04
+          ],
+          "text": "선영이가 샌드위치 $1$개를 만드는 데 빵은 $2$개, 자른 토마토는 $3$개, 햄은 $1$개가 들어간다고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.61,
+            183.84,
+            496.81,
+            327.84
+          ],
+          "text": "⑴ 다른 재료는 충분하고, 빵이 $14$개 있으면 샌드위치를 몇 개까지 만들 수 있습니까? $14$$÷$$ \\square $ $=$$ \\square $ (개) ⑵ 샌드위치 $6$개를 만들려면 자른 토마토는 몇 개가 필요합니까?$(필요한 자른 토마토)= \\square \\times 6= \\square $ (개) ⑶ 다음 재료를 가지고 샌드위치를 몇 개까지 만들 수 있습니까? 빵 $18$개 자른 토마토 $23$개 햄 $8$개"
+        }
+      ]
+    }
+  ]
+}

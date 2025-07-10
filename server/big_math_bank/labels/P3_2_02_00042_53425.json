@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00042_53425.png",
+  "id": "00042_53425",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202001",
+      "question_topic_name": "내림이 없는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수수깡$60$개를 $3$사람이 똑같게 나누면 한 사람이 몇 개씩 가질 수 있습니까? $ 60 \\div 3=\\square $ (개)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            450,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            114,
+            183,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            49,
+            20,
+            170,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.25,
+            0.39,
+            451.28,
+            17.65
+          ],
+          "text": "수수깡$60$개를 $3$사람이 똑같게 나누면 한 사람이 몇 개씩 가질 수 있습니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            39,
+            112,
+            185,
+            143
+          ],
+          "text": "$ 60 \\div 3=\\square $ (개)"
+        }
+      ]
+    }
+  ]
+}

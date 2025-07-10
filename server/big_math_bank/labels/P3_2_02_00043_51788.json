@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_02_00043_51788.png",
+  "id": "00043_51788",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$14÷4=3 \\cdots 2$를 검산하는 방법을 그림으로 알아보려고 합니다. 물음에 답하시오. ⑴ (곰)을 $\\bigcirc$로 $4$개씩 묶어 보시오. ⑵ $\\square$ 안에 알맞은 수를 써넣으시오. (곰)은 $4$개씩 $ \\square $ 묶음과 나머지 $ \\square $ 개이므로 검산식으로 나타내면 $ 4 \\times \\square+\\square=14 $ 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            462,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            149,
+            220,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            180,
+            333,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            221,
+            304,
+            256
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            205.03,
+            73.74,
+            438.63,
+            96.78
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30.31,
+            27.41,
+            199.27,
+            140.05
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.51,
+            2.06,
+            462.95,
+            17.42
+          ],
+          "text": "$14÷4=3 \\cdots 2$를 검산하는 방법을 그림으로 알아보려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            205.67,
+            74.38,
+            427.11,
+            98.06
+          ],
+          "text": "⑴ (곰)을 $\\bigcirc$로 $4$개씩 묶어 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.43,
+            149.26,
+            327.27,
+            251.66
+          ],
+          "text": "⑵ $\\square$ 안에 알맞은 수를 써넣으시오. (곰)은 $4$개씩 $ \\square $ 묶음과 나머지 $ \\square $ 개이므로 검산식으로 나타내면 $ 4 \\times \\square+\\square=14 $ 입니다."
+        }
+      ]
+    }
+  ]
+}

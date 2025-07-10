@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00040_15614.png",
+  "id": "00040_15614",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영진이는 가게에서 $120$원짜리 과자를 사고, 문구점에서 $340$원짜리 공책을 샀더니 $420$원이 남았습니다. 영진이가 처음에 가지고 있던 돈은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            763,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            137,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            40
+          ],
+          "text": "영진이는 가게에서 $120$원짜리 과자를 사고, 문구점에서 $340$원짜리 공책을 샀더니 $420$원이 남았습니다. 영진이가 처음에 가지고 있던 돈은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

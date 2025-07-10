@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_01_00042_02104.png",
+  "id": "00042_02104",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 덧셈에서 $\\boxed1$은 실제로 얼마를 나타냅니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            292,
+            22
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            28,
+            135,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24.81,
+            25.92,
+            134.25,
+            141.76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.13,
+            0.96,
+            290.41,
+            22.72
+          ],
+          "text": "다음 덧셈에서 $\\boxed1$은 실제로 얼마를 나타냅니까?"
+        }
+      ]
+    }
+  ]
+}

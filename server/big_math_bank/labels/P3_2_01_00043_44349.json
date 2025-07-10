@@ -1,0 +1,139 @@
+{
+  "question_filename": "P3_2_01_00043_44349.png",
+  "id": "00043_44349",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201004",
+      "question_topic_name": "백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 \\( \\square \\) 안에 알맞은 수를 써넣으시오.$\\\\$ <보기>$\\\\$ \\( \\begin{array}{r}214 \\\\ \\times  3 \\\\ \\hline \\boxed{12} \\leftarrow (4\\times\\boxed{3}) \\\\ \\boxed{30} \\leftarrow (\\boxed{10}\\times3)\\\\ \\boxed{600}\\leftarrow (200\\times\\boxed{3})  \\\\ \\hline \\ \\boxed{642} \\end{array} \\) $\\\\$ \\( \\begin{array}{r}337 \\\\ \\times  2 \\\\ \\hline \\boxed{\\phantom{12}} \\leftarrow (7\\times\\boxed{\\phantom{1}}) \\\\ \\boxed{\\phantom{12}} \\leftarrow (\\boxed{\\phantom{12}}\\times2)\\\\ \\boxed{\\phantom{123}}\\leftarrow (300\\times\\boxed{\\phantom{1}})  \\\\ \\hline \\ \\boxed{\\phantom{123}} \\end{array} \\)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            292,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            76,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            49,
+            94,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92,
+            102,
+            163,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            93,
+            133,
+            169,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            94,
+            156,
+            191,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            238,
+            83,
+            408
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            88,
+            286,
+            170,
+            313
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            88,
+            317,
+            179,
+            344
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            88,
+            348,
+            186,
+            375
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            297,
+            410
+          ],
+          "text": "<보기>와 같이 \\( \\square \\) 안에 알맞은 수를 써넣으시오.$\\\\$ <보기>$\\\\$ \\( \\begin{array}{r}214 \\\\ \\times  3 \\\\ \\hline \\boxed{12} \\leftarrow (4\\times\\boxed{3}) \\\\ \\boxed{30} \\leftarrow (\\boxed{10}\\times3)\\\\ \\boxed{600}\\leftarrow (200\\times\\boxed{3})  \\\\ \\hline \\ \\boxed{642} \\end{array} \\) $\\\\$ \\( \\begin{array}{r}337 \\\\ \\times  2 \\\\ \\hline \\boxed{\\phantom{12}} \\leftarrow (7\\times\\boxed{\\phantom{1}}) \\\\ \\boxed{\\phantom{12}} \\leftarrow (\\boxed{\\phantom{12}}\\times2)\\\\ \\boxed{\\phantom{123}}\\leftarrow (300\\times\\boxed{\\phantom{1}})  \\\\ \\hline \\ \\boxed{\\phantom{123}} \\end{array} \\)"
+        }
+      ]
+    }
+  ]
+}

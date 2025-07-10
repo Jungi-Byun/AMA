@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00043_35507.png",
+  "id": "00043_35507",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102003",
+      "question_topic_name": "직선 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형을 보고 여러 사람이 말한 것입니다. 잘못 말한 사람을 모두 찾아 이름을 쓰시오.  은지 : 반직선 $ㄹㄷ$이야. 정우 : 선분도 아니고 직선도 아니야 석태 : 직선 $ㄷㄹ$이야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            492,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.3,
+            56.62,
+            159.98,
+            77.61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.3,
+            77.61,
+            230.63,
+            100.14
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.3,
+            99.11,
+            149.23,
+            122.15
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            26,
+            225,
+            45
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.15,
+            0,
+            492.78,
+            16.17
+          ],
+          "text": "도형을 보고 여러 사람이 말한 것입니다. 잘못 말한 사람을 모두 찾아 이름을 쓰시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            24.81,
+            57.13,
+            231.66,
+            122.67
+          ],
+          "text": "은지 : 반직선 $ㄹㄷ$이야. 정우 : 선분도 아니고 직선도 아니야 석태 : 직선 $ㄷㄹ$이야."
+        }
+      ]
+    }
+  ]
+}

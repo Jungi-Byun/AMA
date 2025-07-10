@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00043_38327.png",
+  "id": "00043_38327",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "대교 초등학교 농구부의 시합 결과입니다. 대교 초등학교는 이번 시합에서 자유투를 몇 개 성공시켰습니까?<table border> <caption>Title</caption>   <tbody>     <tr>       <td>골</td>       <td>자유투</td>       <td>2점 슛</td>       <td>3점 슛</td>       <td>합계</td>     </tr>     <tr>       <td>점수</td>       <td>1점</td>       <td>2점</td>       <td>3점</td>       <td>85</td>     </tr>     <tr>       <td>골 수</td>       <td>?개</td>       <td>23개</td>       <td>9개</td>       <td>$\\cdot$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            622,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            256,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            624,
+            93
+          ],
+          "text": "대교 초등학교 농구부의 시합 결과입니다. 대교 초등학교는 이번 시합에서 자유투를 몇 개 성공시켰습니까?<table border> <caption>Title</caption>   <tbody>     <tr>       <td>골</td>       <td>자유투</td>       <td>2점 슛</td>       <td>3점 슛</td>       <td>합계</td>     </tr>     <tr>       <td>점수</td>       <td>1점</td>       <td>2점</td>       <td>3점</td>       <td>85</td>     </tr>     <tr>       <td>골 수</td>       <td>?개</td>       <td>23개</td>       <td>9개</td>       <td>$\\cdot$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

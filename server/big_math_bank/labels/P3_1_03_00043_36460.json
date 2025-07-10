@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_03_00043_36460.png",
+  "id": "00043_36460",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자동차 $27$대를 배 $3$척에 똑같이 나누어 실었습니다. 배 한 척에 실은 자동차는 몇 대인지 알아보시오. (1) 배 한 척에 실은 자동차의 수를 나눗셈식으로 나타내시오. (2) 나눗셈식을 세로로 쓰시오. $\\begin{array} {r} \\square \\\\ 3 {\\overline{{\\big)} 27}} \\end{array}$ (3) 배 한 척에 실은 자동차는 몇 대입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            585,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            361,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            192,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            68,
+            59,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            118,
+            262,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            586,
+            136
+          ],
+          "text": "자동차 $27$대를 배 $3$척에 똑같이 나누어 실었습니다. 배 한 척에 실은 자동차는 몇 대인지 알아보시오. (1) 배 한 척에 실은 자동차의 수를 나눗셈식으로 나타내시오. (2) 나눗셈식을 세로로 쓰시오. $\\begin{array} {r} \\square \\\\ 3 {\\overline{{\\big)} 27}} \\end{array}$ (3) 배 한 척에 실은 자동차는 몇 대입니까?"
+        }
+      ]
+    }
+  ]
+}

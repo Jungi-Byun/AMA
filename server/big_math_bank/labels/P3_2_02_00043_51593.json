@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00043_51593.png",
+  "id": "00043_51593",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. 한 묶음의 호두 수 : $\\square$개 남은 호두 수 : $\\square$개 $\\rightarrow 33 \\div 2=16 \\cdots \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            78,
+            130,
+            277,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            79,
+            159,
+            231,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            70,
+            196,
+            226,
+            224
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            34,
+            315,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.28,
+            0,
+            275.28,
+            17.86
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            68.28,
+            132.49,
+            281.28,
+            224.49
+          ],
+          "text": "한 묶음의 호두 수 : $\\square$개 남은 호두 수 : $\\square$개 $\\rightarrow 33 \\div 2=16 \\cdots \\square $"
+        }
+      ]
+    }
+  ]
+}

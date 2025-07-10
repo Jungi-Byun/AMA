@@ -1,0 +1,139 @@
+{
+  "question_filename": "P4_2_03_00042_56358.png",
+  "id": "00042_56358",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203009",
+      "question_topic_name": "소수 한 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $0.4+0.5=\\square$ $0.7+\\square=\\square$ $0.7+\\square=\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            116,
+            80,
+            248,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            114,
+            164,
+            259,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            114,
+            247,
+            255,
+            269
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            43,
+            318,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            123,
+            321,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            209,
+            321,
+            241
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            22
+          ],
+          "text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            114,
+            77,
+            250,
+            104
+          ],
+          "text": "$0.4+0.5=\\square$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            112,
+            161,
+            261,
+            189
+          ],
+          "text": "$0.7+\\square=\\square$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            112,
+            243,
+            257,
+            269
+          ],
+          "text": "$0.7+\\square=\\square$"
+        }
+      ]
+    }
+  ]
+}

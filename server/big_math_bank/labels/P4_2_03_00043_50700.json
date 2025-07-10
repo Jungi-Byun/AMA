@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50700.png",
+  "id": "00043_50700",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203016",
+      "question_topic_name": "소수 두 자리 수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 선분 위 왼쪽부터 네 개의 점 아래에 원 문자 가, 나, 다, 라가 있고, 원 문자 가부터 원 문자 다, 원 문자 나부터 원 문자 라까지의 거리를 선분 위 점선으로 묶어 점선 위에 3.76 km, 2.08 km로 나타낸 그림",
+      "question_text": "㉮에서 ㉱까지의 거리가 $ 4.25 \\mathrm{~km} $일 때, ㉯에서 ㉰까지의 거리는 몇 $ \\mathrm{km} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            463,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            40,
+            319,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            465,
+            21
+          ],
+          "text": "㉮에서 ㉱까지의 거리가 $ 4.25 \\mathrm{~km} $일 때, ㉯에서 ㉰까지의 거리는 몇 $ \\mathrm{km} $입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_03_00043_49935.png",
+  "id": "00043_49935",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 성덕대왕신종입니다. $㉠$과 $㉡$의 길이는 각각 $0.01m$가 몇 개인지 구하시오. $㉠$ : $3.75 m$는 $0.01 m$가 $\\square$ 개 $㉡$ : $2.27 m$는 $0.01 m$가 $\\square$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            23.48,
+            249.26,
+            229.56,
+            275.5
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.36,
+            274.86,
+            231.48,
+            308.78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.72,
+            3.5,
+            481.08,
+            15.02
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            353.28,
+            18.87,
+            480.28,
+            239.87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            2.22,
+            482.36,
+            16.3
+          ],
+          "text": "다음은 성덕대왕신종입니다. $㉠$과 $㉡$의 길이는 각각 $0.01m$가 몇 개인지 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.56,
+            246.7,
+            232.12,
+            310.7
+          ],
+          "text": "$㉠$ : $3.75 m$는 $0.01 m$가 $\\square$ 개 $㉡$ : $2.27 m$는 $0.01 m$가 $\\square$개"
+        }
+      ]
+    }
+  ]
+}

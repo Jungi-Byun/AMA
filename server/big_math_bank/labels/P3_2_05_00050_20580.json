@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00050_20580.png",
+  "id": "00050_20580",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "휘발유를 가득 실은 유조차가 있습니다. 이 유조차가 싣고 있던 휘발유의 $ \\frac{1}{2} $ 을 ㉮ 주유소에 넣은 후, 유조차의 무게를 재어 보았더니 $ 10.5 \\mathrm{t} $ 이었습니다. 나머지 휘발유의 $ \\frac{2}{5} $ 를 ㉯ 주유소에 넣은 후 남은 휘발유가 $ 3 \\mathrm{t} $ 이었다면 처음에 실은 휘발유의 무게는 휘발유를 싣지 않은 유조 차의 무게보다 몇 $ \\mathrm{kg} $ 더 무겁습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            3,
+            799,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            47,
+            800,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            226,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            2,
+            802,
+            106
+          ],
+          "text": "휘발유를 가득 실은 유조차가 있습니다. 이 유조차가 싣고 있던 휘발유의 $ \\frac{1}{2} $ 을 ㉮ 주유소에 넣은 후, 유조차의 무게를 재어 보았더니 $ 10.5 \\mathrm{t} $ 이었습니다. 나머지 휘발유의 $ \\frac{2}{5} $ 를 ㉯ 주유소에 넣은 후 남은 휘발유가 $ 3 \\mathrm{t} $ 이었다면 처음에 실은 휘발유의 무게는 휘발유를 싣지 않은 유조 차의 무게보다 몇 $ \\mathrm{kg} $ 더 무겁습니까?"
+        }
+      ]
+    }
+  ]
+}

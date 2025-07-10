@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53478.png",
+  "id": "00043_53478",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에 중심 ㄱ에 빨간 점이 있는 큰 원과 오른쪽에 중심 ㄴ에 빨간 점이 있는 작은 원이 외접하고 있고 큰 원의 반지름과 작은 원의 지름이 일직선으로 이어져 있을 때, 점 ㄱ에서 아래로 그려진 반지름의 길이는 11 cm이고 점 ㄴ의 오른쪽 반지름의 길이는 6 cm인 도형",
+      "question_text": "점 ㄱ, 점 ㄴ은 원의 중심입니다. 선분 ㄱㄴ의 길이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            369,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            208,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            371,
+            22
+          ],
+          "text": "점 ㄱ, 점 ㄴ은 원의 중심입니다. 선분 ㄱㄴ의 길이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

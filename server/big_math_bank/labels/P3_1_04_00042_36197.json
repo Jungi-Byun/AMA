@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00042_36197.png",
+  "id": "00042_36197",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "덧셈식을 곱셈식으로 나타내시오.  $ 60+60+60 \\rightarrow \\square \\times \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            209,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            22,
+            185,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            211,
+            50
+          ],
+          "text": "덧셈식을 곱셈식으로 나타내시오.  $ 60+60+60 \\rightarrow \\square \\times \\square $"
+        }
+      ]
+    }
+  ]
+}

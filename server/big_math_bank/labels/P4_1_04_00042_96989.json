@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_04_00042_96989.png",
+  "id": "00042_96989",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형을 (회전방향)방향으로 돌렸을 때 생기는 모양과 같은 모양이 나오는 것은 어느 것인지 풀이 과정을 쓰고 답을 구하시오.   ㉠ 오른쪽으로 밀기  ㉡ 아래쪽으로 뒤집기  ㉢ (회전방향)방향으로 돌리기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            141,
+            141,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            170,
+            154,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.48,
+            0.89,
+            720.28,
+            28.09
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26.68,
+            188.89,
+            168.28,
+            218.49
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            36,
+            124,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            0.09,
+            718.68,
+            28.89
+          ],
+          "text": "다음 도형을 (회전방향)방향으로 돌렸을 때 생기는 모양과 같은 모양이 나오는 것은 어느 것인지 풀이 과정을 쓰고 답을 구하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.88,
+            144.09,
+            168.28,
+            217.69
+          ],
+          "text": "㉠ 오른쪽으로 밀기  ㉡ 아래쪽으로 뒤집기  ㉢ (회전방향)방향으로 돌리기"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_54560.png",
+  "id": "00042_54560",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 1 L $들이 병 $3$개에 식초가 가득 들어 있습니다. 이 중에서 음식을 만드는 데 $ 1 L   700 \\mathrm{mL} $를 사용하였습니다. 남은 식초의 양은 몇 $L $ 몇 $\\mathrm{mL} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "$ 1 L $들이 병 $3$개에 식초가 가득 들어 있습니다. 이 중에서 음식을 만드는 데 $ 1 L   700 \\mathrm{mL} $를 사용하였습니다. 남은 식초의 양은 몇 $L $ 몇 $\\mathrm{mL} $입니까?"
+        }
+      ]
+    }
+  ]
+}

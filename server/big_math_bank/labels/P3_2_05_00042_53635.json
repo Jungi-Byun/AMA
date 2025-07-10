@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00042_53635.png",
+  "id": "00042_53635",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "일주일 동안 수현이가 마신 우유의 양은 $1070mL$이고, 정우가 마신 우유의 양은 $1L \\enspace 300mL$입니다. 누가 우유를 더 많이 마셨습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            765,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            767,
+            21
+          ],
+          "text": "일주일 동안 수현이가 마신 우유의 양은 $1070mL$이고, 정우가 마신 우유의 양은 $1L \\enspace 300mL$입니다. 누가 우유를 더 많이 마셨습니까?"
+        }
+      ]
+    }
+  ]
+}

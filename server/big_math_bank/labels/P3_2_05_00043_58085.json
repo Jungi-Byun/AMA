@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00043_58085.png",
+  "id": "00043_58085",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "저울에 $100 g$짜리 추 $12$개와 $50 g$짜리 추 몇 개를 올려놓고 재었더니 $1 kg 550 g$이었습니다. 저울에 올려놓은 $50 g$짜리 추는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            785,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            787,
+            21
+          ],
+          "text": "저울에 $100 g$짜리 추 $12$개와 $50 g$짜리 추 몇 개를 올려놓고 재었더니 $1 kg 550 g$이었습니다. 저울에 올려놓은 $50 g$짜리 추는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

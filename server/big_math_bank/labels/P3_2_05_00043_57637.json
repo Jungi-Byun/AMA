@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_57637.png",
+  "id": "00043_57637",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $3L 400mL-2L  100mL= \\square L  \\square  mL$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            274,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            124,
+            290,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            26,
+            324,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.51,
+            0.76,
+            272.23,
+            16.76
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            29.67,
+            125.56,
+            288.87,
+            149.88
+          ],
+          "text": "$3L 400mL-2L  100mL= \\square L  \\square  mL$"
+        }
+      ]
+    }
+  ]
+}

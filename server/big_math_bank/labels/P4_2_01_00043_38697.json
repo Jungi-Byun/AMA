@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38697.png",
+  "id": "00043_38697",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색종이 조각을 붙여서 깃발 모양을 꾸미려고 합니다. 각 조각의 크기가 다음과 같을 때 깃발에 붙인 조각의 크기의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            743,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            30,
+            290,
+            321
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            745,
+            23
+          ],
+          "text": "색종이 조각을 붙여서 깃발 모양을 꾸미려고 합니다. 각 조각의 크기가 다음과 같을 때 깃발에 붙인 조각의 크기의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

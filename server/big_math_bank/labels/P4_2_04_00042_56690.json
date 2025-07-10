@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00042_56690.png",
+  "id": "00042_56690",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204010",
+      "question_topic_name": "사다리꼴 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형을 보고 물음에 답하시오.  ⑴ 마주 보는 한 쌍의 변이 서로 평행한 사각형을 모두 찾아 기호를 쓰시오.  ⑵ 위 ⑴에서 찾은 사각형을 무엇이라고 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.38,
+            174.79,
+            438.22,
+            192.07
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.38,
+            196.55,
+            291.02,
+            212.55
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            262,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            0.71,
+            187.34,
+            15.43
+          ],
+          "text": "도형을 보고 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            175.43,
+            438.22,
+            212.55
+          ],
+          "text": "⑴ 마주 보는 한 쌍의 변이 서로 평행한 사각형을 모두 찾아 기호를 쓰시오.  ⑵ 위 ⑴에서 찾은 사각형을 무엇이라고 합니까?"
+        }
+      ]
+    }
+  ]
+}

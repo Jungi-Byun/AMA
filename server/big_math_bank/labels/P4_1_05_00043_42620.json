@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_05_00043_42620.png",
+  "id": "00043_42620",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105002",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 반, 세로축은 학생 수(명)를 나타내고 남학생은 초록색, 여학생은 분홍색 그래프로 구분하여 1반은 남학생 12명, 여학생 13명이고 2반은 남학생 11명, 여학생 12명이고 3반은 남학생 13명, 여학생 11명이고 4반은 남학생 10명, 여학생 13명이고 5반은 남학생과 여학생 동일하게 12명인 반별 학생 수를 남학생과 여학생으로 나누어 조사하여 나타낸 막대그래프",
+      "question_text": "희영이네 학교 $4$학년 반별 학생 수를 남학생과 여학생으로 나누어 조사하여 나타낸 막대그래프입니다. 학생 수가 가장 많은 반은 몇 반인지 알아보시오.  (1) 위 막대그래프를 보고 표를 완성하시오.  <table border> <caption>반별 학생 수</caption>   <tbody>     <tr>       <td>반</td>       <td>1</td>       <td>2</td>       <td>3</td>       <td>4</td>       <td>5</td>       <td>합계</td>     </tr>     <tr>       <td>남학생 수(명)</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr>     <tr>       <td>여학생 수(명)</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) 학생 수가 가장 많은 반은 몇 반입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            87,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            288,
+            258,
+            306
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            84,
+            311,
+            158,
+            327
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            332,
+            296,
+            404
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            407,
+            257,
+            424
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            50,
+            322,
+            281
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "희영이네 학교 $4$학년 반별 학생 수를 남학생과 여학생으로 나누어 조사하여 나타낸 막대그래프입니다. 학생 수가 가장 많은 반은 몇 반인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            288,
+            298,
+            425
+          ],
+          "text": " (1) 위 막대그래프를 보고 표를 완성하시오.  <table border> <caption>반별 학생 수</caption>   <tbody>     <tr>       <td>반</td>       <td>1</td>       <td>2</td>       <td>3</td>       <td>4</td>       <td>5</td>       <td>합계</td>     </tr>     <tr>       <td>남학생 수(명)</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr>     <tr>       <td>여학생 수(명)</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) 학생 수가 가장 많은 반은 몇 반입니까?"
+        }
+      ]
+    }
+  ]
+}

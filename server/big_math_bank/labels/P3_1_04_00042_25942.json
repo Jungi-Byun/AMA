@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00042_25942.png",
+  "id": "00042_25942",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 27 cm인 테이프 3장을 가로로 겹치게 이어 붙여 첫 번째 테이프와 두 번째 테이프가 4 cm 만큼 겹쳐져 있고 겹쳐진 부분의 왼쪽 세로 선은 점선이고 오른쪽 세로 선은 실선이며 두 번째 테이프와 세 번째 테이프도 같은 길이만큼 겹쳐져 있으며 겹쳐진 부분의 왼쪽 세로 선은 점선이고 오른쪽 세로 선은 실선이며 겹쳐진 부분은 색칠된 도형",
+      "question_text": "그림과 같이 길이가 $ 27 \\mathrm{~cm} $인 색 테이프 $3$개를 $ 4 \\mathrm{~cm} $씩 겹쳐지게 이어 붙였습니다. 이어 붙인 전체 색 테이프의 길이는 몇 $ \\mathrm{cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            765,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            23,
+            301,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            1.42,
+            765.1,
+            17.42
+          ],
+          "text": "그림과 같이 길이가 $ 27 \\mathrm{~cm} $인 색 테이프 $3$개를 $ 4 \\mathrm{~cm} $씩 겹쳐지게 이어 붙였습니다. 이어 붙인 전체 색 테이프의 길이는 몇 $ \\mathrm{cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

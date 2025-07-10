@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_2_05_00042_89723.png",
+  "id": "00042_89723",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "유정이의 몸무게를 매년 조사하여 나타낸 표를 보고 꺾은선그래프를 그리려고 합니다. 세로 눈금 한 칸의 크기는 얼마로 하는 것이 좋겠습니까?  <table border> <caption>유정이의 몸무게</caption>   <tbody>     <tr>       <td>나이(살)</td>       <td>$5$</td>       <td>$6$</td>       <td>$7$</td>       <td>$8$</td>       <td>$9$</td>       <td>$10$</td>     </tr>     <tr>       <td>몸무게($kg$)</td>       <td>$17$</td>       <td>$18$</td>       <td>$21$</td>       <td>$23$</td>       <td>$28$</td>       <td>$30$</td>     </tr> </tbody> </table> ①$0.1kg$ ②$1kg$ ③$2kg$ ④$5kg$ ⑤$10kg$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            45,
+            44,
+            140,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            255,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            114,
+            86,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            137,
+            65,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            159,
+            67,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            181,
+            67,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            203,
+            74,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            224
+          ],
+          "text": "유정이의 몸무게를 매년 조사하여 나타낸 표를 보고 꺾은선그래프를 그리려고 합니다. 세로 눈금 한 칸의 크기는 얼마로 하는 것이 좋겠습니까?  <table border> <caption>유정이의 몸무게</caption>   <tbody>     <tr>       <td>나이(살)</td>       <td>$5$</td>       <td>$6$</td>       <td>$7$</td>       <td>$8$</td>       <td>$9$</td>       <td>$10$</td>     </tr>     <tr>       <td>몸무게($kg$)</td>       <td>$17$</td>       <td>$18$</td>       <td>$21$</td>       <td>$23$</td>       <td>$28$</td>       <td>$30$</td>     </tr> </tbody> </table> ①$0.1kg$ ②$1kg$ ③$2kg$ ④$5kg$ ⑤$10kg$"
+        }
+      ]
+    }
+  ]
+}

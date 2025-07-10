@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_25093.png",
+  "id": "00042_25093",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "집, 버스 정류장, 도서관은 일직선상에 있고, 집에서 도서관까지의 거리는 935 m, 버스 정류장에서 도서관까지는 749 m인 그림",
+      "question_text": "집에서 버스 정류장까지의 거리는 몇 $m$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            287,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            299,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            289,
+            22
+          ],
+          "text": "집에서 버스 정류장까지의 거리는 몇 $m$입니까?"
+        }
+      ]
+    }
+  ]
+}

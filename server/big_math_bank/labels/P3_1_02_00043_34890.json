@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_02_00043_34890.png",
+  "id": "00043_34890",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102003",
+      "question_topic_name": "직선 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "선분, 반직선, 직선을 각각 찾아 빈칸에 알맞게 써넣으시오. <table border>   <tbody>     <tr>       <td>선분</td>       <td>선분ㄱㄴ, </td>     </tr>     <tr>       <td>반직선</td>       <td></td>     </tr>     <tr>       <td>직선</td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            348,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            130,
+            209,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            26,
+            234,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            351,
+            23
+          ],
+          "text": "선분, 반직선, 직선을 각각 찾아 빈칸에 알맞게 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            128,
+            211,
+            201
+          ],
+          "text": "<table border>   <tbody>     <tr>       <td>선분</td>       <td>선분ㄱㄴ, </td>     </tr>     <tr>       <td>반직선</td>       <td></td>     </tr>     <tr>       <td>직선</td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

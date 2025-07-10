@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55526.png",
+  "id": "00043_55526",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204004",
+      "question_topic_name": "여러 개씩 묶었을 때 분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "호범이는 사탕 $36$개를 $4$개씩 묶은 다음 그중 몇 묶음을 친구에게 주었습니다. 남은 사탕이 $28$개일 때, 호범이가 친구에게 준 사탕은 전체의 얼마인지 분수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            183,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            40
+          ],
+          "text": "호범이는 사탕 $36$개를 $4$개씩 묶은 다음 그중 몇 묶음을 친구에게 주었습니다. 남은 사탕이 $28$개일 때, 호범이가 친구에게 준 사탕은 전체의 얼마인지 분수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

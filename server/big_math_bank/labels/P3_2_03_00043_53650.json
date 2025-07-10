@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53650.png",
+  "id": "00043_53650",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기가 다른 원 모양의 쿠키 $2$개를 각각 똑같이 반으로 잘랐습니다. 크기가 같은 쿠키끼리 모두 짝지어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            638,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            30,
+            321,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            640,
+            23
+          ],
+          "text": "크기가 다른 원 모양의 쿠키 $2$개를 각각 똑같이 반으로 잘랐습니다. 크기가 같은 쿠키끼리 모두 짝지어 보시오."
+        }
+      ]
+    }
+  ]
+}

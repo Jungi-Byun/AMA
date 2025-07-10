@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00043_53672.png",
+  "id": "00043_53672",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림에서 삼각형 $ㄱㄴㄷ$의 세 변의 합이 $28 cm$일 때, 큰 원의 지름을 알아보시오. ⑴ 변 $ㄱㄴ$의 길이는 몇 $cm$입니까? ⑵ 작은 원의 지름은 몇$ cm$입니까? ⑶ 큰 원의 지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            475,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            146,
+            217,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            168,
+            217,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            190,
+            205,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            30,
+            203,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            477,
+            22
+          ],
+          "text": "그림에서 삼각형 $ㄱㄴㄷ$의 세 변의 합이 $28 cm$일 때, 큰 원의 지름을 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            145,
+            219,
+            208
+          ],
+          "text": "⑴ 변 $ㄱㄴ$의 길이는 몇 $cm$입니까? ⑵ 작은 원의 지름은 몇$ cm$입니까? ⑶ 큰 원의 지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

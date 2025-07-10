@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00043_52201.png",
+  "id": "00043_52201",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204001",
+      "question_topic_name": "수직 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형에서 서로 수직인 두 선분은 무엇입니까?  ① 선분 $ㄱㄴ$과 선분 $ㄹㄷ$ ② 선분 $ㄴㄷ$과 선분 $ㄱㄹ$ ③ 선분 $ㄴㄹ$과 선분 $ㄱㄷ$ ④ 선분 $ㄷㄹ$과 선분 $ㄱㄹ$ ⑤ 선분 $ㄹㄱ$과 선분 $ㄱㄴ$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            150,
+            169,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            172,
+            169,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            194,
+            169,
+            214
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            216,
+            169,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            238,
+            169,
+            258
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            38,
+            164,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.67,
+            1.28,
+            303.34,
+            16.64
+          ],
+          "text": "다음 도형에서 서로 수직인 두 선분은 무엇입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.67,
+            149.25,
+            169.71,
+            257.28
+          ],
+          "text": "① 선분 $ㄱㄴ$과 선분 $ㄹㄷ$ ② 선분 $ㄴㄷ$과 선분 $ㄱㄹ$ ③ 선분 $ㄴㄹ$과 선분 $ㄱㄷ$ ④ 선분 $ㄷㄹ$과 선분 $ㄱㄹ$ ⑤ 선분 $ㄹㄱ$과 선분 $ㄱㄴ$"
+        }
+      ]
+    }
+  ]
+}

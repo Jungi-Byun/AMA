@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_05_00043_00429.png",
+  "id": "00043_00429",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 긴 직사각형을 점선으로 가로로 12등분하고, 좌측에서 여섯 번째 사각형의 우측변은 실선이고, 좌측부터 보라색으로 색칠된 첫 번째에서 세 번째 사각형까지의 위쪽에는 30초, 연두색으로 색칠된 네 번째에서 여덟 번째 사각형까지의 위쪽에는 50초가 있고, 좌측 첫 번째부터 여섯 번째 사각형까지의 밑에는 빈칸 네모로 분이 있는 그림",
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $30$ 초$+ 50$ 초 $ =\\square $ 분 $ \\square $ 초",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            274,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            110,
+            245,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            27,
+            271,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.64,
+            2.23,
+            274.56,
+            15.67
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.28,
+            107.57,
+            246.4,
+            131.25
+          ],
+          "text": "$30$ 초$+ 50$ 초 $ =\\square $ 분 $ \\square $ 초"
+        }
+      ]
+    }
+  ]
+}

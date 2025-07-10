@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00042_93266.png",
+  "id": "00042_93266",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 바르게 계산한 것은 어느 것입니까? ①$ 4 \\mathrm{~L}+3 \\mathrm{~L} 600 \\mathrm{~mL}=3 \\mathrm{~L} 604 \\mathrm{~mL} $ ②$ 2 \\mathrm{~L} 500 \\mathrm{~mL}+1 \\mathrm{~L} 800 \\mathrm{~mL}=5 \\mathrm{~L} 300 \\mathrm{~mL} $ ③$ 5 \\mathrm{~L} 20 \\mathrm{~mL}+3 \\mathrm{~L} 90 \\mathrm{~mL}=9 \\mathrm{~L} 10 \\mathrm{~mL} $ ④$ 6 \\mathrm{~L} 700 \\mathrm{~mL}+40 \\mathrm{~mL}=6 \\mathrm{~L} 740 \\mathrm{~mL} $ ⑤$ 4 \\mathrm{~L} 600 \\mathrm{~mL}+2 \\mathrm{~L} 900 \\mathrm{~mL}=6 \\mathrm{~L} 500 \\mathrm{~mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            266,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            208,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            251,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            224,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            224,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            255,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            268,
+            129
+          ],
+          "text": "다음 중 바르게 계산한 것은 어느 것입니까? ①$ 4 \\mathrm{~L}+3 \\mathrm{~L} 600 \\mathrm{~mL}=3 \\mathrm{~L} 604 \\mathrm{~mL} $ ②$ 2 \\mathrm{~L} 500 \\mathrm{~mL}+1 \\mathrm{~L} 800 \\mathrm{~mL}=5 \\mathrm{~L} 300 \\mathrm{~mL} $ ③$ 5 \\mathrm{~L} 20 \\mathrm{~mL}+3 \\mathrm{~L} 90 \\mathrm{~mL}=9 \\mathrm{~L} 10 \\mathrm{~mL} $ ④$ 6 \\mathrm{~L} 700 \\mathrm{~mL}+40 \\mathrm{~mL}=6 \\mathrm{~L} 740 \\mathrm{~mL} $ ⑤$ 4 \\mathrm{~L} 600 \\mathrm{~mL}+2 \\mathrm{~L} 900 \\mathrm{~mL}=6 \\mathrm{~L} 500 \\mathrm{~mL} $"
+        }
+      ]
+    }
+  ]
+}

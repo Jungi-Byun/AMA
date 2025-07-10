@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_01_00042_27608.png",
+  "id": "00042_27608",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101005",
+      "question_topic_name": "천만 단위 수의 각 자리의 숫자와 나타내는 값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수에서 ① 이 나타내는 수는 ② 가 나타내는 수의 몇 배입니까? $6\\underset{①}{\\underline{4}}83\\underset{②}{\\underline{4}}105$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            370,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            97,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            372,
+            53
+          ],
+          "text": "수에서 ① 이 나타내는 수는 ② 가 나타내는 수의 몇 배입니까? $6\\underset{①}{\\underline{4}}83\\underset{②}{\\underline{4}}105$"
+        }
+      ]
+    }
+  ]
+}

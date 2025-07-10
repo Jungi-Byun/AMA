@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00042_26302.png",
+  "id": "00042_26302",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물음에 답하시오.(1) $ \\frac{7}{13} $ 은 $ \\frac{1}{13} $의 몇 배입니까?(2) $ \\frac{9}{15} $ 는 $ \\frac{1}{15} $의 몇 배입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            116,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            206,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            209,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            211,
+            100
+          ],
+          "text": "물음에 답하시오.(1) $ \\frac{7}{13} $ 은 $ \\frac{1}{13} $의 몇 배입니까?(2) $ \\frac{9}{15} $ 는 $ \\frac{1}{15} $의 몇 배입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20460.png",
+  "id": "00050_20460",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1.2t$까지 실을 수 있는 화물 트럭이 있습니다. 이 트럭에 몸무게가 $65kg$인 어른 $2$명이 타고 있습니다. 여기에 한 상자의 무게가 $14kg$인 상자를 몇 개까지 더 실을 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            215,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "$1.2t$까지 실을 수 있는 화물 트럭이 있습니다. 이 트럭에 몸무게가 $65kg$인 어른 $2$명이 타고 있습니다. 여기에 한 상자의 무게가 $14kg$인 상자를 몇 개까지 더 실을 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

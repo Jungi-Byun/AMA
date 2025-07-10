@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_06_00043_47467.png",
+  "id": "00043_47467",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민영이와 동호가 수 카드로 규칙 알아맞히기 놀이를 하고 있습니다. 민영이가 $3$을 내면 동호가 $9$라고 답하고, 민영이가 $5$를 내면 동호는 $11$이라고 답합니다. 또 민영이가 $9$를 내면 $15$라고 답합니다. 물음에 답하시오. ⑴ 동호의 규칙을 쓰시오.⑵ 민영이가 $15$를 내면 동호는 어떤 수를 답하겠습니까? ⑶ 동호가 $24$라고 답했다면, 민영이는 어떤 수를 내어 놓았겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            798,
+            23
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            482,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            52,
+            162,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            72,
+            353,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            100,
+            407,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            118
+          ],
+          "text": "민영이와 동호가 수 카드로 규칙 알아맞히기 놀이를 하고 있습니다. 민영이가 $3$을 내면 동호가 $9$라고 답하고, 민영이가 $5$를 내면 동호는 $11$이라고 답합니다. 또 민영이가 $9$를 내면 $15$라고 답합니다. 물음에 답하시오. ⑴ 동호의 규칙을 쓰시오.⑵ 민영이가 $15$를 내면 동호는 어떤 수를 답하겠습니까? ⑶ 동호가 $24$라고 답했다면, 민영이는 어떤 수를 내어 놓았겠습니까?"
+        }
+      ]
+    }
+  ]
+}

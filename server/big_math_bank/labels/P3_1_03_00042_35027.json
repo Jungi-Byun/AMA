@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_1_03_00042_35027.png",
+  "id": "00042_35027",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림은 여러 개의 타일을 붙여 놓은 것입니다. 물음에 답하시오. (1) 타일의 개수를 곱셈식으로 나타내어 보시오.  $ 6 \\times \\square=18 $ (2) $\\square$ 안에 알맞은 수를 써넣으시오. $ 6 \\times 3=18  \\begin{array}{l}↗18 \\div 6=\\square \\\\  ↘ 18 \\div 3=\\square\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            404,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            85,
+            286,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            108,
+            105,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            132,
+            225,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            113,
+            154,
+            217,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            171,
+            98,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            113,
+            180,
+            217,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            151,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            406,
+            22
+          ],
+          "text": "다음 그림은 여러 개의 타일을 붙여 놓은 것입니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            87,
+            288,
+            202
+          ],
+          "text": "(1) 타일의 개수를 곱셈식으로 나타내어 보시오.  $ 6 \\times \\square=18 $ (2) $\\square$ 안에 알맞은 수를 써넣으시오. $ 6 \\times 3=18  \\begin{array}{l}↗18 \\div 6=\\square \\\\  ↘ 18 \\div 3=\\square\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

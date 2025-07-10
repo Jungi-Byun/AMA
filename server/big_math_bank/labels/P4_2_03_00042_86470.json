@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00042_86470.png",
+  "id": "00042_86470",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숫자 $6$이 나타내는 수가 가장 작은 것은 어느 것입니까? ①$1$ 이 $4$개, $0.01$ 이 $6$ 개, $0.001$ 이 $8$ 개인 수 ②$1$ 이 $6$개, $0.01$ 이 $8$ 개, $0.001$ 이 $12$ 개인 수 ③$0.1$이 $6$개, $0.01$이 $3$개, $0.001$이 $9$개인 수 ④$10$이 $2$개, $0.01$이 $16$개, $0.001$이 $5$개인 수 ⑤$0.1$이 $7$개, $0.001$이 $26$개인 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            333,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            269,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            265,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            281,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            282,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            217,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            335,
+            130
+          ],
+          "text": "숫자 $6$이 나타내는 수가 가장 작은 것은 어느 것입니까? ①$1$ 이 $4$개, $0.01$ 이 $6$ 개, $0.001$ 이 $8$ 개인 수 ②$1$ 이 $6$개, $0.01$ 이 $8$ 개, $0.001$ 이 $12$ 개인 수 ③$0.1$이 $6$개, $0.01$이 $3$개, $0.001$이 $9$개인 수 ④$10$이 $2$개, $0.01$이 $16$개, $0.001$이 $5$개인 수 ⑤$0.1$이 $7$개, $0.001$이 $26$개인 수"
+        }
+      ]
+    }
+  ]
+}

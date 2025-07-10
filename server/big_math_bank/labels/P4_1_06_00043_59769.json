@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_06_00043_59769.png",
+  "id": "00043_59769",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수영이가 $3$이라고 말하면 준후는 8이라고 답하고, 수영이가 $5$라고 말하면 준후는 $14$라고 답합니다. 또, 수영이가 $6$이라고 말하면 준후는 $17$이라고 답합니다. 수영이가 $4$라고 말하면 준후가 $\\blacksquare$라고 답할 때, 수영이가 다시 $\\blacksquare$라고 하면 준후는 몇이라고 답하겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            722,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "수영이가 $3$이라고 말하면 준후는 8이라고 답하고, 수영이가 $5$라고 말하면 준후는 $14$라고 답합니다. 또, 수영이가 $6$이라고 말하면 준후는 $17$이라고 답합니다. 수영이가 $4$라고 말하면 준후가 $\\blacksquare$라고 답할 때, 수영이가 다시 $\\blacksquare$라고 하면 준후는 몇이라고 답하겠습니까?"
+        }
+      ]
+    }
+  ]
+}

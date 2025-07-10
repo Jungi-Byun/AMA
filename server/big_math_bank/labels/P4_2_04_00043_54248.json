@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_04_00043_54248.png",
+  "id": "00043_54248",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204017",
+      "question_topic_name": "마름모의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "마름모 ㄱㄴㅁㅂ이 있고 마름모의 한 변 ㄴㅁ을 공통으로 가지고 있으며 겹치지 않는 평행사변형 ㄴㄷㄹㅁ이 있고 변 ㄴㅁ보다 긴 변 ㅁㄹ의 길이가 18 cm인 도형",
+      "question_text": "도형은 네 변의 길이의 합이 $ 60 \\mathrm{~cm} $인 평행사변형 ㄴㄷㄹㅁ과 마름모 ㄱㄴㅁㅂ을 겹치지 않게 붙인 것입니다. 이 도형의 여섯 변의 길이의 합은 몇 $\\mathrm{~cm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            792,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            130,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            51,
+            155,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            41
+          ],
+          "text": "도형은 네 변의 길이의 합이 $ 60 \\mathrm{~cm} $인 평행사변형 ㄴㄷㄹㅁ과 마름모 ㄱㄴㅁㅂ을 겹치지 않게 붙인 것입니다. 이 도형의 여섯 변의 길이의 합은 몇 $\\mathrm{~cm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

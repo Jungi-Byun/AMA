@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00042_53285.png",
+  "id": "00042_53285",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지름에 대한 설명으로 틀린 것은 어느 것입니까? ①지름은 반지름의 $2$배입니다. ②한 원에서 지름은 길이가 모두 같습니다. ③한 원에서 지름은 $1$개만 그릴 수 있습니다. ④원 안에서 그을 수 있는 가장 긴 선분입니다. ⑤지름은 반드시 원의 중심을 지납니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            292,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            202,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            270,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            279,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            290,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            253,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            294,
+            130
+          ],
+          "text": "지름에 대한 설명으로 틀린 것은 어느 것입니까? ①지름은 반지름의 $2$배입니다. ②한 원에서 지름은 길이가 모두 같습니다. ③한 원에서 지름은 $1$개만 그릴 수 있습니다. ④원 안에서 그을 수 있는 가장 긴 선분입니다. ⑤지름은 반드시 원의 중심을 지납니다."
+        }
+      ]
+    }
+  ]
+}

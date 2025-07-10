@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00042_03341.png",
+  "id": "00042_03341",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어머니께서 피자 한 판을 만들어 주셨습니다. 경인이는 전체의 $ \\frac{3}{6} $을 먹고, 동생은 전체의 $ \\frac{2}{6} $를 먹었습니다. 먹고 남은 피자의 양은 전체의 몇 분의 몇인지 그림으로 그려 답을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            41,
+            275,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            61,
+            117,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            59
+          ],
+          "text": "어머니께서 피자 한 판을 만들어 주셨습니다. 경인이는 전체의 $ \\frac{3}{6} $을 먹고, 동생은 전체의 $ \\frac{2}{6} $를 먹었습니다. 먹고 남은 피자의 양은 전체의 몇 분의 몇인지 그림으로 그려 답을 구하시오."
+        }
+      ]
+    }
+  ]
+}

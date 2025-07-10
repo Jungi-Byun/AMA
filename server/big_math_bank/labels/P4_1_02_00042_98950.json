@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_98950.png",
+  "id": "00042_98950",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "각 ㄷ이 직각이며 각 ㄴ에 각 표시가 있는 직각삼각형 ㄱㄴㄷ에서 변 ㄱㄴ과 ㄴㄷ위에 각각 점 ㄹ, ㅁ이 있고, 각 ㄱㄹㅁ이 95도, 각 ㄷㅁㄹ이 105도인 평면도형",
+      "question_text": "각 ㄱㄴㄷ의 크기는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            194,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            206,
+            23
+          ],
+          "text": "각 ㄱㄴㄷ의 크기는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

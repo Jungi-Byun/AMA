@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00043_57968.png",
+  "id": "00043_57968",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "주스와 우유 중에서 어느 것이 더 무거운지 알아보시오. (1) 주스의 무게는 몇 $g$입니까? (2) 우유의 무게는 몇 $g$입니까? (3) 주스와 우유 중에서 어느 것이 더 무겁습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            329,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            360,
+            192,
+            377
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            382,
+            194,
+            399
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            404,
+            300,
+            421
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            24,
+            292,
+            352
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.79,
+            0.6,
+            329.83,
+            16.6
+          ],
+          "text": "주스와 우유 중에서 어느 것이 더 무거운지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.87,
+            359.69,
+            299.75,
+            419.85
+          ],
+          "text": "(1) 주스의 무게는 몇 $g$입니까? (2) 우유의 무게는 몇 $g$입니까? (3) 주스와 우유 중에서 어느 것이 더 무겁습니까?"
+        }
+      ]
+    }
+  ]
+}

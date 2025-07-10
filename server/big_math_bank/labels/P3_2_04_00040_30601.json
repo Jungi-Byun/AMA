@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00040_30601.png",
+  "id": "00040_30601",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 개수가 무수히 많은 분수는 어느 것입니까? ①분자가 $5$인 가분수 ②분모가 $8$인 진분수 ③분자가 $4$인 진분수 ④$2$보다 작고 분모가 $3$인 대분수 ⑤자연수가 $4$이고 분모가 $6$인 대분수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            308,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            149,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            150,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            150,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            216,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            242,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            310,
+            130
+          ],
+          "text": "다음 중 개수가 무수히 많은 분수는 어느 것입니까? ①분자가 $5$인 가분수 ②분모가 $8$인 진분수 ③분자가 $4$인 진분수 ④$2$보다 작고 분모가 $3$인 대분수 ⑤자연수가 $4$이고 분모가 $6$인 대분수"
+        }
+      ]
+    }
+  ]
+}

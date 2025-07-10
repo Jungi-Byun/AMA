@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_02_00042_28520.png",
+  "id": "00042_28520",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202002",
+      "question_topic_name": "이등변삼각형 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "삼각형의 세 변의 길이를 나타낸 것입니다. 이등변삼각형은 어느 것입니까? ①$3$cm, $4$cm, $5$cm ②$4$cm, $6$cm, $3$cm ③$5$cm, $8$cm, $9$cm ④$7$cm, $9$cm, $7$cm ⑤$6$cm, $7$cm, $8$cm",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            442,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            137,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            138,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            138,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            137,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            138,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            444,
+            130
+          ],
+          "text": "삼각형의 세 변의 길이를 나타낸 것입니다. 이등변삼각형은 어느 것입니까? ①$3$cm, $4$cm, $5$cm ②$4$cm, $6$cm, $3$cm ③$5$cm, $8$cm, $9$cm ④$7$cm, $9$cm, $7$cm ⑤$6$cm, $7$cm, $8$cm"
+        }
+      ]
+    }
+  ]
+}

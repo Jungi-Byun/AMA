@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00042_92181.png",
+  "id": "00042_92181",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204021",
+      "question_topic_name": "직사각형과 정사각형의 성질 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형의 이름으로 볼 수 있는 것에 모두 $\\bigcirc$표 하시오.   정사각형 직각삼각형 직사각형 평행사변형 마름모 사다리꼴",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            308,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            109,
+            257,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            144,
+            259,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            26,
+            154,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            310,
+            22
+          ],
+          "text": "도형의 이름으로 볼 수 있는 것에 모두 $\\bigcirc$표 하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            26.72,
+            116.44,
+            254.72,
+            158.44
+          ],
+          "text": "정사각형 직각삼각형 직사각형 평행사변형 마름모 사다리꼴"
+        }
+      ]
+    }
+  ]
+}

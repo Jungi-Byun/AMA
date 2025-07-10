@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00043_55614.png",
+  "id": "00043_55614",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분모가 $6$인 가분수를 만들려고 합니다. 물음에 답하시오. ($1$) 분자가 될 수 있는 수에 모두 $\\bigcirc$표 하시오. $3 5 6 7$ ($2$) 위 ($1$)의 답을 분자로 하여 분모가 $6$인 가분수를 만들어 보시오.  $\\frac{\\square}{6},\\frac{\\square}{6}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            337,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            272,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            149,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            393,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            65,
+            104,
+            194,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            395,
+            145
+          ],
+          "text": "분모가 $6$인 가분수를 만들려고 합니다. 물음에 답하시오. ($1$) 분자가 될 수 있는 수에 모두 $\\bigcirc$표 하시오. $3 5 6 7$ ($2$) 위 ($1$)의 답을 분자로 하여 분모가 $6$인 가분수를 만들어 보시오.  $\\frac{\\square}{6},\\frac{\\square}{6}$"
+        }
+      ]
+    }
+  ]
+}

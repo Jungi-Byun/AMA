@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_31021.png",
+  "id": "00042_31021",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102011",
+      "question_topic_name": "각도의 합 또는 차의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 직선 위의 한 교점에서 만나는 다른 두 반직선으로 평각을 나눴을 때 각도의 크기가 왼쪽부터 ㄴ, 50도, ㄱ으로 나뉘며, 두 번째와 세 번째 각을 합쳐 130도인 평면도형",
+      "question_text": "각 ㉠과 ㉡의 크기의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            220,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            48,
+            20,
+            145,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            222,
+            21
+          ],
+          "text": "각 ㉠과 ㉡의 크기의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_01_00043_49386.png",
+  "id": "00043_49386",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수는 어느 것입니까?  ① $8$ ② $10$ ③ $24$ ④ $240$ ⑤ $2400$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            224,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            36,
+            170,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            53,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            59,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            153,
+            61,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            175,
+            69,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            197,
+            79,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            226,
+            218
+          ],
+          "text": "$\\square$ 안에 알맞은 수는 어느 것입니까?  ① $8$ ② $10$ ③ $24$ ④ $240$ ⑤ $2400$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53655.png",
+  "id": "00043_53655",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "같은 크기의 세 원이 첫 번째 원의 오른쪽 끝, 두 번째 원의 중심, 세 번째 원의 왼쪽 끝이 한 점에서 모이는 형태로 일렬로 배치되어 있고, 첫 번째와 세 번째 원에 원의 반지름을 지름으로 하는 원 문자 ㄱ, ㄴ이 왼쪽 끝과 오른쪽 끝에 있으며, 변 ㄱㄴ이 모든 원의 중심을 잇는 변이 되는 평면도형",
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. 선분 $ㄱㄴ$의 길이 $\\Rightarrow \\square  cm$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            147,
+            244,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            34,
+            233,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.68,
+            0.62,
+            206.86,
+            18.82
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.3,
+            147.05,
+            244.85,
+            166.84
+          ],
+          "text": "선분 $ㄱㄴ$의 길이 $\\Rightarrow \\square  cm$"
+        }
+      ]
+    }
+  ]
+}

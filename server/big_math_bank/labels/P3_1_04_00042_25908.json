@@ -1,0 +1,209 @@
+{
+  "question_filename": "P3_1_04_00042_25908.png",
+  "id": "00042_25908",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1) $ 28 \\times 3-\\left[\\begin{array}{c}20 \\times 3=\\square \\\\ 8 \\times 3=\\square\\end{array}\\right]-\\square $ (2) $ 17 \\times 3-\\left[\\begin{array}{l}10 \\times 3=\\square \\\\ 7 \\times 3=\\square\\end{array}\\right]-\\square $ (3) $ 25 \\times 3-\\left[\\begin{array}{r}20 \\times 3=\\square \\\\ 5 \\times 3=\\square\\end{array}\\right]-\\square $ (4) $ 26 \\times 2-\\left[\\begin{array}{r}20 \\times 2=\\square \\\\ 6 \\times 2=\\square\\end{array}\\right]-\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92,
+            23,
+            181,
+            51
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            87,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            188,
+            39,
+            235,
+            65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            93,
+            55,
+            184,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            94,
+            87,
+            179,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            106,
+            89,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            188,
+            103,
+            233,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            93,
+            119,
+            180,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            94,
+            151,
+            187,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            171,
+            90,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            187,
+            167,
+            237,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            107,
+            183,
+            184,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            100,
+            216,
+            186,
+            243
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            233,
+            91,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            190,
+            231,
+            240,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            109,
+            247,
+            186,
+            274
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            242,
+            275
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1) $ 28 \\times 3-\\left[\\begin{array}{c}20 \\times 3=\\square \\\\ 8 \\times 3=\\square\\end{array}\\right]-\\square $ (2) $ 17 \\times 3-\\left[\\begin{array}{l}10 \\times 3=\\square \\\\ 7 \\times 3=\\square\\end{array}\\right]-\\square $ (3) $ 25 \\times 3-\\left[\\begin{array}{r}20 \\times 3=\\square \\\\ 5 \\times 3=\\square\\end{array}\\right]-\\square $ (4) $ 26 \\times 2-\\left[\\begin{array}{r}20 \\times 2=\\square \\\\ 6 \\times 2=\\square\\end{array}\\right]-\\square $"
+        }
+      ]
+    }
+  ]
+}

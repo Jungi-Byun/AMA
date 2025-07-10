@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55313.png",
+  "id": "00043_55313",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다현이네 반 학생들이 좋아하는 색깔을 조사하여 그래프로 나타낸 것입니다. $㉮$와 $㉯ $중 더 큰 분수는 어느 것입니까?(단, $\\bigcirc$는 남학생, $\\triangle$는 여학생을 나타냅니다.) $㉮ $: 파란색을 좋아하는 남학생이 전체 남학생의 얼마인지 나타낸 분수 $㉯ $: 노란색을 좋아하는 여학생이 전체 여학생의 얼마인지 나타낸 분수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            147,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.17,
+            253,
+            422.17,
+            273
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.17,
+            275,
+            423.17,
+            294
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            52,
+            274,
+            237
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "다현이네 반 학생들이 좋아하는 색깔을 조사하여 그래프로 나타낸 것입니다. $㉮$와 $㉯ $중 더 큰 분수는 어느 것입니까?(단, $\\bigcirc$는 남학생, $\\triangle$는 여학생을 나타냅니다.)"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            23.17,
+            253,
+            424.17,
+            295
+          ],
+          "text": "$㉮ $: 파란색을 좋아하는 남학생이 전체 남학생의 얼마인지 나타낸 분수 $㉯ $: 노란색을 좋아하는 여학생이 전체 여학생의 얼마인지 나타낸 분수"
+        }
+      ]
+    }
+  ]
+}

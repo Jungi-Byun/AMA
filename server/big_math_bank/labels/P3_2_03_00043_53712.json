@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_03_00043_53712.png",
+  "id": "00043_53712",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "지름이 20 cm인 원의 지름과 교점이 생기도록 그은 현의 길이가 15 cm인 도형",
+      "question_text": "주어진 원과 크기가 같은 원을 모두 찾아 기호를 쓰시오.  ㉠ 지름이  $ 15 \\mathrm{~cm}  $ 인 원 ㉡ 반지름이 $ 10 \\mathrm{~mm}  $ 인 원 ㉢ 지름이 $ 200 \\mathrm{~mm}  $ 인 원 ㉣ 반지름이 $ 10\\mathrm{~cm}  $ 인 원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            333,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            136,
+            153,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            164,
+            173,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            185,
+            172,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            208,
+            170,
+            234
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            125,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            0,
+            335.1,
+            17.9
+          ],
+          "text": "주어진 원과 크기가 같은 원을 모두 찾아 기호를 쓰시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.1,
+            135.9,
+            172.1,
+            225.9
+          ],
+          "text": "㉠ 지름이  $ 15 \\mathrm{~cm}  $ 인 원 ㉡ 반지름이 $ 10 \\mathrm{~mm}  $ 인 원 ㉢ 지름이 $ 200 \\mathrm{~mm}  $ 인 원 ㉣ 반지름이 $ 10\\mathrm{~cm}  $ 인 원"
+        }
+      ]
+    }
+  ]
+}

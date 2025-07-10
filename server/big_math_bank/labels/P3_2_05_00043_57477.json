@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00043_57477.png",
+  "id": "00043_57477",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "주전자에 물을 가득 담았더니 $ 6200 \\mathrm{~mL} $가 되었습니다. 주전자의 들이는 몇 $ \\mathrm{~L} $ 몇$ \\mathrm{~mL} $입니까?  ① $ 6 \\mathrm{~L}  2 \\mathrm{~mL} $  ② $ 62 \\mathrm{~L} $  ③ $ 60 \\mathrm{~L}  2 \\mathrm{~mL} $ ④ $ 6 \\mathrm{~L}  20 \\mathrm{~mL} $ ⑤ $ 6 \\mathrm{~L}  200 \\mathrm{~mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            534,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            91,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            68,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            101,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            101,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            110,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            536,
+            130
+          ],
+          "text": "주전자에 물을 가득 담았더니 $ 6200 \\mathrm{~mL} $가 되었습니다. 주전자의 들이는 몇 $ \\mathrm{~L} $ 몇$ \\mathrm{~mL} $입니까?  ① $ 6 \\mathrm{~L}  2 \\mathrm{~mL} $  ② $ 62 \\mathrm{~L} $  ③ $ 60 \\mathrm{~L}  2 \\mathrm{~mL} $ ④ $ 6 \\mathrm{~L}  20 \\mathrm{~mL} $ ⑤ $ 6 \\mathrm{~L}  200 \\mathrm{~mL} $"
+        }
+      ]
+    }
+  ]
+}

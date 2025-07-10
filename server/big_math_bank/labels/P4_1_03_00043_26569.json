@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_03_00043_26569.png",
+  "id": "00043_26569",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103001",
+      "question_topic_name": "세 자리 수와 몇십 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈을 하시오. (1) $ \\begin{array}{r}90 \\\\ \\times  500 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}800 \\\\ \\times  30 \\\\ \\hline\\end{array} $(3) $ 30 \\times 700 $ (4) $ 600 \\times 50 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            94,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            148,
+            23,
+            219,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            113,
+            215,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            221,
+            131
+          ],
+          "text": "곱셈을 하시오. (1) $ \\begin{array}{r}90 \\\\ \\times  500 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}800 \\\\ \\times  30 \\\\ \\hline\\end{array} $(3) $ 30 \\times 700 $ (4) $ 600 \\times 50 $"
+        }
+      ]
+    }
+  ]
+}

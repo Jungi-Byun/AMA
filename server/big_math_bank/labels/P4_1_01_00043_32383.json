@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_1_01_00043_32383.png",
+  "id": "00043_32383",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101001",
+      "question_topic_name": "1000이 10개인 수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민지 어머니께서는 주전자를 사는 데 $1000$원짜리 지폐 $10$장을 냈습니다. 주전자 가격은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            590,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            592,
+            21
+          ],
+          "text": "민지 어머니께서는 주전자를 사는 데 $1000$원짜리 지폐 $10$장을 냈습니다. 주전자 가격은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

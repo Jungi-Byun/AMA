@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_06_00043_41686.png",
+  "id": "00043_41686",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "카드에 그림과 같이 장식을 하고 있습니다. $\\heartsuit$가 $50$개, $\\diamondsuit$가 $35$개이면 만들 수 있는 카드는 몇 장인지 알아보시오. ⑴ $\\heartsuit$가 $50$개이면 카드를 몇 장까지 만들 수 있습니까?⑵ $\\diamondsuit$가 $35$개이면 카드를 몇 장까지 만들 수 있습니까?⑶ $\\heartsuit$가 $50$개, $\\diamondsuit$가 $35$개이면 카드를 몇 장까지 만들 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19.9,
+            0.44,
+            672.7,
+            18.36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.98,
+            175.16,
+            334.78,
+            193.72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.98,
+            194.36,
+            336.7,
+            218.04
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.98,
+            218.04,
+            407.1,
+            237.88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            24,
+            291,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.54,
+            1.36,
+            672.7,
+            19.92
+          ],
+          "text": "카드에 그림과 같이 장식을 하고 있습니다. $\\heartsuit$가 $50$개, $\\diamondsuit$가 $35$개이면 만들 수 있는 카드는 몇 장인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.34,
+            175.8,
+            408.38,
+            239.16
+          ],
+          "text": "⑴ $\\heartsuit$가 $50$개이면 카드를 몇 장까지 만들 수 있습니까?⑵ $\\diamondsuit$가 $35$개이면 카드를 몇 장까지 만들 수 있습니까?⑶ $\\heartsuit$가 $50$개, $\\diamondsuit$가 $35$개이면 카드를 몇 장까지 만들 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

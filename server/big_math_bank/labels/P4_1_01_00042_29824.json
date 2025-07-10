@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00042_29824.png",
+  "id": "00042_29824",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억 단위 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수를 보고 $ \\square $ 안에 알맞은 수를 써넣으시오. $472385417096$ (1) 십억의 자리 숫자는 $ \\square $이고 $\\boxed{\\phantom{1234}}$을 나타냅니다.(2) 천억의 자리 숫자는 $ \\square $이고 $\\boxed{\\phantom{1234}}$을 나타냅니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            262,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            136,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            378,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            85,
+            381,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            403,
+            107
+          ],
+          "text": "수를 보고 $ \\square $ 안에 알맞은 수를 써넣으시오. $472385417096$ (1) 십억의 자리 숫자는 $ \\square $이고 $\\boxed{\\phantom{1234}}$을 나타냅니다.(2) 천억의 자리 숫자는 $ \\square $이고 $\\boxed{\\phantom{1234}}$을 나타냅니다."
+        }
+      ]
+    }
+  ]
+}

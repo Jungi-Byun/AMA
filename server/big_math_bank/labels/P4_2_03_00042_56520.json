@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00042_56520.png",
+  "id": "00042_56520",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 선분 위에 집, 놀이터, 학원, 역이 차례대로 있고, 집과 역이 각각 선분의 끝에 위치할 때, 집과 학원의 거리는 1.25 km이고, 놀이터와 역의 거리는 0.96 km인 그림",
+      "question_text": "집에서 역까지의 거리가 $ 1.537 \\mathrm{~km} $일 때, 놀이터에서 학원까지의 거리는 몇 $\\mathrm{~km}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            501,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            24,
+            319,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            502,
+            20
+          ],
+          "text": "집에서 역까지의 거리가 $ 1.537 \\mathrm{~km} $일 때, 놀이터에서 학원까지의 거리는 몇 $\\mathrm{~km}$입니까?"
+        }
+      ]
+    }
+  ]
+}

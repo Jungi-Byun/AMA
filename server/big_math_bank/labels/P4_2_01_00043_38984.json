@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38984.png",
+  "id": "00043_38984",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201016",
+      "question_topic_name": "받아내림이 있는 (대분수)-(대분수)_대분수를 가분수로 바꾸기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지영이와 민수가 $ \\frac{9}{11}-\\frac{2}{11} $와 $ 3 \\frac{1}{4}-1 \\frac{3}{4} $을 계산하는 방법을 설명하고 있습니다. $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            680,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            46,
+            322,
+            336
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            682,
+            37
+          ],
+          "text": "지영이와 민수가 $ \\frac{9}{11}-\\frac{2}{11} $와 $ 3 \\frac{1}{4}-1 \\frac{3}{4} $을 계산하는 방법을 설명하고 있습니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00042_92176.png",
+  "id": "00042_92176",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204019",
+      "question_topic_name": "직사각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형 모양의 종이를 대각선 ㄱㄷ을 접는 선으로 점 ㄹ을 아래로 접어 내린 모양이고, 점 ㄹ을 접어내린 점이 ㅂ이고 선분 ㄱㅂ과 선분 ㄴㄷ이 만나는 점이 ㅁ, 각 ㄹㄱㄷ은 30도, 각 ㄱㅂㄷ은 직각, 각 ㅁㄷㅂ이 표시되어 있는 도형",
+      "question_text": "그림과 같이 직사각형의 모양의 종이를 접었을 때, 각 ㅁㄷㅂ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            471,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            28,
+            179,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            473,
+            25
+          ],
+          "text": "그림과 같이 직사각형의 모양의 종이를 접었을 때, 각 ㅁㄷㅂ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

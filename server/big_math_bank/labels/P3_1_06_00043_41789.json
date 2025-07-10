@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_41789.png",
+  "id": "00043_41789",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "동기는 가지고 있던 종이테이프의 $\\frac{1}{7}$을 집에서 사용하고, 나머지의 $\\frac{2}{6}$를 학교에서 사용하였습니다. 학교에서 사용하고 남은 종이테이프는 집에서 사용한 종이테이프의 몇 배입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            39,
+            275,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            59
+          ],
+          "text": "동기는 가지고 있던 종이테이프의 $\\frac{1}{7}$을 집에서 사용하고, 나머지의 $\\frac{2}{6}$를 학교에서 사용하였습니다. 학교에서 사용하고 남은 종이테이프는 집에서 사용한 종이테이프의 몇 배입니까?"
+        }
+      ]
+    }
+  ]
+}

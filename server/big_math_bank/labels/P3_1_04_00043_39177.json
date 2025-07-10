@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_04_00043_39177.png",
+  "id": "00043_39177",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소라는 과수원에서 하루에 $35$개씩 감을 땄습니다. 소라가 감을 딴 날은 달력에 $\\bigcirc$ 표시를 하였습니다. 소라가 모두 $350$개의 감을 따려고 했다면 감을 몇 개 더 따야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            203,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            45,
+            138,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "소라는 과수원에서 하루에 $35$개씩 감을 땄습니다. 소라가 감을 딴 날은 달력에 $\\bigcirc$ 표시를 하였습니다. 소라가 모두 $350$개의 감을 따려고 했다면 감을 몇 개 더 따야 합니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_05_00042_24364.png",
+  "id": "00042_24364",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "도서관, 정민이네 집, 학교는 직선 거리로 이어져 있고 도서관에서 정민이네 집까지는 1 km 400 m, 정민이네 집에서 학교까지는 2100 m인 그림",
+      "question_text": "그림을 보고 물음에 답하시오. (1) 정민이네 집에서 학교까지의 거리는 몇 $ km $ 몇 $ m $입니까?(2) 정민이네 집에서 도서관까지의 거리는 몇  $m $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            357,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            333,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            23,
+            285,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.35,
+            2.25,
+            187.42,
+            15.9
+          ],
+          "text": "그림을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.13,
+            82.34,
+            356.49,
+            120.9
+          ],
+          "text": "(1) 정민이네 집에서 학교까지의 거리는 몇 $ km $ 몇 $ m $입니까?(2) 정민이네 집에서 도서관까지의 거리는 몇  $m $입니까?"
+        }
+      ]
+    }
+  ]
+}

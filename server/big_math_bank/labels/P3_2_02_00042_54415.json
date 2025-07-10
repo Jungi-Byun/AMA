@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_02_00042_54415.png",
+  "id": "00042_54415",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같이 주어진 주사위의 눈의 수를 한 번씩만 사용하여 만들 수 있는 가장 큰 두 자리 수를 남은 주사위의 눈의 수로 나눈 몫을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            36,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            41,
+            171,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            39
+          ],
+          "text": "다음과 같이 주어진 주사위의 눈의 수를 한 번씩만 사용하여 만들 수 있는 가장 큰 두 자리 수를 남은 주사위의 눈의 수로 나눈 몫을 구하시오."
+        }
+      ]
+    }
+  ]
+}

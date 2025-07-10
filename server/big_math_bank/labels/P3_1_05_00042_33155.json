@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_05_00042_33155.png",
+  "id": "00042_33155",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 긴 것부터 차례대로 기호를 쓰시오.㉠ $ 5 \\mathrm{~km} ~ 70 \\mathrm{~m} $ ㉡ $5007 \\mathrm{~m}$ ㉢ $ 5170 \\mathrm{~m} $ ㉣ $ 5 \\mathrm{~km} ~  700 \\mathrm{~m} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            255,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            185,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            47,
+            195,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            259,
+            69
+          ],
+          "text": "길이가 긴 것부터 차례대로 기호를 쓰시오.㉠ $ 5 \\mathrm{~km} ~ 70 \\mathrm{~m} $ ㉡ $5007 \\mathrm{~m}$ ㉢ $ 5170 \\mathrm{~m} $ ㉣ $ 5 \\mathrm{~km} ~  700 \\mathrm{~m} $"
+        }
+      ]
+    }
+  ]
+}

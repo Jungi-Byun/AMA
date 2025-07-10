@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_02_00042_28033.png",
+  "id": "00042_28033",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102012",
+      "question_topic_name": "삼각형의 세 각의 크기의 합 구하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "삼각형의 세 각의 크기를 나타낸 것은 어느 것입니까? ①$50°, 60°, 80°$ ②$90°, 60°, 40°$ ③$20°, 130°, 40°$ ④$115°, 35°, 30°$ ⑤$25°, 45°, 105°$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            124,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            125,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            129,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            123,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            125,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            323,
+            129
+          ],
+          "text": "삼각형의 세 각의 크기를 나타낸 것은 어느 것입니까? ①$50°, 60°, 80°$ ②$90°, 60°, 40°$ ③$20°, 130°, 40°$ ④$115°, 35°, 30°$ ⑤$25°, 45°, 105°$"
+        }
+      ]
+    }
+  ]
+}

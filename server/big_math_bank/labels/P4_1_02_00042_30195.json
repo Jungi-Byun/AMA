@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_30195.png",
+  "id": "00042_30195",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "삼각형의 두 각의 크기가 각각 70도, 80도이고, 다른 각의 외각이 표시되어 있고, 빈칸이 그려져 있는 그림",
+      "question_text": "$\\square$ 안에 알맞은 각도를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            216,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            222,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            218,
+            21
+          ],
+          "text": "$\\square$ 안에 알맞은 각도를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

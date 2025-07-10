@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_83858.png",
+  "id": "00042_83858",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102010",
+      "question_topic_name": "직사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "아래 가로, 왼쪽 세로의 길이는 곧은 선으로 각각 22 cm, 20 cm이고, 위쪽 가로, 오른쪽 세로의 길이는 길이가 일정하지 않게 세 개의 계단이 만들어지는 도형",
+      "question_text": "그림에서 도형의 둘레는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            239,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            154,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            241,
+            20
+          ],
+          "text": "그림에서 도형의 둘레는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

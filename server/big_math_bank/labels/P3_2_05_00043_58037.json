@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58037.png",
+  "id": "00043_58037",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바구니에 과일 $2  \\mathrm{~kg} $을 담으려고 합니다. 어림하여 바구니에 과일을 담았을 때 가장 가깝게 담은 사람은 누구입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            665,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            375,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            667,
+            70
+          ],
+          "text": "바구니에 과일 $2  \\mathrm{~kg} $을 담으려고 합니다. 어림하여 바구니에 과일을 담았을 때 가장 가깝게 담은 사람은 누구입니까?"
+        }
+      ]
+    }
+  ]
+}

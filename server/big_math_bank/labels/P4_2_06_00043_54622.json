@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_06_00043_54622.png",
+  "id": "00043_54622",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206003",
+      "question_topic_name": "대각선 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "주어진 선분 중 육각형 ㄱㄴㄷㄹㅁㅅ의 대각선을 모두 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            397,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            25,
+            180,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            399,
+            23
+          ],
+          "text": "주어진 선분 중 육각형 ㄱㄴㄷㄹㅁㅅ의 대각선을 모두 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

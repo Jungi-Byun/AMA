@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20326.png",
+  "id": "00050_20326",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영준이네 마을에는 $450$가구가 살고 있습니다. 한 가구에서 하루에 $200\\mathrm{g}$씩 쓰레기를 배출한다고 합니다. 영준이네 마을에서 $11$월 한 달 동안 배출하는 쓰레기의 양은 몇 $\\mathrm{t}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            242,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            41
+          ],
+          "text": "영준이네 마을에는 $450$가구가 살고 있습니다. 한 가구에서 하루에 $200\\mathrm{g}$씩 쓰레기를 배출한다고 합니다. 영준이네 마을에서 $11$월 한 달 동안 배출하는 쓰레기의 양은 몇 $\\mathrm{t}$입니까?"
+        }
+      ]
+    }
+  ]
+}

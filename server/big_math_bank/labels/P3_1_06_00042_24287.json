@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00042_24287.png",
+  "id": "00042_24287",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "케이크가 한 개 있습니다. 재영이는 케이크의 $ \\frac{1}{7} $을 먹었습니다. 남은 케이크는 먹은 케이크의 몇 배입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            625,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            627,
+            38
+          ],
+          "text": "케이크가 한 개 있습니다. 재영이는 케이크의 $ \\frac{1}{7} $을 먹었습니다. 남은 케이크는 먹은 케이크의 몇 배입니까?"
+        }
+      ]
+    }
+  ]
+}

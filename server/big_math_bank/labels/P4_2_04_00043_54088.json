@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_54088.png",
+  "id": "00043_54088",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204014",
+      "question_topic_name": "평행사변형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "크기와 색깔이 다른 두 직사각형이 사선 방향으로 겹쳐 있고, 겹친 부분은 점선으로 표시 할 때, 두 사각형이 만나는 왼쪽 위의 외각은 120도, 오른쪽 아래 내각의 크기는 원 문자 ㄱ으로 표시한 도형",
+      "question_text": "크기가 다른 직사각형 모양의 종이띠 $2$개를 겹쳤습니다. 각 ㉠은 몇 도인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            496,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            24,
+            149,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            498,
+            22
+          ],
+          "text": "크기가 다른 직사각형 모양의 종이띠 $2$개를 겹쳤습니다. 각 ㉠은 몇 도인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

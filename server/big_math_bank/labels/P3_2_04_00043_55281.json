@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55281.png",
+  "id": "00043_55281",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$3$은 $5$의 몇 분의 몇인지 알아보려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오.  (1) 전체를 똑같이 $5$ 로 나눈 것 중의 $1$ 은 전체의 $ \\frac{\\square}{5} $ 입니다. (2) 전체를 똑같이 $5$ 로 나눈 것 중의 $3$ 은 전체의 $ \\frac{\\square}{5} $ 입니다. (3) $3$ 은 $5$ 의 $ \\frac{\\square}{\\square} $ 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            452,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            359,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            143,
+            364,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            188,
+            164,
+            233
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            33,
+            318,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            454,
+            22
+          ],
+          "text": "$3$은 $5$의 몇 분의 몇인지 알아보려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            97,
+            366,
+            234
+          ],
+          "text": "(1) 전체를 똑같이 $5$ 로 나눈 것 중의 $1$ 은 전체의 $ \\frac{\\square}{5} $ 입니다. (2) 전체를 똑같이 $5$ 로 나눈 것 중의 $3$ 은 전체의 $ \\frac{\\square}{5} $ 입니다. (3) $3$ 은 $5$ 의 $ \\frac{\\square}{\\square} $ 입니다."
+        }
+      ]
+    }
+  ]
+}

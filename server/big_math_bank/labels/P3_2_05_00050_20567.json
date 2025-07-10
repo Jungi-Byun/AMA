@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00050_20567.png",
+  "id": "00050_20567",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민지, 수호, 영은이네 밭에서 캔 당근의 무게의 합이 $19.91t$이고, 세 밭의 넓이의 합은 $25a$입니다. 다음 표에서 영은네 밭에서 $1a$당 캔 당근의 무게는 몇 $kg$입니까? <table border> <caption></caption>   <tbody>     <tr>       <td></td>       <td>$1a$당 캔 당근의 무게</td>       <td>밭의 넓이</td>     </tr>     <tr>       <td>민지네 밭</td>       <td>$0.8t$</td>       <td>$800m^2$</td>     </tr>     <tr>       <td>수호네 밭</td>       <td>$950kg$</td>       <td>$5a$</td>     </tr>     <tr>       <td>영은이네</td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            138,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            285,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            803,
+            158
+          ],
+          "text": "민지, 수호, 영은이네 밭에서 캔 당근의 무게의 합이 $19.91t$이고, 세 밭의 넓이의 합은 $25a$입니다. 다음 표에서 영은네 밭에서 $1a$당 캔 당근의 무게는 몇 $kg$입니까? <table border> <caption></caption>   <tbody>     <tr>       <td></td>       <td>$1a$당 캔 당근의 무게</td>       <td>밭의 넓이</td>     </tr>     <tr>       <td>민지네 밭</td>       <td>$0.8t$</td>       <td>$800m^2$</td>     </tr>     <tr>       <td>수호네 밭</td>       <td>$950kg$</td>       <td>$5a$</td>     </tr>     <tr>       <td>영은이네</td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

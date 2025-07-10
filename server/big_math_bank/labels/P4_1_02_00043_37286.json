@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37286.png",
+  "id": "00043_37286",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102010",
+      "question_topic_name": "두 각도의 차 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽 한 점에서 시작하는 반시계 방향으로 첫 번째, 두 번째, 세 번째 반직선이 있고, 첫 번째 수평한 반직선과 두 번째 반직선과의 각은 15도이고 파란색으로 각 표시를 하며 좌측 방향 화살표로 가리키고 있고, 두 번째 반직선과 세 번째 반직선 사잇각은 70도이고 빨간 곡선 양방향 화살표로 두 반직선을 가리키고 있고, 첫 번째 반직선부터 세 번째 반직선까지 주황색으로 각 표시를 하고 원 문자ㄱ으로 표시한 그림",
+      "question_text": "㉠에 알맞은 각도를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            123,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            189,
+            21
+          ],
+          "text": "㉠에 알맞은 각도를 구하시오."
+        }
+      ]
+    }
+  ]
+}

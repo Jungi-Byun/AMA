@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_03_00043_53721.png",
+  "id": "00043_53721",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "크기가 같은 원 6개가 맨 윗줄에 1개, 둘째 줄에 2개, 맨 아래에 3개가 접하도록 삼각형 모양으로 놓여 있고, 그중심점들을 이은 삼각형",
+      "question_text": "지름의 길이가 $8  cm$인 원 $6$개를 이어 붙여서 다음과 같은 모양을 만들었습니다. 원의 중심을 이어서 만든 삼각형의 세 변의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            50,
+            153,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "지름의 길이가 $8  cm$인 원 $6$개를 이어 붙여서 다음과 같은 모양을 만들었습니다. 원의 중심을 이어서 만든 삼각형의 세 변의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00042_29142.png",
+  "id": "00042_29142",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진분수는 ‘진’, 가분수는 ‘가’라고 쓰시오. (1) $ \\frac{73}{8} $ (2) $ \\frac{4}{9} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            243,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            67,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            65,
+            60,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            245,
+            100
+          ],
+          "text": "진분수는 ‘진’, 가분수는 ‘가’라고 쓰시오. (1) $ \\frac{73}{8} $ (2) $ \\frac{4}{9} $"
+        }
+      ]
+    }
+  ]
+}

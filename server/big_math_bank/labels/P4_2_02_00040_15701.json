@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_02_00040_15701.png",
+  "id": "00040_15701",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202003",
+      "question_topic_name": "이등변삼각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "각 ㄷ이 35도이고 각 ㄴ이 둔각인 노란색의 이등변삼각형 ㄱㄴㄷ에서 변 ㄱㄷ 위에 점 ㄷ에 가까운 점 ㄹ이 있고 각 ㄱㄹㄴ의 각의 크기는 네모인 이등변삼각형 ㄴㄷㄹ",
+      "question_text": "다음 삼각형 $ㄱㄴㄷ$과 삼각형 $ㄹㄴㄷ$은 이등변삼각형입니다. 각 $ㄴㄹㄱ$은 몇 도입니까?  ① $ 35^{\\circ} $ ② $ 60^{\\circ} $ ③ $ 70^{\\circ} $ ④ $ 90^{\\circ} $ ⑤ $ 100^{\\circ} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            509,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            173,
+            65,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            195,
+            67,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            217,
+            66,
+            237
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            239,
+            67,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            261,
+            73,
+            281
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            26,
+            304,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.9,
+            0,
+            510.5,
+            18.5
+          ],
+          "text": "다음 삼각형 $ㄱㄴㄷ$과 삼각형 $ㄹㄴㄷ$은 이등변삼각형입니다. 각 $ㄴㄹㄱ$은 몇 도입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.5,
+            172.1,
+            73.7,
+            281.7
+          ],
+          "text": "① $ 35^{\\circ} $ ② $ 60^{\\circ} $ ③ $ 70^{\\circ} $ ④ $ 90^{\\circ} $ ⑤ $ 100^{\\circ} $"
+        }
+      ]
+    }
+  ]
+}

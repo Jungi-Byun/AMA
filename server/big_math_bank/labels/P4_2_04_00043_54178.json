@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00043_54178.png",
+  "id": "00043_54178",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204017",
+      "question_topic_name": "마름모의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽 변 선분 ㄱㄴ의 길이가 13 cm, 각 ㄴㄷㄹ의 크기가 119도인 마름모 ㄱㄴㄷㄹ",
+      "question_text": "마름모 $ㄱㄴㄷㄹ$을 보고 물음에 답하시오. (1) 변 $ㄱㄹ$은 몇 $cm$입니까?(2) 각 $ㄱㄴㄷ$의 크기는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            254,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            122,
+            177,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            144,
+            229,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            32,
+            161,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            256,
+            20
+          ],
+          "text": "마름모 $ㄱㄴㄷㄹ$을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            120,
+            231,
+            163
+          ],
+          "text": "(1) 변 $ㄱㄹ$은 몇 $cm$입니까?(2) 각 $ㄱㄴㄷ$의 크기는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00043_57959.png",
+  "id": "00043_57959",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 무게 단위의 관계가 틀린 것을 모두 고르시오. ① $2\\mathrm{kg} 100\\mathrm{g}=2100\\mathrm{g}$ ② $4\\mathrm{kg} 50\\mathrm{g}=4050\\mathrm{g}$ ③ $1\\mathrm{kg} 300\\mathrm{g}=1030\\mathrm{g}$ ④ $9600\\mathrm{g}=9\\mathrm{kg} 600\\mathrm{g}$ ⑤ $2007\\mathrm{g}=2\\mathrm{kg} 700\\mathrm{g}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            148,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            144,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            148,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            155,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            152,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            323,
+            130
+          ],
+          "text": "다음 중 무게 단위의 관계가 틀린 것을 모두 고르시오. ① $2\\mathrm{kg} 100\\mathrm{g}=2100\\mathrm{g}$ ② $4\\mathrm{kg} 50\\mathrm{g}=4050\\mathrm{g}$ ③ $1\\mathrm{kg} 300\\mathrm{g}=1030\\mathrm{g}$ ④ $9600\\mathrm{g}=9\\mathrm{kg} 600\\mathrm{g}$ ⑤ $2007\\mathrm{g}=2\\mathrm{kg} 700\\mathrm{g}$"
+        }
+      ]
+    }
+  ]
+}

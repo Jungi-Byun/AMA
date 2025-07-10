@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_06_00043_59157.png",
+  "id": "00043_59157",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은혜네 모둠 학생들이 좋아하는 간식을 조사하여 나타낸 것입니다. 표를 완성하고 은혜네 모둠 학생들이 가장 좋아하는 간식은 무엇인지 쓰시오. <table border> <caption></caption>   <tbody>     <tr>       <td colspan=2></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr>     <tr>       <td colspan=7>은혜 성민 재연 근영 수회 은혁 미란 민호 승아</td>     </tr>     <tr>       <td></td>       <td></td>       <td></td>       <td colspan=3></td>       <td></td>     </tr>     <tr>       <td colspan=7>여준 하영 진호 혜숙 지원 윤서 수민 서진 원실</td>     </tr> </tbody> </table> <table border> <caption>좋아하는 간식별 학생 수</caption>   <tbody>     <tr>       <td>간식</td>       <td>피자</td>       <td>김밥</td>       <td>햄버거</td>       <td>떡볶이</td>       <td>합계</td>     </tr>     <tr>       <td>학생수(명)</td>       <td>$4$</td>       <td>$3$</td>       <td></td>       <td></td>       <td></td>     </tr>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            49,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            47,
+            326,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            184,
+            159,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            205,
+            307,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            254
+          ],
+          "text": "은혜네 모둠 학생들이 좋아하는 간식을 조사하여 나타낸 것입니다. 표를 완성하고 은혜네 모둠 학생들이 가장 좋아하는 간식은 무엇인지 쓰시오. <table border> <caption></caption>   <tbody>     <tr>       <td colspan=2></td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr>     <tr>       <td colspan=7>은혜 성민 재연 근영 수회 은혁 미란 민호 승아</td>     </tr>     <tr>       <td></td>       <td></td>       <td></td>       <td colspan=3></td>       <td></td>     </tr>     <tr>       <td colspan=7>여준 하영 진호 혜숙 지원 윤서 수민 서진 원실</td>     </tr> </tbody> </table> <table border> <caption>좋아하는 간식별 학생 수</caption>   <tbody>     <tr>       <td>간식</td>       <td>피자</td>       <td>김밥</td>       <td>햄버거</td>       <td>떡볶이</td>       <td>합계</td>     </tr>     <tr>       <td>학생수(명)</td>       <td>$4$</td>       <td>$3$</td>       <td></td>       <td></td>       <td></td>     </tr>"
+        }
+      ]
+    }
+  ]
+}

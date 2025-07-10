@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_01_00043_38925.png",
+  "id": "00043_38925",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 직선 위에 동문로터리 산지천 마당, 제주항, 애기 업은돌, 화북포구, 삼양 검은모래 해변, 불탑사, 닭머르가 차례로 있고 동문로터리 산지천 마당과 애기 업은돌의 거리가 4와 10분의 2 km이고 애기 업은돌과 닭머르의 거리가 10과 10분의 3 km이며 동문로터리 산지천 마당과 화북포구의 거리가 6 km인 지도",
+      "question_text": "다음은 제주 올레 $18$코스 중 산지천-닭머르까지입니다. 물음에 답하시오. ⑴ 동문로터리 산지천 마당에서 애기업은돌을 거쳐 닭머르까지 걷는 거리는 모두 몇 $km$입니까?  ⑵ 애기업은돌에서 화북포구까지의 거리는 몇 $km$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            426,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            115,
+            558,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            137,
+            345,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            25,
+            282,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            431,
+            21
+          ],
+          "text": "다음은 제주 올레 $18$코스 중 산지천-닭머르까지입니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            113,
+            560,
+            156
+          ],
+          "text": "⑴ 동문로터리 산지천 마당에서 애기업은돌을 거쳐 닭머르까지 걷는 거리는 모두 몇 $km$입니까?  ⑵ 애기업은돌에서 화북포구까지의 거리는 몇 $km$입니까?"
+        }
+      ]
+    }
+  ]
+}

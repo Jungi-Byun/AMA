@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_03_00043_36391.png",
+  "id": "00043_36391",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빵 $18$개를 친구들에게 $2$개씩 나누어 주려고 합니다. 몇 명에게 나누어 줄 수 있는지 식을 쓰고, 답을 구하시오",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            632,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            635,
+            21
+          ],
+          "text": "빵 $18$개를 친구들에게 $2$개씩 나누어 주려고 합니다. 몇 명에게 나누어 줄 수 있는지 식을 쓰고, 답을 구하시오"
+        }
+      ]
+    }
+  ]
+}

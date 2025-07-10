@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53594.png",
+  "id": "00043_53594",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "원 ㅇ 위에 왼쪽 위부터 시계 방향으로 점 ㄱ, 점 ㅁ, 점 ㄹ, 점 ㅂ, 점 ㄴ, 점 ㄷ이 있으며, 원의 중심인 점 ㅇ을 지나는 선분 ㄷㄹ 과 현 ㄱㄴ, 현 ㅁㅂ이 있는 평면도형",
+      "question_text": "다음 그림에서 원의 지름을 나타내는 선분을 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            28,
+            155,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            344,
+            22
+          ],
+          "text": "다음 그림에서 원의 지름을 나타내는 선분을 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

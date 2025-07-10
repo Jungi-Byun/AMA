@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_04_00042_36318.png",
+  "id": "00042_36318",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "넣은 구슬 수의 $3$배가 되어 나오는 요술상자가 있습니다. 이 상자에 구슬 $13$개를 넣으면 몇 개가 나오겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            642,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            644,
+            21
+          ],
+          "text": "넣은 구슬 수의 $3$배가 되어 나오는 요술상자가 있습니다. 이 상자에 구슬 $13$개를 넣으면 몇 개가 나오겠습니까?"
+        }
+      ]
+    }
+  ]
+}

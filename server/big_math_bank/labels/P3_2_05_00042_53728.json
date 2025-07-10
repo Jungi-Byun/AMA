@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00042_53728.png",
+  "id": "00042_53728",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게의 크기를 비교하여 $\\bigcirc$ 안에 $>, =,<$를 알맞게 써넣으시오.(1) $ 5 \\mathrm{~kg} 600 \\mathrm{~g} \\bigcirc 6 \\mathrm{~kg} $(2) $ 7300 \\mathrm{~g} \\bigcirc 7 \\mathrm{~kg} 130 \\mathrm{~g} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            365,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            26,
+            99,
+            43
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            95,
+            23,
+            129,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            133,
+            26,
+            158,
+            43
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            83,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            87,
+            53,
+            113,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            117,
+            56,
+            175,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            367,
+            80
+          ],
+          "text": "무게의 크기를 비교하여 $\\bigcirc$ 안에 $>, =,<$를 알맞게 써넣으시오.(1) $ 5 \\mathrm{~kg} 600 \\mathrm{~g} \\bigcirc 6 \\mathrm{~kg} $(2) $ 7300 \\mathrm{~g} \\bigcirc 7 \\mathrm{~kg} 130 \\mathrm{~g} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_01_00042_02857.png",
+  "id": "00042_02857",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "더 큰 수를 찾아 기호를 쓰시오.   ㉠ $730$보다 $146$ 작은 수 ㉡ $100$이 $8,10$이 $2,1$이 $5$인 수보다 $537$ 작은 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            198,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            25,
+            165,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            54,
+            304,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            306,
+            79
+          ],
+          "text": "더 큰 수를 찾아 기호를 쓰시오.   ㉠ $730$보다 $146$ 작은 수 ㉡ $100$이 $8,10$이 $2,1$이 $5$인 수보다 $537$ 작은 수"
+        }
+      ]
+    }
+  ]
+}

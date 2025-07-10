@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38777.png",
+  "id": "00043_38777",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201008",
+      "question_topic_name": "분모가 같은 대분수끼리 덧셈에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 상자의 무게의 합은 몇 $kg$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            226,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            29,
+            294,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            228,
+            22
+          ],
+          "text": "세 상자의 무게의 합은 몇 $kg$입니까?"
+        }
+      ]
+    }
+  ]
+}

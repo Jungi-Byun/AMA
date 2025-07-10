@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_2_06_00040_22923.png",
+  "id": "00040_22923",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 은별이네 반 학생 $40$명이 좋아하는 음식을 조사한 표입니다. 국수를 좋아하는 학생 수는 찌개를 좋아하는 학생 수보다 $2$명이 더 많다고 합니다. 국수를 좋아하는 학생은 몇 명입니까? <table border> <caption><좋아하는 음식></caption>   <tbody>     <tr>       <td>장소</td>       <td>찌개</td>       <td>라면</td>       <td>국수</td>       <td>햄버거</td> <td> 계</td>     </tr>     <tr>       <td>학생수(명)</td>       <td></td>       <td>15</td>       <td></td>       <td>13</td> <td> 40</td>     </tr> </tbody> </table> ①$5$명 ②$6$명 ③$7$명 ④$8$명 ⑤$9$명",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            308,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            73,
+            44,
+            171,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            277,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            114,
+            64,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            137,
+            65,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            159,
+            64,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            181,
+            65,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            203,
+            65,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            224
+          ],
+          "text": "다음은 은별이네 반 학생 $40$명이 좋아하는 음식을 조사한 표입니다. 국수를 좋아하는 학생 수는 찌개를 좋아하는 학생 수보다 $2$명이 더 많다고 합니다. 국수를 좋아하는 학생은 몇 명입니까? <table border> <caption><좋아하는 음식></caption>   <tbody>     <tr>       <td>장소</td>       <td>찌개</td>       <td>라면</td>       <td>국수</td>       <td>햄버거</td> <td> 계</td>     </tr>     <tr>       <td>학생수(명)</td>       <td></td>       <td>15</td>       <td></td>       <td>13</td> <td> 40</td>     </tr> </tbody> </table> ①$5$명 ②$6$명 ③$7$명 ④$8$명 ⑤$9$명"
+        }
+      ]
+    }
+  ]
+}

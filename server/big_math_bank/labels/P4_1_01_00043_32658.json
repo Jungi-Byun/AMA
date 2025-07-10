@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_1_01_00043_32658.png",
+  "id": "00043_32658",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 해 한국조폐공사가 만들어 한국은행에 공급한 $10000$원권 지폐는 $3$억 장이라고 합니다. 이 지폐는 모두 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            706,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            708,
+            21
+          ],
+          "text": "어느 해 한국조폐공사가 만들어 한국은행에 공급한 $10000$원권 지폐는 $3$억 장이라고 합니다. 이 지폐는 모두 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_05_00040_19473.png",
+  "id": "00040_19473",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $\\square $ 안에 알맞은 수는 어느 것입니까? $ \\text { 5시 } 40 \\text { 분 } 38 \\text { 초 }+3 \\text { 시간 } 29 \\text { 분 37초 } \\\\   =\\square $ 시 $ \\square $ 분 $ \\square $ 초 ①$ 9,10,15 $ ②$ 8,10,15 $ ③$ 8,9,15 $ ④$ 9,9,15 $ ⑤$ 9,10,5 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            270,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            229,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            53,
+            118,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            77,
+            92,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            94,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            87,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            86,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            88,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            275,
+            189
+          ],
+          "text": "다음 중 $\\square $ 안에 알맞은 수는 어느 것입니까? $ \\text { 5시 } 40 \\text { 분 } 38 \\text { 초 }+3 \\text { 시간 } 29 \\text { 분 37초 } \\\\   =\\square $ 시 $ \\square $ 분 $ \\square $ 초 ①$ 9,10,15 $ ②$ 8,10,15 $ ③$ 8,9,15 $ ④$ 9,9,15 $ ⑤$ 9,10,5 $"
+        }
+      ]
+    }
+  ]
+}

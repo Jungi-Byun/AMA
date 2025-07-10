@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00042_52877.png",
+  "id": "00042_52877",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1) $ \\begin{array}{r}3 \\mathrm{~L}  500 \\mathrm{~mL} \\\\ + 4 \\mathrm{~L}  400 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $ (2) $ \\begin{array}{r}1 \\mathrm{~L}  280 \\mathrm{~mL} \\\\ + 5 \\mathrm{~L}  400 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $ (3) $ \\begin{array}{r}2 \\mathrm{~L}  300 \\mathrm{~mL} \\\\ + 6 \\mathrm{~L}  400 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $ (4) $ \\begin{array}{r}7 \\mathrm{~L}  600 \\mathrm{~mL} \\\\ - 5 \\mathrm{~L}  400 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $ (5) $ \\begin{array}{r}8 \\mathrm{~L}  560 \\mathrm{~mL} \\\\ - 4 \\mathrm{~L}  220 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $ (6) $ \\begin{array}{r}7 \\mathrm{~L}  380 \\mathrm{~mL} \\\\ - 2 \\mathrm{~L}  160 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            17,
+            197,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            172,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            228,
+            172,
+            302
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            330,
+            172,
+            404
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            404,
+            172,
+            506
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            506,
+            172,
+            608
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            206,
+            608
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1) $ \\begin{array}{r}3 \\mathrm{~L}  500 \\mathrm{~mL} \\\\ + 4 \\mathrm{~L}  400 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $ (2) $ \\begin{array}{r}1 \\mathrm{~L}  280 \\mathrm{~mL} \\\\ + 5 \\mathrm{~L}  400 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $ (3) $ \\begin{array}{r}2 \\mathrm{~L}  300 \\mathrm{~mL} \\\\ + 6 \\mathrm{~L}  400 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $ (4) $ \\begin{array}{r}7 \\mathrm{~L}  600 \\mathrm{~mL} \\\\ - 5 \\mathrm{~L}  400 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $ (5) $ \\begin{array}{r}8 \\mathrm{~L}  560 \\mathrm{~mL} \\\\ - 4 \\mathrm{~L}  220 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $ (6) $ \\begin{array}{r}7 \\mathrm{~L}  380 \\mathrm{~mL} \\\\ - 2 \\mathrm{~L}  160 \\mathrm{~mL} \\\\ \\hline \\square L \\square \\mathrm{mL}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

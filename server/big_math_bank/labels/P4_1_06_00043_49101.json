@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_1_06_00043_49101.png",
+  "id": "00043_49101",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숫자 탑을 보고 물음에 답하시오. ⑴ 색칠된 수 사이의 관계입니다. 빈 곳에 알맞은 수를 써넣으시오. $ 1+2=3 $ $\\qquad   3+3=\\square $ $\\qquad  \\qquad  \\square +4= \\square$ $\\qquad  \\qquad  \\qquad   \\square+5=\\square $ (2) 빈 곳에 알맞은 수를 써넣어 숫자 탑을 완성하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            204,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            226,
+            391,
+            243
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            252,
+            74,
+            268
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            271,
+            155,
+            292
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            97,
+            297,
+            242,
+            318
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            182,
+            323,
+            327,
+            344
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            352,
+            321,
+            369
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            294,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            206,
+            22
+          ],
+          "text": "숫자 탑을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            225,
+            393,
+            370
+          ],
+          "text": "⑴ 색칠된 수 사이의 관계입니다. 빈 곳에 알맞은 수를 써넣으시오. $ 1+2=3 $ $\\qquad   3+3=\\square $ $\\qquad  \\qquad  \\square +4= \\square$ $\\qquad  \\qquad  \\qquad   \\square+5=\\square $ (2) 빈 곳에 알맞은 수를 써넣어 숫자 탑을 완성하시오."
+        }
+      ]
+    }
+  ]
+}

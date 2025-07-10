@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00043_55368.png",
+  "id": "00043_55368",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠과 ㉡ 중에서 더 큰 수의 기호를 쓰시오. ㆍ 연필 $4$자루 $\\Rightarrow$ 1타의 $ \\frac{1}{\\text { ㉠}} $ㆍ 연필 $6$자루 $\\Rightarrow$ 1타의 $ \\frac{1}{\\text { ㉡}} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            253,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            25,
+            204,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            81,
+            208,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            282,
+            125
+          ],
+          "text": "㉠과 ㉡ 중에서 더 큰 수의 기호를 쓰시오. ㆍ 연필 $4$자루 $\\Rightarrow$ 1타의 $ \\frac{1}{\\text { ㉠}} $ㆍ 연필 $6$자루 $\\Rightarrow$ 1타의 $ \\frac{1}{\\text { ㉡}} $"
+        }
+      ]
+    }
+  ]
+}

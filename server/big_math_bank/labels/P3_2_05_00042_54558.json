@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_54558.png",
+  "id": "00042_54558",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이가 4L보다 많은 것의 기호를 쓰시오.  ㉠ $ 3 \\mathrm{~L} 100 \\mathrm{~mL}+1300 \\mathrm{~mL} $ ㉡ $ 5050 \\mathrm{~mL}-1 \\mathrm{~L} 200 \\mathrm{~mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            248,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            332,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            336,
+            57
+          ],
+          "text": "들이가 4L보다 많은 것의 기호를 쓰시오.  ㉠ $ 3 \\mathrm{~L} 100 \\mathrm{~mL}+1300 \\mathrm{~mL} $ ㉡ $ 5050 \\mathrm{~mL}-1 \\mathrm{~L} 200 \\mathrm{~mL} $"
+        }
+      ]
+    }
+  ]
+}

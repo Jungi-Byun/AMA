@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51241.png",
+  "id": "00043_51241",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "혜진이는 동화책을 매일 $12$쪽씩 $1$주일 동안 읽어서 한 권을 다 읽었습니다. 병수가 똑같은 동화책을 $4$일 동안 다 읽으려면 하루에 몇 쪽씩 읽어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            95,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "혜진이는 동화책을 매일 $12$쪽씩 $1$주일 동안 읽어서 한 권을 다 읽었습니다. 병수가 똑같은 동화책을 $4$일 동안 다 읽으려면 하루에 몇 쪽씩 읽어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

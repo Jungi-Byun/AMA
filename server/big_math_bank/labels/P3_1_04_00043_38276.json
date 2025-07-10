@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_04_00043_38276.png",
+  "id": "00043_38276",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음에서 설명하는 두 자리 수를 구하시오.  ㆍ십의 자리 숫자는 $9$입니다. ㆍ$4$를 곱하면 $360$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            258,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            195,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            58,
+            176,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            262,
+            70
+          ],
+          "text": "다음에서 설명하는 두 자리 수를 구하시오.  ㆍ십의 자리 숫자는 $9$입니다. ㆍ$4$를 곱하면 $360$입니다."
+        }
+      ]
+    }
+  ]
+}

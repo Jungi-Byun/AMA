@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00042_53134.png",
+  "id": "00042_53134",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산에서 잘못된 곳을 찾아 바르게 고치시오. $ \\begin{array}{r}69 \\\\ \\times 27 \\\\ \\hline 483 \\\\ 138 \\\\ \\hline 621\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            271,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            21,
+            329,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            273,
+            21
+          ],
+          "text": "계산에서 잘못된 곳을 찾아 바르게 고치시오. $ \\begin{array}{r}69 \\\\ \\times 27 \\\\ \\hline 483 \\\\ 138 \\\\ \\hline 621\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

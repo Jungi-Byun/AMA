@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_03_00043_49930.png",
+  "id": "00043_49930",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$0.01$부터 $1$까지의 소수 배열표를 보고 물음에 답하시오. <table border>   <tbody>     <tr> <td>$0.01$</td> <td>$0.02$</td> <td>$0.03$</td> <td>$0.04$</td> <td>$0.05$</td> <td>$0.06$</td> <td>$0.07$</td> <td>$0.08$</td> <td>$0.09$</td> <td>$0.1$</td> </tr> <tr> <td>$0.11$</td> <td>$0.12$</td> <td>$0.13$</td> <td>$0.14$</td> <td>$0.15$</td> <td>$0.16$</td> <td>$0.17$</td> <td>$0.18$</td> <td>$0.19$</td> <td>$0.2$</td> </tr> <tr> <td>$0.21$</td> <td>$0.22$</td> <td>$0.23$</td> <td>$0.24$</td> <td>$0.25$</td> <td>$0.26$</td> <td>$0.27$</td> <td>$0.28$</td> <td>$0.29$</td> <td>$0.3$</td> </tr> <tr> <td>$0.31$</td> <td>$0.32$</td> <td>$0.33$</td> <td>$0.34$</td> <td>$0.35$</td> <td>$0.36$</td> <td>$0.37$</td> <td>$0.38$</td> <td>$0.39$</td> <td>$0.4$</td> </tr> <tr> <td>$0.41$</td> <td>$0.42$</td> <td>$0.43$</td> <td>$0.44$</td> <td>$0.45$</td> <td>$0.46$</td> <td>$0.47$</td> <td>$0.48$</td> <td>$0.49$</td> <td>$0.5$</td> </tr> <tr> <td>$0.51$</td> <td>$0.52$</td> <td>$0.53$</td> <td>$0.54$</td> <td>$0.55$</td> <td>$0.56$</td> <td>$0.57$</td> <td>$0.58$</td> <td>$0.59$</td> <td>$0.6$</td> </tr> <tr> <td>$0.61$</td> <td>$0.62$</td> <td>$0.63$</td> <td>$0.64$</td> <td>$0.65$</td> <td>$0.66$</td> <td>$0.67$</td> <td>$0.68$</td> <td>$0.69$</td> <td>$0.7$</td> </tr> <tr> <td>$0.71$</td> <td>$0.72$</td> <td>$0.73$</td> <td>$0.74$</td> <td>$0.75$</td> <td>$0.76$</td> <td>$0.77$</td> <td>$0.78$</td> <td>$0.79$</td> <td>$0.8$</td> </tr> <tr> <td>$0.81$</td> <td>$0.82$</td> <td>$0.83$</td> <td>$0.84$</td> <td>$0.85$</td> <td>$0.86$</td> <td>$0.87$</td> <td>$0.88$</td> <td>$0.89$</td> <td>$0.9$</td> </tr> <tr> <td>$0.91$</td> <td>$0.92$</td> <td>$0.93$</td> <td>$0.94$</td> <td>$0.95$</td> <td>$0.96$</td> <td>$0.97$</td> <td>$0.98$</td> <td>$0.99$</td> <td>$1$</td> </tr> </tbody> </table> ($1$) 소수 첫째 자리 숫자가 $6$인 소수 두 자리 수를 모두 찾아 노란색으로 색칠하시오. ($2$) 소수 둘째 자리 숫자가 $5$인 소수 두 자리를 모두 찾아 파란색으로 색칠하시오. ($3$) 노란색과 파란색을 함께 색칠한 소수를 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            332,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            343,
+            254
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            279,
+            489,
+            296
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            301,
+            491,
+            318
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            323,
+            334,
+            339
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            493,
+            341
+          ],
+          "text": "$0.01$부터 $1$까지의 소수 배열표를 보고 물음에 답하시오. <table border>   <tbody>     <tr> <td>$0.01$</td> <td>$0.02$</td> <td>$0.03$</td> <td>$0.04$</td> <td>$0.05$</td> <td>$0.06$</td> <td>$0.07$</td> <td>$0.08$</td> <td>$0.09$</td> <td>$0.1$</td> </tr> <tr> <td>$0.11$</td> <td>$0.12$</td> <td>$0.13$</td> <td>$0.14$</td> <td>$0.15$</td> <td>$0.16$</td> <td>$0.17$</td> <td>$0.18$</td> <td>$0.19$</td> <td>$0.2$</td> </tr> <tr> <td>$0.21$</td> <td>$0.22$</td> <td>$0.23$</td> <td>$0.24$</td> <td>$0.25$</td> <td>$0.26$</td> <td>$0.27$</td> <td>$0.28$</td> <td>$0.29$</td> <td>$0.3$</td> </tr> <tr> <td>$0.31$</td> <td>$0.32$</td> <td>$0.33$</td> <td>$0.34$</td> <td>$0.35$</td> <td>$0.36$</td> <td>$0.37$</td> <td>$0.38$</td> <td>$0.39$</td> <td>$0.4$</td> </tr> <tr> <td>$0.41$</td> <td>$0.42$</td> <td>$0.43$</td> <td>$0.44$</td> <td>$0.45$</td> <td>$0.46$</td> <td>$0.47$</td> <td>$0.48$</td> <td>$0.49$</td> <td>$0.5$</td> </tr> <tr> <td>$0.51$</td> <td>$0.52$</td> <td>$0.53$</td> <td>$0.54$</td> <td>$0.55$</td> <td>$0.56$</td> <td>$0.57$</td> <td>$0.58$</td> <td>$0.59$</td> <td>$0.6$</td> </tr> <tr> <td>$0.61$</td> <td>$0.62$</td> <td>$0.63$</td> <td>$0.64$</td> <td>$0.65$</td> <td>$0.66$</td> <td>$0.67$</td> <td>$0.68$</td> <td>$0.69$</td> <td>$0.7$</td> </tr> <tr> <td>$0.71$</td> <td>$0.72$</td> <td>$0.73$</td> <td>$0.74$</td> <td>$0.75$</td> <td>$0.76$</td> <td>$0.77$</td> <td>$0.78$</td> <td>$0.79$</td> <td>$0.8$</td> </tr> <tr> <td>$0.81$</td> <td>$0.82$</td> <td>$0.83$</td> <td>$0.84$</td> <td>$0.85$</td> <td>$0.86$</td> <td>$0.87$</td> <td>$0.88$</td> <td>$0.89$</td> <td>$0.9$</td> </tr> <tr> <td>$0.91$</td> <td>$0.92$</td> <td>$0.93$</td> <td>$0.94$</td> <td>$0.95$</td> <td>$0.96$</td> <td>$0.97$</td> <td>$0.98$</td> <td>$0.99$</td> <td>$1$</td> </tr> </tbody> </table> ($1$) 소수 첫째 자리 숫자가 $6$인 소수 두 자리 수를 모두 찾아 노란색으로 색칠하시오. ($2$) 소수 둘째 자리 숫자가 $5$인 소수 두 자리를 모두 찾아 파란색으로 색칠하시오. ($3$) 노란색과 파란색을 함께 색칠한 소수를 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

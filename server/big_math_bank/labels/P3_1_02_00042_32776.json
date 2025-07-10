@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_32776.png",
+  "id": "00042_32776",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "대각선 하나가 점선으로 표시된 정사각형 색종이, 오른쪽 화살표, 앞의 색종이를 점선 따라 접은 삼각형의 이등분선을 점선으로 표시한 직각이등변삼각형, 오른쪽 화살표, 앞의 색종이를 점선대로 한 번 더 접은 직각이등변삼각형이 차례로 나열된 그림",
+      "question_text": "그림과 같이 종이를 접었을 때, 생기는 선을 따라 자르면 직각삼각형은 모두 몇 개 만들어집니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            563,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            315,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            565,
+            35
+          ],
+          "text": "그림과 같이 종이를 접었을 때, 생기는 선을 따라 자르면 직각삼각형은 모두 몇 개 만들어집니까?"
+        }
+      ]
+    }
+  ]
+}

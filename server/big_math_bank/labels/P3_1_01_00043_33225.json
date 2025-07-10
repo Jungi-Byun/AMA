@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_01_00043_33225.png",
+  "id": "00043_33225",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 사람의 대화를 보고 $\\square$ 안에 알맞은 수를 구하시오. 영은 : 백령도에 도착했니? 희수 : 아니, 지금 인천항에서 여객선을 기다리는 중이야. 영은 : 몇 명이나 기다리고 있어? 희수 : 음, $417$명이 기다리고 있어. 영은 : 그래? 여객선의 정원이 $246$명이라면서? 희수 : 응~ 그래서 $\\square$명은 이번 여객선에 탈 수 없대.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            24,
+            179,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            53,
+            343,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            73,
+            212,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            96,
+            218,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            118,
+            294,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            140,
+            319,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            359,
+            162
+          ],
+          "text": "두 사람의 대화를 보고 $\\square$ 안에 알맞은 수를 구하시오. 영은 : 백령도에 도착했니? 희수 : 아니, 지금 인천항에서 여객선을 기다리는 중이야. 영은 : 몇 명이나 기다리고 있어? 희수 : 음, $417$명이 기다리고 있어. 영은 : 그래? 여객선의 정원이 $246$명이라면서? 희수 : 응~ 그래서 $\\square$명은 이번 여객선에 탈 수 없대."
+        }
+      ]
+    }
+  ]
+}

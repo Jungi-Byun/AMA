@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_03467.png",
+  "id": "00042_03467",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지영이는 오렌지 주스 $ \\frac{1}{2} $컵의 반을 마셨습니다. 지영이가 마신 오렌지 주스의 양을 분수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            601,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            39,
+            92,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            603,
+            37
+          ],
+          "text": "지영이는 오렌지 주스 $ \\frac{1}{2} $컵의 반을 마셨습니다. 지영이가 마신 오렌지 주스의 양을 분수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

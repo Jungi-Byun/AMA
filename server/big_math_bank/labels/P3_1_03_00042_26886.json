@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00042_26886.png",
+  "id": "00042_26886",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\bullet$와 $ \\blacksquare$에 알맞은 수를 각각 구하시오. (단, 같은 모양은 같은 수를 나타냅니다.)  $\\bullet \\div6=\\blacksquare,\\blacksquare\\div4=2$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            463,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            21,
+            144,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            466,
+            57
+          ],
+          "text": "$\\bullet$와 $ \\blacksquare$에 알맞은 수를 각각 구하시오. (단, 같은 모양은 같은 수를 나타냅니다.)  $\\bullet \\div6=\\blacksquare,\\blacksquare\\div4=2$"
+        }
+      ]
+    }
+  ]
+}

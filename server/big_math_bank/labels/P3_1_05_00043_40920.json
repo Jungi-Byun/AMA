@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_05_00043_40920.png",
+  "id": "00043_40920",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 교시 수업은 $40$분이고, 쉬는 시간은 15분입니다. $4$교시까지 마쳤더니 $12$시 $10$분이 되었습니다. $1$교시 시작 시각을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            732,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            735,
+            21
+          ],
+          "text": "한 교시 수업은 $40$분이고, 쉬는 시간은 15분입니다. $4$교시까지 마쳤더니 $12$시 $10$분이 되었습니다. $1$교시 시작 시각을 구하시오."
+        }
+      ]
+    }
+  ]
+}

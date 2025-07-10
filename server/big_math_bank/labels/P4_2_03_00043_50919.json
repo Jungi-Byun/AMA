@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50919.png",
+  "id": "00043_50919",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 720 MB $짜리 공CD에 가능한 한 많은 용량을 채워 음악 파일을 저장하려고 합니다. 몇 $MB$까지 채워 저장할 수 있습니까? <table border>   <tbody>     <tr>       <td >종류</td>       <td>용량($MB)$</td>     </tr>     <tr>       <td>발라드</td>       <td>$72.28$</td>     </tr>     <tr>       <td>댄스</td>       <td>$237.28$</td>     </tr>     <tr>       <td>OST</td>       <td>$572.11$</td>     </tr>     <tr>       <td>힙합</td>       <td>$65.9$</td>     </tr>     <tr>       <td>팝송</td>       <td>$120.006$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            701,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            142,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            705,
+            161
+          ],
+          "text": "$ 720 MB $짜리 공CD에 가능한 한 많은 용량을 채워 음악 파일을 저장하려고 합니다. 몇 $MB$까지 채워 저장할 수 있습니까? <table border>   <tbody>     <tr>       <td >종류</td>       <td>용량($MB)$</td>     </tr>     <tr>       <td>발라드</td>       <td>$72.28$</td>     </tr>     <tr>       <td>댄스</td>       <td>$237.28$</td>     </tr>     <tr>       <td>OST</td>       <td>$572.11$</td>     </tr>     <tr>       <td>힙합</td>       <td>$65.9$</td>     </tr>     <tr>       <td>팝송</td>       <td>$120.006$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

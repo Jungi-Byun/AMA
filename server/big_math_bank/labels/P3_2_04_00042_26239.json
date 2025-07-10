@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00042_26239.png",
+  "id": "00042_26239",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 물음에 답하시오.  (1) $27$의 $ \\frac{4}{9} $는 $\\square$입니다. (2) $27$의 $ \\frac{7}{9} $은 $\\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            128,
+            187,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            170,
+            189,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            262,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            189,
+            22
+          ],
+          "text": "그림을 보고 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            127,
+            191,
+            205
+          ],
+          "text": "(1) $27$의 $ \\frac{4}{9} $는 $\\square$입니다. (2) $27$의 $ \\frac{7}{9} $은 $\\square$입니다."
+        }
+      ]
+    }
+  ]
+}

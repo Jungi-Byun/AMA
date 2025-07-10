@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_04_00043_38507.png",
+  "id": "00043_38507",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물약을 하루에 15mL씩 3일 동안 먹어야 합니다. 물약을 모두 몇 mL 먹어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            491,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            493,
+            21
+          ],
+          "text": "물약을 하루에 15mL씩 3일 동안 먹어야 합니다. 물약을 모두 몇 mL 먹어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

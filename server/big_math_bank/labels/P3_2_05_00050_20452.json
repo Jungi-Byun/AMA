@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00050_20452.png",
+  "id": "00050_20452",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정하네 밭에서 수확한 감자를 한 상자에 $4kg$씩 남는 것 없이 담았더니 $1000$상자가 되었습니다. 상자에 담은 감자의 무게는 몇 $t$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            782,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            784,
+            21
+          ],
+          "text": "정하네 밭에서 수확한 감자를 한 상자에 $4kg$씩 남는 것 없이 담았더니 $1000$상자가 되었습니다. 상자에 담은 감자의 무게는 몇 $t$입니까?"
+        }
+      ]
+    }
+  ]
+}

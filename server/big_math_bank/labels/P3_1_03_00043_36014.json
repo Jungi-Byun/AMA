@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36014.png",
+  "id": "00043_36014",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "하준이는 가지고 있는 사탕 $24$개를 현철, 경석이와 함께 똑같이 나누어 가졌습니다. 다시 하준이는 자신의 사탕을 동생  2명에게 똑같이 나누어 주었습니다. 하준이의 동생 한 명이 받은 사탕은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            383,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "하준이는 가지고 있는 사탕 $24$개를 현철, 경석이와 함께 똑같이 나누어 가졌습니다. 다시 하준이는 자신의 사탕을 동생  2명에게 똑같이 나누어 주었습니다. 하준이의 동생 한 명이 받은 사탕은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

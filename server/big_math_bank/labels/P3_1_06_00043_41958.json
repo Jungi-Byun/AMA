@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_41958.png",
+  "id": "00043_41958",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "예진이네 집에서 공원, 도서관, 수영장까지의 거리를 나타낸 것입니다. 예진이네 집에서 가까운 곳부터 차례로 쓰시오. · 공원 : $ 0.1 \\mathrm{~km} $ 가 45 개인 거리 · 도서관 : $ 4 \\mathrm{~km} $ 보다 $ \\frac{3}{5} \\mathrm{~km} $ 더 먼 거리 · 수영장 : $ 4 \\mathrm{~km} $ 와 $ 0.4 \\mathrm{~km} $ 만큼인 거리",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            680,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            203,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            56,
+            253,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            93,
+            241,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            683,
+            120
+          ],
+          "text": "예진이네 집에서 공원, 도서관, 수영장까지의 거리를 나타낸 것입니다. 예진이네 집에서 가까운 곳부터 차례로 쓰시오. · 공원 : $ 0.1 \\mathrm{~km} $ 가 45 개인 거리 · 도서관 : $ 4 \\mathrm{~km} $ 보다 $ \\frac{3}{5} \\mathrm{~km} $ 더 먼 거리 · 수영장 : $ 4 \\mathrm{~km} $ 와 $ 0.4 \\mathrm{~km} $ 만큼인 거리"
+        }
+      ]
+    }
+  ]
+}

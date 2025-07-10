@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00042_53579.png",
+  "id": "00042_53579",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. $\\begin{array}{r} \\square\\;7\\\\ \\square \\overline{\\smash{\\big)}\\,\\square\\;7}\\\\ \\underline{\\;5}\\\\ \\square\\;\\square\\\\ \\underline{\\;3\\;\\square}\\\\ 2 \\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            44,
+            23,
+            127,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            172
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. $\\begin{array}{r} \\square\\;7\\\\ \\square \\overline{\\smash{\\big)}\\,\\square\\;7}\\\\ \\underline{\\;5}\\\\ \\square\\;\\square\\\\ \\underline{\\;3\\;\\square}\\\\ 2 \\end{array}$"
+        }
+      ]
+    }
+  ]
+}

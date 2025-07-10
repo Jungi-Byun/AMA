@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00043_50004.png",
+  "id": "00043_50004",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민호가 소수에 관한 수수께끼를 풀고 있습니다. 수수께끼를 풀어 알맞은 소수를 구하시오. · 이 수는 소수 세 자리 수야.· 일의 자리 숫자는 $8$이야· 소수 첫째 자리 숫자는 $2$야.· 소수 둘째 자리 숫자는 $7$이야.· 소수 셋째 자리 숫자는 $5$야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            522,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            189,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            56,
+            179,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            75,
+            192,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            97,
+            204,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            119,
+            193,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            614,
+            143
+          ],
+          "text": "민호가 소수에 관한 수수께끼를 풀고 있습니다. 수수께끼를 풀어 알맞은 소수를 구하시오. · 이 수는 소수 세 자리 수야.· 일의 자리 숫자는 $8$이야· 소수 첫째 자리 숫자는 $2$야.· 소수 둘째 자리 숫자는 $7$이야.· 소수 셋째 자리 숫자는 $5$야."
+        }
+      ]
+    }
+  ]
+}

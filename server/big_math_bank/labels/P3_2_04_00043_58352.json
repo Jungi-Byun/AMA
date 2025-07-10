@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_58352.png",
+  "id": "00043_58352",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분수를 보고 물음에 답하시오.  $ \\begin{array}{llll}\\frac{1}{3} & \\frac{4}{3} & \\frac{12}{9} & \\frac{16}{9}\\end{array} $  (1) 수직선 위에 분수를 찾아 표시하시오.  (2) 크기가 같은 분수를 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            36,
+            27,
+            287,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            247,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.1,
+            0.4,
+            189.3,
+            20.4
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.3,
+            154,
+            225.3,
+            173.2
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            123,
+            310,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            297,
+            100
+          ],
+          "text": "분수를 보고 물음에 답하시오.  $ \\begin{array}{llll}\\frac{1}{3} & \\frac{4}{3} & \\frac{12}{9} & \\frac{16}{9}\\end{array} $  (1) 수직선 위에 분수를 찾아 표시하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.3,
+            154.8,
+            225.3,
+            174
+          ],
+          "text": "(2) 크기가 같은 분수를 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

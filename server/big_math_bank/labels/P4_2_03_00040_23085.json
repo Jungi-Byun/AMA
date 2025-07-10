@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_03_00040_23085.png",
+  "id": "00040_23085",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같이 일의 자리 수가 $5$이고 소수 셋째 자리 수가 $7$인 수보다 작은 수 중에서 $ 5.99<\\square<5 . \\square \\square7 $보다 큰 소수 세 자리 수는 모두 몇 개입니까? ①$2$개 ②$3$개 ③$5$개 ④$6$개 ⑤$7$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            766,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            190,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            50,
+            77,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            72,
+            65,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            94,
+            64,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            116,
+            65,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            138,
+            64,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            768,
+            159
+          ],
+          "text": "다음과 같이 일의 자리 수가 $5$이고 소수 셋째 자리 수가 $7$인 수보다 작은 수 중에서 $ 5.99<\\square<5 . \\square \\square7 $보다 큰 소수 세 자리 수는 모두 몇 개입니까? ①$2$개 ②$3$개 ③$5$개 ④$6$개 ⑤$7$개"
+        }
+      ]
+    }
+  ]
+}

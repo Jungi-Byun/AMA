@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_05_00043_40973.png",
+  "id": "00043_40973",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 가장 긴 것과 가장 짧은 것을 각각 구하시오. ㉠ $6km 800m$ ㉡ $7050m$ ㉢ $15km$ ㉣ $5499m$  길이가 가장 긴 것 ( ) 길이가 가장 짧은 것 ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            308,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            358,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            165,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            178,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            367,
+            99
+          ],
+          "text": "길이가 가장 긴 것과 가장 짧은 것을 각각 구하시오. ㉠ $6km 800m$ ㉡ $7050m$ ㉢ $15km$ ㉣ $5499m$  길이가 가장 긴 것 ( ) 길이가 가장 짧은 것 ( )"
+        }
+      ]
+    }
+  ]
+}

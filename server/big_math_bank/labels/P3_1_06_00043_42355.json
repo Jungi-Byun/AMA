@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_42355.png",
+  "id": "00043_42355",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "똑같이 $10$조각으로 나눈 초콜릿을 오수가 $9$조각, 동생이 $1$조각 먹었습니다. 오수와 동생이 먹은 초콜릿을 각각 소수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            749,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            102,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            102,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            752,
+            61
+          ],
+          "text": "똑같이 $10$조각으로 나눈 초콜릿을 오수가 $9$조각, 동생이 $1$조각 먹었습니다. 오수와 동생이 먹은 초콜릿을 각각 소수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_02_00043_37884.png",
+  "id": "00043_37884",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202007",
+      "question_topic_name": "정삼각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "점 ㄴ이 좌측인 변 ㄴㄷ이 밑변이고 변 ㄱㄴ과 ㄴㄷ이 12 cm인 삼각형 ㄱㄴㄷ에 점 ㄷ에서부터 변 ㄴㄷ의 연장선이 있고 각 ㄷ의 외각이 120도인 평면도형",
+      "question_text": "삼각형을 보고 물음에 답하시오. ⑴ 각 $ㄱㄴㄷ$의 크기는 몇 도입니까? ⑵ 변 $ㄱㄷ$의 길이는 몇 $cm$입니까? ⑶ 어떤 삼각형이 되는지 $3$가지 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            200,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            144,
+            224,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            166,
+            217,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            188,
+            241,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            28,
+            180,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            202,
+            24
+          ],
+          "text": "삼각형을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            143,
+            243,
+            206
+          ],
+          "text": "⑴ 각 $ㄱㄴㄷ$의 크기는 몇 도입니까? ⑵ 변 $ㄱㄷ$의 길이는 몇 $cm$입니까? ⑶ 어떤 삼각형이 되는지 $3$가지 쓰시오."
+        }
+      ]
+    }
+  ]
+}

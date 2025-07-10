@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58083.png",
+  "id": "00043_58083",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 물건의 무게의 합이 $5\\mathrm{kg}$을 넘도록 하려면 어떤 물건들을 골라야 하는지 쓰시오.  <table border>   <tbody align=\"center\">     <tr>       <td>배추 3800g</td>       <td>동화책 800g</td>       <td>배 1400g</td>     </tr>     <tr>       <td>장난감 1kg</td>       <td>고기 1000g</td>       <td>당근 500g</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            479,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            255,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            481,
+            67
+          ],
+          "text": "두 물건의 무게의 합이 $5\\mathrm{kg}$을 넘도록 하려면 어떤 물건들을 골라야 하는지 쓰시오.  <table border>   <tbody align=\"center\">     <tr>       <td>배추 3800g</td>       <td>동화책 800g</td>       <td>배 1400g</td>     </tr>     <tr>       <td>장난감 1kg</td>       <td>고기 1000g</td>       <td>당근 500g</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

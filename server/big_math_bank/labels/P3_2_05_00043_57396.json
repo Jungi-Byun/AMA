@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_57396.png",
+  "id": "00043_57396",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "냄비에 물을 가득 채우려면 각각의 컵으로 다음과 같이 부어야 합니다. 들이가 가장 많은 컵은 어느 것입니까? <table border> <tbody> <tr> <td>컵</td> <td>종이컵</td> <td>커피 잔</td> <td>머그잔</td> </tr> <tr> <td>부은 횟수(번)</td> <td>$7$</td> <td>$6$</td> <td>$3$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            634,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            276,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            129,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            636,
+            22
+          ],
+          "text": "냄비에 물을 가득 채우려면 각각의 컵으로 다음과 같이 부어야 합니다. 들이가 가장 많은 컵은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            107,
+            278,
+            157
+          ],
+          "text": "<table border> <tbody> <tr> <td>컵</td> <td>종이컵</td> <td>커피 잔</td> <td>머그잔</td> </tr> <tr> <td>부은 횟수(번)</td> <td>$7$</td> <td>$6$</td> <td>$3$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

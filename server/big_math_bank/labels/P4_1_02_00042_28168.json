@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_02_00042_28168.png",
+  "id": "00042_28168",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102004",
+      "question_topic_name": "각도기와 자를 이용하여 각 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각도가  $ 45^{\\circ} $인 각 $ㄷㄱㄴ$을 그리려고 합니다. 그리는 순서대로 기호를 쓰시오.  ㉠ 점 $ㄱ$과 점 $ㄷ$을 이어 각의 다른 한 변 $ㄱㄷ$을 긋습니다. ㉡ 각의 한 변 $ㄱㄴ$을 긋습니다. ㉢ 각도기에서 $ 45^{\\circ} $가 되는 눈금 위에 점 $ㄷ$을 찍습니다. ㉣ 각도기의 중심을 각의 꼭짓점이 될 점 $ㄱ$에 맞추고, 각도기의 밑금을 변 $ㄱㄴ$에 맞춥니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            449,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.68,
+            107.96,
+            351.48,
+            124.76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.28,
+            130.36,
+            201.08,
+            147.96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.28,
+            151.96,
+            333.88,
+            167.96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.28,
+            174.36,
+            539.48,
+            191.16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            22,
+            129,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.68,
+            0.76,
+            450.68,
+            15.96
+          ],
+          "text": "각도가  $ 45^{\\circ} $인 각 $ㄷㄱㄴ$을 그리려고 합니다. 그리는 순서대로 기호를 쓰시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.88,
+            107.16,
+            540.28,
+            191.96
+          ],
+          "text": "㉠ 점 $ㄱ$과 점 $ㄷ$을 이어 각의 다른 한 변 $ㄱㄷ$을 긋습니다. ㉡ 각의 한 변 $ㄱㄴ$을 긋습니다. ㉢ 각도기에서 $ 45^{\\circ} $가 되는 눈금 위에 점 $ㄷ$을 찍습니다. ㉣ 각도기의 중심을 각의 꼭짓점이 될 점 $ㄱ$에 맞추고, 각도기의 밑금을 변 $ㄱㄴ$에 맞춥니다."
+        }
+      ]
+    }
+  ]
+}

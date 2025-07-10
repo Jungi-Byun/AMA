@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_01_00043_50957.png",
+  "id": "00043_50957",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201005",
+      "question_topic_name": "일, 십, 백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "게임을 하고 받을 수 있는 아이템은 무엇인지 구하시오.   ·계산 결과가 $260$ 보다 큼 : 방화복 ·계산 결과가 $260$ 보다 작음: 소화기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            328,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            67,
+            191,
+            275,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            67,
+            208,
+            286,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            30,
+            321,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            331,
+            21
+          ],
+          "text": "게임을 하고 받을 수 있는 아이템은 무엇인지 구하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            65,
+            189,
+            288,
+            228
+          ],
+          "text": "·계산 결과가 $260$ 보다 큼 : 방화복 ·계산 결과가 $260$ 보다 작음: 소화기"
+        }
+      ]
+    }
+  ]
+}

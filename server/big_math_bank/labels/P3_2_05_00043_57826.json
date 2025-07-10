@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57826.png",
+  "id": "00043_57826",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉮ 수도꼭지에서는 $1$분에 찬물이 $28L 500mL$씩 나오고, ㉯ 수도꼭지에서는 $1$분에 뜨거운 물이 $19L 800mL$씩 나옵니다. 두 수도꼭지를 동시에 틀어서 물을 가득 채우는 데 $5$분이 걸리는 욕조가 있습니다. 물이 들어 있던 이 욕조에 두 수도꼭지를 동시에 틀어서 물을 가득 채웠더니 $3$분이 걸렸습니다. 처음 욕조에 있던 물은 몇 $L$ 몇 $mL$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            797,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            383,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            62
+          ],
+          "text": "㉮ 수도꼭지에서는 $1$분에 찬물이 $28L 500mL$씩 나오고, ㉯ 수도꼭지에서는 $1$분에 뜨거운 물이 $19L 800mL$씩 나옵니다. 두 수도꼭지를 동시에 틀어서 물을 가득 채우는 데 $5$분이 걸리는 욕조가 있습니다. 물이 들어 있던 이 욕조에 두 수도꼭지를 동시에 틀어서 물을 가득 채웠더니 $3$분이 걸렸습니다. 처음 욕조에 있던 물은 몇 $L$ 몇 $mL$입니까?"
+        }
+      ]
+    }
+  ]
+}

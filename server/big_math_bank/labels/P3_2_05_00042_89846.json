@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00042_89846.png",
+  "id": "00042_89846",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 계산하시오. (1) $13L 600mL$ + $4L 900mL =$ ( )$L$ ( )$mL$ (2) $7L 400mL$ - $3L 800mL =$ ( )$L$ ( )$mL$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            116,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            183,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            177,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            185,
+            40
+          ],
+          "text": "다음 계산하시오. (1) $13L 600mL$ + $4L 900mL =$ ( )$L$ ( )$mL$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.23,
+            62.65,
+            180.23,
+            83.65
+          ],
+          "text": "(2) $7L 400mL$ - $3L 800mL =$ ( )$L$ ( )$mL$"
+        }
+      ]
+    }
+  ]
+}

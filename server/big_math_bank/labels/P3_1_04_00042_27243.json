@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_04_00042_27243.png",
+  "id": "00042_27243",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오.(1) $ 51 \\times 7  \\bigcirc  34 \\times 8 $ (2) $ 50 \\times 4  \\bigcirc  40 \\times 5 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            230,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            26,
+            67,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            75,
+            23,
+            101,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            109,
+            26,
+            144,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            75,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            82,
+            53,
+            109,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            116,
+            55,
+            152,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            232,
+            80
+          ],
+          "text": "$\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오.(1) $ 51 \\times 7  \\bigcirc  34 \\times 8 $ (2) $ 50 \\times 4  \\bigcirc  40 \\times 5 $"
+        }
+      ]
+    }
+  ]
+}

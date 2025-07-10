@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_02_00043_34698.png",
+  "id": "00043_34698",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 14 cm, 세로의 길이가 5 cm인 직사각형 모양의 영화관람권이 세로의 점선으로 나누어져 있으며 왼쪽 직사각형에는 '장난꾸러기 공룡, 일시:2014년 O월O일'이라 쓰여 있고 오른쪽 직사각형에는 '대교 영화관, 입장권'이 쓰여 있으며 왼쪽 직사각형 가로의 길이는 빈칸 cm인 도형",
+      "question_text": "그림과 같은 영화 관람권에서 점선의 왼쪽 부분은 직사각형 모양이고 점선의 오른쪽 부분은 정사각형 모양입니다. $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            61,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            46,
+            320,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "그림과 같은 영화 관람권에서 점선의 왼쪽 부분은 직사각형 모양이고 점선의 오른쪽 부분은 정사각형 모양입니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

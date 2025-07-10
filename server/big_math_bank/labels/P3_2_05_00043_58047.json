@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58047.png",
+  "id": "00043_58047",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 뺄셈식을 완성하시오.  $ \\begin{array}{r}3 \\mathrm{~kg} \\quad 500 \\mathrm{~g} \\\\ -\\square \\mathrm{kg} \\quad \\square \\mathrm{g} \\\\ \\hline \\square \\mathrm{kg} \\quad \\square \\mathrm{g} \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            213,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            44,
+            288,
+            174,
+            369
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            24,
+            324,
+            281
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            215,
+            22
+          ],
+          "text": "그림을 보고 뺄셈식을 완성하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            42,
+            286,
+            176,
+            371
+          ],
+          "text": "$ \\begin{array}{r}3 \\mathrm{~kg} \\quad 500 \\mathrm{~g} \\\\ -\\square \\mathrm{kg} \\quad \\square \\mathrm{g} \\\\ \\hline \\square \\mathrm{kg} \\quad \\square \\mathrm{g} \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

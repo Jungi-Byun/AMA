@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00040_28684.png",
+  "id": "00040_28684",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 나눗셈에 대한 설명입니다. 옳은 것은 어느 것입니까?  ①나누는 수는 나머지보다 작습니다. ②나머지가 1일 때를 나누어떨어진다고 합니다. ③나머지는 나누는 수보다 작습니다. ④몫은 항상 나머지보다 큽니다. ⑤나누어지는 수는 항상 나누는 수보다 큽니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            362,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            237,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            296,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            237,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            211,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            295,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            364,
+            130
+          ],
+          "text": "다음은 나눗셈에 대한 설명입니다. 옳은 것은 어느 것입니까?  ①나누는 수는 나머지보다 작습니다. ②나머지가 1일 때를 나누어떨어진다고 합니다. ③나머지는 나누는 수보다 작습니다. ④몫은 항상 나머지보다 큽니다. ⑤나누어지는 수는 항상 나누는 수보다 큽니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_04_00043_52376.png",
+  "id": "00043_52376",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "피사의 사탑은 이탈리아 피사 대성당에 있는 종탑으로 기울어진 탑으로 유명합니다. 현재는 보수공사를 하여 탑의 기울어진 각도는 중심축으로부터 $5.5°$에서 멈춘 상태입니다. 다음과 같이 탑에 평행한 직선 가를 긋고 지면 위의 선분 ㄴㄷ을 한 변으로 하는 삼각형 ㄱㄴㄷ을 그렸습니다. 변 ㄱㄴ과 변 ㄱㄷ이 서로 수직일 때 각 ㉠과 각 ㉡의 크기의 차는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            796,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            507,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            39,
+            72,
+            195,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            62
+          ],
+          "text": "피사의 사탑은 이탈리아 피사 대성당에 있는 종탑으로 기울어진 탑으로 유명합니다. 현재는 보수공사를 하여 탑의 기울어진 각도는 중심축으로부터 $5.5°$에서 멈춘 상태입니다. 다음과 같이 탑에 평행한 직선 가를 긋고 지면 위의 선분 ㄴㄷ을 한 변으로 하는 삼각형 ㄱㄴㄷ을 그렸습니다. 변 ㄱㄴ과 변 ㄱㄷ이 서로 수직일 때 각 ㉠과 각 ㉡의 크기의 차는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

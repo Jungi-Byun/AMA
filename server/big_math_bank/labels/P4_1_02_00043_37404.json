@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37404.png",
+  "id": "00043_37404",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "사각형이 있고 사각형 제일 아래쪽에 위치한 밑각의 크기는 115도, 분홍 각도 크기 표시가 있고 왼쪽 옆 각의 크기는 75도, 분홍 각도 크기 표시가 있으며 오른쪽 옆 각의 크기는 120도, 분홍 각도 크기 표시를 하고 밑각과 마주 보는 대각인 우상 방향 위 각은 분홍 각도 크기 표시를 하며 각을 가리키는 분홍 화살표로 연결된 네모 빈칸으로 나타낸 평면도형",
+      "question_text": "$\\square$ 안에 알맞은 각도를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            216,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            24,
+            143,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            218,
+            21
+          ],
+          "text": "$\\square$ 안에 알맞은 각도를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

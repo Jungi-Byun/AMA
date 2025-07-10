@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_87094.png",
+  "id": "00042_87094",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "같은 시간 동안에 같은 일을 하는데, 기계 ㉮는 일의 $ \\frac{1}{6} $ 을 완성했고, 기계 ㉯는 일의 $ \\frac{1}{4} $을 완성했습니다. 어느 기계가 일을 더 빨리 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            787,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            39,
+            40,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            789,
+            58
+          ],
+          "text": "같은 시간 동안에 같은 일을 하는데, 기계 ㉮는 일의 $ \\frac{1}{6} $ 을 완성했고, 기계 ㉯는 일의 $ \\frac{1}{4} $을 완성했습니다. 어느 기계가 일을 더 빨리 합니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32505.png",
+  "id": "00043_32505",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101004",
+      "question_topic_name": "십만, 백만, 천만 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은영이 어머니께서 냉장고를 사는 데 $10$만 원권 수표 $25$장과 만 원짜리 지폐 $6$장을 냈습니다. 냉장고 가격은 얼마입니까?  ($1$) $10$만 원권 수표 $25$장은 얼마입니까?  ($2$) 만 원짜리 지폐 $6$장은 얼마입니까?  ($3$) 냉장고 가격은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            701,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            243,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            237,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            196,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            703,
+            83
+          ],
+          "text": "은영이 어머니께서 냉장고를 사는 데 $10$만 원권 수표 $25$장과 만 원짜리 지폐 $6$장을 냈습니다. 냉장고 가격은 얼마입니까?  ($1$) $10$만 원권 수표 $25$장은 얼마입니까?  ($2$) 만 원짜리 지폐 $6$장은 얼마입니까?  ($3$) 냉장고 가격은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

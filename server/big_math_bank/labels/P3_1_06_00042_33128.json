@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_33128.png",
+  "id": "00042_33128",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 큰 수와 가장 작은 수를 쓰시오. $\\frac{4}{9}$ $\\frac{1}{12}$ $\\frac{1}{9}$ $\\frac{1}{15}$ $ \\frac{7}{9}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            224,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            37,
+            26,
+            221,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            0.9,
+            224.1,
+            61.9
+          ],
+          "text": "가장 큰 수와 가장 작은 수를 쓰시오. $\\frac{4}{9}$ $\\frac{1}{12}$ $\\frac{1}{9}$ $\\frac{1}{15}$ $ \\frac{7}{9}$ "
+        }
+      ]
+    }
+  ]
+}

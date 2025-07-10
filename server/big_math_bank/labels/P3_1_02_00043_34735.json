@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_02_00043_34735.png",
+  "id": "00043_34735",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 어떤 도형을 만든 순서입니다. 이 도형의 둘레의 길이는 몇$ cm$입니까? ① 한 변의 길이가 $8cm$인 정사각형 $3$개를 변끼리 옆으로 이어 붙입니다. ② 위 ① 에서 만든 도형의 각 도형 위에 세 변의 길이가 각각 $8cm$인 삼각형을 한 개씩 변으로 이어 붙입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            456,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23.1,
+            28.4,
+            431.1,
+            48.4
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.1,
+            51.4,
+            637.1,
+            70.4
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            2.4,
+            639.1,
+            70.4
+          ],
+          "text": "다음은 어떤 도형을 만든 순서입니다. 이 도형의 둘레의 길이는 몇$ cm$입니까? ① 한 변의 길이가 $8cm$인 정사각형 $3$개를 변끼리 옆으로 이어 붙입니다. ② 위 ① 에서 만든 도형의 각 도형 위에 세 변의 길이가 각각 $8cm$인 삼각형을 한 개씩 변으로 이어 붙입니다."
+        }
+      ]
+    }
+  ]
+}

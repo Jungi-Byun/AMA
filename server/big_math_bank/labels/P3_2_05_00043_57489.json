@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00043_57489.png",
+  "id": "00043_57489",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물이 간장통에는 $1L 350\\mathrm{mL}$, 식초통에는 $1L 400\\mathrm{mL}$ 들어 있습니다. 물의 양이 더 적은 통은 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            625,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            627,
+            21
+          ],
+          "text": "물이 간장통에는 $1L 350\\mathrm{mL}$, 식초통에는 $1L 400\\mathrm{mL}$ 들어 있습니다. 물의 양이 더 적은 통은 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

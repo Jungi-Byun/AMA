@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32238.png",
+  "id": "00043_32238",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억 단위 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 나타내는 수가 다른 하나를 찾아 기호를 쓰시오. ㉠ $10$억의 $100$배인 수㉡ $100$억이 $10$인 수㉢ $100000000$이 $100$인 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            333,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            158,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            144,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            75,
+            197,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            359,
+            95
+          ],
+          "text": "다음 중 나타내는 수가 다른 하나를 찾아 기호를 쓰시오. ㉠ $10$억의 $100$배인 수㉡ $100$억이 $10$인 수㉢ $100000000$이 $100$인 수"
+        }
+      ]
+    }
+  ]
+}

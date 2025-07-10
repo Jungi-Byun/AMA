@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00043_35157.png",
+  "id": "00043_35157",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림을 보고 물음에 답하시오. (1) 빈칸에 알맞은 수를 써넣으시오.   <table border> <caption></caption>   <tbody>     <tr>       <td>도형</td>       <td>가 </td>       <td> 나</td>       <td> 다</td>       <td>라</td>     </tr>     <tr>       <td>직각의 수(개)</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) 정사각형을 찾아 기호를 쓰시오",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            215,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            112,
+            218,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            133,
+            244,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            185,
+            221,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            25,
+            313,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.72,
+            0.39,
+            214.72,
+            16.39
+          ],
+          "text": "다음 그림을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.72,
+            110.39,
+            244.72,
+            203.39
+          ],
+          "text": "(1) 빈칸에 알맞은 수를 써넣으시오.   <table border> <caption></caption>   <tbody>     <tr>       <td>도형</td>       <td>가 </td>       <td> 나</td>       <td> 다</td>       <td>라</td>     </tr>     <tr>       <td>직각의 수(개)</td>       <td></td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) 정사각형을 찾아 기호를 쓰시오"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20481.png",
+  "id": "00050_20481",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 수영장에 물을 가득 채우려면 한 시간에 $200$kg씩 $2$시간 $45$분 동안 받아야 합니다. 이 수영장에 물을 가득 채우면 물의 무게는 몇 $t$이 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            40
+          ],
+          "text": "어느 수영장에 물을 가득 채우려면 한 시간에 $200$kg씩 $2$시간 $45$분 동안 받아야 합니다. 이 수영장에 물을 가득 채우면 물의 무게는 몇 $t$이 됩니까?"
+        }
+      ]
+    }
+  ]
+}

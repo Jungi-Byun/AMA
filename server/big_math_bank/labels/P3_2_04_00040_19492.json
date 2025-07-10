@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00040_19492.png",
+  "id": "00040_19492",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$24$의 $ \\frac{5}{6} $는 얼마입니까? ①$4$ ②$8$ ③$16$ ④$20$ ⑤$24$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            165,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            40,
+            53,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            62,
+            53,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            58,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            61,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            128,
+            61,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            167,
+            149
+          ],
+          "text": "$24$의 $ \\frac{5}{6} $는 얼마입니까? ①$4$ ②$8$ ③$16$ ④$20$ ⑤$24$"
+        }
+      ]
+    }
+  ]
+}

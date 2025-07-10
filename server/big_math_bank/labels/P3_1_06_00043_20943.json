@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_06_00043_20943.png",
+  "id": "00043_20943",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $2.4$ 는 $2$ 와 $ \\square $ 만큼입니다. (2) $6.3$ 은 $ \\square $ 과 $0.3$만큼입니다. (3) $4$ 와 $ \\frac{9}{10} $ 만큼은 입니다. (4) $5$ 와  $ \\square $ 만큼은 $5.7$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            212,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            204,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            66.9,
+            223.1,
+            101.9
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.1,
+            104.9,
+            204.1,
+            142.9
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            0.9,
+            223.1,
+            142.9
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $2.4$ 는 $2$ 와 $ \\square $ 만큼입니다. (2) $6.3$ 은 $ \\square $ 과 $0.3$만큼입니다. (3) $4$ 와 $ \\frac{9}{10} $ 만큼은 입니다. (4) $5$ 와  $ \\square $ 만큼은 $5.7$입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_01_00040_22904.png",
+  "id": "00040_22904",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 사탕 공장에서 만든 사탕은 한 봉지에 $34$개씩 들어 있다고 합니다. 이 공장에서 만든 사탕 $43$봉지에는 사탕이 모두 몇 개 들어 있습니까? ①$77$개 ②$238$개 ③$1352$개 ④$1362$개 ⑤$1462$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            71,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            81,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            85,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            86,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            86,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            152
+          ],
+          "text": "어느 사탕 공장에서 만든 사탕은 한 봉지에 $34$개씩 들어 있다고 합니다. 이 공장에서 만든 사탕 $43$봉지에는 사탕이 모두 몇 개 들어 있습니까? ①$77$개 ②$238$개 ③$1352$개 ④$1362$개 ⑤$1462$개"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_01_00043_38840.png",
+  "id": "00043_38840",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201004",
+      "question_topic_name": "분모가 같은 (진분수)-(진분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같은 방법으로 계산하시오. <보기> \\[ \\frac{5}{6}-\\frac{2}{6}=\\frac{5-2}{6}=\\frac{3}{6} \\] $ \\frac{5}{12}-\\frac{4}{12}=\\frac{\\square-\\square}{12}=\\frac{\\square}{12} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            229,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            72,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            54,
+            178,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            93,
+            212,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            137
+          ],
+          "text": "<보기>와 같은 방법으로 계산하시오. <보기> \\[ \\frac{5}{6}-\\frac{2}{6}=\\frac{5-2}{6}=\\frac{3}{6} \\] $ \\frac{5}{12}-\\frac{4}{12}=\\frac{\\square-\\square}{12}=\\frac{\\square}{12} $"
+        }
+      ]
+    }
+  ]
+}

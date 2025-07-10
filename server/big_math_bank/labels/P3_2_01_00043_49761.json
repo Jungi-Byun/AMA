@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_01_00043_49761.png",
+  "id": "00043_49761",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 계산 과정에서 $\\square$ 안의 숫자끼리의 곱은 실제로 얼마를 나타냅니까? $ \\begin{array}{r} 27 \\\\ \\times 45 \\\\ \\hline\\end{array} $ ①$10$ ②$100$ ③$120$ ④$210$ ⑤$1000$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            430,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            23,
+            91,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            85,
+            59,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            68,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            129,
+            67,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            151,
+            67,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            173,
+            77,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            432,
+            194
+          ],
+          "text": "다음 계산 과정에서 $\\square$ 안의 숫자끼리의 곱은 실제로 얼마를 나타냅니까? $ \\begin{array}{r} 27 \\\\ \\times 45 \\\\ \\hline\\end{array} $ ①$10$ ②$100$ ③$120$ ④$210$ ⑤$1000$"
+        }
+      ]
+    }
+  ]
+}

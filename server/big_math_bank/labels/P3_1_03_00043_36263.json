@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00043_36263.png",
+  "id": "00043_36263",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈식을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.  $32÷8=4$ 지점토 $32$개를 한 모둠에 $\\square$개씩 나누어 주면  $\\square$ 모둠에 나누어 줄 수 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            84,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            58,
+            532,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            560,
+            80
+          ],
+          "text": "나눗셈식을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.  $32÷8=4$ 지점토 $32$개를 한 모둠에 $\\square$개씩 나누어 주면  $\\square$ 모둠에 나누어 줄 수 있습니다."
+        }
+      ]
+    }
+  ]
+}

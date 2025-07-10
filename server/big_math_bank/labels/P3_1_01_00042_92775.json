@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_01_00042_92775.png",
+  "id": "00042_92775",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림엽서를 재민이는 $243$장, 혜진이는 $354$장 가지고 있습니다. 두 사람이 가지고 있는 그림엽서는 모두 몇 장입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            680,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            1.92,
+            680.1,
+            18.92
+          ],
+          "text": "그림엽서를 재민이는 $243$장, 혜진이는 $354$장 가지고 있습니다. 두 사람이 가지고 있는 그림엽서는 모두 몇 장입니까?"
+        }
+      ]
+    }
+  ]
+}

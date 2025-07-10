@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00042_92114.png",
+  "id": "00042_92114",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203016",
+      "question_topic_name": "소수 두 자리 수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "호박의 무게는 0.51kg이고, 배추의 무게는 호박보다 0.3kg 무거우며, 무의 무게는 배추보다 0.24kg 가볍습니다. 무와 호박의 무게의 차는 몇 kg입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            792,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            96,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            794,
+            41
+          ],
+          "text": "호박의 무게는 0.51kg이고, 배추의 무게는 호박보다 0.3kg 무거우며, 무의 무게는 배추보다 0.24kg 가볍습니다. 무와 호박의 무게의 차는 몇 kg입니까?"
+        }
+      ]
+    }
+  ]
+}

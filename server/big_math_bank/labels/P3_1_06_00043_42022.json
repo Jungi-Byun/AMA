@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_42022.png",
+  "id": "00043_42022",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106002",
+      "question_topic_name": "부분과 전체의 크기 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진태와 친구들은 종이를 사용하여 깃발을 만들어 보았습니다. 물음에 답하시오 ⑴ 진태가 만든 깃발에서 빨간색 부분은 전체를 똑같이 $2$로 나눈 것 중의 $\\boxed{}$  입니다. ⑵ 영우가 만든 깃발에서 초록색 부분은 전체를 똑같이 $4$로 나눈 것 중의 $\\boxed{}$   입니다. ⑶ 미소가 만든 깃발에서 노란색으로 색칠한 부분은 전체를 똑같이 $4$로 나눈 것 중의 $\\boxed{}$   입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            463,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            147,
+            519,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            169,
+            586,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.97,
+            128.97,
+            518.4,
+            146.5
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            267,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.68,
+            0.17,
+            462.77,
+            16.18
+          ],
+          "text": "진태와 친구들은 종이를 사용하여 깃발을 만들어 보았습니다. 물음에 답하시오"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.21,
+            128.21,
+            586.23,
+            189.94
+          ],
+          "text": "⑴ 진태가 만든 깃발에서 빨간색 부분은 전체를 똑같이 $2$로 나눈 것 중의 $\\boxed{}$  입니다. ⑵ 영우가 만든 깃발에서 초록색 부분은 전체를 똑같이 $4$로 나눈 것 중의 $\\boxed{}$   입니다. ⑶ 미소가 만든 깃발에서 노란색으로 색칠한 부분은 전체를 똑같이 $4$로 나눈 것 중의 $\\boxed{}$   입니다."
+        }
+      ]
+    }
+  ]
+}

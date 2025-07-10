@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00050_20571.png",
+  "id": "00050_20571",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직각을 이루고 교차하는 두 점선 대각선의 반절의 길이가 각각 100 m, 150 m인 색칠된 마름모와 점선인 마름모의 오른쪽 윗변을 공유하고 밑변, 윗변의 길이가 각각 280 m, 220 m이고 윗변의 연장선을 점선으로 오른쪽으로 그린 선분에 밑변의 오른쪽 꼭짓점에서 점선으로 그린 수선의 길이가 150 m인 사각형에 색칠한 도형",
+      "question_text": "그림과 같은 모양의 밭이 있습니다. 이 밭 전체의 $ \\frac{2}{5} $ 에서 고추를 수확하고, 나머지 밭에서 깨를 수확하였습니다. $ 1 \\mathrm{a} $ 당 고추는 $ 120 \\mathrm{~kg} $, 깨는 $ 200 \\mathrm{~kg} $ 을 수확하였다면 깨를 고추보다 몇 $ \\mathrm{t} $ 더 많이 수확하였습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            3,
+            795,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            408,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            69,
+            275,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            2,
+            797,
+            62
+          ],
+          "text": "그림과 같은 모양의 밭이 있습니다. 이 밭 전체의 $ \\frac{2}{5} $ 에서 고추를 수확하고, 나머지 밭에서 깨를 수확하였습니다. $ 1 \\mathrm{a} $ 당 고추는 $ 120 \\mathrm{~kg} $, 깨는 $ 200 \\mathrm{~kg} $ 을 수확하였다면 깨를 고추보다 몇 $ \\mathrm{t} $ 더 많이 수확하였습니까?"
+        }
+      ]
+    }
+  ]
+}

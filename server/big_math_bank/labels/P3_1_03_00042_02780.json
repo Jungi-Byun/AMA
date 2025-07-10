@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_03_00042_02780.png",
+  "id": "00042_02780",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103003",
+      "question_topic_name": "똑같이 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도화지 한 장을 짝과 똑같이 나누어 가지려고 합니다. 물음에 답하시오. (1) 색종이를 똑같이 둘로 나누어 보시오. (2) 한 명이 가질 수 있는 양을 색칠하여 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            417,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            81,
+            247,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            106,
+            287,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            117,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.79,
+            0.43,
+            416.23,
+            17.71
+          ],
+          "text": "도화지 한 장을 짝과 똑같이 나누어 가지려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.79,
+            84.27,
+            286.31,
+            122.03
+          ],
+          "text": "(1) 색종이를 똑같이 둘로 나누어 보시오. (2) 한 명이 가질 수 있는 양을 색칠하여 보시오."
+        }
+      ]
+    }
+  ]
+}

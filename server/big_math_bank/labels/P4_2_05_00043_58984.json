@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_05_00043_58984.png",
+  "id": "00043_58984",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "벤쿠버 동계올림픽에서 나라별 금메달 수를 조사하여 나타낸 표입니다. 나라별 금메달 수를 비교하려고 합니다. 알맞은 그래프로 나타내시오. <table border> <caption>$나라별 금메달 수$</caption>   <tbody>     <tr>       <td>$나라$</td>       <td>$중국$</td>       <td>$독일$</td>       <td>$미국$</td>       <td>$대한민국$</td>     </tr>     <tr>       <td>$메달 수(개)$</td>       <td>$5$</td>       <td>$10$</td>       <td>$9$</td>       <td>$6$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            36,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            118,
+            46,
+            238,
+            65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            60,
+            323,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            145,
+            326,
+            265
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            133
+          ],
+          "text": "벤쿠버 동계올림픽에서 나라별 금메달 수를 조사하여 나타낸 표입니다. 나라별 금메달 수를 비교하려고 합니다. 알맞은 그래프로 나타내시오. <table border> <caption>$나라별 금메달 수$</caption>   <tbody>     <tr>       <td>$나라$</td>       <td>$중국$</td>       <td>$독일$</td>       <td>$미국$</td>       <td>$대한민국$</td>     </tr>     <tr>       <td>$메달 수(개)$</td>       <td>$5$</td>       <td>$10$</td>       <td>$9$</td>       <td>$6$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

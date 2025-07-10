@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55896.png",
+  "id": "00043_55896",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분수를 보고 물음에 답하시오. $ \\begin{array}{cccc}\\frac{4}{5} & \\frac{7}{6} & 3 \\frac{1}{4} & \\frac{8}{11} \\\\ \\frac{15}{3} & 2 \\frac{1}{6} & \\frac{11}{11} & \\frac{12}{15}\\end{array} $ (1) 진분수를 모두 찾아 쓰시오.(2) 가분수를 모두 찾아 쓰시오.(3) 대분수를 모두 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            26,
+            224,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            78,
+            228,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            128,
+            193,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            150,
+            195,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            172,
+            195,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            750,
+            190
+          ],
+          "text": "분수를 보고 물음에 답하시오. $ \\begin{array}{cccc}\\frac{4}{5} & \\frac{7}{6} & 3 \\frac{1}{4} & \\frac{8}{11} \\\\ \\frac{15}{3} & 2 \\frac{1}{6} & \\frac{11}{11} & \\frac{12}{15}\\end{array} $ (1) 진분수를 모두 찾아 쓰시오.(2) 가분수를 모두 찾아 쓰시오.(3) 대분수를 모두 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

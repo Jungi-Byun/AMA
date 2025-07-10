@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_01_00040_02152.png",
+  "id": "00040_02152",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "병현이네 학교 도서관에 위인전이 $599$권, 동화책이 $837$권 있습니다. 모두 몇 권의 책이 있는지 수 모형으로 알아보시오. (1) 낱개 모형끼리 더하면 십 모형 ( )개와 낱개 모형 ( )개입니다. (2) 십 모형끼리 더하면 백 모형 ( )개와 십 모형 ( )개입니다. (3) 백 모형끼리 더하면 천 모형 ( )개와 백 모형 ( )개입니다. (4) 도서관의 책 수는 모두 ( )권입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            610,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            103,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            305,
+            409,
+            333
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            333,
+            385,
+            354
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            354,
+            386,
+            380
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            380,
+            274,
+            402
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            46,
+            327,
+            298
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            610,
+            40
+          ],
+          "text": "병현이네 학교 도서관에 위인전이 $599$권, 동화책이 $837$권 있습니다. 모두 몇 권의 책이 있는지 수 모형으로 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            306,
+            410,
+            399
+          ],
+          "text": "(1) 낱개 모형끼리 더하면 십 모형 ( )개와 낱개 모형 ( )개입니다. (2) 십 모형끼리 더하면 백 모형 ( )개와 십 모형 ( )개입니다. (3) 백 모형끼리 더하면 천 모형 ( )개와 백 모형 ( )개입니다. (4) 도서관의 책 수는 모두 ( )권입니다."
+        }
+      ]
+    }
+  ]
+}

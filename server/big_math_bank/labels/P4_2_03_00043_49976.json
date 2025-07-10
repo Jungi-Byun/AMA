@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_2_03_00043_49976.png",
+  "id": "00043_49976",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$4.6$과 $4.7$ 사이에 일정한 간격으로 네 수 ㉠, ㉡, ㉢, ㉣을 놓았습니다. ㉠과 ㉣에 알맞은 수를 각각 구하시오. (단, ㉠$<$㉡$<$㉢$<$㉣입니다.)  ㉠ ( ) ㉣ ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            774,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            776,
+            24
+          ],
+          "text": "$4.6$과 $4.7$ 사이에 일정한 간격으로 네 수 ㉠, ㉡, ㉢, ㉣을 놓았습니다. ㉠과 ㉣에 알맞은 수를 각각 구하시오. (단, ㉠$<$㉡$<$㉢$<$㉣입니다.)  ㉠ ( ) ㉣ ( )"
+        }
+      ]
+    }
+  ]
+}

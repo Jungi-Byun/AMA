@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57997.png",
+  "id": "00043_57997",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "여러 가지 물건의 무게를 어림하고 재어 표를 완성하시오. <table border>   <tbody>     <tr>       <td>물건</td>       <td>$100g$과 $1kg$의 무게 비교 (무겁다, 비슷하다, 가볍다)</td>       <td>어림한 무게</td>       <td>직접 잰 무게</td>     </tr>     <tr>       <td>필통</td>       <td>$100g$과 비슷합니다.</td>       <td>약 $90g$</td>       <td>$100g$</td>     </tr>     <tr>       <td>연필</td>       <td></td>       <td>약 $50g$</td>       <td>$30g$</td>     </tr>     <tr>       <td>책가방</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            611,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            613,
+            116
+          ],
+          "text": "여러 가지 물건의 무게를 어림하고 재어 표를 완성하시오. <table border>   <tbody>     <tr>       <td>물건</td>       <td>$100g$과 $1kg$의 무게 비교 (무겁다, 비슷하다, 가볍다)</td>       <td>어림한 무게</td>       <td>직접 잰 무게</td>     </tr>     <tr>       <td>필통</td>       <td>$100g$과 비슷합니다.</td>       <td>약 $90g$</td>       <td>$100g$</td>     </tr>     <tr>       <td>연필</td>       <td></td>       <td>약 $50g$</td>       <td>$30g$</td>     </tr>     <tr>       <td>책가방</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_03_00043_26585.png",
+  "id": "00043_26585",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103001",
+      "question_topic_name": "세 자리 수와 몇십 곱하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영환이네 학교에서는 운동회 때 상품으로 주기 위해서 $200원$짜리 공책을 $50권$ 사려고 합니다. 공책을 사는 데 필요한 돈은 모두 얼마입니까? ① $1000원$ ② $10000원$ ③ $100000원$ ④ $1000000원$ ⑤ $10000000원$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            45,
+            311,
+            65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            72,
+            209,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            110
+          ],
+          "text": "영환이네 학교에서는 운동회 때 상품으로 주기 위해서 $200원$짜리 공책을 $50권$ 사려고 합니다. 공책을 사는 데 필요한 돈은 모두 얼마입니까? ① $1000원$ ② $10000원$ ③ $100000원$ ④ $1000000원$ ⑤ $10000000원$"
+        }
+      ]
+    }
+  ]
+}

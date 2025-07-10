@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_06_00042_89839.png",
+  "id": "00042_89839",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 지역의 마을별 사과 생산량을 조사하여 나타낸 그림그래프입니다. 그림 (사과)와 (사과)은 각각 사과 몇 $kg$을 나타내고 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            0.89,
+            747,
+            26.89
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            16,
+            28.89,
+            341,
+            319.89
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            1.89,
+            745,
+            26.89
+          ],
+          "text": "어느 지역의 마을별 사과 생산량을 조사하여 나타낸 그림그래프입니다. 그림 (사과)와 (사과)은 각각 사과 몇 $kg$을 나타내고 있습니까?"
+        }
+      ]
+    }
+  ]
+}

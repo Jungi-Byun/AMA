@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_41954.png",
+  "id": "00043_41954",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "재진, 현석, 진영이는 우유를 마셨습니다. 재진이는 전체의 $0.4$만큼, 현석이는 전체의 $ \\frac{1}{10} $만큼, 진영이는 $ \\frac{5}{10} $만큼 마셨습니다. 우유를 가장 많이 마신 사람은 누구인지 쓰고, 마신 우유의 양을 소수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            39,
+            433,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            59
+          ],
+          "text": "재진, 현석, 진영이는 우유를 마셨습니다. 재진이는 전체의 $0.4$만큼, 현석이는 전체의 $ \\frac{1}{10} $만큼, 진영이는 $ \\frac{5}{10} $만큼 마셨습니다. 우유를 가장 많이 마신 사람은 누구인지 쓰고, 마신 우유의 양을 소수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

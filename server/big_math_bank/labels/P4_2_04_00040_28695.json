@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_28695.png",
+  "id": "00040_28695",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204013",
+      "question_topic_name": "평행사변형 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "ㄴㄷ이 밑변인 평행사변형 ㄱㄴㄷㄹ에서 대각선 ㄱㄷ을 긋고, 꼭짓점 ㄱ에서 변 ㄴㄷ에 대하여 수선 ㄱㅇ을 그리고 각 ㄱㅇㄴ에 직각 표시가 있는 그림",
+      "question_text": "사각형 $ㄱㄴㄷㄹ$은 평행사변형입니다. 다음 중 바르게 설명한 것은 어느 것입니까? ①직각은 모두 네 개입니다. ②직선 $ㄱㄹ$에 대한 수선은 직선 $ㄱㄴ$입니다. ③직선 $ㄱㅇ$은 직선 $ㄱㄹ$과 직선 $ㄴㄷ$의 수선입니다. ④직선 $ㄱㄷ$은 직선 $ㄴㄷ$에 대한 수선입니다. ⑤직선 $ㄱㄴ$과 직선 $ㄱㄹ$은 수직입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            484,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            141,
+            186,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            163,
+            282,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            185,
+            324,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            207,
+            282,
+            227
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            229,
+            253,
+            249
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            211,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.21,
+            0.54,
+            484.01,
+            17.34
+          ],
+          "text": "사각형 $ㄱㄴㄷㄹ$은 평행사변형입니다. 다음 중 바르게 설명한 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.41,
+            139.74,
+            325.61,
+            250.14
+          ],
+          "text": "①직각은 모두 네 개입니다. ②직선 $ㄱㄹ$에 대한 수선은 직선 $ㄱㄴ$입니다. ③직선 $ㄱㅇ$은 직선 $ㄱㄹ$과 직선 $ㄴㄷ$의 수선입니다. ④직선 $ㄱㄷ$은 직선 $ㄴㄷ$에 대한 수선입니다. ⑤직선 $ㄱㄴ$과 직선 $ㄱㄹ$은 수직입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00050_20358.png",
+  "id": "00050_20358",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게 단위 사이의 관계가 바른 것은 어느 것입니까?(1) $ 2700 \\mathrm{t}=270000 \\mathrm{~kg} $ (2) $ 70 \\mathrm{t}=7000 \\mathrm{~kg} $ (3) $ 4390 \\mathrm{~kg}=43.9 \\mathrm{t} $ (4) $ 60000 \\mathrm{~kg}=60 \\mathrm{t} $ (5) $ 8000 g=8 t $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            308,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            157,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            123,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            133,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            133,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            110,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            310,
+            130
+          ],
+          "text": "무게 단위 사이의 관계가 바른 것은 어느 것입니까?(1) $ 2700 \\mathrm{t}=270000 \\mathrm{~kg} $ (2) $ 70 \\mathrm{t}=7000 \\mathrm{~kg} $ (3) $ 4390 \\mathrm{~kg}=43.9 \\mathrm{t} $ (4) $ 60000 \\mathrm{~kg}=60 \\mathrm{t} $ (5) $ 8000 g=8 t $"
+        }
+      ]
+    }
+  ]
+}

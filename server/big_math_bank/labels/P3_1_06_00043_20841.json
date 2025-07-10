@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_20841.png",
+  "id": "00043_20841",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 설명 중 틀린 것은 어느 것입니까? ①분수 $ \\frac{5}{10} $는 소수로 $0.5$입니다. ②$3.8$은 팔점 삼이라고 읽습니다. ③$2.5, 4.6$에서 ‘.’을 소수점이라고 합니다. ④$0.1, 0.2, 0.3,$ ···과 같은 수를 소수라고 합니다. ⑤전체를 똑같이 $10$으로 나눈 것 중의 하나는 $0.1$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            241,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            223,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            62,
+            218,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            265,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            307,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            128,
+            348,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            350,
+            149
+          ],
+          "text": "다음 설명 중 틀린 것은 어느 것입니까? ①분수 $ \\frac{5}{10} $는 소수로 $0.5$입니다. ②$3.8$은 팔점 삼이라고 읽습니다. ③$2.5, 4.6$에서 ‘.’을 소수점이라고 합니다. ④$0.1, 0.2, 0.3,$ ···과 같은 수를 소수라고 합니다. ⑤전체를 똑같이 $10$으로 나눈 것 중의 하나는 $0.1$입니다."
+        }
+      ]
+    }
+  ]
+}

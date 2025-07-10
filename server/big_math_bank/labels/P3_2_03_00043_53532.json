@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00043_53532.png",
+  "id": "00043_53532",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$100$원짜리 동전의 반지름과 $10$원짜리 동전의 반지름의 차는 몇 $\\mathrm{mm}$입니까? ⑴ $100$원짜리 동전의 반지름은 몇 $\\mathrm{mm}$입니까? ⑵ $10$원짜리 동전의 반지름은 몇 $\\mathrm{mm}$입니까? ⑶ $100$원짜리 동전의 반지름과 $10$원짜리 동전의 반지름의 차는 몇 $\\mathrm{mm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            450,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            131,
+            284,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            153,
+            275,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            175,
+            466,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            26,
+            228,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.67,
+            0.01,
+            450.79,
+            16.91
+          ],
+          "text": "$100$원짜리 동전의 반지름과 $10$원짜리 동전의 반지름의 차는 몇 $\\mathrm{mm}$입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.67,
+            130.57,
+            466.67,
+            192.52
+          ],
+          "text": "⑴ $100$원짜리 동전의 반지름은 몇 $\\mathrm{mm}$입니까? ⑵ $10$원짜리 동전의 반지름은 몇 $\\mathrm{mm}$입니까? ⑶ $100$원짜리 동전의 반지름과 $10$원짜리 동전의 반지름의 차는 몇 $\\mathrm{mm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

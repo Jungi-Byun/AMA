@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00043_51695.png",
+  "id": "00043_51695",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 26 \\div 6=4 \\cdots 2 $ 를 검산하는 방법을 알아보시오.  (1) 를 $6$개씩 $ \\bigcirc $ 로 묶어 보시오. (2) 그림을 보고 $ 26 \\div 6=4 \\cdots 2 $ 의 검산식을 완성하시오. $6 \\times \\square+\\square=26$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            268,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            139,
+            224,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            167,
+            314,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            189,
+            132,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            33,
+            318,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            138,
+            316,
+            215
+          ],
+          "text": "$ 26 \\div 6=4 \\cdots 2 $ 를 검산하는 방법을 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            0,
+            268,
+            14.89
+          ],
+          "text": "(1) 를 $6$개씩 $ \\bigcirc $ 로 묶어 보시오. (2) 그림을 보고 $ 26 \\div 6=4 \\cdots 2 $ 의 검산식을 완성하시오. $6 \\times \\square+\\square=26$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00042_87065.png",
+  "id": "00042_87065",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 과자를 가장 많이 가진 사람은 누구입니까? ① 혜주 : 내 몫은 50 개의 $ \\frac{1}{5} $ 이야!! ② 승오 : 36 개의 $ \\frac{5}{9} $ 가 내 몫이야. ③ 유선 : 70 개의 $ \\frac{1}{10} $ 은 내 것이지. ④ 태우 : 난 48 개의 $ \\frac{3}{8} $ 을 가졌어. ⑤ 미정 : 난 56 개의 $ \\frac{3}{7} $ 인데 $ \\cdots $.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            308,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            227,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            222,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            231,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            223,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            205,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            309,
+            220
+          ],
+          "text": "다음 중 과자를 가장 많이 가진 사람은 누구입니까? ① 혜주 : 내 몫은 50 개의 $ \\frac{1}{5} $ 이야!! ② 승오 : 36 개의 $ \\frac{5}{9} $ 가 내 몫이야. ③ 유선 : 70 개의 $ \\frac{1}{10} $ 은 내 것이지. ④ 태우 : 난 48 개의 $ \\frac{3}{8} $ 을 가졌어. ⑤ 미정 : 난 56 개의 $ \\frac{3}{7} $ 인데 $ \\cdots $."
+        }
+      ]
+    }
+  ]
+}

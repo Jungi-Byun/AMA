@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00042_88356.png",
+  "id": "00042_88356",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204021",
+      "question_topic_name": "직사각형과 정사각형의 성질 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직사각형과 정사각형의 공통점이 아닌 것을 찾아 기호를 쓰시오. ㉠ 마주 보는 두 쌍의 각의 크기가 같습니다.㉡ 사다리꼴입니다.㉢ 네 개의 선분으로 둘러싸여 있습니다.㉣ 마주 보는 두 쌍의 변이 서로 평행합니다.㉤ 네 변의 길이가 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            380,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            275,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            56,
+            138,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            76,
+            254,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            96,
+            275,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            118,
+            191,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            145
+          ],
+          "text": "직사각형과 정사각형의 공통점이 아닌 것을 찾아 기호를 쓰시오. ㉠ 마주 보는 두 쌍의 각의 크기가 같습니다.㉡ 사다리꼴입니다.㉢ 네 개의 선분으로 둘러싸여 있습니다.㉣ 마주 보는 두 쌍의 변이 서로 평행합니다.㉤ 네 변의 길이가 같습니다."
+        }
+      ]
+    }
+  ]
+}

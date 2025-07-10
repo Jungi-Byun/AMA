@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_05_00043_42723.png",
+  "id": "00043_42723",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 음식을 피자, 떡볶이, 치킨, 김밥 순으로 나열하고 세로축은 단위가 (명)이고 학생 수를 나타내고 한 칸의 크기가 1명이고 0, 5, 10마다 단위를 표시하고, 피자는 8명, 떡볶이는 6명, 치킨은 7명, 김밥은 5명인 좋아하는 음식별 학생 수를 나타낸 막대그래프",
+      "question_text": "(1) 위와 같이 조사한 수를 막대 모양으로 나타낸 그래프를 무슨 그래프라고 합니까?(2) 막대의 길이가 나타나는 것에 $\\bigcirc$ 표 하시오.( 학생 수 , 음식 )(3) 떡볶이를 좋아하는 학생은 몇 명입니까? 호섭이네 모둠 학생들이 좋아하는 음식을 조사하여 나타낸 그래프입니다. 그래프를 보고 물음에 답하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            613,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            188,
+            490,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            213,
+            279,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            235,
+            116,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            257,
+            267,
+            274
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            17.83,
+            316,
+            189.83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            190,
+            492,
+            275
+          ],
+          "text": "(1) 위와 같이 조사한 수를 막대 모양으로 나타낸 그래프를 무슨 그래프라고 합니까?(2) 막대의 길이가 나타나는 것에 $\\bigcirc$ 표 하시오.( 학생 수 , 음식 )(3) 떡볶이를 좋아하는 학생은 몇 명입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            0.83,
+            615,
+            16.83
+          ],
+          "text": "호섭이네 모둠 학생들이 좋아하는 음식을 조사하여 나타낸 그래프입니다. 그래프를 보고 물음에 답하시오."
+        }
+      ]
+    }
+  ]
+}

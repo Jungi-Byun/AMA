@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57432.png",
+  "id": "00043_57432",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그릇 가, 나, 다에 물을 가득 채웠다가 모양과 크기가 같은 그릇에 각각 옮겨 담았더니 그림과 같이 되었습니다. 들이가 적은 것부터 차례로 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            103,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            49,
+            299,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            794,
+            40
+          ],
+          "text": "그릇 가, 나, 다에 물을 가득 채웠다가 모양과 크기가 같은 그릇에 각각 옮겨 담았더니 그림과 같이 되었습니다. 들이가 적은 것부터 차례로 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

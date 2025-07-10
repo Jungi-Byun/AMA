@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_24277.png",
+  "id": "00042_24277",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 1인 가로 막대 그림을 8등분하고 위쪽 왼쪽 끝에 0, 오른쪽 끝에 1, 1칸의 길이 8분의 1 표시하고 아래쪽에 왼쪽부터 7째칸까지 색칠하고 길이 8분의 7 표시한 그림",
+      "question_text": "$ \\frac{7}{8} $은 $ \\frac{1}{8} $의 몇 배입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            170,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            33,
+            266,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            172,
+            38
+          ],
+          "text": "$ \\frac{7}{8} $은 $ \\frac{1}{8} $의 몇 배입니까?"
+        }
+      ]
+    }
+  ]
+}

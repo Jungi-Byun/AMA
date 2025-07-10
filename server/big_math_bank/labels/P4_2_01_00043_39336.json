@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_01_00043_39336.png",
+  "id": "00043_39336",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201011",
+      "question_topic_name": "분모가 같은 대분수끼리 뺄셈에서 대분수를 가분수로 바꿔서 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민호와 선아의 대화를 읽고 누구의 가방 안 물건의 무게가 몇 $kg$ 더 무거운지 구하시오. 민호 : 내 가방에는 책 $ 2 \\frac{3}{7} kg$, 필통 $ \\frac{6}{7} kg$, 물통 $ \\frac{4}{7} kg$이 들어 있어. 선아 : 내 가방에는 책 $ 1 \\frac{5}{7} kg$, 필통$ \\frac{3}{7} kg$, 물통 $ 1 \\frac{2}{7} kg$이 들어 있어. 민호 : 누가 더 무거울까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            505,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            27,
+            278,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            178,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            113,
+            279,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            150,
+            183,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            186,
+            169,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            209
+          ],
+          "text": "민호와 선아의 대화를 읽고 누구의 가방 안 물건의 무게가 몇 $kg$ 더 무거운지 구하시오. 민호 : 내 가방에는 책 $ 2 \\frac{3}{7} kg$, 필통 $ \\frac{6}{7} kg$, 물통 $ \\frac{4}{7} kg$이 들어 있어. 선아 : 내 가방에는 책 $ 1 \\frac{5}{7} kg$, 필통$ \\frac{3}{7} kg$, 물통 $ 1 \\frac{2}{7} kg$이 들어 있어. 민호 : 누가 더 무거울까?"
+        }
+      ]
+    }
+  ]
+}

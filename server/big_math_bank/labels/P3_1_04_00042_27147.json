@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_04_00042_27147.png",
+  "id": "00042_27147",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈을 하시오.(1) 20×7 (2) 70×4(3) 80×9 (4) 60×4(5) (6)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            180,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            185,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            89,
+            207,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            209,
+            134
+          ],
+          "text": "곱셈을 하시오.(1) 20×7 (2) 70×4(3) 80×9 (4) 60×4(5) (6)"
+        }
+      ]
+    }
+  ]
+}

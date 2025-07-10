@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00042_35131.png",
+  "id": "00042_35131",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은수는 친구들에게 사탕을 $6$개씩 나누어 주려고 $24$개가 들어 있는 사탕 한 봉지를 샀습니다. 사탕을 몇 명의 친구들에게 나누어 줄 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            53,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            40
+          ],
+          "text": "은수는 친구들에게 사탕을 $6$개씩 나누어 주려고 $24$개가 들어 있는 사탕 한 봉지를 샀습니다. 사탕을 몇 명의 친구들에게 나누어 줄 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

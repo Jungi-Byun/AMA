@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_2_01_00043_49547.png",
+  "id": "00043_49547",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201010",
+      "question_topic_name": "(몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "모눈종이 눈금이 가로로 5칸씩 세로로 15줄이 있는 그림에서 위에서 5줄만큼의 영역을 색칠하고, 내부에 5x5라고 쓰고, 그 아래 10줄만큼의 영역을 다른 색으로 색칠하고 내부에 5x10이라고 쓴 그림",
+      "question_text": "$5\\times15$를 계산하려고 합니다. 그림을 보고 물음에 답하시오.  ($1$) $\\square$ 안에 알맞은 수를 써넣으시오.  (보라색 모눈의 수) $ =5 \\times 5=\\square $ (칸) (연두색 모눈의 수) $ =5 \\times 10=\\square $ (칸) $ \\Rightarrow $ (전체 모눈의 수) $ =\\square+\\square=\\square $ (칸) ($2$) $ 5 \\times 15 $ 는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            344,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            192,
+            220,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            214,
+            227,
+            240
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            243,
+            234,
+            269
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            272,
+            134,
+            288
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            294,
+            186,
+            320
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            323,
+            152,
+            340
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            31,
+            117,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            346,
+            22
+          ],
+          "text": "$5\\times15$를 계산하려고 합니다. 그림을 보고 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            191,
+            236,
+            340
+          ],
+          "text": "($1$) $\\square$ 안에 알맞은 수를 써넣으시오.  (보라색 모눈의 수) $ =5 \\times 5=\\square $ (칸) (연두색 모눈의 수) $ =5 \\times 10=\\square $ (칸) $ \\Rightarrow $ (전체 모눈의 수) $ =\\square+\\square=\\square $ (칸) ($2$) $ 5 \\times 15 $ 는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

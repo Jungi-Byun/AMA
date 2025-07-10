@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00042_29783.png",
+  "id": "00042_29783",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101003",
+      "question_topic_name": "다섯 자리 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물음에 알맞은 수를 보기에서 찾아 쓰시오. <보기>  $ \\begin{array}{lll}70 \\underline{9} 08 & 845 \\underline{9} 7 & \\underline{9} 0084 \\\\ 8 \\underline{9} 800 & 345 \\underline{9} 0 & 5678 \\underline{9}\\end{array} $ (1) 숫자 $9$ 가 $9000$ 을 나타내는 수 (2) 숫자 $9$ 가 $90000$ 을 나타내는 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            258,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            21,
+            78,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            53,
+            192,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            75,
+            194,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            213,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            225,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            274,
+            144
+          ],
+          "text": "물음에 알맞은 수를 보기에서 찾아 쓰시오. <보기>  $ \\begin{array}{lll}70 \\underline{9} 08 & 845 \\underline{9} 7 & \\underline{9} 0084 \\\\ 8 \\underline{9} 800 & 345 \\underline{9} 0 & 5678 \\underline{9}\\end{array} $ (1) 숫자 $9$ 가 $9000$ 을 나타내는 수 (2) 숫자 $9$ 가 $90000$ 을 나타내는 수"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_40688.png",
+  "id": "00043_40688",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수직선에서 ↑는 몇 $km$ 몇 $m$를 가리키고 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            309,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            39,
+            317,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            311,
+            23
+          ],
+          "text": "수직선에서 ↑는 몇 $km$ 몇 $m$를 가리키고 있습니까?"
+        }
+      ]
+    }
+  ]
+}

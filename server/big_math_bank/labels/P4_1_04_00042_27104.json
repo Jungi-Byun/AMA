@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_04_00042_27104.png",
+  "id": "00042_27104",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "왼쪽 도형을 다음과 같은 순서에 따라 이동했을 때 생기는 모양을 그리시오.  ① 오른쪽으로 $3$번 뒤집기  ② 위쪽으로 $2$번 밀기  ③ (반시계방향) 방향으로 $4$번 돌리기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            442,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            21,
+            186,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            54,
+            163,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25.28,
+            74.37,
+            207.28,
+            105.37
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            108,
+            205,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.28,
+            0.37,
+            456.28,
+            106.37
+          ],
+          "text": "왼쪽 도형을 다음과 같은 순서에 따라 이동했을 때 생기는 모양을 그리시오.  ① 오른쪽으로 $3$번 뒤집기  ② 위쪽으로 $2$번 밀기  ③ (반시계방향) 방향으로 $4$번 돌리기"
+        }
+      ]
+    }
+  ]
+}

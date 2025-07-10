@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_03_00043_34047.png",
+  "id": "00043_34047",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "호민이네 과수원에서 딴 귤과 사과의 수가 다음과 같습니다. 호민이네 과수원에서 딴 귤과 사과는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            672,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            82,
+            295,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            49,
+            102,
+            260,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            60,
+            22,
+            262,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            674,
+            23
+          ],
+          "text": "호민이네 과수원에서 딴 귤과 사과의 수가 다음과 같습니다. 호민이네 과수원에서 딴 귤과 사과는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

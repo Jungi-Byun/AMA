@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_06_00042_93442.png",
+  "id": "00042_93442",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206004",
+      "question_topic_name": "대각선의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그을 수 있는 대각선의 개수가 가장 적은 도형은 어느 것입니까?   ①사각형 ②오각형 ③팔각형 ④삼각형 ⑤십각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            379,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            82,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            82,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            82,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            82,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            82,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            381,
+            130
+          ],
+          "text": "그을 수 있는 대각선의 개수가 가장 적은 도형은 어느 것입니까?   ①사각형 ②오각형 ③팔각형 ④삼각형 ⑤십각형"
+        }
+      ]
+    }
+  ]
+}

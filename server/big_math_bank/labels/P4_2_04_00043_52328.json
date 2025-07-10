@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52328.png",
+  "id": "00043_52328",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정사각형 모양의 종이를 변 ㄱㄹ 부분을 접어내린 모양으로 선분 ㄱㄴ을 접어내린 선분과 선분 ㄱㄴ이 이루는 각이 52도, 선분 ㄱㄹ을 접어내린 선분과 선분 ㄹㄷ이 이루는 각이 원 문자 ㄱ인 색칠된 정사각형",
+      "question_text": "다음과 같이 정사각형 모양의 색종이를 접었습니다. ㉠의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            438,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            40,
+            173,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            440,
+            24
+          ],
+          "text": "다음과 같이 정사각형 모양의 색종이를 접었습니다. ㉠의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

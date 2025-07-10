@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_04_00042_32947.png",
+  "id": "00042_32947",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.$ 31 \\times 3-\\left[\\begin{array}{c}30 \\times 3=\\square \\\\ 1 \\times 3=\\square\\end{array}\\right]-\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            76,
+            23,
+            177,
+            51
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            180,
+            39,
+            235,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            44,
+            67,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            84,
+            55,
+            171,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            237,
+            83
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.$ 31 \\times 3-\\left[\\begin{array}{c}30 \\times 3=\\square \\\\ 1 \\times 3=\\square\\end{array}\\right]-\\square $"
+        }
+      ]
+    }
+  ]
+}

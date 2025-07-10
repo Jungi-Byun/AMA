@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00043_00141.png",
+  "id": "00043_00141",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 옳지 않은 것은 어느 것입니까?  ① $\\begin{array}{r} 9\\phantom{)} \\\\ 6{\\overline{\\smash{\\big)}\\,54\\phantom{)}}} \\end{array} $  ②  $\\begin{array}{r} 8\\phantom{)} \\\\ 4{\\overline{\\smash{\\big)}\\,32\\phantom{)}}} \\end{array} $  ③ $\\begin{array}{r} 6\\phantom{)} \\\\ 5{\\overline{\\smash{\\big)}\\,35\\phantom{)}}} \\end{array} $  ④ $\\begin{array}{r} 8\\phantom{)} \\\\ 7{\\overline{\\smash{\\big)}\\,56\\phantom{)}}} \\end{array} $  ⑤ $\\begin{array}{r} 4\\phantom{)} \\\\ 9{\\overline{\\smash{\\big)}\\,36\\phantom{)}}} \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            241,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            32,
+            78,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            70,
+            78,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            116,
+            77,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            160,
+            78,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            206,
+            78,
+            237
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            243,
+            246
+          ],
+          "text": "다음 중 옳지 않은 것은 어느 것입니까?  ① $\\begin{array}{r} 9\\phantom{)} \\\\ 6{\\overline{\\smash{\\big)}\\,54\\phantom{)}}} \\end{array} $  ②  $\\begin{array}{r} 8\\phantom{)} \\\\ 4{\\overline{\\smash{\\big)}\\,32\\phantom{)}}} \\end{array} $  ③ $\\begin{array}{r} 6\\phantom{)} \\\\ 5{\\overline{\\smash{\\big)}\\,35\\phantom{)}}} \\end{array} $  ④ $\\begin{array}{r} 8\\phantom{)} \\\\ 7{\\overline{\\smash{\\big)}\\,56\\phantom{)}}} \\end{array} $  ⑤ $\\begin{array}{r} 4\\phantom{)} \\\\ 9{\\overline{\\smash{\\big)}\\,36\\phantom{)}}} \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

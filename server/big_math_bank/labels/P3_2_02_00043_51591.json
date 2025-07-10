@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00043_51591.png",
+  "id": "00043_51591",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 직사각형 모양의 벽에 한 변이 $5 cm$인 정사각형 모양의 타일을 겹치지 않게 붙이려고 합니다. 필요한 타일은 모두 몇 장인지 알아보시오. ⑴ 길이가 $95 cm$인 변과 길이가 $70 cm$인 변에 타일을 각각 몇 장씩 붙일 수 있는지 차례로 쓰시오. ⑵ 필요한 타일은 모두 몇 장입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            74,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            193,
+            576,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            215,
+            224,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            38,
+            60,
+            224,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "다음과 같은 직사각형 모양의 벽에 한 변이 $5 cm$인 정사각형 모양의 타일을 겹치지 않게 붙이려고 합니다. 필요한 타일은 모두 몇 장인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            191,
+            578,
+            234
+          ],
+          "text": "⑴ 길이가 $95 cm$인 변과 길이가 $70 cm$인 변에 타일을 각각 몇 장씩 붙일 수 있는지 차례로 쓰시오. ⑵ 필요한 타일은 모두 몇 장입니까?"
+        }
+      ]
+    }
+  ]
+}

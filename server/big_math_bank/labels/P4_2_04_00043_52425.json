@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00043_52425.png",
+  "id": "00043_52425",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204003",
+      "question_topic_name": "수직",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형에 정하와 영우가 각각 다음과 같은 방법으로 수선을 그으려고 합니다. 정하와 영우가 그을 수 있는 수선은 각각 몇 개입니까? 정하 : 점 $ㄱ$에서 각변에 수선을 그을거야. 영우 : 각 꼭짓점에서 가능한 모든 변에 수선을 그을거야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            776,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26.06,
+            135.61,
+            259.66,
+            153.53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26.06,
+            159.93,
+            344.78,
+            175.29
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            35,
+            133,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.02,
+            0.57,
+            775.5,
+            16.57
+          ],
+          "text": "다음 도형에 정하와 영우가 각각 다음과 같은 방법으로 수선을 그으려고 합니다. 정하와 영우가 그을 수 있는 수선은 각각 몇 개입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            26.06,
+            134.97,
+            344.78,
+            175.29
+          ],
+          "text": "정하 : 점 $ㄱ$에서 각변에 수선을 그을거야. 영우 : 각 꼭짓점에서 가능한 모든 변에 수선을 그을거야."
+        }
+      ]
+    }
+  ]
+}

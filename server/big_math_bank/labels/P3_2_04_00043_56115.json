@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_56115.png",
+  "id": "00043_56115",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산 결과를 대분수로 나타냈을 때, 분자가 가장 큰 것은 어느 것입니까?  ① $ \\frac{40}{8}+\\frac{11}{8} $ ② $ \\frac{6}{5}+\\frac{8}{5} $ ③ $ \\frac{3}{9}+\\frac{8}{9} $ ④ $ \\frac{40}{8}-\\frac{3}{8} $ ⑤ $ \\frac{52}{7}-\\frac{4}{7} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            424,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            112,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            94,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            94,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            102,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            102,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            426,
+            224
+          ],
+          "text": "계산 결과를 대분수로 나타냈을 때, 분자가 가장 큰 것은 어느 것입니까?  ① $ \\frac{40}{8}+\\frac{11}{8} $ ② $ \\frac{6}{5}+\\frac{8}{5} $ ③ $ \\frac{3}{9}+\\frac{8}{9} $ ④ $ \\frac{40}{8}-\\frac{3}{8} $ ⑤ $ \\frac{52}{7}-\\frac{4}{7} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00042_92467.png",
+  "id": "00042_92467",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203015",
+      "question_topic_name": "소수 두 자리 수의 덧셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 윤주네 가족이 하루에 마시는 주스의 양을 나타낸 것입니다. 윤주네 가족이 하루에 마시는 주스의 양은 모두 몇 $L$입니까?<table border> <caption></caption>   <tbody>     <tr>       <td>가족</td>       <td>마시는 양</td>     </tr>     <tr>       <td>아버지</td>       <td>$0.15L$</td>     </tr>     <tr>       <td>어머니</td>       <td>아버지보다 $0.05L$ 더 적게 마십니다.</td>     </tr>     <tr>       <td>오빠</td>       <td>어머니보다 $0.2L$ 많이 마십니다.</td>     </tr>     <tr>       <td>윤주</td>       <td>오빠보다 $0.05L$ 적게 마십니다.</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            738,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            328,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            740,
+            139
+          ],
+          "text": "다음은 윤주네 가족이 하루에 마시는 주스의 양을 나타낸 것입니다. 윤주네 가족이 하루에 마시는 주스의 양은 모두 몇 $L$입니까?<table border> <caption></caption>   <tbody>     <tr>       <td>가족</td>       <td>마시는 양</td>     </tr>     <tr>       <td>아버지</td>       <td>$0.15L$</td>     </tr>     <tr>       <td>어머니</td>       <td>아버지보다 $0.05L$ 더 적게 마십니다.</td>     </tr>     <tr>       <td>오빠</td>       <td>어머니보다 $0.2L$ 많이 마십니다.</td>     </tr>     <tr>       <td>윤주</td>       <td>오빠보다 $0.05L$ 적게 마십니다.</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

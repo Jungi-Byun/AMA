@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51153.png",
+  "id": "00043_51153",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "4월 한 달 동안 성준이와 도연이가 도서관에 들른 날수의 차는 며칠입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            442,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            38,
+            318,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            444,
+            21
+          ],
+          "text": "4월 한 달 동안 성준이와 도연이가 도서관에 들른 날수의 차는 며칠입니까?"
+        }
+      ]
+    }
+  ]
+}

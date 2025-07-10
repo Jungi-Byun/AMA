@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00042_92809.png",
+  "id": "00042_92809",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203016",
+      "question_topic_name": "소수 두 자리 수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $\\begin{array}{r}0.86\\rightarrow0.01이 \\square개  \\\\ -0.54\\rightarrow0.01이 \\square개 \\\\ \\hline \\square ← 0.01이 \\square개 \\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            187,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            107
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $\\begin{array}{r}0.86\\rightarrow0.01이 \\square개  \\\\ -0.54\\rightarrow0.01이 \\square개 \\\\ \\hline \\square ← 0.01이 \\square개 \\end{array}$"
+        }
+      ]
+    }
+  ]
+}

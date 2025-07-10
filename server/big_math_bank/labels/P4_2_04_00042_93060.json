@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00042_93060.png",
+  "id": "00042_93060",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204017",
+      "question_topic_name": "마름모의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "마름모 왼쪽 변과 겹치지 않게 이어 붙인 이등변삼각형이 역삼각형 모양으로 아랫변의 길이가 15 cm, 겹치지 않은 변의 길이가 9 cm인 그림",
+      "question_text": "이등변삼각형과 마름모를 겹치지 않게 이어 붙인 것입니다. 도형 전체의 둘레를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            522,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            25,
+            187,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            524,
+            22
+          ],
+          "text": "이등변삼각형과 마름모를 겹치지 않게 이어 붙인 것입니다. 도형 전체의 둘레를 구하시오."
+        }
+      ]
+    }
+  ]
+}

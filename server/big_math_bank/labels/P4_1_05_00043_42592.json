@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_05_00043_42592.png",
+  "id": "00043_42592",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 사탕을 딸기맛, 멜론맛, 초코맛, 커피맛, 녹차맛 순으로 나열하고, 세로축은 단위가 (명)인 학생 수를 나타내고 딸기맛은 7명, 초코맛은 11명, 녹차맛은 6명인 좋아하는 사탕 맛을 조사하여 나타낸 눈금 단위가 1이고 5칸마다 5배수로 단위를 적은 막대그래프",
+      "question_text": "$35$명이 좋아하는 사탕 맛을 조사하여 나타낸 막대그래프입니다. 커피맛을 좋아하는 학생 수는 녹차맛을 좋아하는 학생 수의 반입니다. 막대그래프를 완성하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            141,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            49,
+            320,
+            235
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            40
+          ],
+          "text": "$35$명이 좋아하는 사탕 맛을 조사하여 나타낸 막대그래프입니다. 커피맛을 좋아하는 학생 수는 녹차맛을 좋아하는 학생 수의 반입니다. 막대그래프를 완성하시오."
+        }
+      ]
+    }
+  ]
+}

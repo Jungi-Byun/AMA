@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_05_00043_40502.png",
+  "id": "00043_40502",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "시간의 계산을 하시오. (1) \\( \\begin{array}{r}\\ 9 시    12 분  46 초 \\\\  + 2 시간 58 분\\text 19 초 \\\\ \\hline  \\end{array}\\) (2)  \\( \\begin{array}{r}\\ 8 시   25 분  32 초 \\\\  -  5 시 40 분\\text 55 초 \\\\ \\hline  \\end{array}\\)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            145,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            184,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            192,
+            23,
+            341,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            343,
+            70
+          ],
+          "text": "시간의 계산을 하시오. (1) \\( \\begin{array}{r}\\ 9 시    12 분  46 초 \\\\  + 2 시간 58 분\\text 19 초 \\\\ \\hline  \\end{array}\\) (2)  \\( \\begin{array}{r}\\ 8 시   25 분  32 초 \\\\  -  5 시 40 분\\text 55 초 \\\\ \\hline  \\end{array}\\)"
+        }
+      ]
+    }
+  ]
+}

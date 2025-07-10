@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_01_00040_02157.png",
+  "id": "00040_02157",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\begin{array}{r} 6\\overset\\square38\\\\ +487\\\\ \\hline \\square \\end{array} $ $\\rightarrow \\begin{array}{r} \\overset\\square6\\overset\\square38\\\\ +487\\\\ \\hline \\square\\square \\end{array} $ $\\rightarrow \\begin{array}{r} \\overset\\square6\\overset\\square38\\\\ +487\\\\ \\hline \\square\\square\\square\\square \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            2,
+            91,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            132,
+            2,
+            202,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            244,
+            2,
+            314,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.35,
+            1.26,
+            315.75,
+            86.86
+          ],
+          "text": "$\\begin{array}{r} 6\\overset\\square38\\\\ +487\\\\ \\hline \\square \\end{array} $ $\\rightarrow \\begin{array}{r} \\overset\\square6\\overset\\square38\\\\ +487\\\\ \\hline \\square\\square \\end{array} $ $\\rightarrow \\begin{array}{r} \\overset\\square6\\overset\\square38\\\\ +487\\\\ \\hline \\square\\square\\square\\square \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

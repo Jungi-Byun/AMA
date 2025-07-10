@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_04_00042_85212.png",
+  "id": "00042_85212",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분수로 바르게 나타낸 것은 어느 것입니까? 칠과 구분의 오 ①$ 5 \\frac{9}{7} $ ②$ 5 \\frac{7}{9} $ ③$ 7 \\frac{9}{5} $ ④$ 7 \\frac{5}{9} $ ⑤$ 9 \\frac{5}{7} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            262,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            114,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            61,
+            72,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            103,
+            72,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            143,
+            72,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            185,
+            72,
+            219
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            226,
+            72,
+            260
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            269,
+            261
+          ],
+          "text": "분수로 바르게 나타낸 것은 어느 것입니까? 칠과 구분의 오 ①$ 5 \\frac{9}{7} $ ②$ 5 \\frac{7}{9} $ ③$ 7 \\frac{9}{5} $ ④$ 7 \\frac{5}{9} $ ⑤$ 9 \\frac{5}{7} $"
+        }
+      ]
+    }
+  ]
+}

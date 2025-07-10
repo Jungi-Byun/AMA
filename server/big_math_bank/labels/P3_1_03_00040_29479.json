@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_03_00040_29479.png",
+  "id": "00040_29479",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 곱셈식을 보고 만들 수 있는 나눗셈식 $2$개를 고르시오. $4×8=32$ ①$8÷2=4$ ②$32÷8=4$ ③$4÷8=32$ ④$32÷4=8$ ⑤$48÷3=2$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            354,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            84,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            58,
+            86,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            93,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            92,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            93,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            93,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            367,
+            167
+          ],
+          "text": "다음 곱셈식을 보고 만들 수 있는 나눗셈식 $2$개를 고르시오. $4×8=32$ ①$8÷2=4$ ②$32÷8=4$ ③$4÷8=32$ ④$32÷4=8$ ⑤$48÷3=2$"
+        }
+      ]
+    }
+  ]
+}

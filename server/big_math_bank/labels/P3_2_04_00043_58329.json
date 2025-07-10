@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_04_00043_58329.png",
+  "id": "00043_58329",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{8}{12} $과 크기가 같고 분모가 $12$보다 작은 분수를 모두 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            376,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            378,
+            37
+          ],
+          "text": "$ \\frac{8}{12} $과 크기가 같고 분모가 $12$보다 작은 분수를 모두 구하시오."
+        }
+      ]
+    }
+  ]
+}

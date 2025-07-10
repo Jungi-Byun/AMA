@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00042_53467.png",
+  "id": "00042_53467",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈을 하고, 몫과 나머지를 구하시오. 몫( ) 몫( )나머지( ) 나머지( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            245,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            172,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            182,
+            89,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            140,
+            183,
+            196,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            205,
+            99,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            124,
+            205,
+            204,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            247,
+            222
+          ],
+          "text": "나눗셈을 하고, 몫과 나머지를 구하시오. 몫( ) 몫( )나머지( ) 나머지( )"
+        }
+      ]
+    }
+  ]
+}

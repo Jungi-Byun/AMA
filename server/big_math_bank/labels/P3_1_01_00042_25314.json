@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_1_01_00042_25314.png",
+  "id": "00042_25314",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "덧셈을 하시오.  (1) $ \\begin{array}{r}483 \\\\ +751 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}949 \\\\ +275 \\\\ \\hline\\end{array} $ (3) $ \\begin{array}{r}573 \\\\ +568 \\\\ \\hline\\end{array} $ (4) $ \\begin{array}{r}379 \\\\ +855 \\\\ \\hline\\end{array} $ (5) $ \\begin{array}{r}654 \\\\ +758 \\\\ \\hline\\end{array} $ (6) $ \\begin{array}{r}479 \\\\ +837 \\\\ \\hline\\end{array} $ (7) $ \\begin{array}{r}573 \\\\ +748 \\\\ \\hline\\end{array} $ (8) $ \\begin{array}{r}257 \\\\ +769 \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            16.23,
+            1.65,
+            109.23,
+            18.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.23,
+            16.65,
+            98.23,
+            68.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            103.23,
+            17.65,
+            188.23,
+            68.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            193.23,
+            17.65,
+            276.23,
+            68.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            16.23,
+            67.27,
+            95.23,
+            115.27
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            103.23,
+            66.27,
+            184.23,
+            118.27
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            193.23,
+            67.27,
+            278.23,
+            117.27
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.23,
+            138.27,
+            101.23,
+            184.27
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            105.23,
+            136.27,
+            193.23,
+            185.27
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            280,
+            186
+          ],
+          "text": "덧셈을 하시오.  (1) $ \\begin{array}{r}483 \\\\ +751 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}949 \\\\ +275 \\\\ \\hline\\end{array} $ (3) $ \\begin{array}{r}573 \\\\ +568 \\\\ \\hline\\end{array} $ (4) $ \\begin{array}{r}379 \\\\ +855 \\\\ \\hline\\end{array} $ (5) $ \\begin{array}{r}654 \\\\ +758 \\\\ \\hline\\end{array} $ (6) $ \\begin{array}{r}479 \\\\ +837 \\\\ \\hline\\end{array} $ (7) $ \\begin{array}{r}573 \\\\ +748 \\\\ \\hline\\end{array} $ (8) $ \\begin{array}{r}257 \\\\ +769 \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

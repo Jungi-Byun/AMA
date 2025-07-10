@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00043_53627.png",
+  "id": "00043_53627",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "반지름이 $3$ cm인 원$ 8$개를 다음과 같이 원의 중심을 지나도록 겹쳐서 그렸습니다. 원의 중심을 지나는 선분 ㄱㄴ은 몇 $ \\mathrm{cm} $인지 알아보시오.  ⑴ 처음에 그린 원 한 개의 지름은 몇 $ \\mathrm{cm} $입니까?  ⑵ 원을 하나씩 더 그릴 때마다 원의 중심을 지나는 선분은 몇$ \\mathrm{cm} $씩 늘어납니까?  ⑶ 선분 ㄱㄴ의 길이는 몇 $ \\mathrm{cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            292,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            120,
+            473,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            142,
+            230,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            29,
+            314,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.32,
+            1.91,
+            800.32,
+            17.91
+          ],
+          "text": "반지름이 $3$ cm인 원$ 8$개를 다음과 같이 원의 중심을 지나도록 겹쳐서 그렸습니다. 원의 중심을 지나는 선분 ㄱㄴ은 몇 $ \\mathrm{cm} $인지 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.32,
+            98.91,
+            476.32,
+            161.91
+          ],
+          "text": "⑴ 처음에 그린 원 한 개의 지름은 몇 $ \\mathrm{cm} $입니까?  ⑵ 원을 하나씩 더 그릴 때마다 원의 중심을 지나는 선분은 몇$ \\mathrm{cm} $씩 늘어납니까?  ⑶ 선분 ㄱㄴ의 길이는 몇 $ \\mathrm{cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

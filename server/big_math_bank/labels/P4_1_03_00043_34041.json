@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_03_00043_34041.png",
+  "id": "00043_34041",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103001",
+      "question_topic_name": "세 자리 수와 몇십 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미술관의 입장료가 어른은 $900$원, 어린이는 $400$원이라고 합니다. 어른이 $50$명, 어린이가 $60$명 입장했다면 입장료는 모두 얼마인지 알아보시오. ($1$) 어른 $50$명의 입장료는 얼마입니까? ($2$) 어린이 $60$명의 입장료는 얼마입니까? ($3$) 전체 입장료는 모두 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            61,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            239,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            255,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            225,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            105
+          ],
+          "text": "미술관의 입장료가 어른은 $900$원, 어린이는 $400$원이라고 합니다. 어른이 $50$명, 어린이가 $60$명 입장했다면 입장료는 모두 얼마인지 알아보시오. ($1$) 어른 $50$명의 입장료는 얼마입니까? ($2$) 어린이 $60$명의 입장료는 얼마입니까? ($3$) 전체 입장료는 모두 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

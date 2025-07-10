@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_06_00043_41997.png",
+  "id": "00043_41997",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106002",
+      "question_topic_name": "부분과 전체의 크기 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 라트비아의 국기입니다. 국기를 보고 바르게 말한 사람은 누구입니까? 정윤 : 흰색 부분은 국기를 똑같이 $3$으로 나눈 것 중의 $1$이야. 현성 : 라트비아 국기는 똑같이 셋으로 나누어지지 않았어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            455,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27.17,
+            108.64,
+            364.17,
+            130.64
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28.17,
+            129.64,
+            355.17,
+            147.64
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18.09,
+            21.1,
+            146.09,
+            101.1
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            457,
+            22
+          ],
+          "text": "다음은 라트비아의 국기입니다. 국기를 보고 바르게 말한 사람은 누구입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            25.09,
+            109.1,
+            364.09,
+            148.1
+          ],
+          "text": "정윤 : 흰색 부분은 국기를 똑같이 $3$으로 나눈 것 중의 $1$이야. 현성 : 라트비아 국기는 똑같이 셋으로 나누어지지 않았어."
+        }
+      ]
+    }
+  ]
+}

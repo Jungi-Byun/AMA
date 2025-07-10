@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00043_35026.png",
+  "id": "00043_35026",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직각삼각형에서 직각인 부분을 모두 찾아 (직각기호)로 표시하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            17.25,
+            0.94,
+            361.31,
+            23.98
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24.41,
+            28.07,
+            278.37,
+            189.86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.25,
+            0.94,
+            360.8,
+            23.98
+          ],
+          "text": "직각삼각형에서 직각인 부분을 모두 찾아 (직각기호)로 표시하시오."
+        }
+      ]
+    }
+  ]
+}

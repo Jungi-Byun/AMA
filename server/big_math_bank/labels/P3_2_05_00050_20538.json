@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00050_20538.png",
+  "id": "00050_20538",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준영이네 마을의 배추 수확량을 나타낸 표입니다. 준영이네 마을에서 수확한 배추가 모두 $1.9t$이라면 준영이네 집에서 수확한 배추는 몇 $kg$입니까? <table border> <caption><배추 수확량></caption>   <tbody>     <tr>       <td>$~~~~~~$가구$~~~$</td>       <td>$~~~$수확량($kg)~~~$</td>     </tr>     <tr>       <td>$~~~$준영이네$~~~$</td>       <td></td>     </tr>     <tr>       <td>$~~~$재민이네$~~~$</td>       <td>$~~~~~~~360$</td>     </tr>     <tr>       <td>$~~~$수혁이네$~~~$</td>       <td>$~~~~~~~590$</td>     </tr>     <tr>       <td>$~~~$희진이네$~~~$</td>       <td>$~~~~~~~280$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            97,
+            47,
+            183,
+            64
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            67,
+            262,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            184
+          ],
+          "text": "준영이네 마을의 배추 수확량을 나타낸 표입니다. 준영이네 마을에서 수확한 배추가 모두 $1.9t$이라면 준영이네 집에서 수확한 배추는 몇 $kg$입니까? <table border> <caption><배추 수확량></caption>   <tbody>     <tr>       <td>$~~~~~~$가구$~~~$</td>       <td>$~~~$수확량($kg)~~~$</td>     </tr>     <tr>       <td>$~~~$준영이네$~~~$</td>       <td></td>     </tr>     <tr>       <td>$~~~$재민이네$~~~$</td>       <td>$~~~~~~~360$</td>     </tr>     <tr>       <td>$~~~$수혁이네$~~~$</td>       <td>$~~~~~~~590$</td>     </tr>     <tr>       <td>$~~~$희진이네$~~~$</td>       <td>$~~~~~~~280$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

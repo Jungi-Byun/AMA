@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_26471.png",
+  "id": "00042_26471",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수현이와 민호가 각각 같은 주스를 마시고 있습니다. 수현이는 주스 한 병의  $ \\frac{1}{4} $을 마셨고, 민호는 주스 한 병의 $ \\frac{1}{2} $을 마셨습니다. 누가 주스를 더 많이 마셨습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            166,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            59
+          ],
+          "text": "수현이와 민호가 각각 같은 주스를 마시고 있습니다. 수현이는 주스 한 병의  $ \\frac{1}{4} $을 마셨고, 민호는 주스 한 병의 $ \\frac{1}{2} $을 마셨습니다. 누가 주스를 더 많이 마셨습니까?"
+        }
+      ]
+    }
+  ]
+}

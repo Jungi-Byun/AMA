@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52067.png",
+  "id": "00043_52067",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "우상향하며 사선으로 지나는 직선 ㄱㄴ이 수평하고 평행한 두 직선 가, 나와 각각 만나는 교점이 각각 ㄱ, ㄴ이고 직선 ㄱㄴ과 직선 가와의 왼쪽 아래쪽 교각의 크기가 70도, 직선 나와의 오른쪽 위쪽의 교각의 크기가 사각박스 모양과 도 단위로 표시된 도형",
+      "question_text": "직선 가와 직선 나는 서로 평행합니다. $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            420,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            27,
+            207,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            422,
+            21
+          ],
+          "text": "직선 가와 직선 나는 서로 평행합니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

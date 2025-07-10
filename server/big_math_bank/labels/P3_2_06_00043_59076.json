@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_06_00043_59076.png",
+  "id": "00043_59076",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사랑이네 반 학생들이 좋아하는 동물을 조사하여 나타낸 것입니다. 물음에 답하시오.  ⑴ 조사한 것을 보고 표로 나타내어 보시오. <좋아하는 동물별 학생 수>  <table border> <tbody> <tr> <td>동물</td> <td>강아지</td> <td>고양이</td> <td>병아리</td> <td>토끼</td> <td>합계</td>  </tr> <tr> <td>학생 수</td> <td>$~~$</td> <td>$~~$</td> <td>$~~$</td> <td>$~~$</td> <td>$~~$</td> </tr> </tbody> </table> ⑵ 표를 보고 그림그래프로 나타내어 보시오. 좋아하는 동물별 학생 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            493,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            275,
+            259,
+            292
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            297,
+            176,
+            313
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            319,
+            297,
+            367
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            370,
+            271,
+            387
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            28,
+            324,
+            268
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            400,
+            325,
+            636
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            495,
+            21
+          ],
+          "text": "사랑이네 반 학생들이 좋아하는 동물을 조사하여 나타낸 것입니다. 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            274,
+            299,
+            388
+          ],
+          "text": "⑴ 조사한 것을 보고 표로 나타내어 보시오. <좋아하는 동물별 학생 수>  <table border> <tbody> <tr> <td>동물</td> <td>강아지</td> <td>고양이</td> <td>병아리</td> <td>토끼</td> <td>합계</td>  </tr> <tr> <td>학생 수</td> <td>$~~$</td> <td>$~~$</td> <td>$~~$</td> <td>$~~$</td> <td>$~~$</td> </tr> </tbody> </table> ⑵ 표를 보고 그림그래프로 나타내어 보시오. 좋아하는 동물별 학생 수"
+        }
+      ]
+    }
+  ]
+}

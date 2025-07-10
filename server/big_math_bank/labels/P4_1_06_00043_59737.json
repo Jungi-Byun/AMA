@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_06_00043_59737.png",
+  "id": "00043_59737",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수가 들어가면 다음과 같은 규칙으로 수가 변해서 나오는 마술 모자가 있습니다. 이 마술 모자에 $83$을 넣으면 어떤 수가 나오겠습니까?  $ 21 \\rightarrow 5  76 \\rightarrow 45  37 \\rightarrow 24 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            236,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            57
+          ],
+          "text": "어떤 수가 들어가면 다음과 같은 규칙으로 수가 변해서 나오는 마술 모자가 있습니다. 이 마술 모자에 $83$을 넣으면 어떤 수가 나오겠습니까?  $ 21 \\rightarrow 5  76 \\rightarrow 45  37 \\rightarrow 24 $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_01_00042_92410.png",
+  "id": "00042_92410",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "구슬을 은주는 $264$개 모았고, 현수는 $495$개 모았습니다. 누가 구슬을 몇 개 더 모았습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            533,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.23,
+            0,
+            535.23,
+            18.65
+          ],
+          "text": "구슬을 은주는 $264$개 모았고, 현수는 $495$개 모았습니다. 누가 구슬을 몇 개 더 모았습니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_06_00042_94140.png",
+  "id": "00042_94140",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 마을의 과수원별 사과 수확량을 조사하여 나타낸 그림그래프입니다. 마을의 사과를 모두 트럭으로 운송하려고 합니다. 트럭 한 대에 $600$상자씩 실을 수 있다면 트럭은 적어도 몇 대가 필요합니까? <table border> <caption>과수원별 사과 수확량</caption>   <tbody>     <tr>       <td>과수원</td>       <td>수확량</td>     </tr>     <tr>       <td>하늘</td>       <td></td>     </tr>     <tr>       <td>달님</td>       <td></td>     </tr>     <tr>       <td>별님</td>       <td></td>     </tr>     <tr>       <td>햇님</td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            786,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            377,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            56,
+            315,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            788,
+            41
+          ],
+          "text": "어느 마을의 과수원별 사과 수확량을 조사하여 나타낸 그림그래프입니다. 마을의 사과를 모두 트럭으로 운송하려고 합니다. 트럭 한 대에 $600$상자씩 실을 수 있다면 트럭은 적어도 몇 대가 필요합니까? <table border> <caption>과수원별 사과 수확량</caption>   <tbody>     <tr>       <td>과수원</td>       <td>수확량</td>     </tr>     <tr>       <td>하늘</td>       <td></td>     </tr>     <tr>       <td>달님</td>       <td></td>     </tr>     <tr>       <td>별님</td>       <td></td>     </tr>     <tr>       <td>햇님</td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

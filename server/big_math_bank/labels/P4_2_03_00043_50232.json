@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00043_50232.png",
+  "id": "00043_50232",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$0.58$과 $0.63$의 크기를 비교하려고 합니다. 물음에 답하시오. (1) $0.58$과 $0.63$만큼 모눈종이에 색칠하시오 .(2) 두 수의 크기를 비교하여 $\\bigcirc$ 안에 $>,<$를 알맞게 써넣으시오. $0.58 \\bigcirc 0.63$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            360,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            275,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            225,
+            378,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.97,
+            246.6,
+            114.97,
+            274.6
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            51,
+            309,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            362,
+            40
+          ],
+          "text": "$0.58$과 $0.63$의 크기를 비교하려고 합니다. 물음에 답하시오. (1) $0.58$과 $0.63$만큼 모눈종이에 색칠하시오"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            224,
+            380,
+            275
+          ],
+          "text": ".(2) 두 수의 크기를 비교하여 $\\bigcirc$ 안에 $>,<$를 알맞게 써넣으시오. $0.58 \\bigcirc 0.63$"
+        }
+      ]
+    }
+  ]
+}

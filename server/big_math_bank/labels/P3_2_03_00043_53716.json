@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_03_00043_53716.png",
+  "id": "00043_53716",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "큰 원의 내부에 크기가 같은 3개의 원이 있고, 이 중 2개의 작은 원은 큰 원에 내접하고 서로 외접하고 있으며, 나머지 1개의 작은 원의 중심이 다른 두 작은 원의 접점과 일치하는 도형",
+      "question_text": "다음 그림과 같이 반지름이 $8 cm$인 원 안에 크기가 같은 원 $3$개를 중심이 서로 지나도록 겹쳐서 그렸습니다. 작은 원의 반지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            49,
+            127,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "다음 그림과 같이 반지름이 $8 cm$인 원 안에 크기가 같은 원 $3$개를 중심이 서로 지나도록 겹쳐서 그렸습니다. 작은 원의 반지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

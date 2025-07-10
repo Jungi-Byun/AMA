@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58124.png",
+  "id": "00043_58124",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "모서리가 둥근 직사각형 모양의 내부에서 가장 아래에 100 g의 추가 가로로 2개, 그 위에 100 g의 추가 가로로 3개, 그 위에 1 kg 추가 1개 있고, 모서리가 둥근 직사각형 오른쪽에 빨간 원 위에 더하기 기호가 있고, 그 오른쪽에 모서리가 둥근 직사각형 모양의 내부에서 가장 아래에 100 g의 추가 가로로 2개, 그 위에 100 g의 추가 가로로 2개, 그 위에 1 kg 추가 가로로 2개 있으며, 1 kg 추의 크기는 100 g 추의 크기보다 큰 그림",
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $1kg 500g+2kg 400g= \\square kg \\square g$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            191,
+            266,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            25,
+            318,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            277,
+            21
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            189,
+            268,
+            219
+          ],
+          "text": "$1kg 500g+2kg 400g= \\square kg \\square g$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_05_00043_40378.png",
+  "id": "00043_40378",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "시계를 보고 시각과 시간 중 알맞은 말에 $\\bigcirc$표 하고, $\\square$ 안에 알맞은 수를 써넣으시오. ⑴ 호수로 출발한 (시각, 시간)은 $\\square$시 $\\square$분 $\\square$초입니다.⑵ 쉼터에 도착한 (시각, 시간)은 $\\square$시 $\\square$분 $\\square$초입니다.⑶ 쉼터에서 호수까지 걸린 (시각, 시간)은 $1시간$ $28분$ $47초$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            495,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            118,
+            475,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            140,
+            494,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            165,
+            395,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            34,
+            311,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.7,
+            0.2,
+            497.7,
+            19.4
+          ],
+          "text": "시계를 보고 시각과 시간 중 알맞은 말에 $\\bigcirc$표 하고, $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.9,
+            117,
+            495.3,
+            184.2
+          ],
+          "text": "⑴ 호수로 출발한 (시각, 시간)은 $\\square$시 $\\square$분 $\\square$초입니다.⑵ 쉼터에 도착한 (시각, 시간)은 $\\square$시 $\\square$분 $\\square$초입니다.⑶ 쉼터에서 호수까지 걸린 (시각, 시간)은 $1시간$ $28분$ $47초$입니다."
+        }
+      ]
+    }
+  ]
+}

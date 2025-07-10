@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_03_00042_34979.png",
+  "id": "00042_34979",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈식과 관계있는 뺄셈식은 어느 것입니까? $21 \\div 7=3$ ① $21-7$  ② $21-3$  ③ $21-7-7-7$  ④ $21-3-3-3$  ⑤ $21-3-3-3-3-3-3-3$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            284,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            21,
+            79,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            55,
+            71,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            71,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            95,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            99,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            153,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            289,
+            167
+          ],
+          "text": "나눗셈식과 관계있는 뺄셈식은 어느 것입니까? $21 \\div 7=3$ ① $21-7$  ② $21-3$  ③ $21-7-7-7$  ④ $21-3-3-3$  ⑤ $21-3-3-3-3-3-3-3$"
+        }
+      ]
+    }
+  ]
+}

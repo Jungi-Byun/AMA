@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33427.png",
+  "id": "00043_33427",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$0$부터 $9$까지의 수를 한 번씩만 사용하여 (세 자리 수)+(세 자리 수)의 합이 가장 크게 되는 경우는 모두 몇 가지인지 구하고 그 때의 합을 구하시오. (단, $123+456$과 $456+123$은 한 가지로 생각합니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            612,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            542,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            614,
+            41
+          ],
+          "text": "$0$부터 $9$까지의 수를 한 번씩만 사용하여 (세 자리 수)+(세 자리 수)의 합이 가장 크게 되는 경우는 모두 몇 가지인지 구하고 그 때의 합을 구하시오. (단, $123+456$과 $456+123$은 한 가지로 생각합니다.)"
+        }
+      ]
+    }
+  ]
+}

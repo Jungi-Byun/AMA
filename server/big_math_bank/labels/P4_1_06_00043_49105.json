@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_06_00043_49105.png",
+  "id": "00043_49105",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미라와 상현이가 규칙 알아맞히기 놀이를 하고 있습니다. $\\square$ 안에 알맞은 수를 써넣으시오. 미라가 $2$라고 하면 상현이는 $8$이라고 답하고, 미라가 $3$이라고 하면 상현이는 $12$라고 답합니다. 또 미라가 $5$라고 하면 상현이는 $20$이라고 답합니다. ⑴  ⑵ 상현이의 규칙은 미라가 말한 수에 $\\square$를 곱합니다. ⑶ 미라가 $7$이라고 하면 상현이는 $\\square$이라고 답합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            526,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            804,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            55,
+            84,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            266,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            130,
+            352,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            151,
+            375,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            173
+          ],
+          "text": "미라와 상현이가 규칙 알아맞히기 놀이를 하고 있습니다. $\\square$ 안에 알맞은 수를 써넣으시오. 미라가 $2$라고 하면 상현이는 $8$이라고 답하고, 미라가 $3$이라고 하면 상현이는 $12$라고 답합니다. 또 미라가 $5$라고 하면 상현이는 $20$이라고 답합니다. ⑴  ⑵ 상현이의 규칙은 미라가 말한 수에 $\\square$를 곱합니다. ⑶ 미라가 $7$이라고 하면 상현이는 $\\square$이라고 답합니다."
+        }
+      ]
+    }
+  ]
+}

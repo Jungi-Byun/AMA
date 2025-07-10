@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_23235.png",
+  "id": "00043_23235",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준영이네 학교에서는 학교 축제에 사용할 풍선을 빨간색, 노란색, 파란색을 모두 합쳐 $350$개를 만들었습니다. 이 중에서 빨간색 풍선은 전체의 $\\frac{3}{7}$이고, 노란색 풍선은 빨간색을 제외한 나머지의 $\\frac{2}{5}$입니다. 풍선 중에서 파란색은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            621,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            59
+          ],
+          "text": "준영이네 학교에서는 학교 축제에 사용할 풍선을 빨간색, 노란색, 파란색을 모두 합쳐 $350$개를 만들었습니다. 이 중에서 빨간색 풍선은 전체의 $\\frac{3}{7}$이고, 노란색 풍선은 빨간색을 제외한 나머지의 $\\frac{2}{5}$입니다. 풍선 중에서 파란색은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57729.png",
+  "id": "00043_57729",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "생수통의 들이는 $ 6 \\mathrm{~L} 200 \\mathrm{~mL} $ 이고 주전자의 들이는 $ 2 \\mathrm{~L} 300 \\mathrm{~mL} $ 입니다. 생수통에 물을 가득 채운 후 주전자에 가득 차도록 부었습니다. 생수 통에 남은 물은 몇 $ L $  몇 $ \\mathrm{mL} $ 입니까? $ 6 \\mathrm{~L} 200 \\mathrm{~mL}  2 \\mathrm{~L} 300 \\mathrm{~mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            217,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            46,
+            281,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "생수통의 들이는 $ 6 \\mathrm{~L} 200 \\mathrm{~mL} $ 이고 주전자의 들이는 $ 2 \\mathrm{~L} 300 \\mathrm{~mL} $ 입니다. 생수통에 물을 가득 채운 후 주전자에 가득 차도록 부었습니다. 생수 통에 남은 물은 몇 $ L $  몇 $ \\mathrm{mL} $ 입니까? $ 6 \\mathrm{~L} 200 \\mathrm{~mL}  2 \\mathrm{~L} 300 \\mathrm{~mL} $"
+        }
+      ]
+    }
+  ]
+}

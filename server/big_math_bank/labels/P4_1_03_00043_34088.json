@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_34088.png",
+  "id": "00043_34088",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 과수원에서 사과는 한 상자에 $35$개씩 $156$상자 수확했고, 배는 한 상자에 $12$개씩 $103$상자 수확했습니다. 과수원에서 수확한 사과와 배는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            140,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "어느 과수원에서 사과는 한 상자에 $35$개씩 $156$상자 수확했고, 배는 한 상자에 $12$개씩 $103$상자 수확했습니다. 과수원에서 수확한 사과와 배는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

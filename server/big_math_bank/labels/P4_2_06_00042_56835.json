@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_06_00042_56835.png",
+  "id": "00042_56835",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정다각형에 대해 잘못 설명한 것은 어느 것입니까? ① 모든 변의 길이가 같습니다. ② 모든 각의 크기가 같습니다. ③ 모든 대각선의 길이가 같습니다. ④ 변의 수에 따라 이름이 정해집니다. ⑤ 모든 변의 길이의 합은 (한 변)×(변의 수)로 구할 수 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            198,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            198,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            224,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            240,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            388,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            130
+          ],
+          "text": "정다각형에 대해 잘못 설명한 것은 어느 것입니까? ① 모든 변의 길이가 같습니다. ② 모든 각의 크기가 같습니다. ③ 모든 대각선의 길이가 같습니다. ④ 변의 수에 따라 이름이 정해집니다. ⑤ 모든 변의 길이의 합은 (한 변)×(변의 수)로 구할 수 있습니다."
+        }
+      ]
+    }
+  ]
+}

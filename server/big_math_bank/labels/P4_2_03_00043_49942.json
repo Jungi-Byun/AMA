@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_49942.png",
+  "id": "00043_49942",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "모눈 전체의 크기를 $1$이라고 할 때 $\\square$  안에 알맞은 수나 말을 써넣으시오.   ($1$) 색칠한 부분은 $\\square$칸입니다. ($2$) 색칠한 부분을 분수로 나타내면 전체의 $ \\frac{\\square}{100} $입니다. ($3$) ($2$)에서 나타낸 분수를 소수로 나타내면 $\\square$이고, $\\square$이라고 읽습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            426,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            26,
+            148,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            428,
+            21
+          ],
+          "text": "모눈 전체의 크기를 $1$이라고 할 때 $\\square$  안에 알맞은 수나 말을 써넣으시오.   ($1$) 색칠한 부분은 $\\square$칸입니다. ($2$) 색칠한 부분을 분수로 나타내면 전체의 $ \\frac{\\square}{100} $입니다. ($3$) ($2$)에서 나타낸 분수를 소수로 나타내면 $\\square$이고, $\\square$이라고 읽습니다."
+        }
+      ]
+    }
+  ]
+}

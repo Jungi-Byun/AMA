@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00043_39096.png",
+  "id": "00043_39096",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 변의 길이가 $20m$인 정사각형 모양의 화단을 가로가 $5m$, 세로가 $2m$인 직사각형 모양으로 나누어 각 직사각형에 서로 다른 종류의 꽃을 한 가지씩 심으려고 합니다. 모두 몇 종류의 꽃을 심을 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            399,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            41
+          ],
+          "text": "한 변의 길이가 $20m$인 정사각형 모양의 화단을 가로가 $5m$, 세로가 $2m$인 직사각형 모양으로 나누어 각 직사각형에 서로 다른 종류의 꽃을 한 가지씩 심으려고 합니다. 모두 몇 종류의 꽃을 심을 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58076.png",
+  "id": "00043_58076",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "막걸리는 찹쌀, 보리, 밀가루 등을 쪄서 누룩과 물을 섞어 발효시킨 술입니다. 막걸리를 만들 때 찹쌀 $2kg 600g$과 누룩 $700g$을 사용했다면 사용한 찹쌀과 누룩은 모두 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            244,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "막걸리는 찹쌀, 보리, 밀가루 등을 쪄서 누룩과 물을 섞어 발효시킨 술입니다. 막걸리를 만들 때 찹쌀 $2kg 600g$과 누룩 $700g$을 사용했다면 사용한 찹쌀과 누룩은 모두 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

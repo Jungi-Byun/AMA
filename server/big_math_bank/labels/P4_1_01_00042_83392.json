@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_01_00042_83392.png",
+  "id": "00042_83392",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 수를 바르게 쓴 것은 어느 것입니까? 조가 $ 15 $, 억이 $ 240 $, 만이 $ 70 $인 수 ①$ 15240070 $ ②$ 1524000070000 $ ③$ 15024070000 $ ④$ 15024000700000 $ ⑤$ 152400000700000 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            253,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            217,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            58,
+            107,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            153,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            134,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            162,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            172,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            14.69,
+            0.9,
+            253.69,
+            166.9
+          ],
+          "text": "다음 수를 바르게 쓴 것은 어느 것입니까? 조가 $ 15 $, 억이 $ 240 $, 만이 $ 70 $인 수 ①$ 15240070 $ ②$ 1524000070000 $ ③$ 15024070000 $ ④$ 15024000700000 $ ⑤$ 152400000700000 $"
+        }
+      ]
+    }
+  ]
+}

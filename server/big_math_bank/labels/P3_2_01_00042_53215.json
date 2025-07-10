@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00042_53215.png",
+  "id": "00042_53215",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연필을 $20$자루씩 $35$명에게 나누어 주려고 합니다. 연필은 모두 몇 자루가 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            507,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            509,
+            21
+          ],
+          "text": "연필을 $20$자루씩 $35$명에게 나누어 주려고 합니다. 연필은 모두 몇 자루가 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

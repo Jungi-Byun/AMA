@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00040_43214.png",
+  "id": "00040_43214",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 도형 이동에 대한 설명으로 바른 것은 어느 것입니까? ①오른쪽으로 뒤집었을 때 생기는 모양은 처음 도형과 같습니다. ② 방향으로 돌렸을 때 생기는 모양은 처음 도형과 같습니다. ③위쪽으로 뒤집었을 때 생기는 모양은 처음 도형과 같습니다. ④왼쪽으로 두 번 뒤집었을 때 생기는 모양은 처음 도형과 같습니다. ⑤ 방향으로 돌렸을 때 생기는 모양은 처음 도형과 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            367,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            412,
+            256
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            369,
+            21
+          ],
+          "text": "다음 중 도형 이동에 대한 설명으로 바른 것은 어느 것입니까? ①오른쪽으로 뒤집었을 때 생기는 모양은 처음 도형과 같습니다. ② 방향으로 돌렸을 때 생기는 모양은 처음 도형과 같습니다. ③위쪽으로 뒤집었을 때 생기는 모양은 처음 도형과 같습니다. ④왼쪽으로 두 번 뒤집었을 때 생기는 모양은 처음 도형과 같습니다. ⑤ 방향으로 돌렸을 때 생기는 모양은 처음 도형과 같습니다."
+        }
+      ]
+    }
+  ]
+}

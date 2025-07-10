@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_06_00043_42192.png",
+  "id": "00043_42192",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠과 ㉡에 알맞은 수를 각각 구하시오. ㆍ$ \\frac{5}{11} $ 는 $ \\frac{1}{11} $ 이 ㉠개입니다.ㆍ$ \\frac{1}{7} $이 ㉡개이면 $ \\frac{4}{7} $입니다. ㉠ ( )㉡ ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            25,
+            217,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            72,
+            210,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            120,
+            89,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            142,
+            89,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            285,
+            159
+          ],
+          "text": "㉠과 ㉡에 알맞은 수를 각각 구하시오. ㆍ$ \\frac{5}{11} $ 는 $ \\frac{1}{11} $ 이 ㉠개입니다.ㆍ$ \\frac{1}{7} $이 ㉡개이면 $ \\frac{4}{7} $입니다. ㉠ ( )㉡ ( )"
+        }
+      ]
+    }
+  ]
+}

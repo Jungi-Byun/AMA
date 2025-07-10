@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00042_83867.png",
+  "id": "00042_83867",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정사각형에 대한 설명 중에서 옳지 않은 것은 어느 것입니까? ①$4$개의 각이 있습니다. ②$4$개의 변이 있습니다. ③$4$개의 각은 모두 직각입니다. ④$4$개의 변은 모두 같습니다. ⑤마주 보는 두 변은 같지 않습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            363,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            165,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            165,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            207,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            194,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            232,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            365,
+            130
+          ],
+          "text": "정사각형에 대한 설명 중에서 옳지 않은 것은 어느 것입니까? ①$4$개의 각이 있습니다. ②$4$개의 변이 있습니다. ③$4$개의 각은 모두 직각입니다. ④$4$개의 변은 모두 같습니다. ⑤마주 보는 두 변은 같지 않습니다."
+        }
+      ]
+    }
+  ]
+}

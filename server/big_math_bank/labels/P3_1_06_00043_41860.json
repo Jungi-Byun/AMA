@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_41860.png",
+  "id": "00043_41860",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준성이는 다음과 같이 꽃을 심었습니다. 아무것도 심지 않은 부분은 장미를 심은 부분의 몇 배인지 구하시오.  장미 : 꽃밭 전체의 $0.2$ 튤립 : 꽃밭 전체의 $ \\frac{4}{10} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            625,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            161,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            175,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            659,
+            95
+          ],
+          "text": "준성이는 다음과 같이 꽃을 심었습니다. 아무것도 심지 않은 부분은 장미를 심은 부분의 몇 배인지 구하시오.  장미 : 꽃밭 전체의 $0.2$ 튤립 : 꽃밭 전체의 $ \\frac{4}{10} $"
+        }
+      ]
+    }
+  ]
+}

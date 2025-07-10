@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_42295.png",
+  "id": "00043_42295",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 알맞은 말에 $\\bigcirc$ 표 하시오. $ \\frac{1}{4}   \\frac{1}{6} $  $ \\frac{1}{4} $ 은 $ \\frac{1}{6} $ 보다 더 (큽니다, 작습니다).",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            115,
+            233,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            25,
+            296,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.76,
+            1.18,
+            232.96,
+            17.18
+          ],
+          "text": "그림을 보고 알맞은 말에 $\\bigcirc$ 표 하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.56,
+            116.38,
+            232.96,
+            149.98
+          ],
+          "text": "$ \\frac{1}{4}   \\frac{1}{6} $  $ \\frac{1}{4} $ 은 $ \\frac{1}{6} $ 보다 더 (큽니다, 작습니다)."
+        }
+      ]
+    }
+  ]
+}

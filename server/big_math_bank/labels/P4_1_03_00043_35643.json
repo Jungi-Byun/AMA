@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_35643.png",
+  "id": "00043_35643",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도매 시장에서 한 상자에 $46$개씩 들어 있는 배를 $16$상자 사왔습니다. 이 배를 한 상자에 $25$개씩 다시 담아 팔려고 합니다. 팔 수 있는 배는 몇 상자이고 몇 개가 남습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            195,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            41
+          ],
+          "text": "도매 시장에서 한 상자에 $46$개씩 들어 있는 배를 $16$상자 사왔습니다. 이 배를 한 상자에 $25$개씩 다시 담아 팔려고 합니다. 팔 수 있는 배는 몇 상자이고 몇 개가 남습니까?"
+        }
+      ]
+    }
+  ]
+}

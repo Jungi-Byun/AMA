@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_02_00042_53433.png",
+  "id": "00042_53433",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈을 하시오.(1) 28÷2 (2) 63÷3(3) 46÷2 (4) 88÷4",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            116,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            175,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            178,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            181,
+            61
+          ],
+          "text": "나눗셈을 하시오.(1) 28÷2 (2) 63÷3(3) 46÷2 (4) 88÷4"
+        }
+      ]
+    }
+  ]
+}

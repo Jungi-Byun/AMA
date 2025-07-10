@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50722.png",
+  "id": "00043_50722",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203016",
+      "question_topic_name": "소수 두 자리 수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "색깔이 다르고 폭이 같으며 길이가 5.26 m, 6.95 m인 테이프가 각각 위, 아래에 있는 그림",
+      "question_text": "두 색 테이프의 길이의 차는 몇 $m$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            253,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            37,
+            300,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            255,
+            21
+          ],
+          "text": "두 색 테이프의 길이의 차는 몇 $m$입니까?"
+        }
+      ]
+    }
+  ]
+}

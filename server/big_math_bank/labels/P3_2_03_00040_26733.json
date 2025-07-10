@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_03_00040_26733.png",
+  "id": "00040_26733",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "컴퍼스를 사용하여 반지름의 길이가 $1cm$인 원과 반지름의 길이가 $2cm$인 원을 하나씩 그리려고 합니다. 반드시 다르게 해 주어야 할 것은 어느 것입니까? ①원의 중심 ②컴퍼스의 침 ③컴퍼스의 침과 연필심 사이의 거리 ④연필의 종류 ⑤종이의 크기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            107,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            99,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            111,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            237,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            112,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            111,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            152
+          ],
+          "text": "컴퍼스를 사용하여 반지름의 길이가 $1cm$인 원과 반지름의 길이가 $2cm$인 원을 하나씩 그리려고 합니다. 반드시 다르게 해 주어야 할 것은 어느 것입니까? ①원의 중심 ②컴퍼스의 침 ③컴퍼스의 침과 연필심 사이의 거리 ④연필의 종류 ⑤종이의 크기"
+        }
+      ]
+    }
+  ]
+}

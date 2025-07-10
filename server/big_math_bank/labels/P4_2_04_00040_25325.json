@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_25325.png",
+  "id": "00040_25325",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204017",
+      "question_topic_name": "마름모의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에 세로로 길쭉하고 한 변의 길이가 5 cm인 마름모와 오른쪽에 한 변의 길이가 3 cm인 마름모가 있는 도형",
+      "question_text": "다음 두 도형은 마름모입니다. 두 도형의 둘레의 차는 몇 $ \\mathrm{cm} $입니까?  ①$ 4\\mathrm{cm} $ ②$ 5\\mathrm{cm} $ ③$ 7\\mathrm{cm} $ ④$8 \\mathrm{cm} $ ⑤$ 9\\mathrm{cm} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            401,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            143,
+            71,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            165,
+            70,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            187,
+            70,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            209,
+            71,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            231,
+            71,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            22,
+            255,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            403,
+            21
+          ],
+          "text": "다음 두 도형은 마름모입니다. 두 도형의 둘레의 차는 몇 $ \\mathrm{cm} $입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            142,
+            73,
+            252
+          ],
+          "text": "①$ 4\\mathrm{cm} $ ②$ 5\\mathrm{cm} $ ③$ 7\\mathrm{cm} $ ④$8 \\mathrm{cm} $ ⑤$ 9\\mathrm{cm} $"
+        }
+      ]
+    }
+  ]
+}

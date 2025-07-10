@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_01_00042_52513.png",
+  "id": "00042_52513",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 계산을 잘못한 것은 어느 것입니까?  ①  $ 57 \\times 23=1311 $ ② $ 34 \\times 54=1836 $ ③ $ 47 \\times 75=3525 $ ④ $ 68 \\times 32=2176 $ ⑤ $ 91 \\times 76=1183 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            266,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            113,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            121,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            120,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            121,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            115,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            268,
+            130
+          ],
+          "text": "다음 중 계산을 잘못한 것은 어느 것입니까?  ①  $ 57 \\times 23=1311 $ ② $ 34 \\times 54=1836 $ ③ $ 47 \\times 75=3525 $ ④ $ 68 \\times 32=2176 $ ⑤ $ 91 \\times 76=1183 $"
+        }
+      ]
+    }
+  ]
+}

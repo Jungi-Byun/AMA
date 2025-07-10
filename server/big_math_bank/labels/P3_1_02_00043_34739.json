@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00043_34739.png",
+  "id": "00043_34739",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에는 오른쪽 아래로 기울어져 있는 대각선이 점선으로 그려져 있고 그 중앙에 오른쪽 위로 향하는 곡선인 화살표가 있는 정사각형 모양의 색종이가 있고, 그 옆에 오른쪽 방향으로 화살표가 있고, 가운데에는 정사각형 모양의 색종이가 오른쪽 아래로 기울어져 있는 대각선으로 접혀 직각삼각형 모양이 된 색종이가 있고 빗변의 양 끝의 꼭짓점이 직각인 꼭짓점에 닿게 접었다가 펼쳐진 부분이 점선으로 그려져 있고 점선 가운데에 색종이의 진행 방향으로 곡선인 화살표가 있고, 그 옆에 오른쪽 방향으로 화살표가 있고 오른쪽에는 왼쪽에 있는 방법으로 완전히 접힌 정사각형 모양의 색종이가 있는 도형",
+      "question_text": "정사각형 모양의 종이를 그림과 같이 접은 다음 펼쳐서 접힌 부분을 따라 자르면 직각삼각형과 정사각형이 각각 몇 개씩 만들어집니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            778,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            286,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            780,
+            21
+          ],
+          "text": "정사각형 모양의 종이를 그림과 같이 접은 다음 펼쳐서 접힌 부분을 따라 자르면 직각삼각형과 정사각형이 각각 몇 개씩 만들어집니까?"
+        }
+      ]
+    }
+  ]
+}

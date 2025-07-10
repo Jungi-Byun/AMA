@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_03_00043_50047.png",
+  "id": "00043_50047",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 소수로 바르게 나타낸 것을 찾아 $\\bigcirc$표 하시오.  영점 영오팔  $ \\begin{array}{lll}0.58 & 0.058 & 0.508\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            317,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            100,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            60,
+            64,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            72,
+            55,
+            149,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            148,
+            62,
+            208,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            358,
+            91
+          ],
+          "text": "다음을 소수로 바르게 나타낸 것을 찾아 $\\bigcirc$표 하시오.  영점 영오팔  $ \\begin{array}{lll}0.58 & 0.058 & 0.508\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

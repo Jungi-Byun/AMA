@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_05_00043_58634.png",
+  "id": "00043_58634",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "상온의 물 $800$ mL를 끓이면서 $30$초마다 물의 온도를 측정하였습니다. 측정한 내용으로 꺾은선그래프를 그리려고 할 때 알맞은 제목을 정해 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            78,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "상온의 물 $800$ mL를 끓이면서 $30$초마다 물의 온도를 측정하였습니다. 측정한 내용으로 꺾은선그래프를 그리려고 할 때 알맞은 제목을 정해 보시오."
+        }
+      ]
+    }
+  ]
+}

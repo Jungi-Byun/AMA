@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00042_52945.png",
+  "id": "00042_52945",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물건의 무게를 잘못 어림하여 나타낸 것은 어느 것입니까?  ①고추 $1$개 $\\rightarrow$ 약 $20$g ②감자 $1$개 $\\rightarrow$ 약 $300$g ③라면 $2$개 $\\rightarrow$ 약 $10$kg ④동화책 $4$권 $\\rightarrow$ 약 $1$kg ⑤$100$원짜리 동전 $2$개 $\\rightarrow$ 약 $10$g",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            346,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            151,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            161,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            158,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            162,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            217,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            348,
+            130
+          ],
+          "text": "물건의 무게를 잘못 어림하여 나타낸 것은 어느 것입니까?  ①고추 $1$개 $\\rightarrow$ 약 $20$g ②감자 $1$개 $\\rightarrow$ 약 $300$g ③라면 $2$개 $\\rightarrow$ 약 $10$kg ④동화책 $4$권 $\\rightarrow$ 약 $1$kg ⑤$100$원짜리 동전 $2$개 $\\rightarrow$ 약 $10$g"
+        }
+      ]
+    }
+  ]
+}

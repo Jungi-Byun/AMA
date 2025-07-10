@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_40651.png",
+  "id": "00043_40651",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "집에서 주민센터까지의 거리를$ km$와 $m$를 사용하여 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            381,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            34,
+            317,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            384,
+            22
+          ],
+          "text": "집에서 주민센터까지의 거리를$ km$와 $m$를 사용하여 나타내시오."
+        }
+      ]
+    }
+  ]
+}

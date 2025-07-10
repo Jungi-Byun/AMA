@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_02_00043_35041.png",
+  "id": "00043_35041",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "학생들이 도화지에 그려진 도형을 설명하고 있습니다. 도화지에 그려진 도형의 이름을 쓰시오. ㆍ소라 : $3$개의 선분으로 둘러싸인 도형이야. ㆍ미주 : 각이 $3$개 있어. ㆍ태진 : 한 각이 직각이야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            547,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            25,
+            278,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            54,
+            158,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            75,
+            179,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            549,
+            95
+          ],
+          "text": "학생들이 도화지에 그려진 도형을 설명하고 있습니다. 도화지에 그려진 도형의 이름을 쓰시오. ㆍ소라 : $3$개의 선분으로 둘러싸인 도형이야. ㆍ미주 : 각이 $3$개 있어. ㆍ태진 : 한 각이 직각이야."
+        }
+      ]
+    }
+  ]
+}

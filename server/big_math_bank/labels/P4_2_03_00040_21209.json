@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00040_21209.png",
+  "id": "00040_21209",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203013",
+      "question_topic_name": "소수 두 자리 수의 덧셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게가 $ 0.15 \\mathrm{~kg} $인 통 안에 $ 0.69 \\mathrm{~kg} $의 소금이 담겨 있다면 이 소금이 담긴 통의 무게는 몇 $ \\mathrm{kg} $입니까? ①$ 0.54 \\mathrm{~kg} ② 0.64 \\mathrm{~kg} $ ③$ 0.74 \\mathrm{~kg} ④ 0.84 \\mathrm{~kg} $ ⑤$ 0.98 \\mathrm{~kg} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            571,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            87,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            88,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            87,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            88,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            88,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            573,
+            130
+          ],
+          "text": "무게가 $ 0.15 \\mathrm{~kg} $인 통 안에 $ 0.69 \\mathrm{~kg} $의 소금이 담겨 있다면 이 소금이 담긴 통의 무게는 몇 $ \\mathrm{kg} $입니까? ①$ 0.54 \\mathrm{~kg} ② 0.64 \\mathrm{~kg} $ ③$ 0.74 \\mathrm{~kg} ④ 0.84 \\mathrm{~kg} $ ⑤$ 0.98 \\mathrm{~kg} $"
+        }
+      ]
+    }
+  ]
+}

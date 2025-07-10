@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_03_00042_53284.png",
+  "id": "00042_53284",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "중심이 점 ㅇ인 원에 점 ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅅ이 차례로 있고, 선분 ㄱㅂ, ㄴㅁ, ㄴㄹ과 지름인 선분 ㄷㅅ이 그어져 있는 도형",
+      "question_text": "다음 원에서 지름이 되는 선분은 어느 것입니까?  ①선분 $ㄱㅂ$  ②선분 $ㄴㅁ$  ③선분 $ㄴㄹ$  ④선분 $ㄷㅅ$  ⑤선분 $ㅅㅇ$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            292,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            119,
+            98,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            143,
+            98,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            165,
+            98,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            187,
+            98,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            209,
+            98,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            20,
+            144,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.68,
+            0.4,
+            295.51,
+            16.23
+          ],
+          "text": "다음 원에서 지름이 되는 선분은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.05,
+            123.09,
+            100,
+            228.37
+          ],
+          "text": "①선분 $ㄱㅂ$  ②선분 $ㄴㅁ$  ③선분 $ㄴㄹ$  ④선분 $ㄷㅅ$  ⑤선분 $ㅅㅇ$"
+        }
+      ]
+    }
+  ]
+}

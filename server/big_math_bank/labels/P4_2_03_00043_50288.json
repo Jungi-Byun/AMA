@@ -1,0 +1,139 @@
+{
+  "question_filename": "P4_2_03_00043_50288.png",
+  "id": "00043_50288",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203004",
+      "question_topic_name": "소수의 크기를 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 수의 크기를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오. (1) $9.32 \\bigcirc 7.96$  (2) $3 \\bigcirc 1.947$  (3) $1.301 \\bigcirc 1.456$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            372,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            26,
+            66,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            70,
+            23,
+            96,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            100,
+            27,
+            129,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            50,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            53,
+            72,
+            80,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            84,
+            57,
+            119,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            86,
+            72,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            76,
+            83,
+            103,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            107,
+            87,
+            141,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            374,
+            110
+          ],
+          "text": "두 수의 크기를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오. (1) $9.32 \\bigcirc 7.96$  (2) $3 \\bigcirc 1.947$  (3) $1.301 \\bigcirc 1.456$"
+        }
+      ]
+    }
+  ]
+}

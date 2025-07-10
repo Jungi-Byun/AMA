@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00042_56545.png",
+  "id": "00042_56545",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 수 가, 나, 다가 다음과 같은 관계일 때, 가, 나, 다를 각각 구하시오.   $가 + 나 =5.12 $ $나 + 다  =4.555 $ $가 + 다  =3.905 $ 가 $ () $ 나 $ () $ 다 $ () $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            407,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            109,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            52,
+            108,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            74,
+            114,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            103
+          ],
+          "text": "세 수 가, 나, 다가 다음과 같은 관계일 때, 가, 나, 다를 각각 구하시오.   $가 + 나 =5.12 $ $나 + 다  =4.555 $ $가 + 다  =3.905 $ 가 $ () $ 나 $ () $ 다 $ () $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_40580.png",
+  "id": "00043_40580",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영애는 등산을 하는 데 산을 올라갈 때는 내려올 때보다 $1$시간 $6$분이 더 걸렸습니다. 산을 내려올 때 걸린 시간이 $1$시간 $55$분이라면 올라갈 때 걸린 시간은 몇 시간 몇 분입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            228,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "영애는 등산을 하는 데 산을 올라갈 때는 내려올 때보다 $1$시간 $6$분이 더 걸렸습니다. 산을 내려올 때 걸린 시간이 $1$시간 $55$분이라면 올라갈 때 걸린 시간은 몇 시간 몇 분입니까?"
+        }
+      ]
+    }
+  ]
+}

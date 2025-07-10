@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_03_00042_26783.png",
+  "id": "00042_26783",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사탕이 $12$개 있습니다. 한 봉지에 $6$개씩 담는다면 몇 봉지를 담을 수 있는지 알아보시오. (1) 사탕 $12$개를 $6$개씩 묶어 보시오.  (2) 식을 세워 답을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            513,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            218,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            67,
+            183,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36.28,
+            40.36,
+            304.28,
+            70.36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            515,
+            40
+          ],
+          "text": "사탕이 $12$개 있습니다. 한 봉지에 $6$개씩 담는다면 몇 봉지를 담을 수 있는지 알아보시오. (1) 사탕 $12$개를 $6$개씩 묶어 보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.28,
+            68.36,
+            182.28,
+            87.36
+          ],
+          "text": "(2) 식을 세워 답을 구하시오."
+        }
+      ]
+    }
+  ]
+}

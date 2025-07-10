@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_02_00043_00027.png",
+  "id": "00043_00027",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형을 보고 물음에 답하시오. (1) 한 각이 직각인 삼각형을 찾아 기호를 쓰시오.(2) 도형 나의 이름을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            291,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            139,
+            178,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            28,
+            324,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.92,
+            0.85,
+            187.39,
+            16.72
+          ],
+          "text": "도형을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.41,
+            116.86,
+            290.82,
+            156.29
+          ],
+          "text": "(1) 한 각이 직각인 삼각형을 찾아 기호를 쓰시오.(2) 도형 나의 이름을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

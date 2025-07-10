@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_42296.png",
+  "id": "00043_42296",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "주어진 분수만큼 색칠하고, 두 분수의 크기를 비교하여 $\\bigcirc$ 안에 $>, <$를 알맞게 써넣으시오. $ \\frac{1}{8} \\bigcirc \\frac{1}{4} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            523,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            60.62,
+            95.61,
+            139.34,
+            132.73
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            25,
+            173,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.28,
+            0.46,
+            525.88,
+            19.66
+          ],
+          "text": "주어진 분수만큼 색칠하고, 두 분수의 크기를 비교하여 $\\bigcirc$ 안에 $>, <$를 알맞게 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            59.34,
+            95.61,
+            139.34,
+            132.73
+          ],
+          "text": "$ \\frac{1}{8} \\bigcirc \\frac{1}{4} $"
+        }
+      ]
+    }
+  ]
+}

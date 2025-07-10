@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_01_00043_33042.png",
+  "id": "00043_33042",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$2$개의 다트를 던져 풍선을 터트리는 놀이를 하려고 합니다. 인형을 받으려면 어떤 두 수가 쓰인 풍선을 터트려야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            609,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            107,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            52,
+            320,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            1.4,
+            610.1,
+            39.4
+          ],
+          "text": "$2$개의 다트를 던져 풍선을 터트리는 놀이를 하려고 합니다. 인형을 받으려면 어떤 두 수가 쓰인 풍선을 터트려야 합니까?"
+        }
+      ]
+    }
+  ]
+}

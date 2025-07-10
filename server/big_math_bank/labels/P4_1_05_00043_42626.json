@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_05_00043_42626.png",
+  "id": "00043_42626",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105002",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 날의 도시별 최고 기온과 최저 기온을 조사하여 나타낸 막대그래프의 일부분이 찢어졌습니다. 다음을 보고 최고 기온과 최저 기온의 온도의 차가 가장 큰 도시는 어디인지 구하시오. ㆍ대전의 최고 기온은 서울의 최고 기온보다 $2℃$ 낮습니다.ㆍ대구의 최고 기온은 부산의 최고 기온보다 $5℃$ 높습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            275,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            346,
+            365,
+            375
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29.3,
+            374.5,
+            356.5,
+            396.9
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            50,
+            319,
+            331
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            1.7,
+            804.5,
+            40.9
+          ],
+          "text": "어느 날의 도시별 최고 기온과 최저 기온을 조사하여 나타낸 막대그래프의 일부분이 찢어졌습니다. 다음을 보고 최고 기온과 최저 기온의 온도의 차가 가장 큰 도시는 어디인지 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            27.7,
+            345.7,
+            366.1,
+            397.7
+          ],
+          "text": "ㆍ대전의 최고 기온은 서울의 최고 기온보다 $2℃$ 낮습니다.ㆍ대구의 최고 기온은 부산의 최고 기온보다 $5℃$ 높습니다."
+        }
+      ]
+    }
+  ]
+}

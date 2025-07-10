@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_01_00042_29919.png",
+  "id": "00042_29919",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 수의 크기를 비교하여 $\\bigcirc$안에 >, <를 알맞게 써넣으시오(1) $99$억 $3875$만 $\\bigcirc 102$억 $42$만(2) $623583081872 \\bigcirc 623276320379$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            354,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            26,
+            115,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            123,
+            23,
+            149,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            157,
+            26,
+            227,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            143,
+            53,
+            169,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            135,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            177,
+            57,
+            273,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            356,
+            80
+          ],
+          "text": "두 수의 크기를 비교하여 $\\bigcirc$안에 >, <를 알맞게 써넣으시오(1) $99$억 $3875$만 $\\bigcirc 102$억 $42$만(2) $623583081872 \\bigcirc 623276320379$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38640.png",
+  "id": "00043_38640",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201003",
+      "question_topic_name": "(진분수)+(진분수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "이웃 돕기를 위한 쌀 모으기 행사에 영호는 $ 1 \\frac{2}{7}  kg$, 진영이는 $ 2 \\frac{4}{7}  kg$의 쌀을 냈습니다. 영호와 진영이가 낸 쌀의 무게는 모두 몇 $kg$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            260,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            567,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            569,
+            59
+          ],
+          "text": "이웃 돕기를 위한 쌀 모으기 행사에 영호는 $ 1 \\frac{2}{7}  kg$, 진영이는 $ 2 \\frac{4}{7}  kg$의 쌀을 냈습니다. 영호와 진영이가 낸 쌀의 무게는 모두 몇 $kg$입니까?"
+        }
+      ]
+    }
+  ]
+}

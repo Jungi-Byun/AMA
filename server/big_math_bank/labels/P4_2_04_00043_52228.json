@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52228.png",
+  "id": "00043_52228",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204001",
+      "question_topic_name": "수직 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㄹㅁ과 변 ㄴㄷ이 수직인 사각형 ㄱㄴㄷㄹ과 예각 ㅁㄹㄷ에 각도 표시가 되어 있고, 각 ㄹㄷㅁ이 42도인 삼각형 ㄹㅁㄷ",
+      "question_text": "다음과 같은 사각형 ㄱㄴㄷㄹ에서 선분 ㄹㅁ은 변 ㄴㄷ에 대한 수선입니다. 각 ㄷㄹㅁ의 크기는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            630,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            34,
+            201,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            632,
+            25
+          ],
+          "text": "다음과 같은 사각형 ㄱㄴㄷㄹ에서 선분 ㄹㅁ은 변 ㄴㄷ에 대한 수선입니다. 각 ㄷㄹㅁ의 크기는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

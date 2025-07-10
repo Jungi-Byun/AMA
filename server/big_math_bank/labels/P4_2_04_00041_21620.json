@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00041_21620.png",
+  "id": "00041_21620",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204017",
+      "question_topic_name": "마름모의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "변 ㄱㄴ의 길이가 9 cm이고 내각 ㄷ이 빨간색 각 표현하고 150도인 파란 마름모 ㄱㄴㄷㄹ에서 대각선 ㄱㄷ과 대각선 ㄴㄹ의 교점 ㅇ이고 각 ㄱㄹㅇ이 빨간색 각 표현하고 15도인 도형",
+      "question_text": "도형 $ㄱㄴㄷㄹ$은 마름모입니다. 설명이 바르지 않은 것을 모두 고르시오.  ① 둘레는 $36cm$입니다.  ② 선분 $ㄱㄷ$의 길이는 $9cm$입니다.  ③ 각 $ㄱㄴㄷ$의 크기는 $30°$입니다.  ④ 각 $ㄹㄱㅇ$의 크기는 $85°$입니다.  ⑤ 선분 $ㄱㄷ$과 선분 $ㄴㄹ$은 수직입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            425,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            162,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            128,
+            225,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            150,
+            220,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            172,
+            219,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            194,
+            253,
+            214
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            27,
+            253,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            427,
+            22
+          ],
+          "text": "도형 $ㄱㄴㄷㄹ$은 마름모입니다. 설명이 바르지 않은 것을 모두 고르시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            105,
+            255,
+            215
+          ],
+          "text": "① 둘레는 $36cm$입니다.  ② 선분 $ㄱㄷ$의 길이는 $9cm$입니다.  ③ 각 $ㄱㄴㄷ$의 크기는 $30°$입니다.  ④ 각 $ㄹㄱㅇ$의 크기는 $85°$입니다.  ⑤ 선분 $ㄱㄷ$과 선분 $ㄴㄹ$은 수직입니다."
+        }
+      ]
+    }
+  ]
+}

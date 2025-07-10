@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00044_36773.png",
+  "id": "00044_36773",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204007",
+      "question_topic_name": "평행선 사이의 거리 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "위에는 각 ㄱ이 직각이고 각 ㅁ이 45도이며 변 ㄱㄹ의 길이가 8 cm인 직각삼각형 ㄱㅁㄹ이고 아래는 각 ㄴ이 직각이고 각 ㅁ이 45도이며 변 ㄴㄷ의 길이가 6 cm인 직각삼각형 ㅁㄴㄷ이 겹치지 않고 선분 ㄱㄴ 위의 점 ㅁ의 꼭짓점이 만나는 도형",
+      "question_text": "다음 도형에서 변 ㄱㄹ과 변 ㄴㄷ은 서로 평행하고, 변 ㄱㄹ과 변 ㄱㄴ은 서로 수직입니다. 이 도형에서 평행선 사이의 거리는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            35,
+            131,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            25
+          ],
+          "text": "다음 도형에서 변 ㄱㄹ과 변 ㄴㄷ은 서로 평행하고, 변 ㄱㄹ과 변 ㄱㄴ은 서로 수직입니다. 이 도형에서 평행선 사이의 거리는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

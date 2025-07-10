@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_01_00042_53968.png",
+  "id": "00042_53968",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 큰 곱과 가장 작은 곱의 합을 구하시오.  $㉠ 46 \\times 73 ㉡ 58 \\times 29$  $㉢ 67 \\times 54 ㉣ 84 \\times 28$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            266,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            83,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            100,
+            21,
+            177,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            88,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            110,
+            43,
+            180,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            300,
+            78
+          ],
+          "text": "가장 큰 곱과 가장 작은 곱의 합을 구하시오.  $㉠ 46 \\times 73 ㉡ 58 \\times 29$  $㉢ 67 \\times 54 ㉣ 84 \\times 28$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_2_05_00040_22899.png",
+  "id": "00040_22899",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민호가 어제 밤에 열이 많이 나서 1시간마다 체온을 재었습니다. 다음 표는 민호의 체온을 나타낸 것입니다. 이 표를 보고 물결선을 사용한   꺾은선그래프를 그릴 때 꼭 필요한 부분은 몇 $ { }^{\\circ} C $부터 몇 $ { }^{\\circ} C $까지입니까?   민호의 체온  <table border>   <tbody align=\"center\">     <tr>       <td>시각</td>       <td>6시</td>       <td>7시</td>       <td>8시</td>       <td>9시</td>       <td>10시</td>       <td>11시</td>     </tr>     <tr>       <td>온도($ { }^{\\circ} C $)</td>       <td>37.4</td>       <td>37.9</td>       <td>38.2</td>       <td>39.3</td>       <td>38.7</td>       <td>38.3</td>     </tr> </tbody> </table> ① $ 20^{\\circ} C \\sim 37^{\\circ} C $  ② $ 35^{\\circ} C \\sim 38^{\\circ} C $  ③ $ 36^{\\circ} C \\sim 39^{\\circ} C $  ④ $ 37^{\\circ} C \\sim 40^{\\circ} C $  ⑤ $ 38^{\\circ} C \\sim 41^{\\circ} C $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            414,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            88,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            65,
+            314,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            104,
+            106,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            126,
+            106,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            148,
+            106,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            170,
+            107,
+            189
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            192,
+            104,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            212
+          ],
+          "text": "민호가 어제 밤에 열이 많이 나서 1시간마다 체온을 재었습니다. 다음 표는 민호의 체온을 나타낸 것입니다. 이 표를 보고 물결선을 사용한   꺾은선그래프를 그릴 때 꼭 필요한 부분은 몇 $ { }^{\\circ} C $부터 몇 $ { }^{\\circ} C $까지입니까?   민호의 체온  <table border>   <tbody align=\"center\">     <tr>       <td>시각</td>       <td>6시</td>       <td>7시</td>       <td>8시</td>       <td>9시</td>       <td>10시</td>       <td>11시</td>     </tr>     <tr>       <td>온도($ { }^{\\circ} C $)</td>       <td>37.4</td>       <td>37.9</td>       <td>38.2</td>       <td>39.3</td>       <td>38.7</td>       <td>38.3</td>     </tr> </tbody> </table> ① $ 20^{\\circ} C \\sim 37^{\\circ} C $  ② $ 35^{\\circ} C \\sim 38^{\\circ} C $  ③ $ 36^{\\circ} C \\sim 39^{\\circ} C $  ④ $ 37^{\\circ} C \\sim 40^{\\circ} C $  ⑤ $ 38^{\\circ} C \\sim 41^{\\circ} C $"
+        }
+      ]
+    }
+  ]
+}

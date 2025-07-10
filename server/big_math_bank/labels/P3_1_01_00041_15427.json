@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_01_00041_15427.png",
+  "id": "00041_15427",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$안에 알맞은 수를 써넣으시오.  $ \\begin{array}{r}5~6~3 \\\\ +1~7~2 \\\\ \\hline \\square\\end{array}   \\rightarrow   \\begin{array}{r} \\overset{\\square}{5}~6~3 \\\\ + 1~7~2 \\\\ \\hline \\square \\square\\end{array}   \\rightarrow   \\begin{array}{r}\\overset{\\square}{5}~6~3 \\\\ + 1~7~2 \\\\ \\hline \\square \\square \\square\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            221,
+            23,
+            279,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            129,
+            23,
+            183,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            33,
+            36,
+            90,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            100,
+            57,
+            118,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            193,
+            59,
+            211,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            281,
+            104
+          ],
+          "text": "$\\square$안에 알맞은 수를 써넣으시오.  $ \\begin{array}{r}5~6~3 \\\\ +1~7~2 \\\\ \\hline \\square\\end{array}   \\rightarrow   \\begin{array}{r} \\overset{\\square}{5}~6~3 \\\\ + 1~7~2 \\\\ \\hline \\square \\square\\end{array}   \\rightarrow   \\begin{array}{r}\\overset{\\square}{5}~6~3 \\\\ + 1~7~2 \\\\ \\hline \\square \\square \\square\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

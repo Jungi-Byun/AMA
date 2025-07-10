@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_39349.png",
+  "id": "00043_39349",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201012",
+      "question_topic_name": "(대분수)-(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $\\frac{6}{7}$m, $2\\frac{2}{7}$m인 두 끈을 묶어서 이은 끈의 길이를 재어 보았더니 $2\\frac{5}{7}$m였습니다. 끈을 묶는 데 매듭으로 사용된 길이는 몇$ m$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            40,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            58
+          ],
+          "text": "길이가 $\\frac{6}{7}$m, $2\\frac{2}{7}$m인 두 끈을 묶어서 이은 끈의 길이를 재어 보았더니 $2\\frac{5}{7}$m였습니다. 끈을 묶는 데 매듭으로 사용된 길이는 몇$ m$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00042_53740.png",
+  "id": "00042_53740",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게를 나타낼 때, $g$으로 나타내기에 적당한 것을 모두 고르시오. ①책상 ②숟가락 ③수박 ④세탁기 ⑤연필",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            382,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            71,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            83,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            71,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            82,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            70,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            384,
+            130
+          ],
+          "text": "무게를 나타낼 때, $g$으로 나타내기에 적당한 것을 모두 고르시오. ①책상 ②숟가락 ③수박 ④세탁기 ⑤연필"
+        }
+      ]
+    }
+  ]
+}

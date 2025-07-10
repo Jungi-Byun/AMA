@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53332.png",
+  "id": "00043_53332",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각 반지름을 재어 보시오.  <table border>   <tbody>     <tr>       <td>선분$ㅇㄱ$</td>       <td>$~~$</td>     </tr>     <tr>       <td>선분$ㅇㄴ$</td>       <td>$~~$</td>     </tr>     <tr>       <td>선분$ㅇㄷ$</td>       <td>$~~$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            162,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            297,
+            137,
+            366
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            32,
+            277,
+            282
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.79,
+            0.95,
+            160.23,
+            16.95
+          ],
+          "text": "각 반지름을 재어 보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.43,
+            297.91,
+            135.27,
+            368.31
+          ],
+          "text": "<table border>   <tbody>     <tr>       <td>선분$ㅇㄱ$</td>       <td>$~~$</td>     </tr>     <tr>       <td>선분$ㅇㄴ$</td>       <td>$~~$</td>     </tr>     <tr>       <td>선분$ㅇㄷ$</td>       <td>$~~$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

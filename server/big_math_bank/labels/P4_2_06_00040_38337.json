@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_06_00040_38337.png",
+  "id": "00040_38337",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206004",
+      "question_topic_name": "대각선의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "대각선에 대한 설명으로 옳지 않은 것은 어느 것입니까? ①오각형은 대각선이 $5$개입니다. ②평행사변형은 두 대각선의 길이가 같습니다. ③마름모는 두 대각선이 서로 수직으로 만나고 한 대각선이 다른 대각선을 반으로 나눕니다. ④삼각형은 대각선이 없습니다. ⑤직사각형은 두 대각선이 서로 이등분합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            333,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            215,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            291,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            546,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            207,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            291,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            548,
+            130
+          ],
+          "text": "대각선에 대한 설명으로 옳지 않은 것은 어느 것입니까? ①오각형은 대각선이 $5$개입니다. ②평행사변형은 두 대각선의 길이가 같습니다. ③마름모는 두 대각선이 서로 수직으로 만나고 한 대각선이 다른 대각선을 반으로 나눕니다. ④삼각형은 대각선이 없습니다. ⑤직사각형은 두 대각선이 서로 이등분합니다."
+        }
+      ]
+    }
+  ]
+}

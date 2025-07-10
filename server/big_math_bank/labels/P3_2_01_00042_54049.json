@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00042_54049.png",
+  "id": "00042_54049",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 번에 $123$명씩 태울 수 있는 놀이기구가 빈자리 없이 $3$번 운행되었습니다. 놀이기구에 탄 사람은 모두 몇 명인지 곱셈식을 만들어 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            36,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            39
+          ],
+          "text": "한 번에 $123$명씩 태울 수 있는 놀이기구가 빈자리 없이 $3$번 운행되었습니다. 놀이기구에 탄 사람은 모두 몇 명인지 곱셈식을 만들어 구하시오."
+        }
+      ]
+    }
+  ]
+}

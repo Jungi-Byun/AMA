@@ -1,0 +1,149 @@
+{
+  "question_filename": "P3_1_03_00043_36363.png",
+  "id": "00043_36363",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈식 $ 5 \\times 7=35 $와 나눗셈식 $ 35 \\div 5=7 $에 알맞은 문장을 만들려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오.$ 5 \\times 7=35  \\rightarrow$ 운동장에 학생이 $ \\square $명씩 $7$줄로 $ \\square $명이 서 있습니다  $ 35 \\div 5=7  \\rightarrow$ 운동장에 학생 $ \\square $명이 한 줄에$5$명씩 $ \\square $줄로있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            607,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            28,
+            86,
+            44
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            190,
+            28,
+            254,
+            44
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            55,
+            48,
+            173,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            222,
+            48,
+            324,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            70,
+            159,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            190,
+            70,
+            357,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            97,
+            179,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            190,
+            97,
+            327,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            195,
+            122,
+            265,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            122,
+            79,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            609,
+            144
+          ],
+          "text": "곱셈식 $ 5 \\times 7=35 $와 나눗셈식 $ 35 \\div 5=7 $에 알맞은 문장을 만들려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오.$ 5 \\times 7=35  \\rightarrow$ 운동장에 학생이 $ \\square $명씩 $7$줄로 $ \\square $명이 서 있습니다  $ 35 \\div 5=7  \\rightarrow$ 운동장에 학생 $ \\square $명이 한 줄에$5$명씩 $ \\square $줄로있습니다."
+        }
+      ]
+    }
+  ]
+}

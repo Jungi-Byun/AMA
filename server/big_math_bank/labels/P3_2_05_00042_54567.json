@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_54567.png",
+  "id": "00042_54567",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "눈금 3개가 있는 직선에서 첫 번째 눈금과 두 번째 눈금 사이는 2L 400 mL, 2번째 눈금과 세 번째 눈금 사이는 1L 500 mL, 첫 번째 눈금과 세 번째 눈금 사이는 네모L 네모mL가 쓰여있는 그림",
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            24,
+            323,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            277,
+            21
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_56021.png",
+  "id": "00043_56021",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현성이는 경주에 있는 첨성대를 보고 다음과 같이 정리하였습니다. 첨성대의 높이는 약 몇 $ \\mathrm{m} $ 인지 가분수로 나타내어 보시오. · 국보 제 $31$호  · 종류 : 천문대  · 높이 : 약 $ 9 \\frac{1}{5} \\mathrm{~m} $  · 전체 돌의 개수 :$ 401 $개  · 정사각형 모양의 문이 달려 있다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            718,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            21,
+            121,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            54,
+            128,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            75,
+            160,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            120,
+            182,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            138,
+            231,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            724,
+            162
+          ],
+          "text": "현성이는 경주에 있는 첨성대를 보고 다음과 같이 정리하였습니다. 첨성대의 높이는 약 몇 $ \\mathrm{m} $ 인지 가분수로 나타내어 보시오. · 국보 제 $31$호  · 종류 : 천문대  · 높이 : 약 $ 9 \\frac{1}{5} \\mathrm{~m} $  · 전체 돌의 개수 :$ 401 $개  · 정사각형 모양의 문이 달려 있다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "question_filename": "P4_1_05_00043_43053.png",
+  "id": "00043_43053",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 눈금의 단위가 1이고, 10까지 나타나 있으며, 단위는 (명)인 '학생 수'를 나타내는 세로축과 '활동'을 나타내는 가로축에서 '개인 컵 사용하기'와 '분리배출하기', '손수건 사용하기', '친환경 제품구입'이 있을 때, '개인 컵 사용하기'가 8의 값을, '분리배출하기'가 6의 값을, '손수건 사용하기'가 2의 값을, '친환경 제품구입'이 5의 값을 가지는 막대 그래프",
+      "question_text": "성호네 반 학생들이 실천 가능한 환경 보호 활동별 학생 수를 조사하여 나타낸 막대그래프입니다. 물음에 답하시오. <table border> <caption>실천가능한 환경 보호 활동별 학생 수</caption>   <tbody>     <tr>       <td>활동</td>       <td>개인 컵 사용하기</td>       <td>분리 배출하기</td>       <td>손수건사용하기</td>       <td>친환경제품구입</td>       <td>합계</td>     </tr>       <td>학생 수(명)</td>       <td>$8$</td>       <td>$6$</td>       <td>$2$</td>       <td>$5$</td>       <td>$21$</td> </tbody> </table>  (1) 환경 보호 활동으로 할 수 있는 일이 아닌 것을 찾아 기호로 쓰시오. ㉠ 개인 컵 사용하기 ㉡ 분리 배출하기 ㉢ 용돈 아껴쓰기 ㉣ 손수건 사용하기 (2) 환경 보호 활동을 실천한 학생은 모두 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            664,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            39,
+            19,
+            294,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            46,
+            315,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            320,
+            414,
+            340
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            449,
+            329,
+            466
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25.42,
+            354.67,
+            139.98,
+            370.03
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25.42,
+            419.31,
+            136.14,
+            437.23
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23.5,
+            377.07,
+            122.06,
+            393.07
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.78,
+            398.19,
+            122.7,
+            413.55
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            126,
+            315,
+            321
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            0,
+            666,
+            128.41
+          ],
+          "text": "성호네 반 학생들이 실천 가능한 환경 보호 활동별 학생 수를 조사하여 나타낸 막대그래프입니다. 물음에 답하시오. <table border> <caption>실천가능한 환경 보호 활동별 학생 수</caption>   <tbody>     <tr>       <td>활동</td>       <td>개인 컵 사용하기</td>       <td>분리 배출하기</td>       <td>손수건사용하기</td>       <td>친환경제품구입</td>       <td>합계</td>     </tr>       <td>학생 수(명)</td>       <td>$8$</td>       <td>$6$</td>       <td>$2$</td>       <td>$5$</td>       <td>$21$</td> </tbody> </table> "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            323,
+            414,
+            469
+          ],
+          "text": "(1) 환경 보호 활동으로 할 수 있는 일이 아닌 것을 찾아 기호로 쓰시오. ㉠ 개인 컵 사용하기 ㉡ 분리 배출하기 ㉢ 용돈 아껴쓰기 ㉣ 손수건 사용하기 (2) 환경 보호 활동을 실천한 학생은 모두 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

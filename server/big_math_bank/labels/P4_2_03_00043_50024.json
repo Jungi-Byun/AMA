@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50024.png",
+  "id": "00043_50024",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "수직선 위 7.32, 7.33, 7.34 사이에 숫자가 쓰여 있는 눈금보다 작은 눈금이 9개씩 각각 일정한 간격으로 있고 7.32에서 오른쪽으로 여섯 번째와 7.33에서 오른쪽으로 세 번째 눈금을 각각 가리키는 화살표 아래에 네모 빈칸이 있는 도형",
+      "question_text": "$\\square$ 안에 알맞은 소수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            216,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            32,
+            317,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            218,
+            22
+          ],
+          "text": "$\\square$ 안에 알맞은 소수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

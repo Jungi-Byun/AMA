@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_04_00043_38476.png",
+  "id": "00043_38476",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "0에서 출발한 반직선에 모두 50개의 눈금이 있고 10, 20, 30, 40, 50번째의 눈금은 진하게 눈금표시가 되어 있으며 그 아래에는 10, 20, 30, 40, 50이라고 숫자 표시가 있으며 호 모양의 점선으로 된 오른쪽 방향 화살표로 0에서 출발하여 15번째 눈금을 가리키도록 하고 똑같은 모양의 화살표가 15번째 눈금에서 출발하여 30번째 눈금을 가리키도록 하고 역시 똑같은 모양의 화살표가 30번째 눈금에서 출발하여 45번째 눈금을 가리키는 것을 나타내는 수직선",
+      "question_text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $ 15 \\times \\square=  \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            116,
+            80,
+            235,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            29,
+            310,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            289,
+            21
+          ],
+          "text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            114,
+            78,
+            237,
+            111
+          ],
+          "text": "$ 15 \\times \\square=  \\square $"
+        }
+      ]
+    }
+  ]
+}

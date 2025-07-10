@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51237.png",
+  "id": "00043_51237",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사탕 $36$개와 초콜릿 $33$개가 있습니다. 이 사탕과 초콜릿을 3명이 똑같이 나누어 먹으려고 합니다. 한 사람이 먹을 수 있는 사탕과 초콜릿은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            124,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "사탕 $36$개와 초콜릿 $33$개가 있습니다. 이 사탕과 초콜릿을 3명이 똑같이 나누어 먹으려고 합니다. 한 사람이 먹을 수 있는 사탕과 초콜릿은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

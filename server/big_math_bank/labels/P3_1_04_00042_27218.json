@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00042_27218.png",
+  "id": "00042_27218",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형 모양의 숫자카드 3개가 가로 방향으로 일정한 간격을 두고 나란히 있고 카드 내부에 각 변과 가까이 평행하게 이은 굵은 선분을 변으로 하는 작은 직사각형이 있으며 외부의 직사각형과 내부의 작은 직사각형의 변은 왼쪽부터 분홍색, 노란색, 파란색이며 그 내부에 왼쪽부터 검은색으로 차례대로 숫자 3과 2와 6으로 나타낸 도형",
+      "question_text": "숫자 카드를 한 번씩 사용하여 $(두 자리 수)\\times (한 자리 수)$를 만들 때, 곱이 가장 작은 곱셈식을 쓰고 값을 구하시오. $3$ $2$ $6$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            659,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            20.92,
+            118.1,
+            52.92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            1.92,
+            659.1,
+            52.92
+          ],
+          "text": "숫자 카드를 한 번씩 사용하여 $(두 자리 수)\\times (한 자리 수)$를 만들 때, 곱이 가장 작은 곱셈식을 쓰고 값을 구하시오. $3$ $2$ $6$"
+        }
+      ]
+    }
+  ]
+}

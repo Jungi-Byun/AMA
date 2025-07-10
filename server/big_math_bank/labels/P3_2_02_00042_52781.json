@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00042_52781.png",
+  "id": "00042_52781",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민주네 모둠은 남학생이 $5$명, 여학생이 $3$명입니다. 송편$ 95$개를 학생들에게 남김없이 똑같게 나누어 주려면 적어도 몇 개가 더 있어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "민주네 모둠은 남학생이 $5$명, 여학생이 $3$명입니다. 송편$ 95$개를 학생들에게 남김없이 똑같게 나누어 주려면 적어도 몇 개가 더 있어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

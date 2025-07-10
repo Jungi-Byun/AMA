@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_02_00043_37372.png",
+  "id": "00043_37372",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변이 가로로 놓인 예각삼각형의 왼쪽 밑각의 크기가 원 문자ㄴ, 밑변의 연장선 위에 있는 오른쪽 외각의 크기가 145도, 위쪽에 위치한 각의 크기가 원 문자 ㄱ",
+      "question_text": "삼각형에서 $㉠$과 $㉡$의 크기의 합을 구하려고 합니다. 물음에 답하시오. ⑴ 삼각형에서 $㉠$과 $㉡$을 제외한 나머지 한 각의 크기는 몇 도입니까?⑵ 삼각형의 세 각의 크기의 합은 얼마입니까?⑶ $㉠$과 $㉡$의 크기의 합은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            412,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            91,
+            408,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            113,
+            279,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            135,
+            237,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            23,
+            178,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.28,
+            1.16,
+            411.48,
+            17.16
+          ],
+          "text": "삼각형에서 $㉠$과 $㉡$의 크기의 합을 구하려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            90.76,
+            409.08,
+            151.56
+          ],
+          "text": "⑴ 삼각형에서 $㉠$과 $㉡$을 제외한 나머지 한 각의 크기는 몇 도입니까?⑵ 삼각형의 세 각의 크기의 합은 얼마입니까?⑶ $㉠$과 $㉡$의 크기의 합은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

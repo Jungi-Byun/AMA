@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00043_51383.png",
+  "id": "00043_51383",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수를 $ 3 $으로 나눈 다음 $ 7 $로 나누어야 할 것을 잘못하여 어떤 수에 $ 3 $과 $ 7 $을 곱하였더니 $ 630 $이 되었습니다. 바르게 계산하면 몫과 나머지는 얼마가 됩니까?몫 ( )나머지 ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            124,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            85,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            111,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            83
+          ],
+          "text": "어떤 수를 $ 3 $으로 나눈 다음 $ 7 $로 나누어야 할 것을 잘못하여 어떤 수에 $ 3 $과 $ 7 $을 곱하였더니 $ 630 $이 되었습니다. 바르게 계산하면 몫과 나머지는 얼마가 됩니까?몫 ( )나머지 ( )"
+        }
+      ]
+    }
+  ]
+}

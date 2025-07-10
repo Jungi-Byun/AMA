@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51468.png",
+  "id": "00043_51468",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과일 가게에서 복숭아 $65$개를 $5$봉지에 똑같이 나누어 담고, 참외 $56$개를 $4$봉지에 똑같이 나누어 담아서 팔고 있습니다. 이 과일 가게에서 복숭아 한 봉지와 참외 한 봉지를 샀다면 어느 과일이 몇 개 더 많습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            789,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            429,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            791,
+            41
+          ],
+          "text": "과일 가게에서 복숭아 $65$개를 $5$봉지에 똑같이 나누어 담고, 참외 $56$개를 $4$봉지에 똑같이 나누어 담아서 팔고 있습니다. 이 과일 가게에서 복숭아 한 봉지와 참외 한 봉지를 샀다면 어느 과일이 몇 개 더 많습니까?"
+        }
+      ]
+    }
+  ]
+}

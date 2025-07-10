@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_00450.png",
+  "id": "00043_00450",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 큰 분수를 찾아 쓰시오. $ \\frac{3}{10}  \\frac{9}{10}  \\frac{7}{10} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            178,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            28,
+            191,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            224,
+            76
+          ],
+          "text": "가장 큰 분수를 찾아 쓰시오. $ \\frac{3}{10}  \\frac{9}{10}  \\frac{7}{10} $"
+        }
+      ]
+    }
+  ]
+}

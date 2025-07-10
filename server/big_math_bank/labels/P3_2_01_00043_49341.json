@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49341.png",
+  "id": "00043_49341",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201005",
+      "question_topic_name": "일, 십, 백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우리 머리카락은 한 달에 $10 mm$정도 자라며 $6$년 정도된 머리카락은 모낭에서 떨어져 빠지게 됩니다. 머리카락이 $6$년 동안 자라는 길이는 몇 $mm$정도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            131,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "우리 머리카락은 한 달에 $10 mm$정도 자라며 $6$년 정도된 머리카락은 모낭에서 떨어져 빠지게 됩니다. 머리카락이 $6$년 동안 자라는 길이는 몇 $mm$정도입니까?"
+        }
+      ]
+    }
+  ]
+}

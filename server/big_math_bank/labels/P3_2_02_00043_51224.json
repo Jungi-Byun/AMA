@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51224.png",
+  "id": "00043_51224",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현주네 농장에 있는 오리와 돼지의 다리 수를 세었더니 모두 $78$개였습니다. 오리가 $15$마리 있다면 돼지는 몇 마리 있습니까? (단, 오리 한 마리의 다리는 $2$개이고 돼지 한 마리의 다리는 $4$개입니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            338,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "현주네 농장에 있는 오리와 돼지의 다리 수를 세었더니 모두 $78$개였습니다. 오리가 $15$마리 있다면 돼지는 몇 마리 있습니까? (단, 오리 한 마리의 다리는 $2$개이고 돼지 한 마리의 다리는 $4$개입니다.)"
+        }
+      ]
+    }
+  ]
+}

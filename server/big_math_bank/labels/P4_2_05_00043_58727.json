@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_05_00043_58727.png",
+  "id": "00043_58727",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "서준이의 철봉 오래버티기 기록을 조사하여 나타낸 꺾은선그래프입니다. $\\square$ 안에 알맞게 써넣으시오.  세로 눈금 $0$초에서 $\\square$초 사이를 물결선으로 생략하여 나타내었습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            585,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            185,
+            450,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            23,
+            307,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.32,
+            0.91,
+            585.32,
+            19.91
+          ],
+          "text": "서준이의 철봉 오래버티기 기록을 조사하여 나타낸 꺾은선그래프입니다. $\\square$ 안에 알맞게 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.32,
+            185.91,
+            451.32,
+            207.91
+          ],
+          "text": "세로 눈금 $0$초에서 $\\square$초 사이를 물결선으로 생략하여 나타내었습니다."
+        }
+      ]
+    }
+  ]
+}

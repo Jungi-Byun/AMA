@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_02_00043_37328.png",
+  "id": "00043_37328",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102012",
+      "question_topic_name": "삼각형의 세 각의 크기의 합 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 삼각형의 세 각의 크기의 합에 대해 알게 된 것을 쓰시오.  ① 삼각형의 세 각의 안쪽을 색칠합니다.  ② 삼각형의 세 각을 잘라 각의 꼭짓점이 한 점에 모이도록 이어 붙여 봅니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            408,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            308,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            155,
+            308,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            46,
+            175,
+            300,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            110,
+            41,
+            213,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            101,
+            196,
+            213,
+            268
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            410,
+            43
+          ],
+          "text": "그림을 보고 삼각형의 세 각의 크기의 합에 대해 알게 된 것을 쓰시오.  ① 삼각형의 세 각의 안쪽을 색칠합니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21,
+            154,
+            310,
+            196
+          ],
+          "text": " ② 삼각형의 세 각을 잘라 각의 꼭짓점이 한 점에 모이도록 이어 붙여 봅니다."
+        }
+      ]
+    }
+  ]
+}

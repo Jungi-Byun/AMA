@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00042_52867.png",
+  "id": "00042_52867",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉮ 병에 물을 가득 채우려면 ㉯ 병에 물을 가득 담아 $2$번 부어야 하고, ㉯ 병에 물을 가득 채우려면 ㉰ 병에 물을 가득 담아 $3$번 부어야 합니다. ㉮ 병의 들이는 몇 $L$ 몇 $mL$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            245,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            325,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "㉮ 병에 물을 가득 채우려면 ㉯ 병에 물을 가득 담아 $2$번 부어야 하고, ㉯ 병에 물을 가득 채우려면 ㉰ 병에 물을 가득 담아 $3$번 부어야 합니다. ㉮ 병의 들이는 몇 $L$ 몇 $mL$입니까?"
+        }
+      ]
+    }
+  ]
+}

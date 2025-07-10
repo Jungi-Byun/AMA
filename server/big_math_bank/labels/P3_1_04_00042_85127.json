@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_04_00042_85127.png",
+  "id": "00042_85127",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈을 하시오.  (1) $ \\begin{array}{r}13 \\\\ \\times  2 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}21 \\\\ \\times  4 \\\\ \\hline\\end{array} $ (3) $ \\begin{array}{r}22 \\\\ \\times  3 \\\\ \\hline\\end{array} $ (4) $ \\begin{array}{r}42 \\\\ \\times  2 \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            83,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            105,
+            23,
+            178,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            113,
+            87,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            107,
+            112,
+            180,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            182,
+            154
+          ],
+          "text": "곱셈을 하시오.  (1) $ \\begin{array}{r}13 \\\\ \\times  2 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}21 \\\\ \\times  4 \\\\ \\hline\\end{array} $ (3) $ \\begin{array}{r}22 \\\\ \\times  3 \\\\ \\hline\\end{array} $ (4) $ \\begin{array}{r}42 \\\\ \\times  2 \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

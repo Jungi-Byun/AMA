@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00042_30894.png",
+  "id": "00042_30894",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101001",
+      "question_topic_name": "1000이 10개인 수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나머지 넷과  다른  수는 어느 것입니까?  ①$100$이 $100$인 수 ②$9900$보다 $100$ 큰 수 ③$10$이 $1000$인 수 ④$9999$보다 $1$ 큰 수 ⑤$9990$보다 $1$ 큰 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            237,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            138,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            166,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            138,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            145,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            146,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            239,
+            130
+          ],
+          "text": "나머지 넷과  다른  수는 어느 것입니까?  ①$100$이 $100$인 수 ②$9900$보다 $100$ 큰 수 ③$10$이 $1000$인 수 ④$9999$보다 $1$ 큰 수 ⑤$9990$보다 $1$ 큰 수"
+        }
+      ]
+    }
+  ]
+}

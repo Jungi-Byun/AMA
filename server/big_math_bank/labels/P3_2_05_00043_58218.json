@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_58218.png",
+  "id": "00043_58218",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 식의 $\\square$ 안에 $0$부터 $9$까지의 수가 들어갈 수 있습니다. 대화를 보고 잘못된 사실을 말한 사람은 누구인지 이름을 쓰시오. $3kg 600g+5kg 900g>9\\square00g$ 소라 : $\\square$ 안에 알맞은 수는 $5$개야.은정 : $9$는 $\\square$ 안에 알맞은 수야.경희 : $7$은 $\\square$ 안에 알맞지 않아.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            720,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            227,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            210,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            198,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            197,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            747,
+            122
+          ],
+          "text": "다음 식의 $\\square$ 안에 $0$부터 $9$까지의 수가 들어갈 수 있습니다. 대화를 보고 잘못된 사실을 말한 사람은 누구인지 이름을 쓰시오. $3kg 600g+5kg 900g>9\\square00g$ 소라 : $\\square$ 안에 알맞은 수는 $5$개야.은정 : $9$는 $\\square$ 안에 알맞은 수야.경희 : $7$은 $\\square$ 안에 알맞지 않아."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_02_00043_37242.png",
+  "id": "00043_37242",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102007",
+      "question_topic_name": "각도를 어림하고 각도기로 재어 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각도를 어림하고 각도기로 재어 보시오. 어림한 각도 : (     )  잰 각도 : (    )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            242,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            90,
+            148,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            113,
+            122,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            147,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            0,
+            243.17,
+            16.61
+          ],
+          "text": "각도를 어림하고 각도기로 재어 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            90.61,
+            149.17,
+            129.61
+          ],
+          "text": "어림한 각도 : (     )  잰 각도 : (    )"
+        }
+      ]
+    }
+  ]
+}

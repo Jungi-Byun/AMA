@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_01_00043_26395.png",
+  "id": "00043_26395",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 보고, 바르게 계산한 식은 어느 것입니까?  지영이는 줄넘기를 $1224$번 넘고, 영진이는 $988$번 넘었습니다. 누가 얼마나 더 넘었습니까?  ① $ \\begin{array}{r}1224 \\\\ - 988 \\\\ \\hline 8664\\end{array} $  ② $ \\begin{array}{r}1224 \\\\ - 988 \\\\ \\hline 1764\\end{array} $  ③ $ \\begin{array}{r}1224 \\\\ - 988 \\\\ \\hline 236\\end{array} $  ④ $ \\begin{array}{r}1224 \\\\ + 988 \\\\ \\hline 2212\\end{array} $  ⑤ $ \\begin{array}{r}1224 \\\\ - 988 \\\\ \\hline 1236\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            295,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            540,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            62,
+            160,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            135,
+            162,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            208,
+            162,
+            270
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            281,
+            163,
+            343
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            354,
+            160,
+            416
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            547,
+            418
+          ],
+          "text": "다음을 보고, 바르게 계산한 식은 어느 것입니까?  지영이는 줄넘기를 $1224$번 넘고, 영진이는 $988$번 넘었습니다. 누가 얼마나 더 넘었습니까?  ① $ \\begin{array}{r}1224 \\\\ - 988 \\\\ \\hline 8664\\end{array} $  ② $ \\begin{array}{r}1224 \\\\ - 988 \\\\ \\hline 1764\\end{array} $  ③ $ \\begin{array}{r}1224 \\\\ - 988 \\\\ \\hline 236\\end{array} $  ④ $ \\begin{array}{r}1224 \\\\ + 988 \\\\ \\hline 2212\\end{array} $  ⑤ $ \\begin{array}{r}1224 \\\\ - 988 \\\\ \\hline 1236\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

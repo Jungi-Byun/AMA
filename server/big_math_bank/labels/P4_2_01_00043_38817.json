@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_01_00043_38817.png",
+  "id": "00043_38817",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201010",
+      "question_topic_name": "분모가 같은 대분수끼리 뺄셈을 자연수, 진분수끼리 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 3 \\frac{3}{6}-2 \\frac{1}{6} $ 을 어떻게 계산하는지 알아보시오.  (1) $ 3 \\frac{3}{6} $ 만큼 색칠하고 $ 2 \\frac{1}{6} $ 만큼 $ \\times $ 로 지우시오. (2) $ \\times $ 로 지우고 남은 부분은 얼마입니까? (3) $ \\square $ 안에 알맞은 수를 써넣으시오. $ 3 \\frac{3}{6}-2 \\frac{1}{6}=(\\square-\\square)+\\left(\\frac{\\square}{6}-\\frac{\\square}{6}\\right) $ $ =   \\square\\frac{\\square}{6} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            288,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            121,
+            293,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            157,
+            245,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            179,
+            220,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            196,
+            267,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            264,
+            142,
+            303
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            44,
+            285,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            290,
+            39
+          ],
+          "text": "$ 3 \\frac{3}{6}-2 \\frac{1}{6} $ 을 어떻게 계산하는지 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            120,
+            295,
+            305
+          ],
+          "text": "(1) $ 3 \\frac{3}{6} $ 만큼 색칠하고 $ 2 \\frac{1}{6} $ 만큼 $ \\times $ 로 지우시오. (2) $ \\times $ 로 지우고 남은 부분은 얼마입니까? (3) $ \\square $ 안에 알맞은 수를 써넣으시오. $ 3 \\frac{3}{6}-2 \\frac{1}{6}=(\\square-\\square)+\\left(\\frac{\\square}{6}-\\frac{\\square}{6}\\right) $ $ =   \\square\\frac{\\square}{6} $"
+        }
+      ]
+    }
+  ]
+}

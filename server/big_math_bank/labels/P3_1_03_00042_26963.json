@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00042_26963.png",
+  "id": "00042_26963",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "혜성이네 집에서는 돼지와 오리를 기르고 있습니다. 기르고 있는 돼지와 오리의 다리 수를 세어 보니 모두 $42$개였습니다. 오리가 $9$마리라면 돼지는 몇 마리입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            149,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "혜성이네 집에서는 돼지와 오리를 기르고 있습니다. 기르고 있는 돼지와 오리의 다리 수를 세어 보니 모두 $42$개였습니다. 오리가 $9$마리라면 돼지는 몇 마리입니까?"
+        }
+      ]
+    }
+  ]
+}

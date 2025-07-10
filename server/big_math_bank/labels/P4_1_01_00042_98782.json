@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_01_00042_98782.png",
+  "id": "00042_98782",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101004",
+      "question_topic_name": "십만, 백만, 천만 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숫자 카드를 한 번씩만 사용하여 둘째로 작은 여덟 자리 수를 만들어 보시오. $\\boxed8 \\boxed5 \\boxed4 \\boxed2 \\boxed1 \\boxed6 \\boxed7 \\boxed0$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            446,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            299,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            448,
+            53
+          ],
+          "text": "숫자 카드를 한 번씩만 사용하여 둘째로 작은 여덟 자리 수를 만들어 보시오. $\\boxed8 \\boxed5 \\boxed4 \\boxed2 \\boxed1 \\boxed6 \\boxed7 \\boxed0$"
+        }
+      ]
+    }
+  ]
+}

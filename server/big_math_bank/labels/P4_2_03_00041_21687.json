@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_03_00041_21687.png",
+  "id": "00041_21687",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밑줄 친 숫자 ㉠과 ㉡에 대한 설명이 바른 것은 어느 것입니까? $\\underset{㉠}{\\underline{9}}.01\\underset{㉡}{\\underline{9}}$   ①㉠은 ㉡의 $100$배입니다. ②㉠은 ㉡의 $1000$배입니다. ③㉡은 ㉠의 $100$배입니다. ④㉠은 ㉡의 $ \\frac{1}{1000} $배입니다. ⑤㉡은 ㉠의 $1000$배입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            370,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            79,
+            47
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            60,
+            180,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            82,
+            190,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            104,
+            180,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            129,
+            194,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            167,
+            190,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            372,
+            188
+          ],
+          "text": "밑줄 친 숫자 ㉠과 ㉡에 대한 설명이 바른 것은 어느 것입니까? $\\underset{㉠}{\\underline{9}}.01\\underset{㉡}{\\underline{9}}$   ①㉠은 ㉡의 $100$배입니다. ②㉠은 ㉡의 $1000$배입니다. ③㉡은 ㉠의 $100$배입니다. ④㉠은 ㉡의 $ \\frac{1}{1000} $배입니다. ⑤㉡은 ㉠의 $1000$배입니다."
+        }
+      ]
+    }
+  ]
+}

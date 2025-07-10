@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00042_56749.png",
+  "id": "00042_56749",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204017",
+      "question_topic_name": "마름모의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "점 ㄴ이 좌측인 밑변이 ㄴㅁ이고 변 ㄱㄹ의 길이가 13 cm인 마름모 ㄱㄴㅁㄹ과 두 각 ㅁ, ㄷ의 크기가 각각 60도인 삼각형 ㄹㅁㄷ을 변 ㄹㅁ에서 겹치지 않게 이어 붙인 사다리꼴 ㄱㄴㄷㄹ",
+      "question_text": "사각형 ㄱㄴㅁㄹ이 마름모일 때, 선분 ㄴㄷ의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            397,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            194,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            399,
+            22
+          ],
+          "text": "사각형 ㄱㄴㅁㄹ이 마름모일 때, 선분 ㄴㄷ의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

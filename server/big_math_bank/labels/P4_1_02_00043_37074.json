@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_02_00043_37074.png",
+  "id": "00043_37074",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102003",
+      "question_topic_name": "각도기를 이용하여 각도 재기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성호와 예지의 부채는 얼마나 펼쳐져 있는지 각도기를 사용하여 알아보시오. ⑴ 각도기를 사용하여 알아보려고 할 때 $\\square$ 안에 알맞은 말을 써넣으시오. 각의 꼭짓점 $\\rightarrow$ 각도기의 $\\square$ 각의 변 $\\rightarrow$ 각도기의 $\\square$ ⑵ 성호와 예지의 부채는 각각 몇 도로 펼쳐져 있습니까? 성호 $( )$, 예지 $( )$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            447,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            151,
+            430,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            233,
+            337,
+            250
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            255,
+            151,
+            271
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25.1,
+            180.9,
+            251.1,
+            200.9
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26.1,
+            201.9,
+            226.1,
+            223.9
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            24,
+            227,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.1,
+            0.9,
+            447.1,
+            16.9
+          ],
+          "text": "성호와 예지의 부채는 얼마나 펼쳐져 있는지 각도기를 사용하여 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            150.9,
+            431.1,
+            270.9
+          ],
+          "text": "⑴ 각도기를 사용하여 알아보려고 할 때 $\\square$ 안에 알맞은 말을 써넣으시오. 각의 꼭짓점 $\\rightarrow$ 각도기의 $\\square$ 각의 변 $\\rightarrow$ 각도기의 $\\square$ ⑵ 성호와 예지의 부채는 각각 몇 도로 펼쳐져 있습니까? 성호 $( )$, 예지 $( )$"
+        }
+      ]
+    }
+  ]
+}

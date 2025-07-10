@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33496.png",
+  "id": "00043_33496",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "아현이가 살고 있는 도시 사람들이 하는 일을 조사하였습니다. 아현이가 살고 있는 도시의 요리사는 몇 명입니까?  <table border> <caption></caption>   <tbody>     <tr>       <td>직업</td>       <td>간호사</td>       <td>경찰관</td>       <td>선생님</td>       <td>요리사</td>       <td>합계</td>     </tr>     <tr>       <td>사람 수(명)</td>       <td>$143$</td>       <td>$152$</td>       <td>$167$</td>       <td>?</td>       <td>$620$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            656,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            339,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            658,
+            70
+          ],
+          "text": "아현이가 살고 있는 도시 사람들이 하는 일을 조사하였습니다. 아현이가 살고 있는 도시의 요리사는 몇 명입니까?  <table border> <caption></caption>   <tbody>     <tr>       <td>직업</td>       <td>간호사</td>       <td>경찰관</td>       <td>선생님</td>       <td>요리사</td>       <td>합계</td>     </tr>     <tr>       <td>사람 수(명)</td>       <td>$143$</td>       <td>$152$</td>       <td>$167$</td>       <td>?</td>       <td>$620$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

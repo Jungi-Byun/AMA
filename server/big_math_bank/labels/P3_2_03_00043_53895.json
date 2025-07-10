@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_03_00043_53895.png",
+  "id": "00043_53895",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203008",
+      "question_topic_name": "원을 이용하여 여러 가지 모양 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민지는 원을 이용하여 만든 여러 가지 모양을 감상하고 오른쪽과 같이 그렸습니다. 민지가 오른쪽 모양을 그리기 위해 컴퍼스의 침을 꽂은 곳은 모두 몇 군데입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            166,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            53,
+            319,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            41
+          ],
+          "text": "민지는 원을 이용하여 만든 여러 가지 모양을 감상하고 오른쪽과 같이 그렸습니다. 민지가 오른쪽 모양을 그리기 위해 컴퍼스의 침을 꽂은 곳은 모두 몇 군데입니까?"
+        }
+      ]
+    }
+  ]
+}

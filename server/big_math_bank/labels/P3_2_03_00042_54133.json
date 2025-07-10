@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00042_54133.png",
+  "id": "00042_54133",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 큰 원은 어느 것입니까?  ① 지름이 $ 7 \\mathrm{cm} $인 원  ② 지름이 $ 12 \\mathrm{cm} $인 원  ③ 반지름이 $ 7 \\mathrm{cm} $인 원  ④ 컴퍼스를 $ 8 \\mathrm{cm} $가 되도록 벌려서 그린 원  ⑤ 원 안에 그릴 수 있는 가장 긴 선분의 길이가 $ 10 \\mathrm{cm} $인 원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            182,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            141,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            147,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            154,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            268,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            357,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            359,
+            130
+          ],
+          "text": "가장 큰 원은 어느 것입니까?  ① 지름이 $ 7 \\mathrm{cm} $인 원  ② 지름이 $ 12 \\mathrm{cm} $인 원  ③ 반지름이 $ 7 \\mathrm{cm} $인 원  ④ 컴퍼스를 $ 8 \\mathrm{cm} $가 되도록 벌려서 그린 원  ⑤ 원 안에 그릴 수 있는 가장 긴 선분의 길이가 $ 10 \\mathrm{cm} $인 원"
+        }
+      ]
+    }
+  ]
+}

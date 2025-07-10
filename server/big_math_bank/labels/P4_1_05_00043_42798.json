@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_05_00043_42798.png",
+  "id": "00043_42798",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그래프의 일부분이 찢어졌습니다. 학생들의 대화를 읽고 물음에 답하시오.  (1) 미국과 브라질에 가고 싶어 하는 학생 수는 모두 몇 명입니까? (2) 미국과 브라질에 가고 싶어 하는 학생 수는 각각 몇 명입니까? 미국 ( ), 브라질 ( ) (3) 표를 보고 막대그래프를 완성하시오. 가고 싶은 나라별 학생 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            434,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            293,
+            385,
+            313
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            318,
+            388,
+            335
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            340,
+            210,
+            357
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            362,
+            246,
+            378
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            316,
+            294
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            382,
+            315,
+            531
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            436,
+            22
+          ],
+          "text": "그래프의 일부분이 찢어졌습니다. 학생들의 대화를 읽고 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            295,
+            390,
+            379
+          ],
+          "text": "(1) 미국과 브라질에 가고 싶어 하는 학생 수는 모두 몇 명입니까? (2) 미국과 브라질에 가고 싶어 하는 학생 수는 각각 몇 명입니까? 미국 ( ), 브라질 ( ) (3) 표를 보고 막대그래프를 완성하시오. 가고 싶은 나라별 학생 수"
+        }
+      ]
+    }
+  ]
+}

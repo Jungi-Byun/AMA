@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_05_00043_42976.png",
+  "id": "00043_42976",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105002",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "반별 어린이 환경센터를 다녀온 학생수가 상단에 위치하고 세로축에는 단위가 (명)인 학생수를 도수로, 가로축에는 좌측부터 순서대로 1반, 2반, 3반, 4반인 반이 있고, 세로축 눈금 한 칸의 단위가 1이고, 0, 5, 10의 단위가 있고, 오른쪽 아래에는 남학생 파란색, 여학생 분홍색을 나타내는 범례가 있고 각 과목의 좌우에는 순서대로 남학생 수인 파란색 막대그래프와 여학생 수인 분홍색 막대 그래프가 있고, 남학생은 1반은 6명, 2반은 9명, 3반은 4명, 4반은 7명이고, 여학생은 1반은 6명, 2반은 5명, 3반은 8명, 4반은 6명인 막대그래프",
+      "question_text": "어린이 환경센터를 다녀온 남학생이 여학생보다 많은 반을 모두 찾아 쓰시오. 반별 어린이 환경센터를 다녀온 학생 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            451,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            315,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            453,
+            23
+          ],
+          "text": "어린이 환경센터를 다녀온 남학생이 여학생보다 많은 반을 모두 찾아 쓰시오. 반별 어린이 환경센터를 다녀온 학생 수"
+        }
+      ]
+    }
+  ]
+}

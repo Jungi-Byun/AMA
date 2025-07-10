@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_25217.png",
+  "id": "00040_25217",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204010",
+      "question_topic_name": "사다리꼴 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 사각형 중에서 사다리꼴만을 골라 묶은 것은 어느 것입니까?  ①가, 다, 라 ②가, 나, 마 ③나, 라 ④나, 다, 라 ⑤가, 나, 다, 라",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            388,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            98,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            98,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            78,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            98,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            118,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            21,
+            329,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            20
+          ],
+          "text": "다음 사각형 중에서 사다리꼴만을 골라 묶은 것은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            79,
+            120,
+            188
+          ],
+          "text": "①가, 다, 라 ②가, 나, 마 ③나, 라 ④나, 다, 라 ⑤가, 나, 다, 라"
+        }
+      ]
+    }
+  ]
+}

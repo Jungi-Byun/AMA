@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33331.png",
+  "id": "00043_33331",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "공원, 집, 은행, 놀이터가 일직선에 차례로 있고, 공원에서 은행까지의 거리는 486 m, 집에서 은행까지의 거리는 257 m, 집에서 놀이터까지의 거리는 358 m인 그림",
+      "question_text": "공원에서 놀이터까지의 거리는 몇 $m$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            270,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            35,
+            324,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            272,
+            23
+          ],
+          "text": "공원에서 놀이터까지의 거리는 몇 $m$입니까?"
+        }
+      ]
+    }
+  ]
+}

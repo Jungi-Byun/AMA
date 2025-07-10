@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_03_00043_36265.png",
+  "id": "00043_36265",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고  $\\square$ 안에 알맞은 수를 써넣으시오. 떡 $35$개를 한 상자에 $\\square$개씩 담으려면 상자는 $\\square$개 필요합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.17,
+            184.14,
+            452.17,
+            208.14
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            24,
+            237,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            0,
+            277.17,
+            18.14
+          ],
+          "text": "그림을 보고  $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            22.17,
+            183.14,
+            453.17,
+            209.14
+          ],
+          "text": "떡 $35$개를 한 상자에 $\\square$개씩 담으려면 상자는 $\\square$개 필요합니다."
+        }
+      ]
+    }
+  ]
+}

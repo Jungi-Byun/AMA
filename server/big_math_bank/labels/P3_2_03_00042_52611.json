@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00042_52611.png",
+  "id": "00042_52611",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원에 대하여 바르게 설명한 것을 찾아 기호를 쓰시오. ㉠ 한 원에서 반지름은 모두 다릅니다. ㉡ 한 원에서 원의 중심은 한 개입니다. ㉢ 한 원에서 반지름은 2개까지 그을 수 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            316,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            245,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            57,
+            245,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            74,
+            309,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            360,
+            99
+          ],
+          "text": "원에 대하여 바르게 설명한 것을 찾아 기호를 쓰시오. ㉠ 한 원에서 반지름은 모두 다릅니다. ㉡ 한 원에서 원의 중심은 한 개입니다. ㉢ 한 원에서 반지름은 2개까지 그을 수 있습니다."
+        }
+      ]
+    }
+  ]
+}

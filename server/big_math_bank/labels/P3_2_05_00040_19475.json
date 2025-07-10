@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_05_00040_19475.png",
+  "id": "00040_19475",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205014",
+      "question_topic_name": "무게 직접 비교하기 _ 양손으로 들어서 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 가장 무거운 과일은 어느 것입니까?  ①사과 ②감 ③배 ④귤 ⑤알 수 없다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            266,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            183,
+            71,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            205,
+            58,
+            225
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            227,
+            57,
+            247
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            249,
+            58,
+            269
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            271,
+            106,
+            291
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            23,
+            387,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            1.01,
+            267.1,
+            16.01
+          ],
+          "text": "다음 중 가장 무거운 과일은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            182.5,
+            107.1,
+            291.5
+          ],
+          "text": "①사과 ②감 ③배 ④귤 ⑤알 수 없다."
+        }
+      ]
+    }
+  ]
+}

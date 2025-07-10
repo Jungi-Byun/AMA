@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_01_00043_39388.png",
+  "id": "00043_39388",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지구가 물체를 끌어당기는 힘을 중력이라고 합니다. 즉, 공을 치면 공이 땅에 떨어지거나 사과가 나무에서 떨어지는 것은 중력 때문입니다. 중력은 지구 뿐만 아니라 달에도 있습니다. 달의 중력은 지구의 $ \\frac{1}{6} $입니다. 지구에서 정현이의 몸무게는 $ 30 \\mathrm{~kg} $이고 달에서 영국이의 몸무게는 $ 4\\frac{3}{8} $kg입니다. 정현이와 영국이 중 달에서는 누가 몇 $ \\mathrm{kg} $ 더 무겁습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            800,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            445,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            100
+          ],
+          "text": "지구가 물체를 끌어당기는 힘을 중력이라고 합니다. 즉, 공을 치면 공이 땅에 떨어지거나 사과가 나무에서 떨어지는 것은 중력 때문입니다. 중력은 지구 뿐만 아니라 달에도 있습니다. 달의 중력은 지구의 $ \\frac{1}{6} $입니다. 지구에서 정현이의 몸무게는 $ 30 \\mathrm{~kg} $이고 달에서 영국이의 몸무게는 $ 4\\frac{3}{8} $kg입니다. 정현이와 영국이 중 달에서는 누가 몇 $ \\mathrm{kg} $ 더 무겁습니까?"
+        }
+      ]
+    }
+  ]
+}

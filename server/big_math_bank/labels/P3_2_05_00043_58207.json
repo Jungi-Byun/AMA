@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58207.png",
+  "id": "00043_58207",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연정이와 주영이가 여행을 가는데 연정이의 짐은 $6kg 500g$이고, 주영이의 짐은 연정이의 짐보다 $3kg 200g$이 더 무겁습니다. 두 사람의 짐은 모두 몇 $kg$ 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            169,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "연정이와 주영이가 여행을 가는데 연정이의 짐은 $6kg 500g$이고, 주영이의 짐은 연정이의 짐보다 $3kg 200g$이 더 무겁습니다. 두 사람의 짐은 모두 몇 $kg$ 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

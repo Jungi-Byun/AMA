@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00043_51779.png",
+  "id": "00043_51779",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하시오. $\\square \\div 4$=$21$···$\\bigstar$  ($1$) 나누는 수는 얼마입니까? ($2$) $\\bigstar$이 될 수 있는 가장 큰 수는 얼마입니까? ($3$) $\\square$  안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            366,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            103,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            178,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            274,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            383,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            397,
+            122
+          ],
+          "text": "$\\square$ 안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하시오. $\\square \\div 4$=$21$···$\\bigstar$  ($1$) 나누는 수는 얼마입니까? ($2$) $\\bigstar$이 될 수 있는 가장 큰 수는 얼마입니까? ($3$) $\\square$  안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하시오."
+        }
+      ]
+    }
+  ]
+}

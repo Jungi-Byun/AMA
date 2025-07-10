@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_06_00042_93842.png",
+  "id": "00042_93842",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민형이네 반에서 모둠별로 모은 신문지의 무게를 조사하여 나타낸 그래프입니다. 그림 과 은 각각 신문지 몇 $kg$을 나타내고 있습니까? 모둠별 신문지의 무게",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            798,
+            24
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            40,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            44,
+            293,
+            289
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            42
+          ],
+          "text": "민형이네 반에서 모둠별로 모은 신문지의 무게를 조사하여 나타낸 그래프입니다. 그림 과 은 각각 신문지 몇 $kg$을 나타내고 있습니까? 모둠별 신문지의 무게"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52210.png",
+  "id": "00043_52210",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204001",
+      "question_topic_name": "수직 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "서로 다른 직선 네 개가 한 점에서 만날 때, 가로인 직선 가와 세로인 직선 나 사이에 한 개의 직선이 우측 아래를 향하고, 직선 나의 우측에 좌측 아래를 향하는 직선이고, 나 직선의 좌측 위에서부터 순서대로 각의 크기가 ㄴ, 45도, ㄱ이고, 우측 위에서부터 순서대로 ㄷ, 각의 표시가 있고, 70도인 직선",
+      "question_text": "직선 가는 직선 나에 대한 수선입니다. ㉠$+$㉡$-$㉢의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            402,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            33,
+            182,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            404,
+            22
+          ],
+          "text": "직선 가는 직선 나에 대한 수선입니다. ㉠$+$㉡$-$㉢의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

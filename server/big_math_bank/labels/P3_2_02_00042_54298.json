@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00042_54298.png",
+  "id": "00042_54298",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈의 몫이 가장 큰 것에 $\\bigcirc$표 하시오. $\\boxed{48\\div 4} \\boxed{96 \\div 3} \\boxed{88 \\div 4}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            249,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            331,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            251,
+            21
+          ],
+          "text": "나눗셈의 몫이 가장 큰 것에 $\\bigcirc$표 하시오. $\\boxed{48\\div 4} \\boxed{96 \\div 3} \\boxed{88 \\div 4}$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00050_20516.png",
+  "id": "00050_20516",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정화네 마을의 감자 수확량을 나타낸 표입니다. 정화네 마을에서 수확한 감자를 모두 실으려면 적어도 $\\squaret$을 실을 수 있는 트럭이 필요합니다. $\\square$ 안에 알맞은 자연수를 구하시오. 가구 이름 정화네 호준이네 혜진이네 수확량$(kg)$ $974$ $1330$ $676$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            236,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            38,
+            273,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            92
+          ],
+          "text": "정화네 마을의 감자 수확량을 나타낸 표입니다. 정화네 마을에서 수확한 감자를 모두 실으려면 적어도 $\\squaret$을 실을 수 있는 트럭이 필요합니다. $\\square$ 안에 알맞은 자연수를 구하시오. 가구 이름 정화네 호준이네 혜진이네 수확량$(kg)$ $974$ $1330$ $676$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_01_00043_32338.png",
+  "id": "00043_32338",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "화석은 오래 전 생물이 살던 시대에 많은 정보를 제공합니다. 다음은 화석이 출현한 시기가 지금부터 얼마 전인지 나타낸 것입니다. 다음 중 가장 오래된 화석은 무엇인지 구하시오.  ㆍ코노돈트(conodont): $515000000$년 전 ㆍ암모나이트(Ammonite): $2$억 $4300$만 년 전 ㆍ삼엽충(Trilobites): $5$억 $4000$만 년 전",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            752,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            288,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            43,
+            299,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            75,
+            296,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            97,
+            273,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            123
+          ],
+          "text": "화석은 오래 전 생물이 살던 시대에 많은 정보를 제공합니다. 다음은 화석이 출현한 시기가 지금부터 얼마 전인지 나타낸 것입니다. 다음 중 가장 오래된 화석은 무엇인지 구하시오.  ㆍ코노돈트(conodont): $515000000$년 전 ㆍ암모나이트(Ammonite): $2$억 $4300$만 년 전 ㆍ삼엽충(Trilobites): $5$억 $4000$만 년 전"
+        }
+      ]
+    }
+  ]
+}

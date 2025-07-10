@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00040_21679.png",
+  "id": "00040_21679",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "십의 자리 숫자가$ 7$, 일의 자리 숫자가 $5$, 소수 첫째 자리 숫자가 $0$, 소수 둘째 자리 숫자가 $3$인 수는 얼마입니까?  ①$ 7.503$  ② $75.3 $ ③$ 75.03$  ④ $753 $ ⑤ $750.3$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            647,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            79,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            70,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            79,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            67,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            80,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            649,
+            130
+          ],
+          "text": "십의 자리 숫자가$ 7$, 일의 자리 숫자가 $5$, 소수 첫째 자리 숫자가 $0$, 소수 둘째 자리 숫자가 $3$인 수는 얼마입니까?  ①$ 7.503$  ② $75.3 $ ③$ 75.03$  ④ $753 $ ⑤ $750.3$"
+        }
+      ]
+    }
+  ]
+}

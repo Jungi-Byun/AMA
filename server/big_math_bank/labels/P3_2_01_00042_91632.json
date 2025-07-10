@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_01_00042_91632.png",
+  "id": "00042_91632",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201005",
+      "question_topic_name": "일, 십, 백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수)",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱이 가장 큰 것은 어느 것입니까?  ① $ 472 \\times 5 $ ② $ 657 \\times 3 $ ③ $ 273 \\times 8 $ ④ $ 297 \\times 6 $ ⑤ $ 669 \\times 3 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            212,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            83,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            83,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            84,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            84,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            85,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            214,
+            130
+          ],
+          "text": "곱이 가장 큰 것은 어느 것입니까?  ① $ 472 \\times 5 $ ② $ 657 \\times 3 $ ③ $ 273 \\times 8 $ ④ $ 297 \\times 6 $ ⑤ $ 669 \\times 3 $"
+        }
+      ]
+    }
+  ]
+}

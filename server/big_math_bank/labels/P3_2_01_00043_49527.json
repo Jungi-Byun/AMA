@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00043_49527.png",
+  "id": "00043_49527",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201010",
+      "question_topic_name": "(몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무령왕릉의 어제 관람객 수는 $9$명입니다. 오늘 관람객 수는 어제의 $17$배일 때, 무령왕릉의 오늘 관람객 수는 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            700,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            702,
+            22
+          ],
+          "text": "무령왕릉의 어제 관람객 수는 $9$명입니다. 오늘 관람객 수는 어제의 $17$배일 때, 무령왕릉의 오늘 관람객 수는 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37243.png",
+  "id": "00043_37243",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102007",
+      "question_topic_name": "각도를 어림하고 각도기로 재어 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "몸을 이용하여 만든 각의 각도를 어림하고 각도기로 재어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            384,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            397,
+            1,
+            605,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            53,
+            386,
+            80
+          ],
+          "text": "몸을 이용하여 만든 각의 각도를 어림하고 각도기로 재어 보시오."
+        }
+      ]
+    }
+  ]
+}

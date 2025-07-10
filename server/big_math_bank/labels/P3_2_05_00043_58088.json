@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58088.png",
+  "id": "00043_58088",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.    $1kg 500g+3kg 200g=\\square kg \\square g$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            125,
+            277,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            2.8,
+            275.1,
+            18.8
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            23,
+            327,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            1.8,
+            275.1,
+            18.8
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.   "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            30.1,
+            124.8,
+            277.1,
+            150.8
+          ],
+          "text": "$1kg 500g+3kg 200g=\\square kg \\square g$"
+        }
+      ]
+    }
+  ]
+}

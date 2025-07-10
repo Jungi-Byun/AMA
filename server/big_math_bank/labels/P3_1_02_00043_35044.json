@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00043_35044.png",
+  "id": "00043_35044",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형을 보고 물음에 답하시오. (1) 도형에서 직각을 찾아 (직각표시)로 나타내시오. (2) $\\square$ 안에 알맞은 말을 써넣으시오. 위의 도형과 같이 한 각이 직각인 삼각형을 $\\square$이라고 합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            121,
+            278,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            154,
+            225,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            178,
+            534,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            28,
+            139,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.17,
+            0,
+            189.17,
+            17.89
+          ],
+          "text": "도형을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            120.89,
+            536.17,
+            210.89
+          ],
+          "text": "(1) 도형에서 직각을 찾아 (직각표시)로 나타내시오. (2) $\\square$ 안에 알맞은 말을 써넣으시오. 위의 도형과 같이 한 각이 직각인 삼각형을 $\\square$이라고 합니다."
+        }
+      ]
+    }
+  ]
+}

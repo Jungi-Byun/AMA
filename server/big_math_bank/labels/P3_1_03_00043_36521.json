@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36521.png",
+  "id": "00043_36521",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "운동별로 $1$분 동안 소모하는 열량을 나타낸 표입니다. 지은이는 태권도를 해서 $42kcal$를 소모했습니다. 태권도를 몇 분 동안 했습니까?  <table border>   <tbody>     <tr>       <td>요가</td>       <td>자전거</td>       <td>탁구</td>       <td>태권도</td>     </tr>     <tr>       <td>$2kcal$</td>       <td>$3kcal$</td>       <td>$6kcal$</td>       <td>$7kcal$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            775,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            17,
+            205,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            777,
+            70
+          ],
+          "text": "운동별로 $1$분 동안 소모하는 열량을 나타낸 표입니다. 지은이는 태권도를 해서 $42kcal$를 소모했습니다. 태권도를 몇 분 동안 했습니까?  <table border>   <tbody>     <tr>       <td>요가</td>       <td>자전거</td>       <td>탁구</td>       <td>태권도</td>     </tr>     <tr>       <td>$2kcal$</td>       <td>$3kcal$</td>       <td>$6kcal$</td>       <td>$7kcal$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

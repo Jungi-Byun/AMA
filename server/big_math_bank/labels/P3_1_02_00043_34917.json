@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_02_00043_34917.png",
+  "id": "00043_34917",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102003",
+      "question_topic_name": "직선 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 바르게 읽은 것을 찾아 기호를 쓰시오.  ㉠ 선분 $ㄱㄴ$ ㉡ 반직선 $ㄱㄴ$ ㉢ 반직선 $ㄴㄱ$ ㉣ 직선 $ㄱㄴ$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23.48,
+            81.26,
+            187.48,
+            98.06
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25.08,
+            103.66,
+            187.48,
+            119.66
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            27,
+            127,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.88,
+            0,
+            305.88,
+            17.26
+          ],
+          "text": "그림을 보고 바르게 읽은 것을 찾아 기호를 쓰시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            22.68,
+            80.46,
+            188.28,
+            120.46
+          ],
+          "text": "㉠ 선분 $ㄱㄴ$ ㉡ 반직선 $ㄱㄴ$ ㉢ 반직선 $ㄴㄱ$ ㉣ 직선 $ㄱㄴ$"
+        }
+      ]
+    }
+  ]
+}

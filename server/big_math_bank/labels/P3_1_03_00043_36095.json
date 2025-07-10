@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_03_00043_36095.png",
+  "id": "00043_36095",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈식 $8\\times5=40$과 나눗셈식 $40\\div8=5$에 알맞은 문장을 써 보시오. $8\\times5=40$  $40\\div8=5$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            389,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            49,
+            80,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            131,
+            77,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.21,
+            0,
+            391.21,
+            18.24
+          ],
+          "text": "곱셈식 $8\\times5=40$과 나눗셈식 $40\\div8=5$에 알맞은 문장을 써 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            23.21,
+            51.04,
+            78.41,
+            71.84
+          ],
+          "text": "$8\\times5=40$ "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            23.21,
+            131.84,
+            78.41,
+            153.44
+          ],
+          "text": "$40\\div8=5$"
+        }
+      ]
+    }
+  ]
+}

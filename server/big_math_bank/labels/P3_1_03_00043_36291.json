@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36291.png",
+  "id": "00043_36291",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은성이와 경호가 학교 농구 대회 중 ‘$3$점 슛 대회’에 참가했습니다. 은성이는 $9$점, 경호는 $15$점을 얻었다면 누가 골을 몇 번 더 많이 넣었습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            40
+          ],
+          "text": "은성이와 경호가 학교 농구 대회 중 ‘$3$점 슛 대회’에 참가했습니다. 은성이는 $9$점, 경호는 $15$점을 얻었다면 누가 골을 몇 번 더 많이 넣었습니까?"
+        }
+      ]
+    }
+  ]
+}

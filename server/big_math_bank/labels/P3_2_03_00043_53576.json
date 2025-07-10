@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53576.png",
+  "id": "00043_53576",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "큰 원과 작은 원이 한 점에서 내접하고 큰 원의 중간 위쪽에 작은 원이 접하고 있으며 두 원의 중심을 지나는 지름에서 두 중심 사이의 거리가 4 cm가 표시된 도형",
+      "question_text": "다음 그림에서 큰 원의 지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            272,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            29,
+            132,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            274,
+            21
+          ],
+          "text": "다음 그림에서 큰 원의 지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_42182.png",
+  "id": "00043_42182",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 신문 기사를 보고 쓰레기 소각장 건립에 반대하는 주민은 찬성하는 주민의 몇 배인지 구하시오. $2014$년 $\\bigcirc$월 $\\bigcirc$일  $\\bigcirc\\bigcirc$일보 성주시 쓰레기 소각장 건립에 주민 갈등 심각 성주시 전체 주민의 $\\frac{5}{6}$가 반대를 하고 있어 쓰레기 소각장 건립이 늦춰지고 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            578,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            331,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            583,
+            21
+          ],
+          "text": "다음 신문 기사를 보고 쓰레기 소각장 건립에 반대하는 주민은 찬성하는 주민의 몇 배인지 구하시오. $2014$년 $\\bigcirc$월 $\\bigcirc$일  $\\bigcirc\\bigcirc$일보 성주시 쓰레기 소각장 건립에 주민 갈등 심각 성주시 전체 주민의 $\\frac{5}{6}$가 반대를 하고 있어 쓰레기 소각장 건립이 늦춰지고 있습니다."
+        }
+      ]
+    }
+  ]
+}

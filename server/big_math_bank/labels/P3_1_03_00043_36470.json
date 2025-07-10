@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00043_36470.png",
+  "id": "00043_36470",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경림이는 동화책을 한 시간에 $9$쪽씩 읽었습니다. 동화책이 $45$쪽이라면 다 읽는 데 몇 시간이 걸리는지 $\\square$ 안에 알맞은 수를 써넣고 답을 구하시오. $ 9 \\times \\square=45 \\Leftrightarrow 45 \\div 9= \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            61,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            44,
+            211,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            71
+          ],
+          "text": "경림이는 동화책을 한 시간에 $9$쪽씩 읽었습니다. 동화책이 $45$쪽이라면 다 읽는 데 몇 시간이 걸리는지 $\\square$ 안에 알맞은 수를 써넣고 답을 구하시오. $ 9 \\times \\square=45 \\Leftrightarrow 45 \\div 9= \\square$"
+        }
+      ]
+    }
+  ]
+}

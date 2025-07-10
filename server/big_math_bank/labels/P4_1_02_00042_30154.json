@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_02_00042_30154.png",
+  "id": "00042_30154",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림과 같은 두 삼각자를 이용하여 여러 가지 각을 만들어 보시오. (1) 두 삼각자를 겹치지 않고 붙여서 가장 큰 각도를 만들어 보시오. (2) 두 삼각자를 겹쳐서 $30\\degree$인 각도를 만들어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            1,
+            387,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            324,
+            394,
+            341
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            368,
+            317,
+            385
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            22,
+            804,
+            321
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            21
+          ],
+          "text": "그림과 같은 두 삼각자를 이용하여 여러 가지 각을 만들어 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.17,
+            322.64,
+            393.17,
+            341.64
+          ],
+          "text": "(1) 두 삼각자를 겹치지 않고 붙여서 가장 큰 각도를 만들어 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            366.64,
+            319.17,
+            385.64
+          ],
+          "text": "(2) 두 삼각자를 겹쳐서 $30\\degree$인 각도를 만들어 보시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_05_00042_55299.png",
+  "id": "00042_55299",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그래프에 대한 설명으로 틀린 것은 어느 것입니까? ①목요일의 물 사용량은 $4300 L$입니다. ②월요일의 물 사용량이 가장 적었습니다. ③일요일의 물 사용량이 가장 많았습니다. ④물 사용량이 가장 많이 늘어난 때는 일요일과 월요일 사이입니다. ⑤물 사용량이 가장 적게 늘어난 때는 목요일과 금요일 사이입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            236,
+            257,
+            256
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            258,
+            266,
+            278
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            280,
+            266,
+            300
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            302,
+            408,
+            322
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            324,
+            408,
+            344
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            21,
+            299,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.89,
+            2.51,
+            303.41,
+            15.95
+          ],
+          "text": "그래프에 대한 설명으로 틀린 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            235,
+            410,
+            345
+          ],
+          "text": "①목요일의 물 사용량은 $4300 L$입니다. ②월요일의 물 사용량이 가장 적었습니다. ③일요일의 물 사용량이 가장 많았습니다. ④물 사용량이 가장 많이 늘어난 때는 일요일과 월요일 사이입니다. ⑤물 사용량이 가장 적게 늘어난 때는 목요일과 금요일 사이입니다."
+        }
+      ]
+    }
+  ]
+}

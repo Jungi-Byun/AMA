@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00042_87684.png",
+  "id": "00042_87684",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민우는  $ \\frac{3}{4} $시간, 희정이는$ \\frac{1}{4} $시간, 성훈이는 $ \\frac{1}{5} $시간 동안 위인전을 읽었습니다. 누가 위인전을 가장 오랫동안 읽었습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            721,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            723,
+            38
+          ],
+          "text": "민우는  $ \\frac{3}{4} $시간, 희정이는$ \\frac{1}{4} $시간, 성훈이는 $ \\frac{1}{5} $시간 동안 위인전을 읽었습니다. 누가 위인전을 가장 오랫동안 읽었습니까?"
+        }
+      ]
+    }
+  ]
+}

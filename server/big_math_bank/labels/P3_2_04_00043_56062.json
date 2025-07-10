@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00043_56062.png",
+  "id": "00043_56062",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사육사가 악어 사료 $\\blacksquare$ 포대를 준비했습니다. $\\blacksquare$는 $3$과 $4$ 사이의 분수 중 분모가 $4$인 가장 큰 대분수일 때, 사육사가 준비한 사료로 악어를 며칠 동안 먹일 수 있습니까? ㆍ 동물 이름 : 악어 ㆍ 특징 : 눈과 콧구멍이 거의 수평하게 있음. ㆍ 먹이 : 사료를 한 끼에  $ \\frac{1}{4} $포대씩 하루에 세 끼를 먹음.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            792,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            182,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            43,
+            142,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            76,
+            280,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            97,
+            351,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            135
+          ],
+          "text": "사육사가 악어 사료 $\\blacksquare$ 포대를 준비했습니다. $\\blacksquare$는 $3$과 $4$ 사이의 분수 중 분모가 $4$인 가장 큰 대분수일 때, 사육사가 준비한 사료로 악어를 며칠 동안 먹일 수 있습니까? ㆍ 동물 이름 : 악어 ㆍ 특징 : 눈과 콧구멍이 거의 수평하게 있음. ㆍ 먹이 : 사료를 한 끼에  $ \\frac{1}{4} $포대씩 하루에 세 끼를 먹음."
+        }
+      ]
+    }
+  ]
+}

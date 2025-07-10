@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00042_53528.png",
+  "id": "00042_53528",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수를 $6$으로 나누어야 할 것을 잘못하여 곱했더니 $96$이 되었습니다. 바르게 계산하면 몫과 나머지는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            680,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            682,
+            21
+          ],
+          "text": "어떤 수를 $6$으로 나누어야 할 것을 잘못하여 곱했더니 $96$이 되었습니다. 바르게 계산하면 몫과 나머지는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

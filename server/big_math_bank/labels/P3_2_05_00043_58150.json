@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58150.png",
+  "id": "00043_58150",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무거운 것부터 차례로 $\\bigcirc$ 안에 번호를 써넣으시오.  $9 kg 250 g$ - $4 kg 790 g$-$\\bigcirc$  $7 kg 300 g$ - $3 kg 500 g$-$\\bigcirc$  $15 kg 600 g$ - $8 kg 700 g$-$\\bigcirc$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            298,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            299,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            301,
+            20
+          ],
+          "text": "무거운 것부터 차례로 $\\bigcirc$ 안에 번호를 써넣으시오.  $9 kg 250 g$ - $4 kg 790 g$-$\\bigcirc$  $7 kg 300 g$ - $3 kg 500 g$-$\\bigcirc$  $15 kg 600 g$ - $8 kg 700 g$-$\\bigcirc$"
+        }
+      ]
+    }
+  ]
+}

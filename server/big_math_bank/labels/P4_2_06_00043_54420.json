@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_06_00043_54420.png",
+  "id": "00043_54420",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변이 수평이고 왼쪽 위의 변의 길이가 5 cm, 오른쪽 아래 변의 길이가 사각박스 모양과 cm로 표시, 밑변 왼쪽 내각 위의 왼쪽 내각의 크기가 108도, 밑변과 오른쪽 아래 변 사이의 각의 크기가 사각박스 모양 안에 도 단위로 표시된 정오각형",
+      "question_text": "정오각형입니다. $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            31,
+            179,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            302,
+            22
+          ],
+          "text": "정오각형입니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

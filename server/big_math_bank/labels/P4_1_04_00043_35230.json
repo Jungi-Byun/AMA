@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_04_00043_35230.png",
+  "id": "00043_35230",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104001",
+      "question_topic_name": "평면도형을 위쪽, 아래쪽으로 밀기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밀었을 때 모양이 바뀌는 블록은 몇 개인지 고르시오.  ①하나도 없습니다. ②$1$개 ③$2$개 ④$3$개 ⑤$4$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            314,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            123,
+            140,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            145,
+            62,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            167,
+            65,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            65,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            211,
+            65,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            26,
+            319,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            316,
+            20
+          ],
+          "text": "밀었을 때 모양이 바뀌는 블록은 몇 개인지 고르시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            122,
+            142,
+            232
+          ],
+          "text": "①하나도 없습니다. ②$1$개 ③$2$개 ④$3$개 ⑤$4$개"
+        }
+      ]
+    }
+  ]
+}

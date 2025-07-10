@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_04_00042_27149.png",
+  "id": "00042_27149",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠은 ㉡보다 얼마나 더 큰지 구하시오. ㉠ $30$을 $9$번 더한 수 ㉡ $60$을 $4$번 더한 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            156,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            159,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.23,
+            0,
+            235.23,
+            78.65
+          ],
+          "text": "㉠은 ㉡보다 얼마나 더 큰지 구하시오. ㉠ $30$을 $9$번 더한 수 ㉡ $60$을 $4$번 더한 수"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00043_51360.png",
+  "id": "00043_51360",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 자연수를 $6$으로 나누었습니다. 나머지가 될 수 있는 수를 모두 구하시오. (단, 나머지가 $0$인 경우는 쓰지 않습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            693,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            695,
+            21
+          ],
+          "text": "어떤 자연수를 $6$으로 나누었습니다. 나머지가 될 수 있는 수를 모두 구하시오. (단, 나머지가 $0$인 경우는 쓰지 않습니다.)"
+        }
+      ]
+    }
+  ]
+}

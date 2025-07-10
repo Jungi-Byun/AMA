@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00043_58983.png",
+  "id": "00043_58983",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수지의 키를 조사하여 나타낸 표입니다. 키의 변화를 알아보는 데 알맞은 그래프를 알아보시오.수지의 키 <table border> <caption></caption>   <tbody>     <tr>       <td>학년</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>     </tr>     <tr>       <td>키(cm)</td>       <td>$123$</td>       <td>$132$</td>       <td>$135$</td>       <td>$140$</td>     </tr> </tbody> </table> ⑴ 알맞은 것에 $\\bigcirc$표 하시오.(막대그래프, 꺾은선그래프)는 변화하는 정도를 알아보기 쉽습니다.⑵ 막대그래프와 꺾은선그래프 중에서 어느 것으로 나타내는 것이 좋습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            1,
+            549,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            75,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            324,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            95,
+            178,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            398,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            139,
+            451,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            553,
+            157
+          ],
+          "text": "수지의 키를 조사하여 나타낸 표입니다. 키의 변화를 알아보는 데 알맞은 그래프를 알아보시오.수지의 키 <table border> <caption></caption>   <tbody>     <tr>       <td>학년</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>     </tr>     <tr>       <td>키(cm)</td>       <td>$123$</td>       <td>$132$</td>       <td>$135$</td>       <td>$140$</td>     </tr> </tbody> </table> ⑴ 알맞은 것에 $\\bigcirc$표 하시오.(막대그래프, 꺾은선그래프)는 변화하는 정도를 알아보기 쉽습니다.⑵ 막대그래프와 꺾은선그래프 중에서 어느 것으로 나타내는 것이 좋습니까?"
+        }
+      ]
+    }
+  ]
+}

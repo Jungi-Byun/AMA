@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_01_00043_39355.png",
+  "id": "00043_39355",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201011",
+      "question_topic_name": "분모가 같은 대분수끼리 뺄셈에서 대분수를 가분수로 바꿔서 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 우리나라 국보인 고려 청자입니다. 가와 나의 높이의 합은 $ 62 \\frac{2}{10} cm$이고, 나와 다의 높이의 합은 $ 53 \\frac{9}{10} cm$입니다. 가의 높이가 $ 42 \\frac{1}{10} cm$일 때, 다의 높이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            43,
+            274,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            74,
+            316,
+            283
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            74
+          ],
+          "text": "다음은 우리나라 국보인 고려 청자입니다. 가와 나의 높이의 합은 $ 62 \\frac{2}{10} cm$이고, 나와 다의 높이의 합은 $ 53 \\frac{9}{10} cm$입니다. 가의 높이가 $ 42 \\frac{1}{10} cm$일 때, 다의 높이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

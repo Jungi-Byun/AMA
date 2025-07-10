@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52383.png",
+  "id": "00043_52383",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형 모양의 종이를 대각선 ㄱㄷ을 접는 선으로 꼭짓점 ㄹ을 직사각형 아래로 오도록 접어내린 모양으로 변 ㄱㄹ이 접으면서 변 ㄴㄷ과 만나서 생기는 점 ㅁ이 있고 각 ㄱㄷㄴ은 25도, 각 ㄱㅁㄴ의 크기는 원 문자 ㄱ인 평면도형",
+      "question_text": "직사각형 모양의 종이를 다음과 같이 접었습니다. 각 $㉠$의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            442,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            38,
+            39,
+            182,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            444,
+            21
+          ],
+          "text": "직사각형 모양의 종이를 다음과 같이 접었습니다. 각 $㉠$의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

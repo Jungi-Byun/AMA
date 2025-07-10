@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_06_00043_59075.png",
+  "id": "00043_59075",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "종류별 장난감의 수를 알아보려고 할 때 그림과 표 중에서 어느 것이 더 편리합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            492,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            494,
+            21
+          ],
+          "text": "종류별 장난감의 수를 알아보려고 할 때 그림과 표 중에서 어느 것이 더 편리합니까?"
+        }
+      ]
+    }
+  ]
+}

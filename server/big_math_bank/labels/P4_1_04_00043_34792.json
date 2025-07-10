@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_04_00043_34792.png",
+  "id": "00043_34792",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "돌렸을 때 빈칸에 딱 맞게 들어갈 수 있는 도형을 $2$개 고르시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            374,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            97,
+            23,
+            249,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            129,
+            321,
+            295
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            376,
+            23
+          ],
+          "text": "돌렸을 때 빈칸에 딱 맞게 들어갈 수 있는 도형을 $2$개 고르시오."
+        }
+      ]
+    }
+  ]
+}

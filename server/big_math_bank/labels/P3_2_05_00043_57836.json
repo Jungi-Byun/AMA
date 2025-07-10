@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00043_57836.png",
+  "id": "00043_57836",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205014",
+      "question_topic_name": "무게 직접 비교하기 _ 양손으로 들어서 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "저울과 $100$원짜리 동전을 사용하여 어느 것이 얼마나 더 무거운지 알아보시오.  (1) 귤의 무게는 $100$원짜리 동전 몇 개의 무게와 같습니까? (2) 바나나의 무게는 $100$원짜리 동전 몇 개의 무게와 같습니까? (3) 바나나가 귤보다 $100$원짜리 동전 몇 개만큼 더 무겁습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            462,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            131,
+            350,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            151,
+            378,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            176,
+            378,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            26,
+            281,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20,
+            0.91,
+            462,
+            17.91
+          ],
+          "text": "저울과 $100$원짜리 동전을 사용하여 어느 것이 얼마나 더 무거운지 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            130.91,
+            379,
+            194.91
+          ],
+          "text": "(1) 귤의 무게는 $100$원짜리 동전 몇 개의 무게와 같습니까? (2) 바나나의 무게는 $100$원짜리 동전 몇 개의 무게와 같습니까? (3) 바나나가 귤보다 $100$원짜리 동전 몇 개만큼 더 무겁습니까?"
+        }
+      ]
+    }
+  ]
+}

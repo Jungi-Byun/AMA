@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00042_57239.png",
+  "id": "00042_57239",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "꺾은선그래프로 나타내기에 적당하지 않은 것은 어느 것입니까? ①영주의 월별 수학 성적 ②어느 도시의 연도별 인구 변화 ③성호가 일주일 동안 한 턱걸이 횟수 ④우리나라의 지난 10년 동안의 수입액 ⑤우리 반 학생들이 가 보고 싶어하는 도시",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            380,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            170,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            213,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            242,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            252,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            270,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            382,
+            130
+          ],
+          "text": "꺾은선그래프로 나타내기에 적당하지 않은 것은 어느 것입니까? ①영주의 월별 수학 성적 ②어느 도시의 연도별 인구 변화 ③성호가 일주일 동안 한 턱걸이 횟수 ④우리나라의 지난 10년 동안의 수입액 ⑤우리 반 학생들이 가 보고 싶어하는 도시"
+        }
+      ]
+    }
+  ]
+}

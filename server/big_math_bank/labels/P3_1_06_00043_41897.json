@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_41897.png",
+  "id": "00043_41897",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "동수와 지윤이의 키를 나타낸 것입니다. 누구의 키가 더 큽니까? 동수 : $1m$와 $ \\frac{2}{5} m$ 지윤 : $0.1m$가 $15$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            379,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.17,
+            29.94,
+            256.17,
+            68.94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            0.94,
+            380.17,
+            67.94
+          ],
+          "text": "동수와 지윤이의 키를 나타낸 것입니다. 누구의 키가 더 큽니까? 동수 : $1m$와 $ \\frac{2}{5} m$ 지윤 : $0.1m$가 $15$개"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00042_36124.png",
+  "id": "00042_36124",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "시계 바늘을 (반시계방향) 방향으로 돌리면 어떤 숫자를 가리킵니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            16.23,
+            0,
+            362.23,
+            26.65
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            16.23,
+            26.65,
+            111.23,
+            113.65
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.23,
+            0.65,
+            369.23,
+            27.65
+          ],
+          "text": "시계 바늘을 (반시계방향) 방향으로 돌리면 어떤 숫자를 가리킵니까?"
+        }
+      ]
+    }
+  ]
+}

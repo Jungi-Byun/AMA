@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_03_00040_21671.png",
+  "id": "00040_21671",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203018",
+      "question_topic_name": "소수 두 자리 수의 뺄셈의 활용",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "재원이는 $ 2.4 \\mathrm{~m} $짜리 끈 $ 2 $개를 가지고 있습니다. $ 2 $개의 끈을 묶은 다음 길이를 재어 보니 $ 3.95 \\mathrm{~m} $였습니다. 끈을 묶는데 매듭으로 사용된 길이는 몇 $ \\mathrm{m} $입니까? ① $ 0.85 \\mathrm{~m} $ ② $ 0.95 \\mathrm{~m} $ ③ $ 1.05 \\mathrm{~m} $ ④ $ 1.15 \\mathrm{~m} $ ⑤ $ 1.25 \\mathrm{~m} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            110,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            85,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            84,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            81,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            77,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            80,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            152
+          ],
+          "text": "재원이는 $ 2.4 \\mathrm{~m} $짜리 끈 $ 2 $개를 가지고 있습니다. $ 2 $개의 끈을 묶은 다음 길이를 재어 보니 $ 3.95 \\mathrm{~m} $였습니다. 끈을 묶는데 매듭으로 사용된 길이는 몇 $ \\mathrm{m} $입니까? ① $ 0.85 \\mathrm{~m} $ ② $ 0.95 \\mathrm{~m} $ ③ $ 1.05 \\mathrm{~m} $ ④ $ 1.15 \\mathrm{~m} $ ⑤ $ 1.25 \\mathrm{~m} $"
+        }
+      ]
+    }
+  ]
+}

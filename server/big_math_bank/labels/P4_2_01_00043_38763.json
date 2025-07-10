@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38763.png",
+  "id": "00043_38763",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정호네 가족은 어제 약수터에서 물을 4$\\frac{5}{7}$L 떠 왔습니다. 오늘은 어제보다 물을 2$\\frac{3}{7}$L 더 떠 왔다면 어제와 오늘 정호네 가족이 떠 온 물은 모두 몇 $L$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            804,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            38,
+            119,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            56
+          ],
+          "text": "정호네 가족은 어제 약수터에서 물을 4$\\frac{5}{7}$L 떠 왔습니다. 오늘은 어제보다 물을 2$\\frac{3}{7}$L 더 떠 왔다면 어제와 오늘 정호네 가족이 떠 온 물은 모두 몇 $L$입니까?"
+        }
+      ]
+    }
+  ]
+}

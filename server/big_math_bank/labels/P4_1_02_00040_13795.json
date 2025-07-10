@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_02_00040_13795.png",
+  "id": "00040_13795",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102009",
+      "question_topic_name": "두 각도의 합 구하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 두 각도의 합은 얼마입니까?  ① $35\\degree$  ② $45\\degree$  ③ $125\\degree$  ④ $135\\degree$  ⑤ $155\\degree$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            208,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            149,
+            65,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            171,
+            70,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            193,
+            70,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            215,
+            69,
+            235
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.5,
+            127.5,
+            67.14,
+            147.98
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            24,
+            271,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.86,
+            0.78,
+            207.94,
+            17.42
+          ],
+          "text": "다음 두 각도의 합은 얼마입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.14,
+            128.14,
+            69.7,
+            234.38
+          ],
+          "text": "① $35\\degree$  ② $45\\degree$  ③ $125\\degree$  ④ $135\\degree$  ⑤ $155\\degree$"
+        }
+      ]
+    }
+  ]
+}

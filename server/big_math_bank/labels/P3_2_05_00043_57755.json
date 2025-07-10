@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57755.png",
+  "id": "00043_57755",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "전주 한옥마을에 체험 학습을 가서 간장 맛보기 체험을 했습니다. 원래 있던 간장은 $4L$였고 세희네 반 친구들의 간장 맛보기 체험 후 미희네 반 친구들이 간장 맛보기 체험을 했더니 간장 $1L 380mL$가 남았습니다. 미희네 반 학생들은 간장 맛보기 체험에 간장 $1420mL$를 사용했다면, 세희네 반에서 간장 맛보기 체험에 사용한 간장은 몇 $L$ 몇 $mL$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            797,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            430,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            62
+          ],
+          "text": "전주 한옥마을에 체험 학습을 가서 간장 맛보기 체험을 했습니다. 원래 있던 간장은 $4L$였고 세희네 반 친구들의 간장 맛보기 체험 후 미희네 반 친구들이 간장 맛보기 체험을 했더니 간장 $1L 380mL$가 남았습니다. 미희네 반 학생들은 간장 맛보기 체험에 간장 $1420mL$를 사용했다면, 세희네 반에서 간장 맛보기 체험에 사용한 간장은 몇 $L$ 몇 $mL$입니까?"
+        }
+      ]
+    }
+  ]
+}

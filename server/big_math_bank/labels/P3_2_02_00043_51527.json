@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00043_51527.png",
+  "id": "00043_51527",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오. (1) $ \\begin{array}{r} \\phantom{)} \\\\ 4{\\overline{\\smash{\\big)}\\,75\\phantom{)}}}\\\\ \\end{array} $ (2) $ \\begin{array}{r} \\phantom{)} \\\\ 8{\\overline{\\smash{\\big)}\\,98\\phantom{)}}}\\\\ \\end{array} $ (3) $ \\begin{array}{r} \\phantom{)} \\\\ 5{\\overline{\\smash{\\big)}\\,83\\phantom{)}}}\\\\ \\end{array} $ (4) $ \\begin{array}{r} \\phantom{)} \\\\ 7{\\overline{\\smash{\\big)}\\,93\\phantom{)}}}\\\\ \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            42,
+            119,
+            62
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            141,
+            41,
+            241,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            90,
+            119,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            141,
+            89,
+            242,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            244,
+            116
+          ],
+          "text": "계산을 하시오. (1) $ \\begin{array}{r} \\phantom{)} \\\\ 4{\\overline{\\smash{\\big)}\\,75\\phantom{)}}}\\\\ \\end{array} $ (2) $ \\begin{array}{r} \\phantom{)} \\\\ 8{\\overline{\\smash{\\big)}\\,98\\phantom{)}}}\\\\ \\end{array} $ (3) $ \\begin{array}{r} \\phantom{)} \\\\ 5{\\overline{\\smash{\\big)}\\,83\\phantom{)}}}\\\\ \\end{array} $ (4) $ \\begin{array}{r} \\phantom{)} \\\\ 7{\\overline{\\smash{\\big)}\\,93\\phantom{)}}}\\\\ \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

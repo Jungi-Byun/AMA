@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50341.png",
+  "id": "00043_50341",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "거울의 왼쪽에 공책을 대고 비추었더니 다음과 같이 보였습니다. 공책에 쓰여진 소수 중에서 가장 큰 수를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            668,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            17,
+            299,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            670,
+            80
+          ],
+          "text": "거울의 왼쪽에 공책을 대고 비추었더니 다음과 같이 보였습니다. 공책에 쓰여진 소수 중에서 가장 큰 수를 구하시오."
+        }
+      ]
+    }
+  ]
+}

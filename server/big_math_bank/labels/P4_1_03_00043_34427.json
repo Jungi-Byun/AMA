@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_03_00043_34427.png",
+  "id": "00043_34427",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103012",
+      "question_topic_name": "(세 자리 수)÷(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 모형을 사용하여 $ 140 \\div 20 $을 계산하시오. (1) 십 모형 $14$개를 $2$개씩 묶으면 $\\square$ 묶음입니다. (2)$ 140 \\div 20 $을 계산하려고 합니다.  $\\square$안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            264,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            168,
+            303,
+            194
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            197,
+            402,
+            214
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            26,
+            301,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            41,
+            222,
+            258,
+            329
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.06,
+            0,
+            264.06,
+            16.82
+          ],
+          "text": "수 모형을 사용하여 $ 140 \\div 20 $을 계산하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.06,
+            166.82,
+            404.06,
+            216.82
+          ],
+          "text": "(1) 십 모형 $14$개를 $2$개씩 묶으면 $\\square$ 묶음입니다. (2)$ 140 \\div 20 $을 계산하려고 합니다.  $\\square$안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

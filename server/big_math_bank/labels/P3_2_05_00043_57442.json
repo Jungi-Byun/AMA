@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57442.png",
+  "id": "00043_57442",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수조에 물을 가득 채우려면 플라스틱 컵, 종이컵, 유리컵으로 다음과 같이 부어야 합니다. 들이가 가장 많은 컵을 만드는 데 이용된 물질은 무엇입니까? (단, 물질에는 플라스틱, 종이, 유리가 있습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            352,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            308,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            89
+          ],
+          "text": "수조에 물을 가득 채우려면 플라스틱 컵, 종이컵, 유리컵으로 다음과 같이 부어야 합니다. 들이가 가장 많은 컵을 만드는 데 이용된 물질은 무엇입니까? (단, 물질에는 플라스틱, 종이, 유리가 있습니다.)"
+        }
+      ]
+    }
+  ]
+}

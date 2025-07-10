@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_05_00043_40440.png",
+  "id": "00043_40440",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수원이의 시계는 지금 초바늘이 숫자 $9$를 가리키고 있습니다. 지금부터 $36$분 $40$초 후에 초바늘이 가리키는 숫자는 무엇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            739,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            741,
+            21
+          ],
+          "text": "수원이의 시계는 지금 초바늘이 숫자 $9$를 가리키고 있습니다. 지금부터 $36$분 $40$초 후에 초바늘이 가리키는 숫자는 무엇입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50627.png",
+  "id": "00043_50627",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203016",
+      "question_topic_name": "소수 두 자리 수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오. (1) $ \\begin{array}{r}0.9 \\\\ -0.3 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}0.56 \\\\ -0.18 \\\\ \\hline\\end{array} $(3) $0.8-0.6$ (4) $0.71-0.23$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            78,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            115,
+            24,
+            181,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            91,
+            198,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            200,
+            108
+          ],
+          "text": "계산을 하시오. (1) $ \\begin{array}{r}0.9 \\\\ -0.3 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}0.56 \\\\ -0.18 \\\\ \\hline\\end{array} $(3) $0.8-0.6$ (4) $0.71-0.23$"
+        }
+      ]
+    }
+  ]
+}

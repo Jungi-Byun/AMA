@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00042_92928.png",
+  "id": "00042_92928",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림과 같이 두꺼운 종이의 한쪽 끝에 누름 못을 꽂아 고정시키고 원을 그리려고 합니다. 원의 중심이 되는 곳은 어디입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            718,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            28,
+            260,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            720,
+            21
+          ],
+          "text": "그림과 같이 두꺼운 종이의 한쪽 끝에 누름 못을 꽂아 고정시키고 원을 그리려고 합니다. 원의 중심이 되는 곳은 어디입니까?"
+        }
+      ]
+    }
+  ]
+}

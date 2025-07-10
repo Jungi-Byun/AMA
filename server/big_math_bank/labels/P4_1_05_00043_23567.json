@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_05_00043_23567.png",
+  "id": "00043_23567",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지호네 반 학생들이 가장 좋아하는 과일을 조사하여 나타낸 막대그래프입니다. 다음 중 틀린 설명은 어느 것입니까? 좋아하는 과일별 학생 수  ① 가로는 학생 수를 나타내고 있습니다. ② 세로는 과일을 나타내고 있습니다. ③ 가로 눈금 한 칸은 1명을 나타내고 있습니다. ④ 사과를 좋아하는 학생은 7명입니다. ⑤ 귤을 좋아하는 학생은 10명입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            668,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            203,
+            253,
+            225
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            227,
+            237,
+            247
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            249,
+            291,
+            269
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            271,
+            244,
+            291
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            293,
+            238,
+            313
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            302,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            670,
+            22
+          ],
+          "text": "지호네 반 학생들이 가장 좋아하는 과일을 조사하여 나타낸 막대그래프입니다. 다음 중 틀린 설명은 어느 것입니까? 좋아하는 과일별 학생 수 "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            201,
+            304,
+            314
+          ],
+          "text": "① 가로는 학생 수를 나타내고 있습니다. ② 세로는 과일을 나타내고 있습니다. ③ 가로 눈금 한 칸은 1명을 나타내고 있습니다. ④ 사과를 좋아하는 학생은 7명입니다. ⑤ 귤을 좋아하는 학생은 10명입니다."
+        }
+      ]
+    }
+  ]
+}

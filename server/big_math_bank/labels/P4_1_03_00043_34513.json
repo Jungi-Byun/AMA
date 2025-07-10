@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_03_00043_34513.png",
+  "id": "00043_34513",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103011",
+      "question_topic_name": "나머지가 있는 (두 자리 수)÷(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "(두 자리 수)$\\div$(두 자리 수)의 몫이 주어진 수에 가깝게 되도록 $\\bigcirc$와 $\\square$ 안에 알맞은 수를 쓰시오. (1) 몫 : 7    $\\bigcirc$6$\\div1\\square$ (2) 몫 : 6   $\\bigcirc$5$\\div1\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            552,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            156,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            87,
+            159,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            554,
+            106
+          ],
+          "text": "(두 자리 수)$\\div$(두 자리 수)의 몫이 주어진 수에 가깝게 되도록 $\\bigcirc$와 $\\square$ 안에 알맞은 수를 쓰시오. (1) 몫 : 7    $\\bigcirc$6$\\div1\\square$ (2) 몫 : 6   $\\bigcirc$5$\\div1\\square$"
+        }
+      ]
+    }
+  ]
+}

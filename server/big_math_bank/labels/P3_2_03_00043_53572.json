@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53572.png",
+  "id": "00043_53572",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에 중심 ㄱ에 빨간 점이 있는 작은 원과 오른쪽에 중심 ㄴ에 빨간 점이 있는 큰 원이 외접하며 두 원의 중심을 연결한 선분 ㄱㄴ이 있을 때, 점 ㄱ에서 위로 향하는 반지름의 길이가 3 cm이고 점 ㄴ에서 위로 향하는 반지름의 길이가 5 cm인 도형",
+      "question_text": "그림에서 선분 ㄱㄴ은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            226,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            33,
+            214,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            228,
+            23
+          ],
+          "text": "그림에서 선분 ㄱㄴ은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

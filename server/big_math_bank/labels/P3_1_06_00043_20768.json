@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_20768.png",
+  "id": "00043_20768",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 분수를 소수로 나타낸 것이 틀린  것은 어느 것입니까?  (1) $ \\frac{2}{10}=0.2 $ (2) $ \\frac{4}{10}=0.4 $ (3) $ \\frac{6}{10}=6.0 $ (4) $ \\frac{8}{10}=0.8 $ (5) $ \\frac{7}{10}=0.7 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            367,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            103,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            104,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            103,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            103,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            103,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            369,
+            224
+          ],
+          "text": "다음 중 분수를 소수로 나타낸 것이 틀린  것은 어느 것입니까?  (1) $ \\frac{2}{10}=0.2 $ (2) $ \\frac{4}{10}=0.4 $ (3) $ \\frac{6}{10}=6.0 $ (4) $ \\frac{8}{10}=0.8 $ (5) $ \\frac{7}{10}=0.7 $"
+        }
+      ]
+    }
+  ]
+}

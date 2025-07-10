@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00042_27110.png",
+  "id": "00042_27110",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "글자를 다음과 같이 이동시켰습니다. 서로 같은 모양이 생기는 경우를 찾아 모두 기호를 쓰시오.  <table border>   <tbody>     <tr>       <td>가</td>     </tr> </tbody> </table> ㉠ 왼쪽으로 뒤집기 $\\rightarrow$ 방향으로 $5$번 돌리기$\\rightarrow$아래쪽으로 $3$번 뒤집기㉡ 오른쪽으로 $4$번 뒤집기 $\\rightarrow$ 방향으로 돌리기 $\\rightarrow$위쪽으로 뒤집기㉢ 방향으로 돌리기 $\\rightarrow$왼쪽으로 뒤집기 $\\rightarrow$ 방향으로 $3$번 돌리기㉣ 방향으로 돌리기 $\\rightarrow$아래쪽으로 7번 뒤집기 $\\rightarrow$ 방향으로 $9$번 돌리기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            555,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            751,
+            255
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            557,
+            33
+          ],
+          "text": "글자를 다음과 같이 이동시켰습니다. 서로 같은 모양이 생기는 경우를 찾아 모두 기호를 쓰시오.  <table border>   <tbody>     <tr>       <td>가</td>     </tr> </tbody> </table> ㉠ 왼쪽으로 뒤집기 $\\rightarrow$ 방향으로 $5$번 돌리기$\\rightarrow$아래쪽으로 $3$번 뒤집기㉡ 오른쪽으로 $4$번 뒤집기 $\\rightarrow$ 방향으로 돌리기 $\\rightarrow$위쪽으로 뒤집기㉢ 방향으로 돌리기 $\\rightarrow$왼쪽으로 뒤집기 $\\rightarrow$ 방향으로 $3$번 돌리기㉣ 방향으로 돌리기 $\\rightarrow$아래쪽으로 7번 뒤집기 $\\rightarrow$ 방향으로 $9$번 돌리기"
+        }
+      ]
+    }
+  ]
+}

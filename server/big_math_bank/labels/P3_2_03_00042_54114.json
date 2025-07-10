@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_03_00042_54114.png",
+  "id": "00042_54114",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "컴퍼스를 사용하여 반지름이 $1$cm $5$mm인 원을 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            359,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            361,
+            21
+          ],
+          "text": "컴퍼스를 사용하여 반지름이 $1$cm $5$mm인 원을 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

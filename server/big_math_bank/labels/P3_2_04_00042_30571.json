@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00042_30571.png",
+  "id": "00042_30571",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진분수가 아닌 것은 어느 것입니까?  ① $ \\frac{1}{3} $ ② $ \\frac{3}{5} $ ③ $ \\frac{4}{7} $ ④ $ \\frac{9}{9} $ ⑤ $ \\frac{6}{11} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            220,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            63,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            63,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            107,
+            63,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            63,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            71,
+            222
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            222,
+            223
+          ],
+          "text": "진분수가 아닌 것은 어느 것입니까?  ① $ \\frac{1}{3} $ ② $ \\frac{3}{5} $ ③ $ \\frac{4}{7} $ ④ $ \\frac{9}{9} $ ⑤ $ \\frac{6}{11} $"
+        }
+      ]
+    }
+  ]
+}

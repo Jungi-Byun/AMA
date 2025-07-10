@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_03_00043_34547.png",
+  "id": "00043_34547",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103011",
+      "question_topic_name": "나머지가 있는 (두 자리 수)÷(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "81÷23을 다음과 같이 어림하여 계산하였습니다. 잘못된 부분을 찾아 바르게 계산하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            517,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            241,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            60,
+            235,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            519,
+            186
+          ],
+          "text": "81÷23을 다음과 같이 어림하여 계산하였습니다. 잘못된 부분을 찾아 바르게 계산하시오."
+        }
+      ]
+    }
+  ]
+}

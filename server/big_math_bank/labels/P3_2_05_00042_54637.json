@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00042_54637.png",
+  "id": "00042_54637",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$kg$과 $g$을 사용하여 무게를 잘못 나타낸 것은 어느 것입니까? ①당근의 무게 - $190$g ②색연필의 무게 - $6$kg ③핸드폰의 무게 - $250$g ④고양이의 무게 - $5$kg ⑤안경의 무게 - $20$g",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            359,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            157,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            161,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            171,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            161,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            151,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            361,
+            130
+          ],
+          "text": "$kg$과 $g$을 사용하여 무게를 잘못 나타낸 것은 어느 것입니까? ①당근의 무게 - $190$g ②색연필의 무게 - $6$kg ③핸드폰의 무게 - $250$g ④고양이의 무게 - $5$kg ⑤안경의 무게 - $20$g"
+        }
+      ]
+    }
+  ]
+}

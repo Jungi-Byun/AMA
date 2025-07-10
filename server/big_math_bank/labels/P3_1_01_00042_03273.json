@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_03273.png",
+  "id": "00042_03273",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1$학년부터 $3$학년까지의 학생 수는 모두 $621$명이라고 합니다. 이 학교의 $3$학년 학생 수는 몇 명입니까? <table border>   <tbody>     <tr>       <td>학년</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>     </tr>     <tr>       <td>학생수(명)</td>       <td>$217$</td>       <td>$297$</td>       <td>$~~~~~~$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            592,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            216,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            594,
+            70
+          ],
+          "text": "$1$학년부터 $3$학년까지의 학생 수는 모두 $621$명이라고 합니다. 이 학교의 $3$학년 학생 수는 몇 명입니까? <table border>   <tbody>     <tr>       <td>학년</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>     </tr>     <tr>       <td>학생수(명)</td>       <td>$217$</td>       <td>$297$</td>       <td>$~~~~~~$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

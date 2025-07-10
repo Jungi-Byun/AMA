@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_05_00043_00444.png",
+  "id": "00043_00444",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "두 개의 띠그래프가 위쪽에 한 개, 아래쪽에 한 개 평행하게 있으며 띠그래프는 모두 16칸이고 위쪽에는 16칸을 2분 40초라 하고 6칸마다 점선으로 6등분하며 분홍색이고 아래쪽에는 6칸마다 점선으로 6등분하며 11칸을 1분 50초라 하고 분홍색, 나머지 5칸은 연두색이고 네모 초라 하고 점선표시를 한 띠그래프 그림",
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $2$분 $40$초$-1$분 $50$초$=$$ \\square $초",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            170,
+            139,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            30,
+            308,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.23,
+            0,
+            277.23,
+            18.65
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.23,
+            168.65,
+            193.23,
+            193.65
+          ],
+          "text": "$2$분 $40$초$-1$분 $50$초$=$$ \\square $초"
+        }
+      ]
+    }
+  ]
+}

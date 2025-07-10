@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00042_54085.png",
+  "id": "00042_54085",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "설명 중 틀린 것은 어느 것입니까? ①반지름이 길수록 원은 큽니다. ②한 원에서 반지름은 셀 수 없이 많이 그을 수 있습니다. ③한 원에서 원의 중심이 되는 점은 셀 수 없이 많습니다. ④원을 그릴 때 누름 못이 꽂혔던 점을 원의 중심이라고 합니다. ⑤원의 중심과 원 위의 한 점을 이은 거리를 원의 반지름이라고 합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            212,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            211,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            348,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            348,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            387,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            428,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            430,
+            130
+          ],
+          "text": "설명 중 틀린 것은 어느 것입니까? ①반지름이 길수록 원은 큽니다. ②한 원에서 반지름은 셀 수 없이 많이 그을 수 있습니다. ③한 원에서 원의 중심이 되는 점은 셀 수 없이 많습니다. ④원을 그릴 때 누름 못이 꽂혔던 점을 원의 중심이라고 합니다. ⑤원의 중심과 원 위의 한 점을 이은 거리를 원의 반지름이라고 합니다."
+        }
+      ]
+    }
+  ]
+}

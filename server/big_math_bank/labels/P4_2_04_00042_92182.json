@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00042_92182.png",
+  "id": "00042_92182",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204020",
+      "question_topic_name": "정사각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정사각형에서 아래쪽 수평인 변의 길이가 12 cm, 이 변의 오른쪽 각에 도를 나타내는 기호가 안에 있는 네모가 있고 왼쪽 변과 위쪽 변에 길이를 넣을 네모 cm가 있는 도형",
+      "question_text": "다음은 정사각형입니다. $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            27,
+            188,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            344,
+            21
+          ],
+          "text": "다음은 정사각형입니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

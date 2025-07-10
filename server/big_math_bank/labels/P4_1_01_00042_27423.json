@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00042_27423.png",
+  "id": "00042_27423",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101007",
+      "question_topic_name": "억 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1$억에 대한 설명으로 옳은 것은 어느 것입니까? ① $100$만이 $10$인 수입니다. ② $9900$만보다 $10$만 큰 수입니다. ③ $1$만의 $10000$배인 수입니다. ④ $9000$만보다 $100$만 큰 수입니다. ⑤ $9999$만보다 $10$만 큰 수입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            284,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            182,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            222,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            204,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            233,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            220,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            286,
+            130
+          ],
+          "text": "$1$억에 대한 설명으로 옳은 것은 어느 것입니까? ① $100$만이 $10$인 수입니다. ② $9900$만보다 $10$만 큰 수입니다. ③ $1$만의 $10000$배인 수입니다. ④ $9000$만보다 $100$만 큰 수입니다. ⑤ $9999$만보다 $10$만 큰 수입니다."
+        }
+      ]
+    }
+  ]
+}

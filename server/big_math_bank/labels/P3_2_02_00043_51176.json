@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00043_51176.png",
+  "id": "00043_51176",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수확한 사과 $84$개를 $4$상자에 똑같이 나누어 담으려고 합니다. 한 상자에 몇 개씩 담아야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            562,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            564,
+            21
+          ],
+          "text": "수확한 사과 $84$개를 $4$상자에 똑같이 나누어 담으려고 합니다. 한 상자에 몇 개씩 담아야 합니까?"
+        }
+      ]
+    }
+  ]
+}

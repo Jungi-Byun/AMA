@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_04_00042_27124.png",
+  "id": "00042_27124",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "왼쪽 도형을 움직였더니 오른쪽 모양이 되었습니다. 움직인 방법이 아닌 것은 어느 것입니까? ①위쪽으로 $2$번 뒤집기  ② (오른쪽 $180\\degree $)방향으로 $2$번 돌리기  ③오른쪽으로 민 후 위쪽으로 밀기  ④위쪽으로 뒤집은 후 (왼쪽 $90 \\degree $) 방향으로 돌리기  ⑤ (왼쪽 $270\\degree$)방향으로 돌린 후 (왼쪽 $90 \\degree$) 방향으로 돌리기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            540,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            161,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            108,
+            192,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            139,
+            224,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.79,
+            160.01,
+            281.48,
+            188.27
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.79,
+            187.86,
+            300.73,
+            214.9
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            314,
+            18.94,
+            503,
+            91.94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            544,
+            20
+          ],
+          "text": "왼쪽 도형을 움직였더니 오른쪽 모양이 되었습니다. 움직인 방법이 아닌 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            86,
+            303,
+            214
+          ],
+          "text": "①위쪽으로 $2$번 뒤집기  ② (오른쪽 $180\\degree $)방향으로 $2$번 돌리기  ③오른쪽으로 민 후 위쪽으로 밀기  ④위쪽으로 뒤집은 후 (왼쪽 $90 \\degree $) 방향으로 돌리기  ⑤ (왼쪽 $270\\degree$)방향으로 돌린 후 (왼쪽 $90 \\degree$) 방향으로 돌리기"
+        }
+      ]
+    }
+  ]
+}

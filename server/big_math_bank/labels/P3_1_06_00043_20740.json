@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_20740.png",
+  "id": "00043_20740",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경미는 동화책 $60$쪽을 읽는 데 $0.4$시간이 걸렸습니다. 일정한 빠르기로 동화책을 읽는다고 할 때, 경미가 $180$쪽짜리 동화책 한 권을 읽는 데 걸리는 시간은 몇 시간 몇 분입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            792,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            241,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            794,
+            41
+          ],
+          "text": "경미는 동화책 $60$쪽을 읽는 데 $0.4$시간이 걸렸습니다. 일정한 빠르기로 동화책을 읽는다고 할 때, 경미가 $180$쪽짜리 동화책 한 권을 읽는 데 걸리는 시간은 몇 시간 몇 분입니까?"
+        }
+      ]
+    }
+  ]
+}

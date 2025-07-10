@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00043_51651.png",
+  "id": "00043_51651",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 자물쇠의 비밀번호는 무엇입니까?  (비밀번호) 나누어떨어지는 나눗셈 중 몫이 큰 순서대로 나눗셈이 적혀 있는 곳의 $\\bigcirc$ 안에 쓰인 숫자를 누르면 됩니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            242,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            259,
+            90,
+            287
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            287,
+            623,
+            309
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            32,
+            236,
+            239
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            244,
+            23
+          ],
+          "text": "다음 자물쇠의 비밀번호는 무엇입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20,
+            253,
+            626,
+            313
+          ],
+          "text": "(비밀번호) 나누어떨어지는 나눗셈 중 몫이 큰 순서대로 나눗셈이 적혀 있는 곳의 $\\bigcirc$ 안에 쓰인 숫자를 누르면 됩니다."
+        }
+      ]
+    }
+  ]
+}

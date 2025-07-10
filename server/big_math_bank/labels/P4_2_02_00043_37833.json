@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_02_00043_37833.png",
+  "id": "00043_37833",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202001",
+      "question_topic_name": "삼각형의 변의 길이에 따라 분류하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민우가 현미경으로 눈의 결정을 관찰한 후 정삼각형 블록으로 다음과 같이 표현했습니다. 민우가 표현한 눈의 결정에서 찾을 수 있는 크고 작은 정삼각형은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            220,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            54,
+            151,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            41
+          ],
+          "text": "민우가 현미경으로 눈의 결정을 관찰한 후 정삼각형 블록으로 다음과 같이 표현했습니다. 민우가 표현한 눈의 결정에서 찾을 수 있는 크고 작은 정삼각형은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

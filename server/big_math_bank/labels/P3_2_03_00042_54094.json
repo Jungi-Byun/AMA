@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00042_54094.png",
+  "id": "00042_54094",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "점 ㄱ과 점 ㄴ은 원의 중심입니다. 두 원의 반지름을 각각 그리고, 그 길이를 재어 길이의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            598,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            287,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            601,
+            22
+          ],
+          "text": "점 ㄱ과 점 ㄴ은 원의 중심입니다. 두 원의 반지름을 각각 그리고, 그 길이를 재어 길이의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

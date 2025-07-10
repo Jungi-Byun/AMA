@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00042_93622.png",
+  "id": "00042_93622",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림은 가, 나, 다 세 그릇에 물을 가득 부어 모양과 크기가 같은 컵에 모두 따랐을 때, 컵의 수를 나타낸 것입니다. 들이가 많은 것부터 차례로 기호를 쓰시오. 가 나 다",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            120,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            54,
+            309,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            40
+          ],
+          "text": "그림은 가, 나, 다 세 그릇에 물을 가득 부어 모양과 크기가 같은 컵에 모두 따랐을 때, 컵의 수를 나타낸 것입니다. 들이가 많은 것부터 차례로 기호를 쓰시오. 가 나 다"
+        }
+      ]
+    }
+  ]
+}

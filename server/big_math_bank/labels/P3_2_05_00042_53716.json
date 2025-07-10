@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00042_53716.png",
+  "id": "00042_53716",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으시오.(1) $3600g \\bigcirc 3kg 500g$ (2) $6kg 20g \\bigcirc 5950g$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            230,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            26,
+            81,
+            43
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            85,
+            23,
+            111,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            115,
+            26,
+            177,
+            43
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            92,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            89,
+            53,
+            123,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            126,
+            56,
+            169,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            232,
+            80
+          ],
+          "text": "$\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으시오.(1) $3600g \\bigcirc 3kg 500g$ (2) $6kg 20g \\bigcirc 5950g$"
+        }
+      ]
+    }
+  ]
+}

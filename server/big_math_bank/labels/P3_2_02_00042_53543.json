@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00042_53543.png",
+  "id": "00042_53543",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수호는 전체 쪽수가 $92$쪽인 수학 문제집을 매일 $4$쪽씩 풀기로 했습니다. 수호가 수학 문제집을 다 푸는 데 며칠이 걸리겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            742,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            744,
+            21
+          ],
+          "text": "수호는 전체 쪽수가 $92$쪽인 수학 문제집을 매일 $4$쪽씩 풀기로 했습니다. 수호가 수학 문제집을 다 푸는 데 며칠이 걸리겠습니까?"
+        }
+      ]
+    }
+  ]
+}

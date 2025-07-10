@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_40447.png",
+  "id": "00043_40447",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "9등분된 가로막대의 처음 다섯 칸은 하늘색, 그 다음 네 칸은 파란색으로 색칠되어 있고 하늘색 영역은 50초, 파란색 영역은 40초로 각각 가로막대 위로 길이 표시가 되어 있고, 처음부터 6칸은 네모상자 초=네모상자 분으로, 나머지 세 칸은 네모상자 초로 가로막대 아래쪽에 길이 표시가 되어 있는 그림",
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            31,
+            316,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            22
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

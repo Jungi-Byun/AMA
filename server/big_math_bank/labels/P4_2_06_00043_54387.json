@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_06_00043_54387.png",
+  "id": "00043_54387",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206001",
+      "question_topic_name": "다각형과 다각형의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 말을 써넣으시오. 변이 $7$개인 다각형을 $\\square$이라고 합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            19,
+            302,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            304,
+            42
+          ],
+          "text": "$\\square$ 안에 알맞은 말을 써넣으시오. 변이 $7$개인 다각형을 $\\square$이라고 합니다."
+        }
+      ]
+    }
+  ]
+}

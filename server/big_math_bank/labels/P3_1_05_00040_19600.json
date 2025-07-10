@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_05_00040_19600.png",
+  "id": "00040_19600",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $\\square$ 안에 들어갈 수가 아닌 것을 모두 고르시오. $ \\begin{array}{r}6 \\text { 시간 } 40 \\text { 분 } 18 \\text { 초 } \\\\ + 2 \\text { 시간 } 27 \\text { 분 } 49 \\text { 초 } \\\\ \\hline \\square \\text { 시간 } \\square \\text { 분 } \\square \\text { 초 }\\end{array} $ ①9 ②8 ③7 ④6 ⑤5",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            324,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            197,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            90,
+            53,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            112,
+            53,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            134,
+            52,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            156,
+            53,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            178,
+            52,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            326,
+            199
+          ],
+          "text": "다음 중 $\\square$ 안에 들어갈 수가 아닌 것을 모두 고르시오. $ \\begin{array}{r}6 \\text { 시간 } 40 \\text { 분 } 18 \\text { 초 } \\\\ + 2 \\text { 시간 } 27 \\text { 분 } 49 \\text { 초 } \\\\ \\hline \\square \\text { 시간 } \\square \\text { 분 } \\square \\text { 초 }\\end{array} $ ①9 ②8 ③7 ④6 ⑤5"
+        }
+      ]
+    }
+  ]
+}

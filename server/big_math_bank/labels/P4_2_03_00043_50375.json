@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00043_50375.png",
+  "id": "00043_50375",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203009",
+      "question_topic_name": "소수 한 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "실선으로 그린 직사각형 안에 직사각형 세로의 길이와 같은 간격을 두고 직사각형 안 가로에 수직인 점선 9개를 그린 후, 실선 1개, 점선 3개를 차례로 더 그린 뒤 세로 선 아래에 0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.2, 1.3, 1.4으로 간격을 적어 놓은 도형",
+      "question_text": "$0.8 + 0.6$은 얼마인지 알아보려고 합니다. 물음에 답하시오. (1) $0.8$만큼 파란색으로 색칠하시오. (2) 이어서 $0.6$만큼 빨간색으로 색칠하시오. (3) 색칠한 칸은 모두 $\\square$ 칸이므로 $0.8+0.6=$$\\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            356,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            76,
+            223,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            267,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            119,
+            391,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21.5,
+            23.23,
+            328.5,
+            71.23
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            359,
+            20
+          ],
+          "text": "$0.8 + 0.6$은 얼마인지 알아보려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            75,
+            393,
+            147
+          ],
+          "text": "(1) $0.8$만큼 파란색으로 색칠하시오. (2) 이어서 $0.6$만큼 빨간색으로 색칠하시오. (3) 색칠한 칸은 모두 $\\square$ 칸이므로 $0.8+0.6=$$\\square$입니다."
+        }
+      ]
+    }
+  ]
+}

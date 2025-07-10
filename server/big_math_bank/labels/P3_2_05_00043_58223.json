@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58223.png",
+  "id": "00043_58223",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준희는 아버지, 어머니와 함께 고구마를 캤습니다. 준희는 $ 3 \\mathrm{~kg} 200 \\mathrm{~g} $, 어머니는 $ 2 \\mathrm{~kg} 700 \\mathrm{~g} $ 을 캤습니다. 세 사람이 캔 고구마가 모두 $ 10 \\mathrm{~kg} $ 이 라면, 아버지가 캔 고구마는 어머니가 캔 고구마보다 몇 $ \\mathrm{kg} $ 몇 $ \\mathrm{g} $ 더 무겁습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            466,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "준희는 아버지, 어머니와 함께 고구마를 캤습니다. 준희는 $ 3 \\mathrm{~kg} 200 \\mathrm{~g} $, 어머니는 $ 2 \\mathrm{~kg} 700 \\mathrm{~g} $ 을 캤습니다. 세 사람이 캔 고구마가 모두 $ 10 \\mathrm{~kg} $ 이 라면, 아버지가 캔 고구마는 어머니가 캔 고구마보다 몇 $ \\mathrm{kg} $ 몇 $ \\mathrm{g} $ 더 무겁습니까?"
+        }
+      ]
+    }
+  ]
+}

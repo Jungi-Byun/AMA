@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_06_00043_54747.png",
+  "id": "00043_54747",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206006",
+      "question_topic_name": "모양 만들기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "좌상측에 색칠한 직각삼각형, 좌하측에 다른 색으로 칠한 정사각형이 세로로 나란히 있고 화살표가 우측 방향으로 있으며 우측에 팔각형이 있고 왼쪽의 직각이등변삼각형의 짧은 두 변은 10 cm, 빗변은 14 cm이며 정사각형의 가로와 세로는 각각 10 cm, 팔각형의 30 cm인 아래에 가로로 그려진 변에서 시계 반대 방향으로 이웃한 변의 길이는 28 cm, 30 cm, 28 cm로 네 개의 이웃한 변의 길이가 표시되어 있는 평면도형",
+      "question_text": "왼쪽 모양 조각으로 오른쪽 팔각형을 만들려고 합니다. 모양 조각을 가장 적게 사용하여 만들려면 직각삼각형과 정사각형 모양의 조각은 각각 몇 개씩 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            153,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            72,
+            79,
+            102,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            52,
+            321,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "왼쪽 모양 조각으로 오른쪽 팔각형을 만들려고 합니다. 모양 조각을 가장 적게 사용하여 만들려면 직각삼각형과 정사각형 모양의 조각은 각각 몇 개씩 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

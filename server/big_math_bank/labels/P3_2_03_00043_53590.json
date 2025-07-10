@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53590.png",
+  "id": "00043_53590",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 변의 길이가 24 cm인 사각형 내에 내접하는 원이 있고, 사각형에 내접하는 원 안에 반지름의 길이가 원 문자 ㄱ인 원이 오른쪽 아래쪽에서 왼쪽 위에 있는 반지름의 길이가 6 cm인 원의 중심을 지나도록 겹쳐 그린 두 원이 내접하고 있고, 내접하는 두 점을 선분으로 이어 그린 그림",
+      "question_text": "그림에서 $㉠$은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            184,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            29,
+            230,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            186,
+            25
+          ],
+          "text": "그림에서 $㉠$은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

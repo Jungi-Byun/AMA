@@ -1,0 +1,279 @@
+{
+  "question_filename": "P4_2_05_00040_25413.png",
+  "id": "00040_25413",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 유진이가 기르는 봉숭아의 키를 $1$주일 간격으로 조사하여 나타낸 표입니다. 이 표로 꺾은선그래프를 그렸을 때, 선분의 기울어진 정도가 가장 가파르게 그려질 때와 가장 완만하게 그려질 때를 차례로 찾으려고 합니다. 바르게 찾은 것은 어느 것입니까? 봉숭아의 키 <table border> <caption></caption>   <tbody>     <tr>       <td>주</td>       <td>처음</td>       <td>첫째 주</td>       <td>둘째주</td>       <td>셋째 주</td>       <td>넷째 주</td>     </tr>     <tr>       <td>키$(cm)$</td>       <td>$12$</td>       <td>$18$</td>       <td>$22$</td>       <td>$30$</td>       <td>$37$</td>     </tr> </tbody> </table>  ①가장 가파르게 그려질 때:  첫째 주와 둘째 주 사이  가장 완만하게 그려질 때:  둘째 주와 셋째 주 사이  ②가장 가파르게 그려질 때:  셋째 주와 넷째 주 사이  가장 완만하게 그려질 때:  첫째 주와 둘째 주 사이  ③가장 가파르게 그려질 때:  둘째 주와 셋째 주 사이  가장 완만하게 그려질 때:  셋째 주와 넷째 주 사이  ④가장 가파르게 그려질 때:  처음과 첫째 주 사이 가장   완만하게 그려질 때:  첫째 주와 둘째 주 사이  ⑤가장 가파르게 그려질 때:  둘째 주와 셋째 주 사이   가장 완만하게 그려질 때:  첫째 주와 둘째 주 사이",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            689,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            87,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            355,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            114,
+            197,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            139,
+            173,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            161,
+            186,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            183,
+            173,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            203,
+            187,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            227,
+            173,
+            244
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            249,
+            186,
+            265
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            271,
+            173,
+            288
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            291,
+            187,
+            311
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            315,
+            173,
+            332
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            337,
+            186,
+            353
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            359,
+            173,
+            376
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            379,
+            187,
+            399
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            403,
+            156,
+            420
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            424,
+            186,
+            441
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            447,
+            173,
+            464
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            467,
+            187,
+            487
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            491,
+            173,
+            508
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            513,
+            186,
+            529
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            535,
+            173,
+            552
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            553
+          ],
+          "text": "다음은 유진이가 기르는 봉숭아의 키를 $1$주일 간격으로 조사하여 나타낸 표입니다. 이 표로 꺾은선그래프를 그렸을 때, 선분의 기울어진 정도가 가장 가파르게 그려질 때와 가장 완만하게 그려질 때를 차례로 찾으려고 합니다. 바르게 찾은 것은 어느 것입니까? 봉숭아의 키 <table border> <caption></caption>   <tbody>     <tr>       <td>주</td>       <td>처음</td>       <td>첫째 주</td>       <td>둘째주</td>       <td>셋째 주</td>       <td>넷째 주</td>     </tr>     <tr>       <td>키$(cm)$</td>       <td>$12$</td>       <td>$18$</td>       <td>$22$</td>       <td>$30$</td>       <td>$37$</td>     </tr> </tbody> </table>  ①가장 가파르게 그려질 때:  첫째 주와 둘째 주 사이  가장 완만하게 그려질 때:  둘째 주와 셋째 주 사이  ②가장 가파르게 그려질 때:  셋째 주와 넷째 주 사이  가장 완만하게 그려질 때:  첫째 주와 둘째 주 사이  ③가장 가파르게 그려질 때:  둘째 주와 셋째 주 사이  가장 완만하게 그려질 때:  셋째 주와 넷째 주 사이  ④가장 가파르게 그려질 때:  처음과 첫째 주 사이 가장   완만하게 그려질 때:  첫째 주와 둘째 주 사이  ⑤가장 가파르게 그려질 때:  둘째 주와 셋째 주 사이   가장 완만하게 그려질 때:  첫째 주와 둘째 주 사이"
+        }
+      ]
+    }
+  ]
+}

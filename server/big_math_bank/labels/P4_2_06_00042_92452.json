@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_06_00042_92452.png",
+  "id": "00042_92452",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 도형인지 쓰시오.  ㆍ선분으로만 둘러싸인 도형입니다.  ㆍ변의 길이와 각의 크기가 모두 같습니다.  ㆍ변의 수는 $12$개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            145,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            21,
+            231,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            55,
+            266,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            74,
+            170,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            283,
+            98
+          ],
+          "text": "어떤 도형인지 쓰시오.  ㆍ선분으로만 둘러싸인 도형입니다.  ㆍ변의 길이와 각의 크기가 모두 같습니다.  ㆍ변의 수는 $12$개입니다."
+        }
+      ]
+    }
+  ]
+}

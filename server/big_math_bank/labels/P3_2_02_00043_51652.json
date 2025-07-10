@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00043_51652.png",
+  "id": "00043_51652",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "선주와 영석이는 길이가 같은 철사를 각각 가지고 있습니다. 선주가 철사 한 도막의 길이를 $ 6 \\mathrm{~cm} $가 되도록 잘랐더니 남는 부분 없이 $15$도막이 되었습니다. 영석이가 철사 한 도막의 길이를 $ 7 \\mathrm{~cm} $가 되도록 잘랐다면 철사는 몇 도막이 되고, 몇 $ \\mathrm{cm} $가 남는지 알아보시오.  ⑴ 한 사람이 가진 전체 철사의 길이는 몇$ \\mathrm{cm} $입니까? ⑵ ⑴에서 구한 길이를 $7$로 나누었을 때의 몫과 나머지를 구하시오.  ⑶ 영석이가 자른 철사는 몇 도막이고, 몇$ \\mathrm{cm} $가 남습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            727,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            318,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            395,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            110,
+            346,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            83
+          ],
+          "text": "선주와 영석이는 길이가 같은 철사를 각각 가지고 있습니다. 선주가 철사 한 도막의 길이를 $ 6 \\mathrm{~cm} $가 되도록 잘랐더니 남는 부분 없이 $15$도막이 되었습니다. 영석이가 철사 한 도막의 길이를 $ 7 \\mathrm{~cm} $가 되도록 잘랐다면 철사는 몇 도막이 되고, 몇 $ \\mathrm{cm} $가 남는지 알아보시오.  ⑴ 한 사람이 가진 전체 철사의 길이는 몇$ \\mathrm{cm} $입니까? ⑵ ⑴에서 구한 길이를 $7$로 나누었을 때의 몫과 나머지를 구하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            104,
+            348,
+            131
+          ],
+          "text": "⑶ 영석이가 자른 철사는 몇 도막이고, 몇$ \\mathrm{cm} $가 남습니까?"
+        }
+      ]
+    }
+  ]
+}

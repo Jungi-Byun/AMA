@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_01_00042_26683.png",
+  "id": "00042_26683",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "□ 안에 알맞은 수를 써넣으시오.(1) (2) (3) (4)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            125,
+            24,
+            219,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            110,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            134,
+            112,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            128,
+            135,
+            222,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            224,
+            219
+          ],
+          "text": "□ 안에 알맞은 수를 써넣으시오.(1) (2) (3) (4)"
+        }
+      ]
+    }
+  ]
+}

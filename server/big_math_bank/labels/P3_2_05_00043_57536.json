@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57536.png",
+  "id": "00043_57536",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "서영이는 집에 있는 김치 냉장고와 일반 냉장고의 용량을 조사했습니다. 어떤 냉장고의 용량이 더 큽니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            614,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            24,
+            319,
+            44
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            323,
+            307
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            616,
+            23
+          ],
+          "text": "서영이는 집에 있는 김치 냉장고와 일반 냉장고의 용량을 조사했습니다. 어떤 냉장고의 용량이 더 큽니까?"
+        }
+      ]
+    }
+  ]
+}

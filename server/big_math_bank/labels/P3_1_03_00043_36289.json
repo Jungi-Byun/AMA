@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_03_00043_36289.png",
+  "id": "00043_36289",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수민이가 요리책에 따라 두부조림을 만들려고 합니다. 용량이  $ 5 \\mathrm{~mL} $인 계량 스푼으로 간장을 넣으려면 몇 번 넣어야 합니까?  <두부 조림 만들기> ㆍ요리 재료($2$인분)  두부 $ 240 \\mathrm{~g} $, 물 $ 50 \\mathrm{~mL} $, 간장 $ 30 \\mathrm{~mL} $, 식용유 $ 19 \\mathrm{~mL} $, 대파 $ 15 \\mathrm{~g} $, 마늘 $ 5 \\mathrm{~g} $, 깨소금 $ 5 \\mathrm{~g} $, 고추 $ 2 \\mathrm{~g} $, 설탕 $ 2 \\mathrm{~g} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            711,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            144,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            56,
+            142,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            76,
+            581,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            733,
+            100
+          ],
+          "text": "수민이가 요리책에 따라 두부조림을 만들려고 합니다. 용량이  $ 5 \\mathrm{~mL} $인 계량 스푼으로 간장을 넣으려면 몇 번 넣어야 합니까?  <두부 조림 만들기> ㆍ요리 재료($2$인분)  두부 $ 240 \\mathrm{~g} $, 물 $ 50 \\mathrm{~mL} $, 간장 $ 30 \\mathrm{~mL} $, 식용유 $ 19 \\mathrm{~mL} $, 대파 $ 15 \\mathrm{~g} $, 마늘 $ 5 \\mathrm{~g} $, 깨소금 $ 5 \\mathrm{~g} $, 고추 $ 2 \\mathrm{~g} $, 설탕 $ 2 \\mathrm{~g} $"
+        }
+      ]
+    }
+  ]
+}

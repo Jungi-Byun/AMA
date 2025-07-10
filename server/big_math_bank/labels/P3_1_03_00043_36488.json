@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00043_36488.png",
+  "id": "00043_36488",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 나눗셈식의 몫보다 큰 수를 모두 찾아 $\\bigcirc$표 하시오. $\\boxed{\\begin{array}{r} \\phantom{)} \\\\ 9{\\overline{\\smash{\\big)}\\,4~5\\phantom{)}}}  \\end{array}}$ $ (4,5,6,7,8) $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            333,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            62,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            58,
+            95,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            335,
+            76
+          ],
+          "text": "다음 나눗셈식의 몫보다 큰 수를 모두 찾아 $\\bigcirc$표 하시오. $\\boxed{\\begin{array}{r} \\phantom{)} \\\\ 9{\\overline{\\smash{\\big)}\\,4~5\\phantom{)}}}  \\end{array}}$ $ (4,5,6,7,8) $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_05_00043_43098.png",
+  "id": "00043_43098",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정우네 반 학생들이 좋아하는 운동 경기를 조사하여 나타낸 표입니다. 물음에 답하시오.  좋아하는 운동 경기별 학생 수  <table border>   <tbody>     <tr>   <td>운동 경기</td>       <td>축구</td>       <td>야구</td>       <td>배구 </td>        <td>농구</td>       <td>수영</td>       <td>합계</td>     </tr>     <tr>   <td>학생 수(명)</td>       <td>$12$</td>       <td>$~6$</td>       <td>$~3$</td>       <td>$~4$</td>       <td>$~~$</td>       <td>$133$</td>     </tr> </tbody> </table> (1) 표를 보고 막대그래프로 나타내어 보시오. (2) 정우네 반 학생들이 함께 운동 경기를 관람하러 간다면 어떤 운동 경기를 관람하는 것이 가장 좋습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            509,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            61,
+            22,
+            231,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            309,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            94,
+            282,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            340,
+            622,
+            356
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            123,
+            321,
+            327
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            511,
+            112
+          ],
+          "text": "정우네 반 학생들이 좋아하는 운동 경기를 조사하여 나타낸 표입니다. 물음에 답하시오.  좋아하는 운동 경기별 학생 수  <table border>   <tbody>     <tr>   <td>운동 경기</td>       <td>축구</td>       <td>야구</td>       <td>배구 </td>        <td>농구</td>       <td>수영</td>       <td>합계</td>     </tr>     <tr>   <td>학생 수(명)</td>       <td>$12$</td>       <td>$~6$</td>       <td>$~3$</td>       <td>$~4$</td>       <td>$~~$</td>       <td>$133$</td>     </tr> </tbody> </table> (1) 표를 보고 막대그래프로 나타내어 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.28,
+            339.84,
+            622.72,
+            355.84
+          ],
+          "text": "(2) 정우네 반 학생들이 함께 운동 경기를 관람하러 간다면 어떤 운동 경기를 관람하는 것이 가장 좋습니까?"
+        }
+      ]
+    }
+  ]
+}

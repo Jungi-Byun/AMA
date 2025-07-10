@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_03_00043_53276.png",
+  "id": "00043_53276",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소를 묶어 놓은 곳 : 원의 $\\square$ 소를 묶어 놓은 곳에서 소까지의 거리 : 원의 $\\square$ 그림을 보고 $\\square$ 안에 알맞은 말을 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            191,
+            247,
+            212
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            213,
+            396,
+            234
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            31,
+            232,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            189,
+            398,
+            236
+          ],
+          "text": "소를 묶어 놓은 곳 : 원의 $\\square$ 소를 묶어 놓은 곳에서 소까지의 거리 : 원의 $\\square$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.1,
+            0,
+            276.1,
+            18.9
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 말을 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

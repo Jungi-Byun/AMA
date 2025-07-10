@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_04_00044_36895.png",
+  "id": "00044_36895",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204007",
+      "question_topic_name": "평행선 사이의 거리 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "점 ㄴ이 좌측인 밑변인 길이가 7 cm인 변 ㄴㄷ과 변 ㄱㄹ이 평행한 사다리꼴 ㄱㄴㄷㄹ에서 점 ㄱ은 점 ㄴ보다 좌측에 있고, 점 ㄴ과 점 ㄹ을 이은 선분 ㄴㄹ을 한 변으로 하는 각 ㄹㄴㄷ의 크기가 45도, 각 ㄴㄷㄹ이 직각인 직각삼각형 ㄴㄷㄹ과 각 ㄱㄴㄹ이 직각인 직각삼각형 ㄱㄴㄹ",
+      "question_text": "다음과 같은 사각형 $ㄱㄴㄷㄹ$에서 변$ ㄱㄴ$과 변$ ㄹㄴ$, 변$ ㄱㄹ$과 변 $ㄹㄷ$, 변 $ㄴㄷ$과 변 $ㄹㄷ$은 서로 수직입니다. 평행선 사이의 거리는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            783,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            84,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            57,
+            179,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            786,
+            40
+          ],
+          "text": "다음과 같은 사각형 $ㄱㄴㄷㄹ$에서 변$ ㄱㄴ$과 변$ ㄹㄴ$, 변$ ㄱㄹ$과 변 $ㄹㄷ$, 변 $ㄴㄷ$과 변 $ㄹㄷ$은 서로 수직입니다. 평행선 사이의 거리는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

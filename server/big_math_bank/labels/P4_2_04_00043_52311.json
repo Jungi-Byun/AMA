@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_04_00043_52311.png",
+  "id": "00043_52311",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림과 같이 기차가 다니는 길에는 레일과 침목이 있습니다. 레일은 서로 평행하고, 침목과 레일은 서로 수직입니다. 다음 그림에서 각 $㉠$과 각 $㉡$의 크기의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            220,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            58,
+            278,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "다음 그림과 같이 기차가 다니는 길에는 레일과 침목이 있습니다. 레일은 서로 평행하고, 침목과 레일은 서로 수직입니다. 다음 그림에서 각 $㉠$과 각 $㉡$의 크기의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

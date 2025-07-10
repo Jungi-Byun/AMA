@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58015.png",
+  "id": "00043_58015",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게를 바르게 어림한 것은 무엇입니까? ㆍ 동생의 몸무게 : 약 $17g$ㆍ 빵 : 약 $230kg$ㆍ 동화책 : 약 $1kg\\ 500g$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            177,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            57,
+            130,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            76,
+            175,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            249,
+            100
+          ],
+          "text": "무게를 바르게 어림한 것은 무엇입니까? ㆍ 동생의 몸무게 : 약 $17g$ㆍ 빵 : 약 $230kg$ㆍ 동화책 : 약 $1kg\\ 500g$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00043_52283.png",
+  "id": "00043_52283",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중에서 수직인 선분도 있고 평행한 선분도 있는 글자는 어느 것입니까?  ①  ②  ③  ④  ⑤",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            447,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            72,
+            64
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            85,
+            80,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            149,
+            86,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            213,
+            79,
+            256
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            277,
+            76,
+            320
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            449,
+            322
+          ],
+          "text": "다음 중에서 수직인 선분도 있고 평행한 선분도 있는 글자는 어느 것입니까?  ①  ②  ③  ④  ⑤"
+        }
+      ]
+    }
+  ]
+}

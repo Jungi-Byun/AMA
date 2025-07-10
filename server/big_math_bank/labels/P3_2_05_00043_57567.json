@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57567.png",
+  "id": "00043_57567",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "실제 들이가 $ 1 \\mathrm{~L} 300 \\mathrm{~mL} $인 꽃병의 들이를 네 사람이 어림하였습니다. 꽃병의 들이를 가장 잘 어림한 사람은 누구입니까? 주영 : $ 900 \\mathrm{~mL} $ 민석 : $ 1 \\mathrm{~L} 200 \\mathrm{~mL} $ 현화 : $ 1 \\mathrm{~L} $ 정원 : $ 1 \\mathrm{~L} 100 \\mathrm{~mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            692,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            244,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            54,
+            227,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            695,
+            75
+          ],
+          "text": "실제 들이가 $ 1 \\mathrm{~L} 300 \\mathrm{~mL} $인 꽃병의 들이를 네 사람이 어림하였습니다. 꽃병의 들이를 가장 잘 어림한 사람은 누구입니까? 주영 : $ 900 \\mathrm{~mL} $ 민석 : $ 1 \\mathrm{~L} 200 \\mathrm{~mL} $ 현화 : $ 1 \\mathrm{~L} $ 정원 : $ 1 \\mathrm{~L} 100 \\mathrm{~mL} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_06_00042_26330.png",
+  "id": "00042_26330",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 들어갈 수 없는 수를 모두 고르시오. $ \\begin{array}{l}\\frac{7}{13}> \\\\ \\frac{\\square}{13}\\end{array} $ ①$1$ ②$3$ ③$6$ ④$7$ ⑤$12$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            266,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            82,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            107,
+            53,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            130,
+            53,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            152,
+            53,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            174,
+            52,
+            194
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            196,
+            58,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            268,
+            217
+          ],
+          "text": "$\\square$ 안에 들어갈 수 없는 수를 모두 고르시오. $ \\begin{array}{l}\\frac{7}{13}> \\\\ \\frac{\\square}{13}\\end{array} $ ①$1$ ②$3$ ③$6$ ④$7$ ⑤$12$"
+        }
+      ]
+    }
+  ]
+}

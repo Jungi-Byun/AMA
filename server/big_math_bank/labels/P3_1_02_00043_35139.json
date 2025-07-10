@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_02_00043_35139.png",
+  "id": "00043_35139",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "(1) 가와 나의 같은 점은 무엇인지 $2$개만 쓰시오. (2) 나와 같은 도형을 무엇이라고 합니까? 지우는 건물의 옆 모습을 보고 직사각형 $2$개를 그렸습니다. 물음에 답하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            449,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            288,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            170,
+            254,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            26,
+            268,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            147.57,
+            289.1,
+            187.89
+          ],
+          "text": "(1) 가와 나의 같은 점은 무엇인지 $2$개만 쓰시오. (2) 나와 같은 도형을 무엇이라고 합니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.3,
+            0,
+            449.1,
+            17.01
+          ],
+          "text": "지우는 건물의 옆 모습을 보고 직사각형 $2$개를 그렸습니다. 물음에 답하시오."
+        }
+      ]
+    }
+  ]
+}

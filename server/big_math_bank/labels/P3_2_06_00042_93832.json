@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_06_00042_93832.png",
+  "id": "00042_93832",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "호호 과수원과 샛별 과수원의 배 생산량이 같아지려면 샛별 과수원에서 배를 몇 상자 더 생산해야 합니까? 과수원별 배 생산량",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            614,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            293,
+            301
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            616,
+            21
+          ],
+          "text": "호호 과수원과 샛별 과수원의 배 생산량이 같아지려면 샛별 과수원에서 배를 몇 상자 더 생산해야 합니까? 과수원별 배 생산량"
+        }
+      ]
+    }
+  ]
+}

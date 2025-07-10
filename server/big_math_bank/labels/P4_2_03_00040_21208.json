@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_03_00040_21208.png",
+  "id": "00040_21208",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203009",
+      "question_topic_name": "소수 한 자리 수의 덧셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 두 소수의 합을 바르게 구한 것은 어느 것입니까? $0.6 0.8$ ①$0.2$ ②$1.4$ ③$14$ ④$0.14$ ⑤$6.8$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            341,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            47,
+            21,
+            102,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            115,
+            26,
+            154,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            55,
+            65,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            62,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            59,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            71,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            65,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            367,
+            166
+          ],
+          "text": "다음 중 두 소수의 합을 바르게 구한 것은 어느 것입니까? $0.6 0.8$ ①$0.2$ ②$1.4$ ③$14$ ④$0.14$ ⑤$6.8$"
+        }
+      ]
+    }
+  ]
+}

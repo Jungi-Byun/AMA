@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57860.png",
+  "id": "00043_57860",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205014",
+      "question_topic_name": "무게 직접 비교하기 _ 양손으로 들어서 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 설명을 보고 더 무거운 것에 $\\bigcirc$표 하시오.  가위와 풀을 양팔 저울에 올려 놓으면 가위가 아래로 내려갑니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            279,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            394,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            42,
+            60,
+            110,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            401,
+            77
+          ],
+          "text": "다음 설명을 보고 더 무거운 것에 $\\bigcirc$표 하시오.  가위와 풀을 양팔 저울에 올려 놓으면 가위가 아래로 내려갑니다."
+        }
+      ]
+    }
+  ]
+}

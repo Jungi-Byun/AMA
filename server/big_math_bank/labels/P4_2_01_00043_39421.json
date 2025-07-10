@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_01_00043_39421.png",
+  "id": "00043_39421",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정화는 쌀을 $ 11 \\frac{3}{4} $kg 가지고 있었는데 그중에서 민선이에게 $ 1 \\frac{2}{4} $kg을 주었습니다. 정화와 민선이가 가지고 있는 쌀의 양이 같아졌다면 민선이가 처음에 가지고 있던 쌀의 양은 몇 kg인지 알아보시오. ⑴ 정화와 민선이가 가지고 있는 쌀의 양을 구하시오.정화 ( ), 민선 ( )  ⑵ 민선이가 처음에 가지고 있던 쌀의 양은 몇 kg입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            360,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            63,
+            317,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            85,
+            190,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            107,
+            339,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            125
+          ],
+          "text": "정화는 쌀을 $ 11 \\frac{3}{4} $kg 가지고 있었는데 그중에서 민선이에게 $ 1 \\frac{2}{4} $kg을 주었습니다. 정화와 민선이가 가지고 있는 쌀의 양이 같아졌다면 민선이가 처음에 가지고 있던 쌀의 양은 몇 kg인지 알아보시오. ⑴ 정화와 민선이가 가지고 있는 쌀의 양을 구하시오.정화 ( ), 민선 ( )  ⑵ 민선이가 처음에 가지고 있던 쌀의 양은 몇 kg입니까?"
+        }
+      ]
+    }
+  ]
+}

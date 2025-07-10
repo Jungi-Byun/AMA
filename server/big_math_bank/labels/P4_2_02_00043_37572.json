@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_02_00043_37572.png",
+  "id": "00043_37572",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202007",
+      "question_topic_name": "정삼각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "헬기 착륙장의 모습을 위에서 보면 정삼각형 모양입니다. ㉠과 ㉡의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            484,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            63,
+            28,
+            193,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            486,
+            21
+          ],
+          "text": "헬기 착륙장의 모습을 위에서 보면 정삼각형 모양입니다. ㉠과 ㉡의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

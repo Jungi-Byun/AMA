@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00043_50369.png",
+  "id": "00043_50369",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 조건을 모두 만족하는 소수 세 자리 수를 구하시오.  · $1$보다 크고 $6$보다 작습니다.  · 일의 자리 숫자는 $3$으로 나누어떨어집니다.  · 소수 첫째 자리 숫자와 어떤 수를 곱하면 항상 어떤 수가 됩니다 · 소수 둘째 자리 숫자는 소수 첫째 자리 숫자의 $5$배입니다.  · 소수 셋째 자리 숫자는 소수 둘째 자리 숫자보다 $2$ 작습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            333,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            203,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            52,
+            279,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            73,
+            393,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            100,
+            362,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            122,
+            384,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            145
+          ],
+          "text": "다음 조건을 모두 만족하는 소수 세 자리 수를 구하시오.  · $1$보다 크고 $6$보다 작습니다.  · 일의 자리 숫자는 $3$으로 나누어떨어집니다.  · 소수 첫째 자리 숫자와 어떤 수를 곱하면 항상 어떤 수가 됩니다 · 소수 둘째 자리 숫자는 소수 첫째 자리 숫자의 $5$배입니다.  · 소수 셋째 자리 숫자는 소수 둘째 자리 숫자보다 $2$ 작습니다."
+        }
+      ]
+    }
+  ]
+}

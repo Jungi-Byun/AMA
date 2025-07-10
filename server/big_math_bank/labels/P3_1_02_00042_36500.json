@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_02_00042_36500.png",
+  "id": "00042_36500",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 도형을 설명한 것입니까? · $3$개의 변으로 둘러싸인 도형입니다. · 꼭짓점이 $3$개 있습니다. · $3$개의 각 중에서 한 각이 직각입니다",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            191,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            21,
+            250,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            54,
+            184,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            36,
+            75,
+            255,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            259,
+            99
+          ],
+          "text": "어떤 도형을 설명한 것입니까? · $3$개의 변으로 둘러싸인 도형입니다. · 꼭짓점이 $3$개 있습니다. · $3$개의 각 중에서 한 각이 직각입니다"
+        }
+      ]
+    }
+  ]
+}

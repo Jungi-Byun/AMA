@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_01_00043_32634.png",
+  "id": "00043_32634",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 나타내시오. <보기>$243986579987586\\rightarrow 243$조 $9865$억 $7998$만 $7586\\rightarrow$ 이백사십삼조 구천팔백육십오억 칠천구백구십팔만 칠천오백팔십육 $495447959821728$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            175,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            75,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            55,
+            150,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            75,
+            214,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            97,
+            225,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            119,
+            225,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            149,
+            136,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            262,
+            164
+          ],
+          "text": "<보기>와 같이 나타내시오. <보기>$243986579987586\\rightarrow 243$조 $9865$억 $7998$만 $7586\\rightarrow$ 이백사십삼조 구천팔백육십오억 칠천구백구십팔만 칠천오백팔십육 $495447959821728$"
+        }
+      ]
+    }
+  ]
+}

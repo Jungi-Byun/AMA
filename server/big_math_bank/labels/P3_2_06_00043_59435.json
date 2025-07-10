@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_06_00043_59435.png",
+  "id": "00043_59435",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 미술관에 하루 동안 방문한 학생 수를 학교별로 조사하여 그림그래프로 나타내려고 합니다. 주어진 조건에 맞도록 그림그래프를 완성하시오.   ㉠ 미술관을 방문한 유치원생은 $160$명입니다. ㉡ 미술관을 방문한 초등학생은 고등학생의 $2$배입니다. ㉢ 미술관을 방문한 학생은 모두 $1340$명입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            61,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            298,
+            285,
+            328
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            328,
+            337,
+            348
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            348,
+            297,
+            370
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            51,
+            325,
+            287
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            40
+          ],
+          "text": "어느 미술관에 하루 동안 방문한 학생 수를 학교별로 조사하여 그림그래프로 나타내려고 합니다. 주어진 조건에 맞도록 그림그래프를 완성하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20,
+            299,
+            340,
+            367
+          ],
+          "text": "㉠ 미술관을 방문한 유치원생은 $160$명입니다. ㉡ 미술관을 방문한 초등학생은 고등학생의 $2$배입니다. ㉢ 미술관을 방문한 학생은 모두 $1340$명입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37237.png",
+  "id": "00043_37237",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102007",
+      "question_topic_name": "각도를 어림하고 각도기로 재어 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 각도를 어림하여 그려 보시오. $ 70^{\\circ} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            216,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            26,
+            54,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            57
+          ],
+          "text": "다음 각도를 어림하여 그려 보시오. $ 70^{\\circ} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_01_00043_49541.png",
+  "id": "00043_49541",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201010",
+      "question_topic_name": "(몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한철이는 $4$호선 삼각지역에서 $2$호선 건대입구역까지 가려고 합니다. $4$호선을 타고 가다가 사당역에서 $2$호선으로 갈아탄다면 모두 몇 분이 걸리겠습니까? (단, 지하철로 한 정거장을 가는 데 $2$분씩 걸리고 한 번 갈아타는 데 $7$분이 걸립니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            582,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            54,
+            320,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "한철이는 $4$호선 삼각지역에서 $2$호선 건대입구역까지 가려고 합니다. $4$호선을 타고 가다가 사당역에서 $2$호선으로 갈아탄다면 모두 몇 분이 걸리겠습니까? (단, 지하철로 한 정거장을 가는 데 $2$분씩 걸리고 한 번 갈아타는 데 $7$분이 걸립니다.)"
+        }
+      ]
+    }
+  ]
+}

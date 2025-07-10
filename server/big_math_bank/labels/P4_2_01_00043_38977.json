@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38977.png",
+  "id": "00043_38977",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201016",
+      "question_topic_name": "받아내림이 있는 (대분수)-(대분수)_대분수를 가분수로 바꾸기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희정이는 $ 5 \\frac{1}{7}-2 \\frac{4}{7} $ 를 다음과 같이 계산했습니다. 희정이와 다른 방법으로 계산해 보시오. $ 5 \\frac{1}{7}-2 \\frac{4}{7}=4 \\frac{8}{7}-2 \\frac{4}{7}   =(4-2)+\\left(\\frac{8}{7}-\\frac{4}{7}\\right)   =2+\\frac{4}{7}=2 \\frac{4}{7} $ $ 5 \\frac{1}{7}-2 \\frac{4}{7} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            536,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            45,
+            321,
+            368
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            538,
+            38
+          ],
+          "text": "희정이는 $ 5 \\frac{1}{7}-2 \\frac{4}{7} $ 를 다음과 같이 계산했습니다. 희정이와 다른 방법으로 계산해 보시오. $ 5 \\frac{1}{7}-2 \\frac{4}{7}=4 \\frac{8}{7}-2 \\frac{4}{7}   =(4-2)+\\left(\\frac{8}{7}-\\frac{4}{7}\\right)   =2+\\frac{4}{7}=2 \\frac{4}{7} $ $ 5 \\frac{1}{7}-2 \\frac{4}{7} $"
+        }
+      ]
+    }
+  ]
+}

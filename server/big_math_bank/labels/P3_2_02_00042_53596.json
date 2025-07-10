@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00042_53596.png",
+  "id": "00042_53596",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈의 나머지가 큰 것부터 차례로 기호를 쓰시오.  ㉠  $ 29 \\div 2 $ ㉡ $ 77 \\div 6 $ ㉢  $ 73 \\div 5 $ ㉣ $ 44 \\div 3 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            313,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            98,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            102,
+            24,
+            173,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            43,
+            87,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            104,
+            41,
+            171,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            76
+          ],
+          "text": "나눗셈의 나머지가 큰 것부터 차례로 기호를 쓰시오.  ㉠  $ 29 \\div 2 $ ㉡ $ 77 \\div 6 $ ㉢  $ 73 \\div 5 $ ㉣ $ 44 \\div 3 $"
+        }
+      ]
+    }
+  ]
+}

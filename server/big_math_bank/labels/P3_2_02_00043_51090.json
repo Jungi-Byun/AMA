@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51090.png",
+  "id": "00043_51090",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202001",
+      "question_topic_name": "내림이 없는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영주네 학교 $3$학년 $1$반은 $25$명, $2$반은 $23$명입니다. 구슬 $80$개를 $1$반과 $2$반 학생들에게 나누어 주려고 합니다. 한 학생에게 $2$개씩 나누어 줄 때, 구슬을 받지 못하는 학생은 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            269,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "영주네 학교 $3$학년 $1$반은 $25$명, $2$반은 $23$명입니다. 구슬 $80$개를 $1$반과 $2$반 학생들에게 나누어 주려고 합니다. 한 학생에게 $2$개씩 나누어 줄 때, 구슬을 받지 못하는 학생은 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

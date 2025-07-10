@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37774.png",
+  "id": "00043_37774",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 세로보다 긴 사각형이 있고 밑변 좌측 꼭짓점에서 윗변의 임의의 점과 만난 선분이 윗변과 이루는 왼쪽 각은 45도이며 분홍색 각의 표시가 있고 이 선분과 밑변 좌측 꼭짓점에서 윗변 우측 꼭짓점을 잇는 대각선이 이루는 각은 원 문자 가의 각도, 좌하 방향 화살표와 분홍색 각의 크기 표시가 있으며 대각선과 우측 세로가 만나 생긴 각은 60도, 분홍색 각의 크기 표시를 나타낸 평면도형",
+      "question_text": "직사각형에서 ㉮를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            183,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            27,
+            147,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            185,
+            23
+          ],
+          "text": "직사각형에서 ㉮를 구하시오."
+        }
+      ]
+    }
+  ]
+}

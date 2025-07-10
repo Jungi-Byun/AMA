@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_04_00043_55944.png",
+  "id": "00043_55944",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "달이 지구 주위를 한 바퀴 도는 데 $ 29 \\frac{1}{2} $일이 걸립니다. 달이 지구 주위를 한 바퀴 도는 데 걸리는 날은 며칠인지 가분수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            777,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            779,
+            37
+          ],
+          "text": "달이 지구 주위를 한 바퀴 도는 데 $ 29 \\frac{1}{2} $일이 걸립니다. 달이 지구 주위를 한 바퀴 도는 데 걸리는 날은 며칠인지 가분수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

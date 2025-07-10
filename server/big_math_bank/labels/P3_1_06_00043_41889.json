@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_41889.png",
+  "id": "00043_41889",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 일기 예보의 내용을 보고 내일의 예상 강수량은 몇 cm인지 소수로 나타내시오.  <table border>   <tbody>     <tr>       <td> 오늘 강수량은 $ 9.2 \\mathrm{~cm} $ 였습니다. 내일 강수량은 오늘보다 $ \\frac{7}{10} \\mathrm{~cm} $ 줄어들 것으로 예상됩니다.</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            490,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            29,
+            551,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            567,
+            72
+          ],
+          "text": "다음 일기 예보의 내용을 보고 내일의 예상 강수량은 몇 cm인지 소수로 나타내시오.  <table border>   <tbody>     <tr>       <td> 오늘 강수량은 $ 9.2 \\mathrm{~cm} $ 였습니다. 내일 강수량은 오늘보다 $ \\frac{7}{10} \\mathrm{~cm} $ 줄어들 것으로 예상됩니다.</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

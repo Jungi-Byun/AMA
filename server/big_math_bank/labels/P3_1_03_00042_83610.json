@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00042_83610.png",
+  "id": "00042_83610",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$  안에 알맞은 수가 가장 큰 것은 어느 것입니까? ① $ \\begin{array}{r}\\square\\phantom{)}  \\\\ 6{\\overline{\\smash{\\big)}\\,48\\phantom{)}}}\\\\ \\\\\\  \\end{array} $   ②$ \\begin{array}{r}\\square\\phantom{)}  \\\\ 8{\\overline{\\smash{\\big)}\\,40\\phantom{)}}}\\\\ \\\\\\  \\end{array} $  ③ $ \\begin{array}{r}\\square\\phantom{)}  \\\\ 9{\\overline{\\smash{\\big)}\\,54\\phantom{)}}}\\\\ \\\\\\  \\end{array} $ ④$ \\begin{array}{r}\\square\\phantom{)}  \\\\ 7{\\overline{\\smash{\\big)}\\,49\\phantom{)}}}\\\\ \\\\\\  \\end{array} $  ⑤$ \\begin{array}{r}\\square\\phantom{)}  \\\\ 4{\\overline{\\smash{\\big)}\\,36\\phantom{)}}}\\\\ \\\\\\  \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            299,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            98,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            75,
+            98,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            122,
+            98,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            171,
+            98,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            218,
+            98,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            301,
+            257
+          ],
+          "text": "$\\square$  안에 알맞은 수가 가장 큰 것은 어느 것입니까? ① $ \\begin{array}{r}\\square\\phantom{)}  \\\\ 6{\\overline{\\smash{\\big)}\\,48\\phantom{)}}}\\\\ \\\\\\  \\end{array} $   ②$ \\begin{array}{r}\\square\\phantom{)}  \\\\ 8{\\overline{\\smash{\\big)}\\,40\\phantom{)}}}\\\\ \\\\\\  \\end{array} $  ③ $ \\begin{array}{r}\\square\\phantom{)}  \\\\ 9{\\overline{\\smash{\\big)}\\,54\\phantom{)}}}\\\\ \\\\\\  \\end{array} $ ④$ \\begin{array}{r}\\square\\phantom{)}  \\\\ 7{\\overline{\\smash{\\big)}\\,49\\phantom{)}}}\\\\ \\\\\\  \\end{array} $  ⑤$ \\begin{array}{r}\\square\\phantom{)}  \\\\ 4{\\overline{\\smash{\\big)}\\,36\\phantom{)}}}\\\\ \\\\\\  \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

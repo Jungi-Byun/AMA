@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_04_00043_38346.png",
+  "id": "00043_38346",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. ⑴ 구슬은 모두 $12$개씩 $2$줄이므로 $12 \\times \\square$로 나타낼 수 있습니다. ⑵ $10$개씩 $2$묶음은 $10 \\times \\square,2$개씩 $2$묶음은 $\\square \\times \\square$입니다. ⑶ 구슬은 모두 $\\square$개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            393,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            111,
+            386,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            140,
+            202,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            24,
+            327,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.1,
+            0.9,
+            275.1,
+            18.9
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            81,
+            395,
+            167
+          ],
+          "text": "⑴ 구슬은 모두 $12$개씩 $2$줄이므로 $12 \\times \\square$로 나타낼 수 있습니다. ⑵ $10$개씩 $2$묶음은 $10 \\times \\square,2$개씩 $2$묶음은 $\\square \\times \\square$입니다. ⑶ 구슬은 모두 $\\square$개입니다."
+        }
+      ]
+    }
+  ]
+}

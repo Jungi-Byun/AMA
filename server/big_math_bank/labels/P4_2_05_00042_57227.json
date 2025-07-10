@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_05_00042_57227.png",
+  "id": "00042_57227",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그래프에 대한 설명으로 알맞은 것을 찾아 기호를 쓰시오. ㉠ 시간에 따른 연속적인 변화를 알 수 있습니다. ㉡ 자료의 상대적인 크기를 쉽게 비교할 수 있습니다. (1) 막대그래프 (2) 꺾은선그래프",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            300,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            57,
+            327,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            103,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            118,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            121
+          ],
+          "text": "그래프에 대한 설명으로 알맞은 것을 찾아 기호를 쓰시오. ㉠ 시간에 따른 연속적인 변화를 알 수 있습니다. ㉡ 자료의 상대적인 크기를 쉽게 비교할 수 있습니다. (1) 막대그래프 (2) 꺾은선그래프"
+        }
+      ]
+    }
+  ]
+}

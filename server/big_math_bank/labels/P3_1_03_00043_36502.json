@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_03_00043_36502.png",
+  "id": "00043_36502",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 보고 물음에 답하시오. $16$을 어떤 수로 나누면 $4$와 같습니다. ($1$) $\\square$를 이용하여 나눗셈식으로 바르게 나타낸 것에 $\\bigcirc$표 하시오.  $ 16 \\div \\square=4    \\square \\div 16=4 $  ($$) $ $ ($$)  ($2$) 위 ($1$)에서 찾은 나눗셈식을 곱셈식으로 바르게 나타낸 것에  $\\bigcirc$표 하시오.  $ \\square \\times 16=4    4 \\times \\square=16 $  ($$) $ $ ($$)  ($3$) $\\bigcirc$표는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            25,
+            235,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            386,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            82,
+            196,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            136,
+            449,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            159,
+            191,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            211,
+            141,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            454,
+            229
+          ],
+          "text": "다음을 보고 물음에 답하시오. $16$을 어떤 수로 나누면 $4$와 같습니다. ($1$) $\\square$를 이용하여 나눗셈식으로 바르게 나타낸 것에 $\\bigcirc$표 하시오.  $ 16 \\div \\square=4    \\square \\div 16=4 $  ($$) $ $ ($$)  ($2$) 위 ($1$)에서 찾은 나눗셈식을 곱셈식으로 바르게 나타낸 것에  $\\bigcirc$표 하시오.  $ \\square \\times 16=4    4 \\times \\square=16 $  ($$) $ $ ($$)  ($3$) $\\bigcirc$표는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

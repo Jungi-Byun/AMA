@@ -1,0 +1,179 @@
+{
+  "question_filename": "P4_1_01_00042_27737.png",
+  "id": "00042_27737",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101003",
+      "question_topic_name": "다섯 자리 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\square $ 안에 알맞은 수나 말을 써넣으시오. ($1$) $1000$ 이 $10$ 이면 $ \\square $이고, $9900$ 보다 $ \\square $큰 수입니다. ($2$) $60000$ 은 $10000$ 이 $ \\square $ 이고, $80000$ 은 $10000$ 이 $ \\square $ 입니다. ($3$) 만이 $240$ 이면$ \\square $ 입니다. ($4$) 만이 $1700$ , 일이 $5372$ 이면 $ \\square $입니다. ($5$) $62852936$ 은 만이 $ \\square $일이 $ \\square $인 수입니다. ($6$) $47356$ 에서 $4$는 $ \\square $ 의 자리 숫자이고, $40000$ 을 나타냅니다. $7$은 $ \\square $ 의 자리 숫자이고, $ \\square $ 을 나타냅니다. $5$ 는 $ \\square $ 의 자리 숫자이고, $ \\square $ 을 나타냅니다. ($7$) $83472690$ 에서 천만의 자리 숫자는 $ \\square $ 이고, $ \\square $을 나타냅니다. 백만의 자리 숫자는 $ \\square $ 이고, $ \\square $을나타냅니다. 십만의 자리 숫자는 $ \\square $ 이고,$ \\square $을 나타냅니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            233,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            384,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            51,
+            406,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            239,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            109,
+            310,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            138,
+            355,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            167,
+            105,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            189,
+            302,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            218,
+            305,
+            244
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            247,
+            305,
+            273
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            276,
+            130,
+            292
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            298,
+            347,
+            324
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            327,
+            347,
+            353
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            356,
+            347,
+            382
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            408,
+            381
+          ],
+          "text": "$ \\square $ 안에 알맞은 수나 말을 써넣으시오. ($1$) $1000$ 이 $10$ 이면 $ \\square $이고, $9900$ 보다 $ \\square $큰 수입니다. ($2$) $60000$ 은 $10000$ 이 $ \\square $ 이고, $80000$ 은 $10000$ 이 $ \\square $ 입니다. ($3$) 만이 $240$ 이면$ \\square $ 입니다. ($4$) 만이 $1700$ , 일이 $5372$ 이면 $ \\square $입니다. ($5$) $62852936$ 은 만이 $ \\square $일이 $ \\square $인 수입니다. ($6$) $47356$ 에서 $4$는 $ \\square $ 의 자리 숫자이고, $40000$ 을 나타냅니다. $7$은 $ \\square $ 의 자리 숫자이고, $ \\square $ 을 나타냅니다. $5$ 는 $ \\square $ 의 자리 숫자이고, $ \\square $ 을 나타냅니다. ($7$) $83472690$ 에서 천만의 자리 숫자는 $ \\square $ 이고, $ \\square $을 나타냅니다. 백만의 자리 숫자는 $ \\square $ 이고, $ \\square $을나타냅니다. 십만의 자리 숫자는 $ \\square $ 이고,$ \\square $을 나타냅니다."
+        }
+      ]
+    }
+  ]
+}

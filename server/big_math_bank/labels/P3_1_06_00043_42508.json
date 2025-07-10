@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_42508.png",
+  "id": "00043_42508",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 명의 야구 선수 중에서 타율이 더 높은 사람은 누구입니까?  김현수 : 0.3  강민호 : 0.2",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            367,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            26,
+            100,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            54,
+            110,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            79
+          ],
+          "text": "두 명의 야구 선수 중에서 타율이 더 높은 사람은 누구입니까?  김현수 : 0.3  강민호 : 0.2"
+        }
+      ]
+    }
+  ]
+}

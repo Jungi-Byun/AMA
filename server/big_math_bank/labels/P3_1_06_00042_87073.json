@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_87073.png",
+  "id": "00042_87073",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음에서 ㉠+㉡은 얼마입니까? $ \\frac{4}{5} $ 는 $ \\frac{1}{5} $ 이 ㉠개이고, $ \\frac{3}{7} $ 은 $ \\frac{1}{7} $ 이 ㉡개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            195,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            304,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            307,
+            71
+          ],
+          "text": "다음에서 ㉠+㉡은 얼마입니까? $ \\frac{4}{5} $ 는 $ \\frac{1}{5} $ 이 ㉠개이고, $ \\frac{3}{7} $ 은 $ \\frac{1}{7} $ 이 ㉡개입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00042_52833.png",
+  "id": "00042_52833",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "O 안에 >, =, <를 알맞게 써넣으시오. (1) $ 5000 \\mathrm{~mL}   \\bigcirc   6 \\mathrm{~L} $ (2) $ 7 \\mathrm{~L}   \\bigcirc   9000 \\mathrm{~mL} $ (3) $ 1700 \\mathrm{~mL}   \\bigcirc   1 \\mathrm{~L} 800 \\mathrm{~mL} $ (4) $ 8000 \\mathrm{~mL}   \\bigcirc   7 \\mathrm{~L} 900 \\mathrm{~mL} $ (5) $ 6 \\mathrm{~L} 70 \\mathrm{~mL}   \\bigcirc   6700 \\mathrm{~mL} $ (6) $ 9 \\mathrm{~L} 50 \\mathrm{~mL}   \\bigcirc   9050 \\mathrm{~mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            227,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            150,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            53,
+            156,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            83,
+            195,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            113,
+            206,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            143,
+            193,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            173,
+            199,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            229,
+            200
+          ],
+          "text": "O 안에 >, =, <를 알맞게 써넣으시오. (1) $ 5000 \\mathrm{~mL}   \\bigcirc   6 \\mathrm{~L} $ (2) $ 7 \\mathrm{~L}   \\bigcirc   9000 \\mathrm{~mL} $ (3) $ 1700 \\mathrm{~mL}   \\bigcirc   1 \\mathrm{~L} 800 \\mathrm{~mL} $ (4) $ 8000 \\mathrm{~mL}   \\bigcirc   7 \\mathrm{~L} 900 \\mathrm{~mL} $ (5) $ 6 \\mathrm{~L} 70 \\mathrm{~mL}   \\bigcirc   6700 \\mathrm{~mL} $ (6) $ 9 \\mathrm{~L} 50 \\mathrm{~mL}   \\bigcirc   9050 \\mathrm{~mL} $"
+        }
+      ]
+    }
+  ]
+}

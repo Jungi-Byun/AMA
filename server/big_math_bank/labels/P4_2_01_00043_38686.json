@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_01_00043_38686.png",
+  "id": "00043_38686",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201008",
+      "question_topic_name": "분모가 같은 대분수끼리 덧셈에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 1\\frac{4}{5} +2\\frac{3}{5} $을 어떻게 계산하는지 알아보시오. ⑴ 그림을 이용하여 알아보시오.  $ 1 \\frac{4}{5}+2 \\frac{3}{5}=\\square $  ⑵ $\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{l}1 \\frac{4}{5}+2 \\frac{3}{5}=(\\square+\\square)+\\left(\\frac{\\square}{5}+\\frac{\\square}{5}\\right) \\\\ =\\square+\\square \\frac{\\square}{5}=\\square \\frac{\\square}{5}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            2,
+            287,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            38,
+            200,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            281,
+            220,
+            298
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            300,
+            264,
+            341
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            343,
+            187,
+            384
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            71,
+            316,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            289,
+            56
+          ],
+          "text": "$ 1\\frac{4}{5} +2\\frac{3}{5} $을 어떻게 계산하는지 알아보시오. ⑴ 그림을 이용하여 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.02,
+            222,
+            266.69,
+            384.35
+          ],
+          "text": "$ 1 \\frac{4}{5}+2 \\frac{3}{5}=\\square $  ⑵ $\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{l}1 \\frac{4}{5}+2 \\frac{3}{5}=(\\square+\\square)+\\left(\\frac{\\square}{5}+\\frac{\\square}{5}\\right) \\\\ =\\square+\\square \\frac{\\square}{5}=\\square \\frac{\\square}{5}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_05_00042_26535.png",
+  "id": "00042_26535",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. 초바늘이 숫자 $\\square$를 가리키므로 시계가 나타내는 시각은 $3시 30분 ~\\square$초입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            115,
+            554,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            131,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            1,
+            205.1,
+            19
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            118,
+            555.1,
+            139
+          ],
+          "text": "초바늘이 숫자 $\\square$를 가리키므로 시계가 나타내는 시각은 $3시 30분 ~\\square$초입니다."
+        }
+      ]
+    }
+  ]
+}

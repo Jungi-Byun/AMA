@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00042_27288.png",
+  "id": "00042_27288",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 공장에서 세발자전거를 $4$시간 동안 $37$대 만들고, 두발자전거를 $2$시간 동안 $12$대 만든다고 합니다. 하루에 $8$시간씩 일주일 동안 만든다면, 어느 자전거를 몇 대 더 많이 만들겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            286,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "어느 공장에서 세발자전거를 $4$시간 동안 $37$대 만들고, 두발자전거를 $2$시간 동안 $12$대 만든다고 합니다. 하루에 $8$시간씩 일주일 동안 만든다면, 어느 자전거를 몇 대 더 많이 만들겠습니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49525.png",
+  "id": "00043_49525",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201010",
+      "question_topic_name": "(몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "풍력발전기 한 대의 날개는 $3$개입니다. 현아는 풍력발전기를 $12$대, 정호는 $14$대를 보았습니다. 두 사람이 본 풍력발전기의 날개는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            78,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            40
+          ],
+          "text": "풍력발전기 한 대의 날개는 $3$개입니다. 현아는 풍력발전기를 $12$대, 정호는 $14$대를 보았습니다. 두 사람이 본 풍력발전기의 날개는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

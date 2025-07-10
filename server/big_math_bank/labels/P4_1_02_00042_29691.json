@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_29691.png",
+  "id": "00042_29691",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "각 ㄹ이 직각인 직각삼각형 ㄱㄴㄹ에서 각 ㄱ에서 출발하여 밑변 ㄴㄹ과 만나는 지점이 점 ㄷ이고, 각 ㄷㄱㄹ가 35도인 평면도형",
+      "question_text": "그림에서 둔각을 찾아 쓰고 그 각의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            317,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            22,
+            187,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            21
+          ],
+          "text": "그림에서 둔각을 찾아 쓰고 그 각의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

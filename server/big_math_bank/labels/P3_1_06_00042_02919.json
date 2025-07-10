@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_02919.png",
+  "id": "00042_02919",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현아는 피자 한 판의 $ \\frac{2}{8} $를 먹었습니다. 현아가 먹은 피자의 양만큼 색칠하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            467,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            39,
+            113,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            469,
+            38
+          ],
+          "text": "현아는 피자 한 판의 $ \\frac{2}{8} $를 먹었습니다. 현아가 먹은 피자의 양만큼 색칠하시오."
+        }
+      ]
+    }
+  ]
+}

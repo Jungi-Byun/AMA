@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_03_00043_50202.png",
+  "id": "00043_50202",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "일기 예보 자료를 모아 여러 지역의 강수량을 알아보았습니다. 연평균 강수량이 가장 많은 지역과 가장 적은 지역의 강수량의 차를 $m$로 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            59,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            310,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            161
+          ],
+          "text": "일기 예보 자료를 모아 여러 지역의 강수량을 알아보았습니다. 연평균 강수량이 가장 많은 지역과 가장 적은 지역의 강수량의 차를 $m$로 구하시오."
+        }
+      ]
+    }
+  ]
+}

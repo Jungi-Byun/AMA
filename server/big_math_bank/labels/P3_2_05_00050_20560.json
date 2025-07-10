@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20560.png",
+  "id": "00050_20560",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "동물원에 있는 기린, 하마, 코끼리의 무게가 다음과 같을 때, 세 동물의 무게의 합은 몇 $kg$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            562,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            274,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            564,
+            70
+          ],
+          "text": "동물원에 있는 기린, 하마, 코끼리의 무게가 다음과 같을 때, 세 동물의 무게의 합은 몇 $kg$입니까?"
+        }
+      ]
+    }
+  ]
+}

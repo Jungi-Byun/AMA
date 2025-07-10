@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_01_00042_88209.png",
+  "id": "00042_88209",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201005",
+      "question_topic_name": "일, 십, 백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.$ \\begin{array}{r}487 \\\\ \\times  2 \\\\ \\hline\\end{array}   \\Rightarrow   \\begin{array}{r}4\\overset{\\square}87 \\\\ \\times  2 \\\\ \\hline \\square\\end{array}   \\Rightarrow   \\begin{array}{r}\\overset{\\square}4\\,\\overset{\\square}8\\,7\\, \\\\ \\times \\enspace  2 \\,\\\\ \\hline \\square \\square\\end{array}   \\Rightarrow   \\begin{array}{r}\\overset{\\square}4\\; \\overset{\\square}8\\;7 \\, \\\\ \\times \\enspace \\enspace  2 \\, \\\\ \\hline\\square \\square\\square\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            110,
+            23,
+            204,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            40,
+            71,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            82,
+            62,
+            100,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            51,
+            119,
+            161,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            202,
+            119,
+            319,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            172,
+            160,
+            190,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            163,
+            39,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            321,
+            212
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.$ \\begin{array}{r}487 \\\\ \\times  2 \\\\ \\hline\\end{array}   \\Rightarrow   \\begin{array}{r}4\\overset{\\square}87 \\\\ \\times  2 \\\\ \\hline \\square\\end{array}   \\Rightarrow   \\begin{array}{r}\\overset{\\square}4\\,\\overset{\\square}8\\,7\\, \\\\ \\times \\enspace  2 \\,\\\\ \\hline \\square \\square\\end{array}   \\Rightarrow   \\begin{array}{r}\\overset{\\square}4\\; \\overset{\\square}8\\;7 \\, \\\\ \\times \\enspace \\enspace  2 \\, \\\\ \\hline\\square \\square\\square\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

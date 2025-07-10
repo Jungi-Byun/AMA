@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_03427.png",
+  "id": "00042_03427",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{r} 531 \\\\ -164 \\\\ \\hline\\end{array}  \\rightarrow$ $ \\begin{array}{r}\\square \\square \\\\5\\cancel{3}1 \\\\ -164 \\\\ \\hline \\square\\end{array}  \\rightarrow$ $ \\begin{array}{r}\\square \\square \\square \\\\ \\cancel{5}\\cancel{3}1 \\\\ -164 \\\\ \\hline \\square \\square\\end{array}  \\rightarrow  \\begin{array}{r}\\square \\square \\square \\\\ 531 \\\\ -164 \\\\ \\hline \\square \\square \\square \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.23,
+            19.15,
+            335.23,
+            110.15
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.23,
+            0,
+            342.23,
+            110.15
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{r} 531 \\\\ -164 \\\\ \\hline\\end{array}  \\rightarrow$ $ \\begin{array}{r}\\square \\square \\\\5\\cancel{3}1 \\\\ -164 \\\\ \\hline \\square\\end{array}  \\rightarrow$ $ \\begin{array}{r}\\square \\square \\square \\\\ \\cancel{5}\\cancel{3}1 \\\\ -164 \\\\ \\hline \\square \\square\\end{array}  \\rightarrow  \\begin{array}{r}\\square \\square \\square \\\\ 531 \\\\ -164 \\\\ \\hline \\square \\square \\square \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

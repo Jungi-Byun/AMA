@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_03_00043_53694.png",
+  "id": "00043_53694",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "출발 지점에서 100 cm를 나타내는 점선, 원, 100 cm를 나타내는 점선, 원, 계속됨을 나타내는 점 6개, 원, 100 cm를 나타내는 점선, 도착지점의 그림",
+      "question_text": "체육 시간에 반지름이 $50 cm$인 훌라후프 $10$개를 그림과 같이 놓고 장애물 달리기를 하였습니다. 출발점에서 몇 $m$를 달려야 도착점에 도착합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            53,
+            319,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "체육 시간에 반지름이 $50 cm$인 훌라후프 $10$개를 그림과 같이 놓고 장애물 달리기를 하였습니다. 출발점에서 몇 $m$를 달려야 도착점에 도착합니까?"
+        }
+      ]
+    }
+  ]
+}

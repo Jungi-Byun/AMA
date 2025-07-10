@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_02_00043_37387.png",
+  "id": "00043_37387",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102014",
+      "question_topic_name": "사각형의 네 각의 크기의 합 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "삼각형 $2$개를 이어 붙여서 사각형을 만들었습니다. 사각형의 네 각의 크기의 합은 몇 도인지 알아보시오.1 (1) 초록색 삼각형의 세 각의 크기의 합은 몇 도입니까? (2) 파란색 삼각형의 세 각의 크기의 합은 몇 도입니까? (3) 사각형의 네 각의 크기의 합은 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            605,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            131,
+            325,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            153,
+            325,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            175,
+            283,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            23,
+            151,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.28,
+            0.27,
+            605.28,
+            17.87
+          ],
+          "text": "삼각형 $2$개를 이어 붙여서 사각형을 만들었습니다. 사각형의 네 각의 크기의 합은 몇 도인지 알아보시오.1"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.48,
+            129.87,
+            324.48,
+            192.27
+          ],
+          "text": "(1) 초록색 삼각형의 세 각의 크기의 합은 몇 도입니까? (2) 파란색 삼각형의 세 각의 크기의 합은 몇 도입니까? (3) 사각형의 네 각의 크기의 합은 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

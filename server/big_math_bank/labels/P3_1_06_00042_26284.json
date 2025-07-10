@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_06_00042_26284.png",
+  "id": "00042_26284",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. (1) $ \\frac{2}{3} $는 $ \\frac{1}{3} $의  $\\square$배입니다.(2) $ \\frac{2}{3} $는$ \\frac{1}{3}  \\square$ 개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            274,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            153,
+            201,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            194,
+            203,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            14,
+            233,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            277,
+            20
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            152,
+            205,
+            230
+          ],
+          "text": "(1) $ \\frac{2}{3} $는 $ \\frac{1}{3} $의  $\\square$배입니다.(2) $ \\frac{2}{3} $는$ \\frac{1}{3}  \\square$ 개입니다."
+        }
+      ]
+    }
+  ]
+}

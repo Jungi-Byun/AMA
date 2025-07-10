@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00040_25515.png",
+  "id": "00040_25515",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 각 그래프의 특징을 설명한 것입니다. 알맞게 설명한 것을 모두 고르시오.  ①꺾은선그래프는 수량의 증가와 감소를 잘 나타낼 수 있습니다. ②막대그래프에서는 물결선이 나타내고자 하는 구간을 지나서는 안 됩니다. ③꺾은선그래프에서 세로의 작은 눈금 한 칸의 크기를 작게 하면 수량의 변화를 자세히 나타낼 수 있습니다. ④꺾은선그래프에서 조사하지 않은 중간값은 전혀 예측할 수 없습니다. ⑤막대그래프는 시간에 따른 연속적인 변화를 나타낼 때 사용합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            470,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            392,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            455,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            634,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            430,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            417,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            636,
+            130
+          ],
+          "text": "다음은 각 그래프의 특징을 설명한 것입니다. 알맞게 설명한 것을 모두 고르시오.  ①꺾은선그래프는 수량의 증가와 감소를 잘 나타낼 수 있습니다. ②막대그래프에서는 물결선이 나타내고자 하는 구간을 지나서는 안 됩니다. ③꺾은선그래프에서 세로의 작은 눈금 한 칸의 크기를 작게 하면 수량의 변화를 자세히 나타낼 수 있습니다. ④꺾은선그래프에서 조사하지 않은 중간값은 전혀 예측할 수 없습니다. ⑤막대그래프는 시간에 따른 연속적인 변화를 나타낼 때 사용합니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "question_filename": "P3_2_05_00042_52909.png",
+  "id": "00042_52909",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1) $5kg=\\square g$ (2) $9kg= \\square g$  (3) $8000g= \\square kg$ (4) $5000g=\\square kg$ (5) $1kg 700g=\\square g$ (6) $3kg 200g=\\square g$ (7)$ 1kg 50g=\\square g$ (8)$ 2300g=\\square kg\\square g$ (9)$ 6900g=\\square kg \\square g$ (10) $7004g=\\square kg \\square g$ (11) $8062g=\\square kg\\square $g",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            184,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            188,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            141,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            86,
+            140,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            108,
+            221,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            130,
+            225,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            152,
+            214,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            174,
+            233,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            196,
+            233,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            218,
+            189,
+            240
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            240,
+            210,
+            262
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            235,
+            263
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1) $5kg=\\square g$ (2) $9kg= \\square g$  (3) $8000g= \\square kg$ (4) $5000g=\\square kg$ (5) $1kg 700g=\\square g$ (6) $3kg 200g=\\square g$ (7)$ 1kg 50g=\\square g$ (8)$ 2300g=\\square kg\\square g$ (9)$ 6900g=\\square kg \\square g$ (10) $7004g=\\square kg \\square g$ (11) $8062g=\\square kg\\square $g"
+        }
+      ]
+    }
+  ]
+}

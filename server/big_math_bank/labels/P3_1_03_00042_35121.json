@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00042_35121.png",
+  "id": "00042_35121",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "학생들을 $6$ 모둠으로 똑같게 나누려고 합니다. $24$ 명의 학생들을 나누면 한 모둠에 몇 명씩인지 알아보시오. (1) 곱셈식의 $\\square$ 안에 알맞은 수를 써넣으시오. \\[6 \\times \\square=24\\] (2) 나눗셈식의 $\\square$ 안에 알맞은 수를 써넣으시오. \\[24 \\div 6=\\square\\] (3) 한 모둠의 학생은 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            617,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            277,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            42,
+            128,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            292,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            86,
+            124,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            110,
+            216,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            619,
+            128
+          ],
+          "text": "학생들을 $6$ 모둠으로 똑같게 나누려고 합니다. $24$ 명의 학생들을 나누면 한 모둠에 몇 명씩인지 알아보시오. (1) 곱셈식의 $\\square$ 안에 알맞은 수를 써넣으시오. \\[6 \\times \\square=24\\] (2) 나눗셈식의 $\\square$ 안에 알맞은 수를 써넣으시오. \\[24 \\div 6=\\square\\] (3) 한 모둠의 학생은 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_04_00043_55382.png",
+  "id": "00043_55382",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지후네 반에서 안경을 쓴 학생은 몇 명인지 구하시오.   지후 : 우리 반 학생은 모두 $35$명이야.  희애 : 안경은 쓴 학생은 몇 명이니?  지후 : 전체 학생의 $\\frac{5}{7}$가 안경을 썼어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            316,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            241,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            234,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            76,
+            253,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            117
+          ],
+          "text": "지후네 반에서 안경을 쓴 학생은 몇 명인지 구하시오.   지후 : 우리 반 학생은 모두 $35$명이야.  희애 : 안경은 쓴 학생은 몇 명이니?  지후 : 전체 학생의 $\\frac{5}{7}$가 안경을 썼어."
+        }
+      ]
+    }
+  ]
+}

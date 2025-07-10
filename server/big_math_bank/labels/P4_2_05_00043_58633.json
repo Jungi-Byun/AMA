@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_05_00043_58633.png",
+  "id": "00043_58633",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정혜는 긴 생머리를 갖고 싶어 한 달에 한 번씩 자신의 귀 밑으로부터 가장 긴 머리카락까지 길이를 재어 기록해 두었습니다. 다음 표를 보고 꺾은선그래프로 나타낼 때, 가로 눈금과 세로 눈금을 정해 보시오. <table border> <caption>머리카락 길이(매월 $15$일 조사)</caption>   <tbody>     <tr>       <td>$~~~~~~~~~~~$월</td>       <td>$~~~5~~~$</td>  <td>$~~~6~~~$</td>  <td>$~~~~7~~~$</td>  <td>$~~~8~~~$</td>     </tr>     <tr>       <td>머리카락 길이(cm)</td>       <td>$~~~5$</td>  <td>$~~~8$</td>  <td>$~~10.5~~$</td>  <td>$~~13$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            387,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            44,
+            198,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            65,
+            226,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            116
+          ],
+          "text": "정혜는 긴 생머리를 갖고 싶어 한 달에 한 번씩 자신의 귀 밑으로부터 가장 긴 머리카락까지 길이를 재어 기록해 두었습니다. 다음 표를 보고 꺾은선그래프로 나타낼 때, 가로 눈금과 세로 눈금을 정해 보시오. <table border> <caption>머리카락 길이(매월 $15$일 조사)</caption>   <tbody>     <tr>       <td>$~~~~~~~~~~~$월</td>       <td>$~~~5~~~$</td>  <td>$~~~6~~~$</td>  <td>$~~~~7~~~$</td>  <td>$~~~8~~~$</td>     </tr>     <tr>       <td>머리카락 길이(cm)</td>       <td>$~~~5$</td>  <td>$~~~8$</td>  <td>$~~10.5~~$</td>  <td>$~~13$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

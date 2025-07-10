@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_02_00043_34957.png",
+  "id": "00043_34957",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102004",
+      "question_topic_name": "각 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형에 대한 설명으로 틀린 것은 어느 것입니까? ① 꼭짓점은 점 $ㄱ$입니다. ② 반직선 $ㄴㄱ$과 반직선 $ㄴㄷ$은 변입니다. ③ 각 $ㄱㄴㄷ$이라고 읽습니다. ④ 두 반직선이 점 $ㄴ$에서 만납니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            123,
+            169,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            145,
+            266,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            167,
+            195,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            228,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            26,
+            167,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.9,
+            1.3,
+            322.1,
+            18.9
+          ],
+          "text": "다음 도형에 대한 설명으로 틀린 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            122,
+            268,
+            210
+          ],
+          "text": "① 꼭짓점은 점 $ㄱ$입니다. ② 반직선 $ㄴㄱ$과 반직선 $ㄴㄷ$은 변입니다. ③ 각 $ㄱㄴㄷ$이라고 읽습니다. ④ 두 반직선이 점 $ㄴ$에서 만납니다."
+        }
+      ]
+    }
+  ]
+}

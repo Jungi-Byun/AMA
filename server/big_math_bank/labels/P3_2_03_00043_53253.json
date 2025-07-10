@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53253.png",
+  "id": "00043_53253",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은영이가 실에 단추를 매달아 원을 만들었습니다. $\\square$ 안에 중심과 반지름을 알맞게 써넣으시오. 실을 잡은 손이 원의  $\\square$ 이고 중심에서 단추까지의 거리가 원의  $\\square$ 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            550,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            186,
+            617,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            27,
+            182,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.32,
+            1.45,
+            553.32,
+            16.45
+          ],
+          "text": "은영이가 실에 단추를 매달아 원을 만들었습니다. $\\square$ 안에 중심과 반지름을 알맞게 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.15,
+            185.36,
+            617.55,
+            207.76
+          ],
+          "text": "실을 잡은 손이 원의  $\\square$ 이고 중심에서 단추까지의 거리가 원의  $\\square$ 입니다."
+        }
+      ]
+    }
+  ]
+}

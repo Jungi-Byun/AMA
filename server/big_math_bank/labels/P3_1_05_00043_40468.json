@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_05_00043_40468.png",
+  "id": "00043_40468",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오.(1) $ \\begin{array}{r}5 \\text { 분 } 25 \\text { 초 } \\\\ + 1 \\text { 분 } 56 \\text { 초 } \\\\ \\hline\\end{array} $(2) $ \\begin{array}{r}49 \\text { 분 } 9 \\text { 초 } \\\\ - 26 \\text { 분 } 35 \\text { 초 } \\\\ \\hline\\end{array} $ ⑶ $4$분 $26$초+$5$분 $48$초⑷ $4$분 $40$초-$2$분 $55$초",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            139,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            142,
+            23,
+            271,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            92,
+            152,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            114,
+            150,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            273,
+            132
+          ],
+          "text": "계산을 하시오.(1) $ \\begin{array}{r}5 \\text { 분 } 25 \\text { 초 } \\\\ + 1 \\text { 분 } 56 \\text { 초 } \\\\ \\hline\\end{array} $(2) $ \\begin{array}{r}49 \\text { 분 } 9 \\text { 초 } \\\\ - 26 \\text { 분 } 35 \\text { 초 } \\\\ \\hline\\end{array} $ ⑶ $4$분 $26$초+$5$분 $48$초⑷ $4$분 $40$초-$2$분 $55$초"
+        }
+      ]
+    }
+  ]
+}

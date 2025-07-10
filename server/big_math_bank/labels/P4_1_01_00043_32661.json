@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00043_32661.png",
+  "id": "00043_32661",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 나타내시오. <보기>백삼십조 팔천사백이억 구십오만 칠천$ \\rightarrow  130$조 $840$2억 $95$만 $7000$  $ \\rightarrow 130840200957000 $ 팔천이십조 사천구백사십사억 이백오십만 천이십 $ \\rightarrow \\underline{\\qquad}$  $ \\rightarrow\\underline{\\qquad}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            175,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            74,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            54,
+            244,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            75,
+            200,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            97,
+            171,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            298,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            143
+          ],
+          "text": "<보기>와 같이 나타내시오. <보기>백삼십조 팔천사백이억 구십오만 칠천$ \\rightarrow  130$조 $840$2억 $95$만 $7000$  $ \\rightarrow 130840200957000 $ 팔천이십조 사천구백사십사억 이백오십만 천이십 $ \\rightarrow \\underline{\\qquad}$  $ \\rightarrow\\underline{\\qquad}$"
+        }
+      ]
+    }
+  ]
+}

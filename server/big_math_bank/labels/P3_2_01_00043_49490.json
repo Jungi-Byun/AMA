@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_01_00043_49490.png",
+  "id": "00043_49490",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201010",
+      "question_topic_name": "(몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.   \\(\\begin{aligned}  (1) 7 \\times 34 & =7 \\times \\square+7 \\times 30 \\\\ &=\\square+210 \\\\ & =\\square\\end{aligned} \\) $\\begin{aligned}(2) 6 \\times 28 & =6 \\times 8+6 \\times \\square \\\\& =48+\\square \\\\& =\\square\\end{aligned}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            212,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            85,
+            54,
+            186,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            85,
+            85,
+            155,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            115,
+            216,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            88,
+            146,
+            194,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            88,
+            177,
+            159,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            218,
+            204
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.   \\(\\begin{aligned}  (1) 7 \\times 34 & =7 \\times \\square+7 \\times 30 \\\\ &=\\square+210 \\\\ & =\\square\\end{aligned} \\) $\\begin{aligned}(2) 6 \\times 28 & =6 \\times 8+6 \\times \\square \\\\& =48+\\square \\\\& =\\square\\end{aligned}$"
+        }
+      ]
+    }
+  ]
+}

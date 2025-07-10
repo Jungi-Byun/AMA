@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00043_51152.png",
+  "id": "00043_51152",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $60 m$인 도로의 양쪽에 처음부터 $5 m$ 간격으로 가로등을 세우려고 합니다. 필요한 가로등은 모두 몇 개인지 알아보시오. (단, 가로등의 두께는 생각하지 않습니다.)  ⑴ 도로 한쪽의 가로등 사이의 간격은 몇 군데입니까? ⑵ 도로의 한쪽에 세워야 할 가로등은 몇 개입니까? ⑶ 필요한 가로등은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            192,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            320,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            308,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            237,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            106
+          ],
+          "text": "길이가 $60 m$인 도로의 양쪽에 처음부터 $5 m$ 간격으로 가로등을 세우려고 합니다. 필요한 가로등은 모두 몇 개인지 알아보시오. (단, 가로등의 두께는 생각하지 않습니다.)  ⑴ 도로 한쪽의 가로등 사이의 간격은 몇 군데입니까? ⑵ 도로의 한쪽에 세워야 할 가로등은 몇 개입니까? ⑶ 필요한 가로등은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00043_51816.png",
+  "id": "00043_51816",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수에 $6$을 곱해야 할 것을 잘못하여 $6$으로 나누었더니 몫이 $12$이고, 나머지가 $2$였습니다. 바르게 계산한 값을 알아보시오.⑴ 어떤 수를 $\\square$라 놓고 잘못 계산한 식을 만드시오.⑵ 어떤 수를 구하시오.⑶ 바르게 계산한 값은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            724,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            308,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            149,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            220,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            727,
+            84
+          ],
+          "text": "어떤 수에 $6$을 곱해야 할 것을 잘못하여 $6$으로 나누었더니 몫이 $12$이고, 나머지가 $2$였습니다. 바르게 계산한 값을 알아보시오.⑴ 어떤 수를 $\\square$라 놓고 잘못 계산한 식을 만드시오.⑵ 어떤 수를 구하시오.⑶ 바르게 계산한 값은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

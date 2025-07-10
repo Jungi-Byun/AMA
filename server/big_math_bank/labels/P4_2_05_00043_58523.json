@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00043_58523.png",
+  "id": "00043_58523",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205001",
+      "question_topic_name": "꺾은선그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 가게의 날짜별 아이스크림 판매량을 나타낸 꺾은선그래프입니다. 아이스크림 한 개의 가격이 $1000$원일 때, 조사한 기간 동안의 아이스크림 판매액은 모두 얼마인지 알아보시오. (1) 조사한 기간 동안의 아이스크림 판매량을 구하시오. (2) 조사한 기간 동안의 아이스크림 판매액을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            267,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            219,
+            326,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            241,
+            326,
+            258
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            51,
+            309,
+            212
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            40
+          ],
+          "text": "어느 가게의 날짜별 아이스크림 판매량을 나타낸 꺾은선그래프입니다. 아이스크림 한 개의 가격이 $1000$원일 때, 조사한 기간 동안의 아이스크림 판매액은 모두 얼마인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            217,
+            328,
+            260
+          ],
+          "text": "(1) 조사한 기간 동안의 아이스크림 판매량을 구하시오. (2) 조사한 기간 동안의 아이스크림 판매액을 구하시오."
+        }
+      ]
+    }
+  ]
+}

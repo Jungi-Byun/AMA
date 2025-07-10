@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_57996.png",
+  "id": "00043_57996",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "축구공의 무게를 가장 가깝게 어림한 것의 기호를 쓰시오. ㉠ $ 4 \\mathrm{~g} $ ㉡ $ 450 \\mathrm{~g} $ ㉢ $ 450 \\mathrm{~kg} $ ㉣ $ 40 \\mathrm{~kg} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            123,
+            39,
+            297,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            111,
+            60,
+            298,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            94,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            344,
+            23
+          ],
+          "text": "축구공의 무게를 가장 가깝게 어림한 것의 기호를 쓰시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            105,
+            23,
+            326,
+            98
+          ],
+          "text": "㉠ $ 4 \\mathrm{~g} $ ㉡ $ 450 \\mathrm{~g} $ ㉢ $ 450 \\mathrm{~kg} $ ㉣ $ 40 \\mathrm{~kg} $"
+        }
+      ]
+    }
+  ]
+}

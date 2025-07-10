@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00042_56405.png",
+  "id": "00042_56405",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203013",
+      "question_topic_name": "소수 두 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\bigcirc$안에 $>, =, <$를 알맞게 써넣으시오. $ 0.55+0.28 \\bigcirc 0.34+0.49 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            230,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            186,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            232,
+            51
+          ],
+          "text": "$\\bigcirc$안에 $>, =, <$를 알맞게 써넣으시오. $ 0.55+0.28 \\bigcirc 0.34+0.49 $"
+        }
+      ]
+    }
+  ]
+}

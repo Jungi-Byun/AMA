@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58102.png",
+  "id": "00043_58102",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성훈이 아버지께서 $3kg$짜리 봉에 $5kg 250g$짜리 원반 $2$개를 양쪽에 걸고 역기 운동을 합니다. 성훈이 아버지께서 든 무게는 몇 $kg$ 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            40
+          ],
+          "text": "성훈이 아버지께서 $3kg$짜리 봉에 $5kg 250g$짜리 원반 $2$개를 양쪽에 걸고 역기 운동을 합니다. 성훈이 아버지께서 든 무게는 몇 $kg$ 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

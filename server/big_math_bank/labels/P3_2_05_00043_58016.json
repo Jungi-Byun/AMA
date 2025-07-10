@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58016.png",
+  "id": "00043_58016",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "선풍기와 전화기 중에서 무게가 약 $ 2 \\mathrm{~kg} $ 인 것은 무엇입니까?  $선풍기         전화기$  $1kg 900g 1kg 100g$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            355,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            161,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            357,
+            70
+          ],
+          "text": "선풍기와 전화기 중에서 무게가 약 $ 2 \\mathrm{~kg} $ 인 것은 무엇입니까?  $선풍기         전화기$  $1kg 900g 1kg 100g$"
+        }
+      ]
+    }
+  ]
+}

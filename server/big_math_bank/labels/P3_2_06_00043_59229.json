@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_06_00043_59229.png",
+  "id": "00043_59229",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연주와 친구들이 한 달 동안 마신 물의 양을 조사하여 나타낸 그림그래프입니다. 마신 물의 전체 양이 $160 L$일 때 물을 가장 적게 마신 사람은 누구입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            107,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            51,
+            323,
+            307
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "연주와 친구들이 한 달 동안 마신 물의 양을 조사하여 나타낸 그림그래프입니다. 마신 물의 전체 양이 $160 L$일 때 물을 가장 적게 마신 사람은 누구입니까?"
+        }
+      ]
+    }
+  ]
+}

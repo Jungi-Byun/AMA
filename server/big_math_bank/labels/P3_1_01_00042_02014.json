@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_02014.png",
+  "id": "00042_02014",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 두 수의 덧셈식에 얼룩이 져서 몇 개의 숫자가 보이지 않습니다. 두 수의 차는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            596,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            166,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            598,
+            22
+          ],
+          "text": "다음과 같은 두 수의 덧셈식에 얼룩이 져서 몇 개의 숫자가 보이지 않습니다. 두 수의 차는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

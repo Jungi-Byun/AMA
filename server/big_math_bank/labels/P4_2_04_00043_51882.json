@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_04_00043_51882.png",
+  "id": "00043_51882",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204001",
+      "question_topic_name": "수직 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 말을 써넣으시오. 두 직선이 만나서 이루는 각이 직각일 때, 두 직선은 서로 $\\square$ 이라고 합니다. 두 직선이 서로 수직으로 만나면 한 직선을 다른 직선에 대한 $\\square$ 이라고 합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            802,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            55,
+            276,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            79
+          ],
+          "text": "$\\square$ 안에 알맞은 말을 써넣으시오. 두 직선이 만나서 이루는 각이 직각일 때, 두 직선은 서로 $\\square$ 이라고 합니다. 두 직선이 서로 수직으로 만나면 한 직선을 다른 직선에 대한 $\\square$ 이라고 합니다."
+        }
+      ]
+    }
+  ]
+}

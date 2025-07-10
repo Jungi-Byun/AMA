@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_04_00042_25881.png",
+  "id": "00042_25881",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104005",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈을 하시오.(1) $ \\begin{array}{r}41 \\\\ \\times  7 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}31 \\\\ \\times 9 \\\\ \\hline\\end{array} $ (3) $ \\begin{array}{r}62 \\\\ \\times 4 \\\\ \\hline\\end{array} $ (4) $ \\begin{array}{r}52 \\\\ \\times 3 \\\\ \\hline\\end{array} $ (5) $ \\begin{array}{r}72 \\\\ \\times  2 \\\\ \\hline\\end{array} $ (6) $ \\begin{array}{r}82 \\\\ \\times  3 \\\\ \\hline\\end{array} $  (7) $54×2$ (8) $62×3$ (9) $73×2$ (10) $51×8$ (11) $64×2$ (12) $93×3$(13) $62×2$ (14) $73×3$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            149,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            93,
+            153,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            163,
+            153,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            232,
+            157,
+            248
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            254,
+            161,
+            270
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            276,
+            158,
+            292
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            297,
+            160,
+            314
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            163,
+            315
+          ],
+          "text": "곱셈을 하시오.(1) $ \\begin{array}{r}41 \\\\ \\times  7 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}31 \\\\ \\times 9 \\\\ \\hline\\end{array} $ (3) $ \\begin{array}{r}62 \\\\ \\times 4 \\\\ \\hline\\end{array} $ (4) $ \\begin{array}{r}52 \\\\ \\times 3 \\\\ \\hline\\end{array} $ (5) $ \\begin{array}{r}72 \\\\ \\times  2 \\\\ \\hline\\end{array} $ (6) $ \\begin{array}{r}82 \\\\ \\times  3 \\\\ \\hline\\end{array} $  (7) $54×2$ (8) $62×3$ (9) $73×2$ (10) $51×8$ (11) $64×2$ (12) $93×3$(13) $62×2$ (14) $73×3$"
+        }
+      ]
+    }
+  ]
+}

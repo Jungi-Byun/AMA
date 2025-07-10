@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_01_00042_54015.png",
+  "id": "00042_54015",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 번에 $243$명의 승객을 태울 수 있는 여객기가 있습니다. 이 여객기가 빈자리 없이 부산과 서울을 한 번 오갈 때, 태운 승객은 모두 몇 명인지 곱셈식을 만들어 구하시오. 이미지",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            187,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            304,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "한 번에 $243$명의 승객을 태울 수 있는 여객기가 있습니다. 이 여객기가 빈자리 없이 부산과 서울을 한 번 오갈 때, 태운 승객은 모두 몇 명인지 곱셈식을 만들어 구하시오. 이미지"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00040_27593.png",
+  "id": "00040_27593",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203013",
+      "question_topic_name": "소수 두 자리 수의 덧셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어버이날 부모님의 선물을 사서 포장하는 데 색 테이프 $0.35m$와 $0.28m$를 사용하였습니다. 사용한 색 테이프는 모두 몇 $m$입니까? ①$0.53m$ ②$0.58m$ ③$0.63m$ ④$0.68m$ ⑤$0.73m$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            755,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            84,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            85,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            85,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            85,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            84,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            757,
+            130
+          ],
+          "text": "어버이날 부모님의 선물을 사서 포장하는 데 색 테이프 $0.35m$와 $0.28m$를 사용하였습니다. 사용한 색 테이프는 모두 몇 $m$입니까? ①$0.53m$ ②$0.58m$ ③$0.63m$ ④$0.68m$ ⑤$0.73m$"
+        }
+      ]
+    }
+  ]
+}

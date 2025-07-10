@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_02_00043_51455.png",
+  "id": "00043_51455",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 길이가 96 cm이고, 세로 길이가 48 cm인 직사각형",
+      "question_text": "다음과 같이 가로가 $96 cm$, 세로가 $48 cm$인 직사각형이 있습니다. 이 직사각형 안에 한 변이 $6 cm$인 정사각형을 몇 개까지 그릴 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            59,
+            218,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            39
+          ],
+          "text": "다음과 같이 가로가 $96 cm$, 세로가 $48 cm$인 직사각형이 있습니다. 이 직사각형 안에 한 변이 $6 cm$인 정사각형을 몇 개까지 그릴 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

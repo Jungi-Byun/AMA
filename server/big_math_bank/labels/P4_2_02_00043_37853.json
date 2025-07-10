@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_02_00043_37853.png",
+  "id": "00043_37853",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202001",
+      "question_topic_name": "삼각형의 변의 길이에 따라 분류하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정삼각형 ㄱㄴㄹ과 변 ㄴㄷ과 변 ㄴㄹ의 길이가 같고 변 ㄷㄹ의 길이가 4 cm인 이등변삼각형 ㄴㄷㄹ을 변 ㄴㄹ에서 겹치지 않게 이어 붙인 사각형 ㄱㄴㄷㄹ",
+      "question_text": "다음 그림에서 삼각형 ㄱㄴㄹ은 정삼각형이고, 삼각형 ㄴㄷㄹ은 변 ㄴㄷ과 변 ㄴㄹ의 길이가 같은 이등변삼각형입니다. 삼각형 ㄱㄴㄹ과 삼각형 ㄴㄷㄹ의 둘레의 $34cm$일 때, 변 ㄱㄴ의 길이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            400,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            51,
+            152,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "다음 그림에서 삼각형 ㄱㄴㄹ은 정삼각형이고, 삼각형 ㄴㄷㄹ은 변 ㄴㄷ과 변 ㄴㄹ의 길이가 같은 이등변삼각형입니다. 삼각형 ㄱㄴㄹ과 삼각형 ㄴㄷㄹ의 둘레의 $34cm$일 때, 변 ㄱㄴ의 길이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

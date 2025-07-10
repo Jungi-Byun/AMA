@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00042_85117.png",
+  "id": "00042_85117",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "위의 도형을 아래쪽으로 뒤집은 후 (반시계방향) 방향으로 돌린 모양을 그리시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            16.23,
+            0.65,
+            430.23,
+            28.65
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            15.23,
+            27.65,
+            207.23,
+            203.65
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.23,
+            0,
+            432.23,
+            29.65
+          ],
+          "text": "위의 도형을 아래쪽으로 뒤집은 후 (반시계방향) 방향으로 돌린 모양을 그리시오."
+        }
+      ]
+    }
+  ]
+}

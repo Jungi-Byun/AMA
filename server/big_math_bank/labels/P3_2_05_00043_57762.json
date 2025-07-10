@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57762.png",
+  "id": "00043_57762",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "개구리의 한살이를 관찰하기 위해 먼저 어항에 물과 개구리 알을 넣으려고 합니다. 비어 있는 $10L$들이의 어항에 개구리 알을 넣고 $700mL$의 물을 $5$번, $240mL$의 물을 $8$번, $180mL$의 물을 $9$번 부었더니 어항이 가득 찼습니다. 어항에 넣은 개구리 알은 몇 $L$ 몇 $mL$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            759,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            58,
+            267,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "개구리의 한살이를 관찰하기 위해 먼저 어항에 물과 개구리 알을 넣으려고 합니다. 비어 있는 $10L$들이의 어항에 개구리 알을 넣고 $700mL$의 물을 $5$번, $240mL$의 물을 $8$번, $180mL$의 물을 $9$번 부었더니 어항이 가득 찼습니다. 어항에 넣은 개구리 알은 몇 $L$ 몇 $mL$입니까?"
+        }
+      ]
+    }
+  ]
+}

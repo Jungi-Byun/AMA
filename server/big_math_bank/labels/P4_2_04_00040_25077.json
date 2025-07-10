@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00040_25077.png",
+  "id": "00040_25077",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204003",
+      "question_topic_name": "수직",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 설명 중 옳지 않은 것은 어느 것입니까? ①한 점에서 한 직선에 그을 수 있는 수선은 한 개뿐입니다. ②한 직선에서 다른 한 직선에 그을 수 있는 수선은 한 개뿐입니다. ③두 직선이 만나는 각도가 90°이면 수선입니다. ④한 직선에 그을 수 있는 수선은 여러 개도 될 수 있습니다. ⑤수선을 그을 때는 각도기나 삼각자를 사용합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            270,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            361,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            403,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            304,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            365,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            320,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            405,
+            130
+          ],
+          "text": "다음 설명 중 옳지 않은 것은 어느 것입니까? ①한 점에서 한 직선에 그을 수 있는 수선은 한 개뿐입니다. ②한 직선에서 다른 한 직선에 그을 수 있는 수선은 한 개뿐입니다. ③두 직선이 만나는 각도가 90°이면 수선입니다. ④한 직선에 그을 수 있는 수선은 여러 개도 될 수 있습니다. ⑤수선을 그을 때는 각도기나 삼각자를 사용합니다."
+        }
+      ]
+    }
+  ]
+}

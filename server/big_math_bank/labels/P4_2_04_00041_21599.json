@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00041_21599.png",
+  "id": "00041_21599",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204021",
+      "question_topic_name": "직사각형과 정사각형의 성질 활용",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "네 각의 크기가 같은 사각형만으로 묶은 것은 어느 것입니까?  ①가, 나, 다 ②나, 다, 마 ③다, 라, 마 ④나, 라, 마 ⑤가, 다, 마",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            363,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            76,
+            98,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            98,
+            98,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            120,
+            98,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            142,
+            98,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            164,
+            98,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            27,
+            321,
+            65
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20,
+            0,
+            363,
+            17.91
+          ],
+          "text": "네 각의 크기가 같은 사각형만으로 묶은 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            75,
+            100,
+            184
+          ],
+          "text": " ①가, 나, 다 ②나, 다, 마 ③다, 라, 마 ④나, 라, 마 ⑤가, 다, 마"
+        }
+      ]
+    }
+  ]
+}

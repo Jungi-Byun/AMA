@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_02_00042_25125.png",
+  "id": "00042_25125",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102006",
+      "question_topic_name": "직각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "시계의 두 바늘이 이루는 작은 각이 직각인 시각을 모두 찾아 기호를 쓰시오.   ㉠ $2$시 ㉡ $3$시 ㉢ $6$시 ㉣ $9$시 ㉤ $10$시 ㉥ $11$시",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            446,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            198,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            55,
+            211,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            453,
+            78
+          ],
+          "text": "시계의 두 바늘이 이루는 작은 각이 직각인 시각을 모두 찾아 기호를 쓰시오.   ㉠ $2$시 ㉡ $3$시 ㉢ $6$시 ㉣ $9$시 ㉤ $10$시 ㉥ $11$시"
+        }
+      ]
+    }
+  ]
+}

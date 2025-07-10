@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_04_00043_55687.png",
+  "id": "00043_55687",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음의 숫자 카드를 한 번씩만 사용하여 분수를 만들려고 합니다. 숫자 카드 중 $2$장을  사용하여 만들 수 있는 가분수 중 가장 큰 것을 수직선 위에 나타내시오. $3 5 8$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            116,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            106,
+            49,
+            238,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            97,
+            316,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            85
+          ],
+          "text": "다음의 숫자 카드를 한 번씩만 사용하여 분수를 만들려고 합니다. 숫자 카드 중 $2$장을  사용하여 만들 수 있는 가분수 중 가장 큰 것을 수직선 위에 나타내시오. $3 5 8$"
+        }
+      ]
+    }
+  ]
+}

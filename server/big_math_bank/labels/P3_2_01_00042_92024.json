@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00042_92024.png",
+  "id": "00042_92024",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수지 아버지가 다니는 공장에서는 인형을 하루에 $85$개씩 만들어 냅니다. 이 공장에서 $20$일 동안 만든 인형은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            738,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            740,
+            21
+          ],
+          "text": "수지 아버지가 다니는 공장에서는 인형을 하루에 $85$개씩 만들어 냅니다. 이 공장에서 $20$일 동안 만든 인형은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

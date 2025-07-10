@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_03_00043_50692.png",
+  "id": "00043_50692",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203018",
+      "question_topic_name": "소수 두 자리 수의 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민정이는 신체검사를 주제로 일기를 썼습니다. 민정이는 작년에 키가 몇 $m$였습니까?  <table border>   <tbody>     <tr>       <td>오늘은 신체검사를 했다. 나는 몸무게가 적게 나가고 싶어서 물을 0.1 L만 마셨다. 검사 결과 키는 1.42 m이고, 몸무게는 37.5 kg이었다. 작년보다 키가 5 cm 더 커서 기분이 좋았다.</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            496,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            803,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            55,
+            275,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            78
+          ],
+          "text": "민정이는 신체검사를 주제로 일기를 썼습니다. 민정이는 작년에 키가 몇 $m$였습니까?  <table border>   <tbody>     <tr>       <td>오늘은 신체검사를 했다. 나는 몸무게가 적게 나가고 싶어서 물을 0.1 L만 마셨다. 검사 결과 키는 1.42 m이고, 몸무게는 37.5 kg이었다. 작년보다 키가 5 cm 더 커서 기분이 좋았다.</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

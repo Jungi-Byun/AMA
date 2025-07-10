@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_02_00043_37690.png",
+  "id": "00043_37690",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102006",
+      "question_topic_name": "예각과 둔각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영진이는 가족들과 우리나라보다 $4$시간 늦은 시각을 사용하는 몰디브로 여행을 갔습니다. 영진이의 시계는 우리나라와 같게, 형의 시계는 몰디브와 같게 시각을 맞추었습니다. 두 시계 모두 긴바늘이 숫자 $12$를 가리키고 있고 긴바늘과 짧은바늘이 이루는 작은 쪽의 각은 예각입니다. 형의 시계가 가리키는 시각은 몇 시입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            803,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            282,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            62
+          ],
+          "text": "영진이는 가족들과 우리나라보다 $4$시간 늦은 시각을 사용하는 몰디브로 여행을 갔습니다. 영진이의 시계는 우리나라와 같게, 형의 시계는 몰디브와 같게 시각을 맞추었습니다. 두 시계 모두 긴바늘이 숫자 $12$를 가리키고 있고 긴바늘과 짧은바늘이 이루는 작은 쪽의 각은 예각입니다. 형의 시계가 가리키는 시각은 몇 시입니까?"
+        }
+      ]
+    }
+  ]
+}

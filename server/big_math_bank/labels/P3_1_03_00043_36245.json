@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36245.png",
+  "id": "00043_36245",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈식을 읽어 보시오. $72\\div8=9$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            158,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            79,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            172,
+            55
+          ],
+          "text": "나눗셈식을 읽어 보시오. $72\\div8=9$"
+        }
+      ]
+    }
+  ]
+}

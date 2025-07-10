@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_28222.png",
+  "id": "00042_28222",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변의 왼쪽 각의 크기가 45도이고 직각이 위쪽에 놓인, 가운데 원 모양의 구멍이 뚫린 직각삼각형 모양의 자의 오른쪽 꼭짓점을 공유하고 밑변이 왼쪽의 삼각형과 일직선상에 놓인 밑변의 오른쪽 각이 직각이고 위에 위치한 각이 60도인, 가운데 원 모양의 구멍이 뚫린 다른 직각삼각형 모양의 자가 나란히 접하고 있어서 두 삼각형이 공유하고 있는 꼭짓점과 연결된 위로 향하는 각각의 변이 이루는 각의 크기가 원 문자ㄱ",
+      "question_text": "다음과 같이 서로 다른 삼각자 $2$개를 붙여 놓았습니다. 각 ㉠의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            470,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            13,
+            218,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            468,
+            23
+          ],
+          "text": "다음과 같이 서로 다른 삼각자 $2$개를 붙여 놓았습니다. 각 ㉠의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

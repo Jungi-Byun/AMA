@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00040_78684.png",
+  "id": "00040_78684",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "학교 급식 우유 한 개에 든 우유의 양은 얼마나 됩니까? ①약 $2 L$ ②약 $20L$ ③약 $200mL$ ④약 $200L$ ⑤약 $20mL$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            328,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            81,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            86,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            107,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            95,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            98,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            330,
+            129
+          ],
+          "text": "학교 급식 우유 한 개에 든 우유의 양은 얼마나 됩니까? ①약 $2 L$ ②약 $20L$ ③약 $200mL$ ④약 $200L$ ⑤약 $20mL$"
+        }
+      ]
+    }
+  ]
+}

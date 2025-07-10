@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_01_00043_49583.png",
+  "id": "00043_49583",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 26 \\times 12 $를 구하려고 합니다. 물음에 답하시오.  ⑴ 모눈의 수를 각각 구하시오.  주황색 모눈 :  $ 6 \\times 2= \\square $ 하늘색 모눈 :  $ 6 \\times 10=\\square $  ⑵ $ 26 \\times 12 $를 구하시오.   $ 40+200+\\square+\\square=\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            270,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            213,
+            191,
+            230
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            235,
+            169,
+            261
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            264,
+            176,
+            290
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            293,
+            144,
+            310
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            315,
+            222,
+            341
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            39,
+            35,
+            250,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            272,
+            22
+          ],
+          "text": "$ 26 \\times 12 $를 구하려고 합니다. 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            212,
+            224,
+            341
+          ],
+          "text": "⑴ 모눈의 수를 각각 구하시오.  주황색 모눈 :  $ 6 \\times 2= \\square $ 하늘색 모눈 :  $ 6 \\times 10=\\square $  ⑵ $ 26 \\times 12 $를 구하시오.   $ 40+200+\\square+\\square=\\square $"
+        }
+      ]
+    }
+  ]
+}

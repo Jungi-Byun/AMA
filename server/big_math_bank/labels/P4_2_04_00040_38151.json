@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_38151.png",
+  "id": "00040_38151",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204021",
+      "question_topic_name": "직사각형과 정사각형의 성질 활용",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 삼각형과 모양과 크기가 같은 삼각형 $2$개를 변끼리 이어 붙여 만들 수 없는 도형을 모두 고르시오.  ①직사각형 ②마름모 ③평행사변형 ④사다리꼴이 아닌 사각형 ⑤정사각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            596,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            95,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            126,
+            83,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            148,
+            107,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            170,
+            179,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            192,
+            95,
+            212
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            21,
+            93,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            598,
+            22
+          ],
+          "text": "다음 삼각형과 모양과 크기가 같은 삼각형 $2$개를 변끼리 이어 붙여 만들 수 없는 도형을 모두 고르시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            104,
+            181,
+            213
+          ],
+          "text": "①직사각형 ②마름모 ③평행사변형 ④사다리꼴이 아닌 사각형 ⑤정사각형"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00040_28655.png",
+  "id": "00040_28655",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자 $28$개와 컴퍼스 $32$개를 가지고 똑같은 문구 세트 $6$개를 만들었습니다. 남아 있는 자와 컴퍼스는 각각 몇 개씩입니까?  ① 자 $2$개, 컴퍼스 $0$개 ② 자 $3$개, 컴퍼스 $1$개 ③ 자 $4$개, 컴퍼스 $2$개 ④ 자 $4$개, 컴퍼스 $3$개 ⑤ 자 $3$개, 컴퍼스 $2$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            690,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            152,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            148,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            151,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            151,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            151,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            692,
+            130
+          ],
+          "text": "자 $28$개와 컴퍼스 $32$개를 가지고 똑같은 문구 세트 $6$개를 만들었습니다. 남아 있는 자와 컴퍼스는 각각 몇 개씩입니까?  ① 자 $2$개, 컴퍼스 $0$개 ② 자 $3$개, 컴퍼스 $1$개 ③ 자 $4$개, 컴퍼스 $2$개 ④ 자 $4$개, 컴퍼스 $3$개 ⑤ 자 $3$개, 컴퍼스 $2$개"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53669.png",
+  "id": "00043_53669",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정사각형 ㄱㄴㄷㄹ이 ㄱ이 맨 위에 가도록 마름모 형태로 있고, 내부에 같은 크기의 원 4개가 꽉 차게 배치되어 있는 그림",
+      "question_text": "크기가 같은 원 $4$개를 그림과 같이 서로 맞닿게 놓았습니다. 원의 반지름이 $ 7 \\mathrm{~cm} $ 일 때, 정사각형 ㄱㄴㄷㄹㅇ의 네 변의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            785,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            30,
+            163,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            787,
+            22
+          ],
+          "text": "크기가 같은 원 $4$개를 그림과 같이 서로 맞닿게 놓았습니다. 원의 반지름이 $ 7 \\mathrm{~cm} $ 일 때, 정사각형 ㄱㄴㄷㄹㅇ의 네 변의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

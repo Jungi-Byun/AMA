@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_1_04_00042_27164.png",
+  "id": "00042_27164",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $ 12 \\times 2-\\left[\\begin{array}{c}10 \\times \\square=\\square \\\\ 2 \\times \\square=\\square\\end{array}\\right]-\\square $ (2) $ 23 \\times 3-\\left[\\begin{array}{c}20 \\times \\square=\\square \\\\ 3 \\times \\square=\\square\\end{array}\\right]-\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            94,
+            23,
+            182,
+            51
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            88,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            186,
+            39,
+            231,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            55,
+            182,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            95,
+            87,
+            190,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            106,
+            89,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            192,
+            103,
+            235,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            104,
+            119,
+            182,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            237,
+            147
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $ 12 \\times 2-\\left[\\begin{array}{c}10 \\times \\square=\\square \\\\ 2 \\times \\square=\\square\\end{array}\\right]-\\square $ (2) $ 23 \\times 3-\\left[\\begin{array}{c}20 \\times \\square=\\square \\\\ 3 \\times \\square=\\square\\end{array}\\right]-\\square $"
+        }
+      ]
+    }
+  ]
+}

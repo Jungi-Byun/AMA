@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00042_53734.png",
+  "id": "00042_53734",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물건의 무게를 알아보려고 합니다. $kg$과 $g$ 중 알맞은 단위를 쓰시오. (1) 칫솔의 무게 (2) 사과 한 상자의 무게",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            400,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            162,
+            20,
+            228,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            106,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            154,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            187,
+            44,
+            253,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            402,
+            62
+          ],
+          "text": "물건의 무게를 알아보려고 합니다. $kg$과 $g$ 중 알맞은 단위를 쓰시오. (1) 칫솔의 무게 (2) 사과 한 상자의 무게"
+        }
+      ]
+    }
+  ]
+}

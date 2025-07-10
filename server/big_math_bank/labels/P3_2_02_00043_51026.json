@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00043_51026.png",
+  "id": "00043_51026",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202001",
+      "question_topic_name": "내림이 없는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연필이 $60$자루 있습니다. $3$명이 연필을 똑같이 나누어 가지려고 합니다. 한 명이 연필을 몇 자루 가질 수 있는지 식을 쓰고 답을 구하시오. 식 \\qquad\\qquad 답 \\qquad",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            794,
+            22
+          ],
+          "text": "연필이 $60$자루 있습니다. $3$명이 연필을 똑같이 나누어 가지려고 합니다. 한 명이 연필을 몇 자루 가질 수 있는지 식을 쓰고 답을 구하시오. 식 \\qquad\\qquad 답 \\qquad"
+        }
+      ]
+    }
+  ]
+}

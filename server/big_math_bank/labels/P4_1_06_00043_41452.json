@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_06_00043_41452.png",
+  "id": "00043_41452",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106008",
+      "question_topic_name": "곱셈과 나눗셈이 있는 계산식에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 곱셈으로 나타내어 알아보려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. <table border> <tbody> <tr> <td>순서</td> <td>첫째</td> <td>둘째</td> <td>셋째</td> <td>넷째</td> </tr> <tr> <td>계산식</td> <td>$1\\times2$</td> <td>$2\\times3$</td> <td>$3\\times4$</td> <td>$4\\times5$</td> </tr> </tbody> </table> $ \\rightarrow $ 다섯째: $ \\square \\times \\square=\\square $ (개)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            467,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            196,
+            312,
+            261
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            270,
+            226,
+            295
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            21,
+            331,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            469,
+            21
+          ],
+          "text": "그림을 곱셈으로 나타내어 알아보려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            194,
+            314,
+            295
+          ],
+          "text": "<table border> <tbody> <tr> <td>순서</td> <td>첫째</td> <td>둘째</td> <td>셋째</td> <td>넷째</td> </tr> <tr> <td>계산식</td> <td>$1\\times2$</td> <td>$2\\times3$</td> <td>$3\\times4$</td> <td>$4\\times5$</td> </tr> </tbody> </table> $ \\rightarrow $ 다섯째: $ \\square \\times \\square=\\square $ (개)"
+        }
+      ]
+    }
+  ]
+}

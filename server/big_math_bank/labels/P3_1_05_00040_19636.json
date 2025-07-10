@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_05_00040_19636.png",
+  "id": "00040_19636",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 시계의 시각에서 $2$시간 $20$분 $48$초 후의 시각으로 바른 것은 어느 것입니까? ①$7시 16초$ ②$7시 59분 16초$ ③$8시 16초$ ④$8시 1분 16초$ ⑤$8시 1분 26초$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            479,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            140,
+            95,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            162,
+            126,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            184,
+            96,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            206,
+            118,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            228,
+            120,
+            248
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            139,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.79,
+            0.98,
+            478.31,
+            17.62
+          ],
+          "text": "다음 시계의 시각에서 $2$시간 $20$분 $48$초 후의 시각으로 바른 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.07,
+            141.78,
+            125.03,
+            248.66
+          ],
+          "text": "①$7시 16초$ ②$7시 59분 16초$ ③$8시 16초$ ④$8시 1분 16초$ ⑤$8시 1분 26초$"
+        }
+      ]
+    }
+  ]
+}

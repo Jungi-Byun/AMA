@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00042_55809.png",
+  "id": "00042_55809",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204021",
+      "question_topic_name": "직사각형과 정사각형의 성질 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직사각형 모양의 종이테이프를 선을 따라 잘랐습니다. 물음에 답하시오. (1) 마름모를 모두 찾아 기호를 쓰시오.(2) 정사각형을 찾아 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            422,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            102,
+            221,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.68,
+            79.99,
+            235.65,
+            99.8
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18.44,
+            20.54,
+            307.29,
+            79.99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.68,
+            1.49,
+            423.13,
+            16.73
+          ],
+          "text": "직사각형 모양의 종이테이프를 선을 따라 잘랐습니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.68,
+            80.75,
+            234.13,
+            120.38
+          ],
+          "text": "(1) 마름모를 모두 찾아 기호를 쓰시오.(2) 정사각형을 찾아 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

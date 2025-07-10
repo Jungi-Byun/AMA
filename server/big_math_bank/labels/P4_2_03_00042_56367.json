@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00042_56367.png",
+  "id": "00042_56367",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203009",
+      "question_topic_name": "소수 한 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "교회가 중심에 있고 교회보다 왼쪽 위 600 m 위치에 병원, 교회보다 왼쪽 아래 거리가 0.9 km 위치에 역, 교회에서부터 오른쪽 아래 거리가 1.2 km인 위치에 은행이 있는 그림",
+      "question_text": "역에서 교회를 지나 병원까지의 거리는 몇 $km$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            323,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            311,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            325,
+            21
+          ],
+          "text": "역에서 교회를 지나 병원까지의 거리는 몇 $km$입니까?"
+        }
+      ]
+    }
+  ]
+}

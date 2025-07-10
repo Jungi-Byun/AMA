@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53629.png",
+  "id": "00043_53629",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "지름이 8 cm인 원들이 원의 중심과 다음 원의 왼쪽 끝이 접하는 형태로 수없이 이어져 있으며, 그 길이가 60 cm인 그림",
+      "question_text": "지름이 $8 cm$인 원을 다음과 같이 겹쳐서 그렸습니다. 원을 몇 개 그린 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            472,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            29,
+            317,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            474,
+            22
+          ],
+          "text": "지름이 $8 cm$인 원을 다음과 같이 겹쳐서 그렸습니다. 원을 몇 개 그린 것입니까?"
+        }
+      ]
+    }
+  ]
+}

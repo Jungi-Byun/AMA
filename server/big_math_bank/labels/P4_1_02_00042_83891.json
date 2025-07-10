@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_02_00042_83891.png",
+  "id": "00042_83891",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102010",
+      "question_topic_name": "두 각도의 차 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "점 ㄱ은 ㄴ의 왼쪽 아래 방향에, 점 ㄷ은 ㄴ의 오른쪽에 있으며, 각 ㄱㄴㄷ을 다른 색 반직선이 왼쪽부터 40도, 75도로 나누는 그림",
+      "question_text": "$\\square$ 안에 알맞은 각도를 써넣으시오 $\\begin{array}{l}40^{\\circ}+75^{\\circ}=\\square \\\\ \\square-40^{\\circ}=75^{\\circ}\\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            214,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            130,
+            142,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            152,
+            143,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            174,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            0.11,
+            215.17,
+            17.11
+          ],
+          "text": "$\\square$ 안에 알맞은 각도를 써넣으시오"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            131.11,
+            142.17,
+            174.11
+          ],
+          "text": "$\\begin{array}{l}40^{\\circ}+75^{\\circ}=\\square \\\\ \\square-40^{\\circ}=75^{\\circ}\\end{array}$"
+        }
+      ]
+    }
+  ]
+}

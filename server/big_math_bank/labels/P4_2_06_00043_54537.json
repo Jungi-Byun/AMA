@@ -1,0 +1,189 @@
+{
+  "question_filename": "P4_2_06_00043_54537.png",
+  "id": "00043_54537",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206004",
+      "question_topic_name": "대각선의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "고슴도치가 미로를 지나 집으로 가려고 합니다. 문제를 해결하여 미로에서 길을 찾아 표시하시오.   ① 정육각형의 대각선은 모두 $ \\square $개입니다.  $⇨9$  $⇨12$  ② 두 대각선의 길이가 같은 사각형은 직사각형과 $ \\square $ 입니다.  ⇨평행사변형  ⇨정사각형 ③ 두 대각선이 서로 수직인 사각형은 정사각형과 $ \\square $ 입니다.  ⇨직사각형  ⇨마름모 ④ 평행사변형의 두 대각선은 항상 수직으로 $ \\square $   ⇨만나는 것은 아닙니다.  ⇨만납니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            564,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            355,
+            285,
+            376
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            381,
+            55,
+            395
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            402,
+            59,
+            417
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            421,
+            449,
+            442
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            446,
+            109,
+            462
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            468,
+            96,
+            485
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            487,
+            430,
+            508
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            512,
+            97,
+            529
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            534,
+            84,
+            550
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            553,
+            523,
+            574
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            578,
+            171,
+            594
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            600,
+            99,
+            616
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            35,
+            317,
+            344
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.88,
+            0.51,
+            565.88,
+            16.51
+          ],
+          "text": "고슴도치가 미로를 지나 집으로 가려고 합니다. 문제를 해결하여 미로에서 길을 찾아 표시하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            354.91,
+            523.48,
+            619.71
+          ],
+          "text": "① 정육각형의 대각선은 모두 $ \\square $개입니다.  $⇨9$  $⇨12$  ② 두 대각선의 길이가 같은 사각형은 직사각형과 $ \\square $ 입니다.  ⇨평행사변형  ⇨정사각형 ③ 두 대각선이 서로 수직인 사각형은 정사각형과 $ \\square $ 입니다.  ⇨직사각형  ⇨마름모 ④ 평행사변형의 두 대각선은 항상 수직으로 $ \\square $   ⇨만나는 것은 아닙니다.  ⇨만납니다."
+        }
+      ]
+    }
+  ]
+}

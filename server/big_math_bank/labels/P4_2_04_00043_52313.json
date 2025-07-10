@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_04_00043_52313.png",
+  "id": "00043_52313",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "테니스 코트에서 현철이가 친 공을 성룡이가 받아 쳤더니 공이 코트 밖으로 나갔습니다. 다음 그림에서 각 ㉮의 크기를 구하시오. (다만, 테니스 코트는 직사각형 모양입니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            218,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            54,
+            318,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            41
+          ],
+          "text": "테니스 코트에서 현철이가 친 공을 성룡이가 받아 쳤더니 공이 코트 밖으로 나갔습니다. 다음 그림에서 각 ㉮의 크기를 구하시오. (다만, 테니스 코트는 직사각형 모양입니다.)"
+        }
+      ]
+    }
+  ]
+}

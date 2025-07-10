@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55624.png",
+  "id": "00043_55624",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "혜화와 경준이는 진분수를 만드는 사람이 이기는 게임을 하고 잇습니다. 두 사람의 말이 모두 출발 칸에 있을 때 이긴 사람은 누구입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            789,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            29,
+            320,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            791,
+            24
+          ],
+          "text": "혜화와 경준이는 진분수를 만드는 사람이 이기는 게임을 하고 잇습니다. 두 사람의 말이 모두 출발 칸에 있을 때 이긴 사람은 누구입니까?"
+        }
+      ]
+    }
+  ]
+}

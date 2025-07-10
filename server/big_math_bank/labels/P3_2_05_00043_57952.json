@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57952.png",
+  "id": "00043_57952",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오.(1) $3 kg 900 g \\bigcirc 4200 g$ (2) $9700 g \\bigcirc 9 kg 500 g$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            326,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            186,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            53,
+            187,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            328,
+            80
+          ],
+          "text": "무게를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오.(1) $3 kg 900 g \\bigcirc 4200 g$ (2) $9700 g \\bigcirc 9 kg 500 g$"
+        }
+      ]
+    }
+  ]
+}

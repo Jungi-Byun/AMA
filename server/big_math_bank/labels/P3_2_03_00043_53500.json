@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_03_00043_53500.png",
+  "id": "00043_53500",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기가 더 큰 원을 찾아 기호를 쓰시오.  ㉠ 반지름이 $7 cm$인 원 ㉡ 지름이 $10 cm$인 원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            237,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            163,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            61,
+            160,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            242,
+            77
+          ],
+          "text": "크기가 더 큰 원을 찾아 기호를 쓰시오.  ㉠ 반지름이 $7 cm$인 원 ㉡ 지름이 $10 cm$인 원"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_01_00043_32268.png",
+  "id": "00043_32268",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수를 뛰어서 센 것입니다. 같은 규칙으로 $9$조에서 $3$번 더 뛰어서 센 수를 구하시오. $\\boxed{7조}$-$\\square$-$\\square$-$\\square$-$\\boxed{8조}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            482,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            20,
+            296,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            482,
+            21
+          ],
+          "text": "수를 뛰어서 센 것입니다. 같은 규칙으로 $9$조에서 $3$번 더 뛰어서 센 수를 구하시오. $\\boxed{7조}$-$\\square$-$\\square$-$\\square$-$\\boxed{8조}$"
+        }
+      ]
+    }
+  ]
+}

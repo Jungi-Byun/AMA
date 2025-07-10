@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_25667.png",
+  "id": "00042_25667",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가로가 $42 cm$, 세로가 $35 cm$인 직사각형 모양의 종이가 있습니다. 이 종이를 잘라서 한 변의 길이가 $7 cm$인 정사각형을 만들려고 합니다. 정사각형을 몇 개까지 만들 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            250,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "가로가 $42 cm$, 세로가 $35 cm$인 직사각형 모양의 종이가 있습니다. 이 종이를 잘라서 한 변의 길이가 $7 cm$인 정사각형을 만들려고 합니다. 정사각형을 몇 개까지 만들 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

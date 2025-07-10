@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00050_20522.png",
+  "id": "00050_20522",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "재현이네 마을의 가구별 당근 수확량을 나타낸 표입니다. 재현이네 마을의 당근 수확량이 $3.5t$일 때 민정이네 당근 수확량은 몇 $kg$입니까? <table border> <caption><당근 수확량></caption>   <tbody>     <tr>       <td>가구 이름</td>       <td>수확량(kg)</td>     </tr>     <tr>       <td>재현이네</td>       <td>870</td>     </tr>     <tr>       <td>민정이네</td>       <td></td>     </tr>     <tr>       <td>주영이네</td>       <td>630</td>     </tr>     <tr>       <td>세훈이네</td>       <td>1040</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            88,
+            24,
+            174,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            45,
+            244,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            162
+          ],
+          "text": "재현이네 마을의 가구별 당근 수확량을 나타낸 표입니다. 재현이네 마을의 당근 수확량이 $3.5t$일 때 민정이네 당근 수확량은 몇 $kg$입니까? <table border> <caption><당근 수확량></caption>   <tbody>     <tr>       <td>가구 이름</td>       <td>수확량(kg)</td>     </tr>     <tr>       <td>재현이네</td>       <td>870</td>     </tr>     <tr>       <td>민정이네</td>       <td></td>     </tr>     <tr>       <td>주영이네</td>       <td>630</td>     </tr>     <tr>       <td>세훈이네</td>       <td>1040</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

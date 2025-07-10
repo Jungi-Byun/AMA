@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_03_00043_50830.png",
+  "id": "00043_50830",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 마라톤의 역사에 대한 기사입니다. 제$8$회 올림픽 마라톤 거리와 제$1$회 올림픽 마라톤 거리의 차를 구하시오. 마라톤 경기의 거리는 처음에는 $ 42.195 \\mathrm{~km} $ 가 아니었습니다. 제$1$희 아테네 올럽픽에서 마라톤 거리는 $ 36.75 \\mathrm{~km} $ 였다고 합니다. 그러다 제4회 런던 올립펴 때 좀 더 긴 코스가 징해지면서 제$8$회 파리 올림픽부터 마라톤 경기의 거리를 $ 42.195 \\mathrm{~km} $ 로 공식적으로 체택하게 되었습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            664,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            47,
+            293,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            70,
+            293,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            55,
+            90,
+            292,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            57,
+            111,
+            293,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            57,
+            131,
+            293,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            57,
+            151,
+            293,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            171,
+            163,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            667,
+            202
+          ],
+          "text": "다음은 마라톤의 역사에 대한 기사입니다. 제$8$회 올림픽 마라톤 거리와 제$1$회 올림픽 마라톤 거리의 차를 구하시오. 마라톤 경기의 거리는 처음에는 $ 42.195 \\mathrm{~km} $ 가 아니었습니다. 제$1$희 아테네 올럽픽에서 마라톤 거리는 $ 36.75 \\mathrm{~km} $ 였다고 합니다. 그러다 제4회 런던 올립펴 때 좀 더 긴 코스가 징해지면서 제$8$회 파리 올림픽부터 마라톤 경기의 거리를 $ 42.195 \\mathrm{~km} $ 로 공식적으로 체택하게 되었습니다."
+        }
+      ]
+    }
+  ]
+}

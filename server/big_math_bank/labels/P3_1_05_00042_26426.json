@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00042_26426.png",
+  "id": "00042_26426",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "눈금 한 칸의 크기가 100 m이고 0, 1 km, 2 km, 3 km가 표시되어 있고 2 km 700 m인 눈금 아래에 위쪽방향 화살표와 원 문자 ㄱ이 있는 도형",
+      "question_text": "㉠은 몇$ \\mathrm{km} $ 몇$ \\mathrm{m} $인지 쓰고 읽어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            246,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            291,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            248,
+            20
+          ],
+          "text": "㉠은 몇$ \\mathrm{km} $ 몇$ \\mathrm{m} $인지 쓰고 읽어 보시오."
+        }
+      ]
+    }
+  ]
+}

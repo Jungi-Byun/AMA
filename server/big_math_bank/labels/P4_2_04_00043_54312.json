@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_04_00043_54312.png",
+  "id": "00043_54312",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204020",
+      "question_topic_name": "정사각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "친구들이 설명하는 조건을 모두 만족하는 도형의 이름을 쓰시오. 찬영 : $4$개의 선분으로 둘러싸여 있어. 성희 : 마주 보는 두 쌍의 변이 서로 평행해. 민율 : 네 변의 길이와 네 각의 크기가 모두 같아.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            380,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            240,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            55,
+            285,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            77,
+            302,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            101
+          ],
+          "text": "친구들이 설명하는 조건을 모두 만족하는 도형의 이름을 쓰시오. 찬영 : $4$개의 선분으로 둘러싸여 있어. 성희 : 마주 보는 두 쌍의 변이 서로 평행해. 민율 : 네 변의 길이와 네 각의 크기가 모두 같아."
+        }
+      ]
+    }
+  ]
+}

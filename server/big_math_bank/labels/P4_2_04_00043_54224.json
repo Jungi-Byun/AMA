@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00043_54224.png",
+  "id": "00043_54224",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204017",
+      "question_topic_name": "마름모의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "꼭지각의 크기가 원 문자 ㄱ인 이등변삼각형 4개와 한 변의 길이가 이등변삼각형 꼭지각을 이루는 두 변의 길이와 같고 이웃한 두 각의 크기가 각각 135도, 원 문자 ㄴ인 마름모 4개를 서로 교차해서 붙여 만든 도형",
+      "question_text": "다음은 크기가 같은 이등변삼각형 $4$개와 마름모 $4$개로 이루어진 도형입니다. ㉠은 몇 도인지 구하시오. (1) ㉡은 몇 도인지 구하시오.(2) ㉠은 몇 도인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            596,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            131,
+            180,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            153,
+            183,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            24,
+            148,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            599,
+            23
+          ],
+          "text": "다음은 크기가 같은 이등변삼각형 $4$개와 마름모 $4$개로 이루어진 도형입니다. ㉠은 몇 도인지 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            129,
+            185,
+            172
+          ],
+          "text": "(1) ㉡은 몇 도인지 구하시오.(2) ㉠은 몇 도인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

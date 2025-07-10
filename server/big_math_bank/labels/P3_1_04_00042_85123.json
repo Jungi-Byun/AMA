@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_04_00042_85123.png",
+  "id": "00042_85123",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$80×4$에 대한 설명으로 틀린 것은 어느 것입니까? ①$80$의 $4$배입니다. ②$80$과 $4$의 곱입니다. ③$80$과 $4$의 차입니다. ④$80$씩 $4$묶음입니다. ⑤$80+80+80+80$과 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            140,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            157,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            157,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            153,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            209,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            302,
+            130
+          ],
+          "text": "$80×4$에 대한 설명으로 틀린 것은 어느 것입니까? ①$80$의 $4$배입니다. ②$80$과 $4$의 곱입니다. ③$80$과 $4$의 차입니다. ④$80$씩 $4$묶음입니다. ⑤$80+80+80+80$과 같습니다."
+        }
+      ]
+    }
+  ]
+}

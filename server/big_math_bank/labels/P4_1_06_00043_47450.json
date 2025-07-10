@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_06_00043_47450.png",
+  "id": "00043_47450",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나은이와 정우는 규칙 알아맞히기 놀이를 하였습니다. 나은이가 숫자 카드 $1$을 내면 정우는 $5$라고 답하고, 숫자 카드 $3$을 내면 $7$이라고 답하였습니다. 또 숫자 카드 $5$를 내면 $9$라고 답하였습니다. 물음에 답하시오.⑴ 정우의 규칙은 무엇입니까?⑵ 나은이가 숫자 카드 $7$을 내면 정우가 답한 수는 얼마입니까?⑶ 정우가 $36$이라고 답했다면 나은이가 내민 숫자 카드는 무엇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            23
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            464,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            52,
+            191,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            72,
+            390,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            100,
+            417,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            118
+          ],
+          "text": "나은이와 정우는 규칙 알아맞히기 놀이를 하였습니다. 나은이가 숫자 카드 $1$을 내면 정우는 $5$라고 답하고, 숫자 카드 $3$을 내면 $7$이라고 답하였습니다. 또 숫자 카드 $5$를 내면 $9$라고 답하였습니다. 물음에 답하시오.⑴ 정우의 규칙은 무엇입니까?⑵ 나은이가 숫자 카드 $7$을 내면 정우가 답한 수는 얼마입니까?⑶ 정우가 $36$이라고 답했다면 나은이가 내민 숫자 카드는 무엇입니까?"
+        }
+      ]
+    }
+  ]
+}

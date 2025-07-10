@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_25549.png",
+  "id": "00042_25549",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102010",
+      "question_topic_name": "직사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 6 cm이고 세로의 길이가 3 cm인 직사각형 3개를 길이가 3 cm인 변을 겹치지 않게 붙여놓은 도형",
+      "question_text": "그림과 같이 크기가 같은 직사각형 $3$개를 겹치지 않게 붙여 놓았습니다. 굵은 선의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            606,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            213,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            608,
+            21
+          ],
+          "text": "그림과 같이 크기가 같은 직사각형 $3$개를 겹치지 않게 붙여 놓았습니다. 굵은 선의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

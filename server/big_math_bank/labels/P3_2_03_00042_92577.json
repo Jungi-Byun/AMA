@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00042_92577.png",
+  "id": "00042_92577",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 원에 길이가 6 cm인 지름과 길이가 3 cm인 반지름이 있고, 지름과 원이 만나는 한 점과 반지름과 원이 만나는 점을 연결한 현의 길이가 4 cm인 도형",
+      "question_text": "다음 원과 크기가 같은 원을 그리려고 합니다. 컴퍼스를 몇 $cm$가 되도록 벌려야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            514,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            149,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            516,
+            21
+          ],
+          "text": "다음 원과 크기가 같은 원을 그리려고 합니다. 컴퍼스를 몇 $cm$가 되도록 벌려야 합니까?"
+        }
+      ]
+    }
+  ]
+}

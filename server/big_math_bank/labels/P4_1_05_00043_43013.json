@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_05_00043_43013.png",
+  "id": "00043_43013",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연주의 어머니께서는 건강을 위해 한 끼 식사를 $600kcal$가 넘지 않게 드시려고 합니다. 음식별 열량을 나타낸 막대그래프를 보고 다음 중 한 끼 식사로 먹으면 안 되는 음식을 모두 찾아 쓰시오. (단, 음식을 남기지 않습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            496,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            315,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            41
+          ],
+          "text": "연주의 어머니께서는 건강을 위해 한 끼 식사를 $600kcal$가 넘지 않게 드시려고 합니다. 음식별 열량을 나타낸 막대그래프를 보고 다음 중 한 끼 식사로 먹으면 안 되는 음식을 모두 찾아 쓰시오. (단, 음식을 남기지 않습니다.)"
+        }
+      ]
+    }
+  ]
+}

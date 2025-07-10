@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_05_00043_58399.png",
+  "id": "00043_58399",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "막대그래프로 나타내기 좋은 경우와 꺾은선그래프로 나타내기 좋은 경우를 골라 그 기호를 찾아 쓰시오. ㉠ 나이별 나의 키 ㉡ 올림픽에서 나라별 금메달의 수 ㉢ 학교별 학생 수 ㉣ 일주일 동안 양동이의 물이 줄어든 양 ㉤ 개월 수에 따른 아기의 몸무게 막대그래프 ( )  꺾은선그래프 ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            600,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            134,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            58,
+            223,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            74,
+            131,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            96,
+            255,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            118,
+            216,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            205,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            170,
+            218,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            187
+          ],
+          "text": "막대그래프로 나타내기 좋은 경우와 꺾은선그래프로 나타내기 좋은 경우를 골라 그 기호를 찾아 쓰시오. ㉠ 나이별 나의 키 ㉡ 올림픽에서 나라별 금메달의 수 ㉢ 학교별 학생 수 ㉣ 일주일 동안 양동이의 물이 줄어든 양 ㉤ 개월 수에 따른 아기의 몸무게 막대그래프 ( )  꺾은선그래프 ( )"
+        }
+      ]
+    }
+  ]
+}

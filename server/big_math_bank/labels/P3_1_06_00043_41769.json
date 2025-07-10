@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_41769.png",
+  "id": "00043_41769",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "축구는 발로 공을 차서 상대방의 골에 공을 넣어 승부를 겨루는 경기입니다. 국제 축구 연맹에서 정한 축구장의 크기는 국제경기시 길이는 $ 100 \\mathrm{~m} \\sim 110 \\mathrm{~m} $, 너비는 $ 64 \\mathrm{~m} \\sim 75 \\mathrm{~m} $입니다. 보통 초등학교 축구장의 크기는 성인 축구장 크기의 $ \\frac{2}{3} $라고 합니다. 성인 축구장을 다음과 같은 사각형으로 나타낼 때, 초등학교 축구장의 크기만큼 사각형을 나누고 색칠하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            792,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            63,
+            476,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            794,
+            147
+          ],
+          "text": "축구는 발로 공을 차서 상대방의 골에 공을 넣어 승부를 겨루는 경기입니다. 국제 축구 연맹에서 정한 축구장의 크기는 국제경기시 길이는 $ 100 \\mathrm{~m} \\sim 110 \\mathrm{~m} $, 너비는 $ 64 \\mathrm{~m} \\sim 75 \\mathrm{~m} $입니다. 보통 초등학교 축구장의 크기는 성인 축구장 크기의 $ \\frac{2}{3} $라고 합니다. 성인 축구장을 다음과 같은 사각형으로 나타낼 때, 초등학교 축구장의 크기만큼 사각형을 나누고 색칠하시오."
+        }
+      ]
+    }
+  ]
+}

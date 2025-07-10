@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_42149.png",
+  "id": "00043_42149",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물음에 답하시오. ⑴ 피자의 $\\frac{5}{6}$와 $\\frac{1}{6}$만큼을 각각 색칠해 보시오. ⑵  $\\frac{5}{6}$는$\\frac{1}{6}$의 몇 배라고 생각합니까? ⑶ $\\frac{5}{6}$는 $\\frac{1}{6}$이 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            116,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            291,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            259,
+            241,
+            293
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            300,
+            186,
+            334
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            71,
+            284,
+            237
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.51,
+            0,
+            289.51,
+            57.28
+          ],
+          "text": "물음에 답하시오. ⑴ 피자의 $\\frac{5}{6}$와 $\\frac{1}{6}$만큼을 각각 색칠해 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.51,
+            258.24,
+            239.59,
+            337.6
+          ],
+          "text": "⑵  $\\frac{5}{6}$는$\\frac{1}{6}$의 몇 배라고 생각합니까? ⑶ $\\frac{5}{6}$는 $\\frac{1}{6}$이 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

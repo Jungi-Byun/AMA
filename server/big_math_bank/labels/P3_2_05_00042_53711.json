@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00042_53711.png",
+  "id": "00042_53711",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\square $ 안에 알맞은 수를 써넣으시오.(1)$ 1kg  500g= \\square g$(2) $4300g= \\square kg \\square g$ (3) $5kg  90g= \\square g$(4) $7710g= \\square kg \\square g$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            189,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            213,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            185,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            86,
+            208,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            215,
+            108
+          ],
+          "text": "$ \\square $ 안에 알맞은 수를 써넣으시오.(1)$ 1kg  500g= \\square g$(2) $4300g= \\square kg \\square g$ (3) $5kg  90g= \\square g$(4) $7710g= \\square kg \\square g$"
+        }
+      ]
+    }
+  ]
+}

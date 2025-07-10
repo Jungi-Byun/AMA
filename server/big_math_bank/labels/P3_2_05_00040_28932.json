@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00040_28932.png",
+  "id": "00040_28932",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그릇 가에 가득 든 물을 수조에 옮겨 담았더니 절반이 되었고, 그 수조에 가득 든 물을 그릇 나에 옮겨 담았더니 절반이 되었습니다. 그릇 나의 들이는 가의 들이의 몇 배입니까? ①$2$배 ②$3$배 ③$4$배 ④$5$배 ⑤$6$배",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            224,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            65,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            65,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            65,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            64,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            65,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            152
+          ],
+          "text": "그릇 가에 가득 든 물을 수조에 옮겨 담았더니 절반이 되었고, 그 수조에 가득 든 물을 그릇 나에 옮겨 담았더니 절반이 되었습니다. 그릇 나의 들이는 가의 들이의 몇 배입니까? ①$2$배 ②$3$배 ③$4$배 ④$5$배 ⑤$6$배"
+        }
+      ]
+    }
+  ]
+}

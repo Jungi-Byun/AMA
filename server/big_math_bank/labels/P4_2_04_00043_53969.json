@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_53969.png",
+  "id": "00043_53969",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204010",
+      "question_topic_name": "사다리꼴 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사각형에서 어느 부분을 잘라 내면 사다리꼴이 되는지 $<$보기$>$와 같이 선분을 그어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            526,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            30,
+            321,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            529,
+            21
+          ],
+          "text": "사각형에서 어느 부분을 잘라 내면 사다리꼴이 되는지 $<$보기$>$와 같이 선분을 그어 보시오."
+        }
+      ]
+    }
+  ]
+}

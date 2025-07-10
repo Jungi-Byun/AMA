@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00042_53655.png",
+  "id": "00042_53655",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이가 $1L$보다 많은 그릇을 모두 찾아 기호를 쓰시오. ㉠ 물컵 ㉡ 세숫대야 ㉢ 종이컵 ㉣ 양동이 ㉤ 석유통 ㉥ 밥공기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            317,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            234,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            57,
+            237,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            79
+          ],
+          "text": "들이가 $1L$보다 많은 그릇을 모두 찾아 기호를 쓰시오. ㉠ 물컵 ㉡ 세숫대야 ㉢ 종이컵 ㉣ 양동이 ㉤ 석유통 ㉥ 밥공기"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_03_00043_36385.png",
+  "id": "00043_36385",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도토리 $20$개를 주워 왔습니다. 한 아이가 $5$개씩 주워 왔다면 몇 명이 주워 왔는지 알아보시오.   (1) 도토리 $20$개를 $5$개씩 묶고 곱셈식으로 나타내시오. $5×\\square=\\square $ (2) 도토리를 몇 명이 주워 왔는지 나눗셈식으로 나타내시오. $20÷5=\\square$  (3) 도토리를 몇 명이 주워 왔습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            545,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            152,
+            326,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            175,
+            163,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            199,
+            359,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            219,
+            113,
+            240
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            243,
+            229,
+            260
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            24,
+            163,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            547,
+            23
+          ],
+          "text": "도토리 $20$개를 주워 왔습니다. 한 아이가 $5$개씩 주워 왔다면 몇 명이 주워 왔는지 알아보시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            154,
+            361,
+            261
+          ],
+          "text": "(1) 도토리 $20$개를 $5$개씩 묶고 곱셈식으로 나타내시오. $5×\\square=\\square $ (2) 도토리를 몇 명이 주워 왔는지 나눗셈식으로 나타내시오. $20÷5=\\square$  (3) 도토리를 몇 명이 주워 왔습니까?"
+        }
+      ]
+    }
+  ]
+}

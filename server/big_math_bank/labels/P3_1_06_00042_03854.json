@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00042_03854.png",
+  "id": "00042_03854",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수나 말을 써넣으시오. 전체에 대하여 색칠한 부분의 크기는 분수로 $\\frac{\\square}{\\square}$이라 쓰고, $\\square$이라고 읽습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            233,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.66,
+            87.49,
+            538.06,
+            127.81
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            82,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.02,
+            0,
+            233.42,
+            16.45
+          ],
+          "text": "$\\square$ 안에 알맞은 수나 말을 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            85.57,
+            538.06,
+            127.81
+          ],
+          "text": "전체에 대하여 색칠한 부분의 크기는 분수로 $\\frac{\\square}{\\square}$이라 쓰고, $\\square$이라고 읽습니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_06_00040_23094.png",
+  "id": "00040_23094",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형은 정오각형입니다. 각 $㉠$의 크기는 얼마입니까?  ①$108$° ②$120°$ ③$145$° ④$160° ⑤175$°",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            316,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            132,
+            73,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            157,
+            72,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            179,
+            70,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            201,
+            72,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            223,
+            69,
+            243
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            139,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            318,
+            24
+          ],
+          "text": "도형은 정오각형입니다. 각 $㉠$의 크기는 얼마입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            134,
+            75,
+            244
+          ],
+          "text": "①$108$° ②$120°$ ③$145$° ④$160° ⑤175$°"
+        }
+      ]
+    }
+  ]
+}

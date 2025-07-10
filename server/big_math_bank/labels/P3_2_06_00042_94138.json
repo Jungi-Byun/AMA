@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_06_00042_94138.png",
+  "id": "00042_94138",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "반별로 모은 헌 종이의 무게를 조사하여 나타낸 표와 그림그래프입니다. $2$ 반에서 모은 헌종이는 몇 $\\mathrm{kg}$ 입니까? $(\\mathrm{kg})$ <table border> <caption>반별 모은 현 종이의 무게</caption>   <tbody>     <tr>     </tr>     <tr>       <td>반</td>       <td>1</td>       <td>2</td>       <td>3</td>       <td>4</td>       <td>합계</td>     </tr>     <tr>       <td>무게(kg)</td>       <td>21</td>       <td>32</td>       <td>25</td>       <td>30</td>       <td>108</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            634,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            120,
+            32,
+            239,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            45,
+            321,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            76,
+            119,
+            286,
+            277
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            638,
+            105
+          ],
+          "text": "반별로 모은 헌 종이의 무게를 조사하여 나타낸 표와 그림그래프입니다. $2$ 반에서 모은 헌종이는 몇 $\\mathrm{kg}$ 입니까? $(\\mathrm{kg})$ <table border> <caption>반별 모은 현 종이의 무게</caption>   <tbody>     <tr>     </tr>     <tr>       <td>반</td>       <td>1</td>       <td>2</td>       <td>3</td>       <td>4</td>       <td>합계</td>     </tr>     <tr>       <td>무게(kg)</td>       <td>21</td>       <td>32</td>       <td>25</td>       <td>30</td>       <td>108</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

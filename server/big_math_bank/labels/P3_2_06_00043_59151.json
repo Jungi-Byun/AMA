@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_06_00043_59151.png",
+  "id": "00043_59151",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지도에 사용된 기호 (논), (밭), (공장), (도청)을 세어 표로 나타내고 이 고장의 자연환경은 들과 바다 중 무엇인지 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            765,
+            20
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            31,
+            324,
+            248
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            767,
+            22
+          ],
+          "text": "지도에 사용된 기호 (논), (밭), (공장), (도청)을 세어 표로 나타내고 이 고장의 자연환경은 들과 바다 중 무엇인지 쓰시오."
+        }
+      ]
+    }
+  ]
+}

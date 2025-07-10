@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_03_00043_53334.png",
+  "id": "00043_53334",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "컴퍼스를 사용하여 주어진 원과 크기가 같은 원을 그리려고 합니다. 물음에 답하시오. ⑴ 원의 반지름을 나타내고 길이를 재어 보시오. ⑵ 크기가 같은 원을 그릴 수 있도록 컴퍼스를 바르게 벌린 것의 기호를 써 보시오. ⑶ 크기가 같은 원을 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            497,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            200,
+            287,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            222,
+            478,
+            239
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            364,
+            208,
+            381
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            191,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            250,
+            322,
+            355
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.28,
+            0,
+            498.28,
+            15
+          ],
+          "text": "컴퍼스를 사용하여 주어진 원과 크기가 같은 원을 그리려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.28,
+            200,
+            478.28,
+            239
+          ],
+          "text": "⑴ 원의 반지름을 나타내고 길이를 재어 보시오. ⑵ 크기가 같은 원을 그릴 수 있도록 컴퍼스를 바르게 벌린 것의 기호를 써 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.28,
+            365,
+            210.28,
+            381
+          ],
+          "text": "⑶ 크기가 같은 원을 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

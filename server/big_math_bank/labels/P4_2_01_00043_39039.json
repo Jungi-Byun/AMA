@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_01_00043_39039.png",
+  "id": "00043_39039",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "삼각형 꼭짓점이 문구점, 아영이네 집, 서점이고 문구점과 아영이네 집 사이의 거리는 12분의 9 km, 아영이네 집과 서점 사이의 거리는 12분의 11 km로 삼각형의 밑변이며, 문구점과 서점 사이의 거리는 12분의 5 km인 지도",
+      "question_text": "아영이네 집에서 문구점을 거쳐 서점까지 가는 거리는 집에서 바로 서점으로 가는 거리보다 몇 $km$ 더 멉니까? ⑴ 집에서 문구점을 거쳐 서점까지 가는 거리는 몇 $km$입니까?⑵ 집에서 문구점을 거쳐 서점까지 가는 거리는 집에서 바로 서점으로 가는 거리보다 몇 $km$ 더 멉니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            637,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            180,
+            369,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            201,
+            599,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            30,
+            290,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.28,
+            0.36,
+            638.28,
+            16.36
+          ],
+          "text": "아영이네 집에서 문구점을 거쳐 서점까지 가는 거리는 집에서 바로 서점으로 가는 거리보다 몇 $km$ 더 멉니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.36,
+            182.71,
+            598.2,
+            221.11
+          ],
+          "text": "⑴ 집에서 문구점을 거쳐 서점까지 가는 거리는 몇 $km$입니까?⑵ 집에서 문구점을 거쳐 서점까지 가는 거리는 집에서 바로 서점으로 가는 거리보다 몇 $km$ 더 멉니까?"
+        }
+      ]
+    }
+  ]
+}

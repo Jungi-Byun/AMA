@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00043_56033.png",
+  "id": "00043_56033",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자석의 양쪽 끝 부분에 클립을 가장 길게 이어 붙일 수 있습니다. 용화는 자석의 양쪽 끝 부분에 클립을 최대한 길게 이어 붙였더니 $ 9 \\frac{3}{5} $ $cm$가 되었습니다. 이 자석의 $㉠$ 부분에 붙는 클립 하나의 길이가 될 수 있는 길이를 찾아 $\\bigcirc$표 하시오.  $ \\frac{64}{5} \\mathrm{~cm}  \\frac{80}{5} \\mathrm{~cm}  \\frac{16}{5} \\mathrm{~cm} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            747,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            23,
+            626,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            230,
+            316,
+            265
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            74,
+            234,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            749,
+            58
+          ],
+          "text": "자석의 양쪽 끝 부분에 클립을 가장 길게 이어 붙일 수 있습니다. 용화는 자석의 양쪽 끝 부분에 클립을 최대한 길게 이어 붙였더니 $ 9 \\frac{3}{5} $ $cm$가 되었습니다. 이 자석의 $㉠$ 부분에 붙는 클립 하나의 길이가 될 수 있는 길이를 찾아 $\\bigcirc$표 하시오.  $ \\frac{64}{5} \\mathrm{~cm}  \\frac{80}{5} \\mathrm{~cm}  \\frac{16}{5} \\mathrm{~cm} $"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            28,
+            228,
+            318,
+            267
+          ],
+          "text": null
+        }
+      ]
+    }
+  ]
+}

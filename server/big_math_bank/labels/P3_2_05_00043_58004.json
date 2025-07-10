@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58004.png",
+  "id": "00043_58004",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "호른의 무게를 더 가깝게 어림한 사람은 누구입니까? <table border> <colgroup> <col style=\"width: 60.2px\"> <col style=\"width: 110.2px\"> </colgroup> <tbody>   <tr>     <td>태경</td>     <td>약 $2700g$</td>   </tr>   <tr>     <td>주희</td>     <td>약 $270kg$</td>   </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            317,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            158,
+            247,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            73,
+            30,
+            194,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            22
+          ],
+          "text": "호른의 무게를 더 가깝게 어림한 사람은 누구입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            26,
+            156,
+            249,
+            228
+          ],
+          "text": "<table border> <colgroup> <col style=\"width: 60.2px\"> <col style=\"width: 110.2px\"> </colgroup> <tbody>   <tr>     <td>태경</td>     <td>약 $2700g$</td>   </tr>   <tr>     <td>주희</td>     <td>약 $270kg$</td>   </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

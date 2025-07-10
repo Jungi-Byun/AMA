@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_05_00043_42640.png",
+  "id": "00043_42640",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수목원에 있는 나무의 종류와 수를 조사하여 나타낸 막대그래프입니다. 느티나무가 가장 많고, 소나무가 가장 적고 목련의 수는 $4$의 단의 곱입니다. 목련은 몇 그루인지 구하시오. (다만, 종류별 나무의 수는 서로 다릅니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            475,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            52,
+            320,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.23,
+            0,
+            803.23,
+            40.65
+          ],
+          "text": "수목원에 있는 나무의 종류와 수를 조사하여 나타낸 막대그래프입니다. 느티나무가 가장 많고, 소나무가 가장 적고 목련의 수는 $4$의 단의 곱입니다. 목련은 몇 그루인지 구하시오. (다만, 종류별 나무의 수는 서로 다릅니다.)"
+        }
+      ]
+    }
+  ]
+}

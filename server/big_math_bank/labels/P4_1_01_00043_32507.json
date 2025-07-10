@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_01_00043_32507.png",
+  "id": "00043_32507",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101004",
+      "question_topic_name": "십만, 백만, 천만 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어머니께서 $8$월 달 전기 요금으로 내신 돈입니다. 전기 요금은 모두 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            471,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            27,
+            312,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            473,
+            24
+          ],
+          "text": "어머니께서 $8$월 달 전기 요금으로 내신 돈입니다. 전기 요금은 모두 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

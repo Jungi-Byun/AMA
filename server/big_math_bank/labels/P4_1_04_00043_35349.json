@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_04_00043_35349.png",
+  "id": "00043_35349",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "왼쪽 도형을 와 같이 돌린 도형입니다. 알맞은 말에 $\\bigcirc$표 하시오. 주어진 도형을 와 같이 돌린 도형은 처음 도형과 (같습니다, 다릅니다).",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            16.49,
+            0.2,
+            408.99,
+            31.45
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.99,
+            116.45,
+            442.74,
+            145.2
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21.49,
+            29.61,
+            235.24,
+            117.11
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.74,
+            0.86,
+            407.74,
+            30.86
+          ],
+          "text": "왼쪽 도형을 와 같이 돌린 도형입니다. 알맞은 말에 $\\bigcirc$표 하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.99,
+            116.45,
+            442.74,
+            145.2
+          ],
+          "text": "주어진 도형을 와 같이 돌린 도형은 처음 도형과 (같습니다, 다릅니다)."
+        }
+      ]
+    }
+  ]
+}

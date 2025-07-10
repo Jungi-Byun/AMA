@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_06_00043_59136.png",
+  "id": "00043_59136",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영진이네 반 학생들의 혈액형을 조사한 표입니다. 혈액형을 $4$종류로 나누었을 때 다음과 같이 수혈할 수 있다면 $A$형인 학생에게 수혈할 수 있는 학생은 모두 몇 명입니까? (단, 같은 혈액형끼리는 수혈할 수 있습니다.) 혈액형별 학생 수 <table border> <colgroup> <col style=\"width: 55.2px\"> <col style=\"width: 85.2px\"> <col style=\"width: 54.2px\"> <col style=\"width: 63.2px\"> <col style=\"width: 68.2px\"> <col style=\"width: 66.2px\"> </colgroup> <thead>   <tr>     <th>혈액형</th>     <th>$A$</th>     <th>$B$</th>     <th>$AB$</th>     <th>$O$</th>     <th>합계</th>   </tr> </thead> <tbody>   <tr>     <td>학생수</td>     <td>$9$</td>     <td>$7$</td>     <td>$4$</td>     <td>$13$</td>     <td>$33$</td>   </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            450,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            265,
+            117,
+            281
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            286,
+            211,
+            335
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            51,
+            211,
+            255
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            41
+          ],
+          "text": "영진이네 반 학생들의 혈액형을 조사한 표입니다. 혈액형을 $4$종류로 나누었을 때 다음과 같이 수혈할 수 있다면 $A$형인 학생에게 수혈할 수 있는 학생은 모두 몇 명입니까? (단, 같은 혈액형끼리는 수혈할 수 있습니다.)"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            264,
+            213,
+            335
+          ],
+          "text": "혈액형별 학생 수 <table border> <colgroup> <col style=\"width: 55.2px\"> <col style=\"width: 85.2px\"> <col style=\"width: 54.2px\"> <col style=\"width: 63.2px\"> <col style=\"width: 68.2px\"> <col style=\"width: 66.2px\"> </colgroup> <thead>   <tr>     <th>혈액형</th>     <th>$A$</th>     <th>$B$</th>     <th>$AB$</th>     <th>$O$</th>     <th>합계</th>   </tr> </thead> <tbody>   <tr>     <td>학생수</td>     <td>$9$</td>     <td>$7$</td>     <td>$4$</td>     <td>$13$</td>     <td>$33$</td>   </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

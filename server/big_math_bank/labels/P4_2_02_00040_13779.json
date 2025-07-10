@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_02_00040_13779.png",
+  "id": "00040_13779",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202007",
+      "question_topic_name": "정삼각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 정삼각형만을 모은 것은 어느 것입니까? ①㉠, ㉡  ②㉠, ㉢  ③㉡, ㉣  ④㉢, ㉣  ⑤㉡, ㉢",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            292,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            262,
+            78,
+            282
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            284,
+            78,
+            304
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            306,
+            78,
+            326
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            328,
+            78,
+            348
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.3,
+            243.57,
+            76.62,
+            260.85
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            22,
+            279,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            0.37,
+            291.66,
+            16.37
+          ],
+          "text": "다음 중 정삼각형만을 모은 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.3,
+            245.49,
+            77.9,
+            347.25
+          ],
+          "text": "①㉠, ㉡  ②㉠, ㉢  ③㉡, ㉣  ④㉢, ㉣  ⑤㉡, ㉢"
+        }
+      ]
+    }
+  ]
+}

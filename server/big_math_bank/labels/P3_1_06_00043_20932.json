@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_06_00043_20932.png",
+  "id": "00043_20932",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바르게 나타낸 것을 찾아 기호를 쓰시오.  ㉠$ 1 \\mathrm{~cm}   5 \\mathrm{~mm}=15 \\mathrm{~cm} $ ㉡$ 2.8 \\mathrm{~cm}=28 \\mathrm{~mm} $ ㉢$ 6 \\mathrm{~cm}=0.6 \\mathrm{~mm} $ ㉣$ 4 \\mathrm{~cm}   8 \\mathrm{~mm}=4.8 \\mathrm{~mm} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            141,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            52,
+            132,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            75,
+            124,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            98,
+            160,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            248,
+            116
+          ],
+          "text": "바르게 나타낸 것을 찾아 기호를 쓰시오.  ㉠$ 1 \\mathrm{~cm}   5 \\mathrm{~mm}=15 \\mathrm{~cm} $ ㉡$ 2.8 \\mathrm{~cm}=28 \\mathrm{~mm} $ ㉢$ 6 \\mathrm{~cm}=0.6 \\mathrm{~mm} $ ㉣$ 4 \\mathrm{~cm}   8 \\mathrm{~mm}=4.8 \\mathrm{~mm} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00043_55658.png",
+  "id": "00043_55658",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색종이 한 장의 $\\frac{1}{2}$조각이 ① , $\\frac{1}{4}$조각이 ② , $\\frac{1}{8}$조각이 ③ 입니다. ③ 으로 주어진 모양을 만들기 위해서는 모두 몇 개 필요한지 구하고, 이를 가분수로 나타내어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            200,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            76,
+            240,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            59
+          ],
+          "text": "색종이 한 장의 $\\frac{1}{2}$조각이 ① , $\\frac{1}{4}$조각이 ② , $\\frac{1}{8}$조각이 ③ 입니다. ③ 으로 주어진 모양을 만들기 위해서는 모두 몇 개 필요한지 구하고, 이를 가분수로 나타내어 보시오."
+        }
+      ]
+    }
+  ]
+}

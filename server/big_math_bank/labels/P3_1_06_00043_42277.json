@@ -1,0 +1,169 @@
+{
+  "question_filename": "P3_1_06_00043_42277.png",
+  "id": "00043_42277",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 분수의 크기를 비교하여 $\\bigcirc$ 안에 >, <를 알맞게 써넣으시오. (1) $ \\frac{1}{5} \\bigcirc \\frac{4}{5} $ (2) $ \\frac{6}{7} \\bigcirc \\frac{5}{7} $ (3) $ \\frac{1}{9} \\bigcirc \\frac{1}{6} $ (4) $ \\frac{1}{11} \\bigcirc \\frac{1}{111} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            370,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            93,
+            23,
+            114,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            56,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            62,
+            28,
+            89,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            56,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            62,
+            69,
+            89,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            93,
+            96,
+            114,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            105,
+            56,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            93,
+            106,
+            114,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            62,
+            110,
+            89,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            146,
+            64,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            102,
+            147,
+            141,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            61,
+            151,
+            98,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            372,
+            181
+          ],
+          "text": "두 분수의 크기를 비교하여 $\\bigcirc$ 안에 >, <를 알맞게 써넣으시오. (1) $ \\frac{1}{5} \\bigcirc \\frac{4}{5} $ (2) $ \\frac{6}{7} \\bigcirc \\frac{5}{7} $ (3) $ \\frac{1}{9} \\bigcirc \\frac{1}{6} $ (4) $ \\frac{1}{11} \\bigcirc \\frac{1}{111} $"
+        }
+      ]
+    }
+  ]
+}

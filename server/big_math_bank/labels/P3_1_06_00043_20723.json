@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_20723.png",
+  "id": "00043_20723",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준현이가 사용하고 있는 지우개의 짧은 쪽의 길이를 재어 보니 $8mm$였습니다. 이 지우개의 짧은 쪽의 길이는 $0.1cm$가 몇 개인 길이와 같습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            53,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            40
+          ],
+          "text": "준현이가 사용하고 있는 지우개의 짧은 쪽의 길이를 재어 보니 $8mm$였습니다. 이 지우개의 짧은 쪽의 길이는 $0.1cm$가 몇 개인 길이와 같습니까?"
+        }
+      ]
+    }
+  ]
+}

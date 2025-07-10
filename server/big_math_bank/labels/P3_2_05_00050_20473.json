@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00050_20473.png",
+  "id": "00050_20473",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "트럭 한 대에는 최대 $ 3 \\mathrm{t} $ 까지 실을 수 있습니다. 이 트럭에 한 상자의 무게가 $ 15 \\mathrm{~kg} $ 인 상자를 몇 개까지 실을 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            689,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            691,
+            21
+          ],
+          "text": "트럭 한 대에는 최대 $ 3 \\mathrm{t} $ 까지 실을 수 있습니다. 이 트럭에 한 상자의 무게가 $ 15 \\mathrm{~kg} $ 인 상자를 몇 개까지 실을 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

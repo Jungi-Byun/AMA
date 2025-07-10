@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_04_00043_46868.png",
+  "id": "00043_46868",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. (1) 1은 5의 $\\frac{ \\square}{5}$입니다. (2) 3은 5의 $\\frac{ \\square}{5}$입니다.  (3) 5는 5의 $\\frac{ \\square}{5}$입니다.   (4) 7은 5의 $\\frac{\\square}{5}$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            91,
+            158,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            139,
+            164,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            188,
+            163,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            235,
+            163,
+            277
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            29,
+            304,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            0,
+            275.1,
+            17.9
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.1,
+            89.9,
+            164.1,
+            277.9
+          ],
+          "text": "(1) 1은 5의 $\\frac{ \\square}{5}$입니다. (2) 3은 5의 $\\frac{ \\square}{5}$입니다.  (3) 5는 5의 $\\frac{ \\square}{5}$입니다.   (4) 7은 5의 $\\frac{\\square}{5}$입니다."
+        }
+      ]
+    }
+  ]
+}

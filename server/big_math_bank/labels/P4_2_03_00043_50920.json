@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50920.png",
+  "id": "00043_50920",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 소수 가, 나, 다가 있습니다. 가와 나의 합은 $5.54$, 나와 다의 합은 $3.555$, 다와 가의 합은 $2.905$입니다. 세 수 중에서 가장 큰 수와 가장 작은 수의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            149,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "세 소수 가, 나, 다가 있습니다. 가와 나의 합은 $5.54$, 나와 다의 합은 $3.555$, 다와 가의 합은 $2.905$입니다. 세 수 중에서 가장 큰 수와 가장 작은 수의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00042_26226.png",
+  "id": "00042_26226",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연필이 $24$자루 있습니다. 민수는 전체의 $ \\frac{1}{6} $을, 우진이는 민수가 가지고 남은 나머지의 $ \\frac{2}{5} $를 가졌습니다. 누가 몇 자루 더 많이 가졌습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            40,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            58
+          ],
+          "text": "연필이 $24$자루 있습니다. 민수는 전체의 $ \\frac{1}{6} $을, 우진이는 민수가 가지고 남은 나머지의 $ \\frac{2}{5} $를 가졌습니다. 누가 몇 자루 더 많이 가졌습니까?"
+        }
+      ]
+    }
+  ]
+}

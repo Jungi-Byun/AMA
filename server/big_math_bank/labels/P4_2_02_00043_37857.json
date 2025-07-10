@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_02_00043_37857.png",
+  "id": "00043_37857",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202001",
+      "question_topic_name": "삼각형의 변의 길이에 따라 분류하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "크기가 같은 정삼각형 9개를 겹치지 않게 이어 붙여 크기가 큰 역삼각형을 만든 도형",
+      "question_text": "다음 도형은 크기가 같은 정삼각형을 겹치지 않게 이어 붙여서 만든 것입니다. 이 도형에서 크고 작은 정삼각형은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            760,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            37,
+            154,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            762,
+            22
+          ],
+          "text": "다음 도형은 크기가 같은 정삼각형을 겹치지 않게 이어 붙여서 만든 것입니다. 이 도형에서 크고 작은 정삼각형은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

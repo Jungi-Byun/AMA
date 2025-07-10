@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_03_00043_50372.png",
+  "id": "00043_50372",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 조건을 모두 만족하는 소수 세 자리 수를 구하시오. ㉠ $10$보다 크고 $11$보다 작습니다.㉡ 소수 첫째 자리 숫자는 $0$입니다.㉢ 소수 둘째 자리 숫자는 소수 첫째 자리 숫자보다 $7$ 큽니다.㉣ 소수 셋째 자리 숫자는 소수 둘째 자리 숫자보다 $3$ 작습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            333,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            215,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            57,
+            225,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            74,
+            368,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            95,
+            383,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            424,
+            121
+          ],
+          "text": "다음 조건을 모두 만족하는 소수 세 자리 수를 구하시오. ㉠ $10$보다 크고 $11$보다 작습니다.㉡ 소수 첫째 자리 숫자는 $0$입니다.㉢ 소수 둘째 자리 숫자는 소수 첫째 자리 숫자보다 $7$ 큽니다.㉣ 소수 셋째 자리 숫자는 소수 둘째 자리 숫자보다 $3$ 작습니다."
+        }
+      ]
+    }
+  ]
+}

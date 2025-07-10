@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_41966.png",
+  "id": "00043_41966",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 조건을 만족하는 소수 한 자리 수($\\square,\\triangle$)를 구하시오. · $1.4$보다 크고 $3.3$보다 작습니다.· $0.1$이 $25$개인 수보다 큰 수입니다.· 소수점을 기준으로 오른쪽에 있는 숫자가 왼쪽에 있는 숫자의 $4$배입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            342,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            217,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            56,
+            233,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            75,
+            467,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            495,
+            97
+          ],
+          "text": "다음 조건을 만족하는 소수 한 자리 수($\\square,\\triangle$)를 구하시오. · $1.4$보다 크고 $3.3$보다 작습니다.· $0.1$이 $25$개인 수보다 큰 수입니다.· 소수점을 기준으로 오른쪽에 있는 숫자가 왼쪽에 있는 숫자의 $4$배입니다."
+        }
+      ]
+    }
+  ]
+}

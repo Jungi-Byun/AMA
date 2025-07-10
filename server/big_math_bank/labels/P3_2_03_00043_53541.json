@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53541.png",
+  "id": "00043_53541",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 변의 길이가 12 cm인 정사각형 안에 꼭 들어맞는 원이 있고, 정사각형의 윗변 오른쪽에 있는 한 점, 원의 중심, 아랫변 왼쪽에 있는 한 점을 이은 선분의 길이가 15 cm인 도형",
+      "question_text": "정사각형 안에 원을 그린 것입니다. 원의 반지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            384,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            28,
+            172,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            386,
+            21
+          ],
+          "text": "정사각형 안에 원을 그린 것입니다. 원의 반지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

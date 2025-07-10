@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00042_83386.png",
+  "id": "00042_83386",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101005",
+      "question_topic_name": "천만 단위 수의 각 자리의 숫자와 나타내는 값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밑줄 친 숫자 $1$이 $10$만을 나타내는 수는 어느 것입니까?①$28\\underline{1}005948$ ② $2\\underline{1}87059$ ③$ \\underline{1}0986000$ ④ $405\\underline{1}6945$ ⑤$ 27\\underline{1}890$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            332,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            116,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            97,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            111,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            106,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            90,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            334,
+            129
+          ],
+          "text": "밑줄 친 숫자 $1$이 $10$만을 나타내는 수는 어느 것입니까?①$28\\underline{1}005948$ ② $2\\underline{1}87059$ ③$ \\underline{1}0986000$ ④ $405\\underline{1}6945$ ⑤$ 27\\underline{1}890$"
+        }
+      ]
+    }
+  ]
+}

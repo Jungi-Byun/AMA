@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_23037.png",
+  "id": "00040_23037",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204017",
+      "question_topic_name": "마름모의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽 위, 아래 내각의 크기가 각각 110도, 70도이고, 70도를 만들고 수평으로 놓인 변의 길이가 12 cm, 이 변과 이웃한 변의 길이가 빈칸 네모 cm인 마름모",
+      "question_text": "다음 도형은 마름모입니다. $\\square$ 안에 들어갈 알맞은 수는 어느 것입니까? ①$12$ ②$40$ ③$70$ ④$110$ ⑤$120$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            421,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            121,
+            58,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            143,
+            62,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            165,
+            61,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            187,
+            64,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            209,
+            67,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            22,
+            161,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.23,
+            0,
+            423.23,
+            18.15
+          ],
+          "text": "다음 도형은 마름모입니다. $\\square$ 안에 들어갈 알맞은 수는 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            120,
+            69,
+            230
+          ],
+          "text": "①$12$ ②$40$ ③$70$ ④$110$ ⑤$120$"
+        }
+      ]
+    }
+  ]
+}

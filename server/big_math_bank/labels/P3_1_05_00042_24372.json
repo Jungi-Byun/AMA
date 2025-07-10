@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_05_00042_24372.png",
+  "id": "00042_24372",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "용민이네 집 근처에 있는 산 입구에서 정상까지의 거리는 $4$$km $$160$$m$입니다. 이 산 입구에서 정상까지 가려면 몇 $m$를 가야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            757,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            759,
+            20
+          ],
+          "text": "용민이네 집 근처에 있는 산 입구에서 정상까지의 거리는 $4$$km $$160$$m$입니다. 이 산 입구에서 정상까지 가려면 몇 $m$를 가야 합니까?"
+        }
+      ]
+    }
+  ]
+}

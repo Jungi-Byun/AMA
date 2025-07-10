@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00040_26862.png",
+  "id": "00040_26862",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중에서 크기가 가장 큰 원은 어느 것입니까? ①반지름이 $4 cm$인 원 ②지름이 $6 cm$인 원 ③반지름이 $8 cm$인 원 ④지름이 $10 cm$인 원 ⑤지름이 $20 cm$인 원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            295,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            155,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            142,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            155,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            148,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            151,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            297,
+            130
+          ],
+          "text": "다음 중에서 크기가 가장 큰 원은 어느 것입니까? ①반지름이 $4 cm$인 원 ②지름이 $6 cm$인 원 ③반지름이 $8 cm$인 원 ④지름이 $10 cm$인 원 ⑤지름이 $20 cm$인 원"
+        }
+      ]
+    }
+  ]
+}

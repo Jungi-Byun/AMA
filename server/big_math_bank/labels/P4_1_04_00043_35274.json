@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_04_00043_35274.png",
+  "id": "00043_35274",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104004",
+      "question_topic_name": "평면도형을 위쪽, 아래쪽으로 뒤집기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>에서 $\\square$ 안에 알맞은 말을 찾아 써넣으시오. <보기>왼쪽, 오른쪽, 위쪽, 아래쪽 (1) 도형을 왼쪽으로 뒤집으면 도형의 왼쪽과 $\\square$의 위치가 바뀝니다. (2) 도형을 아래쪽으로 뒤집으면 도형의 $\\square$과 아래쪽의 위치가 바뀝니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            24,
+            75,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            52,
+            183,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            494,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            102,
+            522,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            538,
+            124
+          ],
+          "text": "<보기>에서 $\\square$ 안에 알맞은 말을 찾아 써넣으시오. <보기>왼쪽, 오른쪽, 위쪽, 아래쪽 (1) 도형을 왼쪽으로 뒤집으면 도형의 왼쪽과 $\\square$의 위치가 바뀝니다. (2) 도형을 아래쪽으로 뒤집으면 도형의 $\\square$과 아래쪽의 위치가 바뀝니다."
+        }
+      ]
+    }
+  ]
+}

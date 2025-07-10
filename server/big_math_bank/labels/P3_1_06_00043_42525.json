@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_42525.png",
+  "id": "00043_42525",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오. $0.1$이 $8$개 $\\bigcirc 0.9$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            326,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            134,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            328,
+            51
+          ],
+          "text": "크기를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오. $0.1$이 $8$개 $\\bigcirc 0.9$"
+        }
+      ]
+    }
+  ]
+}

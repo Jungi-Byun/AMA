@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_05_00040_20517.png",
+  "id": "00040_20517",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 책가방의 무게를 바르게 나타낸 것은 어느 것입니까?  ① $2\\mathrm{kg}$  ② $2\\mathrm{kg} 100\\mathrm{g}$  ③ $2\\mathrm{kg} 250\\mathrm{g}$  ④ $2\\mathrm{kg} 500\\mathrm{g}$  ⑤ $2\\mathrm{kg} 800\\mathrm{g}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            363,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            200,
+            67,
+            220
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            222,
+            102,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            244,
+            103,
+            264
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            266,
+            104,
+            286
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            288,
+            105,
+            308
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            26,
+            133,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.46,
+            1.49,
+            363.34,
+            15.57
+          ],
+          "text": "다음 중 책가방의 무게를 바르게 나타낸 것은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.3,
+            202.45,
+            105.42,
+            308.05
+          ],
+          "text": "① $2\\mathrm{kg}$  ② $2\\mathrm{kg} 100\\mathrm{g}$  ③ $2\\mathrm{kg} 250\\mathrm{g}$  ④ $2\\mathrm{kg} 500\\mathrm{g}$  ⑤ $2\\mathrm{kg} 800\\mathrm{g}$"
+        }
+      ]
+    }
+  ]
+}

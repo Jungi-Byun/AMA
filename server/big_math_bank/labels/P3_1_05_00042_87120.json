@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_05_00042_87120.png",
+  "id": "00042_87120",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성훈이는 오전 $11$시 $37$분부터 $2$시간 동안 낮잠을 자고 일어났습니다. 성훈이가 잠에서 깬 시각은 오후 몇 시 몇 분입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            700,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            702,
+            21
+          ],
+          "text": "성훈이는 오전 $11$시 $37$분부터 $2$시간 동안 낮잠을 자고 일어났습니다. 성훈이가 잠에서 깬 시각은 오후 몇 시 몇 분입니까?"
+        }
+      ]
+    }
+  ]
+}

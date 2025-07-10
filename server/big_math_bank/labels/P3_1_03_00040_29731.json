@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00040_29731.png",
+  "id": "00040_29731",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $\\square$ 안에 들어갈 수가 나머지 넷과 다른 하나는 어느 것입니까?  ①$32÷\\square=8$ ②$24÷6=\\square$ ③$36÷\\square=9$ ④$4×\\square=20$ ⑤$\\square×3=12$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            412,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            97,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            96,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            97,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            98,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            94,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            414,
+            129
+          ],
+          "text": "다음 중 $\\square$ 안에 들어갈 수가 나머지 넷과 다른 하나는 어느 것입니까?  ①$32÷\\square=8$ ②$24÷6=\\square$ ③$36÷\\square=9$ ④$4×\\square=20$ ⑤$\\square×3=12$"
+        }
+      ]
+    }
+  ]
+}

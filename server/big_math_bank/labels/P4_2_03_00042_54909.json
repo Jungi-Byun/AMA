@@ -1,0 +1,199 @@
+{
+  "question_filename": "P4_2_03_00042_54909.png",
+  "id": "00042_54909",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203013",
+      "question_topic_name": "소수 두 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 계산하시오. (1)$ \\begin{array}{r}0.3 \\\\ + 0.2 \\\\ \\hline\\end{array} $ (2)$ \\begin{array}{r}0.5 \\\\ +0.6 \\\\ \\hline\\end{array} $ (3)$ \\begin{array}{r}0.7 \\\\ +0.8 \\\\ \\hline\\end{array} $ (4)$ \\begin{array}{r}0.34 \\\\ + 0.25 \\\\ \\hline\\end{array} $ (5)$ \\begin{array}{r}0.66 \\\\ + 0.31 \\\\ \\hline\\end{array} $ (6)$ \\begin{array}{r}0.81 \\\\ + 0.17 \\\\ \\hline\\end{array} $ (7) $0.3+0.9(8)0.7+0.6$(9) $0.4+0.6$(10) $0.5+0.9$(11) $0.9+0.7$(12) $0.16+0.43$(13) $0.52+0.37$(14)$ 0.53+0.46$(15) $0.34+0.24$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            129,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            16,
+            112,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            93,
+            92,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            163,
+            92,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            233,
+            100,
+            276
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            303,
+            99,
+            346
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            373,
+            101,
+            416
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            442,
+            90,
+            458
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            464,
+            91,
+            480
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            485,
+            91,
+            502
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            507,
+            97,
+            524
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            530,
+            93,
+            546
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            551,
+            109,
+            568
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            573,
+            110,
+            590
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            595,
+            112,
+            612
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            618,
+            112,
+            634
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            131,
+            635
+          ],
+          "text": "다음을 계산하시오. (1)$ \\begin{array}{r}0.3 \\\\ + 0.2 \\\\ \\hline\\end{array} $ (2)$ \\begin{array}{r}0.5 \\\\ +0.6 \\\\ \\hline\\end{array} $ (3)$ \\begin{array}{r}0.7 \\\\ +0.8 \\\\ \\hline\\end{array} $ (4)$ \\begin{array}{r}0.34 \\\\ + 0.25 \\\\ \\hline\\end{array} $ (5)$ \\begin{array}{r}0.66 \\\\ + 0.31 \\\\ \\hline\\end{array} $ (6)$ \\begin{array}{r}0.81 \\\\ + 0.17 \\\\ \\hline\\end{array} $ (7) $0.3+0.9(8)0.7+0.6$(9) $0.4+0.6$(10) $0.5+0.9$(11) $0.9+0.7$(12) $0.16+0.43$(13) $0.52+0.37$(14)$ 0.53+0.46$(15) $0.34+0.24$"
+        }
+      ]
+    }
+  ]
+}

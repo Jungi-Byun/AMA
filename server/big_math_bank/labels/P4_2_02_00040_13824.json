@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_02_00040_13824.png",
+  "id": "00040_13824",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202001",
+      "question_topic_name": "삼각형의 변의 길이에 따라 분류하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 방법으로 삼각형을 그려나간다면 다섯 번째에 그려진 도형에서 찾을 수 있는 크고 작은 정삼각형은 몇 개입니까?  ①$25$개 ②$38$개 ③$44$개 ④$48$개 ⑤$52$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            723,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            72,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            73,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            190,
+            73,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            212,
+            73,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            234,
+            72,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            24,
+            328,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.38,
+            0.49,
+            724.44,
+            16.78
+          ],
+          "text": "다음과 같은 방법으로 삼각형을 그려나간다면 다섯 번째에 그려진 도형에서 찾을 수 있는 크고 작은 정삼각형은 몇 개입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.1,
+            146.24,
+            73.51,
+            253.07
+          ],
+          "text": "①$25$개 ②$38$개 ③$44$개 ④$48$개 ⑤$52$개"
+        }
+      ]
+    }
+  ]
+}

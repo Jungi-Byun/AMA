@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50563.png",
+  "id": "00043_50563",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203015",
+      "question_topic_name": "소수 두 자리 수의 덧셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "산이 있는 그림 위에 등산로 입구부터 오른쪽 위로 1.74 km 위치에 약수터가 있고, 약수터로부터 오른쪽 위로, 등산로 입구부터 약수터까지의 경사보다 심하고 2.95 km 거리에 산 정상이 있는 그림",
+      "question_text": "정하가 부모님과 함께 등산을 하려고 합니다. 정하가 등산로 입구에서부터 약수터를 지나 산 정상까지 걷는 거리는 모두 몇 $ \\mathrm{km} $ 입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            775,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            31,
+            301,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            777,
+            23
+          ],
+          "text": "정하가 부모님과 함께 등산을 하려고 합니다. 정하가 등산로 입구에서부터 약수터를 지나 산 정상까지 걷는 거리는 모두 몇 $ \\mathrm{km} $ 입니까?"
+        }
+      ]
+    }
+  ]
+}

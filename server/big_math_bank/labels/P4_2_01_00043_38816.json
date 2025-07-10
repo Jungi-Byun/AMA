@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_01_00043_38816.png",
+  "id": "00043_38816",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201011",
+      "question_topic_name": "분모가 같은 대분수끼리 뺄셈에서 대분수를 가분수로 바꿔서 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "오늘 양호실에서는 소화제 $ 2 \\frac{7}{8} $ 통 중에서 $ 1 \\frac{5}{8} $ 통을 사용했습니다. 남은 소화제는 몇 통인지 알아보시오. (1) $ \\square $ 안에 알맞은 수를 써넣으시오. $2 \\frac{7}{8}-1 \\frac{5}{8}=(\\square-\\square)+\\left(\\frac{\\square}{8}-\\frac{\\square}{8}\\right) =\\square+\\frac{\\square}{8}=\\square \\frac{\\square}{8} $ (2)남은 소화제는 몇 통입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            3,
+            615,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            219,
+            220,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            238,
+            228,
+            279
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            279,
+            191,
+            318
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            341,
+            195,
+            358
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            50,
+            289,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            617,
+            39
+          ],
+          "text": "오늘 양호실에서는 소화제 $ 2 \\frac{7}{8} $ 통 중에서 $ 1 \\frac{5}{8} $ 통을 사용했습니다. 남은 소화제는 몇 통인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            218,
+            230,
+            359
+          ],
+          "text": "(1) $ \\square $ 안에 알맞은 수를 써넣으시오. $2 \\frac{7}{8}-1 \\frac{5}{8}=(\\square-\\square)+\\left(\\frac{\\square}{8}-\\frac{\\square}{8}\\right) =\\square+\\frac{\\square}{8}=\\square \\frac{\\square}{8} $ (2)남은 소화제는 몇 통입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00043_51736.png",
+  "id": "00043_51736",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈을 하고 검산하시오.⑴ $ 37 \\div 4=\\square \\cdots \\square $ $ \\Rightarrow $ <검산>$ \\square $   ×$ \\square $  +$ \\square $   =$ \\square $  ⑵ $ 44 \\div 6=\\square \\cdots \\square $ $ \\Rightarrow $ <검산> $ \\square $  ×$ \\square $  +$ \\square $   =$ \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            171,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            147,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            51,
+            251,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            149,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            109,
+            251,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            253,
+            136
+          ],
+          "text": "나눗셈을 하고 검산하시오.⑴ $ 37 \\div 4=\\square \\cdots \\square $ $ \\Rightarrow $ <검산>$ \\square $   ×$ \\square $  +$ \\square $   =$ \\square $  ⑵ $ 44 \\div 6=\\square \\cdots \\square $ $ \\Rightarrow $ <검산> $ \\square $  ×$ \\square $  +$ \\square $   =$ \\square $"
+        }
+      ]
+    }
+  ]
+}

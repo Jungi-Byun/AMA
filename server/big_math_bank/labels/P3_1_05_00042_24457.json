@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_05_00042_24457.png",
+  "id": "00042_24457",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "초바늘이 가리키는 숫자와 초를 잘못 짝지은 것은 어느 것입니까?  ① $ 1 \\rightarrow 5 $ 초 ② $4 \\rightarrow 20$ 초  ③ $ 7 \\rightarrow 35 $ 초 ④ $ 8 \\rightarrow 40 $ 초 ⑤ $ 10 \\rightarrow 10 $ 초",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            388,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            88,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            101,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            98,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            100,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            105,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            130
+          ],
+          "text": "초바늘이 가리키는 숫자와 초를 잘못 짝지은 것은 어느 것입니까?  ① $ 1 \\rightarrow 5 $ 초 ② $4 \\rightarrow 20$ 초  ③ $ 7 \\rightarrow 35 $ 초 ④ $ 8 \\rightarrow 40 $ 초 ⑤ $ 10 \\rightarrow 10 $ 초"
+        }
+      ]
+    }
+  ]
+}

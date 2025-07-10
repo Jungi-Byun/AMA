@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_02_00040_43186.png",
+  "id": "00040_43186",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102004",
+      "question_topic_name": "각 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 각을 바르게 읽은 것을 모두 고르시오.  ①각 $ㄴㄷㄹ $ ②각 $ㄷㄱㄴ $ ③각 $ㄱㄴㄷ $ ④각 $ㄷㄴㄱ $ ⑤각 $ㄱㄷㄴ$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            262,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            143,
+            98,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            165,
+            98,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            187,
+            98,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            209,
+            97,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            231,
+            98,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            24,
+            141,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.57,
+            1.98,
+            262.76,
+            17.4
+          ],
+          "text": "다음 각을 바르게 읽은 것을 모두 고르시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.32,
+            144.94,
+            97.84,
+            252.32
+          ],
+          "text": "①각 $ㄴㄷㄹ $ ②각 $ㄷㄱㄴ $ ③각 $ㄱㄴㄷ $ ④각 $ㄷㄴㄱ $ ⑤각 $ㄱㄷㄴ$"
+        }
+      ]
+    }
+  ]
+}

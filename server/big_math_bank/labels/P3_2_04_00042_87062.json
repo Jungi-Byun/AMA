@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_04_00042_87062.png",
+  "id": "00042_87062",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$9$ 의 $ \\frac{1}{3} $은 몇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            140,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            142,
+            38
+          ],
+          "text": "$9$ 의 $ \\frac{1}{3} $은 몇입니까?"
+        }
+      ]
+    }
+  ]
+}

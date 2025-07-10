@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00043_46842.png",
+  "id": "00043_46842",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "꼭짓점이 곡선인 직사각형 모양의 내부에 가로, 세로 간격이 일정하게 놓인 같은 농구공이 가로로 3 줄이고 세로로 7줄로 21개가 있는 그림",
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. (1) 8은 21의 $\\frac{\\square}{\\square}$ 입니다.(2) 13은 21의$\\frac{\\square}{\\square}$ 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            274,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            138,
+            177,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            186,
+            185,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            29,
+            277,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            0.14,
+            275.17,
+            19.14
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            137.14,
+            187.17,
+            232.14
+          ],
+          "text": "(1) 8은 21의 $\\frac{\\square}{\\square}$ 입니다.(2) 13은 21의$\\frac{\\square}{\\square}$ 입니다."
+        }
+      ]
+    }
+  ]
+}

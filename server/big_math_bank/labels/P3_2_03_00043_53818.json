@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53818.png",
+  "id": "00043_53818",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203008",
+      "question_topic_name": "원을 이용하여 여러 가지 모양 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 모양을 그리기 위하여 컴퍼스의 침을 꽂아야 할 곳은 모두 몇 군데입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            505,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            30,
+            152,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            507,
+            21
+          ],
+          "text": "다음과 같은 모양을 그리기 위하여 컴퍼스의 침을 꽂아야 할 곳은 모두 몇 군데입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00043_51254.png",
+  "id": "00043_51254",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$17÷3$을 어떻게 계산하는지 알아보시오. ⑴ 낱개 모형 $17$ 개를 한 묶음에 $3$ 개씩 똑같이 묶어 보시오. ⑵ $\\square$묶음이 되고, $\\square$개가 남습니다. ⑶ $17÷3$의 몫과 나머지는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            241,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            136,
+            345,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            158,
+            254,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            187,
+            236,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            33,
+            312,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            243,
+            22
+          ],
+          "text": "$17÷3$을 어떻게 계산하는지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            135,
+            347,
+            205
+          ],
+          "text": "⑴ 낱개 모형 $17$ 개를 한 묶음에 $3$ 개씩 똑같이 묶어 보시오. ⑵ $\\square$묶음이 되고, $\\square$개가 남습니다. ⑶ $17÷3$의 몫과 나머지는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

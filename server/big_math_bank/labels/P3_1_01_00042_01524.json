@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_01_00042_01524.png",
+  "id": "00042_01524",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수현이는 $370$원짜리 도화지를 사고 $500원$을 냈습니다. 거스름돈으로 얼마를 받아야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            546,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            548,
+            21
+          ],
+          "text": "수현이는 $370$원짜리 도화지를 사고 $500원$을 냈습니다. 거스름돈으로 얼마를 받아야 합니까?"
+        }
+      ]
+    }
+  ]
+}

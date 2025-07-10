@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_04_00040_19623.png",
+  "id": "00040_19623",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림을 보고 $20$의 $ \\frac{3}{4} $을 구하면 얼마입니까?  ①$5$ ②$10$ ③$15$ ④$20$ ⑤$25$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            115,
+            52,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            137,
+            59,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            159,
+            57,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            181,
+            61,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            203,
+            60,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            43,
+            258,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            306,
+            37
+          ],
+          "text": "다음 그림을 보고 $20$의 $ \\frac{3}{4} $을 구하면 얼마입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            114,
+            63,
+            224
+          ],
+          "text": "①$5$ ②$10$ ③$15$ ④$20$ ⑤$25$"
+        }
+      ]
+    }
+  ]
+}

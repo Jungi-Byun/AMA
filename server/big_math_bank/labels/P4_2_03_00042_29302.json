@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_03_00042_29302.png",
+  "id": "00042_29302",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분수를 소수로 나타내고 읽어 보시오. (1)$\\frac{6}{100}$ 을 소수로 나타내면 $\\square$이고 $\\square$이라고 읽습니다. (2)$\\frac{57}{100}$ 을 소수로 나타내면 $\\square$이고 $\\square$이라고 읽습니다. (3)$\\frac{239}{100}$ 를 소수로 나타내면 $\\square$이고 $\\square$라고 읽습니다. (4)$\\frac{804}{100}$ 를 소수로 나타내면 $\\square$이고 $\\square$라고 읽습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            229,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            409,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            411,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            105,
+            402,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            146,
+            400,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            410,
+            182
+          ],
+          "text": "분수를 소수로 나타내고 읽어 보시오. (1)$\\frac{6}{100}$ 을 소수로 나타내면 $\\square$이고 $\\square$이라고 읽습니다. (2)$\\frac{57}{100}$ 을 소수로 나타내면 $\\square$이고 $\\square$이라고 읽습니다. (3)$\\frac{239}{100}$ 를 소수로 나타내면 $\\square$이고 $\\square$라고 읽습니다. (4)$\\frac{804}{100}$ 를 소수로 나타내면 $\\square$이고 $\\square$라고 읽습니다."
+        }
+      ]
+    }
+  ]
+}

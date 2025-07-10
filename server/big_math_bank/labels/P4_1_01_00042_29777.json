@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_01_00042_29777.png",
+  "id": "00042_29777",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101003",
+      "question_topic_name": "다섯 자리 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\left.\\begin{array}{r}100000 \\mid 9 \\\\ 10000 \\mid 3 \\\\ 1000 \\mid 4 \\\\ 100 \\mid 6 \\\\ 10 \\mid\\end{array}\\right] $ 이면 $ \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            86,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            44,
+            86,
+            62
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            36,
+            71,
+            85,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            96,
+            67,
+            204,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            44,
+            95,
+            85,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            53,
+            119,
+            85,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            140
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\left.\\begin{array}{r}100000 \\mid 9 \\\\ 10000 \\mid 3 \\\\ 1000 \\mid 4 \\\\ 100 \\mid 6 \\\\ 10 \\mid\\end{array}\\right] $ 이면 $ \\square $"
+        }
+      ]
+    }
+  ]
+}

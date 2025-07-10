@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_41900.png",
+  "id": "00043_41900",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\bigcirc$-$\\square$의 값은 얼마입니까?  · $ \\frac{1}{13} $이 $\\square$개인 수는 $ \\frac{12}{13} $입니다. · 2.8은 0.1이 $\\bigcirc$개인 수입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            168,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            27,
+            223,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            71,
+            206,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            225,
+            94
+          ],
+          "text": "$\\bigcirc$-$\\square$의 값은 얼마입니까?  · $ \\frac{1}{13} $이 $\\square$개인 수는 $ \\frac{12}{13} $입니다. · 2.8은 0.1이 $\\bigcirc$개인 수입니다."
+        }
+      ]
+    }
+  ]
+}

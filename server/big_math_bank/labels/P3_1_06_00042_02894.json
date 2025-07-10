@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_02894.png",
+  "id": "00042_02894",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106002",
+      "question_topic_name": "부분과 전체의 크기 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형에서 전체를 똑같이 $3$으로 나눈 것 중의 $2$를 색칠하는 방법은 모두 몇 가지입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            508,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            126,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            510,
+            22
+          ],
+          "text": "도형에서 전체를 똑같이 $3$으로 나눈 것 중의 $2$를 색칠하는 방법은 모두 몇 가지입니까?"
+        }
+      ]
+    }
+  ]
+}

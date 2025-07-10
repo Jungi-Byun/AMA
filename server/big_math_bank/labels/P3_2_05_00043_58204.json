@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58204.png",
+  "id": "00043_58204",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정환이가 고양이를 안고 무게를 재었더니 $37 kg 600 g$이었습니다. 정환이의 몸무게가 $32 kg 400 g$일 때 고양이의 무게는 몇 $kg$ 몇 $g$인지 식을 쓰고 답을 구하시오.식\\qquad 답\\qquad",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            149,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "정환이가 고양이를 안고 무게를 재었더니 $37 kg 600 g$이었습니다. 정환이의 몸무게가 $32 kg 400 g$일 때 고양이의 무게는 몇 $kg$ 몇 $g$인지 식을 쓰고 답을 구하시오.식\\qquad 답\\qquad"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_28232.png",
+  "id": "00042_28232",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102010",
+      "question_topic_name": "두 각도의 차 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "좌측에는 시작점이 좌측에 있고, 우측으로 향하는 반직선과 우측 위를 향하는 반직선과 좌측 위를 향하는 반직선이 있을 때 생기는 각의 크기가 위에서부터 순서대로 65도, 30도이고, 전체 각의 크기는 원 문자 ㄱ이고, 우측에는 시작점이 좌측에 있고, 우측으로 향하는 반직선과 우측 위를 향하는 두 개의 반직선이 있을 때 생기는 각의 크기가 위에서부터 순서대로 원 문자 ㄴ, 52도이고, 전체 각의 크기는 78도인 도형",
+      "question_text": "도형에서 각 ㉠과 각 ㉡의 크기의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            291,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            228,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            293,
+            21
+          ],
+          "text": "도형에서 각 ㉠과 각 ㉡의 크기의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

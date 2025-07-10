@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_42231.png",
+  "id": "00043_42231",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "천수는 한 시간 동안 다음과 같이 영어 공부를 했습니다. 가장 오랫동안 공부한 것은 무엇입니까? <table border> <tbody> <tr> <td>듣기</td> <td>말하기</td> <td>쓰기</td> </tr> <tr> <td>$\\frac{6}{12}$</td> <td>$\\frac{4}{12}$</td> <td>$\\frac{2}{12}$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            563,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            142,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            1.4,
+            563.1,
+            89.4
+          ],
+          "text": "천수는 한 시간 동안 다음과 같이 영어 공부를 했습니다. 가장 오랫동안 공부한 것은 무엇입니까? <table border> <tbody> <tr> <td>듣기</td> <td>말하기</td> <td>쓰기</td> </tr> <tr> <td>$\\frac{6}{12}$</td> <td>$\\frac{4}{12}$</td> <td>$\\frac{2}{12}$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

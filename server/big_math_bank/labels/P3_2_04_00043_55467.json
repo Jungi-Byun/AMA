@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55467.png",
+  "id": "00043_55467",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진주와 현철이는 더 큰 분수 카드를 가져간 사람이 자신의 놀이판의 사다리 모양에 그 분수만큼 색칠하여 먼저 $16$칸짜리 사다리 모양을 모두 색칠하는 사람이 이기는 놀이를 하고 있습니다. 물음에 답하시오. (1) 더 큰 분수 카드를 가져간 사람은 누구입니까?(2) (1)에서 더 큰 분수를 가져간 사람은 자신의 놀이 판에 몇 칸을 색칠할 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            384,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            220,
+            297,
+            237
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            242,
+            506,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            56,
+            319,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "진주와 현철이는 더 큰 분수 카드를 가져간 사람이 자신의 놀이판의 사다리 모양에 그 분수만큼 색칠하여 먼저 $16$칸짜리 사다리 모양을 모두 색칠하는 사람이 이기는 놀이를 하고 있습니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            218,
+            508,
+            261
+          ],
+          "text": "(1) 더 큰 분수 카드를 가져간 사람은 누구입니까?(2) (1)에서 더 큰 분수를 가져간 사람은 자신의 놀이 판에 몇 칸을 색칠할 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

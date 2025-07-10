@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_04_00043_52302.png",
+  "id": "00043_52302",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 사람의 대화를 읽고 평행선에 대하여 틀린 설명을 한 사람의 이름을 쓰시오. 경식 : 두 직선은 서로 만나지 않아. 성우 : 한 직선에 수직인 두 직선이야. 다빈 : 두 직선은 서로 수직이야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            459,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            226,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            56,
+            237,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            74,
+            213,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            101
+          ],
+          "text": "세 사람의 대화를 읽고 평행선에 대하여 틀린 설명을 한 사람의 이름을 쓰시오. 경식 : 두 직선은 서로 만나지 않아. 성우 : 한 직선에 수직인 두 직선이야. 다빈 : 두 직선은 서로 수직이야."
+        }
+      ]
+    }
+  ]
+}

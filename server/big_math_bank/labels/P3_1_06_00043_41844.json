@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00043_41844.png",
+  "id": "00043_41844",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{1}{7} $보다 크고 $1$보다 작은 분수 중에서 가로 선 위의 수가 $1$인 분수를 모두 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            473,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            475,
+            38
+          ],
+          "text": "$ \\frac{1}{7} $보다 크고 $1$보다 작은 분수 중에서 가로 선 위의 수가 $1$인 분수를 모두 쓰시오."
+        }
+      ]
+    }
+  ]
+}

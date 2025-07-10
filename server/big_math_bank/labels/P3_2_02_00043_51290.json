@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00043_51290.png",
+  "id": "00043_51290",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연필 13자루를 4명에게 똑같이 나누어 주었더니 1자루가 남았습니다. 한 명에게 몇 자루씩 나누어 주었습니까? 식 \\qquad 답\\qquad",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            640,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            642,
+            21
+          ],
+          "text": "연필 13자루를 4명에게 똑같이 나누어 주었더니 1자루가 남았습니다. 한 명에게 몇 자루씩 나누어 주었습니까? 식 \\qquad 답\\qquad"
+        }
+      ]
+    }
+  ]
+}

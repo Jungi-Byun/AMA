@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49488.png",
+  "id": "00043_49488",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1, 2, 3$이나 $4, 5, 6$ 등과 같이 차례로 늘어놓은 자연수를 연속된 자연수라고 합니다. 어떤 연속된 자연수 $3$개의 합이 $30$이라고 합니다. 이 $3$개의 수들의 곱은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            191,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            40
+          ],
+          "text": "$1, 2, 3$이나 $4, 5, 6$ 등과 같이 차례로 늘어놓은 자연수를 연속된 자연수라고 합니다. 어떤 연속된 자연수 $3$개의 합이 $30$이라고 합니다. 이 $3$개의 수들의 곱은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

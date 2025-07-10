@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00040_29518.png",
+  "id": "00040_29518",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 설명 중 틀린 것은 어느 것입니까? ①$ \\frac{4}{6} $ 는 $ \\frac{1}{6} $ 이 $4$ 개인 수입니다. ②사과 $1$개를 $3$조각으로 똑같이 나눈 것 중의 $2$개를 $ \\frac{3}{2}  $이라고 합니다. ③$ \\frac{1}{5} $ 이 $2$ 개이면 $ \\frac{2}{5} $ 라고 합니다. ④색종이를 반으로 접은 뒤 폈을 때의 한 부분을 $ \\frac{1}{2} $이라고 합니다. ⑤$ \\frac{3}{7} \\mathrm{~cm} $ 는 $ \\frac{1}{7} \\mathrm{~cm} $ 가 $3$ 개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            241,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            211,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            71,
+            423,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            223,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            148,
+            408,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            218,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            425,
+            224
+          ],
+          "text": "다음 설명 중 틀린 것은 어느 것입니까? ①$ \\frac{4}{6} $ 는 $ \\frac{1}{6} $ 이 $4$ 개인 수입니다. ②사과 $1$개를 $3$조각으로 똑같이 나눈 것 중의 $2$개를 $ \\frac{3}{2}  $이라고 합니다. ③$ \\frac{1}{5} $ 이 $2$ 개이면 $ \\frac{2}{5} $ 라고 합니다. ④색종이를 반으로 접은 뒤 폈을 때의 한 부분을 $ \\frac{1}{2} $이라고 합니다. ⑤$ \\frac{3}{7} \\mathrm{~cm} $ 는 $ \\frac{1}{7} \\mathrm{~cm} $ 가 $3$ 개입니다."
+        }
+      ]
+    }
+  ]
+}

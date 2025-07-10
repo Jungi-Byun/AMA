@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_03090.png",
+  "id": "00042_03090",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은주네 반 학급 문고의 종류별 책의 수를 조사한 것입니다. 모두 몇 권입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            454,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            290,
+            20,
+            494,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            456,
+            23
+          ],
+          "text": "은주네 반 학급 문고의 종류별 책의 수를 조사한 것입니다. 모두 몇 권입니까?"
+        }
+      ]
+    }
+  ]
+}

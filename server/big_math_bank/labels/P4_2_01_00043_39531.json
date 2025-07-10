@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_39531.png",
+  "id": "00043_39531",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "아버지께서 자동차에 남아 있는 휘발유의 양을 재어 보니  $ 8 \\frac{4}{8} $L 였습니다. 오늘 운전하시는 동안 남아 있는 휘발유의  $ \\frac{3}{4} $ 을 쓴 후 주유소에서 휘발유  $ 12 \\frac{7}{8} $L를 더 넣었다면 자동차에 들어 있는 휘발유는 몇 L입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            450,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            75
+          ],
+          "text": "아버지께서 자동차에 남아 있는 휘발유의 양을 재어 보니  $ 8 \\frac{4}{8} $L 였습니다. 오늘 운전하시는 동안 남아 있는 휘발유의  $ \\frac{3}{4} $ 을 쓴 후 주유소에서 휘발유  $ 12 \\frac{7}{8} $L를 더 넣었다면 자동차에 들어 있는 휘발유는 몇 L입니까?"
+        }
+      ]
+    }
+  ]
+}

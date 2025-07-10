@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_03_00043_53336.png",
+  "id": "00043_53336",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<알 수 있는 사실> 한 원에서 원의 반지름은 현우는 원의 반지름을 $4$개 표시하고 길이를 재어 나타냈습니다. 현우가 알 수 있는 사실은 무엇입니까? 밑줄친 곳에 알맞게 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            754,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            140,
+            125,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            162,
+            159,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            131,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            138,
+            161,
+            180
+          ],
+          "text": "<알 수 있는 사실> 한 원에서 원의 반지름은"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.75,
+            0.25,
+            755.5,
+            17.75
+          ],
+          "text": "현우는 원의 반지름을 $4$개 표시하고 길이를 재어 나타냈습니다. 현우가 알 수 있는 사실은 무엇입니까? 밑줄친 곳에 알맞게 쓰시오. "
+        }
+      ]
+    }
+  ]
+}

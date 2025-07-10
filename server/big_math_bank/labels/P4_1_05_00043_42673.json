@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_05_00043_42673.png",
+  "id": "00043_42673",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정숙이네 반에서 조사한 조선 시대 화가별 학생 수를 막대그래프로 나타낸 것입니다. 정선을 조사한 학생 수는 김홍도를 조사한 학생 수보다 $2$명 더 많고, 안견을 조사한 학생 수는 신윤복을 조사한 학생 수보다 $8$명 더 적습니다. 조사한 학생은 모두 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            691,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            52,
+            321,
+            222
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "정숙이네 반에서 조사한 조선 시대 화가별 학생 수를 막대그래프로 나타낸 것입니다. 정선을 조사한 학생 수는 김홍도를 조사한 학생 수보다 $2$명 더 많고, 안견을 조사한 학생 수는 신윤복을 조사한 학생 수보다 $8$명 더 적습니다. 조사한 학생은 모두 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

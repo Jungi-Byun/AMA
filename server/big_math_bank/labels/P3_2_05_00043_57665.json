@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57665.png",
+  "id": "00043_57665",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 들이의 차는 몇 $L$ 몇 $mL$입니까? $3L 250mL 7L 600mL$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            217,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            25,
+            189,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            219,
+            57
+          ],
+          "text": "두 들이의 차는 몇 $L$ 몇 $mL$입니까? $3L 250mL 7L 600mL$"
+        }
+      ]
+    }
+  ]
+}

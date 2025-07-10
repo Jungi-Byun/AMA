@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_05_00043_41517.png",
+  "id": "00043_41517",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오. ⑴ $4$분 $49$초$+8$분 $52$초 ⑵ $17$분 $24$초$-8$분 $38$초 ⑶ $ ~~~{{4}시간~~~{{52}}분~~~{{25}}초} $  + ~~~~2시간 ~~~15분 ~~~57초  ⑷ $ ~~~{{12}시간~~~{{36}}분~~~{{18}}초} $  - ~~~~~~6시간 ~~~45분 ~~~40초",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            152,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            155,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            61,
+            235,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            159,
+            231,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            237,
+            206
+          ],
+          "text": "계산을 하시오. ⑴ $4$분 $49$초$+8$분 $52$초 ⑵ $17$분 $24$초$-8$분 $38$초 ⑶ $ ~~~{{4}시간~~~{{52}}분~~~{{25}}초} $  + ~~~~2시간 ~~~15분 ~~~57초  ⑷ $ ~~~{{12}시간~~~{{36}}분~~~{{18}}초} $  - ~~~~~~6시간 ~~~45분 ~~~40초"
+        }
+      ]
+    }
+  ]
+}

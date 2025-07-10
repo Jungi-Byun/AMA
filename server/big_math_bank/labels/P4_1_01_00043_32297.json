@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_01_00043_32297.png",
+  "id": "00043_32297",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 조건을 모두 만족하는 수 중 가장 큰 수를 알아보시오. ㉠ $13$자리 수입니다. ㉡ $0$을 $7$개 가지고 있습니다. ㉢ 가장 높은 자리 숫자는 나머지 자리의 숫자들을 모두 더한 값과 같습니다. (1) 조건 ㉠과 ㉡을 만족하는 수 중 가장 큰 수는 다음 중 어느 자리에 $0$이 들어가야 하는지 알맞은 칸에 모두 $\\bigcirc$표 하시오. (2) 가장 높은 자리 숫자는 얼마입니까? (3) 조건을 모두 만족하는 가장 큰 수를 구하시오",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            350,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            144,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            54,
+            191,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            75,
+            455,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            697,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            125,
+            220,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            154,
+            241,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            176,
+            296,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            194
+          ],
+          "text": "다음 조건을 모두 만족하는 수 중 가장 큰 수를 알아보시오. ㉠ $13$자리 수입니다. ㉡ $0$을 $7$개 가지고 있습니다. ㉢ 가장 높은 자리 숫자는 나머지 자리의 숫자들을 모두 더한 값과 같습니다. (1) 조건 ㉠과 ㉡을 만족하는 수 중 가장 큰 수는 다음 중 어느 자리에 $0$이 들어가야 하는지 알맞은 칸에 모두 $\\bigcirc$표 하시오. (2) 가장 높은 자리 숫자는 얼마입니까? (3) 조건을 모두 만족하는 가장 큰 수를 구하시오"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_01_00043_38718.png",
+  "id": "00043_38718",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201002",
+      "question_topic_name": "분모가 같고 합이 1보다 큰 (진분수)+(진분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로로 시점이 0인 반직선 위의 값 1, 2에서 0과 1, 1과 2사이를 8 등분하여 눈금표시하고 반직선 눈금 0에서 오른쪽으로 일곱 번째 눈금 까지 곡선으로 점선 화살표를 그려 가운데 8분의 7을 쓰고 이어서 오른쪽으로 세 번째 눈금까지 곡선으로 점선 화살표를 그려 가운데에 8분의 3을 쓰고, 반직선 아래에는 8분의 7 더하기 8분의 3 등호 8분의 네모 더하기 네모 등호 8분의 네모라고 쓰고 그 아래에 등호 네모와 8분의 네모라고 쓰인 그림",
+      "question_text": "수직선을 보고 $ \\frac{7}{8}+\\frac{3}{8} $ 은 얼마인지 알아보시오.  \\[ \\begin{array}{l} \\frac{7}{8}+\\frac{3}{8}=\\frac{\\square+\\square}{8}=\\frac{\\square}{8} \\\\ =\\square \\frac{\\square}{8} \\end{array} \\]",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            298,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            103,
+            225,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            146,
+            97,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            44,
+            318,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            300,
+            39
+          ],
+          "text": "수직선을 보고 $ \\frac{7}{8}+\\frac{3}{8} $ 은 얼마인지 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21,
+            102,
+            227,
+            187
+          ],
+          "text": "\\[ \\begin{array}{l} \\frac{7}{8}+\\frac{3}{8}=\\frac{\\square+\\square}{8}=\\frac{\\square}{8} \\\\ =\\square \\frac{\\square}{8} \\end{array} \\]"
+        }
+      ]
+    }
+  ]
+}

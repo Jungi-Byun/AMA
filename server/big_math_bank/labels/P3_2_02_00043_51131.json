@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00043_51131.png",
+  "id": "00043_51131",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "구슬이 한 줄에 $10$개씩 꿰어져 있습니다. 구슬 $6$줄을 $5$명이 똑같이 나누어 가지려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. ⑴ 구슬 $6$줄을 $5$명이 똑같이 나누어 가지면 한 명이 $\\square$줄씩 가지게 되고 $\\square$줄이 남습니다. ⑵ 남은 줄의 구슬 $10$개를 $5$명이 똑같이 나누어 가지면 한 명이 $10÷5=\\square(개)$씩 가지게 됩니다. ⑶ 한 명은 구슬 $\\square$줄과 $\\square$개를 가지게 됩니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            721,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            555,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            51,
+            566,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            313,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            724,
+            107
+          ],
+          "text": "구슬이 한 줄에 $10$개씩 꿰어져 있습니다. 구슬 $6$줄을 $5$명이 똑같이 나누어 가지려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. ⑴ 구슬 $6$줄을 $5$명이 똑같이 나누어 가지면 한 명이 $\\square$줄씩 가지게 되고 $\\square$줄이 남습니다. ⑵ 남은 줄의 구슬 $10$개를 $5$명이 똑같이 나누어 가지면 한 명이 $10÷5=\\square(개)$씩 가지게 됩니다. ⑶ 한 명은 구슬 $\\square$줄과 $\\square$개를 가지게 됩니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_03_00043_53578.png",
+  "id": "00043_53578",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "크기가 같은 두 원 문자 ㄴ, ㄷ이 서로의 중심을 지나게 겹쳐서 두 점에서 만나고, 위쪽에서 만나는 점이 ㄱ이고, 세 점을 이으면 삼각형 ㄱㄴㄷ을 만들고, 선분 ㄴㄷ의 길이가 12 cm인 도형",
+      "question_text": "다음은 크기가 같은 두 원의 중심과 두 원이 만나는 한 점을 이어 삼각형을 그린 것입니다. 삼각형 ㄱㄴㄷ의 세 변의 길이의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            53,
+            183,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "다음은 크기가 같은 두 원의 중심과 두 원이 만나는 한 점을 이어 삼각형을 그린 것입니다. 삼각형 ㄱㄴㄷ의 세 변의 길이의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_25030.png",
+  "id": "00042_25030",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민정이네 반에서는 이틀 동안 빈 병을 모았습니다. 첫째 날에는 $687$개, 둘째 날에는 $564$개 모았습니다. 이틀 동안 모은 빈병은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            613,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            241,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            615,
+            41
+          ],
+          "text": "민정이네 반에서는 이틀 동안 빈 병을 모았습니다. 첫째 날에는 $687$개, 둘째 날에는 $564$개 모았습니다. 이틀 동안 모은 빈병은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

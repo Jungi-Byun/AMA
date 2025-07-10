@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_04_00043_55895.png",
+  "id": "00043_55895",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희망이의 키는 $ \\frac{11}{8} \\mathrm{~m} $, 소망이의 키는 $ 1 \\frac{2}{8} \\mathrm{~m} $ 입니다. 누구의 키가 더 큽니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            469,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            471,
+            38
+          ],
+          "text": "희망이의 키는 $ \\frac{11}{8} \\mathrm{~m} $, 소망이의 키는 $ 1 \\frac{2}{8} \\mathrm{~m} $ 입니다. 누구의 키가 더 큽니까?"
+        }
+      ]
+    }
+  ]
+}

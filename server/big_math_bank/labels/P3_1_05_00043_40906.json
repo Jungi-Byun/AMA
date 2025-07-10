@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_05_00043_40906.png",
+  "id": "00043_40906",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 대중이가 참가한 일일 영어 캠프의 일정표입니다. 대중이가 집으로 돌아가는 시각을 구하시오. ㆍ 시작 시각 : $9$시 $30$분 ㆍ $1$교시~$3$교시 : 영어 수업 ㆍ$3$교시가 끝나면 집으로 돌아갑니다. ※ 수업은 $45$분 동안 하고, 한 교시가 끝난 후에 $10$분 동안 쉽니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            587,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            21,
+            169,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            56,
+            186,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            75,
+            245,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            96,
+            398,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            591,
+            116
+          ],
+          "text": "다음은 대중이가 참가한 일일 영어 캠프의 일정표입니다. 대중이가 집으로 돌아가는 시각을 구하시오. ㆍ 시작 시각 : $9$시 $30$분 ㆍ $1$교시~$3$교시 : 영어 수업 ㆍ$3$교시가 끝나면 집으로 돌아갑니다. ※ 수업은 $45$분 동안 하고, 한 교시가 끝난 후에 $10$분 동안 쉽니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_06_00043_59340.png",
+  "id": "00043_59340",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바르게 설명한 것을 찾아 기호를 쓰시오.  ㉠ 그림그래프를 그릴 때에는 합계를 나타내는 것이 좋습니다.㉡ 그림그래프를 그릴 때에는 조사한 수를 비교하기 쉽게 그림의 크기를 정해야 합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            377,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            57,
+            520,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            523,
+            79
+          ],
+          "text": "바르게 설명한 것을 찾아 기호를 쓰시오.  ㉠ 그림그래프를 그릴 때에는 합계를 나타내는 것이 좋습니다.㉡ 그림그래프를 그릴 때에는 조사한 수를 비교하기 쉽게 그림의 크기를 정해야 합니다."
+        }
+      ]
+    }
+  ]
+}

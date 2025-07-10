@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_22887.png",
+  "id": "00040_22887",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204017",
+      "question_topic_name": "마름모의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 마름모의 둘레는 얼마입니까? ①$4.5cm$ ②$9cm$ ③$13.5cm$ ④$18cm$ ⑤$20cm$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            217,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            82,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            129,
+            71,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            151,
+            87,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            173,
+            77,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            195,
+            80,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            156,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            219,
+            22
+          ],
+          "text": "다음 마름모의 둘레는 얼마입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            108.5,
+            90,
+            217.5
+          ],
+          "text": "①$4.5cm$ ②$9cm$ ③$13.5cm$ ④$18cm$ ⑤$20cm$"
+        }
+      ]
+    }
+  ]
+}

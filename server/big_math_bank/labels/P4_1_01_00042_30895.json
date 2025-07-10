@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_01_00042_30895.png",
+  "id": "00042_30895",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101003",
+      "question_topic_name": "다섯 자리 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기와 같이 나타내어 보시오. 51763=50000+1000+700+60+3 74009=$\\boxed{\\phantom{222222}} + \\boxed{\\phantom{22222}} + \\boxed{\\phantom{222}} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            230,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            50,
+            217,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            232,
+            77
+          ],
+          "text": "보기와 같이 나타내어 보시오. 51763=50000+1000+700+60+3 74009=$\\boxed{\\phantom{222222}} + \\boxed{\\phantom{22222}} + \\boxed{\\phantom{222}} $"
+        }
+      ]
+    }
+  ]
+}

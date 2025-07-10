@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_02_00042_28328.png",
+  "id": "00042_28328",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202007",
+      "question_topic_name": "정삼각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 직각삼각형 $2$개를 겹치지 않게 이어 붙여서 만들 수 없는 삼각형은 어느 것입니까?  ① 정삼각형  ② 이등변삼각형  ③ 직각삼각형  ④ 예각삼각형  ⑤ 둔각삼각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            555,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            100,
+            95,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            120,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            107,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            107,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            190,
+            107,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            72,
+            14,
+            141,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.72,
+            0.11,
+            557.72,
+            17.11
+          ],
+          "text": "다음과 같은 직각삼각형 $2$개를 겹치지 않게 이어 붙여서 만들 수 없는 삼각형은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.72,
+            103.11,
+            121.72,
+            213.11
+          ],
+          "text": "① 정삼각형  ② 이등변삼각형  ③ 직각삼각형  ④ 예각삼각형  ⑤ 둔각삼각형"
+        }
+      ]
+    }
+  ]
+}

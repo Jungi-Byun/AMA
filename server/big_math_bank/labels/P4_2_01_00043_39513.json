@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_01_00043_39513.png",
+  "id": "00043_39513",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201016",
+      "question_topic_name": "받아내림이 있는 (대분수)-(대분수)_대분수를 가분수로 바꾸기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "기호 $\\blacksquare$와 $\\blacklozenge$를 다음과 같이 약속할 때, ㉠과 ㉡의 차를 구하시오.  $ ㉮\\blacksquare㉯=㉮+㉯‒2\\frac{14}{16}  ㉠ 3\\frac{9}{16} \\blacksquare 5\\frac{2}{16}$  $ ㉮\\blacklozenge㉯=㉯‒㉮+4\\frac{15}{16}  ㉡ 2\\frac{9}{16} \\blacklozenge 4\\frac{2}{16}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            382,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            25,
+            180,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            200,
+            25,
+            320,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            68,
+            184,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            200,
+            67,
+            322,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            384,
+            103
+          ],
+          "text": "기호 $\\blacksquare$와 $\\blacklozenge$를 다음과 같이 약속할 때, ㉠과 ㉡의 차를 구하시오.  $ ㉮\\blacksquare㉯=㉮+㉯‒2\\frac{14}{16}  ㉠ 3\\frac{9}{16} \\blacksquare 5\\frac{2}{16}$  $ ㉮\\blacklozenge㉯=㉯‒㉮+4\\frac{15}{16}  ㉡ 2\\frac{9}{16} \\blacklozenge 4\\frac{2}{16}$"
+        }
+      ]
+    }
+  ]
+}

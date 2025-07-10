@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_00394.png",
+  "id": "00043_00394",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 분수의 크기를 비교하여 더 큰 분수를 찾아 쓰시오. (1) $ \\left(\\frac{10}{14}, \\frac{8}{14}\\right) $ (2) $ \\left(\\frac{1}{8}, \\frac{1}{6}\\right) $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            122,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            104,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            323,
+            100
+          ],
+          "text": "두 분수의 크기를 비교하여 더 큰 분수를 찾아 쓰시오. (1) $ \\left(\\frac{10}{14}, \\frac{8}{14}\\right) $ (2) $ \\left(\\frac{1}{8}, \\frac{1}{6}\\right) $"
+        }
+      ]
+    }
+  ]
+}

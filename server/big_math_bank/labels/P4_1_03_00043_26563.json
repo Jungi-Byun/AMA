@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_26563.png",
+  "id": "00043_26563",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103001",
+      "question_topic_name": "세 자리 수와 몇십 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미주네 반에서 어린이날 기념으로 $500$원짜리 공책을 한 권씩 나누어 주려고 한다. 미주네 반 학생이 $30$명이라면 공책의 값은 모두 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            795,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            53,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            797,
+            40
+          ],
+          "text": "미주네 반에서 어린이날 기념으로 $500$원짜리 공책을 한 권씩 나누어 주려고 한다. 미주네 반 학생이 $30$명이라면 공책의 값은 모두 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

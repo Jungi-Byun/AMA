@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_01_00042_89549.png",
+  "id": "00042_89549",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 계산이 맞도록 $\\square$ 안에 알맞은 숫자를 써넣으시오. ($1) \\begin{array}{r}4 \\square 7 \\\\ +284 \\\\ \\hline \\square 21\\end{array} $ ($2) \\begin{array}{r}4 \\square 3 \\\\ +\\square 59 \\\\ \\hline 802\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            329,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            145,
+            24,
+            243,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            114,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            331,
+            108
+          ],
+          "text": "다음 계산이 맞도록 $\\square$ 안에 알맞은 숫자를 써넣으시오. ($1) \\begin{array}{r}4 \\square 7 \\\\ +284 \\\\ \\hline \\square 21\\end{array} $ ($2) \\begin{array}{r}4 \\square 3 \\\\ +\\square 59 \\\\ \\hline 802\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

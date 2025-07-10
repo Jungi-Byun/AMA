@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00043_52094.png",
+  "id": "00043_52094",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204005",
+      "question_topic_name": "삼각자를 사용하여 평행선 긋기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빨간색 색종이가 있습니다. 색종이 안에 선분 $ㄱㄴ$을 한 변으로 하는 가장 큰 직사각형을 그리려고 합니다. 물음에 답하시오. (1) 점 $ㄹ$을 지나며 선분 $ㄱㄴ$과 평행한 직선을 그으시오.(2) 점 $ㄱ$과 점 $ㄴ$을 지나며 선분 $ㄱㄴ$에 수직인 직선을 각각 그으시오.(3) 위에서 그은 세 직선과 선분 $ㄱㄴ$이 만나서 생기는 직사각형에 초록색으로 표시하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            711,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            156,
+            335,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            178,
+            413,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            200,
+            527,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            28,
+            279,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.56,
+            0.92,
+            713.6,
+            18.2
+          ],
+          "text": "빨간색 색종이가 있습니다. 색종이 안에 선분 $ㄱㄴ$을 한 변으로 하는 가장 큰 직사각형을 그리려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.92,
+            155.16,
+            526.72,
+            217.24
+          ],
+          "text": "(1) 점 $ㄹ$을 지나며 선분 $ㄱㄴ$과 평행한 직선을 그으시오.(2) 점 $ㄱ$과 점 $ㄴ$을 지나며 선분 $ㄱㄴ$에 수직인 직선을 각각 그으시오.(3) 위에서 그은 세 직선과 선분 $ㄱㄴ$이 만나서 생기는 직사각형에 초록색으로 표시하시오."
+        }
+      ]
+    }
+  ]
+}

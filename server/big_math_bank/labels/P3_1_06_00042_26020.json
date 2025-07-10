@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00042_26020.png",
+  "id": "00042_26020",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "같은 크기의 떡을 똑같이 $12$조각으로 나눈 다음 상수, 명철, 준석이가 먹은 양은 다음과 같습니다. 많이 먹은 사람부터 차례대로 이름을 쓰시오. <table border>   <tbody>     <tr>       <td>이름</td>       <td>상수</td>       <td>명철</td>       <td>준석</td>     </tr>     <tr>       <td>먹은 양</td>       <td>$ \\frac{3}{12} $</td>       <td>$ \\frac{5}{12} $</td>       <td>$ \\frac{4}{12} $</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            36,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            181,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            109
+          ],
+          "text": "같은 크기의 떡을 똑같이 $12$조각으로 나눈 다음 상수, 명철, 준석이가 먹은 양은 다음과 같습니다. 많이 먹은 사람부터 차례대로 이름을 쓰시오. <table border>   <tbody>     <tr>       <td>이름</td>       <td>상수</td>       <td>명철</td>       <td>준석</td>     </tr>     <tr>       <td>먹은 양</td>       <td>$ \\frac{3}{12} $</td>       <td>$ \\frac{5}{12} $</td>       <td>$ \\frac{4}{12} $</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

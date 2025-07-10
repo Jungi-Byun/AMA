@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53666.png",
+  "id": "00043_53666",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "좌측에 있는 빨간색인 원의 중심이 점 ㄱ인 원과 우측에 있는 빨간색인 원의 중심이 점 ㄷ인 원이 만나는 두 점 중 아래의 점이 점 ㄴ이고, 점 ㄱ과 점 ㄷ을 이은 선분 ㄱㄷ은 가로로 있고, 두 원의 공통 영역에 있는 가로선의 길이는 3 cm, 점 ㄱ의 좌측 아래로 반지름의 길이가 8 cm, 점 ㄷ의 위로 반지름의 길이가 6 cm라 표현되어 있으며, 점 ㄴ과 점 ㄱ, ㄷ을 각각 이은 선분 ㄱㄴ, ㄴㄷ이 있는 도형",
+      "question_text": "그림에서 삼각형 ㄱㄴㄷ의 세 변의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            326,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            204,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            328,
+            22
+          ],
+          "text": "그림에서 삼각형 ㄱㄴㄷ의 세 변의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

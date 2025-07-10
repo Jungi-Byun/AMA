@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_21219.png",
+  "id": "00040_21219",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음에서 서로 평행한 직선은 모두 몇 쌍입니까? ①$4쌍$ ②$3쌍$ ③$2쌍$ ④$1쌍$ ⑤없습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            292,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            154,
+            66,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            176,
+            66,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            198,
+            66,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            220,
+            63,
+            240
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            242,
+            98,
+            262
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            261,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.81,
+            0.64,
+            292.81,
+            18.24
+          ],
+          "text": "다음에서 서로 평행한 직선은 모두 몇 쌍입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.81,
+            154.24,
+            98.41,
+            262.24
+          ],
+          "text": "①$4쌍$ ②$3쌍$ ③$2쌍$ ④$1쌍$ ⑤없습니다."
+        }
+      ]
+    }
+  ]
+}

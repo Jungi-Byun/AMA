@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00042_54619.png",
+  "id": "00042_54619",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "포도 한 상자의 무게를 저울로 재어 보니 $5kg 40g$이었습니다. 포도 한 상자의 무게는 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            570,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            572,
+            21
+          ],
+          "text": "포도 한 상자의 무게를 저울로 재어 보니 $5kg 40g$이었습니다. 포도 한 상자의 무게는 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_34137.png",
+  "id": "00043_34137",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103015",
+      "question_topic_name": "몫이 한 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 학교의 $4$학년 학생은 $243$명이고, $5$학년 학생은 $4$학년 학생보다 $50$명 더 많다고 합니다. $45$명이 탈 수 있는 버스로 $4$학년 학생은 바다로, $5$학년 학생은 산으로 체험 학습을 가려고 합니다. 버스는 모두 몇 대가 있어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            543,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            776,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            778,
+            41
+          ],
+          "text": "어느 학교의 $4$학년 학생은 $243$명이고, $5$학년 학생은 $4$학년 학생보다 $50$명 더 많다고 합니다. $45$명이 탈 수 있는 버스로 $4$학년 학생은 바다로, $5$학년 학생은 산으로 체험 학습을 가려고 합니다. 버스는 모두 몇 대가 있어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

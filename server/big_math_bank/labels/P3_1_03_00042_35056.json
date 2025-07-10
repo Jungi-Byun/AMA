@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00042_35056.png",
+  "id": "00042_35056",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 들어갈 수가 가장 큰 것은 어느 것입니까?  ① $27\\div\\square=9$   ② $32\\div\\square=4$ ③ $30\\div\\square =6$  ④ $12\\div\\square=3$  ⑤ $35\\div\\square=5$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            299,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            96,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            97,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            102,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            94,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            96,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.56,
+            0.74,
+            299.36,
+            129.54
+          ],
+          "text": "$\\square$ 안에 들어갈 수가 가장 큰 것은 어느 것입니까?  ① $27\\div\\square=9$   ② $32\\div\\square=4$ ③ $30\\div\\square =6$  ④ $12\\div\\square=3$  ⑤ $35\\div\\square=5$"
+        }
+      ]
+    }
+  ]
+}

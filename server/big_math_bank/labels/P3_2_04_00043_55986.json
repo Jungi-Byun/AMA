@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55986.png",
+  "id": "00043_55986",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠과 ㉡ 중 더 큰 것을 찾아 기호를 쓰시오.  $ \\frac{38}{5}=7\\frac{\\text { ㉠ }}{5}  \\frac{20}{3}= $㉡$ \\frac{2}{3} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            257,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            225,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            260,
+            76
+          ],
+          "text": "㉠과 ㉡ 중 더 큰 것을 찾아 기호를 쓰시오.  $ \\frac{38}{5}=7\\frac{\\text { ㉠ }}{5}  \\frac{20}{3}= $㉡$ \\frac{2}{3} $"
+        }
+      ]
+    }
+  ]
+}

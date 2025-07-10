@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_01_00043_44341.png",
+  "id": "00043_44341",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201004",
+      "question_topic_name": "백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.(1) $ \\begin{aligned} 214 \\times 4 & =(200 \\times \\square+(10 \\times \\square)+(4 \\times \\square) \\\\ & =\\square+\\square+\\square \\\\ & =\\square\\end{aligned} $ (2) $ \\begin{aligned} 127 \\times 3 & =(100 \\times \\square+(20 \\times \\square)+(7 \\times \\square) \\\\ & =\\square+\\square+\\square \\\\ & =\\square\\end{aligned} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            328,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92,
+            51,
+            249,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92,
+            80,
+            152,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            109,
+            328,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92,
+            139,
+            249,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92,
+            168,
+            152,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            330,
+            193
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.(1) $ \\begin{aligned} 214 \\times 4 & =(200 \\times \\square+(10 \\times \\square)+(4 \\times \\square) \\\\ & =\\square+\\square+\\square \\\\ & =\\square\\end{aligned} $ (2) $ \\begin{aligned} 127 \\times 3 & =(100 \\times \\square+(20 \\times \\square)+(7 \\times \\square) \\\\ & =\\square+\\square+\\square \\\\ & =\\square\\end{aligned} $"
+        }
+      ]
+    }
+  ]
+}

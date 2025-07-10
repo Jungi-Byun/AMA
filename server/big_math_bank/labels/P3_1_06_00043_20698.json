@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_20698.png",
+  "id": "00043_20698",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 막대에 $6$칸을 색칠하고 $\\square$ 안에 알맞은 수나 말을 써넣으시오. 색칠한 부분을 분수로 나타내면 $\\square$이고, 소수로 나타내면 $\\square$이라 쓰고, $\\square$이라고 읽습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            383,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            77,
+            655,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            328,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.16,
+            0.6,
+            384.36,
+            19
+          ],
+          "text": "수 막대에 $6$칸을 색칠하고 $\\square$ 안에 알맞은 수나 말을 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            75,
+            657,
+            117
+          ],
+          "text": "색칠한 부분을 분수로 나타내면 $\\square$이고, 소수로 나타내면 $\\square$이라 쓰고, $\\square$이라고 읽습니다."
+        }
+      ]
+    }
+  ]
+}

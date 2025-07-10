@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57512.png",
+  "id": "00043_57512",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수조에 물이 $2L$ 있습니다. 주전자의 물을 수조에 모두 부으면 수조의 물은 모두 몇 $L$ 몇 $mL$가 되는지 쓰고, 읽어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            690,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            238,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            693,
+            21
+          ],
+          "text": "수조에 물이 $2L$ 있습니다. 주전자의 물을 수조에 모두 부으면 수조의 물은 모두 몇 $L$ 몇 $mL$가 되는지 쓰고, 읽어 보시오."
+        }
+      ]
+    }
+  ]
+}

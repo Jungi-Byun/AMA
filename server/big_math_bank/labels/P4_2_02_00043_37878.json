@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_02_00043_37878.png",
+  "id": "00043_37878",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202003",
+      "question_topic_name": "이등변삼각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "긴 직사각형 모양의 널빤지 안에 선을 그어 11개의 칸으로 나눈 뒤, 그 안에 5, 4, 3, 2, 1, 0, 1, 2, 3, 4, 5 순으로 숫자를 써 넣고, 4가 써진 두 번째 칸에 육면체 모양의 나무블록 1 개, 2가 써진 8 번째 칸에 육면체 모양의 나무블록 2개를 올리고, 0이 써진 6 번째 칸 밑을 이등변삼각형 ㄱㄴㄷ 모양을 앞면으로 하는 삼각형 블록으로 받쳤을 때, 각 ㄱㄷㄴ의 외각이 140도임을 나타내는 그림",
+      "question_text": "널빤지의 수평 잡기 원리를 설명한 그림입니다. 삼각형 ㄱㄴㄷ은 이등변삼각형일 때 각 ㄴㄱㄷ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            660,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            25,
+            277,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            662,
+            26
+          ],
+          "text": "널빤지의 수평 잡기 원리를 설명한 그림입니다. 삼각형 ㄱㄴㄷ은 이등변삼각형일 때 각 ㄴㄱㄷ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

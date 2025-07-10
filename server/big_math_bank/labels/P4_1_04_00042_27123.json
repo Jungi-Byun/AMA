@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00042_27123.png",
+  "id": "00042_27123",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기의 규칙대로 글자를 움직여 빈칸에 알맞게 그리시오.  <보기>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            338,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            22,
+            290,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            340,
+            23
+          ],
+          "text": "보기의 규칙대로 글자를 움직여 빈칸에 알맞게 그리시오.  <보기>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00040_28453.png",
+  "id": "00040_28453",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202001",
+      "question_topic_name": "내림이 없는 (몇십)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "남학생 $40$명과 여학생 $36$명을 똑같이 나누어 $4$개의 조를 만들려고 합니다. 한 조에 들어가는 남학생과 여학생은 각각 몇 명입니까?  ①남학생 $7$명, 여학생 $10$명  ②남학생 $8$명, 여학생 $9$명  ③남학생 $9$명, 여학생 $10$명  ④남학생 $10$명, 여학생 $9$명  ⑤남학생 $10$명, 여학생 $10$명",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            759,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            182,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            177,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            183,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            183,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            189,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            761,
+            130
+          ],
+          "text": "남학생 $40$명과 여학생 $36$명을 똑같이 나누어 $4$개의 조를 만들려고 합니다. 한 조에 들어가는 남학생과 여학생은 각각 몇 명입니까?  ①남학생 $7$명, 여학생 $10$명  ②남학생 $8$명, 여학생 $9$명  ③남학생 $9$명, 여학생 $10$명  ④남학생 $10$명, 여학생 $9$명  ⑤남학생 $10$명, 여학생 $10$명"
+        }
+      ]
+    }
+  ]
+}

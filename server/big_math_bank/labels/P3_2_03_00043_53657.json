@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53657.png",
+  "id": "00043_53657",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㄱㄴ 위에 빨간 점의 중심이 있는 세 개의 원의 반지름 길이가 왼쪽에서 오른쪽으로 일정하게 커지고 왼쪽의 원이 가장 작고 오른쪽의 원이 가장 클 때 왼쪽의 원은 점 ㄱ을 지나고 오른쪽으로 그려지는 원이고 오른쪽의 원은 점 ㄴ을 중심으로 반지름의 길이가 8 cm인 원이고 가운데 원은 지름의 양 끝점이 왼쪽에서 작은 원과 외접하고 오른쪽에서 큰 원과 외접하고 있는 도형",
+      "question_text": "지름을 $4$ cm씩 늘려가며 원을 그렸습니다. 선분 ㄱㄴ의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            457,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            29,
+            240,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            459,
+            21
+          ],
+          "text": "지름을 $4$ cm씩 늘려가며 원을 그렸습니다. 선분 ㄱㄴ의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

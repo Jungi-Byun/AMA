@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00042_27057.png",
+  "id": "00042_27057",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "(시계 방향) 방향으로 돌렸을 때 모양이 변하지 않는 것은 모두 몇 개입니까? ㄴ ㄹ ㅂ ㅌ ㅍ",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            0.39,
+            411.1,
+            30.39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20.1,
+            49.4,
+            328.1,
+            97.4
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            0,
+            411.1,
+            28.92
+          ],
+          "text": "(시계 방향) 방향으로 돌렸을 때 모양이 변하지 않는 것은 모두 몇 개입니까? ㄴ ㄹ ㅂ ㅌ ㅍ"
+        }
+      ]
+    }
+  ]
+}

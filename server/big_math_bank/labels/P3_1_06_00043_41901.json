@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_41901.png",
+  "id": "00043_41901",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "음표는 음의 높이와 길이를 표시해 놓은 것으로 ($2$분음표), ($4$분음표), ($8$분음표), ($16$분음표) 등이 있습니다. , , , 사이의 관계가 다음과 같고 를 $1$박자로 하면 와 의 박자를 합하면 몇 박자인지 소수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            21
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            505,
+            43
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            44,
+            804,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            45
+          ],
+          "text": "음표는 음의 높이와 길이를 표시해 놓은 것으로 ($2$분음표), ($4$분음표), ($8$분음표), ($16$분음표) 등이 있습니다. , , , 사이의 관계가 다음과 같고 를 $1$박자로 하면 와 의 박자를 합하면 몇 박자인지 소수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_01_00043_33459.png",
+  "id": "00043_33459",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉮-㉯=$\\bigstar$이라 할 때, $\\bigstar$+㉰의 값을 구하시오. ㉮ $100$이 $2,10$이 $25,1$이 $28$인 수㉯ 숫자 카드 $\\boxed{2},\\boxed{3},\\boxed{4},\\boxed{5}$를 한 번씩만 사용하여 만들 수 있는 세 자리 수 중에서 세 번째로 작은 수㉰ $277$에서 $272$씩 $2$번 뛰어서 센 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            271,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            25,
+            221,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            54,
+            597,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            79,
+            231,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            598,
+            98
+          ],
+          "text": "㉮-㉯=$\\bigstar$이라 할 때, $\\bigstar$+㉰의 값을 구하시오. ㉮ $100$이 $2,10$이 $25,1$이 $28$인 수㉯ 숫자 카드 $\\boxed{2},\\boxed{3},\\boxed{4},\\boxed{5}$를 한 번씩만 사용하여 만들 수 있는 세 자리 수 중에서 세 번째로 작은 수㉰ $277$에서 $272$씩 $2$번 뛰어서 센 수"
+        }
+      ]
+    }
+  ]
+}

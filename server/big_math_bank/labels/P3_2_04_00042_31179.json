@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_04_00042_31179.png",
+  "id": "00042_31179",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음에서 설명하는 분수를 쓰시오.  • 진분수입니다.• 분모와 분자를 합하면 $10$입니다.• 분모와 분자의 차는 $2$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            213,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            22,
+            118,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            47,
+            221,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            69,
+            201,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            225,
+            91
+          ],
+          "text": "다음에서 설명하는 분수를 쓰시오.  • 진분수입니다.• 분모와 분자를 합하면 $10$입니다.• 분모와 분자의 차는 $2$입니다."
+        }
+      ]
+    }
+  ]
+}

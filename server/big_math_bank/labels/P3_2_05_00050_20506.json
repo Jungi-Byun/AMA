@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00050_20506.png",
+  "id": "00050_20506",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "동건이는 넓이가 $3ha$인 과수원에 배를 심으려고 합니다. 배나무 한 그루를 심는 데 $3m^2$의 공간이 필요하고 배나무 한 그루에서 최대 $70kg$의 배를 수확할 수 있다면 동건이네 과수원에서 수확할 수 있는 배는 최대 몇 $t$인지 구하시오. (1) $3ha$는 몇 $m^2$입니까? (2) 동건이네 과수원에는 배나무를 몇 그루까지 심을 수 있습니까? (3) 동건이네 과수원에서 수확할 수 있는 배는 최대 몇 $t$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            539,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            156,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            392,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            376,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            105
+          ],
+          "text": "동건이는 넓이가 $3ha$인 과수원에 배를 심으려고 합니다. 배나무 한 그루를 심는 데 $3m^2$의 공간이 필요하고 배나무 한 그루에서 최대 $70kg$의 배를 수확할 수 있다면 동건이네 과수원에서 수확할 수 있는 배는 최대 몇 $t$인지 구하시오. (1) $3ha$는 몇 $m^2$입니까? (2) 동건이네 과수원에는 배나무를 몇 그루까지 심을 수 있습니까? (3) 동건이네 과수원에서 수확할 수 있는 배는 최대 몇 $t$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00043_58165.png",
+  "id": "00043_58165",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "똑같은 인형 $4$개를 바구니에 담았을 때와 빈 바구니만의 무게를 잰 것입니다. 인형 한 개의 무게는 몇 $g$입니까? (1) 인형 $4$개를 바구니에 담았을 때의 무게는 몇 $kg$ 몇 $g$입니까?(2) 인형 $4$개의 무게는 몇 $kg$ 몇 $g$입니까?(3) 인형 한 개의 무게는 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            641,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            140,
+            377,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            162,
+            253,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            183,
+            227,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            22,
+            329,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.88,
+            1.49,
+            641.88,
+            18.29
+          ],
+          "text": "똑같은 인형 $4$개를 바구니에 담았을 때와 빈 바구니만의 무게를 잰 것입니다. 인형 한 개의 무게는 몇 $g$입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.48,
+            139.89,
+            381.08,
+            202.29
+          ],
+          "text": "(1) 인형 $4$개를 바구니에 담았을 때의 무게는 몇 $kg$ 몇 $g$입니까?(2) 인형 $4$개의 무게는 몇 $kg$ 몇 $g$입니까?(3) 인형 한 개의 무게는 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

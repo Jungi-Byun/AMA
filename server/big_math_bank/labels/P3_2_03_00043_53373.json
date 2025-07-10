@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53373.png",
+  "id": "00043_53373",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 원을 그리는 방법을 순서대로 쓴 것입니다. $\\square$ 안에 알맞은 말을 써넣으시오. ① 원의 $\\square$이 되는 점을 정합니다.② 컴퍼스를 원의 $\\square$이 되도록 벌립니다.③$\\square$ 을 원의 중심에 꽂고, 원을 그립니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            488,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            293,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            378,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            75,
+            419,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            494,
+            94
+          ],
+          "text": "다음은 원을 그리는 방법을 순서대로 쓴 것입니다. $\\square$ 안에 알맞은 말을 써넣으시오. ① 원의 $\\square$이 되는 점을 정합니다.② 컴퍼스를 원의 $\\square$이 되도록 벌립니다.③$\\square$ 을 원의 중심에 꽂고, 원을 그립니다."
+        }
+      ]
+    }
+  ]
+}

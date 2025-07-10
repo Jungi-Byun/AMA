@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_01_00043_33305.png",
+  "id": "00043_33305",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$533-258$은 얼마인지 알아보시오.(1) 아래쪽 그림에서 $258$만큼 덜어 내어 보시오. (2) $\\square$안에 알맞은 수를 써넣으시오. $533-258$=$\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            210,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            288,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            236,
+            225,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            258,
+            127,
+            284
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            50,
+            323,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            41
+          ],
+          "text": "$533-258$은 얼마인지 알아보시오.(1) 아래쪽 그림에서 $258$만큼 덜어 내어 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            234,
+            227,
+            286
+          ],
+          "text": "(2) $\\square$안에 알맞은 수를 써넣으시오. $533-258$=$\\square$"
+        }
+      ]
+    }
+  ]
+}

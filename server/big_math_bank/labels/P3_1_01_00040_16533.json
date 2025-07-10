@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_01_00040_16533.png",
+  "id": "00040_16533",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $\\square$  안에 알맞은 수가 가장 큰 것은 어느 것입니까?   ①$ \\begin{array}{r}200 \\\\ + \\square 00 \\\\ \\hline 500\\end{array} $ ②$ \\begin{array}{r}542 \\\\ + 135 \\\\ \\hline 6 \\square 7\\end{array} $ ③$ \\begin{array}{r}15 \\square \\\\ + 422 \\\\ \\hline 577\\end{array} $ ④$ \\begin{array}{r}2 \\square 7 \\\\ - 135 \\\\ \\hline 112\\end{array} $ ⑤$ \\begin{array}{r}640 \\\\ - 2 \\square 0 \\\\ \\hline 420\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            345,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            16,
+            149,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            120,
+            138,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            236,
+            140,
+            301
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            334,
+            138,
+            399
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            431,
+            142,
+            495
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            347,
+            497
+          ],
+          "text": "다음 중 $\\square$  안에 알맞은 수가 가장 큰 것은 어느 것입니까?   ①$ \\begin{array}{r}200 \\\\ + \\square 00 \\\\ \\hline 500\\end{array} $ ②$ \\begin{array}{r}542 \\\\ + 135 \\\\ \\hline 6 \\square 7\\end{array} $ ③$ \\begin{array}{r}15 \\square \\\\ + 422 \\\\ \\hline 577\\end{array} $ ④$ \\begin{array}{r}2 \\square 7 \\\\ - 135 \\\\ \\hline 112\\end{array} $ ⑤$ \\begin{array}{r}640 \\\\ - 2 \\square 0 \\\\ \\hline 420\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

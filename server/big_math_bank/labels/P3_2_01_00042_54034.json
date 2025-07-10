@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00042_54034.png",
+  "id": "00042_54034",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$400$장의 사진을 꽂을 수 있는 앨범이 있습니다. 현수와 동생은 각각 $175$장씩의 사진을 가지고 있습니다. 현수와 동생의 사진을 앨범에 모두 꽂았다면 남은 앨범에는 사진을 몇 장 더 꽂을 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            354,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "$400$장의 사진을 꽂을 수 있는 앨범이 있습니다. 현수와 동생은 각각 $175$장씩의 사진을 가지고 있습니다. 현수와 동생의 사진을 앨범에 모두 꽂았다면 남은 앨범에는 사진을 몇 장 더 꽂을 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

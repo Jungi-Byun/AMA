@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00042_53754.png",
+  "id": "00042_53754",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희준이와 가은이가 무게가 $1 kg$인 인형을 들어 보고 어림한 것입니다. 실제 무게에 더 가깝게 어림한 사람은 누구입니까? 희준 : $1 kg 100 g$ 가은 : $800 g$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            691,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            36,
+            21,
+            138,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            54,
+            123,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            699,
+            78
+          ],
+          "text": "희준이와 가은이가 무게가 $1 kg$인 인형을 들어 보고 어림한 것입니다. 실제 무게에 더 가깝게 어림한 사람은 누구입니까? 희준 : $1 kg 100 g$ 가은 : $800 g$"
+        }
+      ]
+    }
+  ]
+}

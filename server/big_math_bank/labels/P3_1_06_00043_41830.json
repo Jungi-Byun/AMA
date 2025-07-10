@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_41830.png",
+  "id": "00043_41830",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어준이는 동생이 아파서 병원에 가려고 합니다. 다음은 어준이네 집에서 근처 병원까지의 거리입니다. 어준이네 집에서 가장 가까운 병원은 어디입니까? ㉮ 병원 : $ \\frac{1}{3} \\mathrm{~km}  $ ㉯ 병원 : $ \\frac{1}{4} \\mathrm{~km}  $ ㉰ 병원 : $ \\frac{1}{2} \\mathrm{~km} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            91,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            49,
+            355,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            93
+          ],
+          "text": "어준이는 동생이 아파서 병원에 가려고 합니다. 다음은 어준이네 집에서 근처 병원까지의 거리입니다. 어준이네 집에서 가장 가까운 병원은 어디입니까? ㉮ 병원 : $ \\frac{1}{3} \\mathrm{~km}  $ ㉯ 병원 : $ \\frac{1}{4} \\mathrm{~km}  $ ㉰ 병원 : $ \\frac{1}{2} \\mathrm{~km} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00043_55927.png",
+  "id": "00043_55927",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\frac{8}{5}$과 $1 \\frac{2}{5}$의 크기를 대분수로 고쳐서 비교하려고 합니다. 물음에 답하시오. (1) $\\frac{8}{5}$을 대분수로 나타내시오. $\\frac{8}{5} = \\frac{\\square}{5} + \\frac{3}{5}$=$\\square$+35=$\\square$  (2) 두 분수의 크기를 비교하여 $\\bigcirc$ 안에 $>,=,<$를 알맞게 써넣으시오. $1 \\frac{3}{5} \\bigcirc 1 \\frac{2}{5}  \\Rightarrow  \\frac{8}{5} \\bigcirc 1 \\frac{2}{5}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            451,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            197,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            81,
+            275,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            130,
+            402,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            153,
+            264,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            453,
+            189
+          ],
+          "text": "$\\frac{8}{5}$과 $1 \\frac{2}{5}$의 크기를 대분수로 고쳐서 비교하려고 합니다. 물음에 답하시오. (1) $\\frac{8}{5}$을 대분수로 나타내시오. $\\frac{8}{5} = \\frac{\\square}{5} + \\frac{3}{5}$=$\\square$+35=$\\square$  (2) 두 분수의 크기를 비교하여 $\\bigcirc$ 안에 $>,=,<$를 알맞게 써넣으시오. $1 \\frac{3}{5} \\bigcirc 1 \\frac{2}{5}  \\Rightarrow  \\frac{8}{5} \\bigcirc 1 \\frac{2}{5}$"
+        }
+      ]
+    }
+  ]
+}

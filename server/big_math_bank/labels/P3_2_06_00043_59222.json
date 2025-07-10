@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_06_00043_59222.png",
+  "id": "00043_59222",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "농장별 호박 생산량을 조사하여 나타낸 그림그래프입니다. 각 농장에서 생산한 호박을 $100 kg$씩 묶음으로 모두 팔고 나머지는 $1 kg$씩 봉지에 담아 보관한다고 합니다. 봉지 $1$개의 가격이 $80$원이라면 노을 농장에서 봉지를 사는 데 필요한 금액은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            682,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            44,
+            324,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            40
+          ],
+          "text": "농장별 호박 생산량을 조사하여 나타낸 그림그래프입니다. 각 농장에서 생산한 호박을 $100 kg$씩 묶음으로 모두 팔고 나머지는 $1 kg$씩 봉지에 담아 보관한다고 합니다. 봉지 $1$개의 가격이 $80$원이라면 노을 농장에서 봉지를 사는 데 필요한 금액은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

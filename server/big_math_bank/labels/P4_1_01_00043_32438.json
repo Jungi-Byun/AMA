@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_01_00043_32438.png",
+  "id": "00043_32438",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101002",
+      "question_topic_name": "다섯 자리 수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\left.\\begin{array}{r}100000 \\mid 8 \\\\ 10000 \\mid 5 \\\\ 1000 \\mid 7 \\\\ 100 \\mid 2 \\\\ 10 \\mid 9\\end{array}\\right] $ 이면 $\\boxed{\\phantom{1234}}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            200,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            141
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\left.\\begin{array}{r}100000 \\mid 8 \\\\ 10000 \\mid 5 \\\\ 1000 \\mid 7 \\\\ 100 \\mid 2 \\\\ 10 \\mid 9\\end{array}\\right] $ 이면 $\\boxed{\\phantom{1234}}$"
+        }
+      ]
+    }
+  ]
+}

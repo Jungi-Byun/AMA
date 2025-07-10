@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51478.png",
+  "id": "00043_51478",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가$◈$나를 다음과 같이 약속할 때, $45◈3$의 값을 구하시오. 가$◈$나$=$가$÷$나$÷$나",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            343,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            134,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            368,
+            57
+          ],
+          "text": "가$◈$나를 다음과 같이 약속할 때, $45◈3$의 값을 구하시오. 가$◈$나$=$가$÷$나$÷$나"
+        }
+      ]
+    }
+  ]
+}

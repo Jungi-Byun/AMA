@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_56070.png",
+  "id": "00043_56070",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$4$장의 숫자 카드 중에서 $3$장을 뽑아 만들 수 있는 대분수는 모두 몇 개입니까?  $\\boxed{\\phantom{(}3\\phantom{)}} $ $\\boxed{\\phantom{(}4\\phantom{)}} $ $\\boxed{\\phantom{(}7\\phantom{)}} $ $\\boxed{\\phantom{(}8\\phantom{)}}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            458,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            43,
+            20,
+            262,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            460,
+            43
+          ],
+          "text": "$4$장의 숫자 카드 중에서 $3$장을 뽑아 만들 수 있는 대분수는 모두 몇 개입니까?  $\\boxed{\\phantom{(}3\\phantom{)}} $ $\\boxed{\\phantom{(}4\\phantom{)}} $ $\\boxed{\\phantom{(}7\\phantom{)}} $ $\\boxed{\\phantom{(}8\\phantom{)}}$"
+        }
+      ]
+    }
+  ]
+}

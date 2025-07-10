@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00042_33030.png",
+  "id": "00042_33030",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중에서 나타내는 수가 다른 것은 어느 것입니까? ①$30$의 $\\frac{2}{5}$ ②$21$의 $\\frac{4}{7}$ ③$15$의 $\\frac{3}{5}$ ④42의 $\\frac{2}{7}$ ⑤$16$의 $\\frac{3}{4}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            97,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            93,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            92,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            96,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            93,
+            222
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            323,
+            223
+          ],
+          "text": "다음 중에서 나타내는 수가 다른 것은 어느 것입니까? ①$30$의 $\\frac{2}{5}$ ②$21$의 $\\frac{4}{7}$ ③$15$의 $\\frac{3}{5}$ ④42의 $\\frac{2}{7}$ ⑤$16$의 $\\frac{3}{4}$"
+        }
+      ]
+    }
+  ]
+}

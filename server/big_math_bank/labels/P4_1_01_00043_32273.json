@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_01_00043_32273.png",
+  "id": "00043_32273",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사다리타기를 할 때, 왼쪽에서 오른쪽으로 갈 때와 오른쪽에서 왼쪽으로 갈 때 각각 같은 수씩 뛰어서 셉니다. 왼쪽에서 오른쪽으로 갈 때 몇씩 뛰어서 센 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            753,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            199,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            44,
+            310,
+            278
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            755,
+            41
+          ],
+          "text": "사다리타기를 할 때, 왼쪽에서 오른쪽으로 갈 때와 오른쪽에서 왼쪽으로 갈 때 각각 같은 수씩 뛰어서 셉니다. 왼쪽에서 오른쪽으로 갈 때 몇씩 뛰어서 센 것입니까?"
+        }
+      ]
+    }
+  ]
+}

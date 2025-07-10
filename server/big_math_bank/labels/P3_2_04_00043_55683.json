@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55683.png",
+  "id": "00043_55683",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "조건을 모두 만족하는 분수는 모두 몇 개인지 알아보시오.  ㆍ 분모가 $8$인 가분수입니다.ㆍ 분자는 $13$보다 작습니다.  (1) 분모가 $8$인 가분수의 분자를 $\\square$라 놓고 이 분수를 $\\square$를 사용하여 나타내어 보시오.(2) 조건을 만족하는 분수를 모두 쓰시오.(3) 조건을 모두 만족하는 분수는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            27,
+            189,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            54,
+            183,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            499,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            250,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            313,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            502,
+            144
+          ],
+          "text": "조건을 모두 만족하는 분수는 모두 몇 개인지 알아보시오.  ㆍ 분모가 $8$인 가분수입니다.ㆍ 분자는 $13$보다 작습니다.  (1) 분모가 $8$인 가분수의 분자를 $\\square$라 놓고 이 분수를 $\\square$를 사용하여 나타내어 보시오.(2) 조건을 만족하는 분수를 모두 쓰시오.(3) 조건을 모두 만족하는 분수는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

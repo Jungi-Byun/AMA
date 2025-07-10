@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_05_00043_42684.png",
+  "id": "00043_42684",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105002",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 연도를 2010년, 2011년, 2012년, 2013년 순으로 나열하고 세로축은 단위가 (명)인 실업자 수이며, 2010년에는 4칸, 2011년은 6칸, 2012년은 7칸, 2013년은 9칸이고 그래프 제목이 가 지역 실업자 수인 막대그래프",
+      "question_text": "지역 신문을 읽고 가 지역의 $2012$년 실업자 수가 $3500$명이라면 $2010$년 실업자 수는 몇 명인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            615,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            35,
+            35,
+            315,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            49,
+            61,
+            297,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            49,
+            80,
+            296,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            49,
+            93,
+            296,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            48,
+            106,
+            295,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            48,
+            118,
+            225,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            71,
+            127,
+            290,
+            248
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            618,
+            129
+          ],
+          "text": "지역 신문을 읽고 가 지역의 $2012$년 실업자 수가 $3500$명이라면 $2010$년 실업자 수는 몇 명인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

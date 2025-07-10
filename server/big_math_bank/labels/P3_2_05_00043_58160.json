@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_58160.png",
+  "id": "00043_58160",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "여행 가방의 무게가 $12kg$보다 무거우면 비행기에 가지고 탈 수 없다고 합니다. 민진이는 다음 물건을 가방에 넣었습니다. 가방을 가지고 비행기를 타려고 할 때 빈 가방의 무게가 $1kg 300g$이라면 가방에 더 넣을 수 있는 물건의 무게는 몇 $kg$ 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            657,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            47,
+            326,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "여행 가방의 무게가 $12kg$보다 무거우면 비행기에 가지고 탈 수 없다고 합니다. 민진이는 다음 물건을 가방에 넣었습니다. 가방을 가지고 비행기를 타려고 할 때 빈 가방의 무게가 $1kg 300g$이라면 가방에 더 넣을 수 있는 물건의 무게는 몇 $kg$ 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

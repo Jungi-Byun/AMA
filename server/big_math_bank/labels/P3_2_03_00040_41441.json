@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_03_00040_41441.png",
+  "id": "00040_41441",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㄴㅁ을 지름으로 하는 원 ㅇ 상에 원의 중심 ㅇ부터 원 위의 점 ㅅ으로 선분을 그어 만든 중심각이 예각인 부채꼴 ㄴㅇㅅ이 있고, 선분 ㄴㅇ과 선분 ㅅㅇ을 지나도록 현 ㄱㄹ을 긋고, 원 위의 점 ㅂ에서 두 선분 ㅁㅇ, ㄱㄹ을 지나는 현 ㄷㅂ이 있고, 현 ㅂㄹ이 선분 ㅇㅁ을 지나고 있는 그림",
+      "question_text": "다음 중 원의 지름은 어느 것입니까?  ① 선분 $ㄱㄹ$ ② 선분 $ㄴㅇ$ ③ 선분 $ㄷㅂ$ ④ 선분 $ㄴㅁ$ ⑤ 선분 $ㅅㅇ$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            224,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            154,
+            98,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            176,
+            98,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            198,
+            98,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            220,
+            98,
+            240
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            242,
+            98,
+            262
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            23,
+            146,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            226,
+            21
+          ],
+          "text": "다음 중 원의 지름은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            153,
+            100,
+            263
+          ],
+          "text": "① 선분 $ㄱㄹ$ ② 선분 $ㄴㅇ$ ③ 선분 $ㄷㅂ$ ④ 선분 $ㄴㅁ$ ⑤ 선분 $ㅅㅇ$"
+        }
+      ]
+    }
+  ]
+}

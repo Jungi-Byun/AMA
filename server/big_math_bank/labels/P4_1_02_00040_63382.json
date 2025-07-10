@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_02_00040_63382.png",
+  "id": "00040_63382",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102001",
+      "question_topic_name": "각의 크기 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 시계의 두 바늘이 이루는 작은 쪽의 각의 크기가 가장 작은 것은 어느 것입니까?  ① 5시 30분 ② 7시 30분 ③ 8시 30분 ④ 9시 ⑤ 10시 30분",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            496,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            23,
+            247,
+            43
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            47,
+            214,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            71,
+            110,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            498,
+            92
+          ],
+          "text": "다음 시계의 두 바늘이 이루는 작은 쪽의 각의 크기가 가장 작은 것은 어느 것입니까?  ① 5시 30분 ② 7시 30분 ③ 8시 30분 ④ 9시 ⑤ 10시 30분"
+        }
+      ]
+    }
+  ]
+}

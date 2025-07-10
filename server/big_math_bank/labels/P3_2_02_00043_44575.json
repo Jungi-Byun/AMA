@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00043_44575.png",
+  "id": "00043_44575",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$60$명의 학생들이 버스 $4$대에 똑같이 나누어 타려고 합니다. 버스 한 대에 몇 명씩 타면 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            554,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            556,
+            21
+          ],
+          "text": "$60$명의 학생들이 버스 $4$대에 똑같이 나누어 타려고 합니다. 버스 한 대에 몇 명씩 타면 됩니까?"
+        }
+      ]
+    }
+  ]
+}

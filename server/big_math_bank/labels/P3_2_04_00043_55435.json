@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55435.png",
+  "id": "00043_55435",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민정이는 귤을 $27$개 가지고 있었는데 그중에서 $ \\frac{1}{3} $은 언니에게 주고, 나머지의 $ \\frac{1}{3} $은 동생에게 주었습니다. 민정이에게 남은 귤은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            800,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            42,
+            53,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            802,
+            59
+          ],
+          "text": "민정이는 귤을 $27$개 가지고 있었는데 그중에서 $ \\frac{1}{3} $은 언니에게 주고, 나머지의 $ \\frac{1}{3} $은 동생에게 주었습니다. 민정이에게 남은 귤은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00040_16014.png",
+  "id": "00040_16014",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림을 보고, 희열이네 집에서 놀이터를 지나 학교까지의 거리를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            467,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            39,
+            32,
+            305,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            0.42,
+            468.1,
+            16.42
+          ],
+          "text": "다음 그림을 보고, 희열이네 집에서 놀이터를 지나 학교까지의 거리를 구하시오."
+        }
+      ]
+    }
+  ]
+}

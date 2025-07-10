@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00040_23582.png",
+  "id": "00040_23582",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203016",
+      "question_topic_name": "소수 두 자리 수의 뺄셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 0.75m인 끈을 잘라 쓰고 남은 것을 재어 보니 0.23m였습니다. 사용한 끈의 길이는 몇 m입니까?  ①0.58m ②0.52m ③0.48m ④0.42m ⑤0.38m",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            607,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            85,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            84,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            85,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            85,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            85,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            609,
+            130
+          ],
+          "text": "길이가 0.75m인 끈을 잘라 쓰고 남은 것을 재어 보니 0.23m였습니다. 사용한 끈의 길이는 몇 m입니까?  ①0.58m ②0.52m ③0.48m ④0.42m ⑤0.38m"
+        }
+      ]
+    }
+  ]
+}

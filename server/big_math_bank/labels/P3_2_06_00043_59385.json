@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_06_00043_59385.png",
+  "id": "00043_59385",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 달 동안 목장별 우유 생산량을 조사하여 나타낸 표와 그림그래프입니다. 그림그래프를 완성하고, ㉡ 목장보다 생산량이 많은 목장을 모두 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            91,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            114,
+            52,
+            241,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            33,
+            73,
+            315,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            146,
+            315,
+            324
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            138
+          ],
+          "text": "한 달 동안 목장별 우유 생산량을 조사하여 나타낸 표와 그림그래프입니다. 그림그래프를 완성하고, ㉡ 목장보다 생산량이 많은 목장을 모두 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

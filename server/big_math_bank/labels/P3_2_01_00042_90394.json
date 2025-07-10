@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00042_90394.png",
+  "id": "00042_90394",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈에서 $\\square$ 안의 숫자끼리의 곱은 실제로 얼마를 나타냅니까?  $ \\begin{array}{r}\\boxed{4}~3~ \\\\ \\times  3~\\boxed9 \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            372,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            100,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            374,
+            84
+          ],
+          "text": "곱셈에서 $\\square$ 안의 숫자끼리의 곱은 실제로 얼마를 나타냅니까?  $ \\begin{array}{r}\\boxed{4}~3~ \\\\ \\times  3~\\boxed9 \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

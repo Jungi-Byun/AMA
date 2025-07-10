@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_02_00043_51387.png",
+  "id": "00043_51387",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$42÷3$을 어떻게 계산하는지 알아보시오. ⑴ $\\bullet 42$개를 $\\bigcirc$로 묶어서 똑같이 $3$묶음으로 만들어 보시오. ⑵ 묶고 남은 $\\bullet$ 은 $\\square$개입니다. ⑶ $42÷3$의 몫은 $\\square$이고, 나머지는 $\\square$입니다. ⑷ $\\square$ 안에 알맞은 수를 써넣으시오. $ 42 \\div 3=\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            244,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            166,
+            376,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            195,
+            228,
+            222
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            226,
+            312,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            255,
+            220,
+            272
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            277,
+            98,
+            303
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            33,
+            293,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            246,
+            22
+          ],
+          "text": "$42÷3$을 어떻게 계산하는지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            165,
+            378,
+            303
+          ],
+          "text": "⑴ $\\bullet 42$개를 $\\bigcirc$로 묶어서 똑같이 $3$묶음으로 만들어 보시오. ⑵ 묶고 남은 $\\bullet$ 은 $\\square$개입니다. ⑶ $42÷3$의 몫은 $\\square$이고, 나머지는 $\\square$입니다. ⑷ $\\square$ 안에 알맞은 수를 써넣으시오. $ 42 \\div 3=\\square $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_05_00042_26625.png",
+  "id": "00042_26625",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 학생들이 오후에 책을 읽은 시간을 나타낸 것입니다. 책을 가장 오랫동안 읽은 학생의 이름을 쓰시오. 민호: $2$시에서 $3시 40분$까지 병현: $4시 40분$에서 $6시$까지 누리: $3시 10분$에서 $5시$까지",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            624,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            26,
+            206,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            56,
+            207,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            76,
+            202,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            624,
+            95
+          ],
+          "text": "다음은 학생들이 오후에 책을 읽은 시간을 나타낸 것입니다. 책을 가장 오랫동안 읽은 학생의 이름을 쓰시오. 민호: $2$시에서 $3시 40분$까지 병현: $4시 40분$에서 $6시$까지 누리: $3시 10분$에서 $5시$까지"
+        }
+      ]
+    }
+  ]
+}

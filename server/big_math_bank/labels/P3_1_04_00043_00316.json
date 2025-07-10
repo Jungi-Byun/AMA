@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00043_00316.png",
+  "id": "00043_00316",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경수는 동화책과 위인전을 한 권씩 샀습니다. 하루에 동화책을 $26$쪽씩 $3$일 동안 읽었고, 위인전을 $31$쪽씩 $4$일 동안 읽었습니다. 경수는 동화책과 위인전을 모두 몇 쪽 읽었습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            237,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "경수는 동화책과 위인전을 한 권씩 샀습니다. 하루에 동화책을 $26$쪽씩 $3$일 동안 읽었고, 위인전을 $31$쪽씩 $4$일 동안 읽었습니다. 경수는 동화책과 위인전을 모두 몇 쪽 읽었습니까?"
+        }
+      ]
+    }
+  ]
+}

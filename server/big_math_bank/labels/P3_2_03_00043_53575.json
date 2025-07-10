@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53575.png",
+  "id": "00043_53575",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "크기가 같은 두 원이 두 점에서 만나고, 두 원이 겹쳐진 부분에 작은 원을 맞닿게 그리고, 겹쳐진 부분에서 두 접점을 지나는 직선을 연장하여 각각 처음 크기가 같은 두 원과 만나게 그리고, 오른쪽 접점과 오른쪽 원 위의 점까지의 길이가 5 cm인 도형",
+      "question_text": "그림은 크기가 같은 두 원의 겹쳐진 부분에 작은 원을 맞닿게 그린 것입니다. 작은 원의 지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            631,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            28,
+            181,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            633,
+            22
+          ],
+          "text": "그림은 크기가 같은 두 원의 겹쳐진 부분에 작은 원을 맞닿게 그린 것입니다. 작은 원의 지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_01_00043_49720.png",
+  "id": "00043_49720",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산에서 ㉠과 ㉡은 서로 다른 수를 나타냅니다. ㉠과 ㉡에 각각 알맞은 수를 알아보시오. (다만, $㉠<㉡$입니다.) $ \\begin{array}{r}㉠㉡ \\\\ \\times ㉡㉠ \\\\ \\hline 2668\\end{array} $  ⑴ 두 수를 곱했을 때 일의 자리 수가 $8$이 되는 (㉡, ㉠)을 모두 구하시오.  ⑵ 위 ⑴에서 구한 수들로 $㉠㉡×㉡㉠$의 값을 모두 구하시오.  ⑶ ㉠과 ㉡에 알맞은 수를 각각 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            639,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            106,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            102,
+            424,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            123,
+            354,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            147,
+            249,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            641,
+            165
+          ],
+          "text": "계산에서 ㉠과 ㉡은 서로 다른 수를 나타냅니다. ㉠과 ㉡에 각각 알맞은 수를 알아보시오. (다만, $㉠<㉡$입니다.) $ \\begin{array}{r}㉠㉡ \\\\ \\times ㉡㉠ \\\\ \\hline 2668\\end{array} $  ⑴ 두 수를 곱했을 때 일의 자리 수가 $8$이 되는 (㉡, ㉠)을 모두 구하시오.  ⑵ 위 ⑴에서 구한 수들로 $㉠㉡×㉡㉠$의 값을 모두 구하시오.  ⑶ ㉠과 ㉡에 알맞은 수를 각각 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50379.png",
+  "id": "00043_50379",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203009",
+      "question_topic_name": "소수 한 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "수직선에서 0과 1사이가 10칸으로 나뉘어 있고 숫자 0, 0.5, 1이쓰여 있으며 1의 우측에 두 칸이 더 그려져 있고 0에서 4번째 칸까지, 4번째 칸에서 1의 우측 두 번째 칸까지 점선 화살표 곡선으로 묶어서 표현한 수직선 도형",
+      "question_text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.  $ 0.4+\\square=  \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            106,
+            74,
+            243,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            29,
+            318,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            24
+          ],
+          "text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            104,
+            72,
+            245,
+            104
+          ],
+          "text": "$ 0.4+\\square=  \\square$"
+        }
+      ]
+    }
+  ]
+}

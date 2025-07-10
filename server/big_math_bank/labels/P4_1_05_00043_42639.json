@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_05_00043_42639.png",
+  "id": "00043_42639",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "문주네 반 학생들이 좋아하는 색깔을 조사하여 나타낸 막대그래프입니다. 노란색을 좋아하는 학생 수가 두 번째로 많고, 짝수일 때, 노란색을 좋아하는 학생 수와 파란색을 좋아하는 학생 수의 차를 알아보시오. (다만, 좋아하는 색깔별 학생 수는 서로 다릅니다.) ⑴ 노란색을 좋아하는 학생은 몇 명입니까? ⑵ 파란색을 좋아하는 학생은 몇 명입니까? ⑶ 노란색을 좋아하는 학생 수와 파란색을 좋아하는 학생 수의 차는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            698,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            256,
+            262,
+            273
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            278,
+            262,
+            295
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            300,
+            472,
+            317
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            51,
+            319,
+            243
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            41
+          ],
+          "text": "문주네 반 학생들이 좋아하는 색깔을 조사하여 나타낸 막대그래프입니다. 노란색을 좋아하는 학생 수가 두 번째로 많고, 짝수일 때, 노란색을 좋아하는 학생 수와 파란색을 좋아하는 학생 수의 차를 알아보시오. (다만, 좋아하는 색깔별 학생 수는 서로 다릅니다.)"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            255,
+            474,
+            318
+          ],
+          "text": "⑴ 노란색을 좋아하는 학생은 몇 명입니까? ⑵ 파란색을 좋아하는 학생은 몇 명입니까? ⑶ 노란색을 좋아하는 학생 수와 파란색을 좋아하는 학생 수의 차는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

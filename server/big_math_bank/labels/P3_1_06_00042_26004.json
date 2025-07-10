@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00042_26004.png",
+  "id": "00042_26004",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1) $ \\frac{1}{5} $ 이 $ \\square $ 개이면 $ \\frac{4}{5} $ 입니다. (2) $ \\frac{8}{9} $ 은 $ \\frac{\\square}{\\square} $이 8개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            208,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            63,
+            216,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            218,
+            108
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1) $ \\frac{1}{5} $ 이 $ \\square $ 개이면 $ \\frac{4}{5} $ 입니다. (2) $ \\frac{8}{9} $ 은 $ \\frac{\\square}{\\square} $이 8개입니다."
+        }
+      ]
+    }
+  ]
+}

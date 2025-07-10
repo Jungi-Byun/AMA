@@ -1,0 +1,169 @@
+{
+  "question_filename": "P4_2_03_00043_50985.png",
+  "id": "00043_50985",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\bigcirc$ 안에 >, =, < 를 알맞게 써넣으시오.(1) $ 0.835 \\bigcirc 0.79 $ (2) $ 4.06 \\bigcirc 4.081 $ (3) $ 0.9 \\bigcirc 0.902 $ (4) $ 3.247 \\bigcirc 3.24 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            234,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            26,
+            75,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            79,
+            23,
+            106,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            110,
+            27,
+            140,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            55,
+            71,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            74,
+            53,
+            101,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            104,
+            56,
+            141,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            84,
+            62,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            66,
+            83,
+            93,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            97,
+            87,
+            137,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            116,
+            75,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            80,
+            113,
+            106,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            110,
+            115,
+            140,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            236,
+            140
+          ],
+          "text": "$\\bigcirc$ 안에 >, =, < 를 알맞게 써넣으시오.(1) $ 0.835 \\bigcirc 0.79 $ (2) $ 4.06 \\bigcirc 4.081 $ (3) $ 0.9 \\bigcirc 0.902 $ (4) $ 3.247 \\bigcirc 3.24 $"
+        }
+      ]
+    }
+  ]
+}

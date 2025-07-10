@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00042_26787.png",
+  "id": "00042_26787",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "포도맛 사탕 $7$개와 딸기맛 사탕 $13$개가 있습니다. 이 사탕을 종류에 관계없이 한 봉지에 $5$개씩 넣으려고 합니다. 사탕은 모두 몇 봉지가 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            234,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "포도맛 사탕 $7$개와 딸기맛 사탕 $13$개가 있습니다. 이 사탕을 종류에 관계없이 한 봉지에 $5$개씩 넣으려고 합니다. 사탕은 모두 몇 봉지가 됩니까?"
+        }
+      ]
+    }
+  ]
+}

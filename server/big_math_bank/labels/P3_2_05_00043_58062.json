@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58062.png",
+  "id": "00043_58062",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바구니 안에 과일을 담아 무게를 재었더니 $3kg  600g$이었습니다. 바구니만의 무게가 $850g$이라면 과일의 무게는 몇 $kg$ 몇 $g$인지 식을 쓰고 답을 구하시오.식\\qquad\\qquad 답\\qquad",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            103,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            154,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            126,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            83
+          ],
+          "text": "바구니 안에 과일을 담아 무게를 재었더니 $3kg  600g$이었습니다. 바구니만의 무게가 $850g$이라면 과일의 무게는 몇 $kg$ 몇 $g$인지 식을 쓰고 답을 구하시오.식\\qquad\\qquad 답\\qquad"
+        }
+      ]
+    }
+  ]
+}

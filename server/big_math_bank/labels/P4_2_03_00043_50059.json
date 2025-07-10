@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50059.png",
+  "id": "00043_50059",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직선 도로의 시작 지점에서 $0.16 km$ 떨어진 지점과 $0.18 km$ 떨어진 지점에 나무를 심고, 두 지점 사이에 똑같은 간격으로 나무 $3$그루를 심으려고 합니다. 시작 지점으로부터 네 번째 나무는 몇 $km$ 떨어진 지점에 심게 되는지 소수로 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            594,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "직선 도로의 시작 지점에서 $0.16 km$ 떨어진 지점과 $0.18 km$ 떨어진 지점에 나무를 심고, 두 지점 사이에 똑같은 간격으로 나무 $3$그루를 심으려고 합니다. 시작 지점으로부터 네 번째 나무는 몇 $km$ 떨어진 지점에 심게 되는지 소수로 구하시오."
+        }
+      ]
+    }
+  ]
+}

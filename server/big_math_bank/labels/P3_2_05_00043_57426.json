@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57426.png",
+  "id": "00043_57426",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 각자의 컵으로 각각 모양과 크기가 같은 세 양동이에 가득 채워진 물을 모두 덜어낸 횟수입니다. 들이가 가장 적은 컵을 가진 사람은 누구입니까? 종철 : $4$번  $$재원 : $7$번  $$민형 : $9$번",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            91,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            31,
+            43,
+            285,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            78
+          ],
+          "text": "다음은 각자의 컵으로 각각 모양과 크기가 같은 세 양동이에 가득 채워진 물을 모두 덜어낸 횟수입니다. 들이가 가장 적은 컵을 가진 사람은 누구입니까? 종철 : $4$번  $$재원 : $7$번  $$민형 : $9$번"
+        }
+      ]
+    }
+  ]
+}

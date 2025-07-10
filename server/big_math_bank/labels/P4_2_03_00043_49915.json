@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_03_00043_49915.png",
+  "id": "00043_49915",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각설탕 한 개의 무게는 $2.56 g$입니다. $2.56$에 대해 알아보시오.(1) $2.56$을 읽어 보시오.(2) $2$는 일의 자리 숫자이고 $ \\square $를 나타냅니다.(3) $5$는 소수 첫째 자리 숫자이고 $ \\square $를 나타냅니다.(4) $6$은 소수 둘째 자리 숫자이고 $ \\square $을 나타냅니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            372,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            152,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            292,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            330,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            102,
+            340,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            374,
+            129
+          ],
+          "text": "각설탕 한 개의 무게는 $2.56 g$입니다. $2.56$에 대해 알아보시오.(1) $2.56$을 읽어 보시오.(2) $2$는 일의 자리 숫자이고 $ \\square $를 나타냅니다.(3) $5$는 소수 첫째 자리 숫자이고 $ \\square $를 나타냅니다.(4) $6$은 소수 둘째 자리 숫자이고 $ \\square $을 나타냅니다."
+        }
+      ]
+    }
+  ]
+}

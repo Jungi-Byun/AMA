@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_01_00043_32682.png",
+  "id": "00043_32682",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "큰 수를 뛰어서 세어 보시오.  (1) 수아가 센 수는 백만의 자리 수가 \t$\\square$씩 커집니다. (2) 수아는 $\\square$씩 뛰어서 세었습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            178,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            208,
+            330,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            230,
+            301,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            27,
+            319,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            0.56,
+            179.48,
+            18.16
+          ],
+          "text": "큰 수를 뛰어서 세어 보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            206.96,
+            331.48,
+            252.56
+          ],
+          "text": "(1) 수아가 센 수는 백만의 자리 수가 \t$\\square$씩 커집니다. (2) 수아는 $\\square$씩 뛰어서 세었습니다."
+        }
+      ]
+    }
+  ]
+}

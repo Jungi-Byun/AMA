@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_04_00040_41653.png",
+  "id": "00040_41653",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "왼쪽 도형을 어떻게 움직여 오른쪽 모양과 같이 되었는지 바르게 말한 사람은 누구입니까? ①수민 : 오른쪽으로 뒤집기 하고, 다시 (시계방향)방향으로 돌리기 하였습니다. ②승주 : 왼쪽으로 뒤집기 하고, 다시 아래쪽으로 뒤집기 하였습니다. ③영주 : 오른쪽으로 뒤집기 하고, 다시 오른쪽으로 밀었습니다. ④지민 : 오른쪽으로 밀고, 다시 위쪽으로 뒤집기 하였습니다. ⑤하은 : 아래쪽으로 뒤집기 하고, 다시 위쪽으로 뒤집기 하였습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            526,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            161,
+            416,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            182,
+            386,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            204,
+            374,
+            224
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            226,
+            416,
+            246
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.72,
+            130.89,
+            451.72,
+            160.89
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            22,
+            289,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.72,
+            0,
+            526.72,
+            16.89
+          ],
+          "text": "왼쪽 도형을 어떻게 움직여 오른쪽 모양과 같이 되었는지 바르게 말한 사람은 누구입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.72,
+            130.89,
+            451.72,
+            246.89
+          ],
+          "text": "①수민 : 오른쪽으로 뒤집기 하고, 다시 (시계방향)방향으로 돌리기 하였습니다. ②승주 : 왼쪽으로 뒤집기 하고, 다시 아래쪽으로 뒤집기 하였습니다. ③영주 : 오른쪽으로 뒤집기 하고, 다시 오른쪽으로 밀었습니다. ④지민 : 오른쪽으로 밀고, 다시 위쪽으로 뒤집기 하였습니다. ⑤하은 : 아래쪽으로 뒤집기 하고, 다시 위쪽으로 뒤집기 하였습니다."
+        }
+      ]
+    }
+  ]
+}

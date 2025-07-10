@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00043_34893.png",
+  "id": "00043_34893",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102003",
+      "question_topic_name": "직선 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형을 바르게 읽은 것에 $\\bigcirc$표 하시오. 직선 ㄱㄴ    선분 ㄱㄴ 도형을 바르게 읽은 것에 $\\bigcirc$표 하시오. 직선 $ㄱㄴ$    선분 $ㄱㄴ$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            37.99,
+            87.88,
+            106.6,
+            108.87
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            149.61,
+            87.83,
+            216.68,
+            108.31
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            236,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            235,
+            22
+          ],
+          "text": "도형을 바르게 읽은 것에 $\\bigcirc$표 하시오. 직선 ㄱㄴ    선분 ㄱㄴ"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.02,
+            0.79,
+            234.09,
+            16.15
+          ],
+          "text": "도형을 바르게 읽은 것에 $\\bigcirc$표 하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            37.99,
+            87.32,
+            216.68,
+            107.8
+          ],
+          "text": "직선 $ㄱㄴ$    선분 $ㄱㄴ$"
+        }
+      ]
+    }
+  ]
+}

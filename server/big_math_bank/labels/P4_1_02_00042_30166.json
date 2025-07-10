@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_30166.png",
+  "id": "00042_30166",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102011",
+      "question_topic_name": "각도의 합 또는 차의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "중심이 ㅇ인 색칠된 원 위의 점 ㄱ에서 시계 반대 방향으로 점 ㄴ과 점 ㄷ이 있고 호 ㄱㄴ의 중심각은 직각이고 호 ㄱㄷ의 중심각은 115도이며 호 ㄴㄷ의 중심각에 각 표현한 도형",
+      "question_text": "다음 원에서 각 ㄴㅇㄷ의 크기를 구하시오.  $()^{\\circ}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            258,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            22,
+            131,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            260,
+            22
+          ],
+          "text": "다음 원에서 각 ㄴㅇㄷ의 크기를 구하시오.  $()^{\\circ}$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_25088.png",
+  "id": "00042_25088",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "혜윤이와 선영이는 종이학을 $400$마리 접으려고 합니다. 지금까지 혜윤이는 $169$마리, 선영이는 $145$마리 접었습니다. 앞으로 몇 마리를 더 접어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            603,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            295,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            605,
+            41
+          ],
+          "text": "혜윤이와 선영이는 종이학을 $400$마리 접으려고 합니다. 지금까지 혜윤이는 $169$마리, 선영이는 $145$마리 접었습니다. 앞으로 몇 마리를 더 접어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

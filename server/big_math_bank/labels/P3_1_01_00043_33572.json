@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_01_00043_33572.png",
+  "id": "00043_33572",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉮$-$㉯$+$㉰의 값을 구하시오.  ㉮ $334$에서 $158$씩 $2$번 뛰어 세기 한 수  ㉯ $100$이 $3$개, $10$이 $17$개, $1$이 $25$개인 수  ㉰ 숫자 카드 $\\boxed{2},\\boxed{4},\\boxed{5},\\boxed{7}$ 을 한 번씩만 사용하여 만들 수 있는 세 자리 수 중에서 세 번째로 큰 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            172,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            250,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            54,
+            255,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            75,
+            587,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            588,
+            101
+          ],
+          "text": "㉮$-$㉯$+$㉰의 값을 구하시오.  ㉮ $334$에서 $158$씩 $2$번 뛰어 세기 한 수  ㉯ $100$이 $3$개, $10$이 $17$개, $1$이 $25$개인 수  ㉰ 숫자 카드 $\\boxed{2},\\boxed{4},\\boxed{5},\\boxed{7}$ 을 한 번씩만 사용하여 만들 수 있는 세 자리 수 중에서 세 번째로 큰 수"
+        }
+      ]
+    }
+  ]
+}

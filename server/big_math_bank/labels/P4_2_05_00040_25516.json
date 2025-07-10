@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00040_25516.png",
+  "id": "00040_25516",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205001",
+      "question_topic_name": "꺾은선그래프 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 꺾은선그래프에 대해 잘못 설명한 것은 어느 것입니까? ①변화하는 모양을 한눈에 알 수 있습니다. ②중간값을 짐작하기 쉽습니다. ③시간에 따른 연속적인 변화를 나타냅니다. ④조사하지 않은 다음 값도 예상 가능합니다. ⑤늘어나고 줄어듦을 알기 쉽습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            375,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            270,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            207,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            278,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            282,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            237,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            377,
+            130
+          ],
+          "text": "다음 중 꺾은선그래프에 대해 잘못 설명한 것은 어느 것입니까? ①변화하는 모양을 한눈에 알 수 있습니다. ②중간값을 짐작하기 쉽습니다. ③시간에 따른 연속적인 변화를 나타냅니다. ④조사하지 않은 다음 값도 예상 가능합니다. ⑤늘어나고 줄어듦을 알기 쉽습니다."
+        }
+      ]
+    }
+  ]
+}

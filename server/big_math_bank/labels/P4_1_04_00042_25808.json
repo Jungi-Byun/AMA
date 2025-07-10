@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_04_00042_25808.png",
+  "id": "00042_25808",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "왼쪽 도형을 움직여서 오른쪽 모양이 되었습니다. 어떻게 움직였는지 알맞은 방법을 모두 고르시오. ①위쪽으로 밀기 ②(시계 방향 $90\\degree$) 방향으로 돌리기 ③왼쪽으로 뒤집기 ④(반시계 방향 $90\\degree$) 방향으로 돌리기 ⑤(시계 방향 $180\\degree$) 방향으로 돌리기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            577,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.3,
+            121.85,
+            170.06,
+            150.01
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.22,
+            173.05,
+            171.98,
+            203.77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.94,
+            203.77,
+            170.7,
+            232.57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.94,
+            100.09,
+            125.26,
+            118.01
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.94,
+            151.93,
+            137.42,
+            169.21
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            214,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.74,
+            0.25,
+            577.74,
+            18.17
+          ],
+          "text": "왼쪽 도형을 움직여서 오른쪽 모양이 되었습니다. 어떻게 움직였는지 알맞은 방법을 모두 고르시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.94,
+            100.73,
+            171.98,
+            231.93
+          ],
+          "text": "①위쪽으로 밀기 ②(시계 방향 $90\\degree$) 방향으로 돌리기 ③왼쪽으로 뒤집기 ④(반시계 방향 $90\\degree$) 방향으로 돌리기 ⑤(시계 방향 $180\\degree$) 방향으로 돌리기"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32633.png",
+  "id": "00043_32633",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 과학 관련 기사입니다. 지구에서 슈퍼지구까지의 거리를 수로 나타내면 약 몇$ km$입니까? 지구와 비슷한 크기에 바다와 흙이 존재하고, 평균 $22$도 기온을 유지해 인간이 살 수 있는 ‘슈퍼지구’의 존재가 확인됐습니다. 미국항공우주국의 케플러연구팀은 지구로부터 $600$광년(약 오천육백팔십조 이천억 $km$) 떨어진 곳에 인간이 살 수 있는 별을 찾았습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            561,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            24,
+            759,
+            51
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            51,
+            759,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            74,
+            47,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            763,
+            100
+          ],
+          "text": "다음은 과학 관련 기사입니다. 지구에서 슈퍼지구까지의 거리를 수로 나타내면 약 몇$ km$입니까? 지구와 비슷한 크기에 바다와 흙이 존재하고, 평균 $22$도 기온을 유지해 인간이 살 수 있는 ‘슈퍼지구’의 존재가 확인됐습니다. 미국항공우주국의 케플러연구팀은 지구로부터 $600$광년(약 오천육백팔십조 이천억 $km$) 떨어진 곳에 인간이 살 수 있는 별을 찾았습니다."
+        }
+      ]
+    }
+  ]
+}

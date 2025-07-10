@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00040_28473.png",
+  "id": "00040_28473",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202001",
+      "question_topic_name": "내림이 없는 (몇십)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 크기 비교가 틀린 것은 어느 것입니까?  ① $ 20 \\div 2 > 20 \\div 4 $ ② $ 40 \\div 8 < 40 \\div 4 $ ③ $ 60 \\div 3 = 40 \\div 2 $ ④ $ 90 \\div 9 = 9 \\div 9 $ ⑤ $ 50 \\div 5 = 60 \\div 6 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            283,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            23,
+            133,
+            45
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            48,
+            134,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            73,
+            133,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            98,
+            124,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            123,
+            132,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            285,
+            145
+          ],
+          "text": "다음 중 크기 비교가 틀린 것은 어느 것입니까?  ① $ 20 \\div 2 > 20 \\div 4 $ ② $ 40 \\div 8 < 40 \\div 4 $ ③ $ 60 \\div 3 = 40 \\div 2 $ ④ $ 90 \\div 9 = 9 \\div 9 $ ⑤ $ 50 \\div 5 = 60 \\div 6 $"
+        }
+      ]
+    }
+  ]
+}

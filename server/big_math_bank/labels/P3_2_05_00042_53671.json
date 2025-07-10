@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_53671.png",
+  "id": "00042_53671",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우유갑의 들이를 보고 들이를 $800mL$쯤으로 어림할 수 있는 것에 $\\bigcirc$표 하시오.$ ()()() $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            463,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            20,
+            337,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            465,
+            22
+          ],
+          "text": "우유갑의 들이를 보고 들이를 $800mL$쯤으로 어림할 수 있는 것에 $\\bigcirc$표 하시오.$ ()()() $"
+        }
+      ]
+    }
+  ]
+}

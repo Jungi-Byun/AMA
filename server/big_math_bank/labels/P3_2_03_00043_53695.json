@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53695.png",
+  "id": "00043_53695",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "반지름이 4 cm, 7 cm, 11 cm, 14 cm, 18 cm인 원이 일렬로 서로 접하지 않도록 있으며, 계속되는 의미의 점 표시가 있는 그림",
+      "question_text": "반지름을 일정한 규칙에 따라 늘여 가며 원을 그리고 있습니다. 열 번째에 그리게 될 원의 지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            644,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            28,
+            322,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            646,
+            23
+          ],
+          "text": "반지름을 일정한 규칙에 따라 늘여 가며 원을 그리고 있습니다. 열 번째에 그리게 될 원의 지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

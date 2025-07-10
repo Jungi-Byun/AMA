@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_01_00043_49119.png",
+  "id": "00043_49119",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201001",
+      "question_topic_name": "올림 없는 (세 자리 수)x(한 자리 수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "대화를 읽고 $231\\times2$는 어림하여 약 몇백 몇십인지 구하시오. 정호 : $231$을 어림하면 약 몇백 몇십이지? 민지 : 약 $230$으로 어림하면 돼. 정호 : 아하! 그럼 $231\\times2$도 약 몇백 몇십으로 어림할 수 있겠구나. $231\\times2$  $ \\Rightarrow \\square+\\square=\\square $ $ \\Rightarrow $ 약 $ \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            354,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            263,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            206,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            74,
+            394,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            58,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            126,
+            236,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            155,
+            117,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            434,
+            182
+          ],
+          "text": "대화를 읽고 $231\\times2$는 어림하여 약 몇백 몇십인지 구하시오. 정호 : $231$을 어림하면 약 몇백 몇십이지? 민지 : 약 $230$으로 어림하면 돼. 정호 : 아하! 그럼 $231\\times2$도 약 몇백 몇십으로 어림할 수 있겠구나. $231\\times2$  $ \\Rightarrow \\square+\\square=\\square $ $ \\Rightarrow $ 약 $ \\square $"
+        }
+      ]
+    }
+  ]
+}

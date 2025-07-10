@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00042_92951.png",
+  "id": "00042_92951",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202001",
+      "question_topic_name": "내림이 없는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "딸기맛 사탕 $24$개와 포도맛 사탕 $16$개가 있습니다. 이 사탕을 한 봉지에 $4$개씩 넣으면 필요한 봉지는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            692,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            694,
+            21
+          ],
+          "text": "딸기맛 사탕 $24$개와 포도맛 사탕 $16$개가 있습니다. 이 사탕을 한 봉지에 $4$개씩 넣으면 필요한 봉지는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

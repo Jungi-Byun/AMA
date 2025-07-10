@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00040_38401.png",
+  "id": "00040_38401",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 가장 큰 수는 어느 것입니까?  ① $ 2 \\frac{27}{100} $ ② $2.31$ ③ $ 2 \\frac{309}{1000} $ ④ $2.129$ ⑤ $ 2 \\frac{56}{1000} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            228,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            81,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            62,
+            68,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            89,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            125,
+            77,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            150,
+            89,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            230,
+            188
+          ],
+          "text": "다음 중 가장 큰 수는 어느 것입니까?  ① $ 2 \\frac{27}{100} $ ② $2.31$ ③ $ 2 \\frac{309}{1000} $ ④ $2.129$ ⑤ $ 2 \\frac{56}{1000} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_78708.png",
+  "id": "00040_78708",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204017",
+      "question_topic_name": "마름모의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "( ) 안에 알맞은 말을 짝지은 것은 어느 것인가? 마름모는 마주 보는 두 쌍의 변이 평행이므로 ( )이라고 할 수 있습니다. 그리고 평행사변형은 한 쌍의 마주 보는 변이 평행이므로 ( )라고 할 수 있습니다. ①평행사변형, 마름모 ②사다리꼴, 평행사변형 ③평행사변형, 사다리꼴 ④정사각형, 사다리꼴 ⑤정사각형, 마름모",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            302,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            804,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            55,
+            205,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            154,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            165,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            166,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            154,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            141,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            189
+          ],
+          "text": "( ) 안에 알맞은 말을 짝지은 것은 어느 것인가? 마름모는 마주 보는 두 쌍의 변이 평행이므로 ( )이라고 할 수 있습니다. 그리고 평행사변형은 한 쌍의 마주 보는 변이 평행이므로 ( )라고 할 수 있습니다. ①평행사변형, 마름모 ②사다리꼴, 평행사변형 ③평행사변형, 사다리꼴 ④정사각형, 사다리꼴 ⑤정사각형, 마름모"
+        }
+      ]
+    }
+  ]
+}

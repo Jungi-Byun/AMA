@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_56060.png",
+  "id": "00043_56060",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곡식의 혼합물 분리 실험을 하려고 혼합물 $6\\frac{4}{7}$봉지를 준비했습니다. 좁쌀 한 컵을 분리하는 데 필요한 혼합물은 $\\frac{1}{7}$봉지일 때, 준비한 혼합물을 분리하면 좁쌀이 몇 컵 나옵니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            250,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            59
+          ],
+          "text": "곡식의 혼합물 분리 실험을 하려고 혼합물 $6\\frac{4}{7}$봉지를 준비했습니다. 좁쌀 한 컵을 분리하는 데 필요한 혼합물은 $\\frac{1}{7}$봉지일 때, 준비한 혼합물을 분리하면 좁쌀이 몇 컵 나옵니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_06_00043_59350.png",
+  "id": "00043_59350",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성재네 반에서 모둠별로 모은 붙임 딱지 수를 조사하여 나타낸 그림그래프입니다. 성재네 반에서 모은 붙임 딱지 수가 모두 $75$장일 때 그림그래프를 완성하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            141,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            51,
+            324,
+            244
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            40
+          ],
+          "text": "성재네 반에서 모둠별로 모은 붙임 딱지 수를 조사하여 나타낸 그림그래프입니다. 성재네 반에서 모은 붙임 딱지 수가 모두 $75$장일 때 그림그래프를 완성하시오."
+        }
+      ]
+    }
+  ]
+}

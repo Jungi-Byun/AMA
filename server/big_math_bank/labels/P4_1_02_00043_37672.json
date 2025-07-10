@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_02_00043_37672.png",
+  "id": "00043_37672",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "네 각의 크기가 반시계 방향으로 140도, 원 문자 ㄱ, 85도, 65도인 사각형 오른쪽에 오른쪽을 향하는 화살표가 있고, 그 오른쪽에 왼쪽 사각형의 한 꼭짓점이 한 조각에 포함되도록 네 조각으로 자른 뒤, 네 각의 꼭짓점이 한 점에서 만나도록 변끼리 이어 붙인 도형",
+      "question_text": "사각형 모양의 종이를 잘라서 네 각의 꼭짓점이 한 점에서 만나도록 변끼리 이어 붙였더니 모두 만나서 바닥을 채웠습니다. ㉠은 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            47,
+            279,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            40
+          ],
+          "text": "사각형 모양의 종이를 잘라서 네 각의 꼭짓점이 한 점에서 만나도록 변끼리 이어 붙였더니 모두 만나서 바닥을 채웠습니다. ㉠은 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

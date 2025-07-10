@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_01_00043_33504.png",
+  "id": "00043_33504",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 대화를 보고 바르게 계산한 값을 구하시오. 탄희: 어떤 수에서 $252$와 $148$을 빼야 하는데 실수로 모두 더했어. 연재: 계산한 값이 얼마인데? 탄희: 더한 값은 $1000$이야. 연재: 바르게 계산하면 얼마지?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            27,
+            394,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            53,
+            190,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            74,
+            185,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            97,
+            205,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            397,
+            120
+          ],
+          "text": "다음 대화를 보고 바르게 계산한 값을 구하시오. 탄희: 어떤 수에서 $252$와 $148$을 빼야 하는데 실수로 모두 더했어. 연재: 계산한 값이 얼마인데? 탄희: 더한 값은 $1000$이야. 연재: 바르게 계산하면 얼마지?"
+        }
+      ]
+    }
+  ]
+}

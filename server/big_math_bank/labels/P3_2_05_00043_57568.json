@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57568.png",
+  "id": "00043_57568",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 단위를 사용하여 들이를 재면 편리할지 알맞은 도구에 $\\bigcirc$표 하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            426,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            24,
+            161,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            428,
+            22
+          ],
+          "text": "어느 단위를 사용하여 들이를 재면 편리할지 알맞은 도구에 $\\bigcirc$표 하시오."
+        }
+      ]
+    }
+  ]
+}

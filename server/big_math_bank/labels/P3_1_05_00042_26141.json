@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_05_00042_26141.png",
+  "id": "00042_26141",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "시계의 초바늘이 $40$초를 가리키고 있습니다. $50$초 후 시계의 초바늘은 어느 숫자를 가리키겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            589,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            591,
+            21
+          ],
+          "text": "시계의 초바늘이 $40$초를 가리키고 있습니다. $50$초 후 시계의 초바늘은 어느 숫자를 가리키겠습니까?"
+        }
+      ]
+    }
+  ]
+}

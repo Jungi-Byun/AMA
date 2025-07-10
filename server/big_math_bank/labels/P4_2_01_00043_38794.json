@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38794.png",
+  "id": "00043_38794",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변의 길이가 2와 6분의 5 cm이고 옆 변의 길이가 3과 6분의 4 cm이며 꼭지각이 오른쪽에 있는 이등변삼각형",
+      "question_text": "다음 이등변삼각형의 세 변의 길이의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            339,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            32,
+            202,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            341,
+            22
+          ],
+          "text": "다음 이등변삼각형의 세 변의 길이의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

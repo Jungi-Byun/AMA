@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_03_00040_13812.png",
+  "id": "00040_13812",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103015",
+      "question_topic_name": "몫이 한 자리 수인 몇십몇으로 나누기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "쌀 $562$가마니가 있습니다. 이 쌀을 한 번에 $75$가마니씩 실어 나를 수 있는 트럭 한 대로 모두 운반하려면 트럭이 적어도 몇 번 왕복해야 합니까? ①$6$번 ②$7$번 ③$8$번 ④$9$번 ⑤$10$번",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            53,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            65,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            64,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            65,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            65,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            71,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            152
+          ],
+          "text": "쌀 $562$가마니가 있습니다. 이 쌀을 한 번에 $75$가마니씩 실어 나를 수 있는 트럭 한 대로 모두 운반하려면 트럭이 적어도 몇 번 왕복해야 합니까? ①$6$번 ②$7$번 ③$8$번 ④$9$번 ⑤$10$번"
+        }
+      ]
+    }
+  ]
+}

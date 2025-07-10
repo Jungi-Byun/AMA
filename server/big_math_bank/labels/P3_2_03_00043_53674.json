@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53674.png",
+  "id": "00043_53674",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가장 큰 가 원에 내접하는 정사각형이 있고, 정사각형에 내접하는 원 나가 있으며, 원 나에는 반지름 표시가 있고, 내접하는 정사각형의 왼쪽 위 꼭짓점과 바깥 원의 접점을 중심으로 하며, 중심으로부터 내부의 원에 한 점에서 접하는 원 다가 있고, 원 나의 반지름에서 다의 반지름을 뺀 길이가 6 cm인 평면도형",
+      "question_text": "원 ㉯의 반지름이 $10$ cm일 때, 원 ㉮의 지름을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            335,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            196,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            337,
+            20
+          ],
+          "text": "원 ㉯의 반지름이 $10$ cm일 때, 원 ㉮의 지름을 구하시오."
+        }
+      ]
+    }
+  ]
+}

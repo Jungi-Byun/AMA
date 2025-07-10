@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_02_00043_35175.png",
+  "id": "00043_35175",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직사각형과 정사각형에 대하여 잘못 설명한 사람은 누구입니까? 윤후: 직사각형은 모두 정사각형이야. 성준: 정사각형은 직사각형이라고 말할 수 있어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            380,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            240,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            56,
+            297,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            386,
+            78
+          ],
+          "text": "직사각형과 정사각형에 대하여 잘못 설명한 사람은 누구입니까? 윤후: 직사각형은 모두 정사각형이야. 성준: 정사각형은 직사각형이라고 말할 수 있어."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53319.png",
+  "id": "00043_53319",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "중심에 빨간 점이 있는 원의 중심에서 좌상향하는 반직선과 원이 만나는 점까지 거리가 3 cm이고 아래에 원 위의 점과 내부의 한 점이 우하향하는 곧은 선이고 길이가 4 cm이며 중심에서 내부의 한 점이 오른쪽 위로 향하는 곧은 선이고 거리가 2 cm인 도형",
+      "question_text": "원의 반지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            184,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            29,
+            151,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            186,
+            23
+          ],
+          "text": "원의 반지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

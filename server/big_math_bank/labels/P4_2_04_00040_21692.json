@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_21692.png",
+  "id": "00040_21692",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204001",
+      "question_topic_name": "수직 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형에서 변 $ㄱㄴ$과 수직인 변은 몇 개입니까?  ①$ 1 $개 ②$ 2 $개 ③$ 3 $개 ④$ 4 $개 ⑤$ 5 $개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            308,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            134,
+            60,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            156,
+            65,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            178,
+            65,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            200,
+            65,
+            220
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            222,
+            64,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            14,
+            186,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            310,
+            23
+          ],
+          "text": "다음 도형에서 변 $ㄱㄴ$과 수직인 변은 몇 개입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            133,
+            67,
+            243
+          ],
+          "text": "①$ 1 $개 ②$ 2 $개 ③$ 3 $개 ④$ 4 $개 ⑤$ 5 $개"
+        }
+      ]
+    }
+  ]
+}

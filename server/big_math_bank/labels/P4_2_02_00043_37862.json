@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_02_00043_37862.png",
+  "id": "00043_37862",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202001",
+      "question_topic_name": "삼각형의 변의 길이에 따라 분류하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 같은 변의 길이가 10 cm인 이등변삼각형 가를 밑변이 오른쪽에 오게 수평으로 누이고 이 밑변과 길이가 같은 정사각형 나를 이어 붙인 모양",
+      "question_text": "이등변삼각형 가와 정사각형 나를 다음과 같이 겹치지 않게 이어 붙여 새로운 도형을 만들었습니다. 가의 둘레가 $26  \\mathrm{~cm} $일 때, 새로 만든 도형의 둘레를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            145,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            57,
+            200,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            40
+          ],
+          "text": "이등변삼각형 가와 정사각형 나를 다음과 같이 겹치지 않게 이어 붙여 새로운 도형을 만들었습니다. 가의 둘레가 $26  \\mathrm{~cm} $일 때, 새로 만든 도형의 둘레를 구하시오."
+        }
+      ]
+    }
+  ]
+}

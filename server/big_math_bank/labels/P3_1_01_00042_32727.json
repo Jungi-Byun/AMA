@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_01_00042_32727.png",
+  "id": "00042_32727",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오. (1)$ \\begin{array}{r}684 \\\\ +756 \\\\ \\hline\\end{array} $ (2)$ \\begin{array}{r}905 \\\\ -258 \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            120,
+            23,
+            182,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            33,
+            77,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            184,
+            68
+          ],
+          "text": "계산을 하시오. (1)$ \\begin{array}{r}684 \\\\ +756 \\\\ \\hline\\end{array} $ (2)$ \\begin{array}{r}905 \\\\ -258 \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

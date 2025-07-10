@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51101.png",
+  "id": "00043_51101",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산에서 잘못된 곳을 찾아 바르게 고쳐 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            16.72,
+            1.11,
+            290.72,
+            25.11
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            17.72,
+            27.11,
+            86.72,
+            118.11
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            23
+          ],
+          "text": "계산에서 잘못된 곳을 찾아 바르게 고쳐 보시오."
+        }
+      ]
+    }
+  ]
+}

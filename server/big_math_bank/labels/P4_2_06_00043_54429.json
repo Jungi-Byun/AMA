@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_06_00043_54429.png",
+  "id": "00043_54429",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 보고 정팔각형의 한 각의 크기를 구하시오. (1) 정팔각형을 사각형 $3$개로 나누어 보시오. (2) 정팔각형의 모든 각의 크기의 합을 구하시오.   $ 360^{\\circ} \\times \\square=  \\boxed{\\degree} $(3) 정팔각형의 한 각의 크기를 구하시오. $\\boxed{\\degree}÷8=\\boxed{\\degree}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            128,
+            268,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            150,
+            292,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            169,
+            174,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            193,
+            250,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            213,
+            186,
+            234
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            33,
+            116,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            302,
+            24
+          ],
+          "text": "다음을 보고 정팔각형의 한 각의 크기를 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            127,
+            294,
+            235
+          ],
+          "text": "(1) 정팔각형을 사각형 $3$개로 나누어 보시오. (2) 정팔각형의 모든 각의 크기의 합을 구하시오.   $ 360^{\\circ} \\times \\square=  \\boxed{\\degree} $(3) 정팔각형의 한 각의 크기를 구하시오. $\\boxed{\\degree}÷8=\\boxed{\\degree}$"
+        }
+      ]
+    }
+  ]
+}

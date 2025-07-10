@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00043_34728.png",
+  "id": "00043_34728",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 변의 길이가 $63cm$인 정사각형 모양의 종이를 잘라 한 변의 길이가 $9cm$인 정사각형을 만들려고 합니다. 모두 몇 개까지 만들 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            40
+          ],
+          "text": "한 변의 길이가 $63cm$인 정사각형 모양의 종이를 잘라 한 변의 길이가 $9cm$인 정사각형을 만들려고 합니다. 모두 몇 개까지 만들 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

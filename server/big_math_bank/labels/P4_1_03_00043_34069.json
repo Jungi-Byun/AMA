@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_03_00043_34069.png",
+  "id": "00043_34069",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정호는 다음의 문제 카드를 가지고 있습니다. 그런데 $35$를 $53$으로 잘못 보고 계산했습니다. 바르게 계산한 값과 정호가 잘못 보고 계산한 값의 차를 구하시오.  $175 \\times 35$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            120,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            48,
+            90,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            79
+          ],
+          "text": "정호는 다음의 문제 카드를 가지고 있습니다. 그런데 $35$를 $53$으로 잘못 보고 계산했습니다. 바르게 계산한 값과 정호가 잘못 보고 계산한 값의 차를 구하시오.  $175 \\times 35$"
+        }
+      ]
+    }
+  ]
+}

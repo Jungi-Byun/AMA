@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_06_00043_42481.png",
+  "id": "00043_42481",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 가장 긴 곤충과 길이가 가장 짧은 곤충은 무엇인지 차례로 쓰시오. 벌 : $2.5$cm 나비 : $3.5$cm 여왕개미 : $5.6$cm 잠자리 : $4.1$cm",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            429,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            95,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            54,
+            107,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            76,
+            131,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            99,
+            124,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            430,
+            116
+          ],
+          "text": "길이가 가장 긴 곤충과 길이가 가장 짧은 곤충은 무엇인지 차례로 쓰시오. 벌 : $2.5$cm 나비 : $3.5$cm 여왕개미 : $5.6$cm 잠자리 : $4.1$cm"
+        }
+      ]
+    }
+  ]
+}

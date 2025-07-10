@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00042_52731.png",
+  "id": "00042_52731",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "카드가 $44$장 있습니다. 한 학생에게 $8$장씩 나누어 주면 몇 명에게 나누어 줄 수 있고, 남는 카드는 몇 장입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            645,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            647,
+            21
+          ],
+          "text": "카드가 $44$장 있습니다. 한 학생에게 $8$장씩 나누어 주면 몇 명에게 나누어 줄 수 있고, 남는 카드는 몇 장입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_01_00043_32657.png",
+  "id": "00043_32657",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수를 보고 $ \\square $ 안에 알맞은 수를 써넣으시오. $2678328194006257$  (1) 십조의 자리 숫자는$ \\square $ 입니다. (2) 백억의 자리 숫자는$ \\square $ 입니다. (3) 백만의 자리 숫자가 나타내는 수는$ \\square $ 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            262,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            160,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            223,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            89,
+            225,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            118,
+            364,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            404,
+            145
+          ],
+          "text": "수를 보고 $ \\square $ 안에 알맞은 수를 써넣으시오. $2678328194006257$  (1) 십조의 자리 숫자는$ \\square $ 입니다. (2) 백억의 자리 숫자는$ \\square $ 입니다. (3) 백만의 자리 숫자가 나타내는 수는$ \\square $ 입니다."
+        }
+      ]
+    }
+  ]
+}

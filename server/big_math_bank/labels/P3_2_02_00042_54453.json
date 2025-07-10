@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00042_54453.png",
+  "id": "00042_54453",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숫자 카드를 한 번씩만 사용하여 (몇십 몇)$÷$(몇)의 나눗셈식을 만들려고 합니다. 나머지가 가장 작은 나눗셈식의 몫과 나머지를 구하시오. $ \\boxed{\\boxed5}  \\boxed{\\boxed7}  \\boxed{\\boxed9} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            788,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            19,
+            172,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            790,
+            22
+          ],
+          "text": "숫자 카드를 한 번씩만 사용하여 (몇십 몇)$÷$(몇)의 나눗셈식을 만들려고 합니다. 나머지가 가장 작은 나눗셈식의 몫과 나머지를 구하시오. $ \\boxed{\\boxed5}  \\boxed{\\boxed7}  \\boxed{\\boxed9} $"
+        }
+      ]
+    }
+  ]
+}

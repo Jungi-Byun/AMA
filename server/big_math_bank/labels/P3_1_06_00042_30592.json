@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00042_30592.png",
+  "id": "00042_30592",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분모가 가장 큰 분수는 어느 것입니까?  (1) $ \\frac{3}{4} $ (2) $ \\frac{5}{6} $ (3) $ \\frac{11}{9} $ (4) $ \\frac{8}{20} $ (5) $ \\frac{30}{7} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            237,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            63,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            63,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            72,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            72,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            72,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            239,
+            224
+          ],
+          "text": "분모가 가장 큰 분수는 어느 것입니까?  (1) $ \\frac{3}{4} $ (2) $ \\frac{5}{6} $ (3) $ \\frac{11}{9} $ (4) $ \\frac{8}{20} $ (5) $ \\frac{30}{7} $"
+        }
+      ]
+    }
+  ]
+}

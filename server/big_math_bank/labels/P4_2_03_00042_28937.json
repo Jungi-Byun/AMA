@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_03_00042_28937.png",
+  "id": "00042_28937",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소수 $5.86$에 대하여 $\\square$ 안에 알맞은 수나 말을 써넣으시오.  (1) 숫자 $8$은 $\\square$ 자리 숫자이고 $\\square$을 나타냅니다.  (2) 숫자 $6$은 <$\\square$ 자리 숫자이고 $\\square$을 나타냅니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            348,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            350,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            51,
+            359,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            361,
+            75
+          ],
+          "text": "소수 $5.86$에 대하여 $\\square$ 안에 알맞은 수나 말을 써넣으시오.  (1) 숫자 $8$은 $\\square$ 자리 숫자이고 $\\square$을 나타냅니다.  (2) 숫자 $6$은 <$\\square$ 자리 숫자이고 $\\square$을 나타냅니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50849.png",
+  "id": "00043_50849",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산에서 소수점을 찍어야 할 곳을 찾아 기호에 $\\bigcirc$표 하시오.  \\( \\begin{array}{r} 1.72 \\text { }\\text {}  \\text {}   \\\\ +4.819 \\\\ \\hline6539 \\end{array} \\)   $\\uparrow  \\uparrow  \\uparrow  \\uparrow$   $㉠ ㉡ ㉢ ㉣$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            359,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            155,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            361,
+            150
+          ],
+          "text": "계산에서 소수점을 찍어야 할 곳을 찾아 기호에 $\\bigcirc$표 하시오.  \\( \\begin{array}{r} 1.72 \\text { }\\text {}  \\text {}   \\\\ +4.819 \\\\ \\hline6539 \\end{array} \\)   $\\uparrow  \\uparrow  \\uparrow  \\uparrow$   $㉠ ㉡ ㉢ ㉣$"
+        }
+      ]
+    }
+  ]
+}

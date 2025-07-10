@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52196.png",
+  "id": "00043_52196",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204001",
+      "question_topic_name": "수직 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 직선이 만나서 이루는 각이 직각인 곳을 모두 찾아 $\\bigcirc$ 표 하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            392,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            37,
+            206,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            394,
+            22
+          ],
+          "text": "두 직선이 만나서 이루는 각이 직각인 곳을 모두 찾아 $\\bigcirc$ 표 하시오."
+        }
+      ]
+    }
+  ]
+}

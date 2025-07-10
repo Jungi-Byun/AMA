@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_01_00043_44390.png",
+  "id": "00043_44390",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 곱셈에서 ㉠은 실제로 어떤 두 수의 곱입니까?  \\( \\begin{array}{c}\\begin{array}{r}36 \\\\ \\times  24 \\\\ \\hline 144  \\\\ 72    \\\\ \\hline  864  \\end{array} \\end{array}  \\) \\( \\begin{array}{c} \\\\ \\\\ ······ ㉠ \\end{array} \\) ① $ 36 \\times 4 $ ② $ 36 \\times 2 $ ③ $ 24 \\times 3 $ ④ $ 24 \\times 6 $ ⑤ $ 24 \\times 60 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            308,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            23,
+            124,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            145,
+            78,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            167,
+            77,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            77,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            211,
+            77,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            233,
+            86,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            310,
+            254
+          ],
+          "text": "다음 곱셈에서 ㉠은 실제로 어떤 두 수의 곱입니까?  \\( \\begin{array}{c}\\begin{array}{r}36 \\\\ \\times  24 \\\\ \\hline 144  \\\\ 72    \\\\ \\hline  864  \\end{array} \\end{array}  \\) \\( \\begin{array}{c} \\\\ \\\\ ······ ㉠ \\end{array} \\) ① $ 36 \\times 4 $ ② $ 36 \\times 2 $ ③ $ 24 \\times 3 $ ④ $ 24 \\times 6 $ ⑤ $ 24 \\times 60 $"
+        }
+      ]
+    }
+  ]
+}

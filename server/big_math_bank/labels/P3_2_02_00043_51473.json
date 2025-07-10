@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51473.png",
+  "id": "00043_51473",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 두 나눗셈이 모두 나누어떨어지도록 $\\square$ 안에 공통으로 들어갈 한 자리 수를 구하시오. $ 8 \\square \\div 4  ~~~~  8 \\square \\div 3 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            526,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            136,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            530,
+            57
+          ],
+          "text": "다음 두 나눗셈이 모두 나누어떨어지도록 $\\square$ 안에 공통으로 들어갈 한 자리 수를 구하시오. $ 8 \\square \\div 4  ~~~~  8 \\square \\div 3 $"
+        }
+      ]
+    }
+  ]
+}

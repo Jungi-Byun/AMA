@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50367.png",
+  "id": "00043_50367",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$6$보다 크고 $7$보다 작은 소수 세 자리 수 중 세 사람이 말하는 조건을 모두 만족하는 수를 구하시오. 경식 : 소수 첫째 자리 숫자는 $3$이야. 성우 : 소수 둘째 자리 숫자는 $1$이야. 다빈 : 소수 셋째 자리 숫자는 $8$이야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            568,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            233,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            56,
+            232,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            74,
+            237,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            101
+          ],
+          "text": "$6$보다 크고 $7$보다 작은 소수 세 자리 수 중 세 사람이 말하는 조건을 모두 만족하는 수를 구하시오. 경식 : 소수 첫째 자리 숫자는 $3$이야. 성우 : 소수 둘째 자리 숫자는 $1$이야. 다빈 : 소수 셋째 자리 숫자는 $8$이야."
+        }
+      ]
+    }
+  ]
+}

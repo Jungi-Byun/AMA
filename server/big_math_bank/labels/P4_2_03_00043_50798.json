@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_03_00043_50798.png",
+  "id": "00043_50798",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203018",
+      "question_topic_name": "소수 두 자리 수의 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "리코더는 세로로 부는 악기로 앞면에 $7$ 개, 뒷면에 $1$ 개의 소리구멍이 있습니다. 지혜는 $4$ 종류의 리코더의 길이를 재었습니다. 테너리코더는 $ 66.7 \\mathrm{~cm} $ 이었고, 알토리코더는 소프라노리코더보다 $ 14.05 \\mathrm{~cm} $, 베이스리코더는 알토리코더보다 $ 48.5 \\mathrm{~cm} $ 더 길었습니다. 소프라노, 알토, 베 이스리코더의 길이의 합이 테너리코더의 길이보다 $ 106.35 \\mathrm{~cm} $ 더 길 때, 알토리코더의 길이는 몇 $\\mathrm{~cm} $ 입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            804,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            628,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            61
+          ],
+          "text": "리코더는 세로로 부는 악기로 앞면에 $7$ 개, 뒷면에 $1$ 개의 소리구멍이 있습니다. 지혜는 $4$ 종류의 리코더의 길이를 재었습니다. 테너리코더는 $ 66.7 \\mathrm{~cm} $ 이었고, 알토리코더는 소프라노리코더보다 $ 14.05 \\mathrm{~cm} $, 베이스리코더는 알토리코더보다 $ 48.5 \\mathrm{~cm} $ 더 길었습니다. 소프라노, 알토, 베 이스리코더의 길이의 합이 테너리코더의 길이보다 $ 106.35 \\mathrm{~cm} $ 더 길 때, 알토리코더의 길이는 몇 $\\mathrm{~cm} $ 입니까?"
+        }
+      ]
+    }
+  ]
+}

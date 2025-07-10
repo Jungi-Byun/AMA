@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57541.png",
+  "id": "00043_57541",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "공장에 ㉮, ㉯, ㉰ 기계가 있습니다. 이 기계는 각각 4L 150mL, 4060mL, 4L 3mL의 냉각수가 들어갑니다. 냉각수가 가장 많이 들어가는 기계는 냉각수가 몇 mL 들어갑니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            214,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "공장에 ㉮, ㉯, ㉰ 기계가 있습니다. 이 기계는 각각 4L 150mL, 4060mL, 4L 3mL의 냉각수가 들어갑니다. 냉각수가 가장 많이 들어가는 기계는 냉각수가 몇 mL 들어갑니까?"
+        }
+      ]
+    }
+  ]
+}

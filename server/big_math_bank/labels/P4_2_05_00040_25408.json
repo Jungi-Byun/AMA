@@ -1,0 +1,139 @@
+{
+  "question_filename": "P4_2_05_00040_25408.png",
+  "id": "00040_25408",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 꺾은선그래프 그리는 순서를 임의로 나타낸 것입니다. 차례로 그 기호를 늘어놓은 것을 고르시오. ㉠ 세로 눈금 한 칸의 크기를 정합니다. ㉡ 점을 선분으로 잇습니다. ㉢ 가로, 세로의 눈금에 나타낼 것을 정합니다. ㉣ 조사한 내용을 가로, 세로의 눈금에서 각각 찾아 만나는 자리에 점을 찍습니다. ①㉠, ㉢, ㉣, ㉡ ②㉠, ㉢, ㉡, ㉣ ③㉢, ㉡, ㉠, ㉣ ④㉢, ㉠, ㉡, ㉣ ⑤㉢, ㉠, ㉣, ㉡",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            605,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            246,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            184,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            74,
+            285,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            95,
+            483,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            121,
+            117,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            117,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            117,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            190,
+            117,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            212,
+            117,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            614,
+            233
+          ],
+          "text": "다음은 꺾은선그래프 그리는 순서를 임의로 나타낸 것입니다. 차례로 그 기호를 늘어놓은 것을 고르시오. ㉠ 세로 눈금 한 칸의 크기를 정합니다. ㉡ 점을 선분으로 잇습니다. ㉢ 가로, 세로의 눈금에 나타낼 것을 정합니다. ㉣ 조사한 내용을 가로, 세로의 눈금에서 각각 찾아 만나는 자리에 점을 찍습니다. ①㉠, ㉢, ㉣, ㉡ ②㉠, ㉢, ㉡, ㉣ ③㉢, ㉡, ㉠, ㉣ ④㉢, ㉠, ㉡, ㉣ ⑤㉢, ㉠, ㉣, ㉡"
+        }
+      ]
+    }
+  ]
+}

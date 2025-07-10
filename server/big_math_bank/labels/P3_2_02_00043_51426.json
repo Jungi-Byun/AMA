@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_02_00043_51426.png",
+  "id": "00043_51426",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$3·1$절을 맞아 길이가 $98 m$인 도로의 양쪽에 $7 m$ 간격으로 처음부터 끝까지 태극기를 걸려고 합니다. 태극기는 모두 몇 개 필요합니까? (다만, 전봇대의 두께는 생각하지 않습니다.) ⑴ 도로 한쪽의 간격 수는 몇 군데입니까? ⑵ 도로 한쪽에 거는 태극기는 몇 개입니까? ⑶ 도로 양쪽에 거는 태극기는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            250,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            90,
+            253,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            112,
+            266,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            134,
+            266,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            47,
+            95,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            0.93,
+            799.82,
+            39.33
+          ],
+          "text": "$3·1$절을 맞아 길이가 $98 m$인 도로의 양쪽에 $7 m$ 간격으로 처음부터 끝까지 태극기를 걸려고 합니다. 태극기는 모두 몇 개 필요합니까? (다만, 전봇대의 두께는 생각하지 않습니다.)"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            89.89,
+            265.42,
+            150.69
+          ],
+          "text": "⑴ 도로 한쪽의 간격 수는 몇 군데입니까? ⑵ 도로 한쪽에 거는 태극기는 몇 개입니까? ⑶ 도로 양쪽에 거는 태극기는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

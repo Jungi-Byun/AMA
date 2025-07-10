@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_21032.png",
+  "id": "00043_21032",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 가장 큰 수는 어느 것입니까? ①$\\frac{1}{10}$ ②$0.5$ ③$\\frac{3}{10}$ ④$0.8$ ⑤$\\frac{7}{10}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            228,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            72,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            62,
+            65,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            72,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            125,
+            66,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            151,
+            72,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            230,
+            186
+          ],
+          "text": "다음 중 가장 큰 수는 어느 것입니까? ①$\\frac{1}{10}$ ②$0.5$ ③$\\frac{3}{10}$ ④$0.8$ ⑤$\\frac{7}{10}$"
+        }
+      ]
+    }
+  ]
+}

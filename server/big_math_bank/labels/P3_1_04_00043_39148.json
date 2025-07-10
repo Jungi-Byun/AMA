@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_04_00043_39148.png",
+  "id": "00043_39148",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "18×6과 계산 결과가 같은 것을 모두 찾아 $\\bigcirc$표 하시오.$ \\begin{array}{l}32 \\times 4()  36 \\times 3() \\\\ 27 \\times 4() 42 \\times 2()\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            325,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            110,
+            45
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            126,
+            22,
+            214,
+            45
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            49,
+            111,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            127,
+            49,
+            215,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            327,
+            73
+          ],
+          "text": "18×6과 계산 결과가 같은 것을 모두 찾아 $\\bigcirc$표 하시오.$ \\begin{array}{l}32 \\times 4()  36 \\times 3() \\\\ 27 \\times 4() 42 \\times 2()\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

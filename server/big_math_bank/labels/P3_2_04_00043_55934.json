@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55934.png",
+  "id": "00043_55934",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분수의 크기를 잘못 비교한 것을 찾아 기호를 쓰시오. (ㄱ) $ 5 \\frac{2}{4}>5 \\frac{1}{4} $ (ㄴ) $ \\frac{41}{9}<3 \\frac{8}{9} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            317,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            24,
+            233,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            322,
+            76
+          ],
+          "text": "분수의 크기를 잘못 비교한 것을 찾아 기호를 쓰시오. (ㄱ) $ 5 \\frac{2}{4}>5 \\frac{1}{4} $ (ㄴ) $ \\frac{41}{9}<3 \\frac{8}{9} $"
+        }
+      ]
+    }
+  ]
+}

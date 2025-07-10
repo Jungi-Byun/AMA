@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_03_00040_29480.png",
+  "id": "00040_29480",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과자 $21$개가 있습니다. 한 봉지에 $7$개씩 담으면 모두 몇 봉지에 담을 수 있습니까? ① $28$봉지 ② $14$봉지 ③ $3$봉지 ④ $147$봉지 ⑤답 없음",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            478,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.58,
+            127.05,
+            86.22,
+            144.97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.94,
+            149.45,
+            82.38,
+            167.37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.94,
+            172.49,
+            77.26,
+            189.77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.94,
+            194.89,
+            90.06,
+            212.81
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.86,
+            216.65,
+            87.5,
+            234.57
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            183,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            0.33,
+            479.18,
+            17.61
+          ],
+          "text": "과자 $21$개가 있습니다. 한 봉지에 $7$개씩 담으면 모두 몇 봉지에 담을 수 있습니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.58,
+            128.33,
+            89.42,
+            233.29
+          ],
+          "text": "① $28$봉지 ② $14$봉지 ③ $3$봉지 ④ $147$봉지 ⑤답 없음"
+        }
+      ]
+    }
+  ]
+}

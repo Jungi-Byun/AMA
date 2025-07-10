@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00042_54036.png",
+  "id": "00042_54036",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우리 반 남학생은 $4$명씩 $4$모둠이고 여학생은 $3$명씩 $5$모둠입니다. 우리 반 학생 한 명에게 클립을 $12$개씩 나누어 주려면 클립은 모두 몇 개가 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            91,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "우리 반 남학생은 $4$명씩 $4$모둠이고 여학생은 $3$명씩 $5$모둠입니다. 우리 반 학생 한 명에게 클립을 $12$개씩 나누어 주려면 클립은 모두 몇 개가 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

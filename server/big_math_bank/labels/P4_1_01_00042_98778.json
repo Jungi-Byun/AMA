@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_01_00042_98778.png",
+  "id": "00042_98778",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$안에는 $0$에서 $9$까지 어느 숫자를 넣어도 됩니다. 큰 수부터 차례로 기호를 쓰시오.  ㉠ $6904\\square77437800$ ㉡ $69030\\square59\\square4288$ ㉢ $69\\square4989600000$ ㉣ $6902\\square99880000$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            496,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            157,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            55,
+            163,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            75,
+            162,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            97,
+            164,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            123
+          ],
+          "text": "$\\square$안에는 $0$에서 $9$까지 어느 숫자를 넣어도 됩니다. 큰 수부터 차례로 기호를 쓰시오.  ㉠ $6904\\square77437800$ ㉡ $69030\\square59\\square4288$ ㉢ $69\\square4989600000$ ㉣ $6902\\square99880000$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00043_34802.png",
+  "id": "00043_34802",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숫자 카드 을 한 번씩만 사용하여 가장 작은 세 자리 수를 만든 다음, 와 같이 돌려서 만들어지는 수와 처음 수와의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            120,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            1,
+            797,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            38,
+            122,
+            63
+          ],
+          "text": "숫자 카드 을 한 번씩만 사용하여 가장 작은 세 자리 수를 만든 다음, 와 같이 돌려서 만들어지는 수와 처음 수와의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

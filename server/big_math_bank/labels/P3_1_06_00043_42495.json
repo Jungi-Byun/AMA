@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_42495.png",
+  "id": "00043_42495",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수직선을 보고 알맞은 말에 $\\bigcirc$표 하시오.  $1.6$은 $2.4$보다 더 (큽니다, 작습니다).",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            246,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            227,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            21,
+            294,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            248,
+            20
+          ],
+          "text": "수직선을 보고 알맞은 말에 $\\bigcirc$표 하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            72.14,
+            228.17,
+            92.14
+          ],
+          "text": "$1.6$은 $2.4$보다 더 (큽니다, 작습니다)."
+        }
+      ]
+    }
+  ]
+}

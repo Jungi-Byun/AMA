@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_30142.png",
+  "id": "00042_30142",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "맨 위쪽 각이 30도, 아래의 왼쪽 각이 60도, 오른쪽 각이 직각이고 내부에 원 모양 구멍이 있는 삼각자 오른쪽 옆에 아래의 왼쪽과 위쪽 각이 45도이며 아래의 오른쪽 각이 직각이고 내부에 원 모양 구멍이 있는 삼각자가 있으며, 중간의 오른쪽을 향한 화살표의 오른쪽에는 첫 번째 삼각자의 빗변이 가로로 된 직선 위에 있고, 빗변이 아닌 다른 변 중 긴 변에 두 번째 삼각자의 직각 부분이 접하도록 놓을 때 직각이 아닌 각이 직선에 접하도록 붙어 있으며, 직선에서 두 삼각자가 차지하는 부분의 외각에 각 표시와 흰 사각형이 있는 그림",
+      "question_text": "삼각자 $2$개를 그림과 같이 붙였을 때, $\\square$ 안에 알맞은 각도를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            428,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            298,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            430,
+            21
+          ],
+          "text": "삼각자 $2$개를 그림과 같이 붙였을 때,$\\square$ 안에 알맞은 각도를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

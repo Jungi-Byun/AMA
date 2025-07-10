@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37734.png",
+  "id": "00043_37734",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 각의 크기가 30도인 삼각자와 45도인 삼각자를 빗변의 중간 부분끼리 만나도록 붙이고, 30도를 이루는 빗변과 45도를 이루는 빗변이 아닌 변이 이루는 각이 원 문자 ㄱ, 45도를 이루는 빗변과 60도를 이루는 빗변이 아닌 변이 이루는 각이 원 문자 ㄴ인 도형",
+      "question_text": "희수가 삼각자 $2$개를 이용하여 각 만들기를 하고 있습니다. ㉠과 ㉡의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            496,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            42,
+            152,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            498,
+            22
+          ],
+          "text": "희수가 삼각자 $2$개를 이용하여 각 만들기를 하고 있습니다. ㉠과 ㉡의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

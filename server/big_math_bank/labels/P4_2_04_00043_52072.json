@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_04_00043_52072.png",
+  "id": "00043_52072",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "서로 평행한 직선 가와 직선 나가 있고, 직선 가 위의 점 ㄱ에서 30도의 각도로 왼쪽의 아래 방향으로 그은 직선과 직선 나 위의 점 ㄷ에서 50도의 각도로 왼쪽의 위 방향으로 그은 직선의 교점을 ㄴ이라고 하고 각 ㄴ에 각 표시가 있는 그림",
+      "question_text": "직선 가와 직선 나는 서로 평행합니다. 각 $ㄱㄴㄷ$의 크기는 몇 도입니까? (1) 점 $ㄱ$에서 직선 나에 대한 수선을 긋고 직선 $나$와 만나는 점을 ‘$ㄹ$’로 표시하시오.(2) 각 $ㄴㄱㄹ$의 크기는 몇 도입니까?(3) 각 $ㄴㄷㄹ$의 크기는 몇 도입니까?(4) 각 $ㄱㄴㄷ$의 크기는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            424,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            131,
+            487,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            153,
+            229,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            175,
+            229,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            197,
+            229,
+            214
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            25,
+            223,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            426,
+            23
+          ],
+          "text": "직선 가와 직선 나는 서로 평행합니다. 각 $ㄱㄴㄷ$의 크기는 몇 도입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            130,
+            489,
+            215
+          ],
+          "text": "(1) 점 $ㄱ$에서 직선 나에 대한 수선을 긋고 직선 $나$와 만나는 점을 ‘$ㄹ$’로 표시하시오.(2) 각 $ㄴㄱㄹ$의 크기는 몇 도입니까?(3) 각 $ㄴㄷㄹ$의 크기는 몇 도입니까?(4) 각 $ㄱㄴㄷ$의 크기는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

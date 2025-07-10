@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_06_00043_47376.png",
+  "id": "00043_47376",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "윤지네 반 학생들이 태어난 계절을 조사하여 나타낸 표입니다. 지은이가 태어난 계절은 언제입니까? <table border> <caption>태어난 계절별 학생수</caption>   <tbody>     <tr>       <td>계절</td>       <td>봄</td>       <td>여름</td>       <td>가을</td>       <td>겨울</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수(명)</td>       <td>$4$</td>       <td>$3$</td>       <td>$3$</td>       <td>$2$</td>       <td>$12$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            581,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            83,
+            249,
+            265,
+            277
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            283,
+            322,
+            347
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            43,
+            30,
+            306,
+            235
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.43,
+            1.08,
+            580.71,
+            17.08
+          ],
+          "text": "윤지네 반 학생들이 태어난 계절을 조사하여 나타낸 표입니다. 지은이가 태어난 계절은 언제입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            27.75,
+            248.76,
+            320.87,
+            346.04
+          ],
+          "text": "<table border> <caption>태어난 계절별 학생수</caption>   <tbody>     <tr>       <td>계절</td>       <td>봄</td>       <td>여름</td>       <td>가을</td>       <td>겨울</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수(명)</td>       <td>$4$</td>       <td>$3$</td>       <td>$3$</td>       <td>$2$</td>       <td>$12$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

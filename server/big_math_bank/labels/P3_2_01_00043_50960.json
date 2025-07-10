@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_01_00043_50960.png",
+  "id": "00043_50960",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201005",
+      "question_topic_name": "일, 십, 백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 과거와 오늘날의 이동 수단으로 부산에서 서울까지 가는 데 걸리는 시간을 나타낸 그래프입니다. 부산에서 서울까지 증기 기관차로 가는 데 걸리는 시간은 고속 열차로 가는 데 걸리는 시간의 $6$배입니다. 부산에서 서울까지 증기 기관차로 가는 데 약 몇 시간이 걸립니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            788,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            39,
+            52,
+            321,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            41
+          ],
+          "text": "다음은 과거와 오늘날의 이동 수단으로 부산에서 서울까지 가는 데 걸리는 시간을 나타낸 그래프입니다. 부산에서 서울까지 증기 기관차로 가는 데 걸리는 시간은 고속 열차로 가는 데 걸리는 시간의 $6$배입니다. 부산에서 서울까지 증기 기관차로 가는 데 약 몇 시간이 걸립니까?"
+        }
+      ]
+    }
+  ]
+}

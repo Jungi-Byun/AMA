@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36315.png",
+  "id": "00043_36315",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "뺄셈식을 나눗셈식으로 나타내었을 때 나눗셈의 몫이 더 큰 것에 $\\bigcirc$표 하시오.  <table border>   <tbody>     <tr>       <td> 24-4-4-4-4-4-4=0 </td>               </tr>     <tr>       <td> 35-7-7-7-7-7=0</td>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            455,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            233,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            457,
+            70
+          ],
+          "text": "뺄셈식을 나눗셈식으로 나타내었을 때 나눗셈의 몫이 더 큰 것에 $\\bigcirc$표 하시오.  <table border>   <tbody>     <tr>       <td> 24-4-4-4-4-4-4=0 </td>               </tr>     <tr>       <td> 35-7-7-7-7-7=0</td>"
+        }
+      ]
+    }
+  ]
+}

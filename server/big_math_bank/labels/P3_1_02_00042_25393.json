@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_25393.png",
+  "id": "00042_25393",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형 ㄱㄴㄹㅁ에서 변 ㄱㅁ 위에 점 ㅅ, ㅂ이 위치하고 변 ㄴㄹ 위에 점 ㄷ이 위치할 때 선분 ㄹㅅ과 선분 ㄷㅂ의 교점 ㅇ",
+      "question_text": "그림에서 직각삼각형을 모두 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            254,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            171,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.23,
+            0.15,
+            255.23,
+            18.15
+          ],
+          "text": "그림에서 직각삼각형을 모두 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_26776.png",
+  "id": "00042_26776",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "원 문자 ㄱ부터 원 문자 ㄹ까지의 가로막대를 원 문자 ㄴ, 원 문자 ㄷ 지점에서 각각 나눌 때, 원 문자 ㄱ부터 원 문자 ㄷ까지의 길이가 686 cm, 원 문자 ㄴ부터 원 문자 ㄹ까지의 길이는 669 cm, 원 문자 ㄴ부터 원 문자 ㄷ까지의 거리는 287 cm인 그림",
+      "question_text": "그림을 보고 ㉠에서 ㉣까지의 길이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            284,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            24,
+            331,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            286,
+            21
+          ],
+          "text": "그림을 보고 ㉠에서 ㉣까지의 길이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

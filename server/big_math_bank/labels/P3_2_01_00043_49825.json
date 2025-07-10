@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49825.png",
+  "id": "00043_49825",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 172 cm인 연두색 색 테이프 2장을 36 cm 겹치게 이어 붙인 그림",
+      "question_text": "길이가 $ 172 \\mathrm{~cm} $ 인 색 테이프 $2$ 장을 그림과 같이 겹치게 이어 붙였습니다. 이어 붙인 색 테이프의 전체 길이는 몇 $\\mathrm{cm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            710,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            36,
+            300,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            712,
+            21
+          ],
+          "text": "길이가 $ 172 \\mathrm{~cm} $ 인 색 테이프 $2$ 장을 그림과 같이 겹치게 이어 붙였습니다. 이어 붙인 색 테이프의 전체 길이는 몇 $\\mathrm{cm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

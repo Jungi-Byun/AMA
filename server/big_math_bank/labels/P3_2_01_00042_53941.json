@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00042_53941.png",
+  "id": "00042_53941",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $\\begin{array}{r}56 \\\\ \\times  \\square 0 \\\\ \\hline 1 \\square 80 \\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            23,
+            103,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            104
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $\\begin{array}{r}56 \\\\ \\times  \\square 0 \\\\ \\hline 1 \\square 80 \\end{array}$"
+        }
+      ]
+    }
+  ]
+}

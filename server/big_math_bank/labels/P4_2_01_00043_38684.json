@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_2_01_00043_38684.png",
+  "id": "00043_38684",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201002",
+      "question_topic_name": "분모가 같고 합이 1보다 큰 (진분수)+(진분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빵집 아저씨가 사용할 밀가루의 양은 모두 몇 $ \\mathrm{kg} $ 인지 알아보시오. (1) 빵집 아저씨가 사용할 밀가루는 모두 몇 $ \\mathrm{kg} $ 인지 식으로 나타내시오. (2) 그림에 알맞게 색칠하고 계산하는 방법을 알아보시오. $ \\frac{\\square}{8}+\\frac{\\square}{8}=\\frac{\\square}{8}=\\square \\frac{\\square}{8} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            272,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            130,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            208,
+            412,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            230,
+            338,
+            248
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            80,
+            373,
+            269,
+            417
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            48,
+            309,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            260,
+            316,
+            363
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            274,
+            41
+          ],
+          "text": "빵집 아저씨가 사용할 밀가루의 양은 모두 몇 $ \\mathrm{kg} $ 인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            207,
+            417,
+            250
+          ],
+          "text": "(1) 빵집 아저씨가 사용할 밀가루는 모두 몇 $ \\mathrm{kg} $ 인지 식으로 나타내시오. (2) 그림에 알맞게 색칠하고 계산하는 방법을 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            78,
+            372,
+            271,
+            418
+          ],
+          "text": "$ \\frac{\\square}{8}+\\frac{\\square}{8}=\\frac{\\square}{8}=\\square \\frac{\\square}{8} $"
+        }
+      ]
+    }
+  ]
+}

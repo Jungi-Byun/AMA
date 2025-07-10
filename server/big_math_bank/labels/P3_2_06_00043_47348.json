@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_06_00043_47348.png",
+  "id": "00043_47348",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소희네 반 학생들이 좋아하는 동물을 조사하였습니다. $\\square$ 안에 알맞은 수나 말을 써넣으시오. ⑴ 영은이가 좋아하는 동물은 $\\square$입니다.⑵ <table border> <caption><좋아하는 동물별 학생 수></caption>   <tbody>     <tr>       <td>동물</td>       <td>강아지</td>       <td>고양이</td>       <td >햄스터</td>       <td >열대어</td>       <td>합계</td>     </tr>       <td>학생 수 (명)</td>       <td>$5$</td>       <td>$\\square$</td>      <td>$\\square$</td>     <td>$\\square$</td>              <td>$12$</td> </tbody> </table>⑶ 가장 많은 학생들이 좋아하는 동물은 $\\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            537,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            336,
+            334,
+            357
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            360,
+            192,
+            377
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            382,
+            350,
+            435
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            435,
+            396,
+            452
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            32,
+            311,
+            322
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            540,
+            21
+          ],
+          "text": "소희네 반 학생들이 좋아하는 동물을 조사하였습니다. $\\square$ 안에 알맞은 수나 말을 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            335,
+            397,
+            453
+          ],
+          "text": "⑴ 영은이가 좋아하는 동물은 $\\square$입니다.⑵ <table border> <caption><좋아하는 동물별 학생 수></caption>   <tbody>     <tr>       <td>동물</td>       <td>강아지</td>       <td>고양이</td>       <td >햄스터</td>       <td >열대어</td>       <td>합계</td>     </tr>       <td>학생 수 (명)</td>       <td>$5$</td>       <td>$\\square$</td>      <td>$\\square$</td>     <td>$\\square$</td>              <td>$12$</td> </tbody> </table>⑶ 가장 많은 학생들이 좋아하는 동물은 $\\square$입니다."
+        }
+      ]
+    }
+  ]
+}

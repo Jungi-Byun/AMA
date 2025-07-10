@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00043_55472.png",
+  "id": "00043_55472",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$㉠$과 $㉡$ 중에서 더 큰 수를 찾아 기호를 쓰시오.  ㆍ $8$은 $㉠$의 $\\frac{2}{9}$입니다. ㆍ $㉡$은 12의 $\\frac{5}{6}$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            283,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            28,
+            174,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            74,
+            179,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            289,
+            112
+          ],
+          "text": "$㉠$과 $㉡$ 중에서 더 큰 수를 찾아 기호를 쓰시오.  ㆍ $8$은 $㉠$의 $\\frac{2}{9}$입니다. ㆍ $㉡$은 12의 $\\frac{5}{6}$입니다."
+        }
+      ]
+    }
+  ]
+}

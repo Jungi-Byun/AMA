@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_06_00043_54437.png",
+  "id": "00043_54437",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "철사를 겹치지 않게 사용하여 한 변이 $7 cm$인 정육각형 모양을 $3$개 만들려고 합니다. 필요한 철사의 길이는 몇 $cm$입니까?(1) 정육각형에는 길이가 같은 변이 몇 개 있습니까?(2) 정육각형 모양 $1$개를 만드는 데 필요한 철사의 길이는 몇 $cm$입니까?(3) 정육각형 모양 $3$개를 만드는 데 필요한 철사의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            706,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            310,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            424,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            426,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            708,
+            84
+          ],
+          "text": "철사를 겹치지 않게 사용하여 한 변이 $7 cm$인 정육각형 모양을 $3$개 만들려고 합니다. 필요한 철사의 길이는 몇 $cm$입니까?(1) 정육각형에는 길이가 같은 변이 몇 개 있습니까?(2) 정육각형 모양 $1$개를 만드는 데 필요한 철사의 길이는 몇 $cm$입니까?(3) 정육각형 모양 $3$개를 만드는 데 필요한 철사의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

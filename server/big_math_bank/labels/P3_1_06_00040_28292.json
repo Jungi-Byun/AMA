@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00040_28292.png",
+  "id": "00040_28292",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중에서 옳지\\ 않은 것은 어느 것입니까? ① $\\frac{5}{7}$>$\\frac{3}{7}$ ② $\\frac{3}{8}$>$\\frac{2}{8}$ ③ $\\frac{6}{9}$>$\\frac{7}{9}$ ④ $\\frac{5}{10}$<$\\frac{6}{10}$ ⑤ $\\frac{7}{11}$<$\\frac{9}{11}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            266,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            92,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            92,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            92,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            147,
+            110,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            110,
+            222
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            268,
+            223
+          ],
+          "text": "다음 중에서 옳지\\ 않은 것은 어느 것입니까? ① $\\frac{5}{7}$>$\\frac{3}{7}$ ② $\\frac{3}{8}$>$\\frac{2}{8}$ ③ $\\frac{6}{9}$>$\\frac{7}{9}$ ④ $\\frac{5}{10}$<$\\frac{6}{10}$ ⑤ $\\frac{7}{11}$<$\\frac{9}{11}$"
+        }
+      ]
+    }
+  ]
+}

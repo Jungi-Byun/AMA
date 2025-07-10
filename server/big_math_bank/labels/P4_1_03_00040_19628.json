@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_03_00040_19628.png",
+  "id": "00040_19628",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1$에서 $8$까지의 숫자를 한 번씩만 써서 만들 수 있는 수 중에서 가장 큰 세 자리 수와 두 번째로 작은 두 자리 수의 곱은 얼마입니까? ① $11388$ ② $12264$ ③ $13140$ ④ $14016$ ⑤ $15768$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            751,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            80,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            82,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            80,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            81,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            81,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            753,
+            130
+          ],
+          "text": "$1$에서 $8$까지의 숫자를 한 번씩만 써서 만들 수 있는 수 중에서 가장 큰 세 자리 수와 두 번째로 작은 두 자리 수의 곱은 얼마입니까? ① $11388$ ② $12264$ ③ $13140$ ④ $14016$ ⑤ $15768$"
+        }
+      ]
+    }
+  ]
+}

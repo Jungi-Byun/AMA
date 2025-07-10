@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00042_93261.png",
+  "id": "00042_93261",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수조에 물이 가득 담겨져 있습니다. 이 물을 크기와 모양이 다른 컵 ㉮, ㉯, ㉰, ㉱로 재어 보았더니 각각 $10$컵, $12$컵, $9$컵, $15$컵이었습니다. 컵의 들이가 가장 많은 것은 무엇입니까? ①컵 ㉮ ②컵 ㉯ ③컵 ㉰ ④컵 ㉱ ⑤알 수 없습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            237,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            74,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            74,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            74,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            74,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            131,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            152
+          ],
+          "text": "수조에 물이 가득 담겨져 있습니다. 이 물을 크기와 모양이 다른 컵 ㉮, ㉯, ㉰, ㉱로 재어 보았더니 각각 $10$컵, $12$컵, $9$컵, $15$컵이었습니다. 컵의 들이가 가장 많은 것은 무엇입니까? ①컵 ㉮ ②컵 ㉯ ③컵 ㉰ ④컵 ㉱ ⑤알 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

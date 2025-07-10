@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_04_00040_42799.png",
+  "id": "00040_42799",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림을 보고 설명한 것 중 틀린 것은 어느 것입니까?  ① (원이미지1) 방향으로 돌린 모양은 처음 그림과 같습니다. ② (원이미지2) 방향으로 돌린 모양은 (원이미지3) 방향으로 돌린 모양과 같습니다. ③ (원이미지2) 방향으로 돌린 모양은 왼쪽으로 뒤집은 모양과 같습니다. ④ (원이미지2) 방향으로 돌린 모양은 아래쪽으로 뒤집은 모양과 같습니다. ⑤왼쪽으로 뒤집으면 처음 모양과 같아집니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            341,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.1,
+            115.5,
+            335.1,
+            147.5
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            182.5,
+            405.1,
+            211.5
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.1,
+            211.5,
+            413.1,
+            241.5
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            242,
+            291,
+            265
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            147.5,
+            426.1,
+            181.5
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            374,
+            30,
+            449,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            0.5,
+            343.1,
+            20.5
+          ],
+          "text": "다음 그림을 보고 설명한 것 중 틀린 것은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            114.5,
+            427.1,
+            266.5
+          ],
+          "text": "① (원이미지1) 방향으로 돌린 모양은 처음 그림과 같습니다. ② (원이미지2) 방향으로 돌린 모양은 (원이미지3) 방향으로 돌린 모양과 같습니다. ③ (원이미지2) 방향으로 돌린 모양은 왼쪽으로 뒤집은 모양과 같습니다. ④ (원이미지2) 방향으로 돌린 모양은 아래쪽으로 뒤집은 모양과 같습니다. ⑤왼쪽으로 뒤집으면 처음 모양과 같아집니다."
+        }
+      ]
+    }
+  ]
+}

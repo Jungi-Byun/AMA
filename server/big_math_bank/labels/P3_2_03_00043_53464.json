@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53464.png",
+  "id": "00043_53464",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "반지름의 길이가 8 cm인 원 문자 ㄱ과 반지름의 길이가 6 cm인 원 문자 ㄴ이 서로 한 점에서 접하고, 두 원의 중심 ㄱ, ㄴ을 잇는 선분 ㄱㄴ이 있는 그림",
+      "question_text": "선분 ㄱㄴ의 길이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            27,
+            190,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            189,
+            22
+          ],
+          "text": "선분 ㄱㄴ의 길이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

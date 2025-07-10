@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53841.png",
+  "id": "00043_53841",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203008",
+      "question_topic_name": "원을 이용하여 여러 가지 모양 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 규칙이 있는지 설명하여 보시오. <규칙> 원의 중심이 $_______$   원의 반지름이 $_______$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            229,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            202.94,
+            463,
+            222.94
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            30,
+            318,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            231,
+            23
+          ],
+          "text": "어떤 규칙이 있는지 설명하여 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            197.94,
+            466,
+            223.94
+          ],
+          "text": "<규칙> 원의 중심이 $_______$   원의 반지름이 $_______$"
+        }
+      ]
+    }
+  ]
+}

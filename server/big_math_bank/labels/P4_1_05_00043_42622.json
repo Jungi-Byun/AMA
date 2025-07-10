@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_05_00043_42622.png",
+  "id": "00043_42622",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105002",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 한 칸이 5점이고 0, 50, 100에 숫자가 적혀 있는 (점)이 단위인 점수로 하고 세로축은 위에서부터 국어, 수학, 과학, 사회가 적혀 있는 과목으로 하고, 다정이의 막대그래프의 색깔은 보라색이고 국어는 90점, 수학은 80점, 과학은 70점, 사회는 95점이고 정우의 막대그래프의 색깔은 노란색이고 국어는 95점, 수학은 90점, 과학은 90점, 사회는 80점인 다정이와 정우의 과목별 시험 점수를 조사하여 나타낸 막대그래프",
+      "question_text": "다정이와 정우의 과목별 시험 점수를 조사하여 나타낸 막대그래프입니다. 막대그래프에서 다정이의 점수와 정우의 점수가 가장 많이 차이 나는 과목은 무엇이고, 몇 점 차이 나는지 차례로 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            337,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            50,
+            320,
+            282
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            41
+          ],
+          "text": "다정이와 정우의 과목별 시험 점수를 조사하여 나타낸 막대그래프입니다. 막대그래프에서 다정이의 점수와 정우의 점수가 가장 많이 차이 나는 과목은 무엇이고, 몇 점 차이 나는지 차례로 쓰시오."
+        }
+      ]
+    }
+  ]
+}

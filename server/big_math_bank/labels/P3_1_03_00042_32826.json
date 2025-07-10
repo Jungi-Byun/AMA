@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_03_00042_32826.png",
+  "id": "00042_32826",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빵 $12$개를 접시 $4$개에 똑같이 나누어 나타내어 보고 접시 한 개에 담는 빵의 개수를 구하시오. $12÷4$=$\\square$(개)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            543,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            98,
+            104,
+            201,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            280,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            545,
+            21
+          ],
+          "text": "빵 $12$개를 접시 $4$개에 똑같이 나누어 나타내어 보고 접시 한 개에 담는 빵의 개수를 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            96,
+            102,
+            203,
+            133
+          ],
+          "text": "$12÷4$=$\\square$(개)"
+        }
+      ]
+    }
+  ]
+}

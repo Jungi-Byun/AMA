@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_01_00043_49858.png",
+  "id": "00043_49858",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 읽고 물음에 답하시오. 리본 한 개를 만드는 데 색 테이프가 $ 52 \\mathrm{~cm} $ 필요합니다. 같은 리본 $28$개를 만들려면 색 테이프는 몇 $\\mathrm{~cm}$가 필요합니까? ⑴ 구하려는 것은 무엇입니까? ⑵ 주어진 조건은 무엇입니까? ⑶ 필요한 곱셈식을 만드시오. $ \\square \\times \\square=\\square $ ⑷ 같은 리본 $28$개를 만들려면 색 테이프는 몇 $\\mathrm{~cm}$가 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            701,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            191,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            191,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            187,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            126,
+            187,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            155,
+            388,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            702,
+            173
+          ],
+          "text": "다음을 읽고 물음에 답하시오. 리본 한 개를 만드는 데 색 테이프가 $ 52 \\mathrm{~cm} $ 필요합니다. 같은 리본 $28$개를 만들려면 색 테이프는 몇 $\\mathrm{~cm}$가 필요합니까? ⑴ 구하려는 것은 무엇입니까? ⑵ 주어진 조건은 무엇입니까? ⑶ 필요한 곱셈식을 만드시오. $ \\square \\times \\square=\\square $ ⑷ 같은 리본 $28$개를 만들려면 색 테이프는 몇 $\\mathrm{~cm}$가 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

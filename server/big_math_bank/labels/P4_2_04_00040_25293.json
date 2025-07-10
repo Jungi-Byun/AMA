@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_25293.png",
+  "id": "00040_25293",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204013",
+      "question_topic_name": "평행사변형 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림에서 크고 작은 평행사변형은 모두 몇 개입니까?  ① $1$개 ② $2$개 ③ $3$개 ④ $4$개 ⑤ $5$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            346,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            111,
+            69,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            136,
+            65,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            158,
+            65,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            180,
+            65,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            202,
+            64,
+            222
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            17.17,
+            21.65,
+            181.17,
+            114.65
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            348,
+            20
+          ],
+          "text": "다음 그림에서 크고 작은 평행사변형은 모두 몇 개입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.72,
+            113.11,
+            68.72,
+            223.11
+          ],
+          "text": "① $1$개 ② $2$개 ③ $3$개 ④ $4$개 ⑤ $5$개"
+        }
+      ]
+    }
+  ]
+}

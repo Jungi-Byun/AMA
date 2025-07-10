@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_1_02_00040_13817.png",
+  "id": "00040_13817",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102011",
+      "question_topic_name": "각도의 합 또는 차의 활용",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "각 ㄱㄷㄴ의 크기가 47도인 삼각형 ㄱㄴㄷ과 각 ㄹㄷㅁ의 크기가 62도인 삼각형 ㄹㄷㅁ을 점 ㄷ이 맞닿도록 밑변을 나란히 놓고 두 개의 삼각형에는 다른 색깔로 색칠이 된 그림",
+      "question_text": "두 개의 삼각형이 그림과 같이 놓여 있습니다. 각 $ㄴㄷㄱ$의 크기가 $ 47^{\\circ} $이고, 각 $ㄹㄷㅁ$의 크기가 $ 62^{\\circ} $일 때, 각 $ㄱㄷㄹ$의 크기는 몇 도가 됩니까? ①$ 71^{\\circ} $ ②$ 89^{\\circ} $ ③$ 109^{\\circ} $ ④$ 133^{\\circ} $ ⑤$ 251^{\\circ} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            152,
+            62,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            174,
+            66,
+            194
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            196,
+            72,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            218,
+            71,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            240,
+            70,
+            260
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            47,
+            316,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            40
+          ],
+          "text": "두 개의 삼각형이 그림과 같이 놓여 있습니다. 각 $ㄴㄷㄱ$의 크기가 $ 47^{\\circ} $이고, 각 $ㄹㄷㅁ$의 크기가 $ 62^{\\circ} $일 때, 각 $ㄱㄷㄹ$의 크기는 몇 도가 됩니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            151,
+            74,
+            261
+          ],
+          "text": "①$ 71^{\\circ} $ ②$ 89^{\\circ} $ ③$ 109^{\\circ} $ ④$ 133^{\\circ} $ ⑤$ 251^{\\circ} $"
+        }
+      ]
+    }
+  ]
+}

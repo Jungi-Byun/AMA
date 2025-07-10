@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00042_54495.png",
+  "id": "00042_54495",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉯ 그릇에 물을 가득 채워 ㉮ 수조에 $24$번 부으면 물이 가득 차게 됩니다. 들이가 ㉯ 그릇의 $2$배인 ㉰ 그릇으로 ㉮ 수조에 물을 가득 채우려면 몇 번 부어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            157,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            320,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "㉯ 그릇에 물을 가득 채워 ㉮ 수조에 $24$번 부으면 물이 가득 차게 됩니다. 들이가 ㉯ 그릇의 $2$배인 ㉰ 그릇으로 ㉮ 수조에 물을 가득 채우려면 몇 번 부어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

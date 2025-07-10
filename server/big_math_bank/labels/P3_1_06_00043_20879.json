@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_20879.png",
+  "id": "00043_20879",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 $\\square$ 안에 알맞은 수나 말을 써넣으시오.  <보기>$2$ 와 $0.8$ 만큼인 수 $ \\rightarrow 2.8 \\rightarrow $ 이점 팔 $3$과 $0.1$만큼인 수 $ \\rightarrow \\square \\rightarrow \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            320,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            73,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            55,
+            231,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            281,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            347,
+            102
+          ],
+          "text": "<보기>와 같이 $\\square$ 안에 알맞은 수나 말을 써넣으시오.  <보기>$2$ 와 $0.8$ 만큼인 수 $ \\rightarrow 2.8 \\rightarrow $ 이점 팔 $3$과 $0.1$만큼인 수 $ \\rightarrow \\square \\rightarrow \\square $"
+        }
+      ]
+    }
+  ]
+}

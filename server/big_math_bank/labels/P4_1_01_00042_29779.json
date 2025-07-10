@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00042_29779.png",
+  "id": "00042_29779",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101003",
+      "question_topic_name": "다섯 자리 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수를 보기와 같이 나타내시오. [보기]$56729=50000+6000+700+20+9$  $48453=$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            69,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            57,
+            243,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            83,
+            68,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            98
+          ],
+          "text": "수를 보기와 같이 나타내시오. [보기]$56729=50000+6000+700+20+9$  $48453=$"
+        }
+      ]
+    }
+  ]
+}

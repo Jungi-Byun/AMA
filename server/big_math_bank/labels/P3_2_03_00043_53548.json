@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_03_00043_53548.png",
+  "id": "00043_53548",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽 위에 있는 지름이 14 cm인 원 문자 ㅁ과 오른쪽 아래에 있는 지름이 8 cm인 원 문자 ㅂ이 외접하고 선분 ㅁㅂ이 표시된 도형",
+      "question_text": "점 $ㅁ$과 점 $ㅂ$은 원의 중심입니다. 물음에 답하시오. ⑴ 큰 원과 작은 원의 반지름은 각각 몇 $cm$입니까? 큰 원 ( )작은 원 ( ) ⑵ 선분 $ㅁㅂ$의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            307,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            180,
+            305,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            246,
+            230,
+            263
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.72,
+            199.11,
+            134.72,
+            221.11
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.72,
+            223.11,
+            149.72,
+            243.11
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            175,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.72,
+            0.11,
+            307.72,
+            16.11
+          ],
+          "text": "점 $ㅁ$과 점 $ㅂ$은 원의 중심입니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.72,
+            179.11,
+            304.72,
+            265.11
+          ],
+          "text": "⑴ 큰 원과 작은 원의 반지름은 각각 몇 $cm$입니까? 큰 원 ( )작은 원 ( ) ⑵ 선분 $ㅁㅂ$의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00043_53668.png",
+  "id": "00043_53668",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림은 반지름이 $4 cm$인 원 $10$개를 이용하여 그린 그림입니다. 굵은 선의 길이의 합을 알아보시오.  ⑴ 원의 지름은 몇 $cm$입니까? ⑵ 굵은 선의 길이는 원의 지름의 몇 배입니까? ⑶ 굵은 선의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            574,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            141,
+            188,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            163,
+            283,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            185,
+            217,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            30,
+            194,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            576,
+            23
+          ],
+          "text": "그림은 반지름이 $4 cm$인 원 $10$개를 이용하여 그린 그림입니다. 굵은 선의 길이의 합을 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            140,
+            285,
+            203
+          ],
+          "text": "⑴ 원의 지름은 몇 $cm$입니까? ⑵ 굵은 선의 길이는 원의 지름의 몇 배입니까? ⑶ 굵은 선의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

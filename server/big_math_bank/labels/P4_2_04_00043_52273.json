@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00043_52273.png",
+  "id": "00043_52273",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞게 써넣으시오.  (1) 직선 가에 수직인 직선은 직선$\\square$와 직선 $\\square$입니다. (2) 직선 다, 직선 $\\square$와 같이 서로 만나지 않는 두 직선을 $\\square$하다고 합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            158,
+            393,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            180,
+            543,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            43,
+            274,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            248,
+            22
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞게 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            156,
+            545,
+            203
+          ],
+          "text": "(1) 직선 가에 수직인 직선은 직선$\\square$와 직선 $\\square$입니다. (2) 직선 다, 직선 $\\square$와 같이 서로 만나지 않는 두 직선을 $\\square$하다고 합니다."
+        }
+      ]
+    }
+  ]
+}

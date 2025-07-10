@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36551.png",
+  "id": "00043_36551",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈 $18÷2$를 나타낸 문장입니다. $\\square$ 안에 알맞은 수를 써넣으시오.  우리 반 학생 $\\square$명이 $\\square$명씩 짝을 지으면 모두 $\\square$쌍이 됩니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            404,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            444,
+            64
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            64
+          ],
+          "text": "나눗셈 $18÷2$를 나타낸 문장입니다. $\\square$ 안에 알맞은 수를 써넣으시오.  우리 반 학생 $\\square$명이 $\\square$명씩 짝을 지으면 모두 $\\square$쌍이 됩니다."
+        }
+      ]
+    }
+  ]
+}

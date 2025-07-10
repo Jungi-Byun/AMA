@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_25297.png",
+  "id": "00042_25297",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성태는 가게에서 $830$원짜리 아이스크림과 $480$원짜리 사탕을 각각 한 개씩 샀습니다. 성태는 얼마를 내야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            503,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            178,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            505,
+            40
+          ],
+          "text": "성태는 가게에서 $830$원짜리 아이스크림과 $480$원짜리 사탕을 각각 한 개씩 샀습니다. 성태는 얼마를 내야 합니까?"
+        }
+      ]
+    }
+  ]
+}

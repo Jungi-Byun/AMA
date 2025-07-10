@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00042_28684.png",
+  "id": "00042_28684",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가분수를 대분수로 바르게 나타낸 것은 어느 것입니까?  (1) $ \\frac{11}{3}=2 \\frac{2}{3} $ (2) $ \\frac{26}{5}=4 \\frac{3}{4} $ (3) $ \\frac{31}{9}=3 \\frac{5}{9} $ (4) $ \\frac{15}{8}=2 \\frac{7}{8} $ (5) $ \\frac{45}{7}=6 \\frac{3}{7} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            330,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            112,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            112,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            112,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            148,
+            112,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            112,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            332,
+            224
+          ],
+          "text": "가분수를 대분수로 바르게 나타낸 것은 어느 것입니까?  (1) $ \\frac{11}{3}=2 \\frac{2}{3} $ (2) $ \\frac{26}{5}=4 \\frac{3}{4} $ (3) $ \\frac{31}{9}=3 \\frac{5}{9} $ (4) $ \\frac{15}{8}=2 \\frac{7}{8} $ (5) $ \\frac{45}{7}=6 \\frac{3}{7} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00042_53656.png",
+  "id": "00042_53656",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $ 2000 \\mathrm{~mL}+1700 \\mathrm{~mL}=\\square \\mathrm{mL}   =\\square L \\square \\mathrm{mL} $ (2)$ 1 \\mathrm{~L} 100 \\mathrm{~mL}+2 \\mathrm{~L} 300 \\mathrm{~mL}=\\square L \\square \\mathrm{mL} $ (3) $ 4800 \\mathrm{~mL}-2300 \\mathrm{~mL}=\\square \\mathrm{mL}   =\\square L \\square \\mathrm{mL} $ (4) $ 4 \\mathrm{~L} 600 \\mathrm{~mL}-300 \\mathrm{~mL}=\\square L \\square \\mathrm{mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            243,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            51,
+            141,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            293,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            109,
+            246,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            138,
+            141,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            167,
+            279,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            296,
+            194
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $ 2000 \\mathrm{~mL}+1700 \\mathrm{~mL}=\\square \\mathrm{mL}   =\\square L \\square \\mathrm{mL} $ (2)$ 1 \\mathrm{~L} 100 \\mathrm{~mL}+2 \\mathrm{~L} 300 \\mathrm{~mL}=\\square L \\square \\mathrm{mL} $ (3) $ 4800 \\mathrm{~mL}-2300 \\mathrm{~mL}=\\square \\mathrm{mL}   =\\square L \\square \\mathrm{mL} $ (4) $ 4 \\mathrm{~L} 600 \\mathrm{~mL}-300 \\mathrm{~mL}=\\square L \\square \\mathrm{mL} $"
+        }
+      ]
+    }
+  ]
+}

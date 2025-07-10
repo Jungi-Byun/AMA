@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_41916.png",
+  "id": "00043_41916",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠, ㉡, ㉢이 $1$부터 $9$까지의 수일 때, 다음을 보고 ㉠$+$㉡$-$㉢을 구하시오. ㆍ$0.8<0$.㉠$<1$ㆍ$0.1$이 ㉡개이면 $0.5$입니다.ㆍ㉢$mm=0.8cm$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            417,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            25,
+            122,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            36,
+            53,
+            203,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            36,
+            78,
+            136,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            419,
+            95
+          ],
+          "text": "㉠, ㉡, ㉢이 $1$부터 $9$까지의 수일 때, 다음을 보고 ㉠$+$㉡$-$㉢을 구하시오. ㆍ$0.8<0$.㉠$<1$ㆍ$0.1$이 ㉡개이면 $0.5$입니다.ㆍ㉢$mm=0.8cm$"
+        }
+      ]
+    }
+  ]
+}

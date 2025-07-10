@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_03_00043_34120.png",
+  "id": "00043_34120",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103011",
+      "question_topic_name": "나머지가 있는 (두 자리 수)÷(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "오른쪽 숫자 카드를 한 번씩 사용하여 몫이 $8$이고, 나머지가 $1$인 $(두 자리 수)\\div(두 자리 수)$의 나눗셈식을 만들려고 합니다. $\\square$ 안에 알맞은 숫자를 써넣으시오.  $ \\square \\square \\div \\square=8 \\cdots 1 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            376,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            544,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            158,
+            191,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            43,
+            134,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            546,
+            41
+          ],
+          "text": "오른쪽 숫자 카드를 한 번씩 사용하여 몫이 $8$이고, 나머지가 $1$인 $(두 자리 수)\\div(두 자리 수)$의 나눗셈식을 만들려고 합니다. $\\square$ 안에 알맞은 숫자를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            156,
+            193,
+            186
+          ],
+          "text": "$ \\square \\square \\div \\square=8 \\cdots 1 $"
+        }
+      ]
+    }
+  ]
+}

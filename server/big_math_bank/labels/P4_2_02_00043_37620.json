@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_02_00043_37620.png",
+  "id": "00043_37620",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202007",
+      "question_topic_name": "정삼각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "학교에서 문구점까지 수평으로 250 m 거리에 있고, 학교에서 도서관은 수평인 선과 60도 각도, 250 m 거리에 있으며 도서관과 문구점은 선으로만 연결, 문구점에서 420 m 거리에 병원이 있고, 문구점에서 병원과 마트는 90도를 이루는 위치에, 마트에서 문구점과 병원까지는 45도 각도를 이루는 곳에 각각 위치하고 있는 도형",
+      "question_text": "어느 마을의 $5$개 건물의 위치를 점으로 표시하고 각 지점을 선분으로 연결한 것입니다. 도서관에서 문구점을 지나 마트까지의 거리는 몇 $ \\mathrm{m} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            50,
+            249,
+            280
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            40
+          ],
+          "text": "어느 마을의 $5$개 건물의 위치를 점으로 표시하고 각 지점을 선분으로 연결한 것입니다. 도서관에서 문구점을 지나 마트까지의 거리는 몇 $ \\mathrm{m} $입니까?"
+        }
+      ]
+    }
+  ]
+}

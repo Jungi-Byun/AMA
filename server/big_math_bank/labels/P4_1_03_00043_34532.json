@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_03_00043_34532.png",
+  "id": "00043_34532",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103011",
+      "question_topic_name": "나머지가 있는 (두 자리 수)÷(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 보고 짝을 지을 수 있는 학생들은 몇 명인지 구하시오. (1) $80$명이 몇 명씩 짝을 지어야 합니까? (2) 짝을 짓지 못하는 학생은 몇 명입니까? (3) 짝을 지을 수 있는 학생들은 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            361,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            193,
+            248,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            215,
+            258,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            281,
+            274,
+            298
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            25,
+            321,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.56,
+            2.38,
+            362.24,
+            18.38
+          ],
+          "text": "다음을 보고 짝을 지을 수 있는 학생들은 몇 명인지 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.28,
+            194.38,
+            257.92,
+            233.42
+          ],
+          "text": "(1) $80$명이 몇 명씩 짝을 지어야 합니까? (2) 짝을 짓지 못하는 학생은 몇 명입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.28,
+            281.42,
+            273.92,
+            299.98
+          ],
+          "text": "(3) 짝을 지을 수 있는 학생들은 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

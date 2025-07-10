@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00043_35135.png",
+  "id": "00043_35135",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102010",
+      "question_topic_name": "직사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "이등분하는 가로 점선이 있고 세로로 긴 직사각형 모양의 종이, 화살표 오른쪽에, 두 조각으로 나뉘고 각각에 이등분하는 가로 점선이 있는 종이, 화살표 오른쪽에, 네 조각으로 나뉜 종이 중 맨 아래 하나에만 종이를 이등분하는 세로 선이 있는 종이",
+      "question_text": "다음과 같이 직사각형 모양의 종이를 접어서 $4$조각으로 자른 후 마지막 조각을 반으로 접어 자르면 직사각형이 모두 몇 개 만들어집니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            26,
+            230,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            24
+          ],
+          "text": "다음과 같이 직사각형 모양의 종이를 접어서 $4$조각으로 자른 후 마지막 조각을 반으로 접어 자르면 직사각형이 모두 몇 개 만들어집니까?"
+        }
+      ]
+    }
+  ]
+}

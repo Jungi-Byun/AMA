@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_20915.png",
+  "id": "00043_20915",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠과 ㉡에 알맞은 수를 각각 구하시오.  $   \\cdot6.8$은 $6$과$\\boxed{\\phantom{(}㉠\\phantom{)}}$ 만큼입니다. $\\cdot 2.4$는$\\boxed{\\phantom{(}㉡\\phantom{)}}$와 $0.4$만큼입니다. ㉠ ($ $  ) ㉡ ( $ $ )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            200,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            56,
+            214,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            184,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            237,
+            99
+          ],
+          "text": "㉠과 ㉡에 알맞은 수를 각각 구하시오.  $   \\cdot6.8$은 $6$과$\\boxed{\\phantom{(}㉠\\phantom{)}}$ 만큼입니다. $\\cdot 2.4$는$\\boxed{\\phantom{(}㉡\\phantom{)}}$와 $0.4$만큼입니다. ㉠ ($ $  ) ㉡ ( $ $ )"
+        }
+      ]
+    }
+  ]
+}

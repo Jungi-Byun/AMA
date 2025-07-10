@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_03_00043_36503.png",
+  "id": "00043_36503",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈식 $\\square$÷8=4의 $\\square$는 얼마인지 알아보시오.  (1) 나눗셈식의 $\\square$를 구하는 데 필요한 곱셈식에 $\\bigcirc$표 하시오. $\\square\\div4=8 8\\times4=\\square$  ( )       $$( )  (2) $\\square$는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            287,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            361,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            44,
+            180,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            75,
+            175,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            141,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            363,
+            115
+          ],
+          "text": "나눗셈식 $\\square$÷8=4의 $\\square$는 얼마인지 알아보시오.  (1) 나눗셈식의 $\\square$를 구하는 데 필요한 곱셈식에 $\\bigcirc$표 하시오. $\\square\\div4=8 8\\times4=\\square$  ( )       $$( )  (2) $\\square$는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

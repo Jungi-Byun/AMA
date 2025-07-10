@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55652.png",
+  "id": "00043_55652",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 1과 같은 분수를 모두 고르시오. ① $ \\frac{7}{8} $ ② $ \\frac{2}{2} $ ③ $ \\frac{6}{5} $ ④ $ \\frac{11}{11} $ ⑤ $ \\frac{5}{9} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            242,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            63,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            63,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            63,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            72,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            63,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            244,
+            224
+          ],
+          "text": "다음 중 1과 같은 분수를 모두 고르시오. ① $ \\frac{7}{8} $ ② $ \\frac{2}{2} $ ③ $ \\frac{6}{5} $ ④ $ \\frac{11}{11} $ ⑤ $ \\frac{5}{9} $"
+        }
+      ]
+    }
+  ]
+}

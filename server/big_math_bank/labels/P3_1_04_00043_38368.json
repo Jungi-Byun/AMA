@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_04_00043_38368.png",
+  "id": "00043_38368",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104005",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 모형을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. ⑴ 낱개 모형의 개수를 곱셈식으로 나타내면 $ 2 \\times 2= \\square$입니다. ⑵ 십 모형의 개수를 곱셈식으로 나타내면 $ 5 \\times 2= \\square$입니다. ⑶ $ 52 \\times 2= \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            291,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            198,
+            374,
+            224
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            227,
+            371,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            256,
+            114,
+            282
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            28,
+            322,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            0.9,
+            291.1,
+            17.9
+          ],
+          "text": "수 모형을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            198.9,
+            374.1,
+            282.9
+          ],
+          "text": "⑴ 낱개 모형의 개수를 곱셈식으로 나타내면 $ 2 \\times 2= \\square$입니다. ⑵ 십 모형의 개수를 곱셈식으로 나타내면 $ 5 \\times 2= \\square$입니다. ⑶ $ 52 \\times 2= \\square$"
+        }
+      ]
+    }
+  ]
+}

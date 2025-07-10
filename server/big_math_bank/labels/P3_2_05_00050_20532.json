@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20532.png",
+  "id": "00050_20532",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경진이네 밭에서 수박을 $99000kg$ 수확하였습니다. 수확한 수박을 팔기 위해 시장으로 운반하려고 합니다. $6t$까지 실을 수 있는 트럭으로 운반한다면 $8t$까지 실을 수 있는 트럭으로 운반할 때보다 적어도 몇 번 더 운반해야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            535,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "경진이네 밭에서 수박을 $99000kg$ 수확하였습니다. 수확한 수박을 팔기 위해 시장으로 운반하려고 합니다. $6t$까지 실을 수 있는 트럭으로 운반한다면 $8t$까지 실을 수 있는 트럭으로 운반할 때보다 적어도 몇 번 더 운반해야 합니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_05_00043_58516.png",
+  "id": "00043_58516",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205001",
+      "question_topic_name": "꺾은선그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 상조가 키우는 강낭콩의 키를 매일 조사하여 나타낸 꺾은선그래프입니다. 강낭콩은 $16$일부터 $20$일까지 키가 몇 $cm $자랐는지 알아보시오.  ($1$) 세로 눈금 한 칸의 크기는 몇 $cm$입니까? ($2$) $16$일과 $20$일의 강낭콩의 키는 각각 몇 $cm$입니까?  (3) 강낭콩은 $16$일부터 $20$일까지 키가 몇 $cm$ 자랐습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            61,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            224,
+            262,
+            241
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            246,
+            319,
+            263
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            312,
+            344,
+            329
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            51,
+            309,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            40
+          ],
+          "text": "다음은 상조가 키우는 강낭콩의 키를 매일 조사하여 나타낸 꺾은선그래프입니다. 강낭콩은 $16$일부터 $20$일까지 키가 몇 $cm $자랐는지 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            222,
+            321,
+            265
+          ],
+          "text": "($1$) 세로 눈금 한 칸의 크기는 몇 $cm$입니까? ($2$) $16$일과 $20$일의 강낭콩의 키는 각각 몇 $cm$입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            305,
+            346,
+            332
+          ],
+          "text": "(3) 강낭콩은 $16$일부터 $20$일까지 키가 몇 $cm$ 자랐습니까?"
+        }
+      ]
+    }
+  ]
+}

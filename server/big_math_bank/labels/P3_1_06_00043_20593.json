@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_06_00043_20593.png",
+  "id": "00043_20593",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직사각형을 $1$로 보았을 때 $\\square$ 안에 알맞은 수나 말을 써넣으시오.  직사각형은 똑같이 $\\square$칸으로 나누어져 있고, 색칠한 부분은 $\\square$칸입니다.  색칠한 부분을 분수로 나타내면 $\\square$이고, 소수로 나타내면 $\\square$이라 쓰고, $\\square$이라고 읽습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            380,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            89,
+            804,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            127,
+            428,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            14,
+            170,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            382,
+            20
+          ],
+          "text": "직사각형을 $1$로 보았을 때 $\\square$ 안에 알맞은 수나 말을 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            90,
+            804,
+            149
+          ],
+          "text": " 직사각형은 똑같이 $\\square$칸으로 나누어져 있고, 색칠한 부분은 $\\square$칸입니다.  색칠한 부분을 분수로 나타내면 $\\square$이고, 소수로 나타내면 $\\square$이라 쓰고, $\\square$이라고 읽습니다."
+        }
+      ]
+    }
+  ]
+}

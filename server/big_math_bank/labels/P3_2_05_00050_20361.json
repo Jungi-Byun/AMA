@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20361.png",
+  "id": "00050_20361",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "넓이가 $1 \\mathrm{a}$인 꽃밭을 만들기 위해서는 휽 $ 100 \\mathrm{kg} $이 필요합니다. 가로 $ 80 \\mathrm{m} $, 세로 $ 90 \\mathrm{m} $인 직사각형 모양의 꽃밭을 만들려면 필요한 휽은 몇 $ \\mathrm{t}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            40
+          ],
+          "text": "넓이가 $1 \\mathrm{a}$인 꽃밭을 만들기 위해서는 휽 $ 100 \\mathrm{kg} $이 필요합니다. 가로 $ 80 \\mathrm{m} $, 세로 $ 90 \\mathrm{m} $인 직사각형 모양의 꽃밭을 만들려면 필요한 휽은 몇 $ \\mathrm{t}$입니까?"
+        }
+      ]
+    }
+  ]
+}

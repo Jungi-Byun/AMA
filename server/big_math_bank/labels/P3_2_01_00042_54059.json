@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00042_54059.png",
+  "id": "00042_54059",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과수원 체험학습에서 학생 $25$명이 각각 배를 $51$개씩 땄습니다. 학생들이 딴 배는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            578,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            580,
+            21
+          ],
+          "text": "과수원 체험학습에서 학생 $25$명이 각각 배를 $51$개씩 땄습니다. 학생들이 딴 배는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_02_00042_25679.png",
+  "id": "00042_25679",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형의 이름으로 옳은 것을 모두 고르시오.  ① 삼각형 ② 사각형 ③ 직각삼각형 ④ 직사각형 ⑤ 정사각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            286,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            82,
+            82,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            82,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            128,
+            107,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            150,
+            95,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            172,
+            95,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            84,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.51,
+            0,
+            286.31,
+            17.49
+          ],
+          "text": "다음 도형의 이름으로 옳은 것을 모두 고르시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.71,
+            85.97,
+            106.47,
+            192.85
+          ],
+          "text": "① 삼각형 ② 사각형 ③ 직각삼각형 ④ 직사각형 ⑤ 정사각형"
+        }
+      ]
+    }
+  ]
+}

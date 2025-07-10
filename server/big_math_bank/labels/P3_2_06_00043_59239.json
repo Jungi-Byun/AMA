@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_2_06_00043_59239.png",
+  "id": "00043_59239",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 가게별 하루 동안 팔린 막대사탕의 수를 조사하여 나타낸 그림그래프입니다. 가와 다 가게는 강의 동쪽에, 나와 라 가게는 강의 서쪽에 있을 때, 강의 동쪽과 서쪽 중 어느 쪽의 막대사탕이 더 많이 팔렸는지 알아보시오. (1) 강의 동쪽에 있는 가게의 큰 그림과 작은 그림은 모두 몇 개입니까? (2) 강의 서쪽에 있는 가게의 큰 그림과 작은 그림은 모두 몇 개입니까? (3) 강의 동쪽과 서쪽 중에서 어느 쪽에서 팔린 막대사탕이 더 많습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            495,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            331,
+            417,
+            348
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            395,
+            426,
+            412
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            264.5,
+            414.1,
+            287.5
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            56,
+            324,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            41
+          ],
+          "text": "다음은 가게별 하루 동안 팔린 막대사탕의 수를 조사하여 나타낸 그림그래프입니다. 가와 다 가게는 강의 동쪽에, 나와 라 가게는 강의 서쪽에 있을 때, 강의 동쪽과 서쪽 중 어느 쪽의 막대사탕이 더 많이 팔렸는지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            264.5,
+            414.1,
+            288.5
+          ],
+          "text": "(1) 강의 동쪽에 있는 가게의 큰 그림과 작은 그림은 모두 몇 개입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            329.5,
+            417.1,
+            349.5
+          ],
+          "text": "(2) 강의 서쪽에 있는 가게의 큰 그림과 작은 그림은 모두 몇 개입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            393.5,
+            428.1,
+            413.5
+          ],
+          "text": "(3) 강의 동쪽과 서쪽 중에서 어느 쪽에서 팔린 막대사탕이 더 많습니까?"
+        }
+      ]
+    }
+  ]
+}

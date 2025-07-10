@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_58282.png",
+  "id": "00043_58282",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "실제 무게가 $3kg$인 물건의 어림한 무게와 실제 무게의 차입니다. 가장 가깝게 어림한 사람과 가장 멀게 어림한 사람의 무게의 차가 가장 클 때는 몇 $kg$ 몇 $g$입니까? <table border> <caption></caption>   <tbody>     <tr>       <td>이름</td>       <td>은희</td>       <td>소영</td>       <td>진경</td>       <td>성희</td>       <td rowspan=3></td>     </tr>     <tr>       <td>무게의 차(g)</td>       <td>400</td>       <td>200</td>       <td>100</td>       <td>270</td>     </tr>     <tr>       <td colspan=6></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            153,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            248,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            92
+          ],
+          "text": "실제 무게가 $3kg$인 물건의 어림한 무게와 실제 무게의 차입니다. 가장 가깝게 어림한 사람과 가장 멀게 어림한 사람의 무게의 차가 가장 클 때는 몇 $kg$ 몇 $g$입니까? <table border> <caption></caption>   <tbody>     <tr>       <td>이름</td>       <td>은희</td>       <td>소영</td>       <td>진경</td>       <td>성희</td>       <td rowspan=3></td>     </tr>     <tr>       <td>무게의 차(g)</td>       <td>400</td>       <td>200</td>       <td>100</td>       <td>270</td>     </tr>     <tr>       <td colspan=6></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

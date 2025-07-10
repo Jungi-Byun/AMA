@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_25223.png",
+  "id": "00042_25223",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 세로의 길이보다 긴 직사각형 모양의 종이, 화살표 오른쪽에, 왼쪽 아래 꼭짓점을 들어 올려 직사각형 윗변의 한 점에 올리고 접은 다음, 접기 전의 선분은 점선으로 그리고, 겹치지 않은 부분을 가위로 잘라내고 있는 그림, 화살표 오른쪽에, 잘라낸 정사각형의 종이가 있는 그림",
+      "question_text": "직사각형 모양의 종이를 그림과 같이 접은 후 오렸습니다. 만들어진 도형의 이름을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            526,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            331,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            528,
+            34
+          ],
+          "text": "직사각형 모양의 종이를 그림과 같이 접은 후 오렸습니다. 만들어진 도형의 이름을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

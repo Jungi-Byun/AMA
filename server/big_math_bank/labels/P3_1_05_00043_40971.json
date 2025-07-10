@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_05_00043_40971.png",
+  "id": "00043_40971",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105002",
+      "question_topic_name": "몇 cm 몇 mm 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "건희가 똑같은 책$ 4$ 권을 쌓았더니 높이가 $ 6 \\mathrm{~cm} $ 가 되었습니다. 같은 책 $7$ 권을 쌓으면 높이는 몇 $ \\mathrm{cm} $ 몇 $ \\mathrm{mm} $ 가 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            675,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            677,
+            20
+          ],
+          "text": "건희가 똑같은 책$ 4$ 권을 쌓았더니 높이가 $ 6 \\mathrm{~cm} $ 가 되었습니다. 같은 책 $7$ 권을 쌓으면 높이는 몇 $ \\mathrm{cm} $ 몇 $ \\mathrm{mm} $ 가 됩니까?"
+        }
+      ]
+    }
+  ]
+}

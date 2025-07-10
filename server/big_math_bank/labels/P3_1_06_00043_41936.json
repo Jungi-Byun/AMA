@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_41936.png",
+  "id": "00043_41936",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "1부터 9까지의 수 중 $\\bigcirc$와 $△$에 각각 알맞은 수를 구하여 $\\bigcirc$에 알맞은 수들의 합과 △에 알맞은 수들의 합의 차를 구하시오. ㆍ$1.4<1.\\bigcirc<1.9$ ㆍ$ \\frac{3}{10}<\\frac{\\Delta}{10}<\\frac{7}{10} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            703,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            26,
+            267,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            710,
+            76
+          ],
+          "text": "1부터 9까지의 수 중 $\\bigcirc$와 $△$에 각각 알맞은 수를 구하여 $\\bigcirc$에 알맞은 수들의 합과 △에 알맞은 수들의 합의 차를 구하시오. ㆍ$1.4<1.\\bigcirc<1.9$ ㆍ$ \\frac{3}{10}<\\frac{\\Delta}{10}<\\frac{7}{10} $"
+        }
+      ]
+    }
+  ]
+}

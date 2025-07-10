@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00040_28539.png",
+  "id": "00040_28539",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사과 $55$개와 배 $45$개를 가지고 똑같은 과일 바구니 $5$개를 만들려고 합니다. 한 바구니에 사과와 배는 각각 몇 개씩 들어갑니까? ①사과 $9$개 , 배 $9$개 ②사과 $9$개 , 배 $10$개 ③사과 $11$개 , 배 $9$개 ④사과 $11$개 , 배 $11$개 ⑤사과 $9$개 , 배 $11$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            733,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            143,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            149,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            145,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            147,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            145,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            736,
+            130
+          ],
+          "text": "사과 $55$개와 배 $45$개를 가지고 똑같은 과일 바구니 $5$개를 만들려고 합니다. 한 바구니에 사과와 배는 각각 몇 개씩 들어갑니까? ①사과 $9$개 , 배 $9$개 ②사과 $9$개 , 배 $10$개 ③사과 $11$개 , 배 $9$개 ④사과 $11$개 , 배 $11$개 ⑤사과 $9$개 , 배 $11$개"
+        }
+      ]
+    }
+  ]
+}

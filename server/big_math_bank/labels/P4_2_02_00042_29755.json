@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_02_00042_29755.png",
+  "id": "00042_29755",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202012",
+      "question_topic_name": "삼각형을 각의 크기에 따라 분류하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "삼각형의 세 각 중 두 각의 크기가 다음과 같을 때, 각 삼각형은 예각삼각형과 둔각삼각형 중에서 어떤 삼각형인지 쓰시오. (1) $50\\degree,60\\degree$ (2) $35\\degree,40\\degree$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            700,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            89,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            91,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            703,
+            62
+          ],
+          "text": "삼각형의 세 각 중 두 각의 크기가 다음과 같을 때, 각 삼각형은 예각삼각형과 둔각삼각형 중에서 어떤 삼각형인지 쓰시오. (1) $50\\degree,60\\degree$ (2) $35\\degree,40\\degree$"
+        }
+      ]
+    }
+  ]
+}

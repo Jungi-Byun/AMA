@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_03_00043_50702.png",
+  "id": "00043_50702",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203016",
+      "question_topic_name": "소수 두 자리 수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$6.42-2.17$은 얼마인지 알아보시오. (1) 두 수를 자연수 부분과 소수 부분으로 나누고 각각의 차를 구하시오. <table border>   <tbody>     <tr>       <td>소수</td>       <td>자연수 부분</td>       <td>소수 부분</td>     </tr>     <tr>       <td>$6.42$</td>       <td>$6$</td>       <td>$0.42$</td>     </tr>     <tr>       <td>$2.17$</td>       <td>$2$</td>       <td></td>     </tr>     <tr>       <td>차</td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) $\\square$ 안에 알맞은 수를 써넣으시오. $ 6.42-2.17=\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            214,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            419,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            216,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            163,
+            225,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            185,
+            139,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            421,
+            212
+          ],
+          "text": "$6.42-2.17$은 얼마인지 알아보시오. (1) 두 수를 자연수 부분과 소수 부분으로 나누고 각각의 차를 구하시오. <table border>   <tbody>     <tr>       <td>소수</td>       <td>자연수 부분</td>       <td>소수 부분</td>     </tr>     <tr>       <td>$6.42$</td>       <td>$6$</td>       <td>$0.42$</td>     </tr>     <tr>       <td>$2.17$</td>       <td>$2$</td>       <td></td>     </tr>     <tr>       <td>차</td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) $\\square$ 안에 알맞은 수를 써넣으시오. $ 6.42-2.17=\\square$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_02_00043_37198.png",
+  "id": "00043_37198",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102004",
+      "question_topic_name": "각도기와 자를 이용하여 각 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 순서에 따라 각도기를 사용하여 크기가 $40\\degree$인 각 ㄱㄴㄷ을 그려 보시오. ① 각의 한 변 ㄴㄷ을 그립니다.  ② 각도기의 중심과 각의 꼭짓점 ㄴ을 맞추고, 각도기의 밑금을 각의 한 변인 ㄴㄷ과 맞춥니다.  ③ 각도기의 밑금에서 출발하여 크기가 $40\\degree$가 되는 곳에 점 ㄱ을 표시합니다.  ④ 각도기를 떼고 변 ㄱㄴ을 그어 각 ㄱㄴㄷ을 완성합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            269,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            203,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            43,
+            202,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            76,
+            552,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            96,
+            460,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            117,
+            354,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            147,
+            318,
+            329
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            571,
+            143
+          ],
+          "text": "다음 순서에 따라 각도기를 사용하여 크기가 $40\\degree$인 각 ㄱㄴㄷ을 그려 보시오. ① 각의 한 변 ㄴㄷ을 그립니다.  ② 각도기의 중심과 각의 꼭짓점 ㄴ을 맞추고, 각도기의 밑금을 각의 한 변인 ㄴㄷ과 맞춥니다.  ③ 각도기의 밑금에서 출발하여 크기가 $40\\degree$가 되는 곳에 점 ㄱ을 표시합니다.  ④ 각도기를 떼고 변 ㄱㄴ을 그어 각 ㄱㄴㄷ을 완성합니다."
+        }
+      ]
+    }
+  ]
+}

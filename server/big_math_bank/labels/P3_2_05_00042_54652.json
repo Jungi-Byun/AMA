@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_54652.png",
+  "id": "00042_54652",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "재희는 여러 가지 물건의 무게를 어림한 후 실제로 재어 보았습니다. 실제 무게에 가장 가깝게 어림한 물건은 어느 것입니까?  <table border>   <tbody align=\"center\">     <tr>       <td>물건</td>       <td>어림한 무게</td>       <td>실제무게</td>     </tr>     <tr>       <td>의자</td>       <td>2kg 900g</td>       <td>3kg 500g</td>     </tr>     <tr>       <td>휴대전화</td>       <td>200g</td>       <td>107g</td>     </tr>     <tr>       <td>딸기잼</td>       <td>550g</td>       <td>485g</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            718,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            248,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            720,
+            116
+          ],
+          "text": "재희는 여러 가지 물건의 무게를 어림한 후 실제로 재어 보았습니다. 실제 무게에 가장 가깝게 어림한 물건은 어느 것입니까?  <table border>   <tbody align=\"center\">     <tr>       <td>물건</td>       <td>어림한 무게</td>       <td>실제무게</td>     </tr>     <tr>       <td>의자</td>       <td>2kg 900g</td>       <td>3kg 500g</td>     </tr>     <tr>       <td>휴대전화</td>       <td>200g</td>       <td>107g</td>     </tr>     <tr>       <td>딸기잼</td>       <td>550g</td>       <td>485g</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

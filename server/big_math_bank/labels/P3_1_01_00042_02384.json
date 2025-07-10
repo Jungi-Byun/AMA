@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_01_00042_02384.png",
+  "id": "00042_02384",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수에서 $377$을 빼야 할 것을 잘못하여 더하였더니 $950$이 되었습니다. 바르게 계산하면 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            606,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            608,
+            21
+          ],
+          "text": "어떤 수에서 $377$을 빼야 할 것을 잘못하여 더하였더니 $950$이 되었습니다. 바르게 계산하면 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

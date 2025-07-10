@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_40406.png",
+  "id": "00043_40406",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빈칸에 알맞은 수를 써넣으시오.  <table border>   <tbody>     <tr>       <td>초바늘이 가리키는 숫자</td>       <td>$~2~$</td>       <td>$~3~$</td>       <td>$~5~$</td>       <td>$~7~$</td>       <td>$10$</td>     </tr>     <tr>       <td>$~~~~~~~~~~~~~$초 </td>       <td>$10$</td>       <td></td>       <td>$25$</td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            200,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            320,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            322,
+            70
+          ],
+          "text": "빈칸에 알맞은 수를 써넣으시오.  <table border>   <tbody>     <tr>       <td>초바늘이 가리키는 숫자</td>       <td>$~2~$</td>       <td>$~3~$</td>       <td>$~5~$</td>       <td>$~7~$</td>       <td>$10$</td>     </tr>     <tr>       <td>$~~~~~~~~~~~~~$초 </td>       <td>$10$</td>       <td></td>       <td>$25$</td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

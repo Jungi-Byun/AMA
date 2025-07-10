@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20575.png",
+  "id": "00050_20575",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물을 $4t$까지 채울 수 있는 빈 물탱크에 $1$시간에 물이 $0.22t$씩 나오는 수도꼭지를 틀어 물을 받았습니다. 수도꼭지를 하루 종일 틀어 놓았다면 물탱크 밖으로 흘러 넘친 물은 몇 $kg$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            284,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "물을 $4t$까지 채울 수 있는 빈 물탱크에 $1$시간에 물이 $0.22t$씩 나오는 수도꼭지를 틀어 물을 받았습니다. 수도꼭지를 하루 종일 틀어 놓았다면 물탱크 밖으로 흘러 넘친 물은 몇 $kg$입니까?"
+        }
+      ]
+    }
+  ]
+}

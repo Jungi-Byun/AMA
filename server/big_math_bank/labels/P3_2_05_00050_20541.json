@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20541.png",
+  "id": "00050_20541",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 과자 공장에서 매일 밀가루를 $160 kg$ 사용하고, 설탕은 밀가루의 $4$배만큼을 사용한다고 합니다. 이 공장에서 $3$월 한 달 동안 사용하는 밀가루와 설탕의 무게의 합은 몇 $t$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            255,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "어느 과자 공장에서 매일 밀가루를 $160 kg$ 사용하고, 설탕은 밀가루의 $4$배만큼을 사용한다고 합니다. 이 공장에서 $3$월 한 달 동안 사용하는 밀가루와 설탕의 무게의 합은 몇 $t$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57747.png",
+  "id": "00043_57747",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉯ 물통에 물을 가득 담아 ㉰ 그릇에 $3$번 부으면 물이 가득 차고, 들이가 $360mL$인 ㉮ 컵에 물을 가득 담아 ㉯ 물통에 $3$번 부으면 물이 가득 차게 됩니다. ㉰ 그릇의 들이는 몇 $L$ 몇 $mL$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            304,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            14.34,
+            54.79,
+            338.49,
+            184.6
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.79,
+            2.62,
+            797.03,
+            38.46
+          ],
+          "text": "㉯ 물통에 물을 가득 담아 ㉰ 그릇에 $3$번 부으면 물이 가득 차고, 들이가 $360mL$인 ㉮ 컵에 물을 가득 담아 ㉯ 물통에 $3$번 부으면 물이 가득 차게 됩니다. ㉰ 그릇의 들이는 몇 $L$ 몇 $mL$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55665.png",
+  "id": "00043_55665",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "(작은 마름모)은 1이고, ( 큰 마름모)을 2등분 한 것이 (삼각형) 이라고 할 때 다음 모양을 가분수로 나타내어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            27.1,
+            4.9,
+            631.1,
+            30.9
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23.1,
+            40.9,
+            97.1,
+            106.9
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            26.1,
+            5.42,
+            630.1,
+            31.42
+          ],
+          "text": "(작은 마름모)은 1이고, ( 큰 마름모)을 2등분 한 것이 (삼각형) 이라고 할 때 다음 모양을 가분수로 나타내어 보시오."
+        }
+      ]
+    }
+  ]
+}

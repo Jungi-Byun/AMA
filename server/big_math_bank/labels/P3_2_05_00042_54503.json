@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00042_54503.png",
+  "id": "00042_54503",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이가 같은 항아리 $4$개에 물을 가득 채워 그릇 ㉠, ㉡, ㉢, ㉣을 각각 사용하여 덜어 내었더니 아래와 같았습니다. 그릇의 들이가 많은 순서대로 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            91,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            215,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            92
+          ],
+          "text": "들이가 같은 항아리 $4$개에 물을 가득 채워 그릇 ㉠, ㉡, ㉢, ㉣을 각각 사용하여 덜어 내었더니 아래와 같았습니다. 그릇의 들이가 많은 순서대로 쓰시오."
+        }
+      ]
+    }
+  ]
+}

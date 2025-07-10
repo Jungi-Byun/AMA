@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_05_00043_58791.png",
+  "id": "00043_58791",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "연도를 가로축으로 하고, 단위가 ( cm)인 키를 세로축으로 한, 2009은 130 cm, 2010은 132 cm, 2011은 136 cm, 2012은 136 cm, 2013은 138 cm, 2014은 142 cm인 영진이의 키를 조사하여 나타낸 분홍색 꺾은선그래프, 2009은 128 cm, 2010은 128 cm, 2011은 130 cm, 2012은 134 cm, 2013은 144 cm, 2014은 150 cm인 세윤이의 키를 조사하여 나타낸 파란색 꺾은선그래프, 2009은 120 cm, 2010은 124 cm, 2011은 132 cm, 2012은 140 cm, 2013은 142 cm, 2014은 146 cm인 기찬이의 키를 조사하여 나타낸 초록색 꺾은선그래프",
+      "question_text": "다음은 매년 $1$월 $1$일에 영진, 세윤, 기찬이의 키를 조사하여 나타낸 꺾은선그래프입니다. 세 사람 중에서 영진이의 키가 가장 작은 때는 몇 년부터입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            91,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            51,
+            310,
+            263
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            40
+          ],
+          "text": "다음은 매년 $1$월 $1$일에 영진, 세윤, 기찬이의 키를 조사하여 나타낸 꺾은선그래프입니다. 세 사람 중에서 영진이의 키가 가장 작은 때는 몇 년부터입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00043_20714.png",
+  "id": "00043_20714",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "콜라 한 병의 $0.1$만큼을 언니가 마셨고, $\\frac{6}{10}$만큼을 오빠가 마셨습니다. 남은 콜라를 동생이 마셨을 때, 많이 마신 사람부터 차례로 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            37
+          ],
+          "text": "콜라 한 병의 $0.1$만큼을 언니가 마셨고, $\\frac{6}{10}$만큼을 오빠가 마셨습니다. 남은 콜라를 동생이 마셨을 때, 많이 마신 사람부터 차례로 쓰시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_04_00042_30677.png",
+  "id": "00042_30677",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "① $ \\frac{3}{4} $ ② $ \\frac{5}{3} $ ③ $ \\frac{13}{6} $ ④ $ \\frac{11}{5} $ ⑤ $ 1 \\frac{1}{2} $ 수직선의 색칠한 부분에 들어가는 분수는 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            51,
+            63,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            93,
+            63,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            133,
+            72,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            174,
+            72,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            216,
+            72,
+            249
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            19,
+            299,
+            47
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            50,
+            74,
+            250
+          ],
+          "text": "① $ \\frac{3}{4} $ ② $ \\frac{5}{3} $ ③ $ \\frac{13}{6} $ ④ $ \\frac{11}{5} $ ⑤ $ 1 \\frac{1}{2} $"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            0,
+            341.75,
+            18.5
+          ],
+          "text": "수직선의 색칠한 부분에 들어가는 분수는 어느 것입니까? "
+        }
+      ]
+    }
+  ]
+}

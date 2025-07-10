@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53505.png",
+  "id": "00043_53505",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "크기가 다른 두 원이 외접하고 있으며, 점 ㄴ은 좌측 원의 중심이고 두 원의 접점에서 점 ㄴ까지의 거리는 3 cm이며, 우측 원의 중심이 ㄷ이고, 선분 ㄴㄷ의 연장선과 좌측 원의 교점은 ㄱ이며, 점 ㄷ에서 위로 원에 접하는 선분은 5 cm인 도형",
+      "question_text": "점 ㄴ과 점 ㄷ은 각각 원의 중심입니다. 선분 ㄱㄷ의 길이는 몇$ \\mathrm{~cm} $인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            472,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            31,
+            231,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            474,
+            23
+          ],
+          "text": "점 ㄴ과 점 ㄷ은 각각 원의 중심입니다. 선분 ㄱㄷ의 길이는 몇$ \\mathrm{~cm} $인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

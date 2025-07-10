@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00042_55011.png",
+  "id": "00042_55011",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204014",
+      "question_topic_name": "평행사변형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 사각형 $ㄱㄴㄷㄹ$에 대한 설명으로 틀린 것은 어느 것입니까? ①마주 보는 두 쌍의 변이 평행합니다. ②사다리꼴입니다. ③평행사변형입니다. ④변 $ㄱㄴ$과 변 $ㄹㄷ$의 길이가 같습니다. ⑤각 $ㄱㄹㄷ$과 각 $ㄴㄷㄹ$의 크기가 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            388,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            120,
+            244,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            144,
+            136,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            149,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            257,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            210,
+            282,
+            230
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            16.9,
+            21.4,
+            158.5,
+            121.4
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.5,
+            0.6,
+            388.9,
+            18.2
+          ],
+          "text": "다음 사각형 $ㄱㄴㄷㄹ$에 대한 설명으로 틀린 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.9,
+            119.8,
+            283.3,
+            229.4
+          ],
+          "text": "①마주 보는 두 쌍의 변이 평행합니다. ②사다리꼴입니다. ③평행사변형입니다. ④변 $ㄱㄴ$과 변 $ㄹㄷ$의 길이가 같습니다. ⑤각 $ㄱㄹㄷ$과 각 $ㄴㄷㄹ$의 크기가 같습니다."
+        }
+      ]
+    }
+  ]
+}

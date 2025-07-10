@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_2_06_00043_59072.png",
+  "id": "00043_59072",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계절별로 태어난 학생 수를 조사하여 표로 나타낸 것입니다. 물음에 답하시오. <table border> <caption>계절별로 태어난 학생</caption>   <tbody>     <tr>       <td>계절</td>       <td> $~$봄</td>       <td>여름</td>       <td>가을</td>       <td>겨울</td>       <td>합계</td>       <td rowspan=2></td>     </tr>     <tr>       <td>학생 수</td>       <td>$~26~$</td>       <td>$41$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> ⑴ 표의 빈칸에 알맞은 수를 써넣으시오. ⑵ 조사한 학생은 모두 몇 명입니까? ⑶ 겨울에 태어난 학생은 봄에 태어난 학생보다 몇 명 더 많습니까? ⑷ 가장 많은 학생들이 태어난 계절은 언제입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            454,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            108,
+            28,
+            246,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            45,
+            316,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            387,
+            246,
+            404
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            409,
+            224,
+            426
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            431,
+            396,
+            448
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            453,
+            304,
+            470
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            45,
+            125,
+            300,
+            373
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            457,
+            115
+          ],
+          "text": "계절별로 태어난 학생 수를 조사하여 표로 나타낸 것입니다. 물음에 답하시오. <table border> <caption>계절별로 태어난 학생</caption>   <tbody>     <tr>       <td>계절</td>       <td> $~$봄</td>       <td>여름</td>       <td>가을</td>       <td>겨울</td>       <td>합계</td>       <td rowspan=2></td>     </tr>     <tr>       <td>학생 수</td>       <td>$~26~$</td>       <td>$41$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            386,
+            398,
+            471
+          ],
+          "text": "⑴ 표의 빈칸에 알맞은 수를 써넣으시오. ⑵ 조사한 학생은 모두 몇 명입니까? ⑶ 겨울에 태어난 학생은 봄에 태어난 학생보다 몇 명 더 많습니까? ⑷ 가장 많은 학생들이 태어난 계절은 언제입니까?"
+        }
+      ]
+    }
+  ]
+}

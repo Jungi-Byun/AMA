@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_02_00042_92619.png",
+  "id": "00042_92619",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음의 나눗셈을 보고 검산을 한 것입니다. 바르게 된 것은 어느 것입니까?  $ \\begin{array}{r} 6\\phantom{)} \\\\ 9{\\overline{\\smash{\\big)}\\,6~2\\phantom{)}}}\\\\ \\underline{~~5~4\\phantom{)}}  \\\\ 8\\phantom{\\phantom{)}} \\\\  \\end{array} $  ① $ 9 \\times 8+6=62 $ ② $ 8 \\times 6+9=62 $ ③ $ 9 \\times 6+8=62 $ ④ $ 9 \\times 6=54+8 $ ⑤ $ 8 \\times 9=62+6 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            437,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            25,
+            64,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            114,
+            119,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            136,
+            119,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            158,
+            119,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            180,
+            118,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            202,
+            119,
+            222
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            439,
+            223
+          ],
+          "text": "다음의 나눗셈을 보고 검산을 한 것입니다. 바르게 된 것은 어느 것입니까?  $ \\begin{array}{r} 6\\phantom{)} \\\\ 9{\\overline{\\smash{\\big)}\\,6~2\\phantom{)}}}\\\\ \\underline{~~5~4\\phantom{)}}  \\\\ 8\\phantom{\\phantom{)}} \\\\  \\end{array} $  ① $ 9 \\times 8+6=62 $ ② $ 8 \\times 6+9=62 $ ③ $ 9 \\times 6+8=62 $ ④ $ 9 \\times 6=54+8 $ ⑤ $ 8 \\times 9=62+6 $"
+        }
+      ]
+    }
+  ]
+}

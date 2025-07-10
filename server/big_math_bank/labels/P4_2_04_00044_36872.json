@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00044_36872.png",
+  "id": "00044_36872",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204007",
+      "question_topic_name": "평행선 사이의 거리 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 먼 평행선 사이의 거리와 가장 가까운 평행선 사이의 거리의 합을 알아보시오. (1) 가장 먼 평행선 사이의 거리는 몇 $cm$ 입니까? (2) 가장 가까운 평행선 사이의 거리는 몇 $cm$입니까? (3) (1)과 (2)에서 구한 거리의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            484,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            160,
+            294,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            182,
+            318,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            204,
+            273,
+            220
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            35,
+            240,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            0.25,
+            486.75,
+            17.75
+          ],
+          "text": "가장 먼 평행선 사이의 거리와 가장 가까운 평행선 사이의 거리의 합을 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.25,
+            160.25,
+            319.25,
+            222.75
+          ],
+          "text": "(1) 가장 먼 평행선 사이의 거리는 몇 $cm$ 입니까? (2) 가장 가까운 평행선 사이의 거리는 몇 $cm$입니까? (3) (1)과 (2)에서 구한 거리의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

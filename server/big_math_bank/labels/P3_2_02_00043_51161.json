@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51161.png",
+  "id": "00043_51161",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈의 몫을 찾아 선으로 이어 보시오. $ \\begin{array}{c}  (1) 90 \\div 6  \\cdot   \\\\  (2)  50 \\div 2  \\cdot \\\\ (3)  80 \\div 4  \\cdot  \\end{array} $ $ \\begin{array}{c}  \\cdot  ㉠ 15 \\  \\\\  \\cdot  ㉡ 20 \\\\ \\cdot  ㉢ 25 \\\\\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            23,
+            212,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            248,
+            21
+          ],
+          "text": "나눗셈의 몫을 찾아 선으로 이어 보시오. $ \\begin{array}{c}  (1) 90 \\div 6  \\cdot   \\\\  (2)  50 \\div 2  \\cdot \\\\ (3)  80 \\div 4  \\cdot  \\end{array} $ $ \\begin{array}{c}  \\cdot  ㉠ 15 \\  \\\\  \\cdot  ㉡ 20 \\\\ \\cdot  ㉢ 25 \\\\\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_25045.png",
+  "id": "00040_25045",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204001",
+      "question_topic_name": "수직 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형에서 직각인 곳은 모두 몇 개입니까?  ①없습니다. ②$1$개 ③$2$개 ④$3$개 ⑤$4$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            279,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            62,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            65,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            210,
+            65,
+            230
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            232,
+            65,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.02,
+            145.01,
+            97.74,
+            164.85
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            21,
+            163,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.5,
+            1.5,
+            281.5,
+            17.5
+          ],
+          "text": "다음 도형에서 직각인 곳은 모두 몇 개입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            145.01,
+            97.74,
+            251.25
+          ],
+          "text": "①없습니다. ②$1$개 ③$2$개 ④$3$개 ⑤$4$개"
+        }
+      ]
+    }
+  ]
+}

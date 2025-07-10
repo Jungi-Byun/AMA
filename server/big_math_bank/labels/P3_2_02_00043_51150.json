@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00043_51150.png",
+  "id": "00043_51150",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "배구는 한 팀이  $6 $명으로 구성되어 있습니다. 경기를 하기 위해 모인 배구 선수가  $90 $명입니다. 배구팀은 최대 몇 팀이 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            721,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            723,
+            21
+          ],
+          "text": "배구는 한 팀이  $6 $명으로 구성되어 있습니다. 경기를 하기 위해 모인 배구 선수가  $90 $명입니다. 배구팀은 최대 몇 팀이 됩니까?"
+        }
+      ]
+    }
+  ]
+}

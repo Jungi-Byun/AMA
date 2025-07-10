@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_03675.png",
+  "id": "00042_03675",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "수직선에 174, 365, 원 문자 ㄴ이 적힌 눈금이 차례로 있고, 174와 365 사이의 거리는 원 문자 ㄱ, 365와 원 문자 ㄴ 사이의 거리는 98",
+      "question_text": "㉠, ㉡에 알맞은 수를 각각 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            224,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            22,
+            331,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            226,
+            21
+          ],
+          "text": "㉠, ㉡에 알맞은 수를 각각 구하시오."
+        }
+      ]
+    }
+  ]
+}

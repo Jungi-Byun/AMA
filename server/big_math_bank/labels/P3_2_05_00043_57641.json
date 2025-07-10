@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57641.png",
+  "id": "00043_57641",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 칸의 크기가 100 mL이고 10칸 단위로 0부터 4L까지 1L 간격으로 적혀 있는 수직선에 0부터 2L 100 mL 위치까지 빈칸 L 빈칸 mL라고 적혀 있고 3L 600 mL 위치부터 2L 100 mL 위치까지 화살표 모양이 있으며 1L 500 mL라고 적혀 있고 0부터 3L 600 mL 위치까지 화살표 모양이 있으며 3L 600 mL라고 적혀 있는 그림",
+      "question_text": "수직선을 보고  $\\square$안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            287,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            31,
+            321,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            21
+          ],
+          "text": "수직선을 보고  $\\square$안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

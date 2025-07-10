@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_04_00040_43278.png",
+  "id": "00040_43278",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림은 어떤 방법으로 도형을 움직였습니다. 틀린 설명은 어느 것입니까?  ①위쪽으로 뒤집었습니다. ②아래쪽으로 뒤집었습니다. ③ (시계방향으로 $180도$)  방향으로 돌렸습니다. ④오른쪽으로 밀고 위쪽으로 뒤집었습니다. ⑤왼쪽으로 뒤집고 (시계방향으로 $180도$)  방향으로 돌렸습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            459,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            114,
+            178,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            136,
+            191,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            275,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.72,
+            156.44,
+            205.72,
+            189.44
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.72,
+            212.44,
+            301.72,
+            244.44
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            292,
+            27,
+            533,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            461,
+            22
+          ],
+          "text": "다음 그림은 어떤 방법으로 도형을 움직였습니다. 틀린 설명은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.72,
+            114.44,
+            301.72,
+            245.44
+          ],
+          "text": "①위쪽으로 뒤집었습니다. ②아래쪽으로 뒤집었습니다. ③ (시계방향으로 $180도$)  방향으로 돌렸습니다. ④오른쪽으로 밀고 위쪽으로 뒤집었습니다. ⑤왼쪽으로 뒤집고 (시계방향으로 $180도$)  방향으로 돌렸습니다."
+        }
+      ]
+    }
+  ]
+}

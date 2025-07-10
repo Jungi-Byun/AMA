@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00043_34930.png",
+  "id": "00043_34930",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102004",
+      "question_topic_name": "각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 각을 보고 물음에 답하시오. (1) $\\square$ 안을 알맞게 채우시오. 각은 한 점에서 그은 $\\square$ 개의 $\\square$ 으로 이루어진 도형입니다. (2) 위에서 그린 각의 이름을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            144,
+            180,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            164,
+            503,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            188,
+            225,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            27,
+            133,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.92,
+            1.32,
+            206.08,
+            17.32
+          ],
+          "text": "다음 각을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.28,
+            142.12,
+            503.68,
+            205.48
+          ],
+          "text": "(1) $\\square$ 안을 알맞게 채우시오. 각은 한 점에서 그은 $\\square$ 개의 $\\square$ 으로 이루어진 도형입니다. (2) 위에서 그린 각의 이름을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

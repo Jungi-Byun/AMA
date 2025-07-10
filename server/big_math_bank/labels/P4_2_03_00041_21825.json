@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00041_21825.png",
+  "id": "00041_21825",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에는 $0$부터 $9$까지 어떤 수도 들어갈 수 있습니다. 가장 작은 수는 어느 것입니까?  ① $ 10.0 \\square 5 $ ② $ 10.8 \\square 9 $ ③ $ 10.90 \\square $ ④ $ 1 \\square .999 $ ⑤ $ 10.72 \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            504,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            92,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            92,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            92,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            90,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            89,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            506,
+            130
+          ],
+          "text": "$\\square$ 안에는 $0$부터 $9$까지 어떤 수도 들어갈 수 있습니다. 가장 작은 수는 어느 것입니까?  ① $ 10.0 \\square 5 $ ② $ 10.8 \\square 9 $ ③ $ 10.90 \\square $ ④ $ 1 \\square .999 $ ⑤ $ 10.72 \\square $"
+        }
+      ]
+    }
+  ]
+}

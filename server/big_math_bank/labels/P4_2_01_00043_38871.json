@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_01_00043_38871.png",
+  "id": "00043_38871",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201010",
+      "question_topic_name": "분모가 같은 대분수끼리 뺄셈을 자연수, 진분수끼리 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $ 3 \\frac{6}{9}-1 {\\frac{\\square}{9}}=\\square \\frac{\\square}{9} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            274,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            95,
+            111,
+            242,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            33,
+            313,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            277,
+            21
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            93,
+            109,
+            244,
+            157
+          ],
+          "text": "$ 3 \\frac{6}{9}-1 {\\frac{\\square}{9}}=\\square \\frac{\\square}{9} $"
+        }
+      ]
+    }
+  ]
+}

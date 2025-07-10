@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00040_30655.png",
+  "id": "00040_30655",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 설명 중 바르지 못한 것은 어느 것입니까? ①$63$의 $\\frac{3}{9}$은 $21$입니다. ②가분수는 항상 $1$보다 큽니다. ③분자가 분모와 같은 분수는 가분수입니다. ④분자가 분모보다 작은 분수는 진분수입니다. ⑤$12$는 $36$의 $\\frac{2}{6}$이기도 하고, $36$의 $\\frac{3}{9}$이기도 합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            283,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            169,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            62,
+            204,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            278,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            291,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            338,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            340,
+            167
+          ],
+          "text": "다음 설명 중 바르지 못한 것은 어느 것입니까? ①$63$의 $\\frac{3}{9}$은 $21$입니다. ②가분수는 항상 $1$보다 큽니다. ③분자가 분모와 같은 분수는 가분수입니다. ④분자가 분모보다 작은 분수는 진분수입니다. ⑤$12$는 $36$의 $\\frac{2}{6}$이기도 하고, $36$의 $\\frac{3}{9}$이기도 합니다."
+        }
+      ]
+    }
+  ]
+}

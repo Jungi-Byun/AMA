@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00042_52895.png",
+  "id": "00042_52895",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "명수네 모둠에서 모은 헌 종이는 $8500$g이고, 재석이네 모둠에서 모은 헌 종이는 $9$kg입니다. 누구네 모둠에서 모은 헌 종이가 더 많습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            804,
+            21
+          ],
+          "text": "명수네 모둠에서 모은 헌 종이는 $8500$g이고, 재석이네 모둠에서 모은 헌 종이는 $9$kg입니다. 누구네 모둠에서 모은 헌 종이가 더 많습니까?"
+        }
+      ]
+    }
+  ]
+}

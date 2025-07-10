@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_03_00040_23031.png",
+  "id": "00040_23031",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 수를 보고 바르게 설명한 것은 어느 것입니까? ㉠ $4.1$ ㉡ $4.10$ ㉢ $4.100$ ① ㉠이 가장 큰 수입니다. ② ㉡이 가장 큰 수입니다. ③ ㉢이 가장 큰 수입니다. ④ ㉠, ㉡, ㉢은 모두 크기가 같은 수입니다. ⑤ 크기를 비교할 수 없습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            308,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            195,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            55,
+            173,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            173,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            173,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            267,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            198,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            357,
+            167
+          ],
+          "text": "다음 수를 보고 바르게 설명한 것은 어느 것입니까? ㉠ $4.1$ ㉡ $4.10$ ㉢ $4.100$ ① ㉠이 가장 큰 수입니다. ② ㉡이 가장 큰 수입니다. ③ ㉢이 가장 큰 수입니다. ④ ㉠, ㉡, ㉢은 모두 크기가 같은 수입니다. ⑤ 크기를 비교할 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

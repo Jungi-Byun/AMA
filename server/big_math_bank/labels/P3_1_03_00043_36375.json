@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_03_00043_36375.png",
+  "id": "00043_36375",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈식 $9×3=27$과 나눗셈식 $27÷9=3$에 알맞은 문장을 완성하시오.(1) $9×3=27$ 오렌지가 한 봉지에 (2) $27÷9=3$ 오렌지 $27$개를",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            393,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            86,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            46,
+            138,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            88,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            128,
+            112,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            397,
+            155
+          ],
+          "text": "곱셈식 $9×3=27$과 나눗셈식 $27÷9=3$에 알맞은 문장을 완성하시오.(1) $9×3=27$ 오렌지가 한 봉지에 (2) $27÷9=3$ 오렌지 $27$개를"
+        }
+      ]
+    }
+  ]
+}

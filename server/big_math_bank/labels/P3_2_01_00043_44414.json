@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00043_44414.png",
+  "id": "00043_44414",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 도시의 버스 터미널에서는 하루에 $78$대의 버스가 출발합니다. 이 버스 터미널에서 $15$일 동안 출발한 버스는 모두 몇 대입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            759,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            761,
+            23
+          ],
+          "text": "어느 도시의 버스 터미널에서는 하루에 $78$대의 버스가 출발합니다. 이 버스 터미널에서 $15$일 동안 출발한 버스는 모두 몇 대입니까?"
+        }
+      ]
+    }
+  ]
+}

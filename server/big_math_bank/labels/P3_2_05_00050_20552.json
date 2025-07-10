@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20552.png",
+  "id": "00050_20552",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$41000 \\mathrm{kg} $의 화물을 $ 5 \\mathrm{t} $까지 실을 수 있는 트럭으로 운반하려고 합니다. 한 번 운반하는 데 드는 비용이 $20000$원일 때, 화물을 모두 운반하려면 적어도 얼마의 비용이 듭니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            220,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            40
+          ],
+          "text": "$41000 \\mathrm{kg} $의 화물을 $ 5 \\mathrm{t} $까지 실을 수 있는 트럭으로 운반하려고 합니다. 한 번 운반하는 데 드는 비용이 $20000$원일 때, 화물을 모두 운반하려면 적어도 얼마의 비용이 듭니까?"
+        }
+      ]
+    }
+  ]
+}

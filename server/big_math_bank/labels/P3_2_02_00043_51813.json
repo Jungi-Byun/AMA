@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00043_51813.png",
+  "id": "00043_51813",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. 준호 : 예림아, $45$를 $6$으로 나누었더니 몫이 $7$이고 나머지가 $4$가 나왔어. 바르게 계산한 거니? 예림 : 나누는 수와 몫의 곱에 나머지를 더했을 때 나뉠 수가 나오는지 확인하면 돼.준호 :$6×\\square＋\\square=\\square$ (이)니까 나뉠 수랑 다르네. 예림 : 그럼 나눗셈을 다시 계산해 봐.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            555,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            54,
+            490,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            72,
+            376,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            108,
+            236,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            575,
+            128
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. 준호 : 예림아, $45$를 $6$으로 나누었더니 몫이 $7$이고 나머지가 $4$가 나왔어. 바르게 계산한 거니? 예림 : 나누는 수와 몫의 곱에 나머지를 더했을 때 나뉠 수가 나오는지 확인하면 돼.준호 :$6×\\square＋\\square=\\square$ (이)니까 나뉠 수랑 다르네. 예림 : 그럼 나눗셈을 다시 계산해 봐."
+        }
+      ]
+    }
+  ]
+}

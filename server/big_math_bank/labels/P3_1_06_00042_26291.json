@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_26291.png",
+  "id": "00042_26291",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "주현이는 길이가  $ \\frac{2}{12}  m$인 끈을 가지고 있고, 도엽이는 주현이가 가지고 있는 끈의 길이의 $3$배인 끈을 가지고 있습니다. 도엽이가 가지고 있는 끈의 길이는 몇 $m$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            194,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            59
+          ],
+          "text": "주현이는 길이가  $ \\frac{2}{12}  m$인 끈을 가지고 있고, 도엽이는 주현이가 가지고 있는 끈의 길이의 $3$배인 끈을 가지고 있습니다. 도엽이가 가지고 있는 끈의 길이는 몇 $m$입니까?"
+        }
+      ]
+    }
+  ]
+}

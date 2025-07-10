@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00040_29428.png",
+  "id": "00040_29428",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 계산한 답이 $6L$보다 작은 것을 모두 고르시오. ①$2L 900mL+3L 300mL$ ②$3L 700mL+2L 700mL$ ③$11L-5L 600mL$ ④$9L 600mL-2L 800mL$ ⑤$10L 500mL-4900mL$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            323,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            182,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            181,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            133,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            181,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            176,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            325,
+            130
+          ],
+          "text": "다음 중 계산한 답이 $6L$보다 작은 것을 모두 고르시오. ①$2L 900mL+3L 300mL$ ②$3L 700mL+2L 700mL$ ③$11L-5L 600mL$ ④$9L 600mL-2L 800mL$ ⑤$10L 500mL-4900mL$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_01_00042_92031.png",
+  "id": "00042_92031",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 <보기>와 같이 계산하시오.  <보기> $ \\begin{array}{r}56 \\\\ \\times 97 \\\\ \\hline 392 \\\\ 504    \\\\ \\hline 5432\\end{array} $  (1) $ \\begin{array}{r}46 \\\\ \\times 84 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}78 \\\\ \\times 69 \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            217,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            31,
+            25,
+            82,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            70,
+            52,
+            135,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            42,
+            200,
+            91,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            138,
+            201,
+            187,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            222,
+            231
+          ],
+          "text": "다음을 <보기>와 같이 계산하시오.  <보기> $ \\begin{array}{r}56 \\\\ \\times 97 \\\\ \\hline 392 \\\\ 504    \\\\ \\hline 5432\\end{array} $  (1) $ \\begin{array}{r}46 \\\\ \\times 84 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}78 \\\\ \\times 69 \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

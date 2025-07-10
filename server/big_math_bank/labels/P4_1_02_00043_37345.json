@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_02_00043_37345.png",
+  "id": "00043_37345",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "삼각형의 위 각은 45도이고 빨간 각도 표시와 우상방향 곡선 화살표가 있으며 우측 아래의 각은 70도이고 빨간 각도 표시가 있으며 밑변의 좌측으로 연장선이 있고 삼각형의 내각에 빨간 각도 표시와 원 문자ㄴ이 있으며 삼각형의 외각에 빨간 각도 표시를 하고 원 문자ㄱ으로 나타낸 그림",
+      "question_text": "그림에서 ㉠은 몇 도인지 알아보려고 합니다. 물음에 답하시오.  ⑴ ㉡은 몇 도입니까?  ⑵ ㉠은 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            371,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            144,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            140,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            23,
+            147,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            373,
+            24
+          ],
+          "text": "그림에서 ㉠은 몇 도인지 알아보려고 합니다. 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            124,
+            149,
+            167
+          ],
+          "text": "⑴ ㉡은 몇 도입니까?  ⑵ ㉠은 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

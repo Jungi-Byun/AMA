@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00042_29307.png",
+  "id": "00042_29307",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$15.06$에서 숫자 $6$이 나타내는 수와 같은 것은 어느 것입니까?  ① $ \\frac{1}{10} $ 이$ 6$ 개인 수 ② $ \\frac{1}{100} $ 이$ 6$ 개인 수 ③ $ \\frac{1}{1000} $ 이 $6$ 개인 수 ④$ 0.1$ 이 $6$ 개인 수 ⑤ $0.001$ 이 $6$ 개인 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            366,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            31,
+            133,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            72,
+            141,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            113,
+            149,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            144,
+            129,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            148,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            368,
+            187
+          ],
+          "text": "$15.06$에서 숫자 $6$이 나타내는 수와 같은 것은 어느 것입니까?  ① $ \\frac{1}{10} $ 이$ 6$ 개인 수 ② $ \\frac{1}{100} $ 이$ 6$ 개인 수 ③ $ \\frac{1}{1000} $ 이 $6$ 개인 수 ④$ 0.1$ 이 $6$ 개인 수 ⑤ $0.001$ 이 $6$ 개인 수"
+        }
+      ]
+    }
+  ]
+}

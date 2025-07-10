@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_03_00042_32814.png",
+  "id": "00042_32814",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연필 $18$자루를 $6$자루씩 포장하여 친구 몇 명에게 줄 수 있는지 구하려고 합니다. $\\square$안에 알맞은 수를 써넣으시오.  $ 18 \\div \\square=\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            656,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            85,
+            103,
+            183,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            248,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            658,
+            22
+          ],
+          "text": "연필 $18$자루를 $6$자루씩 포장하여 친구 몇 명에게 줄 수 있는지 구하려고 합니다. $\\square$안에 알맞은 수를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            83,
+            101,
+            185,
+            132
+          ],
+          "text": "$ 18 \\div \\square=\\square $"
+        }
+      ]
+    }
+  ]
+}

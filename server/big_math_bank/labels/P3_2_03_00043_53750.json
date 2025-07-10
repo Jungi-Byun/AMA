@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53750.png",
+  "id": "00043_53750",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$4$명의 친구들이 피자를 $8$조각으로 나누어 $2$조각씩 먹으려고 합니다. 피자를 알맞게 나누어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            576,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            29,
+            174,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            578,
+            23
+          ],
+          "text": "$4$명의 친구들이 피자를 $8$조각으로 나누어 $2$조각씩 먹으려고 합니다. 피자를 알맞게 나누어 보시오."
+        }
+      ]
+    }
+  ]
+}

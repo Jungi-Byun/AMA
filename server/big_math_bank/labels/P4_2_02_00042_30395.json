@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_02_00042_30395.png",
+  "id": "00042_30395",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202012",
+      "question_topic_name": "삼각형을 각의 크기에 따라 분류하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "삼각형을 그려 보시오. (1) 예각삼각형(2) 둔각삼각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            145,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            102,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            157,
+            110,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            147,
+            41
+          ],
+          "text": "삼각형을 그려 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            154.51,
+            111.1,
+            180.51
+          ],
+          "text": "(1) 예각삼각형(2) 둔각삼각형"
+        }
+      ]
+    }
+  ]
+}

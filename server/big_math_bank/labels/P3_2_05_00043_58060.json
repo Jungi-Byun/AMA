@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_58060.png",
+  "id": "00043_58060",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오.  (1) $ \\begin{array}{r}9 \\mathrm{~kg} \\ 900 \\mathrm{~g} \\\\ +6 \\mathrm{~kg} \\ 500 \\mathrm{~g} \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}16 \\mathrm{~kg} \\ 400 \\mathrm{~g} \\\\ - 7 \\mathrm{~kg} \\ 600 \\mathrm{~g} \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            16,
+            137,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            188,
+            24,
+            315,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            317,
+            73
+          ],
+          "text": "계산을 하시오.  (1) $ \\begin{array}{r}9 \\mathrm{~kg} \\ 900 \\mathrm{~g} \\\\ +6 \\mathrm{~kg} \\ 500 \\mathrm{~g} \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}16 \\mathrm{~kg} \\ 400 \\mathrm{~g} \\\\ - 7 \\mathrm{~kg} \\ 600 \\mathrm{~g} \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_06_00043_47481.png",
+  "id": "00043_47481",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "태호가 1이라고 하면 영수는 6이라고 답하고, 태호가 4라고 하면 영수는 24라고 답합니다. 또 태호가 2라고 하면 영수는 12라고 답합니다. 영수의 규칙은 무엇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            792,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            175,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            794,
+            41
+          ],
+          "text": "태호가 1이라고 하면 영수는 6이라고 답하고, 태호가 4라고 하면 영수는 24라고 답합니다. 또 태호가 2라고 하면 영수는 12라고 답합니다. 영수의 규칙은 무엇입니까?"
+        }
+      ]
+    }
+  ]
+}

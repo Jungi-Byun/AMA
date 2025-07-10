@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50445.png",
+  "id": "00043_50445",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203013",
+      "question_topic_name": "소수 두 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$안에 알맞은 수를 써넣으시오. $ \\begin{array}{r}0.37 \\text { 은 } 0.0101 \\square \\text { 개 } \\\\ +0.29 \\text { 는 } 0.0101 \\square \\text { 개 } \\\\ \\hline 0.0101 \\square \\text { 개 }\\end{array}   \\Rightarrow \\begin{array}{r}0.37 \\\\ +0.29 \\\\ \\hline \\square\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            182,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            205,
+            31,
+            255,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            184,
+            60,
+            201,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            257,
+            115
+          ],
+          "text": "$\\square$안에 알맞은 수를 써넣으시오. $ \\begin{array}{r}0.37 \\text { 은 } 0.0101 \\square \\text { 개 } \\\\ +0.29 \\text { 는 } 0.0101 \\square \\text { 개 } \\\\ \\hline 0.0101 \\square \\text { 개 }\\end{array}   \\Rightarrow \\begin{array}{r}0.37 \\\\ +0.29 \\\\ \\hline \\square\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

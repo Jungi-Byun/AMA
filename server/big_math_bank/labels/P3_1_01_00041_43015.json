@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00041_43015.png",
+  "id": "00041_43015",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 태환이네 학교의 학년별 학생 수입니다. $3$학년과 $6$학년의 학생 수는 모두 몇 명입니까?<table border>   <tbody>     <tr>       <td>학년</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>       <td>$6$</td>     </tr>     <tr>       <td>학생수(명)</td>       <td>$285$</td>       <td>$297$</td>       <td>$301$</td>       <td>$292$</td>       <td>$352$</td>       <td>$346$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            550,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            309,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            552,
+            72
+          ],
+          "text": "다음은 태환이네 학교의 학년별 학생 수입니다. $3$학년과 $6$학년의 학생 수는 모두 몇 명입니까?<table border>   <tbody>     <tr>       <td>학년</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>       <td>$6$</td>     </tr>     <tr>       <td>학생수(명)</td>       <td>$285$</td>       <td>$297$</td>       <td>$301$</td>       <td>$292$</td>       <td>$352$</td>       <td>$346$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

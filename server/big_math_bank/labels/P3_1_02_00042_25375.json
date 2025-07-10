@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00042_25375.png",
+  "id": "00042_25375",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102004",
+      "question_topic_name": "각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "두 반직선 ㅁㄹ과 ㅁㅂ으로 이뤄진 각 ㄹㅁㅂ의 크기가 표시된 그림",
+      "question_text": "그림을 보고 ( ) 안에 알맞은 말을 써 보시오.  (1) 각 읽기: 각 ( ) (2) 각의 꼭짓점: 점 ( ) (3) 변 읽기: 변 ( ), 변 ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            286,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            137,
+            177,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            159,
+            205,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            181,
+            274,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            28,
+            121,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            0.16,
+            286.68,
+            16.96
+          ],
+          "text": "그림을 보고 ( ) 안에 알맞은 말을 써 보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.88,
+            136.96,
+            276.28,
+            197.76
+          ],
+          "text": "(1) 각 읽기: 각 ( ) (2) 각의 꼭짓점: 점 ( ) (3) 변 읽기: 변 ( ), 변 ( )"
+        }
+      ]
+    }
+  ]
+}

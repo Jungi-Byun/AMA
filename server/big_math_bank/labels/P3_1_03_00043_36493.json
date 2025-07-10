@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36493.png",
+  "id": "00043_36493",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈표를 보고 $20 \\div 4$의 몫을 구하기 위한 곱셈구구를 찾아 $\\square$ 안에 알맞은 수를 써넣으시오. <table border> <caption></caption>   <tbody>     <tr>       <td>X</td>       <td>$0$</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>     </tr>     <tr>       <td>$1$</td>       <td>$0$</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>$2$</td>       <td>$0$</td>       <td>$2$</td>       <td>$4$</td>       <td>$6$</td>       <td>$8$</td>       <td>$10$</td>     </tr>     <tr>       <td>$3$</td>       <td>$0$</td>       <td>$3$</td>       <td>$6$</td>       <td>$9$</td>       <td>$12$</td>       <td>$15$</td>     </tr>     <tr>       <td>$4$</td>       <td>$0$</td>       <td>$4$</td>       <td>$8$</td>       <td>$12$</td>       <td>$16$</td>       <td>$20$</td>     </tr>     <tr>       <td>$5$</td>       <td>$0$</td>       <td>$5$</td>       <td>$10$</td>       <td>$15$</td>       <td>$20$</td>       <td>$25$</td>     </tr> </table> $\\Rightarrow \\square$ 의 단 곱셈구구",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            534,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            22,
+            264,
+            263
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            536,
+            265
+          ],
+          "text": "곱셈표를 보고 $20 \\div 4$의 몫을 구하기 위한 곱셈구구를 찾아 $\\square$ 안에 알맞은 수를 써넣으시오. <table border> <caption></caption>   <tbody>     <tr>       <td>X</td>       <td>$0$</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>     </tr>     <tr>       <td>$1$</td>       <td>$0$</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>     </tr>     <tr>       <td>$2$</td>       <td>$0$</td>       <td>$2$</td>       <td>$4$</td>       <td>$6$</td>       <td>$8$</td>       <td>$10$</td>     </tr>     <tr>       <td>$3$</td>       <td>$0$</td>       <td>$3$</td>       <td>$6$</td>       <td>$9$</td>       <td>$12$</td>       <td>$15$</td>     </tr>     <tr>       <td>$4$</td>       <td>$0$</td>       <td>$4$</td>       <td>$8$</td>       <td>$12$</td>       <td>$16$</td>       <td>$20$</td>     </tr>     <tr>       <td>$5$</td>       <td>$0$</td>       <td>$5$</td>       <td>$10$</td>       <td>$15$</td>       <td>$20$</td>       <td>$25$</td>     </tr> </table> $\\Rightarrow \\square$ 의 단 곱셈구구"
+        }
+      ]
+    }
+  ]
+}

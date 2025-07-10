@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_04_00040_29895.png",
+  "id": "00040_29895",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 답이 나머지 것과 다른 하나는 어느 것입니까? ① $ 15 \\times 6 $ ② $ 16 \\times 5 $ ③ $ 10 \\times 6+5 \\times 6 $ ④ $ 15 \\times 4+15+15 $ ⑤ $ 15+15+15+15+15+15 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            325,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            74,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            74,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            107,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            115,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            160,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            327,
+            130
+          ],
+          "text": "다음 중 답이 나머지 것과 다른 하나는 어느 것입니까? ① $ 15 \\times 6 $ ② $ 16 \\times 5 $ ③ $ 10 \\times 6+5 \\times 6 $ ④ $ 15 \\times 4+15+15 $ ⑤ $ 15+15+15+15+15+15 $"
+        }
+      ]
+    }
+  ]
+}

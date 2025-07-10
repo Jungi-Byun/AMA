@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_02_00043_51157.png",
+  "id": "00043_51157",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "같은 크기의 정사각형 5개를 3 cm씩 나란히 겹치도록 이어 붙여서 만든 직사각형의 가로 길이가 48 cm이고, 겹친 부분에 다른 색깔이 칠해져 있는 그림",
+      "question_text": "똑같은 정사각형 $5$개를 그림과 같이 $3cm$씩 겹치도록 붙여서 직사각형을 만들었더니 직사각형의 가로가 $48cm$가 되었습니다. 정사각형의 한 변의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            188,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            57,
+            260,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "똑같은 정사각형 $5$개를 그림과 같이 $3cm$씩 겹치도록 붙여서 직사각형을 만들었더니 직사각형의 가로가 $48cm$가 되었습니다. 정사각형의 한 변의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

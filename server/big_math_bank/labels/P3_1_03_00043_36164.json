@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00043_36164.png",
+  "id": "00043_36164",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다리빼기 놀이를 할 때 펼친 다리가 모두 $16$개였다면 한 모둠의 학생은 몇 명입니까? (단, 각 모둠의 학생 수는 같습니다.) <다리 빼기>① 두 모둠이 마주 앉습니다.② 다리를 서로 번갈아 폅니다.③ 다리를 차례로 짚어 가며 노래를 부르고, 마지막 노랫말에 해당하는 다리를 접습니다.④ 먼저 다리를 모두 접은 모둠이 이깁니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            697,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.17,
+            30,
+            100.17,
+            47
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.17,
+            49,
+            186.17,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            75,
+            200,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            97,
+            521,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.17,
+            120,
+            272.17,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            705,
+            140
+          ],
+          "text": "다리빼기 놀이를 할 때 펼친 다리가 모두 $16$개였다면 한 모둠의 학생은 몇 명입니까? (단, 각 모둠의 학생 수는 같습니다.) <다리 빼기>① 두 모둠이 마주 앉습니다.② 다리를 서로 번갈아 폅니다.③ 다리를 차례로 짚어 가며 노래를 부르고, 마지막 노랫말에 해당하는 다리를 접습니다.④ 먼저 다리를 모두 접은 모둠이 이깁니다."
+        }
+      ]
+    }
+  ]
+}

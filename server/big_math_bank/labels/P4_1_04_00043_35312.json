@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_04_00043_35312.png",
+  "id": "00043_35312",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형을 보고 물음에 답하시오.  (1) (반시계방향) 와 같이 돌린 도형에 대해 $\\square$ 안에 알맞은 말을 써넣으시오.  주어진 도형은 위쪽이 뚫려 있는데 (반시계방향) 와 같이 돌리면 $\\square$ 이 뚫릴 것으로 예상됩니다.  (2) 도형을 표시된 것과 같이 돌린 도형을 각각 그리고 비교하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19.23,
+            0,
+            190.23,
+            21.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.23,
+            109.27,
+            403.23,
+            137.27
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.23,
+            138.27,
+            625.23,
+            175.27
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.23,
+            175.27,
+            393.23,
+            203.27
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18.23,
+            20.65,
+            113.23,
+            108.65
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            17.23,
+            203.27,
+            211.23,
+            320.27
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.23,
+            0,
+            195.23,
+            21.65
+          ],
+          "text": "도형을 보고 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.23,
+            109.65,
+            630.23,
+            204.65
+          ],
+          "text": "(1) (반시계방향) 와 같이 돌린 도형에 대해 $\\square$ 안에 알맞은 말을 써넣으시오.  주어진 도형은 위쪽이 뚫려 있는데 (반시계방향) 와 같이 돌리면 $\\square$ 이 뚫릴 것으로 예상됩니다.  (2) 도형을 표시된 것과 같이 돌린 도형을 각각 그리고 비교하시오."
+        }
+      ]
+    }
+  ]
+}

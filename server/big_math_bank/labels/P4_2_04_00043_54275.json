@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00043_54275.png",
+  "id": "00043_54275",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204021",
+      "question_topic_name": "직사각형과 정사각형의 성질 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 사각형의 공통점을 찾아 기호를 쓰시오.  ㉠ 네 각의 크기가 같습니다. ㉡ 네 변의 길이가 같습니다. ㉢ 마주 보는 두 변의 길이가 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            17.88,
+            0,
+            260.28,
+            17.59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.08,
+            107.19,
+            185.88,
+            125.59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.08,
+            125.59,
+            187.48,
+            147.99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.08,
+            147.19,
+            246.68,
+            167.99
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            29,
+            310,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.88,
+            0,
+            259.48,
+            17.59
+          ],
+          "text": "세 사각형의 공통점을 찾아 기호를 쓰시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.08,
+            106.39,
+            248.28,
+            168.79
+          ],
+          "text": "㉠ 네 각의 크기가 같습니다. ㉡ 네 변의 길이가 같습니다. ㉢ 마주 보는 두 변의 길이가 같습니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00042_54414.png",
+  "id": "00042_54414",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바늘 한 쌈은 $24$개입니다. 바늘 $4$쌈을 $6$개의 반짇고리에 똑같게 나누어 담으려고 합니다. 반짇고리 한 개에 바늘을 몇 개씩 담으면 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            21
+          ],
+          "text": "바늘 한 쌈은 $24$개입니다. 바늘 $4$쌈을 $6$개의 반짇고리에 똑같게 나누어 담으려고 합니다. 반짇고리 한 개에 바늘을 몇 개씩 담으면 됩니까?"
+        }
+      ]
+    }
+  ]
+}

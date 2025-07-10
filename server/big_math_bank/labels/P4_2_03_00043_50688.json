@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_2_03_00043_50688.png",
+  "id": "00043_50688",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203018",
+      "question_topic_name": "소수 두 자리 수의 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은정이는 미술 시간에 빨간색 물감 4.26 g 중에서 2.74 g을 사용하였습니다. 은정이가 사용하고 남은 빨간색 물감은 몇 g입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            743,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            745,
+            21
+          ],
+          "text": "은정이는 미술 시간에 빨간색 물감 4.26 g 중에서 2.74 g을 사용하였습니다. 은정이가 사용하고 남은 빨간색 물감은 몇 g입니까?"
+        }
+      ]
+    }
+  ]
+}

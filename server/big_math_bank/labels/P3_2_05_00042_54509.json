@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00042_54509.png",
+  "id": "00042_54509",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이가 같은 그릇이 $3$개 있습니다. 각각 한 개의 그릇에 진영, 미수, 형석이가 가지고 있는 통으로 물을 가득 채워서 다음과 같은 횟수만큼 부으면 가득 찬다고 합니다. 세 명의 친구들이 각자의 통으로 한 번씩 물을 가득 채워서 그릇에 부었을 때, 물의 높이가 높은 사람부터 차례로 쓰시오.  진영：$8$번, 미수：$4$번, 형석：$6$번",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            794,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            44,
+            61,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            65,
+            219,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            91
+          ],
+          "text": "들이가 같은 그릇이 $3$개 있습니다. 각각 한 개의 그릇에 진영, 미수, 형석이가 가지고 있는 통으로 물을 가득 채워서 다음과 같은 횟수만큼 부으면 가득 찬다고 합니다. 세 명의 친구들이 각자의 통으로 한 번씩 물을 가득 채워서 그릇에 부었을 때, 물의 높이가 높은 사람부터 차례로 쓰시오.  진영：$8$번, 미수：$4$번, 형석：$6$번"
+        }
+      ]
+    }
+  ]
+}

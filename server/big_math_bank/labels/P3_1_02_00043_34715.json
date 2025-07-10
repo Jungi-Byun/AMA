@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_02_00043_34715.png",
+  "id": "00043_34715",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음에서 직사각형이 정사각형이 아닌 이유로 바른 것을 찾아 기호를 쓰시오. ㉠ 꼭짓점이 $4$개입니다. ㉡ 네 각이 모두 직각입니다. ㉢ 직각이 아닌 각이 있습니다. ㉣ 네 변의 길이가 모두 같지 않습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            451,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            25,
+            159,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            53,
+            185,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            77,
+            199,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            99,
+            245,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            452,
+            115
+          ],
+          "text": "다음에서 직사각형이 정사각형이 아닌 이유로 바른 것을 찾아 기호를 쓰시오. ㉠ 꼭짓점이 $4$개입니다. ㉡ 네 각이 모두 직각입니다. ㉢ 직각이 아닌 각이 있습니다. ㉣ 네 변의 길이가 모두 같지 않습니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00042_25631.png",
+  "id": "00042_25631",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 들어갈 수 있는 수가 가장 작은 것은 어느 것입니까?  ① $ 32 \\div \\square=8 $ ② $ 54 \\div \\square=6 $ ③ $ 25 \\div \\square=5 $ ④ $ \\square \\div 4=7 $ ⑤ $ \\square \\div 3=2 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            358,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            97,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            97,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            96,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            89,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            89,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            360,
+            130
+          ],
+          "text": "$\\square$ 안에 들어갈 수 있는 수가 가장 작은 것은 어느 것입니까?  ① $ 32 \\div \\square=8 $ ② $ 54 \\div \\square=6 $ ③ $ 25 \\div \\square=5 $ ④ $ \\square \\div 4=7 $ ⑤ $ \\square \\div 3=2 $"
+        }
+      ]
+    }
+  ]
+}

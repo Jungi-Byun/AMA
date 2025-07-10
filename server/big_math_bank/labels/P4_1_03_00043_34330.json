@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_03_00043_34330.png",
+  "id": "00043_34330",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 계산을 하시오. <보기>$327\\times2=654 \\rightarrow 327\\times20=6540$  $536\\times4=2144 \\rightarrow 536\\times40=\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            191,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            74,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            58,
+            208,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            237,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            109
+          ],
+          "text": "<보기>와 같이 계산을 하시오. <보기>$327\\times2=654 \\rightarrow 327\\times20=6540$  $536\\times4=2144 \\rightarrow 536\\times40=\\square$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_03_00042_88221.png",
+  "id": "00042_88221",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $\\square$ 안에 들어갈 알맞은 말은 어느 것입니까?  ①원의 지름 ②원의 반지름 ③원의 모양 ④원의 크기 ⑤원의 중심",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            312,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            110,
+            100,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            132,
+            112,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            154,
+            100,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            176,
+            99,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            198,
+            99,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            21,
+            178,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            314,
+            21
+          ],
+          "text": "다음 중 $\\square$ 안에 들어갈 알맞은 말은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            109,
+            114,
+            219
+          ],
+          "text": " ①원의 지름 ②원의 반지름 ③원의 모양 ④원의 크기 ⑤원의 중심"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58267.png",
+  "id": "00043_58267",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "친구들이 슈퍼에서 말하는 내용을 보고 바르게 말한 사람을 찾아 쓰시오. 경수 : 쌀 $10kg$을 똑같이 $2$개의 자루에 나누어 담으면 쌀 $1$자루의 무게는 $500g$이 되겠네. 소희 : $300g$에 $1500$원인 딸기 $1kg 200g$의 가격은 $6000$원이겠구나. 은영 : 쇠고기 $1kg 200g$이 $9000$원이니까 $500g$은 $4500$원이네.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            425,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            528,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            54,
+            422,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            73,
+            399,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            530,
+            99
+          ],
+          "text": "친구들이 슈퍼에서 말하는 내용을 보고 바르게 말한 사람을 찾아 쓰시오. 경수 : 쌀 $10kg$을 똑같이 $2$개의 자루에 나누어 담으면 쌀 $1$자루의 무게는 $500g$이 되겠네. 소희 : $300g$에 $1500$원인 딸기 $1kg 200g$의 가격은 $6000$원이겠구나. 은영 : 쇠고기 $1kg 200g$이 $9000$원이니까 $500g$은 $4500$원이네."
+        }
+      ]
+    }
+  ]
+}

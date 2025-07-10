@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00042_87123.png",
+  "id": "00042_87123",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민정이와 준원이는 달리기 시합을 하였습니다. 민정이는 $3$분 $38$초가 걸렸고 준원이는 $2$분 $24$초가 걸렸습니다. 준원이는 민정이보다 얼마나 더 빠른 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            124,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            804,
+            40
+          ],
+          "text": "민정이와 준원이는 달리기 시합을 하였습니다. 민정이는 $3$분 $38$초가 걸렸고 준원이는 $2$분 $24$초가 걸렸습니다. 준원이는 민정이보다 얼마나 더 빠른 것입니까?"
+        }
+      ]
+    }
+  ]
+}

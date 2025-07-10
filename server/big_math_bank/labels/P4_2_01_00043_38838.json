@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_2_01_00043_38838.png",
+  "id": "00043_38838",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201004",
+      "question_topic_name": "분모가 같은 (진분수)-(진분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분모가 $9$인 진분수가 $2$개 있습니다. 두 분수의 합이 $ \\frac{7}{9} $이고, 차가 $ \\frac{3}{9} $일 때, 두 진분수를 각각 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            610,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            612,
+            37
+          ],
+          "text": "분모가 $9$인 진분수가 $2$개 있습니다. 두 분수의 합이 $ \\frac{7}{9} $이고, 차가 $ \\frac{3}{9} $일 때, 두 진분수를 각각 구하시오."
+        }
+      ]
+    }
+  ]
+}

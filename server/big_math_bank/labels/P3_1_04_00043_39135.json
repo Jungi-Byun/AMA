@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_04_00043_39135.png",
+  "id": "00043_39135",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 사람 중에서 누가 종이학을 몇 개 더 많이 접었습니까?  진우 : 나는 한 묶음에 $23$개씩 $6$묶음을 접었어. 명호 : 난 $19$개씩 $7$묶음을 접으려고 했는데 $8$개가 모자르네.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            341,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            290,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            56,
+            363,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            364,
+            75
+          ],
+          "text": "두 사람 중에서 누가 종이학을 몇 개 더 많이 접었습니까?  진우 : 나는 한 묶음에 $23$개씩 $6$묶음을 접었어. 명호 : 난 $19$개씩 $7$묶음을 접으려고 했는데 $8$개가 모자르네."
+        }
+      ]
+    }
+  ]
+}

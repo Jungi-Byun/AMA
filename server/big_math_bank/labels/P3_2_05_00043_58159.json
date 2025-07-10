@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_58159.png",
+  "id": "00043_58159",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게를 나타내는 단위에는 여러 가지가 있습니다. 그중 고기의 무게를 말할 때에는 ‘근’이라는 단위를 자주 사용합니다. 한 근이 $600g$이라면 아주머니가 산 고기의 무게는 모두 몇 $kg$ 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            321,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            44,
+            170,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "무게를 나타내는 단위에는 여러 가지가 있습니다. 그중 고기의 무게를 말할 때에는 ‘근’이라는 단위를 자주 사용합니다. 한 근이 $600g$이라면 아주머니가 산 고기의 무게는 모두 몇 $kg$ 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

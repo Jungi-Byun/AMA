@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_39043.png",
+  "id": "00043_39043",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201016",
+      "question_topic_name": "받아내림이 있는 (대분수)-(대분수)_대분수를 가분수로 바꾸기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 선분 위에 시작점과 끝점 사이에 한 개의 눈금이 있고 가운데 눈금은 시작점에 가까우며 시작점과 끝점 사이의 거리를 선분 위에 5와 14분의 1을 쓰고 시작점과 가운데 눈금 사이의 거리는 선분 아래에 네모 m이고 가운데 눈금과 끝점 사이의 거리는 선 아래에 3과 14분의 5 m",
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            28,
+            320,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            277,
+            24
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

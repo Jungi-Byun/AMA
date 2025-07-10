@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_06_00043_59241.png",
+  "id": "00043_59241",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "네 마을의 나무의 수는 모두 $158$그루입니다. 나무가 가장 많은 마을과 가장 적은 마을의 나무의 수의 차는 몇 그루입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            701,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            27,
+            323,
+            264
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            703,
+            22
+          ],
+          "text": "네 마을의 나무의 수는 모두 $158$그루입니다. 나무가 가장 많은 마을과 가장 적은 마을의 나무의 수의 차는 몇 그루입니까?"
+        }
+      ]
+    }
+  ]
+}

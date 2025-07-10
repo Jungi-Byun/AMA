@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00043_32559.png",
+  "id": "00043_32559",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101005",
+      "question_topic_name": "천만 단위 수의 각 자리의 숫자와 나타내는 값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$78136495$에 대한 설명으로 옳은 것은 어느 것입니까? ① 천이 $7813$, 일이 $6495$인 수입니다. ② 칠천팔백십삼 육천사백구십오라고 읽습니다. ③ $3$은 만의 자리 숫자입니다. ④ 백만의 자리 숫자는 $74입니다. ⑤ 숫자 $1$은 $10000$을 나타냅니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            326,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            240,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            296,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            194,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            206,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            221,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            328,
+            130
+          ],
+          "text": "$78136495$에 대한 설명으로 옳은 것은 어느 것입니까? ① 천이 $7813$, 일이 $6495$인 수입니다. ② 칠천팔백십삼 육천사백구십오라고 읽습니다. ③ $3$은 만의 자리 숫자입니다. ④ 백만의 자리 숫자는 $74입니다. ⑤ 숫자 $1$은 $10000$을 나타냅니다."
+        }
+      ]
+    }
+  ]
+}

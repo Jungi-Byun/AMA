@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_02909.png",
+  "id": "00042_02909",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현진이는 초콜릿을 똑같이 $6$조각으로 나눈 다음 오빠와 동생에게 $2$조각씩 주고, 남은 초콜릿을 모두 먹었습니다. 현진이가 먹은 초콜릿의 양은 처음 초콜릿의 얼마인지 분수로 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            789,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            271,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            791,
+            41
+          ],
+          "text": "현진이는 초콜릿을 똑같이 $6$조각으로 나눈 다음 오빠와 동생에게 $2$조각씩 주고, 남은 초콜릿을 모두 먹었습니다. 현진이가 먹은 초콜릿의 양은 처음 초콜릿의 얼마인지 분수로 쓰시오."
+        }
+      ]
+    }
+  ]
+}

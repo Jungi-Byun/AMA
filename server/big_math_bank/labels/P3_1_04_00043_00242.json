@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_04_00043_00242.png",
+  "id": "00043_00242",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.  $ 30 \\times \\square=\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            133,
+            125,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            27,
+            273,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.28,
+            0,
+            273.28,
+            18.36
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.28,
+            131.36,
+            130.28,
+            159.36
+          ],
+          "text": "$ 30 \\times \\square=\\square $"
+        }
+      ]
+    }
+  ]
+}

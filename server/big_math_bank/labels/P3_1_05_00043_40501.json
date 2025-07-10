@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_05_00043_40501.png",
+  "id": "00043_40501",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경호는 집에서 $9$시 $45$분 $28$초에 출발하여 $1$시간 $20$분 $55$초 후에 도서관에 도착했습니다. 경호가 도서관에 도착한 시각을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            761,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            763,
+            21
+          ],
+          "text": "경호는 집에서 $9$시 $45$분 $28$초에 출발하여 $1$시간 $20$분 $55$초 후에 도서관에 도착했습니다. 경호가 도서관에 도착한 시각을 구하시오."
+        }
+      ]
+    }
+  ]
+}

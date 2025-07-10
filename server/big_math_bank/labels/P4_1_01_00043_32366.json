@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_01_00043_32366.png",
+  "id": "00043_32366",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101004",
+      "question_topic_name": "십만, 백만, 천만 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은행에 저금한 돈 $52300000$원을 $100$만 원짜리 수표와 $10$만 원짜리 수표로만 모두 찾았더니 $82$장이었습니다. 은행에서 찾은 $10$만 원짜리 수표는 몇 장입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            764,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            178,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            41
+          ],
+          "text": "은행에 저금한 돈 $52300000$원을 $100$만 원짜리 수표와 $10$만 원짜리 수표로만 모두 찾았더니 $82$장이었습니다. 은행에서 찾은 $10$만 원짜리 수표는 몇 장입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50413.png",
+  "id": "00043_50413",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203009",
+      "question_topic_name": "소수 한 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "집에서 서점까지의 거리는 $0.5 km $이고 서점에서 학교까지의 거리는 $0.9  km $입니다. 집에서 서점을 지나 학교까지의 거리는 모두 몇 $ km $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            53,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            40
+          ],
+          "text": "집에서 서점까지의 거리는 $0.5 km $이고 서점에서 학교까지의 거리는 $0.9  km $입니다. 집에서 서점을 지나 학교까지의 거리는 모두 몇 $ km $입니까?"
+        }
+      ]
+    }
+  ]
+}

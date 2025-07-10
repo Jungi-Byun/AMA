@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_06_00043_42148.png",
+  "id": "00043_42148",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. $\\frac{3}{8}$은 $\\frac{1}{8}$이 $\\square$ 개 입니다. $\\frac{6}{8}$은 $\\frac{1}{8}$이 $\\square$ 개 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            73,
+            102,
+            255,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            73,
+            245,
+            255,
+            283
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            38,
+            26,
+            206,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            160,
+            206,
+            243
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            0.41,
+            205,
+            17.41
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            71,
+            100,
+            257,
+            145
+          ],
+          "text": "$\\frac{3}{8}$은 $\\frac{1}{8}$이 $\\square$ 개 입니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            71,
+            243,
+            257,
+            285
+          ],
+          "text": "$\\frac{6}{8}$은 $\\frac{1}{8}$이 $\\square$ 개 입니다."
+        }
+      ]
+    }
+  ]
+}

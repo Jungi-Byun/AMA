@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00042_52559.png",
+  "id": "00042_52559",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은석이는 $1$분에 $83m$를 걷습니다. 같은 빠르기로 $15$분 동안에는 모두 몇 $m$를 걸을 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            557,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            559,
+            21
+          ],
+          "text": "은석이는 $1$분에 $83m$를 걷습니다. 같은 빠르기로 $15$분 동안에는 모두 몇 $m$를 걸을 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

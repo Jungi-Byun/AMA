@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50836.png",
+  "id": "00043_50836",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정민이네 집과 학교는 수평인 위치에 있고 거리가 3.002 km이고, 정민이네 집보다 오른쪽 위에 위치한 주민센터는 정민이네 집과 1.68 km거리에 있으며, 주민센터는 학교보다 왼쪽 위에 있고 학교에서부터 1.57 km인 거리에 있는 그림",
+      "question_text": "정민이네 집에서 주민센터를 지나 학교까지 가는 길은 학교까지 곧장 가는 길보다 몇 $ \\mathrm{km} $더 멉니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            582,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            32,
+            319,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            584,
+            22
+          ],
+          "text": "정민이네 집에서 주민센터를 지나 학교까지 가는 길은 학교까지 곧장 가는 길보다 몇 $ \\mathrm{km} $더 멉니까?"
+        }
+      ]
+    }
+  ]
+}

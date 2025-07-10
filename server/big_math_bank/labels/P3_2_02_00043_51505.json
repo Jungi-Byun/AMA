@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_02_00043_51505.png",
+  "id": "00043_51505",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 규칙으로 세 변이 모두 같은 작은 삼각형을 겹치지 않게 이어 붙였습니다. 이어 붙여서 만든 가장 큰 삼각형의 둘레가 $72 cm$인 삼각형은 몇 번째 삼각형입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            204,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            55,
+            312,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "다음과 같은 규칙으로 세 변이 모두 같은 작은 삼각형을 겹치지 않게 이어 붙였습니다. 이어 붙여서 만든 가장 큰 삼각형의 둘레가 $72 cm$인 삼각형은 몇 번째 삼각형입니까?"
+        }
+      ]
+    }
+  ]
+}

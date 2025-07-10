@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00043_32205.png",
+  "id": "00043_32205",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101005",
+      "question_topic_name": "천만 단위 수의 각 자리의 숫자와 나타내는 값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 신문 기사를 읽고 $□ $안에 알맞은 수를 써넣으시오. $2분기 인구⇒1000000$이$□$, $100000$이 $3$, $10000$이 $12$, $1000$이$□$, $100$이 $5$, $10$이 $7$, $1$이$□ $인 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            17.28,
+            0.1,
+            335.16,
+            20.67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            176,
+            285,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            205,
+            233,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            234,
+            146,
+            260
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19.27,
+            26.64,
+            315.25,
+            173.97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            335,
+            22
+          ],
+          "text": "다음 신문 기사를 읽고 $□ $안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            175,
+            287,
+            261
+          ],
+          "text": "$2분기 인구⇒1000000$이$□$, $100000$이 $3$, $10000$이 $12$, $1000$이$□$, $100$이 $5$, $10$이 $7$, $1$이$□ $인 수"
+        }
+      ]
+    }
+  ]
+}

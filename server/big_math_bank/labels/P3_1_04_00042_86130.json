@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_04_00042_86130.png",
+  "id": "00042_86130",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "관계있는 것을 <보기>에서 찾아 기호를 쓰시오.  <보기>㉠ $50\\times4$ ㉡ $29\\times3$ ㉢ $16\\times3$ (1) 한 줄에 $50$개씩 $4$줄로 놓여 있는 의자 수 (2) 세발자전거 $16$대의 바퀴 수 (3) 한 봉지에 $29$개씩 $3$봉지에 들어 있는 과자 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            82,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            50,
+            272,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            269,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            194,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            296,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            330,
+            144
+          ],
+          "text": "관계있는 것을 <보기>에서 찾아 기호를 쓰시오.  <보기>㉠ $50\\times4$ ㉡ $29\\times3$ ㉢ $16\\times3$ (1) 한 줄에 $50$개씩 $4$줄로 놓여 있는 의자 수 (2) 세발자전거 $16$대의 바퀴 수 (3) 한 봉지에 $29$개씩 $3$봉지에 들어 있는 과자 수"
+        }
+      ]
+    }
+  ]
+}

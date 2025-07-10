@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_01_00043_33341.png",
+  "id": "00043_33341",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미수네 집에서 도서관까지 가는 길은 두 가지가 있습니다. ㉮ 길과 ㉯ 길 중에서 어느 길로 가는 것이 몇 $m$ 더 가깝습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            613,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            107,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            54,
+            282,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            615,
+            40
+          ],
+          "text": "미수네 집에서 도서관까지 가는 길은 두 가지가 있습니다. ㉮ 길과 ㉯ 길 중에서 어느 길로 가는 것이 몇 $m$ 더 가깝습니까?"
+        }
+      ]
+    }
+  ]
+}

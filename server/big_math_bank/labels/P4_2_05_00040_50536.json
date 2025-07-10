@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00040_50536.png",
+  "id": "00040_50536",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 꺾은선그래프로 나타내기에 적당한 자료는 어느 것입니까? ①각 후보자의 득표 수 ②각 도시의 인구 비교 ③곡식의 종류별 생산량 ④매년 과일의 생산량의 변화 ⑤학생 $5$명의 국어점수 비교",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            397,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            158,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            158,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            167,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            197,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            191,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            399,
+            130
+          ],
+          "text": "다음 중 꺾은선그래프로 나타내기에 적당한 자료는 어느 것입니까? ①각 후보자의 득표 수 ②각 도시의 인구 비교 ③곡식의 종류별 생산량 ④매년 과일의 생산량의 변화 ⑤학생 $5$명의 국어점수 비교"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00050_20296.png",
+  "id": "00050_20296",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게를 $\\mathrm{t} $으로 나타내기에 가장 알맞은 것을 찾아 기호를 쓰시오. ㉠ 책 $1$권의 무게 ㉡ 강아지 $1$마리의 무게 ㉢ 트럭의 무게 ㉣ 복숭아 $1$상자의 무게",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            376,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            29,
+            119,
+            46
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            52,
+            157,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            74,
+            110,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            96,
+            157,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            414,
+            123
+          ],
+          "text": "무게를 $\\mathrm{t} $으로 나타내기에 가장 알맞은 것을 찾아 기호를 쓰시오. ㉠ 책 $1$권의 무게 ㉡ 강아지 $1$마리의 무게 ㉢ 트럭의 무게 ㉣ 복숭아 $1$상자의 무게"
+        }
+      ]
+    }
+  ]
+}

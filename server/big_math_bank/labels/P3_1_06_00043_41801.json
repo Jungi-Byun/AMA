@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00043_41801.png",
+  "id": "00043_41801",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{7}{15} $보다 크고 $ \\frac{13}{15} $보다 작은 분수 중에서 분모가 $15$인 분수를 모두 써 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            468,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            470,
+            38
+          ],
+          "text": "$ \\frac{7}{15} $보다 크고 $ \\frac{13}{15} $보다 작은 분수 중에서 분모가 $15$인 분수를 모두 써 보시오."
+        }
+      ]
+    }
+  ]
+}

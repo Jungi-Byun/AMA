@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_05_00043_58933.png",
+  "id": "00043_58933",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미도네 학교의 연도별 $4$학년 학생 수를 나타낸 표와 꺾은선그래프입니다. 표와 꺾은선그래프를 완성하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            623,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            133,
+            29,
+            230,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            46,
+            320,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            49,
+            124,
+            299,
+            294
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            625,
+            114
+          ],
+          "text": "미도네 학교의 연도별 $4$학년 학생 수를 나타낸 표와 꺾은선그래프입니다. 표와 꺾은선그래프를 완성하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_05_00043_58570.png",
+  "id": "00043_58570",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "형민이는 $10$월에 토마토 싹을 키우면서 $6$일 간격으로 토마토의 싹의 키를 측정하고 기록했습니다. 물음에 답하시오.  토마토 싹의 키     \t <table border=\"1\"> <tr>  <td>날짜</td>  <td>키($cm$)</td> </tr> <tr>  <td>$3$</td>  <td>$2$</td> </tr> <tr>  <td>$9$</td>  <td>$5$</td> </tr> <tr>  <td>$15$</td>  <td>$6$</td> </tr> <tr>  <td>$21$</td>  <td>$10$</td> </tr> </table> ⑴ 꺾은선그래프로 나타내려면 세로 눈금 한 칸의 크기는 몇 $cm$로 하는 것이 좋겠습니까? ⑵ 꺾은선그래프로 나타내시오.  토마토 싹의 키  ⑶ $10$월 $18$일에 토마토 싹의 키는 약 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            670,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            104,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            113,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            164,
+            523,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            186,
+            196,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            408,
+            308,
+            426
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            210,
+            308,
+            402
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            672,
+            204
+          ],
+          "text": "형민이는 $10$월에 토마토 싹을 키우면서 $6$일 간격으로 토마토의 싹의 키를 측정하고 기록했습니다. 물음에 답하시오.  토마토 싹의 키     \t <table border=\"1\"> <tr>  <td>날짜</td>  <td>키($cm$)</td> </tr> <tr>  <td>$3$</td>  <td>$2$</td> </tr> <tr>  <td>$9$</td>  <td>$5$</td> </tr> <tr>  <td>$15$</td>  <td>$6$</td> </tr> <tr>  <td>$21$</td>  <td>$10$</td> </tr> </table> ⑴ 꺾은선그래프로 나타내려면 세로 눈금 한 칸의 크기는 몇 $cm$로 하는 것이 좋겠습니까? ⑵ 꺾은선그래프로 나타내시오.  토마토 싹의 키 "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.29,
+            409.45,
+            309.35,
+            426.92
+          ],
+          "text": "⑶ $10$월 $18$일에 토마토 싹의 키는 약 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_2_02_00042_52710.png",
+  "id": "00042_52710",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈을 하시오. (7) $ 44 \\div 4 $ (8) $ 26 \\div 2 $  (9) $ 48 \\div 2 $ (10) $ 33 \\div 3 $  (11) $ 64 \\div 2 $ (12) $ 84 \\div 4 $  (13) $ 99 \\div 9 $ (14) $ 62 \\div 2 $  (15) $ 69 \\div 3 $ (16) $ 77 \\div 7 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            116,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            35,
+            188,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            83,
+            190,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            131,
+            190,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            166,
+            151,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            188,
+            157,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            210,
+            152,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            232,
+            153,
+            248
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            254,
+            151,
+            270
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            192,
+            271
+          ],
+          "text": "나눗셈을 하시오. (7) $ 44 \\div 4 $ (8) $ 26 \\div 2 $  (9) $ 48 \\div 2 $ (10) $ 33 \\div 3 $  (11) $ 64 \\div 2 $ (12) $ 84 \\div 4 $  (13) $ 99 \\div 9 $ (14) $ 62 \\div 2 $  (15) $ 69 \\div 3 $ (16) $ 77 \\div 7 $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_22888.png",
+  "id": "00040_22888",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204019",
+      "question_topic_name": "직사각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "모눈종이에 그려진 도형 중에서 직사각형은 모두 몇 개입니까?  ①$1$개 ②$2$개 ③$3$개 ④$4$개 ⑤$5$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            372,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            62,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            65,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            65,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            65,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            64,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            330,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            374,
+            22
+          ],
+          "text": "모눈종이에 그려진 도형 중에서 직사각형은 모두 몇 개입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            79,
+            67,
+            188
+          ],
+          "text": "①$1$개 ②$2$개 ③$3$개 ④$4$개 ⑤$5$개"
+        }
+      ]
+    }
+  ]
+}

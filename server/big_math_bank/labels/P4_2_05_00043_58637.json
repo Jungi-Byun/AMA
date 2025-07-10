@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_05_00043_58637.png",
+  "id": "00043_58637",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 지역의 연도별 배 생산량을 조사하여 나타낸 표입니다. 배 생산량을 십의 자리에서 반올림한 수를 꺾은선그래프로 나타내시오. <table border> <caption>연도별 배 생산량</caption>   <tbody>     <tr>       <td>연도</td>       <td>$2006$</td>       <td>$2007$</td>       <td>$2008$</td>       <td>$2009$</td>     </tr>     <tr>       <td>생산량(상자)</td>       <td>$1429$</td>       <td>$1171$</td>       <td>$935$</td>       <td>$1256$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            757,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            118,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            300,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            101,
+            309,
+            272
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            759,
+            94
+          ],
+          "text": "어느 지역의 연도별 배 생산량을 조사하여 나타낸 표입니다. 배 생산량을 십의 자리에서 반올림한 수를 꺾은선그래프로 나타내시오. <table border> <caption>연도별 배 생산량</caption>   <tbody>     <tr>       <td>연도</td>       <td>$2006$</td>       <td>$2007$</td>       <td>$2008$</td>       <td>$2009$</td>     </tr>     <tr>       <td>생산량(상자)</td>       <td>$1429$</td>       <td>$1171$</td>       <td>$935$</td>       <td>$1256$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

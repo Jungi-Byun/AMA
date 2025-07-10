@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37804.png",
+  "id": "00043_37804",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "사각형 ㄱㄴㄷㅁ이 있고 각ㄱ은 직각이며 변 ㄴㄷ은 우하향하고 연장선이 있으며 각ㄴ은 분홍 각의 표시가 있고 연장선의 끝에 ㄹ을 나타내며 각 ㄱㅁㄷ의 각도는 48도, 분홍 각의 표시가 있는 평면도형",
+      "question_text": "사각형에서 각 ㄱㅁㄷ의 크기는 각 ㅁㄷㄹ의 크기보다 $32°$ 작습니다. 각 ㄱㄴㄷ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            575,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            36,
+            158,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            577,
+            24
+          ],
+          "text": "사각형에서 각 ㄱㅁㄷ의 크기는 각 ㅁㄷㄹ의 크기보다 $32°$ 작습니다. 각 ㄱㄴㄷ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

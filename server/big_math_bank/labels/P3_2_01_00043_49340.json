@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_01_00043_49340.png",
+  "id": "00043_49340",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201005",
+      "question_topic_name": "일, 십, 백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "기사를 읽고 하루에 $8$시간 스마트폰을 사용하였을 때의 눈 깜빡임 수는 스마트폰을 사용하지 않았을 때의 눈 깜빡임 수보다 얼마나 줄어드는지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            103,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            330,
+            256
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            40
+          ],
+          "text": "기사를 읽고 하루에 $8$시간 스마트폰을 사용하였을 때의 눈 깜빡임 수는 스마트폰을 사용하지 않았을 때의 눈 깜빡임 수보다 얼마나 줄어드는지 구하시오."
+        }
+      ]
+    }
+  ]
+}

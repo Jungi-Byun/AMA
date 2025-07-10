@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00042_54110.png",
+  "id": "00042_54110",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "아래와 같이 두꺼운 종이에 구멍을 뚫어 원을 그릴 때, 반지름이 다른 원은 모두 몇 개 그릴 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            604,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            19,
+            218,
+            45
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            606,
+            21
+          ],
+          "text": "아래와 같이 두꺼운 종이에 구멍을 뚫어 원을 그릴 때, 반지름이 다른 원은 모두 몇 개 그릴 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

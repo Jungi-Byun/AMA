@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00042_35042.png",
+  "id": "00042_35042",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 만족하는 수는 모두 몇 개입니까?  · $10$보다 크고 $30$보다 작습니다. · $6$으로 나누어집니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            250,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            213,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            55,
+            155,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            253,
+            74
+          ],
+          "text": "다음을 만족하는 수는 모두 몇 개입니까?  · $10$보다 크고 $30$보다 작습니다. · $6$으로 나누어집니다."
+        }
+      ]
+    }
+  ]
+}

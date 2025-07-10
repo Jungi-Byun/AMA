@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_05_00043_40977.png",
+  "id": "00043_40977",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중에서 틀린 것은 어느 것입니까? ① $ 5 \\mathrm{~cm}=50 \\mathrm{~mm} $ ② $ 7 \\mathrm{~km}=7000 \\mathrm{~m} $ ③ $ 6 \\mathrm{~cm} 8 \\mathrm{~mm}=68 \\mathrm{~mm} $ ④ $ 8 \\mathrm{~km} 40 \\mathrm{~m}=840 \\mathrm{~m} $ ⑤ $ 26 \\mathrm{~mm}=2 \\mathrm{~cm} 6 \\mathrm{~mm} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            237,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            118,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            124,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            155,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            150,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            153,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            239,
+            130
+          ],
+          "text": "다음 중에서 틀린 것은 어느 것입니까? ① $ 5 \\mathrm{~cm}=50 \\mathrm{~mm} $ ② $ 7 \\mathrm{~km}=7000 \\mathrm{~m} $ ③ $ 6 \\mathrm{~cm} 8 \\mathrm{~mm}=68 \\mathrm{~mm} $ ④ $ 8 \\mathrm{~km} 40 \\mathrm{~m}=840 \\mathrm{~m} $ ⑤ $ 26 \\mathrm{~mm}=2 \\mathrm{~cm} 6 \\mathrm{~mm} $"
+        }
+      ]
+    }
+  ]
+}

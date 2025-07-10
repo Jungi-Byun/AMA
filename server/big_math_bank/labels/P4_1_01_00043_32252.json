@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32252.png",
+  "id": "00043_32252",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "십조의 자리 숫자가 가장 큰 수를 말한 사람을 찾아 이름을 쓰시오. 준수: $10$조가 $81$, 조가 $8,10$억이 $456$인 수의 십조의 자리 숫자가 가장 작아. 정원: $1000$억이 $4567$인 수의 십조의 자리 숫자가 가장 작지. 희수: 십조의 자리 숫자가 가장 작은 수는 삼천이십사조 천이백삼십오억이지.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            392,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            24,
+            455,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            53,
+            371,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            72,
+            460,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            461,
+            97
+          ],
+          "text": "십조의 자리 숫자가 가장 큰 수를 말한 사람을 찾아 이름을 쓰시오. 준수: $10$조가 $81$, 조가 $8,10$억이 $456$인 수의 십조의 자리 숫자가 가장 작아. 정원: $1000$억이 $4567$인 수의 십조의 자리 숫자가 가장 작지. 희수: 십조의 자리 숫자가 가장 작은 수는 삼천이십사조 천이백삼십오억이지."
+        }
+      ]
+    }
+  ]
+}

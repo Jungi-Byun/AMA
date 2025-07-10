@@ -1,0 +1,169 @@
+{
+  "question_filename": "P4_2_03_00042_88365.png",
+  "id": "00042_88365",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203014",
+      "question_topic_name": "자릿수가 다른 소수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.(1) $ \\begin{array}{r}0.46 \\rightarrow 0.01 이 \\square \\text { 개 } \\\\ +0.38 \\rightarrow 0.01  이 \\square \\text { 개 } \\\\ \\hline \\square \\leftarrow 0.01  이 \\square \\text { 개 }\\end{array} (2) \\begin{array}{r}0.5 \\rightarrow 0.01 이  \\square \\text { 개 } \\\\ +0.24 \\rightarrow 0.01 이  \\square \\text { 개 } \\\\ \\hline \\square \\leftarrow 0.01이   \\square \\text { 개 }\\end{array} $ (3)$ \\begin{array}{r}0.83 \\rightarrow 0.01이   \\square \\text { 개 } \\\\ +0.69 \\rightarrow 0.01이  \\square \\text { 개 } \\\\ \\hline \\square \\leftarrow 0.01이  \\square \\text { 개 }\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            29,
+            97,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            121,
+            23,
+            223,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            120,
+            54,
+            222,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            119,
+            87,
+            222,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            145,
+            100,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            124,
+            139,
+            226,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            123,
+            170,
+            225,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            122,
+            203,
+            224,
+            230
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            123,
+            255,
+            225,
+            281
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            261,
+            100,
+            345
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            123,
+            286,
+            225,
+            312
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            113,
+            319,
+            228,
+            346
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            233,
+            346
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.(1) $ \\begin{array}{r}0.46 \\rightarrow 0.01 이 \\square \\text { 개 } \\\\ +0.38 \\rightarrow 0.01  이 \\square \\text { 개 } \\\\ \\hline \\square \\leftarrow 0.01  이 \\square \\text { 개 }\\end{array} (2) \\begin{array}{r}0.5 \\rightarrow 0.01 이  \\square \\text { 개 } \\\\ +0.24 \\rightarrow 0.01 이  \\square \\text { 개 } \\\\ \\hline \\square \\leftarrow 0.01이   \\square \\text { 개 }\\end{array} $ (3)$ \\begin{array}{r}0.83 \\rightarrow 0.01이   \\square \\text { 개 } \\\\ +0.69 \\rightarrow 0.01이  \\square \\text { 개 } \\\\ \\hline \\square \\leftarrow 0.01이  \\square \\text { 개 }\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

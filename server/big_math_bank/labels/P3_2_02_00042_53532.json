@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00042_53532.png",
+  "id": "00042_53532",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "몫이 같은 두 나눗셈식에 $\\bigcirc$표 하시오.  $57÷3 64÷4$  $72÷6 95÷5$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            233,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            25,
+            85,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            93,
+            25,
+            144,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            33,
+            45,
+            82,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            99,
+            50,
+            148,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            249,
+            77
+          ],
+          "text": "몫이 같은 두 나눗셈식에 $\\bigcirc$표 하시오.  $57÷3 64÷4$  $72÷6 95÷5$"
+        }
+      ]
+    }
+  ]
+}

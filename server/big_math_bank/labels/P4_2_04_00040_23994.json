@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_23994.png",
+  "id": "00040_23994",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204019",
+      "question_topic_name": "직사각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로인 변 ㄱㄹ, 세로인 변 ㄹㄷ의 길이가 각각 5 cm, 4 cm인 직사각형 ㄱㄴㄷㄹ",
+      "question_text": "사각형 $ㄱㄴㄷㄹ$은 직사각형입니다. 변 $ㄱㄴ$은 몇 $cm$입니까?  ① $2 cm$  ② $3 cm$  ③ $4 cm$  ④ $5 cm$   ⑤ $6 cm$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            364,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            111,
+            71,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            133,
+            71,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            155,
+            71,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            177,
+            70,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            199,
+            71,
+            219
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            142,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.79,
+            0.57,
+            363.11,
+            17.85
+          ],
+          "text": "사각형 $ㄱㄴㄷㄹ$은 직사각형입니다. 변 $ㄱㄴ$은 몇 $cm$입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.35,
+            113.85,
+            70.63,
+            218.17
+          ],
+          "text": "① $2 cm$  ② $3 cm$  ③ $4 cm$  ④ $5 cm$   ⑤ $6 cm$"
+        }
+      ]
+    }
+  ]
+}

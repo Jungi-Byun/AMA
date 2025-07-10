@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57982.png",
+  "id": "00043_57982",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "카카오나무는 초콜릿의 원재료가 되는 카카오 콩이 열리는 식물의 이름입니다. $4$년 정도 자라면 열매를 맺고 한 그루당 $1$년에 $30$개 정도의 카카오 콩을 수확할 수 있습니다. 이 카카오 콩으로 초콜릿을 만드는 데 그 크기는 $20$~$25\\mathrm{cm}$정도이며 무게는 $300$~$500\\mathrm{g}$정도입니다. 카카오 콩 한 개의 무게가 $500\\mathrm{g}$일 때 카카오나무 한 그루에서 $1$년 동안 수확하는 카카오 콩의 무게는 모두 몇 $\\mathrm{kg}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            799,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            669,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            62
+          ],
+          "text": "카카오나무는 초콜릿의 원재료가 되는 카카오 콩이 열리는 식물의 이름입니다. $4$년 정도 자라면 열매를 맺고 한 그루당 $1$년에 $30$개 정도의 카카오 콩을 수확할 수 있습니다. 이 카카오 콩으로 초콜릿을 만드는 데 그 크기는 $20$~$25\\mathrm{cm}$정도이며 무게는 $300$~$500\\mathrm{g}$정도입니다. 카카오 콩 한 개의 무게가 $500\\mathrm{g}$일 때 카카오나무 한 그루에서 $1$년 동안 수확하는 카카오 콩의 무게는 모두 몇 $\\mathrm{kg}$입니까?"
+        }
+      ]
+    }
+  ]
+}

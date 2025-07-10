@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00043_32421.png",
+  "id": "00043_32421",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101003",
+      "question_topic_name": "다섯 자리 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣시오. $ \\left.\\begin{array}{rr|}100000| & 5 \\\\ 10000| & 4 \\\\ 1000| & 8 \\\\ 100| & 1 \\\\ 10| & 3\\end{array}\\right] $ 이면 $ \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            191,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            93,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            48,
+            88,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            37,
+            72,
+            89,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            45,
+            96,
+            88,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            52,
+            119,
+            93,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            196,
+            141
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣시오. $ \\left.\\begin{array}{rr|}100000| & 5 \\\\ 10000| & 4 \\\\ 1000| & 8 \\\\ 100| & 1 \\\\ 10| & 3\\end{array}\\right] $ 이면 $ \\square $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_42119.png",
+  "id": "00043_42119",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "유미네 텃밭에 파, 깻잎, 고추를 심었습니다. 전체에 대하여 깻잎을 심은 부분의 크기를 분수로 나타내시오. ⑴ 전체를 똑같이 몇 칸으로 나누었습니까?⑵ 깻잎은 몇 칸에 심었습니까?⑶ 전체에 대하여 깻잎을 심은 부분의 크기를 분수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            616,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            262,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            195,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            384,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            22,
+            250,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            618,
+            20
+          ],
+          "text": "유미네 텃밭에 파, 깻잎, 고추를 심었습니다. 전체에 대하여 깻잎을 심은 부분의 크기를 분수로 나타내시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            103,
+            386,
+            166
+          ],
+          "text": "⑴ 전체를 똑같이 몇 칸으로 나누었습니까?⑵ 깻잎은 몇 칸에 심었습니까?⑶ 전체에 대하여 깻잎을 심은 부분의 크기를 분수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

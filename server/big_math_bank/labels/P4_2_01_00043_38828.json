@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_01_00043_38828.png",
+  "id": "00043_38828",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201012",
+      "question_topic_name": "(대분수)-(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$5$장의 숫자 카드를  $ \\bigstar \\frac{\\bullet}{\\blacksquare} = \\heartsuit \\frac{\\blacktriangle}{\\blacksquare}$ 와 같이 놓아 계산 결과가 가장 크게 되도록 대분수의 뺄셈식을 만들고 계산하시오.  $\\boxed{2} \\boxed{4}\\boxed{5}\\boxed{6}\\boxed{8}$ $ \\bigstar \\frac{\\bullet}{\\blacksquare} = \\heartsuit \\frac{\\blacktriangle}{\\blacksquare}=\\square \\frac{\\square}{\\square}- \\square \\frac{\\square}{\\square} = \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            6,
+            728,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            134,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            98,
+            318,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            149,
+            161,
+            206,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            4,
+            730,
+            211
+          ],
+          "text": "$5$장의 숫자 카드를  $ \\bigstar \\frac{\\bullet}{\\blacksquare} = \\heartsuit \\frac{\\blacktriangle}{\\blacksquare}$ 와 같이 놓아 계산 결과가 가장 크게 되도록 대분수의 뺄셈식을 만들고 계산하시오.  $\\boxed{2} \\boxed{4}\\boxed{5}\\boxed{6}\\boxed{8}$ $ \\bigstar \\frac{\\bullet}{\\blacksquare} = \\heartsuit \\frac{\\blacktriangle}{\\blacksquare}=\\square \\frac{\\square}{\\square}- \\square \\frac{\\square}{\\square} = \\square$"
+        }
+      ]
+    }
+  ]
+}

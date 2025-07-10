@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_03_00043_26513.png",
+  "id": "00043_26513",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103001",
+      "question_topic_name": "세 자리 수와 몇십 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기에서 답을 찾아 $\\bigcirc$ 안에 알맞은 말을 써넣으시오. <보기> $42000$ : 셈 ,  $32000$ : 짱 ,  $36000$ : 곱 (1) $40\\times900$ : $\\bigcirc$  (2) $700\\times60$ : $\\bigcirc$  (3) $80\\times400$ :$\\bigcirc$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            317,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            17,
+            132,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            141,
+            99,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            103,
+            139,
+            130,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            172,
+            100,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            105,
+            169,
+            131,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            200,
+            102,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            106,
+            199,
+            133,
+            225
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            226
+          ],
+          "text": "보기에서 답을 찾아 $\\bigcirc$ 안에 알맞은 말을 써넣으시오. <보기> $42000$ : 셈 ,  $32000$ : 짱 ,  $36000$ : 곱 (1) $40\\times900$ : $\\bigcirc$  (2) $700\\times60$ : $\\bigcirc$  (3) $80\\times400$ :$\\bigcirc$"
+        }
+      ]
+    }
+  ]
+}

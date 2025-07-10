@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00043_54355.png",
+  "id": "00043_54355",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204020",
+      "question_topic_name": "정사각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "사각형 ㄱㄴㄷㄹ의 네 각이 직각이고 두 개의 대각선이 직교하는 도형",
+      "question_text": "정사각형 $ㄱㄴㄷㄹ$에서 찾을 수 있는 크고 작은 직각삼각형은 모두 몇 개인지 알아보시오. ⑴ $1$칸짜리 직각삼각형은 몇 개입니까? ⑵ $2$칸짜리 직각삼각형은 몇 개입니까?⑶ 크고 작은 직각삼각형은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            522,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            143,
+            238,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            165,
+            241,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            187,
+            279,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            27,
+            152,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.23,
+            1.15,
+            523.23,
+            19.15
+          ],
+          "text": "정사각형 $ㄱㄴㄷㄹ$에서 찾을 수 있는 크고 작은 직각삼각형은 모두 몇 개인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            142,
+            281,
+            205
+          ],
+          "text": "⑴ $1$칸짜리 직각삼각형은 몇 개입니까? ⑵ $2$칸짜리 직각삼각형은 몇 개입니까?⑶ 크고 작은 직각삼각형은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

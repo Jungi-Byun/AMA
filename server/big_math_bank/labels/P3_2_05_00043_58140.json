@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58140.png",
+  "id": "00043_58140",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 각 학생들의 몸무게를 나타낸 것입니다. 몸무게의 합이  $ 78 \\mathrm{~kg} 200 \\mathrm{~g} $ 인 두 학생을 찾아 이름을 쓰시오. 은주 : $ 37 \\mathrm{~kg} \\mathrm{500g} $ 수영 : $ 41 \\mathrm{~kg} 700 \\mathrm{~g} $ 현호 : $ 40 \\mathrm{~kg} \\mathrm{700g} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            626,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            135,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            55,
+            133,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            75,
+            141,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            642,
+            101
+          ],
+          "text": "다음은 각 학생들의 몸무게를 나타낸 것입니다. 몸무게의 합이  $ 78 \\mathrm{~kg} 200 \\mathrm{~g} $ 인 두 학생을 찾아 이름을 쓰시오. 은주 : $ 37 \\mathrm{~kg} \\mathrm{500g} $ 수영 : $ 41 \\mathrm{~kg} 700 \\mathrm{~g} $ 현호 : $ 40 \\mathrm{~kg} \\mathrm{700g} $"
+        }
+      ]
+    }
+  ]
+}

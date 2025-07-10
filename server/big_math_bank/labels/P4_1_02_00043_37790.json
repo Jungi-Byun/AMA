@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_02_00043_37790.png",
+  "id": "00043_37790",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형 ㄱㄴㄷㄹ의 꼭짓점 ㄴ을 들어 올려 선분 ㄱㄷ을 접는 선으로 하여 접었을 때 점 ㄴ은 ㅂ으로 움직이고, 변 ㄷㅂ이 ㄱㄹ과 점 ㅁ에서 만나고, 변 ㄱㄴ, ㄴㄷ, ㄱㅁ은 점선으로 그리고, 각 ㄱㄷㄴ의 크기가 25도이고, 각 ㄱㅁㅂ에 크기를 나타내는 기호가 있는 도형",
+      "question_text": "직사각형 $ㄱㄴㄷㄹ$을 다음과 같이 접었습니다. 각 $ㄱㅁㅂ$의 크기를 알아보시오.  (1) 각 $ㄱㄷㅁ$의 크기를 구하시오. (2) 사각형 $ㄱㄷㅁ$에서 각 $ㄱㅁㄷ$의 크기를 구하시오. (3) 각 $ㄱㅁㅂ$의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            463,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            173,
+            204,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            195,
+            326,
+            212
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            217,
+            204,
+            234
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            29,
+            205,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            0.56,
+            465.08,
+            17.36
+          ],
+          "text": "직사각형 $ㄱㄴㄷㄹ$을 다음과 같이 접었습니다. 각 $ㄱㅁㅂ$의 크기를 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            171.76,
+            327.48,
+            234.16
+          ],
+          "text": "(1) 각 $ㄱㄷㅁ$의 크기를 구하시오. (2) 사각형 $ㄱㄷㅁ$에서 각 $ㄱㅁㄷ$의 크기를 구하시오. (3) 각 $ㄱㅁㅂ$의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

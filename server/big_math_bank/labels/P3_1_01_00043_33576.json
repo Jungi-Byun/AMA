@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33576.png",
+  "id": "00043_33576",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우리나라 갯벌에는 식물과 동물이 합쳐 $751$종이 살아가고 그중 식물이 $164$종입니다. 동물은 어류가 $230$종, 게류가 $193$종으로 동물의 대부분을 차지합니다. 우리나라 갯벌에서 살아가는 어류와 게류를 제외한 나머지 동물은 몇 종입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            756,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            610,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            758,
+            41
+          ],
+          "text": "우리나라 갯벌에는 식물과 동물이 합쳐 $751$종이 살아가고 그중 식물이 $164$종입니다. 동물은 어류가 $230$종, 게류가 $193$종으로 동물의 대부분을 차지합니다. 우리나라 갯벌에서 살아가는 어류와 게류를 제외한 나머지 동물은 몇 종입니까?"
+        }
+      ]
+    }
+  ]
+}

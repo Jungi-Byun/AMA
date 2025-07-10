@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55623.png",
+  "id": "00043_55623",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 위에 일정한 간격을 두고 11개의 눈금을 찍은 후, 첫 번째 눈금에는 0, 여섯 번째 눈금에는 1, 열한 번째 눈금에는 2 (m)라 표시한두 개의 선분이 위, 아래로 그려져 있고, 위쪽 선분에는 첫 번째 눈금부터 일곱 번째 눈금까지 점선으로 곡선을 그린 후 그 위에 철환이가 그려져 있고, 아래쪽 선분에는 첫 번째 눈금부터 열 번째 눈금까지 점선으로 곡선을 그린 후 그 위에 진영이가 그려진 그림",
+      "question_text": "두 사람이 멀리 뛰기 한 기록은 각각 몇 $m$인지 가분수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            404,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            38,
+            322,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.64,
+            2.64,
+            404.92,
+            18
+          ],
+          "text": "두 사람이 멀리 뛰기 한 기록은 각각 몇 $m$인지 가분수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

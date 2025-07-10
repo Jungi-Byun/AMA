@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55438.png",
+  "id": "00043_55438",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희연이가 $5$월 $1$일에 외운 영어 단어 중 기억하고 있는 영어 단어의 수가 처음으로 $20$개보다 적게 되는 날은 몇 월 며칠입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            726,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            31,
+            306,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            728,
+            21
+          ],
+          "text": "희연이가 $5$월 $1$일에 외운 영어 단어 중 기억하고 있는 영어 단어의 수가 처음으로 $20$개보다 적게 되는 날은 몇 월 며칠입니까?"
+        }
+      ]
+    }
+  ]
+}

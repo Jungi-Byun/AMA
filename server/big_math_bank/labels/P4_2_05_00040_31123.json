@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_2_05_00040_31123.png",
+  "id": "00040_31123",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 어느 목욕탕의 물의 사용량을 $1$주일 동안 조사하여 꺾은선그래프로 나타낸 것입니다. 이 그래프에 대한 설명으로 틀린 것은 어느 것입니까?   ①물의 사용량이 가장 많이 늘어난 때는 월요일과 화요일 사이입니다. ②물의 사용량이 가장 많이 줄어든 때는 일요일과 월요일 사이입니다. ③물의 사용량이 가장 많았던 날은 토요일입니다. ④물의 사용량이 가장 적었던 날은 월요일입니다. ⑤목요일의 물의 사용량은 $4300L$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            350,
+            421,
+            370
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            372,
+            421,
+            392
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            394,
+            308,
+            414
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            416,
+            308,
+            436
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            438,
+            266,
+            458
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            45,
+            304,
+            348
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            40
+          ],
+          "text": "다음은 어느 목욕탕의 물의 사용량을 $1$주일 동안 조사하여 꺾은선그래프로 나타낸 것입니다. 이 그래프에 대한 설명으로 틀린 것은 어느 것입니까?  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            349,
+            423,
+            459
+          ],
+          "text": "①물의 사용량이 가장 많이 늘어난 때는 월요일과 화요일 사이입니다. ②물의 사용량이 가장 많이 줄어든 때는 일요일과 월요일 사이입니다. ③물의 사용량이 가장 많았던 날은 토요일입니다. ④물의 사용량이 가장 적었던 날은 월요일입니다. ⑤목요일의 물의 사용량은 $4300L$입니다."
+        }
+      ]
+    }
+  ]
+}

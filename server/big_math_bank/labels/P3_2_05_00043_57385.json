@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_57385.png",
+  "id": "00043_57385",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어항에 물을 가득 채운 후 꽃병에 옮겨 담았더니 그림과 같이 물이 넘쳤습니다. 들이가 더 많은 것에 $\\bigcirc$표 하시오. (어항, 꽃병)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            17.28,
+            0.86,
+            654.28,
+            23.86
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            42.28,
+            137.86,
+            135.28,
+            161.86
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            13.28,
+            23.86,
+            255.28,
+            134.86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            652,
+            20
+          ],
+          "text": "어항에 물을 가득 채운 후 꽃병에 옮겨 담았더니 그림과 같이 물이 넘쳤습니다. 들이가 더 많은 것에 $\\bigcirc$표 하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            36.28,
+            133.86,
+            138.28,
+            161.86
+          ],
+          "text": "(어항, 꽃병)"
+        }
+      ]
+    }
+  ]
+}

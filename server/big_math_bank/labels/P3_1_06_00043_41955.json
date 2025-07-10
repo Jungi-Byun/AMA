@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_41955.png",
+  "id": "00043_41955",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "학용품의 길이가 다음과 같을 때, 길이가 긴 것부터 차례로 쓰시오. 크레파스 : $0.1cm$가 $87$개볼펜 : $9.8cm$연필 : $9cm$와 $ \\frac{5}{10}  cm$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            391,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            175,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            56,
+            111,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            76,
+            168,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            400,
+            119
+          ],
+          "text": "학용품의 길이가 다음과 같을 때, 길이가 긴 것부터 차례로 쓰시오. 크레파스 : $0.1cm$가 $87$개볼펜 : $9.8cm$연필 : $9cm$와 $ \\frac{5}{10}  cm$"
+        }
+      ]
+    }
+  ]
+}

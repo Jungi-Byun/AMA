@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58068.png",
+  "id": "00043_58068",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게가 같은 달걀 $10$개를 담은 바구니의 무게가 $1kg 410g$이었습니다. 그중에서 달걀 $5$개를 꺼내고 다시 무게를 재었더니 $990g$이었습니다. 달걀 $10$개의 무게는 얼마인지 알아보시오.(1) 달걀 $5$개의 무게는 얼마입니까?(2) 달걀 $10$개의 무게는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            256,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            216,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            227,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            84
+          ],
+          "text": "무게가 같은 달걀 $10$개를 담은 바구니의 무게가 $1kg 410g$이었습니다. 그중에서 달걀 $5$개를 꺼내고 다시 무게를 재었더니 $990g$이었습니다. 달걀 $10$개의 무게는 얼마인지 알아보시오.(1) 달걀 $5$개의 무게는 얼마입니까?(2) 달걀 $10$개의 무게는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

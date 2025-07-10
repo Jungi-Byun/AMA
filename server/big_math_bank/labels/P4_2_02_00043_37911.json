@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_02_00043_37911.png",
+  "id": "00043_37911",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202009",
+      "question_topic_name": "정삼각형의 성질",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "테셀레이션(tessellation)은 한 가지 이상의 도형을 이용해 틈이나 포개짐 없이 완전하게 덮는 것을 말합니다. 그림과 같이 $3$가지 도형 중에서 한 가지 도형만 사용하여 테셀레이션을 만들 수 없는 도형은 어느 것인지 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            488,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            53,
+            321,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "테셀레이션(tessellation)은 한 가지 이상의 도형을 이용해 틈이나 포개짐 없이 완전하게 덮는 것을 말합니다. 그림과 같이 $3$가지 도형 중에서 한 가지 도형만 사용하여 테셀레이션을 만들 수 없는 도형은 어느 것인지 쓰시오."
+        }
+      ]
+    }
+  ]
+}

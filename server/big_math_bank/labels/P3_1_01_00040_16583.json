@@ -1,0 +1,149 @@
+{
+  "question_filename": "P3_1_01_00040_16583.png",
+  "id": "00040_16583",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과일 가게에서 사과를 $268$상자, 배를 $155$상자 팔았습니다. 과일 가게에서 판 사과와 배는 모두 몇 상자인지 알아보시오.  (1) 낱개끼리 더한 것은 십 모형 몇 개와 낱개 모형 몇 개가 됩니까? (2) 십 모형끼리 더한 것은 백 모형 몇 개와 십 모형 몇 개가 됩니까? (3) 백 모형끼리 더한 것은 몇 개입니까? (4) $268+155$는 얼마라고 생각합니까? (5) 왜 그렇게 생각했습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            607,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            103,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            264,
+            391,
+            284
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            311,
+            395,
+            328
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            355,
+            241,
+            372
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            377,
+            231,
+            394
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            399,
+            178,
+            416
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            318,
+            266
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            609,
+            40
+          ],
+          "text": "과일 가게에서 사과를 $268$상자, 배를 $155$상자 팔았습니다. 과일 가게에서 판 사과와 배는 모두 몇 상자인지 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.17,
+            262.5,
+            392.17,
+            284.5
+          ],
+          "text": "(1) 낱개끼리 더한 것은 십 모형 몇 개와 낱개 모형 몇 개가 됩니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            311.5,
+            400.17,
+            328.5
+          ],
+          "text": "(2) 십 모형끼리 더한 것은 백 모형 몇 개와 십 모형 몇 개가 됩니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            355.5,
+            243.17,
+            415.5
+          ],
+          "text": "(3) 백 모형끼리 더한 것은 몇 개입니까? (4) $268+155$는 얼마라고 생각합니까? (5) 왜 그렇게 생각했습니까?"
+        }
+      ]
+    }
+  ]
+}

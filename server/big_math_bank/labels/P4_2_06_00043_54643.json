@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_06_00043_54643.png",
+  "id": "00043_54643",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206003",
+      "question_topic_name": "대각선 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 대각선의 길이가 $20cm$인 정사각형 모양 칠교판의 모양 조각을 각각 $5$조각씩 사용하여 정사각형과 직사각형을 만들었습니다. 초록색 선과 검정색 선의 길이의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            233,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            53,
+            300,
+            296
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "한 대각선의 길이가 $20cm$인 정사각형 모양 칠교판의 모양 조각을 각각 $5$조각씩 사용하여 정사각형과 직사각형을 만들었습니다. 초록색 선과 검정색 선의 길이의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

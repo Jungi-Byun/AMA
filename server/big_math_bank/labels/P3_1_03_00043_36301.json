@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36301.png",
+  "id": "00043_36301",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 자동차 계기판에 있는 연료 표시 장치입니다. 이 자동차에 기름을 가득 채우면 $ 40 \\mathrm{~L} $가 들어갈 때 눈금 한 칸은 몇 $\\mathrm{~L} $나타냅니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            787,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            23,
+            164,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            789,
+            22
+          ],
+          "text": "다음은 자동차 계기판에 있는 연료 표시 장치입니다. 이 자동차에 기름을 가득 채우면 $ 40 \\mathrm{~L} $가 들어갈 때 눈금 한 칸은 몇 $\\mathrm{~L} $나타냅니까?"
+        }
+      ]
+    }
+  ]
+}

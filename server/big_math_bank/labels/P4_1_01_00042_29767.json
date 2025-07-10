@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_01_00042_29767.png",
+  "id": "00042_29767",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101003",
+      "question_topic_name": "다섯 자리 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\square $안에 알맞은 수를 써넣으시오. $50367$ 은 $ \\left[\\begin{array}{rl}10000 & \\text { 이 }\\square \\\\ 1000 & \\text { 이 }\\square \\\\ 100& \\text { 이 }\\square & \\\\ 10 & \\text { 이 }\\square& \\\\\\ 1 & \\text { 이 }\\square\\end{array}\\right. $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92,
+            25,
+            194,
+            46
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            102,
+            51,
+            195,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            79,
+            81,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            112,
+            77,
+            196,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            122,
+            103,
+            197,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            132,
+            129,
+            198,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            158
+          ],
+          "text": "$ \\square $안에 알맞은 수를 써넣으시오. $50367$ 은 $ \\left[\\begin{array}{rl}10000 & \\text { 이 }\\square \\\\ 1000 & \\text { 이 }\\square \\\\ 100& \\text { 이 }\\square & \\\\ 10 & \\text { 이 }\\square& \\\\\\ 1 & \\text { 이 }\\square\\end{array}\\right. $"
+        }
+      ]
+    }
+  ]
+}

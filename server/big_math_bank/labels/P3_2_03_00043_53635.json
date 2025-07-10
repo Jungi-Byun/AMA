@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53635.png",
+  "id": "00043_53635",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림과 같이 지름이 $2 cm$인 구슬을 서로 맞닿게 이어 붙인 후 둘레를 선분으로 그어 알파벳 E를 만들었습니다. 만든 알파벳의 둘레는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            42,
+            137,
+            61,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            52,
+            116,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "그림과 같이 지름이 $2 cm$인 구슬을 서로 맞닿게 이어 붙인 후 둘레를 선분으로 그어 알파벳 E를 만들었습니다. 만든 알파벳의 둘레는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

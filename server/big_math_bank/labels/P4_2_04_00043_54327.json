@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_04_00043_54327.png",
+  "id": "00043_54327",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204021",
+      "question_topic_name": "직사각형과 정사각형의 성질 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "변 ㄱㅇ이 9 cm인 평행사변형 ㄱㄴㄷㅇ에서 변 ㄷㅇ을 공통 변으로 가지는 정사각형 ㅇㄷㄹㅅ, 변 ㄹㅅ을 공통 변으로 가지는 마름모 ㅅㄹㅁㅂ가 차례대로 붙어있는 도형",
+      "question_text": "다음은 평행사변형, 정사각형, 마름모를 겹치지 않게 이어 붙여서 만든 도형입니다. 평행사변형 ㄱㄴㄷㅇ의 네 변의 합이 $24 \\mathrm{cm}$일 때, 마름모 ㅅㄹㅁㅂ의 네 변의 합은 몇 $\\mathrm{cm}$인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            297,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            53,
+            254,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "다음은 평행사변형, 정사각형, 마름모를 겹치지 않게 이어 붙여서 만든 도형입니다. 평행사변형 ㄱㄴㄷㅇ의 네 변의 합이 $24 \\mathrm{cm}$일 때, 마름모 ㅅㄹㅁㅂ의 네 변의 합은 몇 $\\mathrm{cm}$인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

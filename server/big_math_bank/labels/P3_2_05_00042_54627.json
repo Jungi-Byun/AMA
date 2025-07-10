@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_54627.png",
+  "id": "00042_54627",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게가 $3kg$인 백과사전의 무게를 경민이는 $3100g$으로 어림하였고 문정이는 $2kg 950g$으로 어림하였습니다. 경민이와 문정이 중에서 누가 실제 무게에 더 가깝게 어림했습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            233,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "무게가 $3kg$인 백과사전의 무게를 경민이는 $3100g$으로 어림하였고 문정이는 $2kg 950g$으로 어림하였습니다. 경민이와 문정이 중에서 누가 실제 무게에 더 가깝게 어림했습니까?"
+        }
+      ]
+    }
+  ]
+}

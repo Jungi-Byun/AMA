@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_2_05_00044_04756.png",
+  "id": "00044_04756",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게가 가장 무거운 순서대로 바르게 나열한 것은 어느 것입니까? ㉠ 트럭 $2.5\\mathrm{t}$ ㉡ 코끼리 $4000\\mathrm{㎏}$ ㉢ 공룡 $25000\\mathrm{㎏}$ ㉣ 바위 $0.4\\mathrm{t}$ ① ㉠, ㉡, ㉢, ㉣ ② ㉡, ㉢, ㉠, ㉣ ③ ㉢, ㉡, ㉠, ㉣ ④ ㉢, ㉣, ㉡, ㉠ ⑤ ㉣, ㉠, ㉡, ㉢",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            388,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            123,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            113,
+            24,
+            254,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            230,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            103,
+            117,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            125,
+            117,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            117,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            169,
+            117,
+            189
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            191,
+            117,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            212
+          ],
+          "text": "무게가 가장 무거운 순서대로 바르게 나열한 것은 어느 것입니까? ㉠ 트럭 $2.5\\mathrm{t}$ ㉡ 코끼리 $4000\\mathrm{㎏}$ ㉢ 공룡 $25000\\mathrm{㎏}$ ㉣ 바위 $0.4\\mathrm{t}$ ① ㉠, ㉡, ㉢, ㉣ ② ㉡, ㉢, ㉠, ㉣ ③ ㉢, ㉡, ㉠, ㉣ ④ ㉢, ㉣, ㉡, ㉠ ⑤ ㉣, ㉠, ㉡, ㉢"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_57548.png",
+  "id": "00043_57548",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이의 단위를 알맞게 사용한 학생은 누구입니까? 새미 : 석유통의 들이가 $50mL$야.규리 : 내 컵의 들이는 $500L$야.미림 : 우유 한 컵의 들이는 $200mL$야.재영 : 내가 쓰는 로션은 $300L$야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            215,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            54,
+            208,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            76,
+            245,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            97,
+            218,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            308,
+            123
+          ],
+          "text": "들이의 단위를 알맞게 사용한 학생은 누구입니까? 새미 : 석유통의 들이가 $50mL$야.규리 : 내 컵의 들이는 $500L$야.미림 : 우유 한 컵의 들이는 $200mL$야.재영 : 내가 쓰는 로션은 $300L$야."
+        }
+      ]
+    }
+  ]
+}

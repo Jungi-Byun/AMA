@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00042_53657.png",
+  "id": "00042_53657",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이의 합과 차를 구하시오.  (1) $ \\begin{array}{r}3 \\mathrm{~L}  600 \\mathrm{~mL} \\\\ +4 \\mathrm{~L}  200 \\mathrm{~mL} \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}9 \\mathrm{~L}  100 \\mathrm{~mL} \\\\ + 800 \\mathrm{~mL} \\\\ \\hline\\end{array} $ (3) $ \\begin{array}{r}8 \\mathrm{~L}  700 \\mathrm{~mL} \\\\ -2 \\mathrm{~L}  500 \\mathrm{~mL} \\\\ \\hline\\end{array} $ (4) $ \\begin{array}{r}5 \\mathrm{~L}  950 \\mathrm{~mL} \\\\ - 400 \\mathrm{~mL} \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            174,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            282,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            147,
+            282,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            284,
+            182
+          ],
+          "text": "들이의 합과 차를 구하시오.  (1) $ \\begin{array}{r}3 \\mathrm{~L}  600 \\mathrm{~mL} \\\\ +4 \\mathrm{~L}  200 \\mathrm{~mL} \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}9 \\mathrm{~L}  100 \\mathrm{~mL} \\\\ + 800 \\mathrm{~mL} \\\\ \\hline\\end{array} $ (3) $ \\begin{array}{r}8 \\mathrm{~L}  700 \\mathrm{~mL} \\\\ -2 \\mathrm{~L}  500 \\mathrm{~mL} \\\\ \\hline\\end{array} $ (4) $ \\begin{array}{r}5 \\mathrm{~L}  950 \\mathrm{~mL} \\\\ - 400 \\mathrm{~mL} \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

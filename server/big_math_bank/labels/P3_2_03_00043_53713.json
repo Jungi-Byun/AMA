@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53713.png",
+  "id": "00043_53713",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 가장 큰 원과 가장 작은 원의 반지름의 차는 몇 $mm$입니까? ㉠ 지름이 $9 cm$인 원 ㉡ 원의 중심과 원 위의 한 점을 이은 선분의 길이가 $80 mm$인 원 ㉢ 원 위의 두 점을 이은 선분 중에서 가장 긴 선분의 길이가 $18 cm$인 원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            398,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            151,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            55,
+            395,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            72,
+            434,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            438,
+            98
+          ],
+          "text": "다음 중 가장 큰 원과 가장 작은 원의 반지름의 차는 몇 $mm$입니까? ㉠ 지름이 $9 cm$인 원 ㉡ 원의 중심과 원 위의 한 점을 이은 선분의 길이가 $80 mm$인 원 ㉢ 원 위의 두 점을 이은 선분 중에서 가장 긴 선분의 길이가 $18 cm$인 원"
+        }
+      ]
+    }
+  ]
+}

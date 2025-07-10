@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00043_51601.png",
+  "id": "00043_51601",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈의 나머지를 찾아 선으로 이어 보시오.⑴ · ·㉠ ⑵ · ·㉡ ⑶ · ·㉢",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            271,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            260,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            51,
+            260,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            259,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            273,
+            107
+          ],
+          "text": "나눗셈의 나머지를 찾아 선으로 이어 보시오.⑴ · ·㉠ ⑵ · ·㉡ ⑶ · ·㉢"
+        }
+      ]
+    }
+  ]
+}

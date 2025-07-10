@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_04_00043_38453.png",
+  "id": "00043_38453",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104005",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "축구 경기장이 관람객들로 가득 차 있습니다. 그림에 있는 관람객은 약 몇백 명인지 구하시오. (단, 태극기 아래에 있는 관람객도 포함하여 생각합니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            789,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            92,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            47,
+            300,
+            296
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            791,
+            40
+          ],
+          "text": "축구 경기장이 관람객들로 가득 차 있습니다. 그림에 있는 관람객은 약 몇백 명인지 구하시오. (단, 태극기 아래에 있는 관람객도 포함하여 생각합니다.)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_03_00043_00124.png",
+  "id": "00043_00124",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 나눗셈의 몫을 구하려고 합니다. 필요한 곱셈구구는 어느 것입니까? $ 56 \\div 7 ①8$의 단 ②$7$의 단 ③$6$의 단 ④$5$의 단 ⑤$4$의 단",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            429,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            62,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            55,
+            87,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            82,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            83,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            82,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            83,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            432,
+            167
+          ],
+          "text": "다음 나눗셈의 몫을 구하려고 합니다. 필요한 곱셈구구는 어느 것입니까? $ 56 \\div 7 ①8$의 단 ②$7$의 단 ③$6$의 단 ④$5$의 단 ⑤$4$의 단"
+        }
+      ]
+    }
+  ]
+}

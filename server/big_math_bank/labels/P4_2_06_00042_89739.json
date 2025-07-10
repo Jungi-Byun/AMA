@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_06_00042_89739.png",
+  "id": "00042_89739",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형을 보고 물음에 답하시오.  (1) 다각형을 모두 찾아 기호를 쓰시오.(2) 정다각형을 모두 찾아 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            171,
+            235,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            193,
+            250,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            22,
+            272,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.17,
+            1.15,
+            188.17,
+            17.15
+          ],
+          "text": "도형을 보고 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            168.15,
+            251.17,
+            210.15
+          ],
+          "text": "(1) 다각형을 모두 찾아 기호를 쓰시오.(2) 정다각형을 모두 찾아 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

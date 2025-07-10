@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_26055.png",
+  "id": "00042_26055",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\square $ 안에 공통으로 들어갈 수 있는 수들을 모두 더하면 얼마입니까?$ \\frac{\\square}{12}>\\frac{5}{12} , \\frac{1}{9}<\\frac{1}{\\square} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            392,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            174,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            77
+          ],
+          "text": "$ \\square $ 안에 공통으로 들어갈 수 있는 수들을 모두 더하면 얼마입니까?$ \\frac{\\square}{12}>\\frac{5}{12} , \\frac{1}{9}<\\frac{1}{\\square} $"
+        }
+      ]
+    }
+  ]
+}

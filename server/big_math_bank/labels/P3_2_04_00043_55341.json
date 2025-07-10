@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_04_00043_55341.png",
+  "id": "00043_55341",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "하루는 $24$시간입니다. 다음은 정훈이가 하루 동안 운동을 한 시간과 공부를 한 시간을 나타낸 것입니다. 정훈이가 공부를 한 시간은 몇 시간입니까? ㆍ 정훈이는 하루의 $\\frac{1}{8}$을 운동합니다. ㆍ 정훈이는 하루의 $\\frac{3}{8}$을 공부합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            43,
+            245,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            93,
+            246,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            131
+          ],
+          "text": "하루는 $24$시간입니다. 다음은 정훈이가 하루 동안 운동을 한 시간과 공부를 한 시간을 나타낸 것입니다. 정훈이가 공부를 한 시간은 몇 시간입니까? ㆍ 정훈이는 하루의 $\\frac{1}{8}$을 운동합니다. ㆍ 정훈이는 하루의 $\\frac{3}{8}$을 공부합니다."
+        }
+      ]
+    }
+  ]
+}

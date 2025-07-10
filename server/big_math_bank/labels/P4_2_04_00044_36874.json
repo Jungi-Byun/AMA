@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_04_00044_36874.png",
+  "id": "00044_36874",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204007",
+      "question_topic_name": "평행선 사이의 거리 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "도로 위 세 개의 흰 색 세로 평행선이 있고, 첫 번째와 두 번째 평행 선 사이에 간격이 1.5 m인 두 개의 점선의 가로 선이 있고, 아래의 점선을 밑변으로 하며 윗 각이 직각인 삼각형이 있으며, 삼각형의 오른쪽 빗변과 두 번째 흰 색 선 사이가 45도인 그림",
+      "question_text": "도로의 차선들은 일정한 거리로 모두 서로 평행합니다. 다음 도로에서 가장 먼 차선 사이의 거리는 몇 $\\mathrm{m}$입니까? (다만 차선의 굵기는 생각하지 않습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            96,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            40,
+            57,
+            294,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "도로의 차선들은 일정한 거리로 모두 서로 평행합니다. 다음 도로에서 가장 먼 차선 사이의 거리는 몇 $\\mathrm{m}$입니까? (다만 차선의 굵기는 생각하지 않습니다.)"
+        }
+      ]
+    }
+  ]
+}

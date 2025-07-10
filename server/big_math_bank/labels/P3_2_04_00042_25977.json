@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00042_25977.png",
+  "id": "00042_25977",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204004",
+      "question_topic_name": "여러 개씩 묶었을 때 분수로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square $안에 들어갈 수가 다른 것은 어느 것입니까?  ① $24$ 의 $ \\frac{1}{8}  은 \\square $  ② $21$ 은 $3$5 의 $ \\frac{\\square}{5} $ ③ $6$ 은 $9$ 의 $ \\frac{2}{\\square} $ ④ $27$ 의 $ \\frac{1}{9}  은\\square $  ⑤ $42$ 의 $ \\frac{1}{7} 은 \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            283,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            139,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            64,
+            142,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            110,
+            130,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            155,
+            138,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            197,
+            139,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            285,
+            232
+          ],
+          "text": "$\\square $안에 들어갈 수가 다른 것은 어느 것입니까?  ① $24$ 의 $ \\frac{1}{8}  은 \\square $  ② $21$ 은 $3$5 의 $ \\frac{\\square}{5} $ ③ $6$ 은 $9$ 의 $ \\frac{2}{\\square} $ ④ $27$ 의 $ \\frac{1}{9}  은\\square $  ⑤ $42$ 의 $ \\frac{1}{7} 은 \\square $"
+        }
+      ]
+    }
+  ]
+}

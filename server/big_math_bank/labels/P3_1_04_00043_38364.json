@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00043_38364.png",
+  "id": "00043_38364",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 길이가 80 cm인 종이테이프 3장을 가로로 12 cm씩 겹쳐지게 이어붙인 그림",
+      "question_text": "길이가 $80cm$인 종이테이프 $3$장을 그림과 같이 $12 cm$씩 겹쳐지게 이었습니다. 이은 종이테이프 전체의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            728,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            34,
+            281,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            730,
+            22
+          ],
+          "text": "길이가 $80cm$인 종이테이프 $3$장을 그림과 같이 $12 cm$씩 겹쳐지게 이었습니다. 이은 종이테이프 전체의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

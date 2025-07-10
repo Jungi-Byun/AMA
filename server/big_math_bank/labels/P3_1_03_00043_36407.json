@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00043_36407.png",
+  "id": "00043_36407",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안의 수가 나머지 넷과 다른 하나는 어느 것입니까? ① $12 \\div 2$=$\\square$  ② $42 \\div \\square$=$7$  ③ $54 \\div \\square$=$9$  ④ $16 \\div \\square$=$2$  ⑤ $18 \\div 3$=$\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            325,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            93,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            96,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            97,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            94,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            94,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            327,
+            130
+          ],
+          "text": "$\\square$ 안의 수가 나머지 넷과 다른 하나는 어느 것입니까? ① $12 \\div 2$=$\\square$  ② $42 \\div \\square$=$7$  ③ $54 \\div \\square$=$9$  ④ $16 \\div \\square$=$2$  ⑤ $18 \\div 3$=$\\square$"
+        }
+      ]
+    }
+  ]
+}

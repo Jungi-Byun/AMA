@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00043_55553.png",
+  "id": "00043_55553",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분모가 $5$인 분수를 수직선 위에 나타내려고 합니다. 물음에 답하시오. (1) $\\square$ 안에 알맞은 수를 써넣으시오. (2) $\\frac{5}{5}$인 곳을 찾아 점으로 표시하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            407,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            105,
+            222,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            131,
+            246,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            30,
+            316,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.07,
+            2.08,
+            407.91,
+            16.8
+          ],
+          "text": "분모가 $5$인 분수를 수직선 위에 나타내려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.43,
+            106.4,
+            246.63,
+            164
+          ],
+          "text": "(1) $\\square$ 안에 알맞은 수를 써넣으시오. (2) $\\frac{5}{5}$인 곳을 찾아 점으로 표시하시오."
+        }
+      ]
+    }
+  ]
+}

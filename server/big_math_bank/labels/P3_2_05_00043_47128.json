@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_47128.png",
+  "id": "00043_47128",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "주변에 있는 물건 중 무게가 1kg과 100g에 가까운 물건을 2가지씩 찾아보시오.   $1kg에 가까운 물건$ $100g에 가까운 물건$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            463,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            291,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            465,
+            70
+          ],
+          "text": "주변에 있는 물건 중 무게가 1kg과 100g에 가까운 물건을 2가지씩 찾아보시오.   $1kg에 가까운 물건$ $100g에 가까운 물건$"
+        }
+      ]
+    }
+  ]
+}

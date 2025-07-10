@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51803.png",
+  "id": "00043_51803",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정우가 가지고 있는 사탕을 한 명에게 $7$개씩 나누어 주면 $9$명까지 나누어 줄 수 있고 $4$개가 남는다고 합니다. 이 사탕을 $6$명에게 $5$개씩 나누어 주면 사탕은 몇 개가 남습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            212,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "정우가 가지고 있는 사탕을 한 명에게 $7$개씩 나누어 주면 $9$명까지 나누어 줄 수 있고 $4$개가 남는다고 합니다. 이 사탕을 $6$명에게 $5$개씩 나누어 주면 사탕은 몇 개가 남습니까?"
+        }
+      ]
+    }
+  ]
+}

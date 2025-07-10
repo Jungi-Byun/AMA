@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00042_26370.png",
+  "id": "00042_26370",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지영이와 동우는 똑같은 색종이를 가지고 있습니다. 지영이는 색종이의 $ \\frac{1}{2} $을, 동우는 색종이의 $ \\frac{1}{4} $을 사용했습니다. 사용한 색종이만큼 색칠하고 더 많이 사용한 사람을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            233,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            61,
+            163,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            59
+          ],
+          "text": "지영이와 동우는 똑같은 색종이를 가지고 있습니다. 지영이는 색종이의 $ \\frac{1}{2} $을, 동우는 색종이의 $ \\frac{1}{4} $을 사용했습니다. 사용한 색종이만큼 색칠하고 더 많이 사용한 사람을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

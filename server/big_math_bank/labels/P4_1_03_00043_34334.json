@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_34334.png",
+  "id": "00043_34334",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "혜성이와 정윤이가 모은 붙임 딱지의 수입니다. 두 사람이 모은 붙임 딱지 수의 곱을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            546,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            25,
+            220,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            548,
+            22
+          ],
+          "text": "혜성이와 정윤이가 모은 붙임 딱지의 수입니다. 두 사람이 모은 붙임 딱지 수의 곱을 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_41754.png",
+  "id": "00043_41754",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "11개의 눈금이 일정한 간격으로 있는 파란 비커에 아래에서 3개의 눈금까지 녹색의 키위 주스가 들어있고 그 위에 3번째 눈금부터 6번째 눈금까지 노란색의 오렌지 주스가 들어있으며 그 위에 6번째 눈금부터 11번째 눈금까지 빨간색 사과 주스가 들어있는 단면",
+      "question_text": "동욱이는 여러 과일즙을 섞어 과일 주스를 만들려고 합니다. 오렌지 과즙은 전체 주스의 얼마인지 분수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            677,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            37,
+            154,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            679,
+            23
+          ],
+          "text": "동욱이는 여러 과일즙을 섞어 과일 주스를 만들려고 합니다. 오렌지 과즙은 전체 주스의 얼마인지 분수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

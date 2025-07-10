@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_1_06_00042_03598.png",
+  "id": "00042_03598",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "전체에 대하여 색칠한 부분의 크기를 분수로 나타내고 읽어 보시오. (1) 쓰기( )읽기( ) (2) 쓰기( )읽기( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            396,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            97,
+            92,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            122,
+            122,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            207,
+            94,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            232,
+            121,
+            248
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            142,
+            127,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            5.17,
+            19.64,
+            129.17,
+            101.64
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.26,
+            0.16,
+            399.2,
+            19.16
+          ],
+          "text": "전체에 대하여 색칠한 부분의 크기를 분수로 나타내고 읽어 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.3,
+            101.14,
+            122.16,
+            141.51
+          ],
+          "text": "(1) 쓰기( )읽기( )"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.68,
+            210.38,
+            125.33,
+            250.75
+          ],
+          "text": "(2) 쓰기( )읽기( )"
+        }
+      ]
+    }
+  ]
+}

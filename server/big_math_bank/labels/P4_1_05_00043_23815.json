@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_1_05_00043_23815.png",
+  "id": "00043_23815",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 지현이네 모둠의 학생들이 가보고 싶은 곳을 조사하여 나타낸 표입니다. 이것을 막대그래프로 나타내었을 때, 두 번째로 긴 막대를 그려야 하는 것은 어느 것입니까? <가보고 싶은 곳> ①공원 ②산 ③목장 ④공장 ⑤과수원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            208,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            65,
+            44,
+            167,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            309,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            138,
+            70,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            160,
+            58,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            182,
+            71,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            204,
+            71,
+            224
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            226,
+            82,
+            246
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            247
+          ],
+          "text": "다음은 지현이네 모둠의 학생들이 가보고 싶은 곳을 조사하여 나타낸 표입니다. 이것을 막대그래프로 나타내었을 때, 두 번째로 긴 막대를 그려야 하는 것은 어느 것입니까? <가보고 싶은 곳> ①공원 ②산 ③목장 ④공장 ⑤과수원"
+        }
+      ]
+    }
+  ]
+}

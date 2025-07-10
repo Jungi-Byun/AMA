@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00042_32643.png",
+  "id": "00042_32643",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 작은 수는 어느 것입니까?  ① $5.72$ 의 $10$ 배인 수 ② $5.72$ 의 $100$ 배인 수 ③ $0.572$ 의 $1000$ 배인 수 ④ $57.2$ 의 $ \\frac{1}{10} $ 배인 수 ⑤ $57.2$ 의 $ \\frac{1}{100} $ 배인 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            195,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            144,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            153,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            171,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            97,
+            150,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            138,
+            158,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            197,
+            169
+          ],
+          "text": "가장 작은 수는 어느 것입니까?  ① $5.72$ 의 $10$ 배인 수 ② $5.72$ 의 $100$ 배인 수 ③ $0.572$ 의 $1000$ 배인 수 ④ $57.2$ 의 $ \\frac{1}{10} $ 배인 수 ⑤ $57.2$ 의 $ \\frac{1}{100} $ 배인 수"
+        }
+      ]
+    }
+  ]
+}

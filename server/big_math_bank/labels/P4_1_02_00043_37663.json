@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_02_00043_37663.png",
+  "id": "00043_37663",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102006",
+      "question_topic_name": "예각과 둔각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림에서 크고 작은 예각은 모두 몇 개인지 알아보시오.  ⑴ 각 $1$개로 이루어진 예각은 몇 개입니까?  ⑵ 각 $2$개로 이루어진 예각은 몇 개입니까?  ⑶ 각 $3$개로 이루어진 예각은 몇 개입니까?  ⑷ 각 $4$개로 이루어진 예각은 몇 개입니까?  ⑸ 크고 작은 예각은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            359,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            92,
+            259,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            114,
+            261,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            136,
+            261,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            158,
+            262,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            180,
+            241,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            21,
+            103,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            0.25,
+            358.86,
+            16.89
+          ],
+          "text": "다음 그림에서 크고 작은 예각은 모두 몇 개인지 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            91.77,
+            262.22,
+            196.73
+          ],
+          "text": "⑴ 각 $1$개로 이루어진 예각은 몇 개입니까?  ⑵ 각 $2$개로 이루어진 예각은 몇 개입니까?  ⑶ 각 $3$개로 이루어진 예각은 몇 개입니까?  ⑷ 각 $4$개로 이루어진 예각은 몇 개입니까?  ⑸ 크고 작은 예각은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

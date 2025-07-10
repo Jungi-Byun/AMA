@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36079.png",
+  "id": "00043_36079",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "테이프 $24$개를 남김없이 모든 학생에게 똑같이 나누어 주려고 합니다. 테이프를 나누어 준 학생은 몇 명이 될 수 있는지 모두 구하시오. (단, 학생 수는 $2$명보다 많고 $10$명보다 적습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            273,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "테이프 $24$개를 남김없이 모든 학생에게 똑같이 나누어 주려고 합니다. 테이프를 나누어 준 학생은 몇 명이 될 수 있는지 모두 구하시오. (단, 학생 수는 $2$명보다 많고 $10$명보다 적습니다.)"
+        }
+      ]
+    }
+  ]
+}

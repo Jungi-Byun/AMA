@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_06_00043_59337.png",
+  "id": "00043_59337",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림그래프 그리는 방법을 순서대로 $1,2,3,4$의 번호를 쓰시오. $\\square$조사한 수에 맞도록 그림 그리기 $\\square$ 그림을 몇 가지로 나타낼 것인지 정하기 $\\square$ 어떤 그림으로 나타낼 것인지 정하기 $\\square$ 그린 그림그래프에 알맞은 제목 붙이기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            375,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            70,
+            25,
+            262,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69,
+            53,
+            303,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            72,
+            75,
+            287,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            71,
+            97,
+            299,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            377,
+            119
+          ],
+          "text": "그림그래프 그리는 방법을 순서대로 $1,2,3,4$의 번호를 쓰시오. $\\square$조사한 수에 맞도록 그림 그리기 $\\square$ 그림을 몇 가지로 나타낼 것인지 정하기 $\\square$ 어떤 그림으로 나타낼 것인지 정하기 $\\square$ 그린 그림그래프에 알맞은 제목 붙이기"
+        }
+      ]
+    }
+  ]
+}

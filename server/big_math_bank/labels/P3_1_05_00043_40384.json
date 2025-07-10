@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_40384.png",
+  "id": "00043_40384",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "네 명의 어린이가 $ 200 \\mathrm{~m} $ 수영 경기를 하였습니다. 기록이 빠른 어린이부터 차례로 이름을 쓰시오.  <table border> <caption></caption>   <tbody>     <tr>       <td>이름</td>       <td >기록</td>            </tr>     <tr>       <td>나영</td>       <td >$2$분$57$초</td>           </tr>     <tr>       <td>범희</td>      <td >$168$초</td>     </tr>     <tr>       <td >선주</td>       <td >$198$초</td>     </tr>     <tr>       <td >민원</td>       <td >$2$분$45$초</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            568,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            121,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            570,
+            139
+          ],
+          "text": "네 명의 어린이가 $ 200 \\mathrm{~m} $ 수영 경기를 하였습니다. 기록이 빠른 어린이부터 차례로 이름을 쓰시오.  <table border> <caption></caption>   <tbody>     <tr>       <td>이름</td>       <td >기록</td>            </tr>     <tr>       <td>나영</td>       <td >$2$분$57$초</td>           </tr>     <tr>       <td>범희</td>      <td >$168$초</td>     </tr>     <tr>       <td >선주</td>       <td >$198$초</td>     </tr>     <tr>       <td >민원</td>       <td >$2$분$45$초</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

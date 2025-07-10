@@ -1,0 +1,149 @@
+{
+  "question_filename": "P4_2_03_00043_50536.png",
+  "id": "00043_50536",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203014",
+      "question_topic_name": "자릿수가 다른 소수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\square $  안에 알맞은 수를 써넣으시오.(1) $ \\begin{array}{r}3.\\overset{\\square}{2}6 \\\\ +4.55 \\\\ \\hline \\square\\end{array}   \\Rightarrow   \\begin{array}{r}3.\\overset{\\square}{2}6 \\\\ +4.55 \\\\ \\hline \\square\\square\\end{array}   \\Rightarrow   \\begin{array}{r}3.\\overset{\\square}{2}6 \\\\ +4.55 \\\\ \\hline \\square.\\square\\square\\end{array} $ (2) $ \\begin{array}{r}7.2 \\\\ +1.84 \\\\ \\hline \\square\\end{array}   \\Rightarrow   \\begin{array}{r}\\overset{\\square}{7}.2 \\\\ +1.84 \\\\ \\hline \\square\\square\\end{array}   \\Rightarrow   \\begin{array}{r}\\overset{\\square}{7}.2 \\\\ +1.84 \\\\ \\hline \\square.\\square\\square\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            115,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            131,
+            24,
+            214,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            229,
+            24,
+            319,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            114,
+            62,
+            130,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            214,
+            60,
+            229,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            125,
+            142,
+            225,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            236,
+            142,
+            334,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            155,
+            122,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            114,
+            179,
+            134,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            224,
+            179,
+            240,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            336,
+            234
+          ],
+          "text": "$ \\square $  안에 알맞은 수를 써넣으시오.(1) $ \\begin{array}{r}3.\\overset{\\square}{2}6 \\\\ +4.55 \\\\ \\hline \\square\\end{array}   \\Rightarrow   \\begin{array}{r}3.\\overset{\\square}{2}6 \\\\ +4.55 \\\\ \\hline \\square\\square\\end{array}   \\Rightarrow   \\begin{array}{r}3.\\overset{\\square}{2}6 \\\\ +4.55 \\\\ \\hline \\square.\\square\\square\\end{array} $ (2) $ \\begin{array}{r}7.2 \\\\ +1.84 \\\\ \\hline \\square\\end{array}   \\Rightarrow   \\begin{array}{r}\\overset{\\square}{7}.2 \\\\ +1.84 \\\\ \\hline \\square\\square\\end{array}   \\Rightarrow   \\begin{array}{r}\\overset{\\square}{7}.2 \\\\ +1.84 \\\\ \\hline \\square.\\square\\square\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

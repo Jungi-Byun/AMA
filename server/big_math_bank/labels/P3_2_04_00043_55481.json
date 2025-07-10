@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55481.png",
+  "id": "00043_55481",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204004",
+      "question_topic_name": "여러 개씩 묶었을 때 분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "재형이는 양로원에 가져가기 위해 빵을 준비했습니다. 빵 $20$개를 다음과 같이 묶으려고 합니다. 물음에 답하시오. (1) 빵 $20$개를 $4$개씩 묶으면 $4$는 $20$의 몇 분의 몇입니까? (2) 빵 $20$개를 $5$개씩 묶으면 $5$는 $20$의 몇 분의 몇입니까? (3) 빵 $20$개를 $4$개씩 묶으면 $12$는 $20$의 몇 분의 몇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            655,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            141,
+            343,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            163,
+            343,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            185,
+            350,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            30,
+            206,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.3,
+            1.9,
+            655.3,
+            13.9
+          ],
+          "text": "재형이는 양로원에 가져가기 위해 빵을 준비했습니다. 빵 $20$개를 다음과 같이 묶으려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            139.14,
+            351.17,
+            204.14
+          ],
+          "text": "(1) 빵 $20$개를 $4$개씩 묶으면 $4$는 $20$의 몇 분의 몇입니까? (2) 빵 $20$개를 $5$개씩 묶으면 $5$는 $20$의 몇 분의 몇입니까? (3) 빵 $20$개를 $4$개씩 묶으면 $12$는 $20$의 몇 분의 몇입니까?"
+        }
+      ]
+    }
+  ]
+}

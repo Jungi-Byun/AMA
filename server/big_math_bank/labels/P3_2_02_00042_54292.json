@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00042_54292.png",
+  "id": "00042_54292",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 68 \\div 2= \\square $ 수 모형을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            291,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            45,
+            232,
+            175,
+            268
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            199,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            43,
+            230,
+            177,
+            270
+          ],
+          "text": "$ 68 \\div 2= \\square $"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            1.14,
+            290.17,
+            15.14
+          ],
+          "text": "수 모형을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

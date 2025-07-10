@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_01_00043_32793.png",
+  "id": "00043_32793",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$2013$년말 기준으로 국가 재산으로 관리되는 다리의 재산 가치를 금액으로 나타낸 것입니다. 가장 비싼 다리의 이름을 쓰시오.  <table border>   <tbody>     <tr>       <td>영종대교</td> <td>인천대교</td> <td>서해대교</td>     </tr>     <tr>       <td>$7762$억 원 원</td>       <td>$1$조$2706$억 원</td>       <td>$6782000000000$ 원</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            723,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            309,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            725,
+            92
+          ],
+          "text": "$2013$년말 기준으로 국가 재산으로 관리되는 다리의 재산 가치를 금액으로 나타낸 것입니다. 가장 비싼 다리의 이름을 쓰시오.  <table border>   <tbody>     <tr>       <td>영종대교</td> <td>인천대교</td> <td>서해대교</td>     </tr>     <tr>       <td>$7762$억 원 원</td>       <td>$1$조$2706$억 원</td>       <td>$6782000000000$ 원</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

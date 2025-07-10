@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_01_00043_49360.png",
+  "id": "00043_49360",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오. (1) $ 60 \\times 70 $ (2) $ 54 \\times 70 $ (3) $ \\begin{array}{r}70 \\\\ \\times  80 \\\\ \\hline \\end{array} $  (4) $ \\begin{array}{r}74 \\\\ \\times  50 \\\\ \\hline\\end{array} $  (5) $ \\begin{array}{r}40 \\\\ \\times  90 \\\\ \\hline \\end{array} $  (6) $ \\begin{array}{r}83 \\\\ \\times  20 \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            198,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            48,
+            202,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            122,
+            197,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            204,
+            167
+          ],
+          "text": "계산을 하시오. (1) $ 60 \\times 70 $ (2) $ 54 \\times 70 $ (3) $ \\begin{array}{r}70 \\\\ \\times  80 \\\\ \\hline \\end{array} $  (4) $ \\begin{array}{r}74 \\\\ \\times  50 \\\\ \\hline\\end{array} $  (5) $ \\begin{array}{r}40 \\\\ \\times  90 \\\\ \\hline \\end{array} $  (6) $ \\begin{array}{r}83 \\\\ \\times  20 \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

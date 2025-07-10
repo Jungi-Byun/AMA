@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58198.png",
+  "id": "00043_58198",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "옛날 우리 조상들은 무게의 단위로 관과 근을 사용하였습니다. 한 관은 약 $4kg$이고, 한 근은 약 $600g$(고기의 경우)입니다. 다음을 읽고 잔치에 사용한 고구마와 쇠고기는 모두 약 몇 $kg$ 몇 $g$인지 구하시오. 김진사의 환갑을 맞이하여 김진사의 집에서 큰 잔치가 벌어졌습니다. 김진사는 고구마 $4$관과 쇠고기 $11$근을 사서 잔치에 오신 분들에게 대접하였더니 고구마 $1$관과 쇠고기 $2$근이 남았습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            375,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            43,
+            802,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            77,
+            317,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            96
+          ],
+          "text": "옛날 우리 조상들은 무게의 단위로 관과 근을 사용하였습니다. 한 관은 약 $4kg$이고, 한 근은 약 $600g$(고기의 경우)입니다. 다음을 읽고 잔치에 사용한 고구마와 쇠고기는 모두 약 몇 $kg$ 몇 $g$인지 구하시오. 김진사의 환갑을 맞이하여 김진사의 집에서 큰 잔치가 벌어졌습니다. 김진사는 고구마 $4$관과 쇠고기 $11$근을 사서 잔치에 오신 분들에게 대접하였더니 고구마 $1$관과 쇠고기 $2$근이 남았습니다."
+        }
+      ]
+    }
+  ]
+}

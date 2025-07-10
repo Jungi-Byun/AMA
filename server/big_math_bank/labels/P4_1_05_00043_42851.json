@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_05_00043_42851.png",
+  "id": "00043_42851",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "주석이가 아버지와 함께 낚시터에 갔습니다. 낚시터 입구에 적혀 있는 표를 보고 막대그래프를 그릴 때 막대의 길이가 가장 긴 물고기는 무엇입니까? (1) 송어는 몇 마리 잡혔습니까? (2) 막대그래프를 그릴 때 막대의 길이가 가장 긴 물고기는 무엇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            78,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            181,
+            205,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            206,
+            422,
+            222
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            309,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            40
+          ],
+          "text": "주석이가 아버지와 함께 낚시터에 갔습니다. 낚시터 입구에 적혀 있는 표를 보고 막대그래프를 그릴 때 막대의 길이가 가장 긴 물고기는 무엇입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            179,
+            424,
+            224
+          ],
+          "text": "(1) 송어는 몇 마리 잡혔습니까? (2) 막대그래프를 그릴 때 막대의 길이가 가장 긴 물고기는 무엇입니까?"
+        }
+      ]
+    }
+  ]
+}

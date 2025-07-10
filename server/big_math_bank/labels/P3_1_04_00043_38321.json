@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_04_00043_38321.png",
+  "id": "00043_38321",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곶감은 모두 몇 개인지 $\\square$ 안에 알맞은 수를 써넣고, 답을 구하시오. $10$개씩 $2$묶음:$(\\square \\times \\square)$개 $2$개씩 $2$묶음:$(\\square \\times \\square)$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            395,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            259,
+            59,
+            313,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            73,
+            104,
+            295,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            68,
+            136,
+            288,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            28,
+            318,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.1,
+            0,
+            397.1,
+            18.4
+          ],
+          "text": "곶감은 모두 몇 개인지 $\\square$ 안에 알맞은 수를 써넣고, 답을 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            69.1,
+            102.4,
+            297.1,
+            165.4
+          ],
+          "text": "$10$개씩 $2$묶음:$(\\square \\times \\square)$개 $2$개씩 $2$묶음:$(\\square \\times \\square)$개"
+        }
+      ]
+    }
+  ]
+}

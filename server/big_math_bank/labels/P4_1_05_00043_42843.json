@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_05_00043_42843.png",
+  "id": "00043_42843",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "날씨가 표시된 달력을 보고 가로에는 날씨를, 세로에는 날수를 나타내는 막대그래프를 나타내려고 합니다. 세로는 적어도 몇 칸을 만들어야 합니까? (다만, 세로 눈금 한 칸은 $1$일을 나타내도록 합니다.) (1) 표로 나타내시오. (2) 세로는 적어도 몇 칸을 만들어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            358,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            249,
+            134,
+            265
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            341,
+            271,
+            361
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            331,
+            248
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            17.33,
+            269.33,
+            316.33,
+            345.33
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "날씨가 표시된 달력을 보고 가로에는 날씨를, 세로에는 날수를 나타내는 막대그래프를 나타내려고 합니다. 세로는 적어도 몇 칸을 만들어야 합니까? (다만, 세로 눈금 한 칸은 $1$일을 나타내도록 합니다.)"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            249.33,
+            135,
+            266.33
+          ],
+          "text": "(1) 표로 나타내시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            343.33,
+            272,
+            361.33
+          ],
+          "text": "(2) 세로는 적어도 몇 칸을 만들어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

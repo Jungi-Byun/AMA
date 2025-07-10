@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50208.png",
+  "id": "00043_50208",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성민이와 시완이의 대화를 읽고 칠판에 적힌 소수의 $100$배인 수를 구하시오. 성민 : 칠판에 써 있는 소수가 삼점 영오구칠이지?시완 : 소수점을 오른쪽으로 한 칸 더 간 자리를 읽어야지~성민 : 그렇네? 아!! $5$랑 $9$의 자리도 바꿔 읽었다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            449,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            309,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            54,
+            361,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            78,
+            302,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            489,
+            97
+          ],
+          "text": "성민이와 시완이의 대화를 읽고 칠판에 적힌 소수의 $100$배인 수를 구하시오. 성민 : 칠판에 써 있는 소수가 삼점 영오구칠이지?시완 : 소수점을 오른쪽으로 한 칸 더 간 자리를 읽어야지~성민 : 그렇네? 아!! $5$랑 $9$의 자리도 바꿔 읽었다."
+        }
+      ]
+    }
+  ]
+}

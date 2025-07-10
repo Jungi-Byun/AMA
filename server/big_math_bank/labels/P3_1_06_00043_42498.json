@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_42498.png",
+  "id": "00043_42498",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$3.5$와 $4.1$ 중에서 어느 소수가 더 큰지 알아보려고 합니다. 물음에 답하시오.$⑴ \\square$ 안에 알맞은 수를 써넣으시오.$3.5$는 $0.1$이 \\square$개입니다.$4.1$은 $0.1$이 \\square$개입니다.⑵ 두 소수의 크기를 비교하여 $\\bigcirc$ 안에 $>,<$를 알맞게 써넣으시오.$3.5\\bigcirc4.1$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            443,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            220,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            211,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            210,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            387,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            111,
+            97,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            445,
+            138
+          ],
+          "text": "$3.5$와 $4.1$ 중에서 어느 소수가 더 큰지 알아보려고 합니다. 물음에 답하시오.$⑴ \\square$ 안에 알맞은 수를 써넣으시오.$3.5$는 $0.1$이 \\square$개입니다.$4.1$은 $0.1$이 \\square$개입니다.⑵ 두 소수의 크기를 비교하여 $\\bigcirc$ 안에 $>,<$를 알맞게 써넣으시오.$3.5\\bigcirc4.1$"
+        }
+      ]
+    }
+  ]
+}

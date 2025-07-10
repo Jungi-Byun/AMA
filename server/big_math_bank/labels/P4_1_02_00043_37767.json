@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_02_00043_37767.png",
+  "id": "00043_37767",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경찰서㈀, 학교㈁, 도서관㈂ 위치를 선으로 이어 삼각형 $ㄱㄴㄷ$을 만들려고 합니다. 삼각형의 세 각 사이에는 다음과 같은 관계가 있습니다. 도서관의 위치를 그림 지도에 표시하시오.  · 각 $ㄱㄴㄷ$은 각 $ㄴㄷㄱ$보다 $39°$ 더 작습니다. · 각 $ㄷㄱㄴ$은 각 $ㄴㄷㄱ$보다 $48°$ 더 큽니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            254,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            226,
+            293,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            257,
+            277,
+            280
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            52,
+            78,
+            284,
+            212
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            40
+          ],
+          "text": "경찰서㈀, 학교㈁, 도서관㈂ 위치를 선으로 이어 삼각형 $ㄱㄴㄷ$을 만들려고 합니다. 삼각형의 세 각 사이에는 다음과 같은 관계가 있습니다. 도서관의 위치를 그림 지도에 표시하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21,
+            226.41,
+            293,
+            280.41
+          ],
+          "text": "· 각 $ㄱㄴㄷ$은 각 $ㄴㄷㄱ$보다 $39°$ 더 작습니다. · 각 $ㄷㄱㄴ$은 각 $ㄴㄷㄱ$보다 $48°$ 더 큽니다."
+        }
+      ]
+    }
+  ]
+}

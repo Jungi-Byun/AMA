@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00043_51657.png",
+  "id": "00043_51657",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\boxed{\\boxed3}, \\boxed{\\boxed7}, \\boxed{\\boxed9}, \\boxed{\\boxed4}, \\boxed{\\boxed5} $ $5$장의 숫자 카드 중에서 $34$장을 골라 한 번씩 사용하여 $2$장의 숫자 카드로는 두 자리 수를 만들고, 그 수를 나머지 $1$장의 숫자 카드의 수로 나누었을 때, 나눗셈의 몫이 가장 큰 값은 얼마인지 알아보시오.  ⑴ 숫자 카드 $2$장을 골라 가장 큰 두 자리 수를 만드시오.⑵ ⑴에서 만든 가장 큰 두 자리 수를 나머지 숫자 카드의 수 중 어떤 수로 나누었을 때 몫이 가장 큰 값이 됩니까?⑶ 몫이 가장 클 때의 몫은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            796,
+            30
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            33,
+            526,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            55,
+            336,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            77,
+            654,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            99,
+            241,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            117
+          ],
+          "text": "$ \\boxed{\\boxed3}, \\boxed{\\boxed7}, \\boxed{\\boxed9}, \\boxed{\\boxed4}, \\boxed{\\boxed5} $ $5$장의 숫자 카드 중에서 $34$장을 골라 한 번씩 사용하여 $2$장의 숫자 카드로는 두 자리 수를 만들고, 그 수를 나머지 $1$장의 숫자 카드의 수로 나누었을 때, 나눗셈의 몫이 가장 큰 값은 얼마인지 알아보시오.  ⑴ 숫자 카드 $2$장을 골라 가장 큰 두 자리 수를 만드시오.⑵ ⑴에서 만든 가장 큰 두 자리 수를 나머지 숫자 카드의 수 중 어떤 수로 나누었을 때 몫이 가장 큰 값이 됩니까?⑶ 몫이 가장 클 때의 몫은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

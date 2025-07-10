@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_02_00040_13819.png",
+  "id": "00040_13819",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 삼각자 $2$개로 겹치거나 잇대어서 각을 만들었을 때 만들 수 없는 각은 어느 것입니까?  ①$50°$ ②$75°$ ③$120°$ ④$135°$ ⑤$150°$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            571,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            182,
+            65,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            207,
+            64,
+            227
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            229,
+            72,
+            249
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            251,
+            70,
+            271
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            273,
+            71,
+            293
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            22,
+            341,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.92,
+            0.26,
+            570.68,
+            16.9
+          ],
+          "text": "다음과 같은 삼각자 $2$개로 겹치거나 잇대어서 각을 만들었을 때 만들 수 없는 각은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            186.9,
+            74.68,
+            294.42
+          ],
+          "text": "①$50°$ ②$75°$ ③$120°$ ④$135°$ ⑤$150°$"
+        }
+      ]
+    }
+  ]
+}

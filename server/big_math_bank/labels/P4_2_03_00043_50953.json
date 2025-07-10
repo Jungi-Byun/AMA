@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50953.png",
+  "id": "00043_50953",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "하나의 선분 위에 가, 나, 다, 라가 위치하고 가에서부터 다까지, 나에서부터 라까지, 가에서부터 라까지의 거리가 각각 1987 m, 2.18 km, 3.597 km인 그림",
+      "question_text": "나에서 다까지의 거리와 다에서 라까지의 거리의 차는 몇 $km$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            407,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            34,
+            319,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            409,
+            22
+          ],
+          "text": "나에서 다까지의 거리와 다에서 라까지의 거리의 차는 몇 $km$입니까?"
+        }
+      ]
+    }
+  ]
+}

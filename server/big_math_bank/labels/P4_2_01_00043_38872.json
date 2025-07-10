@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_01_00043_38872.png",
+  "id": "00043_38872",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201004",
+      "question_topic_name": "분모가 같은 (진분수)-(진분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $ \\begin{array}{l}\\frac{7}{10} \\text { 은 } \\frac{1}{10}\\text { 이 }  \\square\\text  { 개, } \\frac{4}{10} \\text { 는 } \\frac{1}{10} \\text { 이 }   \\square \\text { 개이므로 } \\\\ \\frac{7}{10}-\\frac{4}{10} \\text { 는 } \\frac{1}{10} \\text { 이 } \\square \\text { 개입니다. } \\\\ \\rightarrow \\frac{7}{10}-\\frac{4}{10}=\\frac{\\square}{\\square}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            322,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            76,
+            276,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            109,
+            186,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            151
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $ \\begin{array}{l}\\frac{7}{10} \\text { 은 } \\frac{1}{10}\\text { 이 }  \\square\\text  { 개, } \\frac{4}{10} \\text { 는 } \\frac{1}{10} \\text { 이 }   \\square \\text { 개이므로 } \\\\ \\frac{7}{10}-\\frac{4}{10} \\text { 는 } \\frac{1}{10} \\text { 이 } \\square \\text { 개입니다. } \\\\ \\rightarrow \\frac{7}{10}-\\frac{4}{10}=\\frac{\\square}{\\square}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

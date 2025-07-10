@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_04_00043_38286.png",
+  "id": "00043_38286",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈을 하시오.  ($1$) $7\\times30$ ($2$) $22\\times4$ ($3$) $ \\begin{array}{r}50 \\\\ \\times  6 \\\\ \\hline\\end{array} $  ($4$) $ \\begin{array}{r}31 \\\\ \\times  3 \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            208,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            46,
+            232,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            234,
+            91
+          ],
+          "text": "곱셈을 하시오.  ($1$) $7\\times30$ ($2$) $22\\times4$ ($3$) $ \\begin{array}{r}50 \\\\ \\times  6 \\\\ \\hline\\end{array} $  ($4$) $ \\begin{array}{r}31 \\\\ \\times  3 \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

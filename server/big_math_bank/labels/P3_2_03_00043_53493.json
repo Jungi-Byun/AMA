@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53493.png",
+  "id": "00043_53493",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 설명이 바르면 $\\bigcirc$표, 틀리면 $×$표 하시오. 한 원에서 지름은 모두 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            316,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23.17,
+            167.94,
+            210.17,
+            185.94
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            150,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            318,
+            22
+          ],
+          "text": "그림을 보고 설명이 바르면 $\\bigcirc$표, 틀리면 $×$표 하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            22.17,
+            164.94,
+            214.17,
+            185.94
+          ],
+          "text": "한 원에서 지름은 모두 같습니다."
+        }
+      ]
+    }
+  ]
+}

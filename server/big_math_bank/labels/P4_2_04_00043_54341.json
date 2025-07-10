@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00043_54341.png",
+  "id": "00043_54341",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204019",
+      "question_topic_name": "직사각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기가 같은 정사각형 $4$개로 만든 도형에서 찾을 수 있는 크고 작은 정사각형은 모두 몇 개인지 알아보시오. ⑴ 작은 정사각형 $1$개짜리 정사각형은 몇 개입니까? ⑵ 작은 정사각형 $4$개짜리 정사각형은 몇 개입니까? ⑶ 찾을 수 있는 크고 작은 정사각형은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            622,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            108,
+            309,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            130,
+            312,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            152,
+            341,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            105,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.32,
+            0.91,
+            622.32,
+            17.91
+          ],
+          "text": "크기가 같은 정사각형 $4$개로 만든 도형에서 찾을 수 있는 크고 작은 정사각형은 모두 몇 개인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            14.32,
+            106.91,
+            343.32,
+            170.91
+          ],
+          "text": "⑴ 작은 정사각형 $1$개짜리 정사각형은 몇 개입니까? ⑵ 작은 정사각형 $4$개짜리 정사각형은 몇 개입니까? ⑶ 찾을 수 있는 크고 작은 정사각형은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

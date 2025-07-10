@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_89546.png",
+  "id": "00042_89546",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지난달에 빈 병을 인규네 반에서는 $254$개, 정훈이네 반에서는 $285$개 모았습니다. 지난달에 두 반에서 모은 빈 병은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            751,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            753,
+            40
+          ],
+          "text": "지난달에 빈 병을 인규네 반에서는 $254$개, 정훈이네 반에서는 $285$개 모았습니다. 지난달에 두 반에서 모은 빈 병은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

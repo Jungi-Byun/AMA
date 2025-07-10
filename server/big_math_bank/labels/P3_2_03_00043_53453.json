@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_03_00043_53453.png",
+  "id": "00043_53453",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "반지름이 2 cm인 원을 아래쪽에 2개, 아래 두 원의 가운데 위에 하나를 올려놓고, 원의 중심끼리 선을 그려 삼각형 모양을 만든 도형",
+      "question_text": "크기가 같은 원 $3$ 개의 중심을 이어 삼각형을 만들었습니다. 삼각형의 세 변의 합은 몇 $ \\mathrm{~cm} $입니까?  ① $ 4 \\mathrm{~cm} $ ② $ 6 \\mathrm{~cm} $ ③ $ 10 \\mathrm{~cm} $ ④ $ 12 \\mathrm{~cm} $ ⑤ $ 16 \\mathrm{~cm} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            564,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            157,
+            75,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            179,
+            75,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            201,
+            81,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            223,
+            79,
+            243
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            245,
+            80,
+            265
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            26,
+            158,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            566,
+            22
+          ],
+          "text": "크기가 같은 원 $3$ 개의 중심을 이어 삼각형을 만들었습니다. 삼각형의 세 변의 합은 몇 $ \\mathrm{~cm} $입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.08,
+            152.42,
+            82.08,
+            266.42
+          ],
+          "text": "① $ 4 \\mathrm{~cm} $ ② $ 6 \\mathrm{~cm} $ ③ $ 10 \\mathrm{~cm} $ ④ $ 12 \\mathrm{~cm} $ ⑤ $ 16 \\mathrm{~cm} $"
+        }
+      ]
+    }
+  ]
+}

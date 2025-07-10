@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00043_39175.png",
+  "id": "00043_39175",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 지하 주차장에 있는 자동차, 세발자전거, 두발자전거의 바퀴의 수는 모두 $70$이고 그중 두발자전거는 $8$대입니다. 자동차와 세발자전거 수의 차가 가장 클 때, 자동차는 몇 대입니까? (다만, 각각 한 대보다 많습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            461,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "어느 지하 주차장에 있는 자동차, 세발자전거, 두발자전거의 바퀴의 수는 모두 $70$이고 그중 두발자전거는 $8$대입니다. 자동차와 세발자전거 수의 차가 가장 클 때, 자동차는 몇 대입니까? (다만, 각각 한 대보다 많습니다.)"
+        }
+      ]
+    }
+  ]
+}

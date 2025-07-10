@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00042_53208.png",
+  "id": "00042_53208",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진숙이네 아파트 단지에는 한 동에 $212$가구씩 살고 있습니다. 진숙이네 아파트 단지가 $3$동이라면 모두 몇 가구가 살고 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            743,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            745,
+            21
+          ],
+          "text": "진숙이네 아파트 단지에는 한 동에 $212$가구씩 살고 있습니다. 진숙이네 아파트 단지가 $3$동이라면 모두 몇 가구가 살고 있습니까?"
+        }
+      ]
+    }
+  ]
+}

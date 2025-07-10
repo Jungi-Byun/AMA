@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_01_00043_38991.png",
+  "id": "00043_38991",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201016",
+      "question_topic_name": "받아내림이 있는 (대분수)-(대분수)_대분수를 가분수로 바꾸기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오. (1) $ 5 \\frac{1}{3}-2 \\frac{2}{3} $ (2) $ 6 \\frac{3}{7}-1 \\frac{6}{7} $ (3) $ 14 \\frac{5}{9}-6 \\frac{8}{9} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            104,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            104,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            106,
+            113,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            115,
+            141
+          ],
+          "text": "계산을 하시오. (1) $ 5 \\frac{1}{3}-2 \\frac{2}{3} $ (2) $ 6 \\frac{3}{7}-1 \\frac{6}{7} $ (3) $ 14 \\frac{5}{9}-6 \\frac{8}{9} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_02_00043_35067.png",
+  "id": "00043_35067",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 직각삼각형을 보고 빈칸에 알맞은 수를 써넣으시오. <table border style=\"undefined;table-layout: fixed; width: 196px\"> <colgroup> <col style=\"width: 56.2px\"> <col style=\"width: 75.2px\"> <col style=\"width: 64.2px\"> </colgroup> <thead>   <tr>     <th>변의 수(개)</th>     <th>꼭짓점의 수(개)</th>     <th>직각의 수(개)</th>   </tr> </thead> <tbody>   <tr>     <td>$~$</td>     <td></td>     <td></td>   </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            338,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            315,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            126,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            0,
+            341.1,
+            19.92
+          ],
+          "text": "다음 직각삼각형을 보고 빈칸에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            102.4,
+            315.1,
+            153.4
+          ],
+          "text": "<table border style=\"undefined;table-layout: fixed; width: 196px\"> <colgroup> <col style=\"width: 56.2px\"> <col style=\"width: 75.2px\"> <col style=\"width: 64.2px\"> </colgroup> <thead>   <tr>     <th>변의 수(개)</th>     <th>꼭짓점의 수(개)</th>     <th>직각의 수(개)</th>   </tr> </thead> <tbody>   <tr>     <td>$~$</td>     <td></td>     <td></td>   </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

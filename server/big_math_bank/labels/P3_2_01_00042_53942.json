@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_01_00042_53942.png",
+  "id": "00042_53942",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱이 가장 작은 것은 어느 것입니까?  ① $ 59 \\times 20 $ ② $ 40 \\times 60 $ ③ $ 84 \\times 30 $ ④ $ 50 \\times 50 $ ⑤ $ 75 \\times 40 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            224,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            85,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            87,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            86,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            86,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            85,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            226,
+            130
+          ],
+          "text": "곱이 가장 작은 것은 어느 것입니까?  ① $ 59 \\times 20 $ ② $ 40 \\times 60 $ ③ $ 84 \\times 30 $ ④ $ 50 \\times 50 $ ⑤ $ 75 \\times 40 $"
+        }
+      ]
+    }
+  ]
+}

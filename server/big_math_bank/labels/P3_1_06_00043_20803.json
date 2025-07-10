@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_20803.png",
+  "id": "00043_20803",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 5.2 \\mathrm{~cm} $에 대한 설명으로 옳지 않은 것은 어느 것입니까? ①$ 5 \\mathrm{~cm} $보다 깁니다. ②$ 6 \\mathrm{~cm} $보다 짧습니다. ③$ 5 \\mathrm{~cm} 2 \\mathrm{~mm} $로 쓸 수있습니다. ④$ 52 \\mathrm{~cm} $와 같은 크기입니다. ⑤$ 5 \\mathrm{~cm}+0.2 \\mathrm{~cm} $입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            332,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            140,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            154,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            205,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            190,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            162,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            334,
+            129
+          ],
+          "text": "$ 5.2 \\mathrm{~cm} $에 대한 설명으로 옳지 않은 것은 어느 것입니까? ①$ 5 \\mathrm{~cm} $보다 깁니다. ②$ 6 \\mathrm{~cm} $보다 짧습니다. ③$ 5 \\mathrm{~cm} 2 \\mathrm{~mm} $로 쓸 수있습니다. ④$ 52 \\mathrm{~cm} $와 같은 크기입니다. ⑤$ 5 \\mathrm{~cm}+0.2 \\mathrm{~cm} $입니다."
+        }
+      ]
+    }
+  ]
+}

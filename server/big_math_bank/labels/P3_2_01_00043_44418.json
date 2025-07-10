@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_01_00043_44418.png",
+  "id": "00043_44418",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1$년이 $365$일이라고 할 때 $7$년은 모두 며칠인지 알아보시오. ⑴ 구하려는 것은 무엇입니까? ⑵ 주어진 조건은 무엇입니까? ⑶ 필요한 계산식은 무엇입니까? ⑷ 식을 써 보시오. ⑸ $7$년은 모두 며칠입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            352,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            191,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            191,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            204,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            123,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            132,
+            173,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            353,
+            105
+          ],
+          "text": "$1$년이 $365$일이라고 할 때 $7$년은 모두 며칠인지 알아보시오. ⑴ 구하려는 것은 무엇입니까? ⑵ 주어진 조건은 무엇입니까? ⑶ 필요한 계산식은 무엇입니까? ⑷ 식을 써 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.23,
+            132.65,
+            174.23,
+            150.65
+          ],
+          "text": "⑸ $7$년은 모두 며칠입니까?"
+        }
+      ]
+    }
+  ]
+}

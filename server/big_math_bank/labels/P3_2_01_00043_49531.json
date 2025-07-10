@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_01_00043_49531.png",
+  "id": "00043_49531",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201010",
+      "question_topic_name": "(몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다리가 $4$개인 철 의자 $23$개와 다리가 $3$개인 나무 의자 $34$개가 있습니다. 철 의자와 나무 의자의 다리는 각각 몇 개인지 구하시오.  철 의자 $ (  ) $   나무 의자 $ (  ) $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            744,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            145,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            158,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            746,
+            62
+          ],
+          "text": "다리가 $4$개인 철 의자 $23$개와 다리가 $3$개인 나무 의자 $34$개가 있습니다. 철 의자와 나무 의자의 다리는 각각 몇 개인지 구하시오.  철 의자 $ (  ) $   나무 의자 $ (  ) $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00042_53735.png",
+  "id": "00042_53735",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$kg$과 $g$의 관계를 나타낸 것 중 틀린 것은 어느 것입니까? ① $3kg 500g=3500g$ ② $5340g=5kg 340g$ ③ $4kg=4000g$ ④ $2kg 40g=240g$ ⑤ $6200g=6kg 200g$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            337,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            153,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            151,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            118,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            87,
+            136,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            154,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            339,
+            130
+          ],
+          "text": "$kg$과 $g$의 관계를 나타낸 것 중 틀린 것은 어느 것입니까? ① $3kg 500g=3500g$ ② $5340g=5kg 340g$ ③ $4kg=4000g$ ④ $2kg 40g=240g$ ⑤ $6200g=6kg 200g$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00042_54037.png",
+  "id": "00042_54037",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "윤호가 저금통에 모은 돈을 모두 세어 보았더니 $10$원짜리가 $80$개, $50$원짜리가 $90$개였습니다. 윤호가 저금통에 모은 돈은 모두 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            788,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            790,
+            40
+          ],
+          "text": "윤호가 저금통에 모은 돈을 모두 세어 보았더니 $10$원짜리가 $80$개, $50$원짜리가 $90$개였습니다. 윤호가 저금통에 모은 돈은 모두 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

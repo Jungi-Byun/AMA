@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00042_54039.png",
+  "id": "00042_54039",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정민이네 학교의 학년별 반 수를 나타낸 것입니다. 한 반의 학생 수가 $37$명씩일 때, 정민이네 학교의 학생은 모두 몇 명입니까?  <table border>   <tbody>     <tr>       <td>학년</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>       <td>$6$</td>     </tr>     <tr>       <td >반 수(개)</td>       <td>$8$</td>   <td>$9$</td>   <td>$7$</td>   <td>$8$</td>   <td>$6$</td>   <td>$5$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            727,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            17,
+            238,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            729,
+            71
+          ],
+          "text": "정민이네 학교의 학년별 반 수를 나타낸 것입니다. 한 반의 학생 수가 $37$명씩일 때, 정민이네 학교의 학생은 모두 몇 명입니까?  <table border>   <tbody>     <tr>       <td>학년</td>       <td>$1$</td>       <td>$2$</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>       <td>$6$</td>     </tr>     <tr>       <td >반 수(개)</td>       <td>$8$</td>   <td>$9$</td>   <td>$7$</td>   <td>$8$</td>   <td>$6$</td>   <td>$5$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36169.png",
+  "id": "00043_36169",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경림이는 매일 $3$개씩 $8$일 동안 수학경시문제를 풀기로 약속했습니다. 그런데 경림이는 깜빡 잊고 있었습니다. 문제를 다 풀기로 한 날이 $4$일 남았다면 경림이는 하루에 문제를 몇 개씩 풀어야 약속을 지킬 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            463,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            41
+          ],
+          "text": "경림이는 매일 $3$개씩 $8$일 동안 수학경시문제를 풀기로 약속했습니다. 그런데 경림이는 깜빡 잊고 있었습니다. 문제를 다 풀기로 한 날이 $4$일 남았다면 경림이는 하루에 문제를 몇 개씩 풀어야 약속을 지킬 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

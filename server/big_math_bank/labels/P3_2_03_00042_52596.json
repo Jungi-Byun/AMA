@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00042_52596.png",
+  "id": "00042_52596",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "점 $ㅇ$을 원의 중심으로 하여 반지름이 다음과 같은 원을 그리시오. (1) (2) (3) (4)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            388,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            352,
+            765
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            23
+          ],
+          "text": "점 $ㅇ$을 원의 중심으로 하여 반지름이 다음과 같은 원을 그리시오. (1) (2) (3) (4)"
+        }
+      ]
+    }
+  ]
+}

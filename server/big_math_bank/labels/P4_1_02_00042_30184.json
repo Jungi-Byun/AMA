@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_30184.png",
+  "id": "00042_30184",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형에서 위쪽 두 각에서 출발한 선이 만나는 지점의 위쪽 각의 크기가 원 문자 ㄱ이며, 각 선으로 나누어지는 위쪽 두 각의 아래쪽이 각각 55도인 평면도형",
+      "question_text": "새롬이는 친구에게 카드를 보내려고 그림과 같은 직사각형 모양의 카드 봉투를 만들었습니다. 각 ㉠의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            690,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            167,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            692,
+            22
+          ],
+          "text": "새롬이는 친구에게 카드를 보내려고 그림과 같은 직사각형 모양의 카드 봉투를 만들었습니다. 각 ㉠의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

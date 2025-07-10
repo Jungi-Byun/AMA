@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00042_26156.png",
+  "id": "00042_26156",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "승현이가 집에서 공원까지 가는 데 걸린 시간은 $15$분 $42$초이고, 공원에서 병원까지 가는 데 걸린 시간은 $8$분 $19$초입니다. 승현이네 집에서 공원을 거쳐 병원까지 가는 데 걸리는 시간은 모두 몇 분 몇 초입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            412,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            41
+          ],
+          "text": "승현이가 집에서 공원까지 가는 데 걸린 시간은 $15$분 $42$초이고, 공원에서 병원까지 가는 데 걸린 시간은 $8$분 $19$초입니다. 승현이네 집에서 공원을 거쳐 병원까지 가는 데 걸리는 시간은 모두 몇 분 몇 초입니까?"
+        }
+      ]
+    }
+  ]
+}

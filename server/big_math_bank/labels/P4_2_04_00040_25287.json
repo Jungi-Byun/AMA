@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_25287.png",
+  "id": "00040_25287",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204014",
+      "question_topic_name": "평행사변형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽의 길이가 3 cm, 그에 이웃하고 위쪽 길이가 4 cm인 평행사변형",
+      "question_text": "다음 평행사변형의 둘레는 몇 $cm$입니까? ①$12cm $②$13cm $③$14cm $④$15cm $⑤$16cm$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            251,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            123,
+            77,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            148,
+            76,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            170,
+            76,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            192,
+            76,
+            212
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            214,
+            76,
+            234
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            148,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            253,
+            21
+          ],
+          "text": "다음 평행사변형의 둘레는 몇 $cm$입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            125,
+            78,
+            235
+          ],
+          "text": "①$12cm $②$13cm $③$14cm $④$15cm $⑤$16cm$"
+        }
+      ]
+    }
+  ]
+}

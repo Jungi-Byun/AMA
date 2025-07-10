@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52378.png",
+  "id": "00043_52378",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로로 지나는 직선 나 위에 평행한 직선 가 위의 점 라에서 수선이 직선 나와 만나는 점과 좌샹향하는 직선과 이루는 각 48도이고 두 직선보다 위에 있는 점 다에서 우하향하는 직선이 직선 나와 만나는 점과 직선 나와 이루는 예각은 72도이고 점 다에서 점 라에서 직선 가의 수선과 평행한 반직선은 직선 가를 뚫고 이루는 각의 크기는 원 문자 ㄱ인 도형",
+      "question_text": "다음 그림에서 직선 가와 나, 직선 다와 라는 각각 서로 평행합니다. ㉠의 각도는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            545,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            48,
+            48,
+            203,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            547,
+            28
+          ],
+          "text": "다음 그림에서 직선 가와 나, 직선 다와 라는 각각 서로 평행합니다. ㉠의 각도는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

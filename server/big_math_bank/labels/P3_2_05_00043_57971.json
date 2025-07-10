@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57971.png",
+  "id": "00043_57971",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도자기와 어항 중에서 투명하여 속이 잘 보이는 성질을 가진 물질로 만든 것의 무게는 몇 $ \\mathrm{g} $ 입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            571,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            27,
+            270,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            573,
+            22
+          ],
+          "text": "도자기와 어항 중에서 투명하여 속이 잘 보이는 성질을 가진 물질로 만든 것의 무게는 몇 $ \\mathrm{g} $ 입니까?"
+        }
+      ]
+    }
+  ]
+}

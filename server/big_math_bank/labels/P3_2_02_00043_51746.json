@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_02_00043_51746.png",
+  "id": "00043_51746",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>의 나눗셈을 바르게 했는지 알아보는 검산식은 어느 것입니까? <보기> ① $4 \\times 7 + 45 = 73$ ② $4 \\times 19 - 3 = 73$ ③ $4 \\times 18 + 1 = 73$ ④ $4 \\times 17 + 5 = 73$ ⑤ $4 \\times 18 + 10 = 82$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            414,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            27,
+            68,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            54,
+            88,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            200,
+            114,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            225,
+            110,
+            245
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            247,
+            110,
+            267
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            269,
+            111,
+            289
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            291,
+            121,
+            311
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.74,
+            0.95,
+            415.24,
+            312.2
+          ],
+          "text": "<보기>의 나눗셈을 바르게 했는지 알아보는 검산식은 어느 것입니까? <보기> ① $4 \\times 7 + 45 = 73$ ② $4 \\times 19 - 3 = 73$ ③ $4 \\times 18 + 1 = 73$ ④ $4 \\times 17 + 5 = 73$ ⑤ $4 \\times 18 + 10 = 82$"
+        }
+      ]
+    }
+  ]
+}

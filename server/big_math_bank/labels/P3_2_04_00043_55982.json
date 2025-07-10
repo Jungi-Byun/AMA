@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00043_55982.png",
+  "id": "00043_55982",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가분수를 대분수로 나타내어 보시오.(1) $ \\frac{13}{3} $ (2) $ \\frac{24}{7} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            225,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            67,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            69,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            227,
+            100
+          ],
+          "text": "가분수를 대분수로 나타내어 보시오.(1) $ \\frac{13}{3} $ (2) $ \\frac{24}{7} $"
+        }
+      ]
+    }
+  ]
+}

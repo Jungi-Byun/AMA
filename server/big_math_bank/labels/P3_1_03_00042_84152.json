@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_03_00042_84152.png",
+  "id": "00042_84152",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "몫의 크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으시오.  (1) $ \\begin{array}{r}4{\\overline{\\smash{\\big)}\\,36}}\\end{array}  \\bigcirc  \\begin{array}{r}7{\\overline{\\smash{\\big)}\\,49}}\\end{array} $  (2) $ \\begin{array}{r}3{\\overline{\\smash{\\big)}\\,24}}\\end{array}  \\bigcirc  \\begin{array}{r}9{\\overline{\\smash{\\big)}\\,45}}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            356,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            49,
+            83,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            88,
+            45,
+            115,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            120,
+            71,
+            168,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            82,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            88,
+            101,
+            115,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            121,
+            127,
+            167,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            358,
+            132
+          ],
+          "text": "몫의 크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으시오.  (1) $ \\begin{array}{r}4{\\overline{\\smash{\\big)}\\,36}}\\end{array}  \\bigcirc  \\begin{array}{r}7{\\overline{\\smash{\\big)}\\,49}}\\end{array} $  (2) $ \\begin{array}{r}3{\\overline{\\smash{\\big)}\\,24}}\\end{array}  \\bigcirc  \\begin{array}{r}9{\\overline{\\smash{\\big)}\\,45}}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

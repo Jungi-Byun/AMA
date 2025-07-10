@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_06_00043_59251.png",
+  "id": "00043_59251",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "오케스트라는 목관 악기, 금관 악기, 타악기, 현악기가 한데 모여 연주하는 형태입니다. 악기들은 종류에 따라 $4$개의 군으로 이루어져 있습니다. 제$1$군은 현악기군, 제$2$군은 목관 악기군, 제$3$군은 금관 악기군, 제$4$군은 타악기군으로 구성되어 있습니다. 다음 표와 그림그래프를 보고 빈 곳에 놓일 첼로의 수를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            801,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            220,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            121,
+            74,
+            234,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            96,
+            321,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            133,
+            180,
+            215,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            204,
+            316,
+            382
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            212,
+            377,
+            311,
+            406
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            408
+          ],
+          "text": "오케스트라는 목관 악기, 금관 악기, 타악기, 현악기가 한데 모여 연주하는 형태입니다. 악기들은 종류에 따라 $4$개의 군으로 이루어져 있습니다. 제$1$군은 현악기군, 제$2$군은 목관 악기군, 제$3$군은 금관 악기군, 제$4$군은 타악기군으로 구성되어 있습니다. 다음 표와 그림그래프를 보고 빈 곳에 놓일 첼로의 수를 구하시오."
+        }
+      ]
+    }
+  ]
+}

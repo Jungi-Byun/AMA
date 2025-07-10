@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_40537.png",
+  "id": "00043_40537",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 막대 그림을 18등분해 점선으로 표시하고 6배수 두 곳은 실선으로 표시, 막대 그림 아래쪽에 단위를 왼쪽부터 6배수로 4시, 5시, 6시, 7시, 15번째 칸 오른쪽 점선 아래에 위쪽 방향 화살표와 6시 30분을 표시하고 왼쪽부터 5번째 칸부터 15번째 칸까지는 색을 칠하고 위에 1시간 50분을 쓰고 오른쪽에서 왼쪽으로 향하는 점선으로 된 화살표를 표시한 그림",
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $6$시 $30$ 분 - $1$ 시간 $50$ 분 $ =4 $ 시 $\\square$ 분",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            34,
+            316,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            277,
+            22
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $6$시 $30$ 분 - $1$ 시간 $50$ 분 $ =4 $ 시 $\\square$ 분"
+        }
+      ]
+    }
+  ]
+}

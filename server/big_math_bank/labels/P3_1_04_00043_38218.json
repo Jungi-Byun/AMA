@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_04_00043_38218.png",
+  "id": "00043_38218",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "⑴ 십 모형은 모두 몇 개입니까? ⑵ 십 모형은 모두 몇 개인지 곱셈식으로 써 보시오. $ 2 \\times \\square=\\square $  ⑶ 모두 몇 개입니까? 모두 몇 개인지 알아보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            174,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            130,
+            199,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            152,
+            307,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            203,
+            140,
+            220
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.2,
+            174.23,
+            125.85,
+            201.86
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            26,
+            273,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.24,
+            129.45,
+            306.85,
+            220.91
+          ],
+          "text": "⑴ 십 모형은 모두 몇 개입니까? ⑵ 십 모형은 모두 몇 개인지 곱셈식으로 써 보시오. $ 2 \\times \\square=\\square $  ⑶ 모두 몇 개입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.2,
+            0.85,
+            174.43,
+            17.04
+          ],
+          "text": "모두 몇 개인지 알아보시오."
+        }
+      ]
+    }
+  ]
+}

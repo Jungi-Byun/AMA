@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_01_00043_39300.png",
+  "id": "00043_39300",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "축구 선수 한 명에게 3개의 그림자가 생겼습니다. 가장 긴 그림자의 길이에서 $\\frac{11}{13}$m를 빼면 가장 짧은 그림자의 길이가 됩니다. 가장 짧은 그림자의 길이가 $\\frac{11}{13}$m일 때 가장 긴 그림자의 길이를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            799,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            390,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            86,
+            300,
+            294
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            80
+          ],
+          "text": "축구 선수 한 명에게 3개의 그림자가 생겼습니다. 가장 긴 그림자의 길이에서 $\\frac{11}{13}$m를 빼면 가장 짧은 그림자의 길이가 됩니다. 가장 짧은 그림자의 길이가 $\\frac{11}{13}$m일 때 가장 긴 그림자의 길이를 구하시오."
+        }
+      ]
+    }
+  ]
+}

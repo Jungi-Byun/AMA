@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_05_00043_42658.png",
+  "id": "00043_42658",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "규범이네 반 학생 $32$명의 혈액형을 조사하여 나타낸 막대그래프입니다. 혈액형이 O형인 학생은 AB형인 학생보다 몇 명 더 많습니까? 혈액형별 학생 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            770,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            28,
+            309,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            772,
+            24
+          ],
+          "text": "규범이네 반 학생 $32$명의 혈액형을 조사하여 나타낸 막대그래프입니다. 혈액형이 O형인 학생은 AB형인 학생보다 몇 명 더 많습니까? 혈액형별 학생 수"
+        }
+      ]
+    }
+  ]
+}

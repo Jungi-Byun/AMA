@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_03_00043_34042.png",
+  "id": "00043_34042",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103001",
+      "question_topic_name": "세 자리 수와 몇십 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현아는 민우가 말한 수에 일정한 수를 곱한 값을 말하고 있습니다. 마지막에 현아가 말해야 하는 수는 얼마입니까? 현아: 수를 말해봐. 민우: $400$!! 현아: 음~ $12000$! 민우: 그럼, $800$이면?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            659,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            135,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            54,
+            105,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            76,
+            135,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            99,
+            159,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            122
+          ],
+          "text": "현아는 민우가 말한 수에 일정한 수를 곱한 값을 말하고 있습니다. 마지막에 현아가 말해야 하는 수는 얼마입니까? 현아: 수를 말해봐. 민우: $400$!! 현아: 음~ $12000$! 민우: 그럼, $800$이면?"
+        }
+      ]
+    }
+  ]
+}

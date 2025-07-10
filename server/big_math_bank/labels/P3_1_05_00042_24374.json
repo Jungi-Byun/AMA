@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00042_24374.png",
+  "id": "00042_24374",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "0에서 시작하여 1 km마다 눈금과 거리가 표시된 전체 4 km의 가로막대가 있고 3 km에서 4 km 사이 구간은 0.1 km 단위로 점선 눈금 표시가 있고 3.4 km에 해당하는 부분까지 초록색 색칠이 되어 있고 색칠된 영역이 끝나는 부분에서 네모상자 km 네모상자 m와 그 아래에 아래로 향하는 화살표가 가로막대 위쪽에 있는 그림",
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣고 읽어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            249,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            288,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            251,
+            20
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣고 읽어 보시오."
+        }
+      ]
+    }
+  ]
+}

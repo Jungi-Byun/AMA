@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00043_36205.png",
+  "id": "00043_36205",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈식 $ 12 \\div 4=3 $ 을 여러 가지로 나타내어 보시오. (1) 구슬 $12$ 개를 똑같이 나누어 보시오. (2) 나눗셈식 $ 12 \\div 4=3 $ 을 나타낸 문장을 보고 $ \\square $ 안에 알맞은 수를 써넣으시오.  구슬 $\\square$ 개를 학생 $\\square$ 명에게 똑같이 나누어 주면 한 학생이 $\\square$ 개씩 가질 수 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            303,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            235,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            123,
+            451,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            149,
+            636,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19.1,
+            45.4,
+            312.1,
+            124.4
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            305,
+            41
+          ],
+          "text": "나눗셈식 $ 12 \\div 4=3 $ 을 여러 가지로 나타내어 보시오. (1) 구슬 $12$ 개를 똑같이 나누어 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            123,
+            644,
+            176
+          ],
+          "text": "(2) 나눗셈식 $ 12 \\div 4=3 $ 을 나타낸 문장을 보고 $ \\square $ 안에 알맞은 수를 써넣으시오.  구슬 $\\square$ 개를 학생 $\\square$ 명에게 똑같이 나누어 주면 한 학생이 $\\square$ 개씩 가질 수 있습니다."
+        }
+      ]
+    }
+  ]
+}

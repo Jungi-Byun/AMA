@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_25220.png",
+  "id": "00040_25220",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204010",
+      "question_topic_name": "사다리꼴 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형 중에서 사다리꼴만을 골라 묶은 것은 어느 것입니까? ①가, 나, 마 ②가, 다, 마 ③나, 다, 마 ④나, 다, 라 ⑤나, 다, 라, 마",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            375,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            205,
+            98,
+            225
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            227,
+            98,
+            247
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            249,
+            98,
+            269
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            271,
+            98,
+            291
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            293,
+            118,
+            313
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            292,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            0.19,
+            376.28,
+            15.39
+          ],
+          "text": "다음 도형 중에서 사다리꼴만을 골라 묶은 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.88,
+            204.19,
+            119.48,
+            312.19
+          ],
+          "text": "①가, 나, 마 ②가, 다, 마 ③나, 다, 마 ④나, 다, 라 ⑤나, 다, 라, 마"
+        }
+      ]
+    }
+  ]
+}

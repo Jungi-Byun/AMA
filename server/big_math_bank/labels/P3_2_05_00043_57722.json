@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00043_57722.png",
+  "id": "00043_57722",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "참기름이 $1L 600mL$, 들기름이 $1L 500mL$ 있습니다. 참기름과 들기름은 모두 몇 $L$ 몇 $mL$인지 식을 쓰고 답을 구하시오. 식_____________ 답_________",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            695,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            697,
+            22
+          ],
+          "text": "참기름이 $1L 600mL$, 들기름이 $1L 500mL$ 있습니다. 참기름과 들기름은 모두 몇 $L$ 몇 $mL$인지 식을 쓰고 답을 구하시오. 식_____________ 답_________"
+        }
+      ]
+    }
+  ]
+}

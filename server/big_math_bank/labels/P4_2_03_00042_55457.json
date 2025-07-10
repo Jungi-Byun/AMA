@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00042_55457.png",
+  "id": "00042_55457",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203014",
+      "question_topic_name": "자릿수가 다른 소수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소수의 덧셈을 세로셈으로 바꾸어 쓴 다음 계산하시오. $2.473+8.76 \\rightarrow \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            326,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            12.28,
+            20.87,
+            202.28,
+            97.87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            12.28,
+            1.87,
+            328.28,
+            97.87
+          ],
+          "text": "소수의 덧셈을 세로셈으로 바꾸어 쓴 다음 계산하시오. $2.473+8.76 \\rightarrow \\square$"
+        }
+      ]
+    }
+  ]
+}

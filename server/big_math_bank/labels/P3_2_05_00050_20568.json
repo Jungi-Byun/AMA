@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20568.png",
+  "id": "00050_20568",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로가 480 m, 세로가 300 m인 점선으로 된 직사각형의 각 변 위의 한 점씩을 이어 그린 색칠된 마름모",
+      "question_text": "그림과 같은 마름모 모양의 땅에 벼농사를 지어 $4a$당 $160kg$의 쌀을 수확한다면 모두 몇 $t$의 쌀을 수확할 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            683,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            30,
+            198,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            685,
+            21
+          ],
+          "text": "그림과 같은 마름모 모양의 땅에 벼농사를 지어 $4a$당 $160kg$의 쌀을 수확한다면 모두 몇 $t$의 쌀을 수확할 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

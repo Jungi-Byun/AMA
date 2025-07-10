@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_93117.png",
+  "id": "00042_93117",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진우와 성미가 $1$L만큼의 물을 어림하여 각각 가지고 온 물통에 물을 부었습니다. 물통에 부은 물의 양을 실제로 재어 보니 진우의 물은 $960$mL이고, 성미의 물은 $1$L $130$mL였습니다. 누가 어림을 더 잘하였습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            770,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            455,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            772,
+            41
+          ],
+          "text": "진우와 성미가 $1$L만큼의 물을 어림하여 각각 가지고 온 물통에 물을 부었습니다. 물통에 부은 물의 양을 실제로 재어 보니 진우의 물은 $960$mL이고, 성미의 물은 $1$L $130$mL였습니다. 누가 어림을 더 잘하였습니까?"
+        }
+      ]
+    }
+  ]
+}

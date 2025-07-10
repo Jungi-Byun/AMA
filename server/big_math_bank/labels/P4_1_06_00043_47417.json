@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_06_00043_47417.png",
+  "id": "00043_47417",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림과 같이 규칙적으로 놓인 무늬가 있습니다. 정사각형 수를 수와 식으로 나타내시오.  <table border> <caption></caption>   <tbody>     <tr>       <td>순서</td>       <td>첫 번째</td>       <td>두 번째</td>       <td>세 번째</td>       <td>네 번째</td>     </tr>     <tr>       <td>수</td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr>     <tr>       <td>식</td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            508,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            100,
+            306,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            25,
+            305,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            511,
+            21
+          ],
+          "text": "그림과 같이 규칙적으로 놓인 무늬가 있습니다. 정사각형 수를 수와 식으로 나타내시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            98,
+            308,
+            171
+          ],
+          "text": "<table border> <caption></caption>   <tbody>     <tr>       <td>순서</td>       <td>첫 번째</td>       <td>두 번째</td>       <td>세 번째</td>       <td>네 번째</td>     </tr>     <tr>       <td>수</td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr>     <tr>       <td>식</td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody>"
+        }
+      ]
+    }
+  ]
+}

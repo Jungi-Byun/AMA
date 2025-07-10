@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_26361.png",
+  "id": "00042_26361",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "친구들이 공부한 시간입니다. 셋째 번으로 오랫동안 공부한 사람은 누구입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            467,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            250,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            469,
+            87
+          ],
+          "text": "친구들이 공부한 시간입니다. 셋째 번으로 오랫동안 공부한 사람은 누구입니까?"
+        }
+      ]
+    }
+  ]
+}

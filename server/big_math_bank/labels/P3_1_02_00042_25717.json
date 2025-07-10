@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_25717.png",
+  "id": "00042_25717",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가장 아래쪽에는 동일한 방법으로 진행됨을 나타내는 점 세 개의 줄임표가 세로로 있고 그 위에 정사각형 3개가 가로로 겹치지 않게 붙어 있고 오른쪽에 왼쪽 방향 화살표가 있고 5층이라 적혀있고, 그 위에 밑의 도형의 윗변의 가운데에 정사각형 2개가 가로로 겹치지 않게 붙어있고 왼쪽 방향 화살표가 있고 6층이 적혀있고, 그 위에 밑의 도형의 가운데에 정사각형 1개가 있고 왼쪽 방향 화살표가 있고 7층이 적혀있는 도형",
+      "question_text": "한 변의 길이가 3 cm인 정사각형을 다음 그림과 같은 규칙으로 겹치지 않게 7층이 되도록 그린다면 그 둘레는 몇 cm입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            719,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            163,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            721,
+            22
+          ],
+          "text": "한 변의 길이가 3 cm인 정사각형을 다음 그림과 같은 규칙으로 겹치지 않게 7층이 되도록 그린다면 그 둘레는 몇 cm입니까?"
+        }
+      ]
+    }
+  ]
+}

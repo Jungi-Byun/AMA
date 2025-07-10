@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_03_00043_53661.png",
+  "id": "00043_53661",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "반지름이 12 cm인 큰 원 안에 지름을 나타내는 선분을 긋고, 지름 위로 반지름이 3 cm인 작은 원을 작은 원의 중심을 지나도록 계속 겹쳐서 그린다는 과정을 설명한 그림으로, 지름 위에 원의 중심이 있도록 하고는 지름의 한 점에 접하는 작은 원과 그 원의 중심을 지나도록 그린 작은 원이 큰 원의 왼쪽 끝부터 시작해 겹쳐 그려져 있고, 동일한 방법으로 진행됨을 나타내는 점 여섯 개의 줄임표가 그려진 그림",
+      "question_text": "반지름이 $12  cm$인 큰 원의 지름 위에 다음과 같이 반지름이 $3  cm$인 작은 원을 그리고 있습니다. 큰 원을 벗어나지 않는 작은 원은 몇 개 그릴 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            111,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            52,
+            153,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            41
+          ],
+          "text": "반지름이 $12  cm$인 큰 원의 지름 위에 다음과 같이 반지름이 $3  cm$인 작은 원을 그리고 있습니다. 큰 원을 벗어나지 않는 작은 원은 몇 개 그릴 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

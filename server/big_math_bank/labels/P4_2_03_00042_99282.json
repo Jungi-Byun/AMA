@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00042_99282.png",
+  "id": "00042_99282",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소수로 바르게 나타낸 것은 어느 것입니까? ①영점 영팔 $\\rightarrow 0.8$ ②이점 육오 $\\rightarrow 2.605$ ③영점 사영일 $\\rightarrow 0.41$ ④십오점 칠삼 $\\rightarrow 15.73$ ⑤팔점 영영구 $\\rightarrow 8.9$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            262,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            138,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            153,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            155,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            161,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            150,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            264,
+            130
+          ],
+          "text": "소수로 바르게 나타낸 것은 어느 것입니까? ①영점 영팔 $\\rightarrow 0.8$ ②이점 육오 $\\rightarrow 2.605$ ③영점 사영일 $\\rightarrow 0.41$ ④십오점 칠삼 $\\rightarrow 15.73$ ⑤팔점 영영구 $\\rightarrow 8.9$"
+        }
+      ]
+    }
+  ]
+}

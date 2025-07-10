@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_03_00043_34065.png",
+  "id": "00043_34065",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 $5$장의 숫자 카드를 한 번씩만 사용하여 가장 작은 세 자리 수와 가장 큰 두 자리 수를 각각 만들었습니다. 만든 두 수의 곱은 얼마인지 알아보시오. $0~~3~~5~~6~~9$ (1) 만든 가장 작은 세 자리 수를 쓰시오. (2) 만든 가장 큰 두 자리 수를 쓰시오. (3) 위 (1), (2)의 두 수의 곱은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            792,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            87,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            44,
+            109,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            69,
+            242,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            91,
+            232,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            113,
+            259,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            794,
+            131
+          ],
+          "text": "다음 $5$장의 숫자 카드를 한 번씩만 사용하여 가장 작은 세 자리 수와 가장 큰 두 자리 수를 각각 만들었습니다. 만든 두 수의 곱은 얼마인지 알아보시오. $0~~3~~5~~6~~9$ (1) 만든 가장 작은 세 자리 수를 쓰시오. (2) 만든 가장 큰 두 자리 수를 쓰시오. (3) 위 (1), (2)의 두 수의 곱은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00042_54480.png",
+  "id": "00042_54480",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽부터 숫자 2가 쓰인 초록색 테두리가 그려진 카드, 숫자 4가 쓰인 주황색 테두리가 그려진 카드, 숫자 9가 쓰인 노란색 테두리가 그려진 카드가 일렬로 배열된 그림",
+      "question_text": "$3$장의 숫자 카드를 한 번씩만 사용하여 만들 수 있는 두 자리 수 중에서 $6$으로 나누어떨어지는 수를 모두 구하시오. $\\boxed{2}$ $\\boxed{4}$ $\\boxed{9}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            663,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            19,
+            144,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            665,
+            59
+          ],
+          "text": "$3$장의 숫자 카드를 한 번씩만 사용하여 만들 수 있는 두 자리 수 중에서 $6$으로 나누어떨어지는 수를 모두 구하시오. $\\boxed{2}$ $\\boxed{4}$ $\\boxed{9}$"
+        }
+      ]
+    }
+  ]
+}

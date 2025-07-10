@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_05_00043_40613.png",
+  "id": "00043_40613",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105002",
+      "question_topic_name": "몇 cm 몇 mm 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $4cm$보다 $6mm$ 더 긴 것은 $\\square$$cm$ $\\square$$mm$라고 씁니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            55,
+            140,
+            249,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            50,
+            161,
+            253,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            41,
+            36,
+            265,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            277,
+            21
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            48,
+            139,
+            255,
+            188
+          ],
+          "text": "$4cm$보다 $6mm$ 더 긴 것은 $\\square$$cm$ $\\square$$mm$라고 씁니다."
+        }
+      ]
+    }
+  ]
+}

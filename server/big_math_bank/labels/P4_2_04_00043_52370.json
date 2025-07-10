@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52370.png",
+  "id": "00043_52370",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "세로로 놓인 두 직선 ㄱㄴ과 ㄷㄹ은 서로 평행하고 직선 ㄱㄴ 위의 두 점 ㅁ, ㅂ과 직선 ㄷㄹ 위의 두 점 ㅅ, ㅇ으로 이루어진 변 ㅅㅇ의 길이가 변 ㅁㅂ의 길이보다 짧은 사다리꼴 ㅁㅂㅅㅇ에서 각 ㅁㅅㅇ의 크기가 표시, 각 ㄴㅂㅇ의 크기가 124도",
+      "question_text": "다음 그림에서 직선 $ㄱㄴ$과 직선 $ㄷㄹ$은 서로 평행합니다. 각 $ㅂㅇㅅ$의 크기가 각 $ㅂㅁㅅ$의 $2$배일 때, 각 $ㅁㅅㅇ$의 크기는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            774,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            44,
+            32,
+            131,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            777,
+            22
+          ],
+          "text": "다음 그림에서 직선 $ㄱㄴ$과 직선 $ㄷㄹ$은 서로 평행합니다. 각 $ㅂㅇㅅ$의 크기가 각 $ㅂㅁㅅ$의 $2$배일 때, 각 $ㅁㅅㅇ$의 크기는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

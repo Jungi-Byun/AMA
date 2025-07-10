@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57743.png",
+  "id": "00043_57743",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "쌀 $ 2 $되, 보리쌀 $ 3 $홉, 현미 $ 2 $홉을 섞어 잡곡밥을 지으려고 합니다. 필요한 곡식은 모두 약 $ L $ 몇 $ mL $입니까?  <table border>   <tbody>     <tr>       <td>$1$섬</td>       <td>약 $180L$</td>     </tr>     <tr>       <td>$1$말</td>       <td>약 $18L$</td>     </tr>     <tr>       <td>$1$되</td>       <td>약 $1L   800mL$</td>     </tr>     <tr>       <td>$1$되홉</td>       <td>약 $180mL$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            606,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            138,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            608,
+            115
+          ],
+          "text": "쌀 $ 2 $되, 보리쌀 $ 3 $홉, 현미 $ 2 $홉을 섞어 잡곡밥을 지으려고 합니다. 필요한 곡식은 모두 약 $ L $ 몇 $ mL $입니까?  <table border>   <tbody>     <tr>       <td>$1$섬</td>       <td>약 $180L$</td>     </tr>     <tr>       <td>$1$말</td>       <td>약 $18L$</td>     </tr>     <tr>       <td>$1$되</td>       <td>약 $1L   800mL$</td>     </tr>     <tr>       <td>$1$되홉</td>       <td>약 $180mL$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

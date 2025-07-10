@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36127.png",
+  "id": "00043_36127",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉮, ㉯ 두 공장에서 필통을 ㉮ 공장은 $1$분에 $4$개씩, ㉯ 공장은 $1$분에 $6$개씩 만듭니다. 두 공장에서 동시에 필통을 만들기 시작하여 ㉯ 공장에서 $36$개 만들었을 때, ㉮ 공장은 필통을 몇 개 만들었습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            360,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "㉮, ㉯ 두 공장에서 필통을 ㉮ 공장은 $1$분에 $4$개씩, ㉯ 공장은 $1$분에 $6$개씩 만듭니다. 두 공장에서 동시에 필통을 만들기 시작하여 ㉯ 공장에서 $36$개 만들었을 때, ㉮ 공장은 필통을 몇 개 만들었습니까?"
+        }
+      ]
+    }
+  ]
+}

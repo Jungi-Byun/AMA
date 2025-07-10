@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00043_25537.png",
+  "id": "00043_25537",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102003",
+      "question_topic_name": "직선 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림과 같이 한 점에서 한쪽으로 끝없이 늘인 곧은 선을 무엇이라고 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            447,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            29,
+            321,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            449,
+            22
+          ],
+          "text": "그림과 같이 한 점에서 한쪽으로 끝없이 늘인 곧은 선을 무엇이라고 합니까?"
+        }
+      ]
+    }
+  ]
+}

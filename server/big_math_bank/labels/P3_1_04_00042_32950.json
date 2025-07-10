@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_04_00042_32950.png",
+  "id": "00042_32950",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숫자 카드 $2,3,4,7$ 중에서 $3$장을 뽑아 곱이 가장 작은 $(두 자리 수) × (한 자리 수)$를 만들고 값을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            708,
+            31
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            710,
+            33
+          ],
+          "text": "숫자 카드 $2,3,4,7$ 중에서 $3$장을 뽑아 곱이 가장 작은 $(두 자리 수) × (한 자리 수)$를 만들고 값을 구하시오."
+        }
+      ]
+    }
+  ]
+}

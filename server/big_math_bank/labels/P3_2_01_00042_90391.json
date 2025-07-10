@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_01_00042_90391.png",
+  "id": "00042_90391",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$안에 알맞은 수를 써넣으시오. (1) $58×27=58×(7+\\square) =(\\square×7)+(58×\\square) = \\square+ \\square= \\square$   (2) $23×43=(23× \\square)+(23×40) =\\square+\\square =\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            174,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            72,
+            51,
+            229,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            138,
+            211,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            72.16,
+            79.94,
+            202.21,
+            110.15
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69.6,
+            110.66,
+            159.2,
+            137.28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            73.69,
+            166.98,
+            198.11,
+            195.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            74.21,
+            196.16,
+            151.01,
+            224.84
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            14.3,
+            1.6,
+            230.37,
+            224.32
+          ],
+          "text": "$\\square$안에 알맞은 수를 써넣으시오. (1) $58×27=58×(7+\\square) =(\\square×7)+(58×\\square) = \\square+ \\square= \\square$   (2) $23×43=(23× \\square)+(23×40) =\\square+\\square =\\square$"
+        }
+      ]
+    }
+  ]
+}

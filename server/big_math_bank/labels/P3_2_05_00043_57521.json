@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00043_57521.png",
+  "id": "00043_57521",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오. (1) $7$L $\\bigcirc 6950$mL (2) $4080$mL $\\bigcirc 4$L $800$mL",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            326,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            26,
+            54,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            61,
+            23,
+            88,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            96,
+            27,
+            150,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            96,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            104,
+            53,
+            130,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            138,
+            56,
+            206,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            328,
+            80
+          ],
+          "text": "들이를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오. (1) $7$L $\\bigcirc 6950$mL (2) $4080$mL $\\bigcirc 4$L $800$mL"
+        }
+      ]
+    }
+  ]
+}

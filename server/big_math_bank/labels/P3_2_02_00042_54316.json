@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00042_54316.png",
+  "id": "00042_54316",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "학생들이 $22$명씩 $3$줄로 서 있습니다. 이 학생들을 $6$모둠으로 똑같게 나누어 달리기 시합을 하려고 합니다. 한 모둠을 몇 명씩으로 하면 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "학생들이 $22$명씩 $3$줄로 서 있습니다. 이 학생들을 $6$모둠으로 똑같게 나누어 달리기 시합을 하려고 합니다. 한 모둠을 몇 명씩으로 하면 됩니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_03_00040_21865.png",
+  "id": "00040_21865",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "전체 사각형을 $1$로 보았을 때, 색칠한 부분은 소수로 얼마입니까?  ① $0.54$ ② $5.4$ ③ $0.64$ ④ $6.4$ ⑤ $54$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            384,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            73,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            190,
+            64,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            212,
+            74,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            234,
+            65,
+            254
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            256,
+            61,
+            276
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            23,
+            166,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            386,
+            22
+          ],
+          "text": "전체 사각형을 $1$로 보았을 때, 색칠한 부분은 소수로 얼마입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            162,
+            117,
+            277
+          ],
+          "text": "① $0.54$ ② $5.4$ ③ $0.64$ ④ $6.4$ ⑤ $54$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_42383.png",
+  "id": "00043_42383",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "방훈이가 부침개를 먹고 전체의 $ \\frac{1}{2} $만큼이 남았습니다. $ \\frac{1}{2} $을 소수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            480,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            40,
+            242,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            482,
+            37
+          ],
+          "text": "방훈이가 부침개를 먹고 전체의 $ \\frac{1}{2} $만큼이 남았습니다. $ \\frac{1}{2} $을 소수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

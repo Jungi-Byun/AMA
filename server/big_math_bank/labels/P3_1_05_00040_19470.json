@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_05_00040_19470.png",
+  "id": "00040_19470",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 시각을 바르게 읽은 것은 어느 것입니까?  ① $9$시 $15$분 $38$초 ② $9$시 $16$분 $38$초 ③ $10$시 $15$분 $38$초 ④ $10$시 $16$분 $38$초 ⑤ $11$시 $15$분 $38$초",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            279,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            141,
+            128,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            163,
+            128,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            185,
+            134,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            207,
+            135,
+            227
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            229,
+            130,
+            249
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            138,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.88,
+            0.01,
+            280.28,
+            16.81
+          ],
+          "text": "다음 시각을 바르게 읽은 것은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            140,
+            137,
+            250
+          ],
+          "text": "① $9$시 $15$분 $38$초 ② $9$시 $16$분 $38$초 ③ $10$시 $15$분 $38$초 ④ $10$시 $16$분 $38$초 ⑤ $11$시 $15$분 $38$초"
+        }
+      ]
+    }
+  ]
+}

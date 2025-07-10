@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_06_00043_59407.png",
+  "id": "00043_59407",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준영이네 고장의 마을별 키위 수확량을 조사하여 나타낸 그림그래프입니다. 준영이네 고장의 전체 키위 수확량은 $1200$상자이고 햇살 마을의 키위 수확량은 바람 마을보다 $20$상자 더 많습니다. 물음에 답하시오. (1) 햇살 마을의 키위 수확량은 몇 상자입니까? (2) 구름 마을의 키위 수확량은 몇 상자입니까? (3) 그림그래프를 완성하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            421,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            259,
+            281,
+            276
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            281,
+            283,
+            298
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            303,
+            188,
+            319
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            51,
+            324,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            0.8,
+            799.7,
+            41.6
+          ],
+          "text": "준영이네 고장의 마을별 키위 수확량을 조사하여 나타낸 그림그래프입니다. 준영이네 고장의 전체 키위 수확량은 $1200$상자이고 햇살 마을의 키위 수확량은 바람 마을보다 $20$상자 더 많습니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            257.6,
+            282.9,
+            319.2
+          ],
+          "text": "(1) 햇살 마을의 키위 수확량은 몇 상자입니까? (2) 구름 마을의 키위 수확량은 몇 상자입니까? (3) 그림그래프를 완성하시오."
+        }
+      ]
+    }
+  ]
+}

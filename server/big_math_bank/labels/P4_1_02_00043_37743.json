@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37743.png",
+  "id": "00043_37743",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102011",
+      "question_topic_name": "각도의 합 또는 차의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "수평인 선과 왼쪽 아래로 향하는 직선이 서로 교차하고, 왼쪽 아래에서 65도의 각을 이루고, 수평인 선과 왼쪽 아래로 향하는 직선이 만나서 위쪽 왼쪽에서 이루는 각에 반직선이 왼쪽 아래로 향하는 직선과 85도, 수평인 직선과 원 문자 가의 각을 이루고, 수평인 선과 왼쪽 아래로 향하는 직선이 만나서 오른쪽 아래에서 이루는 각에 반직선이 왼쪽 아래로 향하는 직선과 35도, 수평인 선과 원 문자 나의 각을 이루는 도형",
+      "question_text": "그림을 보고 ㉮와 ㉯를 각각 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            28,
+            168,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            235,
+            21
+          ],
+          "text": "그림을 보고 ㉮와 ㉯를 각각 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_41816.png",
+  "id": "00043_41816",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\frac{7}{8}$과 $\\frac{6}{8}$중에서 더 큰 수를 알아보려고 합니다. 그림에 각각$\\frac{7}{8},\\frac{6}{8}$만큼 색칠하고 $\\bigcirc$ 안에 $>$, $<$를 알맞게 써넣으시오. $ \\frac{7}{8} \\bigcirc \\frac{6}{8} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            704,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            145,
+            147,
+            224,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            52,
+            323,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            706,
+            38
+          ],
+          "text": "$\\frac{7}{8}$과 $\\frac{6}{8}$중에서 더 큰 수를 알아보려고 합니다. 그림에 각각$\\frac{7}{8},\\frac{6}{8}$만큼 색칠하고 $\\bigcirc$ 안에 $>$, $<$를 알맞게 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            143,
+            145,
+            226,
+            185
+          ],
+          "text": "$ \\frac{7}{8} \\bigcirc \\frac{6}{8} $"
+        }
+      ]
+    }
+  ]
+}

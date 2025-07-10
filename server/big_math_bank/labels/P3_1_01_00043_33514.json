@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_01_00043_33514.png",
+  "id": "00043_33514",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은영이와 현우의 대화 내용을 보고 은영이네 학교의 여학생은 몇 명인지 구하시오. 은영: 우리 학교 학생 수는 너희 학교와 같아 현우: 우리 학교 남학생은 $226$명이고, 여학생은 $284$명이야.은영: 우리 학교 남학생은 $217$명이야. 현우: 그럼, 너희 학교 여학생은 몇 명이야?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            481,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            27,
+            275,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            53,
+            363,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            73,
+            236,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            95,
+            270,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            487,
+            121
+          ],
+          "text": "은영이와 현우의 대화 내용을 보고 은영이네 학교의 여학생은 몇 명인지 구하시오. 은영: 우리 학교 학생 수는 너희 학교와 같아 현우: 우리 학교 남학생은 $226$명이고, 여학생은 $284$명이야.은영: 우리 학교 남학생은 $217$명이야. 현우: 그럼, 너희 학교 여학생은 몇 명이야?"
+        }
+      ]
+    }
+  ]
+}

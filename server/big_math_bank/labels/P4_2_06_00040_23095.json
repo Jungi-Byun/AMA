@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_06_00040_23095.png",
+  "id": "00040_23095",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206003",
+      "question_topic_name": "대각선 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "사각형 ㅁㅂㅅㅇ에서 네 변 ㅁㅂ, ㅂㅅ, ㅅㅇ, ㅇㅁ의 위에 있는 각각의 점 ㄱ, ㄴ, ㄷ, ㄹ로 이뤄진 사각형 ㄱㄴㄷㄹ",
+      "question_text": "사각형 $ㅁㅂㅅㅇ$의 넓이는 사각형 $ㄱㄴㄷㄹ$의 넓이의 몇 배입니까? ①$2$배 ②$3$배 ③$4$배 ④$5$배 ⑤$6$배",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            397,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            143,
+            65,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            165,
+            65,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            187,
+            65,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            209,
+            64,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            231,
+            65,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            182,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            399,
+            21
+          ],
+          "text": "사각형 $ㅁㅂㅅㅇ$의 넓이는 사각형 $ㄱㄴㄷㄹ$의 넓이의 몇 배입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            142,
+            67,
+            252
+          ],
+          "text": "①$2$배 ②$3$배 ③$4$배 ④$5$배 ⑤$6$배"
+        }
+      ]
+    }
+  ]
+}

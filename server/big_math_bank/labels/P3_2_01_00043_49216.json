@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49216.png",
+  "id": "00043_49216",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201005",
+      "question_topic_name": "일, 십, 백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 계산에서 잘못된 곳을 찾아 바르게 고쳐 보시오. $ \\begin{array}{r}371 \\\\ \\times  2 \\\\ \\hline 6142\\end{array}  \\Rightarrow  \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            317,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            32,
+            136,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            100
+          ],
+          "text": "다음 계산에서 잘못된 곳을 찾아 바르게 고쳐 보시오. $ \\begin{array}{r}371 \\\\ \\times  2 \\\\ \\hline 6142\\end{array}  \\Rightarrow  \\square $"
+        }
+      ]
+    }
+  ]
+}

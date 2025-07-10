@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_05_00043_42616.png",
+  "id": "00043_42616",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "네 명의 어린이가 표와 같이 초콜릿을 가지고 있었는데, 각각 $5$개씩 먹었습니다. 먹고 남은 초콜릿 수를 막대그래프로 나타내었을 때, 표와 막대그래프를 각각 완성하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            196,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            53,
+            247,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            81,
+            318,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            43,
+            145,
+            304,
+            279
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            136
+          ],
+          "text": "네 명의 어린이가 표와 같이 초콜릿을 가지고 있었는데, 각각 $5$개씩 먹었습니다. 먹고 남은 초콜릿 수를 막대그래프로 나타내었을 때, 표와 막대그래프를 각각 완성하시오."
+        }
+      ]
+    }
+  ]
+}

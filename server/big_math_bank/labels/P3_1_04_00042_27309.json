@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_04_00042_27309.png",
+  "id": "00042_27309",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 28 cm인 테이프 3개가 3 cm씩 겹쳐지게 이어져 있고 줄임표를 뜻하는 점 세 개가 오른쪽 옆에 있는 그림",
+      "question_text": "길이가 $28 cm$인 색 테이프 $5$개를 그림과 같이 이어 붙였습니다. 겹친 부분의 길이가 $3 cm$라면, 이어 붙인 색 테이프 전체의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            52,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            45,
+            289,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "길이가 $28 cm$인 색 테이프 $5$개를 그림과 같이 이어 붙였습니다. 겹친 부분의 길이가 $3 cm$라면, 이어 붙인 색 테이프 전체의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

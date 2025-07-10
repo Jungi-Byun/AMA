@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_05_00043_58728.png",
+  "id": "00043_58728",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "상우의 체온을 조사하여 나타낸 꺾은선그래프입니다. 물음에 답하시오.  ⑴ 그래프 ㈎와 ㈏ 중에서 체온의 변화를 뚜렷하게 알 수 있는 것은 어느 것입니까?  ⑵ 알맞은 말에 $\\bigcirc$표 하시오.  꺾은선그래프에서 세로 눈금 한 칸의 크기가 ( 클수록 , 작을수록 ) 변화하는 모양을 뚜렷하게 알 수 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            417,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            202,
+            483,
+            219
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            224,
+            178,
+            241
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            246,
+            629,
+            263
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            24,
+            324,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            420,
+            22
+          ],
+          "text": "상우의 체온을 조사하여 나타낸 꺾은선그래프입니다. 물음에 답하시오.  ⑴ 그래프 ㈎와 ㈏ 중에서 체온의 변화를 뚜렷하게 알 수 있는 것은 어느 것입니까?  ⑵ 알맞은 말에 $\\bigcirc$표 하시오.  꺾은선그래프에서 세로 눈금 한 칸의 크기가 ( 클수록 , 작을수록 ) 변화하는 모양을 뚜렷하게 알 수 있습니다."
+        }
+      ]
+    }
+  ]
+}

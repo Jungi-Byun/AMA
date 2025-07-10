@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00042_53619.png",
+  "id": "00042_53619",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경인이네 반 주전자에 물을 가득 채우려면 ㉮, ㉯, ㉰ 컵으로 각각 다음과 같이 물을 부어야 합니다. 물음에 답하시오. ㉮ 컵：$8$번 ㉯ 컵：$3$번 ㉰ 컵：$16$번 (1) 주전자의 들이는 ㉮ 컵 들이의 몇 배입니까? (2) 어느 컵의 들이가 가장 많습니까",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            669,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            21,
+            262,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            285,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            223,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            675,
+            100
+          ],
+          "text": "경인이네 반 주전자에 물을 가득 채우려면 ㉮, ㉯, ㉰ 컵으로 각각 다음과 같이 물을 부어야 합니다. 물음에 답하시오. ㉮ 컵：$8$번 ㉯ 컵：$3$번 ㉰ 컵：$16$번 (1) 주전자의 들이는 ㉮ 컵 들이의 몇 배입니까? (2) 어느 컵의 들이가 가장 많습니까"
+        }
+      ]
+    }
+  ]
+}

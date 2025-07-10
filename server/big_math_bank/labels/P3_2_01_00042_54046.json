@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00042_54046.png",
+  "id": "00042_54046",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 미술관의 입장료가 어린이는 $370$원이고, 어른은 어린이의 $3$배보다 $200$원 쌉니다. 어른 $5$명과 어린이 $8$명의 입장료로 $8000$원을 냈더니 거스름돈을 동전으로 $9$개 주었습니다. 거스름돈으로 받은 동전은 어떤 동전이 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            563,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            41
+          ],
+          "text": "어느 미술관의 입장료가 어린이는 $370$원이고, 어른은 어린이의 $3$배보다 $200$원 쌉니다. 어른 $5$명과 어린이 $8$명의 입장료로 $8000$원을 냈더니 거스름돈을 동전으로 $9$개 주었습니다. 거스름돈으로 받은 동전은 어떤 동전이 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

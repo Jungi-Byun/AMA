@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00043_51367.png",
+  "id": "00043_51367",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "옛날 중국에서 전해오던 수학책인 구장산술의 제$7$장 영부족(많거나 부족한 것)에 나온 문제입니다. 물건 값이 $50$전보다 많고 $55$전보다 적다고 할 때 물건 값을 구하시오. 지금 공동으로 물건을 구입한다고 할 때, 각 사람들이 $8$전씩 내면 $3$전이 남고, 각 사람이 $7$전씩 내면 $4$전이 부족하다고 한다. 사람 수와 물건 값은 각각 얼마인가?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            792,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            195,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            43,
+            803,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            79,
+            166,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            97
+          ],
+          "text": "옛날 중국에서 전해오던 수학책인 구장산술의 제$7$장 영부족(많거나 부족한 것)에 나온 문제입니다. 물건 값이 $50$전보다 많고 $55$전보다 적다고 할 때 물건 값을 구하시오. 지금 공동으로 물건을 구입한다고 할 때, 각 사람들이 $8$전씩 내면 $3$전이 남고, 각 사람이 $7$전씩 내면 $4$전이 부족하다고 한다. 사람 수와 물건 값은 각각 얼마인가?"
+        }
+      ]
+    }
+  ]
+}

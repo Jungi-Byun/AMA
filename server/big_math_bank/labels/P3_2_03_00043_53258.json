@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53258.png",
+  "id": "00043_53258",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "중심이 점 ㅇ인 원에 길이가 3 cm인 반지름, 길이가 4 cm인 현이 겹치지 않게 그어진 도형",
+      "question_text": "점 $O$은 원의 중심입니다. 원의 반지름을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            29,
+            132,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            306,
+            22
+          ],
+          "text": "점 $O$은 원의 중심입니다. 원의 반지름을 구하시오."
+        }
+      ]
+    }
+  ]
+}

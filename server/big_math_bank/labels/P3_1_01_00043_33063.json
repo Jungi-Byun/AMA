@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33063.png",
+  "id": "00043_33063",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 개의 탑 가, 나, 다가 있습니다. 가 탑의 높이는 나 탑보다 $177cm$ 더 높고, 다 탑의 높이는 나 탑보다 $259cm$ 더 높습니다. 나 탑의 높이가 $298cm$일 때 세 탑의 높이의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            590,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            500,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            592,
+            41
+          ],
+          "text": "세 개의 탑 가, 나, 다가 있습니다. 가 탑의 높이는 나 탑보다 $177cm$ 더 높고, 다 탑의 높이는 나 탑보다 $259cm$ 더 높습니다. 나 탑의 높이가 $298cm$일 때 세 탑의 높이의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

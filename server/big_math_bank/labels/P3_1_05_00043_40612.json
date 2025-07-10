@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_05_00043_40612.png",
+  "id": "00043_40612",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105002",
+      "question_topic_name": "몇 cm 몇 mm 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 알맞은 단위에 $\\bigcirc$표 하시오. 연필심의 길이는 $7$ ($cm$, $mm$, $m$) 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34.17,
+            84.65,
+            317.17,
+            107.65
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            54,
+            47,
+            297,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            0,
+            247.1,
+            17.4
+          ],
+          "text": "그림을 보고 알맞은 단위에 $\\bigcirc$표 하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            34.1,
+            84.4,
+            317.1,
+            106.4
+          ],
+          "text": "연필심의 길이는 $7$ ($cm$, $mm$, $m$) 입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37177.png",
+  "id": "00043_37177",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102006",
+      "question_topic_name": "예각과 둔각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "명훈이는 학원에 가기 위해 시계를 보았습니다. 시계의 긴바늘과 짧은바늘이 이루는 작은 쪽의 각을 예각, 직각, 둔각으로 구분하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            767,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            25,
+            327,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            769,
+            24
+          ],
+          "text": "명훈이는 학원에 가기 위해 시계를 보았습니다. 시계의 긴바늘과 짧은바늘이 이루는 작은 쪽의 각을 예각, 직각, 둔각으로 구분하시오."
+        }
+      ]
+    }
+  ]
+}

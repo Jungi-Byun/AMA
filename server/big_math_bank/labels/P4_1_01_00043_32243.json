@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_01_00043_32243.png",
+  "id": "00043_32243",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억 단위 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 숫자 카드를 각각 두 번까지 사용하여 억의 자리 숫자가 $7$인 가장 작은 $10$자리 수를 만들었습니다. 만든 수를 $10$배 한 수의 천만의 자리 숫자는 얼마입니까?  $\\boxed{5} \\boxed{8} \\boxed{2} \\boxed{6} \\boxed{1} \\boxed{7} \\boxed{0}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            763,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            178,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            44,
+            144,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            68
+          ],
+          "text": "다음 숫자 카드를 각각 두 번까지 사용하여 억의 자리 숫자가 $7$인 가장 작은 $10$자리 수를 만들었습니다. 만든 수를 $10$배 한 수의 천만의 자리 숫자는 얼마입니까?  $\\boxed{5} \\boxed{8} \\boxed{2} \\boxed{6} \\boxed{1} \\boxed{7} \\boxed{0}$"
+        }
+      ]
+    }
+  ]
+}

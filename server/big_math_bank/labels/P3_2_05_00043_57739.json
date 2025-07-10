@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_57739.png",
+  "id": "00043_57739",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수준이와 지웅이는 약수터에서 물을 떠 왔습니다. 수준이는 어제 $2L 495mL$, 오늘 $1L 980mL$를 떠 왔고 지웅이는 어제 $1L 870mL$, 오늘 $2L 340mL$를 떠 왔습니다. 이틀 동안 누가 물을 더 많이 떠왔는지 알아보시오. (1) 이틀 동안 수준이가 떠 온 물의 양은 몇 $L$ 몇 $mL$입니까? (2) 이틀 동안 지웅이가 떠 온 물의 양은 몇 $L$ 몇 $mL$입니까? (3) 이틀 동안 누가 물을 더 많이 떠 왔습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            439,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            352,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            355,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            278,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            106
+          ],
+          "text": "수준이와 지웅이는 약수터에서 물을 떠 왔습니다. 수준이는 어제 $2L 495mL$, 오늘 $1L 980mL$를 떠 왔고 지웅이는 어제 $1L 870mL$, 오늘 $2L 340mL$를 떠 왔습니다. 이틀 동안 누가 물을 더 많이 떠왔는지 알아보시오. (1) 이틀 동안 수준이가 떠 온 물의 양은 몇 $L$ 몇 $mL$입니까? (2) 이틀 동안 지웅이가 떠 온 물의 양은 몇 $L$ 몇 $mL$입니까? (3) 이틀 동안 누가 물을 더 많이 떠 왔습니까?"
+        }
+      ]
+    }
+  ]
+}

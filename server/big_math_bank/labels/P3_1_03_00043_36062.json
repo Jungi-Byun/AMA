@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00043_36062.png",
+  "id": "00043_36062",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영은이는 모양이 $5$개인 쿠키틀을 가지고 있고, 병우는 모양이 $6$개인 쿠키틀을 가지고 있습니다. 영은이가 쿠키를 $40$개 만드는 데 $32$분이 걸렸습니다. 영은이가 한 틀을 찍어내는 데 걸리는 시간보다 병우가 한 틀을 찍어내는 데 $1$분이 더 걸린다고 합니다. 각각 쿠키를 찍어내는 빠르기가 일정할 때, 병우가 쿠키를 $30$개 만드는 데 걸리는 시간은 몇 분입니까? (단, 중간에 쉬는 시간은 없습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            795,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            658,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            62
+          ],
+          "text": "영은이는 모양이 $5$개인 쿠키틀을 가지고 있고, 병우는 모양이 $6$개인 쿠키틀을 가지고 있습니다. 영은이가 쿠키를 $40$개 만드는 데 $32$분이 걸렸습니다. 영은이가 한 틀을 찍어내는 데 걸리는 시간보다 병우가 한 틀을 찍어내는 데 $1$분이 더 걸린다고 합니다. 각각 쿠키를 찍어내는 빠르기가 일정할 때, 병우가 쿠키를 $30$개 만드는 데 걸리는 시간은 몇 분입니까? (단, 중간에 쉬는 시간은 없습니다.)"
+        }
+      ]
+    }
+  ]
+}

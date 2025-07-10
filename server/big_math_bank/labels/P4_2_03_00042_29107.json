@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00042_29107.png",
+  "id": "00042_29107",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203004",
+      "question_topic_name": "소수의 크기를 비교하는 방법 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "생략할 수 있는 $0$이 있는 소수는 어느 것입니까? ① $0.003$ ② $1.019$ ③ $4.005$ ④ $12.30$ ⑤ $87.601$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            292,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            83,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            76,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            82,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            78,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            85,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            294,
+            130
+          ],
+          "text": "생략할 수 있는 $0$이 있는 소수는 어느 것입니까? ① $0.003$ ② $1.019$ ③ $4.005$ ④ $12.30$ ⑤ $87.601$"
+        }
+      ]
+    }
+  ]
+}

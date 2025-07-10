@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38693.png",
+  "id": "00043_38693",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201008",
+      "question_topic_name": "분모가 같은 대분수끼리 덧셈에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산 결과의 크기를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오. 23$\\frac{2}{5}$+17$\\frac{4}{5}  \\bigcirc $ 21$\\frac{3}{5}$+22$\\frac{4}{5}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            398,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            24,
+            230,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            400,
+            58
+          ],
+          "text": "계산 결과의 크기를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으시오. 23$\\frac{2}{5}$+17$\\frac{4}{5}  \\bigcirc $ 21$\\frac{3}{5}$+22$\\frac{4}{5}$"
+        }
+      ]
+    }
+  ]
+}

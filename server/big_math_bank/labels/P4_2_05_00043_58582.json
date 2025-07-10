@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_05_00043_58582.png",
+  "id": "00043_58582",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "꺾은선그래프를 그리는 순서대로 $\\square$안에 알맞은 기호를 써넣으시오. ㉠ 세로 눈금 한 칸의 크기 정하기㉡ 가로 눈금과 세로 눈금이 만나는 자리에 점 찍기㉢ 가로와 세로 눈금 정하기㉣ 점들을 선분으로 연결하기㉤ 그래프의 제목 쓰기 $\\square \\rightarrow \\square \\rightarrow \\square \\rightarrow \\square \\rightarrow \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            406,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            219,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            316,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            74,
+            187,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            97,
+            196,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            119,
+            158,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            144,
+            299,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            168
+          ],
+          "text": "꺾은선그래프를 그리는 순서대로 $\\square$안에 알맞은 기호를 써넣으시오. ㉠ 세로 눈금 한 칸의 크기 정하기㉡ 가로 눈금과 세로 눈금이 만나는 자리에 점 찍기㉢ 가로와 세로 눈금 정하기㉣ 점들을 선분으로 연결하기㉤ 그래프의 제목 쓰기 $\\square \\rightarrow \\square \\rightarrow \\square \\rightarrow \\square \\rightarrow \\square$"
+        }
+      ]
+    }
+  ]
+}

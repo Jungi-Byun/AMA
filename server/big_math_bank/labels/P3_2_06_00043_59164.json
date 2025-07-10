@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_06_00043_59164.png",
+  "id": "00043_59164",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "표를 보고 그래프로 나타내었습니다. 물음에 답하시오. <table border> <caption>계절별로 태어난 학생 수</caption>   <tbody>     <tr>       <td>계절</td>       <td>봄</td>       <td>여름</td>       <td>가을</td>       <td>겨울</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수</td>       <td>$26$</td>       <td>$41$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> ⑴ 위와 같이 조사한 수를 그림으로 나타낸 그래프를 무엇이라고 합니까? ⑵ (웃는 얼굴)은 몇 명을 나타냅니까? ⑶ (웃는 얼굴)은 몇 명을 나타냅니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            325,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            93,
+            32,
+            258,
+            51
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            58,
+            325,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            391,
+            430,
+            408
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            416,
+            207,
+            443
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            454,
+            201,
+            473
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            150,
+            325,
+            383
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            327,
+            123
+          ],
+          "text": "표를 보고 그래프로 나타내었습니다. 물음에 답하시오. <table border> <caption>계절별로 태어난 학생 수</caption>   <tbody>     <tr>       <td>계절</td>       <td>봄</td>       <td>여름</td>       <td>가을</td>       <td>겨울</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수</td>       <td>$26$</td>       <td>$41$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            390,
+            432,
+            474
+          ],
+          "text": "⑴ 위와 같이 조사한 수를 그림으로 나타낸 그래프를 무엇이라고 합니까? ⑵ (웃는 얼굴)은 몇 명을 나타냅니까? ⑶ (웃는 얼굴)은 몇 명을 나타냅니까?"
+        }
+      ]
+    }
+  ]
+}

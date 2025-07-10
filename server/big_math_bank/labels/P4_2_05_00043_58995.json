@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_05_00043_58995.png",
+  "id": "00043_58995",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "신도시 A시의 연도별 인구를 나타낸 표입니다. 인구의 변화를 알아보는 데 알맞은 그래프로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            600,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            50,
+            67,
+            290,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            49,
+            85,
+            288,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            46,
+            102,
+            227,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            116,
+            126,
+            206,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            35,
+            144,
+            282,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            38,
+            263,
+            317,
+            468
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            604,
+            214
+          ],
+          "text": "신도시 A시의 연도별 인구를 나타낸 표입니다. 인구의 변화를 알아보는 데 알맞은 그래프로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

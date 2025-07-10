@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00042_31181.png",
+  "id": "00042_31181",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진분수는 어느 것입니까?  ① $ \\frac{13}{2} $ ② $ \\frac{39}{8} $ ③ $ \\frac{7}{7} $ ④ $ \\frac{20}{21} $ ⑤ $ \\frac{15}{14} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            162,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            72,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            72,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            63,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            72,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            72,
+            222
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            164,
+            223
+          ],
+          "text": "진분수는 어느 것입니까?  ① $ \\frac{13}{2} $ ② $ \\frac{39}{8} $ ③ $ \\frac{7}{7} $ ④ $ \\frac{20}{21} $ ⑤ $ \\frac{15}{14} $"
+        }
+      ]
+    }
+  ]
+}

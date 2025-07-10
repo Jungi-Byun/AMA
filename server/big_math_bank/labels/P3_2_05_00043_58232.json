@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58232.png",
+  "id": "00043_58232",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "채윤이의 몸무게는 $32kg~600$g입니다. 동생의 몸무게는 채윤이의 몸무게보다 $4kg~800$g이 가볍고, 언니의 몸무게는 채윤이의 몸무게보다 $7kg~500$g 더 무겁습니다. 동생과 언니의 몸무게의 합은 몇 $kg$ 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            441,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "채윤이의 몸무게는 $32kg~600$g입니다. 동생의 몸무게는 채윤이의 몸무게보다 $4kg~800$g이 가볍고, 언니의 몸무게는 채윤이의 몸무게보다 $7kg~500$g 더 무겁습니다. 동생과 언니의 몸무게의 합은 몇 $kg$ 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

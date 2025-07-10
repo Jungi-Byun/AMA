@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_01_00043_38626.png",
+  "id": "00043_38626",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "푸른 산 그림을 배경으로 아래쪽에 입구를 표시한 점에서 4와 5분의 2 km 길이의 좌상향하는 직선 위의 점이 약수터이고 약수터에서 7과 5분의 3 km 길이의 오른쪽 위로 향하는 직선 위의 점이 산 정상이며 산 정상에서 2와 5분의 4 km 길이의 우하향하는 직선 위의 점이 체력단련장이고 체력단련장에서 8과 5분의 3 km 길이의 좌하향하는 직선이 입구의 점과 만나는 그림",
+      "question_text": "명훈이가 입구에서 정상까지 오르려는 데 두 가지 등산로가 있습니다. 어디를 지나서 가는 것이 더 가까운지 알아보시오. ⑴ 약수터를 지나서 갈 때의 거리는 몇 $km$입니까?⑵ 체력 단련장을 1지나서 갈 때의 거리는 몇 $km$입니까?⑶ 약수터와 체력 단련장 중 어디를 지나서 가는 것이 더 가깝습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            692,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            178,
+            301,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            200,
+            331,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            222,
+            408,
+            239
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            27,
+            273,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.72,
+            0,
+            692.72,
+            17.16
+          ],
+          "text": "명훈이가 입구에서 정상까지 오르려는 데 두 가지 등산로가 있습니다. 어디를 지나서 가는 것이 더 가까운지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            177,
+            410,
+            240
+          ],
+          "text": "⑴ 약수터를 지나서 갈 때의 거리는 몇 $km$입니까?⑵ 체력 단련장을 1지나서 갈 때의 거리는 몇 $km$입니까?⑶ 약수터와 체력 단련장 중 어디를 지나서 가는 것이 더 가깝습니까?"
+        }
+      ]
+    }
+  ]
+}

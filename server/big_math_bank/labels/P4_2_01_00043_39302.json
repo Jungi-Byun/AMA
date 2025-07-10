@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_01_00043_39302.png",
+  "id": "00043_39302",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1$부터 $12$까지 쓰여진 수 카드 중에서 $5$장을 뽑아 다음과 같은 대분수의 덧셈식을 만들었습니다. 계산 결과가 가장 큰 식의 값을 구하시오. (다만, 같은 모양은 같은 수를 나타냅니다.) $ \\blacktriangle \\frac{\\bullet}{\\blacksquare}+♥\\frac{{\\bigstar}}{\\blacksquare} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            784,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            259,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            47,
+            115,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            787,
+            41
+          ],
+          "text": "$1$부터 $12$까지 쓰여진 수 카드 중에서 $5$장을 뽑아 다음과 같은 대분수의 덧셈식을 만들었습니다. 계산 결과가 가장 큰 식의 값을 구하시오. (다만, 같은 모양은 같은 수를 나타냅니다.) $ \\blacktriangle \\frac{\\bullet}{\\blacksquare}+♥\\frac{{\\bigstar}}{\\blacksquare} $"
+        }
+      ]
+    }
+  ]
+}

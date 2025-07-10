@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_57678.png",
+  "id": "00043_57678",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이의 합을 비교하여 $\\bigcirc$ 안에 $>,=,<$를 알맞게 써넣으시오. $ \\begin{array}{r}3 L ~440 \\mathrm{mL} \\\\ +5 L ~700 \\mathrm{mL} \\\\ \\hline\\end{array}  \\bigcirc  \\begin{array}{r}7 L ~960 \\mathrm{mL} \\\\ +1 L ~300 \\mathrm{mL} \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            354,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            22,
+            156,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            218,
+            22,
+            340,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            174,
+            41,
+            200,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            358,
+            100
+          ],
+          "text": "들이의 합을 비교하여 $\\bigcirc$ 안에 $>,=,<$를 알맞게 써넣으시오. $ \\begin{array}{r}3 L ~440 \\mathrm{mL} \\\\ +5 L ~700 \\mathrm{mL} \\\\ \\hline\\end{array}  \\bigcirc  \\begin{array}{r}7 L ~960 \\mathrm{mL} \\\\ +1 L ~300 \\mathrm{mL} \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

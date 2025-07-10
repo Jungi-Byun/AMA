@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58196.png",
+  "id": "00043_58196",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성주, 연태, 민욱이가 역도 시합 후 나눈 대화입니다. 민욱이의 기록은 몇 $\\mathrm{kg} $몇 $\\mathrm{g} $입니까?  성주 : 어제 기록은 $ 56\\mathrm{~kg}\\;500\\mathrm{~g} $이었는데 오늘은 어제보다 $ 2\\mathrm{~kg}\\;700\\mathrm{~g} $ 더 많이 들었어.   연태 : 난 성주가 오늘 든 것보다 $ 4\\mathrm{~kg}\\;700\\mathrm{~g} $ 적게 들었어.   민욱 : 난 연태보다 $ 1\\mathrm{~kg}\\;400\\mathrm{~g} $ 적게 들었어. 더 열심히 훈련해야겠다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            515,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            504,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            54,
+            347,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            76,
+            411,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            526,
+            95
+          ],
+          "text": "성주, 연태, 민욱이가 역도 시합 후 나눈 대화입니다. 민욱이의 기록은 몇 $\\mathrm{kg} $몇 $\\mathrm{g} $입니까?  성주 : 어제 기록은 $ 56\\mathrm{~kg}\\;500\\mathrm{~g} $이었는데 오늘은 어제보다 $ 2\\mathrm{~kg}\\;700\\mathrm{~g} $ 더 많이 들었어.   연태 : 난 성주가 오늘 든 것보다 $ 4\\mathrm{~kg}\\;700\\mathrm{~g} $ 적게 들었어.   민욱 : 난 연태보다 $ 1\\mathrm{~kg}\\;400\\mathrm{~g} $ 적게 들었어. 더 열심히 훈련해야겠다."
+        }
+      ]
+    }
+  ]
+}

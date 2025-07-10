@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_01_00043_38800.png",
+  "id": "00043_38800",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사람의 머리카락과 손톱, 발톱은 일정한 빠르기로 자란다고 합니다. 사람마다 다르지만 머리카락, 손톱, 발톱이 일주일 동안 자라는 길이는 보통 다음과 같습니다. ㆍ일주일 동안 자라는 머리카락의 길이 : $ 2 \\frac{1}{10} $mmㆍ일주일 동안 자라는 손톱의 길이 : 1mmㆍ일주일 동안 자라는 발톱의 길이 : $ \\frac{1}{4} $mm ⑴ 머리카락이 4주 동안 자라는 길이는 몇 mm입니까?⑵ 발톱이 4주 동안 자라는 길이는 몇 mm입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            145,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            50,
+            328,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            92,
+            265,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            113,
+            287,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            158,
+            327,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            180,
+            302,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            198
+          ],
+          "text": "사람의 머리카락과 손톱, 발톱은 일정한 빠르기로 자란다고 합니다. 사람마다 다르지만 머리카락, 손톱, 발톱이 일주일 동안 자라는 길이는 보통 다음과 같습니다. ㆍ일주일 동안 자라는 머리카락의 길이 : $ 2 \\frac{1}{10} $mmㆍ일주일 동안 자라는 손톱의 길이 : 1mmㆍ일주일 동안 자라는 발톱의 길이 : $ \\frac{1}{4} $mm ⑴ 머리카락이 4주 동안 자라는 길이는 몇 mm입니까?⑵ 발톱이 4주 동안 자라는 길이는 몇 mm입니까?"
+        }
+      ]
+    }
+  ]
+}

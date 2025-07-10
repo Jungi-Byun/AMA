@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_57832.png",
+  "id": "00043_57832",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205014",
+      "question_topic_name": "무게 직접 비교하기 _ 양손으로 들어서 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "(1) 가장 가벼운 물건은 어느 것입니까?  (2) 물건의 무게를 어떤 방법으로 비교할 수 있는지 설명하시오. 연필, 지우개, 필통의 무게를 비교하려고 합니다. 물음에 답하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            390,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            103,
+            239,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            125,
+            376,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            24,
+            281,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            101,
+            378,
+            144
+          ],
+          "text": "(1) 가장 가벼운 물건은 어느 것입니까?  (2) 물건의 무게를 어떤 방법으로 비교할 수 있는지 설명하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.89,
+            2.08,
+            390.49,
+            16.33
+          ],
+          "text": "연필, 지우개, 필통의 무게를 비교하려고 합니다. 물음에 답하시오. "
+        }
+      ]
+    }
+  ]
+}

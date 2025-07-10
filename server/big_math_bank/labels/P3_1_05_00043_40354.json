@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_40354.png",
+  "id": "00043_40354",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진웅이와 창민이는 도서관에서 학교까지 빨리 달리기로 하여 진웅이는 $2$분 $10$초가 걸렸고 창민이는 $140$초가 걸렸습니다. 진웅이와 창민이 중에서 더 빨리 달린 사람은 누구입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            250,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            40
+          ],
+          "text": "진웅이와 창민이는 도서관에서 학교까지 빨리 달리기로 하여 진웅이는 $2$분 $10$초가 걸렸고 창민이는 $140$초가 걸렸습니다. 진웅이와 창민이 중에서 더 빨리 달린 사람은 누구입니까?"
+        }
+      ]
+    }
+  ]
+}

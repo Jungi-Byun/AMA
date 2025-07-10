@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_03_00043_53507.png",
+  "id": "00043_53507",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "메스실린더에 들어 있는 오렌지 주스를 유리컵에 모두 부었습니다. 유리컵의 지름은 몇$ cm$입니까? ㆍ메스실린더의 반지름 : $1 cm$ ㆍ유리컵의 반지름 : 메스실린더의 반지름보다 $2 cm$ 더 긺. <실험 결과 알게 된 점> 액체는 담는 그릇에 따라 모양은 변하지만 양은 변하지 않음.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            574,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            203,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            55,
+            358,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            73,
+            163,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            97,
+            367,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            576,
+            123
+          ],
+          "text": "메스실린더에 들어 있는 오렌지 주스를 유리컵에 모두 부었습니다. 유리컵의 지름은 몇$ cm$입니까? ㆍ메스실린더의 반지름 : $1 cm$ ㆍ유리컵의 반지름 : 메스실린더의 반지름보다 $2 cm$ 더 긺. <실험 결과 알게 된 점> 액체는 담는 그릇에 따라 모양은 변하지만 양은 변하지 않음."
+        }
+      ]
+    }
+  ]
+}

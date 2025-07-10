@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_06_00043_41488.png",
+  "id": "00043_41488",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "타일에 그림과 같이 붙임 딱지를 붙이고 있습니다. 물음에 답하시오. ⑴ 타일 $10$장을 붙이려면 체리 붙임 딱지와 별 붙임 딱지는 각각 몇 개가 필요합니까? ⑵ 체리 붙임 딱지가 $25$개, 별 붙임 딱지가 $9$개이면 타일을 몇 장까지 붙일 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            399,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            133,
+            498,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            155,
+            514,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            33,
+            318,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            401,
+            22
+          ],
+          "text": "타일에 그림과 같이 붙임 딱지를 붙이고 있습니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            131,
+            516,
+            174
+          ],
+          "text": "⑴ 타일 $10$장을 붙이려면 체리 붙임 딱지와 별 붙임 딱지는 각각 몇 개가 필요합니까? ⑵ 체리 붙임 딱지가 $25$개, 별 붙임 딱지가 $9$개이면 타일을 몇 장까지 붙일 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

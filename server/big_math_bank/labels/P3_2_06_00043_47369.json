@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_06_00043_47369.png",
+  "id": "00043_47369",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "좋아하는 계절별 학생 수를 한눈에 비교하기에 더 편리한 것은 자료와 표 중 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            534,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            536,
+            21
+          ],
+          "text": "좋아하는 계절별 학생 수를 한눈에 비교하기에 더 편리한 것은 자료와 표 중 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

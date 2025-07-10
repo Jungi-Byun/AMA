@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00042_53710.png",
+  "id": "00042_53710",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게를 나타내는 데 $\\mathrm{kg}$과 $\\mathrm{g}$ 중 어느 것이 적당한지 찾아 $( )$ 안에 기호를 쓰시오. ㉠ 어머니의 몸무게 ㉡ 고구마 $1$개의 무게㉢ 쌀 한 가마니의 무게 ㉣ 껌 $1$통의 무게 $\\mathrm{kg}(\\qquad$ ), $\\mathrm{g}(\\qquad$ )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            481,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            144,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            55,
+            152,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            75,
+            163,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            98,
+            128,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            485,
+            125
+          ],
+          "text": "무게를 나타내는 데 $\\mathrm{kg}$과 $\\mathrm{g}$ 중 어느 것이 적당한지 찾아 $( )$ 안에 기호를 쓰시오. ㉠ 어머니의 몸무게 ㉡ 고구마 $1$개의 무게㉢ 쌀 한 가마니의 무게 ㉣ 껌 $1$통의 무게 $\\mathrm{kg}(\\qquad$ ), $\\mathrm{g}(\\qquad$ )"
+        }
+      ]
+    }
+  ]
+}

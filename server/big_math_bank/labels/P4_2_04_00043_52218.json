@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00043_52218.png",
+  "id": "00043_52218",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204001",
+      "question_topic_name": "수직 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 물음에 답하시오.  (1) 직선 나에 수직인 직선은 어느 것입니까? (2) 직선 마에 대한 수선을 모두 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            155,
+            268,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            177,
+            270,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            33,
+            202,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.28,
+            0.56,
+            189.08,
+            18.16
+          ],
+          "text": "그림을 보고 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            153,
+            272,
+            195
+          ],
+          "text": "(1) 직선 나에 수직인 직선은 어느 것입니까? (2) 직선 마에 대한 수선을 모두 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

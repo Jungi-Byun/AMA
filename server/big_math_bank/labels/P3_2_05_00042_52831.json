@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00042_52831.png",
+  "id": "00042_52831",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "O 안에 >, =, <를 알맞게 써넣으시오.  (1) $1050mL  \\bigcirc  1L 5mL$ (2) $7L 999mL  \\bigcirc  8L$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            227,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            26,
+            90,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            97,
+            23,
+            124,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            135,
+            27,
+            181,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            104,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            111,
+            53,
+            138,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            146,
+            57,
+            164,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            229,
+            80
+          ],
+          "text": "O 안에 >, =, <를 알맞게 써넣으시오.  (1) $1050mL  \\bigcirc  1L 5mL$ (2) $7L 999mL  \\bigcirc  8L$"
+        }
+      ]
+    }
+  ]
+}

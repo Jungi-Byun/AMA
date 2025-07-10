@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_41059.png",
+  "id": "00043_41059",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "동명이네 학교는 $1$교시가 $8$시 $50$분에 시작되어 $40$분 동안 수업을 하고, $10$분 동안 쉰 다음 $2$교시가 시작됩니다. $4$교시가 시작되는 시각을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            74,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            40
+          ],
+          "text": "동명이네 학교는 $1$교시가 $8$시 $50$분에 시작되어 $40$분 동안 수업을 하고, $10$분 동안 쉰 다음 $2$교시가 시작됩니다. $4$교시가 시작되는 시각을 구하시오."
+        }
+      ]
+    }
+  ]
+}

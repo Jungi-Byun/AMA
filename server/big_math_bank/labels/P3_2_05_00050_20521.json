@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20521.png",
+  "id": "00050_20521",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "넓이가 $0.375ha$인 공원에 $3m²$당 소나무를 한 그루씩 심으려고 합니다. 소나무 한 그루의 무게가 $80kg$일 때 공원에 심을 소나무를 여러 대의 트럭에 실어 동시에 운반하려면 $5t$까지 실을 수 있는 트럭이 적어도 몇 대 필요합니까? (단, 소나무 한 그루의 무게는 모두 같습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            780,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            41
+          ],
+          "text": "넓이가 $0.375ha$인 공원에 $3m²$당 소나무를 한 그루씩 심으려고 합니다. 소나무 한 그루의 무게가 $80kg$일 때 공원에 심을 소나무를 여러 대의 트럭에 실어 동시에 운반하려면 $5t$까지 실을 수 있는 트럭이 적어도 몇 대 필요합니까? (단, 소나무 한 그루의 무게는 모두 같습니다.)"
+        }
+      ]
+    }
+  ]
+}

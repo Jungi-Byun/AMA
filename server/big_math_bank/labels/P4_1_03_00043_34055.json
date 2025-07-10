@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_03_00043_34055.png",
+  "id": "00043_34055",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현정이가 $1$분 동안 뛰는 거리는 $155\\mathrm{m}$이고, $1$분 동안 자전거를 타고 달리는 거리는 $825\\mathrm{m}$입니다. 현정이가 다음과 같이 이동했을 때, 이동한 거리는 모두 몇 $\\mathrm{m}$입니까? (단, 뛰는 빠르기와 자전거로 달린 빠르기는 각각 일정합니다.)  현정이는 오전 $11$시에 집에서 출발하여 공원까지 $18$분 동안 뛰어 갔습니다. 공원에서는 자전거를 타고 $1$시간 $10$분을 달린 후, 뛰어서 삼촌 댁에 도착한 시각은 오후 $12$시 $40$분이었습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            516,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            801,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            98,
+            299,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            122
+          ],
+          "text": "현정이가 $1$분 동안 뛰는 거리는 $155\\mathrm{m}$이고, $1$분 동안 자전거를 타고 달리는 거리는 $825\\mathrm{m}$입니다. 현정이가 다음과 같이 이동했을 때, 이동한 거리는 모두 몇 $\\mathrm{m}$입니까? (단, 뛰는 빠르기와 자전거로 달린 빠르기는 각각 일정합니다.)  현정이는 오전 $11$시에 집에서 출발하여 공원까지 $18$분 동안 뛰어 갔습니다. 공원에서는 자전거를 타고 $1$시간 $10$분을 달린 후, 뛰어서 삼촌 댁에 도착한 시각은 오후 $12$시 $40$분이었습니다."
+        }
+      ]
+    }
+  ]
+}

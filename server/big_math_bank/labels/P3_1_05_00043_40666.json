@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_40666.png",
+  "id": "00043_40666",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형 모양의 마을 지도에서 왼쪽 위 모서리 방향에 학교가 있고 오른쪽 아래 모서리 쪽에 소방서가 있고 오른쪽 상단부분에 병원이 있을 때 학교와 소방서를 연결한 선분과 병원에서 그은 선분이 만나는 점에서 학교는 2020 m, 소방서는 2005 m, 병원은 1500 m 거리에 있는 그림",
+      "question_text": "집에서 소방서까지의 거리는 몇 $ \\mathrm{km} $ 몇 $ \\mathrm{m} $ 입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            297,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            42,
+            41,
+            280,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            299,
+            21
+          ],
+          "text": "집에서 소방서까지의 거리는 몇 $ \\mathrm{km} $ 몇 $ \\mathrm{m} $ 입니까?"
+        }
+      ]
+    }
+  ]
+}

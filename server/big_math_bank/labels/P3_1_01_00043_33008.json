@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_01_00043_33008.png",
+  "id": "00043_33008",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$3, 4$학년 학생들은 청군과 백군으로 나누어 콩 주머니 던지기 경기를 하였습니다 청군과 백군이 학년별로 넣은 콩 주머니의 수입니다. 물음에 답하시오 <table border>   <tbody align=\"center\">     <tr>       <td> </td> <td> 청군</td> <td> 백군</td>     <tr>     <tr>       <td> $3$학년</td> <td> $315$</td> <td> $498$</td>     <tr>     <tr>       <td> $4$학년</td> <td> $289$</td> <td> $278$</td>     <tr>     </tr> </tbody> </table>(1) 청군이 넣은 콩 주머니는 모두 몇 개입니까?  (2) 백군이 넣은 콩 주머니는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            610,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            274,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            134,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            118,
+            285,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            140,
+            286,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            612,
+            158
+          ],
+          "text": "$3, 4$학년 학생들은 청군과 백군으로 나누어 콩 주머니 던지기 경기를 하였습니다 청군과 백군이 학년별로 넣은 콩 주머니의 수입니다. 물음에 답하시오 <table border>   <tbody align=\"center\">     <tr>       <td> </td> <td> 청군</td> <td> 백군</td>     <tr>     <tr>       <td> $3$학년</td> <td> $315$</td> <td> $498$</td>     <tr>     <tr>       <td> $4$학년</td> <td> $289$</td> <td> $278$</td>     <tr>     </tr> </tbody> </table>(1) 청군이 넣은 콩 주머니는 모두 몇 개입니까?  (2) 백군이 넣은 콩 주머니는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_06_00042_56829.png",
+  "id": "00042_56829",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음에서 설명하는 도형의 이름을 쓰시오. · 선분으로만 둘러싸여 있습니다. · 변의 길이가 모두 같습니다. · 각의 크기가 모두 같습니다. · 변의 수가 $12$개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            254,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            21,
+            219,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            56,
+            197,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            74,
+            197,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            97,
+            170,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            326,
+            123
+          ],
+          "text": "다음에서 설명하는 도형의 이름을 쓰시오. · 선분으로만 둘러싸여 있습니다. · 변의 길이가 모두 같습니다. · 각의 크기가 모두 같습니다. · 변의 수가 $12$개입니다."
+        }
+      ]
+    }
+  ]
+}

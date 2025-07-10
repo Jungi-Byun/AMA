@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_2_03_00042_54860.png",
+  "id": "00042_54860",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203010",
+      "question_topic_name": "소수 한 자리 수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$0.4$에 어떤 수를 더했더니 $0.9$가 되었습니다. 어떤 수에서 $0.3$을 빼면 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            486,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            488,
+            21
+          ],
+          "text": "$0.4$에 어떤 수를 더했더니 $0.9$가 되었습니다. 어떤 수에서 $0.3$을 빼면 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

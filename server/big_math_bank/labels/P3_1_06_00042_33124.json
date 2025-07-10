@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00042_33124.png",
+  "id": "00042_33124",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기가 같은 컵으로 주스를 마셨습니다. 민지는 $ \\frac{1}{7} $컵, 혜서는 $ \\frac{3}{5} $컵, 준호는 $ \\frac{1}{5} $컵 마셨다면 주스를 가장 적게 마신 사람은 누구입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            787,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            789,
+            38
+          ],
+          "text": "크기가 같은 컵으로 주스를 마셨습니다. 민지는 $ \\frac{1}{7} $컵, 혜서는 $ \\frac{3}{5} $컵, 준호는 $ \\frac{1}{5} $컵 마셨다면 주스를 가장 적게 마신 사람은 누구입니까?"
+        }
+      ]
+    }
+  ]
+}

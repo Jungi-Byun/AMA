@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_06_00043_59153.png",
+  "id": "00043_59153",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과일 가게에서 지난 이틀 동안 판매한 과일의 수를 표로 나타내었습니다. 참외가 팔린 개수가 포도가 팔린 개수의  $2$배일 때 빈칸에 알맞은 수를 차례대로 써넣으시오. 판매한 과일의 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            171,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            117,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            65,
+            271,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            114
+          ],
+          "text": "과일 가게에서 지난 이틀 동안 판매한 과일의 수를 표로 나타내었습니다. 참외가 팔린 개수가 포도가 팔린 개수의  $2$배일 때 빈칸에 알맞은 수를 차례대로 써넣으시오. 판매한 과일의 수"
+        }
+      ]
+    }
+  ]
+}

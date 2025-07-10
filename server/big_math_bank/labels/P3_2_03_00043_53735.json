@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53735.png",
+  "id": "00043_53735",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "큰 원 안에 서로 같은 크기의 작은 원 3개가 큰 원의 지름을 따라 일렬로 겹쳐서 그려져 있으며, 첫 번째와 세 번째 원은 지름의 각 왼쪽 끝과 오른쪽 끝이 큰 원과 접하며, 두 번째 원은 큰 원과 원의 중심이 동일하며, 각 작은 원의 겹치는 반지름의 길이가 4 cm인 평면도형",
+      "question_text": "그림과 같이 큰 원 안에 크기가 같은 원 $3$ 개를 그렸습니다. 큰 원의 반지름이 $ 14 \\mathrm{~cm} $ 일 때, 작은 원의 반지름은 몇$ \\mathrm{~cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            715,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            28,
+            143,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            717,
+            22
+          ],
+          "text": "그림과 같이 큰 원 안에 크기가 같은 원 $3$ 개를 그렸습니다. 큰 원의 반지름이 $ 14 \\mathrm{~cm} $ 일 때, 작은 원의 반지름은 몇$ \\mathrm{~cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

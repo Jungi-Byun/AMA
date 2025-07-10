@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_05_00042_33160.png",
+  "id": "00042_33160",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 긴 것부터 차례대로 기호를 쓰시오. ㉠ $7900m$ ㉡ $7km 99m$ ㉢ $7km 890m$ ㉣ $7090m$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            258,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            85,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            132,
+            22,
+            209,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            47,
+            107,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            139,
+            47,
+            203,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            0.39,
+            259,
+            66.39
+          ],
+          "text": "길이가 긴 것부터 차례대로 기호를 쓰시오. ㉠ $7900m$ ㉡ $7km 99m$ ㉢ $7km 890m$ ㉣ $7090m$"
+        }
+      ]
+    }
+  ]
+}

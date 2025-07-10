@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_06_00043_59430.png",
+  "id": "00043_59430",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 학교의 학년별로 안경을 쓴 학생 수를 조사하여 표로 나타낸 것입니다. 표와 그림그래프를 완성하시오.학년별 안경을 쓴 학생 수  <table border> <caption></caption>   <tbody>     <tr>       <td>학년</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>       <td>$6$</td>       <td>합계</td>     </tr>     <tr>       <td>학생수(명)</td>       <td>$$</td>       <td>$34$</td>       <td>$43$</td>       <td>$$</td>       <td>$164$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            622,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            174,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            250,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            100,
+            326,
+            272
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            624,
+            94
+          ],
+          "text": "어느 학교의 학년별로 안경을 쓴 학생 수를 조사하여 표로 나타낸 것입니다. 표와 그림그래프를 완성하시오.학년별 안경을 쓴 학생 수  <table border> <caption></caption>   <tbody>     <tr>       <td>학년</td>       <td>$3$</td>       <td>$4$</td>       <td>$5$</td>       <td>$6$</td>       <td>합계</td>     </tr>     <tr>       <td>학생수(명)</td>       <td>$$</td>       <td>$34$</td>       <td>$43$</td>       <td>$$</td>       <td>$164$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

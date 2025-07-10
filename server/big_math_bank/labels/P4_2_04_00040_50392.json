@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00040_50392.png",
+  "id": "00040_50392",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204014",
+      "question_topic_name": "평행사변형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "평행사변형의 성질에 대한 설명으로 바른 것을 모두 고르시오. ①네 변의 길이가 같습니다. ②네 각의 크기가 같습니다. ③마주 보는 각의 크기가 같습니다. ④마주 보는 변의 길이가 같습니다. ⑤마주 보는 두 쌍의 변이 평행합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            368,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            186,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            186,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            228,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            228,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            244,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            370,
+            129
+          ],
+          "text": "평행사변형의 성질에 대한 설명으로 바른 것을 모두 고르시오. ①네 변의 길이가 같습니다. ②네 각의 크기가 같습니다. ③마주 보는 각의 크기가 같습니다. ④마주 보는 변의 길이가 같습니다. ⑤마주 보는 두 쌍의 변이 평행합니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00043_51099.png",
+  "id": "00043_51099",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "⑴ 물고기 $6$망을 $4$명이 똑같이 나누어 가진다면 한 명은 $\\square$망을 가지게 되고 $\\square$망이 남습니다.⑵ 남은 물고기를 $4$명이 똑같이 나누어 가진다면 한 명이 $20÷4=$$\\square$(마리)씩 가지게 됩니다.⑶ 한 명이 물고기 $\\square$망과 $\\square$마리를 가지게 되므로 한 명이 가지는 물고기는 $\\square$마리입니다. 물고기를 잡아 한 망에 10마리씩 6망에 넣었습니다. 4명이 똑같이 나누어 가지려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            718,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            109,
+            580,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            138,
+            548,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            167,
+            588,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            36,
+            316,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            108,
+            590,
+            194
+          ],
+          "text": "⑴ 물고기 $6$망을 $4$명이 똑같이 나누어 가진다면 한 명은 $\\square$망을 가지게 되고 $\\square$망이 남습니다.⑵ 남은 물고기를 $4$명이 똑같이 나누어 가진다면 한 명이 $20÷4=$$\\square$(마리)씩 가지게 됩니다.⑶ 한 명이 물고기 $\\square$망과 $\\square$마리를 가지게 되므로 한 명이 가지는 물고기는 $\\square$마리입니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.31,
+            0,
+            718.72,
+            17.53
+          ],
+          "text": "물고기를 잡아 한 망에 10마리씩 6망에 넣었습니다. 4명이 똑같이 나누어 가지려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

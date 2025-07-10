@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50401.png",
+  "id": "00043_50401",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203009",
+      "question_topic_name": "소수 한 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 다음의 소수 막대를 사용하여 합이 주어진 수가 되도록 모양을 만들고 $\\square$ 안에 알맞은 수를 써넣으시오. $\\square+\\square+\\square=0.8$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            686,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            36,
+            312,
+            455
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            688,
+            22
+          ],
+          "text": "<보기>와 같이 다음의 소수 막대를 사용하여 합이 주어진 수가 되도록 모양을 만들고 $\\square$ 안에 알맞은 수를 써넣으시오. $\\square+\\square+\\square=0.8$"
+        }
+      ]
+    }
+  ]
+}

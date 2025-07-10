@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00042_54159.png",
+  "id": "00042_54159",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 큰 원은 어느 것입니까? ①반지름이 $12cm$인 원 ②지름이 $20cm$인 원 ③원의 중심과 원 위의 한 점 사이의 거리가 $9cm$인 원 ④컴퍼스의 침과 연필심 사이를 $11cm$가 되도록 벌려서 그린 원 ⑤원 위의 두 점을 이은 선분 중 원의 중심을 지나는 선분이 $15cm$인 원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            182,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            159,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            151,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            334,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            383,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            426,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            428,
+            130
+          ],
+          "text": "가장 큰 원은 어느 것입니까? ①반지름이 $12cm$인 원 ②지름이 $20cm$인 원 ③원의 중심과 원 위의 한 점 사이의 거리가 $9cm$인 원 ④컴퍼스의 침과 연필심 사이를 $11cm$가 되도록 벌려서 그린 원 ⑤원 위의 두 점을 이은 선분 중 원의 중심을 지나는 선분이 $15cm$인 원"
+        }
+      ]
+    }
+  ]
+}

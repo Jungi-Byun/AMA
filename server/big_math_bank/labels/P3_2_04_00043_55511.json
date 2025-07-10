@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_04_00043_55511.png",
+  "id": "00043_55511",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204004",
+      "question_topic_name": "여러 개씩 묶었을 때 분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $18$을 $6$씩 묶으면 $12$는 $18$의 $\\frac{\\square}{\\square}$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            75,
+            276,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            28,
+            322,
+            65
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            277,
+            21
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            73,
+            278,
+            122
+          ],
+          "text": "$18$을 $6$씩 묶으면 $12$는 $18$의 $\\frac{\\square}{\\square}$입니다."
+        }
+      ]
+    }
+  ]
+}

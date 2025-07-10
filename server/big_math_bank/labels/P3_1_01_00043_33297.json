@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33297.png",
+  "id": "00043_33297",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이와 굵기가 같은 막대 2개를 125 cm 겹쳐서 묶어 놓은 그림",
+      "question_text": "신영이가 밤을 따려고 $357cm$인 막대 $2$개를 겹쳐 철사로 묶어서 그림과 같은 장대를 만들었습니다. 장대의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            740,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            29,
+            290,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            745,
+            23
+          ],
+          "text": "신영이가 밤을 따려고 $357cm$인 막대 $2$개를 겹쳐 철사로 묶어서 그림과 같은 장대를 만들었습니다. 장대의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00042_25697.png",
+  "id": "00042_25697",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "설명이 틀린 것은 어느 것입니까? ①정사각형은 모두 직사각형입니다. ②직사각형은 모두 정사각형입니다. ③정사각형은 네 각이 모두 직각입니다. ④정사각형은 네 변의 길이가 모두 같습니다. ⑤직사각형은 마주 보는 변의 길이가 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            208,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            233,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            233,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            253,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            282,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            295,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            297,
+            130
+          ],
+          "text": "설명이 틀린 것은 어느 것입니까? ①정사각형은 모두 직사각형입니다. ②직사각형은 모두 정사각형입니다. ③정사각형은 네 각이 모두 직각입니다. ④정사각형은 네 변의 길이가 모두 같습니다. ⑤직사각형은 마주 보는 변의 길이가 같습니다."
+        }
+      ]
+    }
+  ]
+}

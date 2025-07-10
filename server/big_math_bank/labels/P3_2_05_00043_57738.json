@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57738.png",
+  "id": "00043_57738",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 사람의 대화를 읽고 두 사람이 어림한 들이의 차는 몇 $L$ 몇 $mL$인지 구하시오. 영주 : 난 실제 들이보다 $580mL$ 더 적게 어림했어. 주희 : 난 실제 들이보다 $520mL$ 더 많이 어림했어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            467,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            314,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            57,
+            313,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            493,
+            78
+          ],
+          "text": "두 사람의 대화를 읽고 두 사람이 어림한 들이의 차는 몇 $L$ 몇 $mL$인지 구하시오. 영주 : 난 실제 들이보다 $580mL$ 더 적게 어림했어. 주희 : 난 실제 들이보다 $520mL$ 더 많이 어림했어."
+        }
+      ]
+    }
+  ]
+}

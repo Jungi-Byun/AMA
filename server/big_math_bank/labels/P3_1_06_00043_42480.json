@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_06_00043_42480.png",
+  "id": "00043_42480",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수지와 친구들이 동굴에 들어가려고 합니다. 동굴로 들어가는 길은 $4$가지가 있습니다. 다음 그림을 보고 물음에 답하시오.  ⑴ 가장 가까운 길로 입구를 찾은 사람은 누구입니까? ⑵ 가장 먼 길로 입구를 찾은 사람은 누구입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            700,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            239,
+            321,
+            256
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            261,
+            295,
+            278
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            23,
+            271,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            703,
+            22
+          ],
+          "text": "수지와 친구들이 동굴에 들어가려고 합니다. 동굴로 들어가는 길은 $4$가지가 있습니다. 다음 그림을 보고 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            237,
+            323,
+            280
+          ],
+          "text": "⑴ 가장 가까운 길로 입구를 찾은 사람은 누구입니까? ⑵ 가장 먼 길로 입구를 찾은 사람은 누구입니까?"
+        }
+      ]
+    }
+  ]
+}

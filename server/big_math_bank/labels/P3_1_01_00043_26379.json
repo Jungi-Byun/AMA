@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_26379.png",
+  "id": "00043_26379",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정님이네 농장에서는 $ 1534 \\mathrm{~kg} $의 호박을 땄고, 진영이네 농장에서는 $ 967 \\mathrm{~kg} $의 호박을 땄습니다. 정님이네는 진영이네보다 몇 $ \\mathrm{kg} $의 호박을 더 많이 땄습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            616,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            293,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            618,
+            41
+          ],
+          "text": "정님이네 농장에서는 $ 1534 \\mathrm{~kg} $의 호박을 땄고, 진영이네 농장에서는 $ 967 \\mathrm{~kg} $의 호박을 땄습니다. 정님이네는 진영이네보다 몇 $ \\mathrm{kg} $의 호박을 더 많이 땄습니까?"
+        }
+      ]
+    }
+  ]
+}

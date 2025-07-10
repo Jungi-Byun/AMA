@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32580.png",
+  "id": "00043_32580",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억 단위 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 보고 $\\square$ 안에 알맞은 수나 말을 써넣으시오.  <table border>   <tbody>     <tr>       <td>$8$</td>       <td>$9$</td>       <td>$3$</td>       <td>$4$.</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>     </tr>     <tr>       <td>천</td>       <td>백</td>       <td>십</td>       <td>일</td>       <td>천</td>       <td>백</td>       <td>십</td>       <td>일</td>       <td rowspan=2>천</td>       <td rowspan=2>백</td>       <td rowspan=2>십</td>       <td rowspan=2>일</td>     </tr>     <tr>       <td colspan=4>억</td>       <td colspan=4>만</td>     </tr> </tbody> </table>  (1) 천억의 자리 숫자는  $\\square$ 입니다.(2) $3$은  $\\square$ 억의 자리 숫자입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            366,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            96,
+            223,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            125,
+            221,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            368,
+            152
+          ],
+          "text": "다음을 보고 $\\square$ 안에 알맞은 수나 말을 써넣으시오.  <table border>   <tbody>     <tr>       <td>$8$</td>       <td>$9$</td>       <td>$3$</td>       <td>$4$.</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>       <td>$0$</td>     </tr>     <tr>       <td>천</td>       <td>백</td>       <td>십</td>       <td>일</td>       <td>천</td>       <td>백</td>       <td>십</td>       <td>일</td>       <td rowspan=2>천</td>       <td rowspan=2>백</td>       <td rowspan=2>십</td>       <td rowspan=2>일</td>     </tr>     <tr>       <td colspan=4>억</td>       <td colspan=4>만</td>     </tr> </tbody> </table>  (1) 천억의 자리 숫자는  $\\square$ 입니다.(2) $3$은  $\\square$ 억의 자리 숫자입니다."
+        }
+      ]
+    }
+  ]
+}

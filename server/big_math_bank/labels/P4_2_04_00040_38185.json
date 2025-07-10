@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00040_38185.png",
+  "id": "00040_38185",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204019",
+      "question_topic_name": "직사각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 직사각형에 대한 설명으로 옳지 않은 것은 어느 것입니까? ① 네 각의 크기가 모두 같습니다. ② 마주 보는 두 쌍의 변이 평행입니다. ③ 마주 보는 변의 길이가 같습니다. ④ 네 변의 길이가 모두 같습니다. ⑤ 네 각의 크기의 합이 $360°$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            392,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            215,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            244,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            228,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            215,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            232,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            394,
+            130
+          ],
+          "text": "다음 중 직사각형에 대한 설명으로 옳지 않은 것은 어느 것입니까? ① 네 각의 크기가 모두 같습니다. ② 마주 보는 두 쌍의 변이 평행입니다. ③ 마주 보는 변의 길이가 같습니다. ④ 네 변의 길이가 모두 같습니다. ⑤ 네 각의 크기의 합이 $360°$입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_05_00043_40371.png",
+  "id": "00043_40371",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "알맞은 말에 $\\bigcirc$표 하고, $\\square$ 안에 알맞은 수를 써넣으시오. 윤정이가 도서실로 들어가는 (시각, 시간)은 $\\square$ 시 $\\square$ 분 $\\square$  초입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            336,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            272,
+            539,
+            294
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            48,
+            37,
+            302,
+            256
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.72,
+            0.11,
+            336.72,
+            18.11
+          ],
+          "text": "알맞은 말에 $\\bigcirc$표 하고, $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.72,
+            273.11,
+            537.72,
+            294.11
+          ],
+          "text": "윤정이가 도서실로 들어가는 (시각, 시간)은 $\\square$ 시 $\\square$ 분 $\\square$  초입니다."
+        }
+      ]
+    }
+  ]
+}

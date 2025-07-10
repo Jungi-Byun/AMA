@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_02_00043_37822.png",
+  "id": "00043_37822",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202012",
+      "question_topic_name": "삼각형을 각의 크기에 따라 분류하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림에서 찾을 수 있는 크고 작은 둔각삼각형과 예각삼각형의 개수의 차는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            514,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            33,
+            221,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            516,
+            22
+          ],
+          "text": "그림에서 찾을 수 있는 크고 작은 둔각삼각형과 예각삼각형의 개수의 차는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

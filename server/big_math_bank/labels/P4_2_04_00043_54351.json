@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00043_54351.png",
+  "id": "00043_54351",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204021",
+      "question_topic_name": "직사각형과 정사각형의 성질 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사각형을 보고 물음에 답하시오.  ⑴ 평행사변형을 모두 찾아 기호를 쓰시오. ⑵ 마름모이면서 직사각형인 사각형을 모두 찾아 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            200,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            181,
+            258,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            203,
+            380,
+            220
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            32,
+            306,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            202,
+            21
+          ],
+          "text": "사각형을 보고 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            179,
+            382,
+            222
+          ],
+          "text": "⑴ 평행사변형을 모두 찾아 기호를 쓰시오. ⑵ 마름모이면서 직사각형인 사각형을 모두 찾아 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

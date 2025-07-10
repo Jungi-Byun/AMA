@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53730.png",
+  "id": "00043_53730",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기가 다른 원 가와 나가 있습니다. 원 가의 반지름이 원 나의 반지름의 $2$배입니다. 원 가의 지름이 $40 cm$일 때, 원 나의 반지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            53,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "크기가 다른 원 가와 나가 있습니다. 원 가의 반지름이 원 나의 반지름의 $2$배입니다. 원 가의 지름이 $40 cm$일 때, 원 나의 반지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

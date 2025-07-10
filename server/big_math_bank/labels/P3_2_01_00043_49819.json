@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_01_00043_49819.png",
+  "id": "00043_49819",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈식에 알맞은 문제를 완성하고, 답을 구하시오.  $ 12 \\times 40 $ <문제> 한 명에게 연필을 $\\square$자루씩 $\\square$명에게 주려고 합니다. 필요한 연필은 모두 몇 자루입니까? <답> $\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            66,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            60,
+            618,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            623,
+            86
+          ],
+          "text": "곱셈식에 알맞은 문제를 완성하고, 답을 구하시오.  $ 12 \\times 40 $ <문제> 한 명에게 연필을 $\\square$자루씩 $\\square$명에게 주려고 합니다. 필요한 연필은 모두 몇 자루입니까? <답> $\\square$"
+        }
+      ]
+    }
+  ]
+}

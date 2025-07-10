@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_04_00043_55482.png",
+  "id": "00043_55482",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204004",
+      "question_topic_name": "여러 개씩 묶었을 때 분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사탕 $12$개를 똑같이 나누어 묶었습니다. 물음에 답하시오.(1) 사탕 $12$개를 $2$개씩 묶었을 때 $2$는 $12$의 몇 분의 몇입니까?(2) 사탕 $12$개를 $2$개씩 묶었을 때 $4$는 $12$의 몇 분의 몇입니까?(3) 사탕 $12$개를 $3$개씩 묶었을 때 $3$은 $12$의 몇 분의 몇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            363,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            366,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            366,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            368,
+            83
+          ],
+          "text": "사탕 $12$개를 똑같이 나누어 묶었습니다. 물음에 답하시오.(1) 사탕 $12$개를 $2$개씩 묶었을 때 $2$는 $12$의 몇 분의 몇입니까?(2) 사탕 $12$개를 $2$개씩 묶었을 때 $4$는 $12$의 몇 분의 몇입니까?(3) 사탕 $12$개를 $3$개씩 묶었을 때 $3$은 $12$의 몇 분의 몇입니까?"
+        }
+      ]
+    }
+  ]
+}

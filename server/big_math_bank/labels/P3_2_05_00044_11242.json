@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00044_11242.png",
+  "id": "00044_11242",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 옳은 것은 어느 것입니까? ①한 변이 $ 200 \\mathrm{~m} $인 정사각형 안에 그릴 수 있는 마름모 중 가장 큰 마름모의 넓이는 $ 2 \\mathrm{ha} $입니다. ②수영장 $ 1 \\mathrm{~m}^2 $ 당 물의 무게가 $ 1000 \\mathrm{~kg} $이라고 할 때, 넓이가 $ 1a $인 수영장에 있는 물의 무게는 $ 1000 t $입니다. ③$ 1 \\mathrm{ha} $의 넓이는 $ 1 \\mathrm{~m}^2$의 $100000$배입니다. ④어느 도시의 넓이가 $ 4000 \\mathrm{~km}^2 $라고 할 때 이것은 $ 4000000a $와 같습니다. ⑤넓이가 $ 900 \\mathrm{ha} $인 정사각형의 둘레는 $ 120 \\mathrm{~km} $입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            212,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            568,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            626,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            262,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            451,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            335,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            628,
+            130
+          ],
+          "text": "다음 중 옳은 것은 어느 것입니까? ①한 변이 $ 200 \\mathrm{~m} $인 정사각형 안에 그릴 수 있는 마름모 중 가장 큰 마름모의 넓이는 $ 2 \\mathrm{ha} $입니다. ②수영장 $ 1 \\mathrm{~m}^2 $ 당 물의 무게가 $ 1000 \\mathrm{~kg} $이라고 할 때, 넓이가 $ 1a $인 수영장에 있는 물의 무게는 $ 1000 t $입니다. ③$ 1 \\mathrm{ha} $의 넓이는 $ 1 \\mathrm{~m}^2$의 $100000$배입니다. ④어느 도시의 넓이가 $ 4000 \\mathrm{~km}^2 $라고 할 때 이것은 $ 4000000a $와 같습니다. ⑤넓이가 $ 900 \\mathrm{ha} $인 정사각형의 둘레는 $ 120 \\mathrm{~km} $입니다."
+        }
+      ]
+    }
+  ]
+}

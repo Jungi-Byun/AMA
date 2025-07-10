@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00040_22915.png",
+  "id": "00040_22915",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 바르게 계산한 것은 어느 것입니까? ① $3L + 2L 500mL = 2L 503mL$ ② $3L 600mL + 1L 500mL = 5L 100mL$ ③ $6L 60mL + 2L 50mL = 9L 10mL$ ④ $3L 900mL + 50mL = 53L 900mL$ ⑤ $2L 400mL + 3L 700mL = 5L 100mL$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            266,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            206,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            248,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            224,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            233,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            251,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            268,
+            130
+          ],
+          "text": "다음 중 바르게 계산한 것은 어느 것입니까? ① $3L + 2L 500mL = 2L 503mL$ ② $3L 600mL + 1L 500mL = 5L 100mL$ ③ $6L 60mL + 2L 50mL = 9L 10mL$ ④ $3L 900mL + 50mL = 53L 900mL$ ⑤ $2L 400mL + 3L 700mL = 5L 100mL$"
+        }
+      ]
+    }
+  ]
+}

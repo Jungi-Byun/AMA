@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_02_00043_51622.png",
+  "id": "00043_51622",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오.  (1) $ 93 \\div 6 $ (2) $ 69 \\div 4 $  (3) $ \\begin{array}{r}\\phantom{)} \\\\7{\\overline{\\smash{\\big)}\\,8~~6\\phantom{)}}}\\\\  \\end{array} $  (4) $ \\begin{array}{r}\\phantom{)} \\\\6{\\overline{\\smash{\\big)}\\,9~~9\\phantom{)}}}\\\\  \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            203,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            70,
+            219,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            221,
+            96
+          ],
+          "text": "계산을 하시오.  (1) $ 93 \\div 6 $ (2) $ 69 \\div 4 $  (3) $ \\begin{array}{r}\\phantom{)} \\\\7{\\overline{\\smash{\\big)}\\,8~~6\\phantom{)}}}\\\\  \\end{array} $  (4) $ \\begin{array}{r}\\phantom{)} \\\\6{\\overline{\\smash{\\big)}\\,9~~9\\phantom{)}}}\\\\  \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

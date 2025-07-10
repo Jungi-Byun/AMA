@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37797.png",
+  "id": "00043_37797",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형ㄱㄴㄷㄹ이 있고 변ㄱㄹ의 좌측으로 연장선이 있으며 선분ㄱㄴ과 연장선의 각도는 60도, 분홍 가의 표시가 있고 각 ㄹ은 75도, 분홍 각의 표시가 있으며 각ㄴ에 분홍 각의 표시가 있고 변ㄴㄷ의 연장선이 우측으로 있고 변ㄷㄹ과 연장선의 각도는 75도, 분홍 각의 표시로 나타낸 평면도형",
+      "question_text": "다음 도형에서 각 ㄱㄴㄷ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            271,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            36,
+            212,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            273,
+            22
+          ],
+          "text": "다음 도형에서 각 ㄱㄴㄷ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

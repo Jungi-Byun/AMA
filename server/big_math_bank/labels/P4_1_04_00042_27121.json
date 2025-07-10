@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_04_00042_27121.png",
+  "id": "00042_27121",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형을 아래와 같은 방법으로 움직였을 때 모양이 다른 하나를 찾아 기호를 쓰시오. ㉠ 위쪽으로 뒤집기 ㉡ (도형회전) 방향으로 돌리기 ㉢ (도형회전) 방향으로 돌린 후 오른쪽으로 뒤집기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            514,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.72,
+            92.61,
+            138.72,
+            114.61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.72,
+            113.61,
+            170.72,
+            146.61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.72,
+            145.61,
+            281.72,
+            175.61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            87,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            516,
+            22
+          ],
+          "text": "다음 도형을 아래와 같은 방법으로 움직였을 때 모양이 다른 하나를 찾아 기호를 쓰시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.72,
+            89.11,
+            283.72,
+            177.11
+          ],
+          "text": "㉠ 위쪽으로 뒤집기 ㉡ (도형회전) 방향으로 돌리기 ㉢ (도형회전) 방향으로 돌린 후 오른쪽으로 뒤집기"
+        }
+      ]
+    }
+  ]
+}

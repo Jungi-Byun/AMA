@@ -1,0 +1,169 @@
+{
+  "question_filename": "P3_2_06_00043_59172.png",
+  "id": "00043_59172",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "월별 초콜릿 판매량을 조사하여 나타낸 그림그래프입니다. 초콜릿이 가장 많이 팔린 달의 판매량을 구하시오. ⑴ 그림이 나타내는 상자 수를 구하시오. (큰 초콜릿) (  ) (작은 초콜릿) (  ) ⑵ 각 달의 의 수를 세어 보시오. 6월 ( ) 7월 ( ) 8월 ( ) 9월 ( ) ⑶ 초콜릿 판매량이 가장 많은 달은 어느 달입니까? ⑷ 가장 많이 팔린 달의 판매량을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            631,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            235,
+            246,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            324,
+            239,
+            346
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            442,
+            308,
+            459
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            464,
+            262,
+            481
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.5,
+            261,
+            152.5,
+            286
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.5,
+            292,
+            144.5,
+            316
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.5,
+            356,
+            96.5,
+            375
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            16.5,
+            377,
+            97.5,
+            396
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.5,
+            397,
+            97.5,
+            419
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.5,
+            421,
+            97.5,
+            440
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            28,
+            324,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.5,
+            0,
+            633.5,
+            17
+          ],
+          "text": "월별 초콜릿 판매량을 조사하여 나타낸 그림그래프입니다. 초콜릿이 가장 많이 팔린 달의 판매량을 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.5,
+            236,
+            308.5,
+            483
+          ],
+          "text": "⑴ 그림이 나타내는 상자 수를 구하시오. (큰 초콜릿) (  ) (작은 초콜릿) (  ) ⑵ 각 달의 의 수를 세어 보시오. 6월 ( ) 7월 ( ) 8월 ( ) 9월 ( ) ⑶ 초콜릿 판매량이 가장 많은 달은 어느 달입니까? ⑷ 가장 많이 팔린 달의 판매량을 구하시오."
+        }
+      ]
+    }
+  ]
+}

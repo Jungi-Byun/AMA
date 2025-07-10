@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_20542.png",
+  "id": "00043_20542",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 분수를 소수로 나타낸 것이 옳지 않은 것은 어느 것입니까?  ①$ \\frac{1}{10}=0.1 $ ②$ \\frac{3}{10}=0.3 $ ③$ \\frac{5}{10}=0.5 $ ④$ \\frac{7}{10}=7.0 $ ⑤$ \\frac{9}{10}=0.9 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            396,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            103,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            107,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            106,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            148,
+            106,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            107,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            398,
+            224
+          ],
+          "text": "다음 중 분수를 소수로 나타낸 것이 옳지 않은 것은 어느 것입니까?  ①$ \\frac{1}{10}=0.1 $ ②$ \\frac{3}{10}=0.3 $ ③$ \\frac{5}{10}=0.5 $ ④$ \\frac{7}{10}=7.0 $ ⑤$ \\frac{9}{10}=0.9 $"
+        }
+      ]
+    }
+  ]
+}

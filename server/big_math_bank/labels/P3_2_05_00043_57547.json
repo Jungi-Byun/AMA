@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00043_57547.png",
+  "id": "00043_57547",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이를 나타낼 때, $L$와 $mL$ 중에서 나타내기에 알맞은 단위가 나머지와 다른 물건을 알아보시오. (1) 각 단위로 나타내기 알맞은 것의 이름을 쓰시오. (2) 알맞은 단위가 나머지와 다른 하나는 무엇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            556,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            157,
+            306,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            223,
+            321,
+            239
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            29,
+            314,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.09,
+            2.59,
+            556.09,
+            17.59
+          ],
+          "text": "들이를 나타낼 때, $L$와 $mL$ 중에서 나타내기에 알맞은 단위가 나머지와 다른 물건을 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.09,
+            158.59,
+            306.09,
+            172.59
+          ],
+          "text": "(1) 각 단위로 나타내기 알맞은 것의 이름을 쓰시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.09,
+            222.59,
+            322.09,
+            241.59
+          ],
+          "text": "(2) 알맞은 단위가 나머지와 다른 하나는 무엇입니까?"
+        }
+      ]
+    }
+  ]
+}

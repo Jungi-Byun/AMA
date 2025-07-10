@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_2_05_00043_58901.png",
+  "id": "00043_58901",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준우의 허리둘레를 $2$달마다 재어 나타낸 표입니다. 표를 보고 물결선을 사용한 꺾은선그래프로 나타내려고 합니다. 물음에 답하시오.   ⑴ $ 1 $월부터 $ 9 $월까지 허리둘레는 몇 $ \\mathrm{cm} $에서 몇 $ \\mathrm{cm} $까지 변하였습니까? ⑵ 허리둘레가 변화하는 모양을 뚜렷하게 알 수 있으려면 몇 $ \\mathrm{cm} $ 밑부분까지 물결선으로 나타내는 것이 좋겠습니까? ⑶ 세로 눈금 한 칸의 크기는 몇 $ \\mathrm{cm} $로 하는 것이 좋겠습니까? ⑷ 세로 눈금의 $\\square$ 안에 알맞은 수를 써넣으시오. ⑸ ⑷의 그래프의 가로 눈금과 세로 눈금이 만나는 자리에 점을 찍어 보시오. ⑹ ⑸에서 찍은 각 점들을 선분으로 연결하여 물결선을 사용한 꺾은선그래프를 완성하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            764,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            331,
+            413,
+            348
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            353,
+            671,
+            370
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            375,
+            363,
+            392
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            397,
+            291,
+            414
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            419,
+            446,
+            436
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            441,
+            531,
+            458
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            23,
+            326,
+            324
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            766,
+            22
+          ],
+          "text": "준우의 허리둘레를 $2$달마다 재어 나타낸 표입니다. 표를 보고 물결선을 사용한 꺾은선그래프로 나타내려고 합니다. 물음에 답하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            330,
+            673,
+            459
+          ],
+          "text": "⑴ $ 1 $월부터 $ 9 $월까지 허리둘레는 몇 $ \\mathrm{cm} $에서 몇 $ \\mathrm{cm} $까지 변하였습니까? ⑵ 허리둘레가 변화하는 모양을 뚜렷하게 알 수 있으려면 몇 $ \\mathrm{cm} $ 밑부분까지 물결선으로 나타내는 것이 좋겠습니까? ⑶ 세로 눈금 한 칸의 크기는 몇 $ \\mathrm{cm} $로 하는 것이 좋겠습니까? ⑷ 세로 눈금의 $\\square$ 안에 알맞은 수를 써넣으시오. ⑸ ⑷의 그래프의 가로 눈금과 세로 눈금이 만나는 자리에 점을 찍어 보시오. ⑹ ⑸에서 찍은 각 점들을 선분으로 연결하여 물결선을 사용한 꺾은선그래프를 완성하시오."
+        }
+      ]
+    }
+  ]
+}

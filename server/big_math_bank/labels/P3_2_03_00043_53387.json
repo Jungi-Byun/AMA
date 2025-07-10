@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53387.png",
+  "id": "00043_53387",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 덜 긁히는 성질을 가진 물질로 만들어진 물체를 찾아 반지름을 재어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            471,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            89,
+            30,
+            259,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            54,
+            319,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            73,
+            143,
+            273,
+            317
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            474,
+            135
+          ],
+          "text": "가장 덜 긁히는 성질을 가진 물질로 만들어진 물체를 찾아 반지름을 재어 보시오."
+        }
+      ]
+    }
+  ]
+}

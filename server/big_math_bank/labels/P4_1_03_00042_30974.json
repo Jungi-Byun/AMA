@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_03_00042_30974.png",
+  "id": "00042_30974",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103011",
+      "question_topic_name": "나머지가 있는 (두 자리 수)÷(몇십몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수를 $37$로 나눌 때 나올 수 있는 나머지 중에서 가장 큰 수는 얼마입니까? ① $0$  ② $35$  ③ $36$ ④ $37$  ⑤ $38$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            460,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            60,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            60,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            61,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            60,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            61,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            462,
+            130
+          ],
+          "text": "어떤 수를 $37$로 나눌 때 나올 수 있는 나머지 중에서 가장 큰 수는 얼마입니까? ① $0$  ② $35$  ③ $36$ ④ $37$  ⑤ $38$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_05_00043_40462.png",
+  "id": "00043_40462",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바르게 계산한 것에 $\\bigcirc$표 하시오.($ $ )($ $ )   $\\begin{array}{r}2~~ 시  ~5 \\text { 분 } \\\\ +5 \\text { 분 } 10 \\text { 초 } \\\\ \\hline 7 \\text { 분 } 15 \\text { 초 }\\end{array}( $ )    $ ~~~{{{2}}시~~~{{ {5}}}분~~~{{}}} $  + ~~ ~~~~~~~5분~10초   $~~2시~~10분 ~10초( $ )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            204,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            50,
+            51,
+            140,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            175,
+            51,
+            301,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            64,
+            132,
+            127,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            211,
+            132,
+            265,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            306,
+            149
+          ],
+          "text": "바르게 계산한 것에 $\\bigcirc$표 하시오.($ $ )($ $ )   $\\begin{array}{r}2~~ 시  ~5 \\text { 분 } \\\\ +5 \\text { 분 } 10 \\text { 초 } \\\\ \\hline 7 \\text { 분 } 15 \\text { 초 }\\end{array}( $ )    $ ~~~{{{2}}시~~~{{ {5}}}분~~~{{}}} $  + ~~ ~~~~~~~5분~10초   $~~2시~~10분 ~10초( $ )"
+        }
+      ]
+    }
+  ]
+}

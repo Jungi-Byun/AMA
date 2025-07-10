@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_42549.png",
+  "id": "00043_42549",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 어느 체조 선수가 리듬체조 리본 연기에서 받은 점수입니다. 난이도, 예술, 실행 중 어느 부분에서 가장 높은 점수를 받았습니까?  <table border>   <tbody>     <tr>       <td></td>       <td>점수</td>     </tr>     <tr>       <td>난이도</td>       <td>$8.7$</td>     </tr>     <tr>       <td>예술</td>       <td>$9.2$</td>     </tr>     <tr>       <td>실행</td>       <td>$8.9$</td>     </tr>     <tr>       <td>패널티</td>       <td>$0.0$</td>     </tr>     <tr>       <td>총점</td>       <td>$26.8$</td>     </tr>     <tr>       <td>순위</td>       <td>$3$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            779,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            136,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            781,
+            185
+          ],
+          "text": "다음은 어느 체조 선수가 리듬체조 리본 연기에서 받은 점수입니다. 난이도, 예술, 실행 중 어느 부분에서 가장 높은 점수를 받았습니까?  <table border>   <tbody>     <tr>       <td></td>       <td>점수</td>     </tr>     <tr>       <td>난이도</td>       <td>$8.7$</td>     </tr>     <tr>       <td>예술</td>       <td>$9.2$</td>     </tr>     <tr>       <td>실행</td>       <td>$8.9$</td>     </tr>     <tr>       <td>패널티</td>       <td>$0.0$</td>     </tr>     <tr>       <td>총점</td>       <td>$26.8$</td>     </tr>     <tr>       <td>순위</td>       <td>$3$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53308.png",
+  "id": "00043_53308",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "중심이 빨간 점인 원에 원 문자 ㄱ인 현, 원 문자 ㄴ, ㄷ인 두 반지름과 원 문자 ㄹ인 현이 삼각형을 이루는 도형",
+      "question_text": "원의 반지름을 모두 찾아 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            29,
+            139,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            248,
+            22
+          ],
+          "text": "원의 반지름을 모두 찾아 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

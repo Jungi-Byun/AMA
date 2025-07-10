@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_41518.png",
+  "id": "00043_41518",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민주는 하프마라톤에서 $9시 30분 40초$에 출발하여 $11시 21분 10초$에 도착하였습니다. 하프마라톤을 하는 데 걸린 시간은 몇 시간 몇 분 몇 초입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            78,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            40
+          ],
+          "text": "민주는 하프마라톤에서 $9시 30분 40초$에 출발하여 $11시 21분 10초$에 도착하였습니다. 하프마라톤을 하는 데 걸린 시간은 몇 시간 몇 분 몇 초입니까?"
+        }
+      ]
+    }
+  ]
+}

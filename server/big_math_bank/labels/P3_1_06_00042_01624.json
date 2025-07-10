@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_06_00042_01624.png",
+  "id": "00042_01624",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연수는 도화지를 똑같이 나누어 다음과 같이 색칠하였습니다. 물음에 답하시오. (1) 초록색을 칠한 부분은 전체의 몇 분의 몇입니까? (2) 노란색을 칠한 부분은 전체의 몇 분의 몇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            463,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            81,
+            310,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            106,
+            313,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            114,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.5,
+            1,
+            464.5,
+            18
+          ],
+          "text": "연수는 도화지를 똑같이 나누어 다음과 같이 색칠하였습니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.5,
+            85,
+            313.5,
+            128
+          ],
+          "text": "(1) 초록색을 칠한 부분은 전체의 몇 분의 몇입니까? (2) 노란색을 칠한 부분은 전체의 몇 분의 몇입니까?"
+        }
+      ]
+    }
+  ]
+}

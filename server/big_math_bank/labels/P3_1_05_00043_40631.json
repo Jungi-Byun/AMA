@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_05_00043_40631.png",
+  "id": "00043_40631",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105002",
+      "question_topic_name": "몇 cm 몇 mm 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>에서 알맞은 단위를 골라 $\\square$ 안에 써넣으시오.  <보기> $ \\mathrm{km} \\mathrm{m} \\mathrm{cm} \\mathrm{mm} $  은영이의 발 길이는 $220 \\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            1,
+            317,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            74,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            55,
+            114,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            77,
+            267,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            321,
+            102
+          ],
+          "text": "<보기>에서 알맞은 단위를 골라 $\\square$ 안에 써넣으시오.  <보기> $ \\mathrm{km} \\mathrm{m} \\mathrm{cm} \\mathrm{mm} $  은영이의 발 길이는 $220 \\square$입니다."
+        }
+      ]
+    }
+  ]
+}

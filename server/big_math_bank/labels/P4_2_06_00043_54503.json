@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_06_00043_54503.png",
+  "id": "00043_54503",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "도형이 위쪽에 4개, 아래쪽에 4개가 있고 좌상에서 우상의 차례로 대각선 길이가 비슷한 마름모, 밑변이 높이보다 더 긴 평행사변형, 정사각형, 가로 대각선이 세로보다 더 긴 마름모가 있으며 좌하에서 차례로 밑변보다 높이가 더 긴 평행사변형, 정오각형, 밑변과 위쪽의 두 변이 길이가 같고 밑변과 인접한 두 변의 길이가 동일하게 긴 오각형, 세로의 길이가 더 긴 직사각형이 표현된 도형 8개",
+      "question_text": "다음에서 찾을 수 있는 도형은 무엇인지 모두 찾아 기호를 쓰시오.  ㉠ 마름모 ㉡ 정사각형 ㉢ 평행사변형 ㉣ 삼각형 ㉤ 오각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            387,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.17,
+            164.14,
+            383.17,
+            187.14
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            28,
+            317,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.17,
+            0.14,
+            389.17,
+            17.14
+          ],
+          "text": "다음에서 찾을 수 있는 도형은 무엇인지 모두 찾아 기호를 쓰시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            23.17,
+            161.14,
+            385.17,
+            189.14
+          ],
+          "text": "㉠ 마름모 ㉡ 정사각형 ㉢ 평행사변형 ㉣ 삼각형 ㉤ 오각형"
+        }
+      ]
+    }
+  ]
+}

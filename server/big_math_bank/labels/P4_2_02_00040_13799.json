@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_02_00040_13799.png",
+  "id": "00040_13799",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202007",
+      "question_topic_name": "정삼각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "변의 길이가 12 cm이고 세 각이 모두 60도인 노란색으로 칠한 삼각형",
+      "question_text": "다음은 정삼각형입니다. 이 정삼각형의 둘레의 길이는 얼마입니까?  ①$ 24 \\mathrm{~cm} $  ②$ 26 \\mathrm{~cm} $  ③$ 36 \\mathrm{~cm} $  ④$ 44 \\mathrm{~cm} $  ⑤$ 45 \\mathrm{~cm} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            396,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            159,
+            79,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            181,
+            79,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            203,
+            79,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            225,
+            80,
+            245
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            247,
+            78,
+            267
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            148,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            0,
+            397.24,
+            16.46
+          ],
+          "text": "다음은 정삼각형입니다. 이 정삼각형의 둘레의 길이는 얼마입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.36,
+            157.9,
+            81.08,
+            267.98
+          ],
+          "text": "①$ 24 \\mathrm{~cm} $  ②$ 26 \\mathrm{~cm} $  ③$ 36 \\mathrm{~cm} $  ④$ 44 \\mathrm{~cm} $  ⑤$ 45 \\mathrm{~cm} $"
+        }
+      ]
+    }
+  ]
+}

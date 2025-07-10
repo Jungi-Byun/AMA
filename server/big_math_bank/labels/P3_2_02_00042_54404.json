@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00042_54404.png",
+  "id": "00042_54404",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숫자 카드에서 $2$장을 뽑아 두 자리 수를 만들 때, $4$로 나누어떨어지는 수는 모두 몇 개입니까? $4 0 2 6$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            545,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            19,
+            194,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            547,
+            60
+          ],
+          "text": "숫자 카드에서 $2$장을 뽑아 두 자리 수를 만들 때, $4$로 나누어떨어지는 수는 모두 몇 개입니까? $4 0 2 6$"
+        }
+      ]
+    }
+  ]
+}

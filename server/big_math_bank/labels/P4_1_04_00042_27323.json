@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00042_27323.png",
+  "id": "00042_27323",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104004",
+      "question_topic_name": "평면도형을 위쪽, 아래쪽으로 뒤집기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형을 왼쪽으로 한 번 뒤집었을 때 나올 수 있는 모양은 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            454,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            223,
+            271
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            456,
+            23
+          ],
+          "text": "다음 도형을 왼쪽으로 한 번 뒤집었을 때 나올 수 있는 모양은 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

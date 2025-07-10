@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00042_33135.png",
+  "id": "00042_33135",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. $1$ 조는 $ \\left[\\begin{array}{l}9000 \\text { 억보다 } \\square \\text { 큰 수입니다 } \\\\ 9900 \\text { 억보다 } \\square \\text { 큰 수입니다. } \\\\ 9990 \\text { 억보다 } \\square \\text { 큰 수입니다. } \\\\ 9999 \\text { 억보다 } \\square \\text { 큰 수입니다. }\\end{array}\\right. $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            61,
+            23,
+            324,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            68,
+            55,
+            312,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            70,
+            57,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            68,
+            86,
+            294,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            62,
+            117,
+            276,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            326,
+            144
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. $1$ 조는 $ \\left[\\begin{array}{l}9000 \\text { 억보다 } \\square \\text { 큰 수입니다 } \\\\ 9900 \\text { 억보다 } \\square \\text { 큰 수입니다. } \\\\ 9990 \\text { 억보다 } \\square \\text { 큰 수입니다. } \\\\ 9999 \\text { 억보다 } \\square \\text { 큰 수입니다. }\\end{array}\\right. $"
+        }
+      ]
+    }
+  ]
+}

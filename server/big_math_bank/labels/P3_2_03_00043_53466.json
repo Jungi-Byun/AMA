@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53466.png",
+  "id": "00043_53466",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "원의 지름이 가로로 일직선상에 있는 세 원이 접해 있을 때, 좌측부터 순서대로 지름의 길이가 8 cm인 빨간색인 원의 중심이 점 ㄱ인 첫 번째 원과 지름의 길이가 10 cm인 빨간색인 원의 중심이 있는 두 번째 원과 지름의 길이가 6 cm인 빨간색인 원의 중심이 점 ㄴ인 세 번째 원",
+      "question_text": "선분 ㄱㄴ의 길이는 몇 cm입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            213,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            30,
+            251,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            215,
+            23
+          ],
+          "text": "선분 ㄱㄴ의 길이는 몇 cm입니까?"
+        }
+      ]
+    }
+  ]
+}

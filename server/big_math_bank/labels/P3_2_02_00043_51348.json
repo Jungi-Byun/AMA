@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00043_51348.png",
+  "id": "00043_51348",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "튀김 $30$개를 한 접시에 $4$개씩 담았습니다. 튀김을 $4$개씩 담은 접시는 몇 개이고, 남은 튀김은 몇 개인지 식을 쓰고 답을 구하시오. 식\\qquad\\qquad 답\\qquad,\\qquad",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            746,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            748,
+            21
+          ],
+          "text": "튀김 $30$개를 한 접시에 $4$개씩 담았습니다. 튀김을 $4$개씩 담은 접시는 몇 개이고, 남은 튀김은 몇 개인지 식을 쓰고 답을 구하시오. 식\\qquad\\qquad 답\\qquad,\\qquad"
+        }
+      ]
+    }
+  ]
+}

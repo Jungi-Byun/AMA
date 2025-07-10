@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_02_00043_37785.png",
+  "id": "00043_37785",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102013",
+      "question_topic_name": "삼각형에서 나머지 한 각의 크기 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빛을 거울에 비추면 빛이 들어가는 방향과 다른 방향으로 빛이 반사됩니다. 빛이 거울에서 반사될 때 입사각과 반사각의 크기는 항상 같습니다. 이를 이용하여 다음과 같이 평행하게 놓인 두 거울 사이로 빛을 쏘았을 때 ㉠을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            537,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            52,
+            310,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "빛을 거울에 비추면 빛이 들어가는 방향과 다른 방향으로 빛이 반사됩니다. 빛이 거울에서 반사될 때 입사각과 반사각의 크기는 항상 같습니다. 이를 이용하여 다음과 같이 평행하게 놓인 두 거울 사이로 빛을 쏘았을 때 ㉠을 구하시오."
+        }
+      ]
+    }
+  ]
+}

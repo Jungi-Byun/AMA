@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_04_00043_38379.png",
+  "id": "00043_38379",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104005",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "칭찬 붙임 딱지 $63$장을 모으면 수첩 한 권을 받습니다. 친구들의 대화를 읽고 수첩으로 바꾼 칭찬 붙임 딱지는 각각 몇 장인지 구하시오. 연준 : 난 수첩을 모두 $2$권 받았어. 수미 : 난 수첩을 $3$권 받았어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            779,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            26,
+            219,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            54,
+            189,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            1,
+            781,
+            74
+          ],
+          "text": "칭찬 붙임 딱지 $63$장을 모으면 수첩 한 권을 받습니다. 친구들의 대화를 읽고 수첩으로 바꾼 칭찬 붙임 딱지는 각각 몇 장인지 구하시오. 연준 : 난 수첩을 모두 $2$권 받았어. 수미 : 난 수첩을 $3$권 받았어."
+        }
+      ]
+    }
+  ]
+}

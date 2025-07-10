@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_04_00042_24199.png",
+  "id": "00042_24199",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자두가 $35$개 있습니다. 그중에서 현주는 $\\frac{2}{7}$를 먹었고, 희경이는 $\\frac{2}{5}$를 먹었습니다. 현주와 희경이가 먹고 남은 자두는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            769,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            771,
+            39
+          ],
+          "text": "자두가 $35$개 있습니다. 그중에서 현주는 $\\frac{2}{7}$를 먹었고, 희경이는 $\\frac{2}{5}$를 먹었습니다. 현주와 희경이가 먹고 남은 자두는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

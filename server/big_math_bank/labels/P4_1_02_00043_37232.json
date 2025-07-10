@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_02_00043_37232.png",
+  "id": "00043_37232",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102007",
+      "question_topic_name": "각도를 어림하고 각도기로 재어 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 영화 촬영을 할 때 촬영의 시작을 알리는 도구입니다. 윗부분의 두 막대가 이루는 각을 어림하여 쓰고, 각도기를 사용하여 각도를 재어 확인해 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            120,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            43,
+            181,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "다음은 영화 촬영을 할 때 촬영의 시작을 알리는 도구입니다. 윗부분의 두 막대가 이루는 각을 어림하여 쓰고, 각도기를 사용하여 각도를 재어 확인해 보시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_06_00042_93559.png",
+  "id": "00042_93559",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "마을별 기르는 돼지 수를 조사하여 나타낸 그림그래프입니다. 기르는 돼지 수가 숲속 마을의 $2$배인 마을은 어느 마을입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            718,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            33,
+            316,
+            301
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            720,
+            25
+          ],
+          "text": "마을별 기르는 돼지 수를 조사하여 나타낸 그림그래프입니다. 기르는 돼지 수가 숲속 마을의 $2$배인 마을은 어느 마을입니까?"
+        }
+      ]
+    }
+  ]
+}

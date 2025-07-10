@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_01_00043_38608.png",
+  "id": "00043_38608",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201001",
+      "question_topic_name": "분모가 같고 합이 1보다 작은 (진분수)+(진분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 사람이 사용한 페인트는 모두 몇 $L$인지 알아보시오. ⑴ 두 사람이 사용한 페인트는 모두 몇 $L$인지 식으로 나타내시오 ⑵ 그림에 알맞게 색칠하여 사용한 페인트가 모두 몇 $L$인지 알아보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            324,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            207,
+            380,
+            224
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            229,
+            421,
+            246
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            29,
+            312,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            256,
+            186,
+            330
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            0.19,
+            324.94,
+            16.83
+          ],
+          "text": "두 사람이 사용한 페인트는 모두 몇 $L$인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.74,
+            206.27,
+            420.94,
+            246.59
+          ],
+          "text": "⑴ 두 사람이 사용한 페인트는 모두 몇 $L$인지 식으로 나타내시오 ⑵ 그림에 알맞게 색칠하여 사용한 페인트가 모두 몇 $L$인지 알아보시오."
+        }
+      ]
+    }
+  ]
+}

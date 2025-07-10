@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_03_00042_26822.png",
+  "id": "00042_26822",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "(1) $6$ 나누기 $3$은 $\\square$와 같습니다.   (2) $6$을 $3$곳으로 똑같이 나누면 한 곳에 $\\square$ 개씩 됩니다.  (3) $2$는 $6$을 $3$으로 나눈 $\\square$ 이라고 합니다. $\\square$ 안에 알맞은 수나 말을 써넣으시오.  $6\\div3=2$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            233,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            80,
+            19,
+            186,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            159,
+            220,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            182,
+            349,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            204,
+            273,
+            225
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            73,
+            254,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            160,
+            351,
+            226
+          ],
+          "text": "(1) $6$ 나누기 $3$은 $\\square$와 같습니다.   (2) $6$을 $3$곳으로 똑같이 나누면 한 곳에 $\\square$ 개씩 됩니다.  (3) $2$는 $6$을 $3$으로 나눈 $\\square$ 이라고 합니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.84,
+            0.15,
+            233.37,
+            60.05
+          ],
+          "text": "$\\square$ 안에 알맞은 수나 말을 써넣으시오.  $6\\div3=2$  "
+        }
+      ]
+    }
+  ]
+}

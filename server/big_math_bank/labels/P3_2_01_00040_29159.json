@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_01_00040_29159.png",
+  "id": "00040_29159",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 <보기>에서 ㉠에 알맞은 수를 구하는 식으로 바른 것은 어느 것입니까? <보기>  \\( \\begin{array}{r}48 \\\\ \\times 37 \\\\ \\hline \\square \\\\ \\square \\\\ \\hline ㉠ \\end{array}\\\\ \\) ① $ 48 \\times 7 $ ② $ 48 \\times 30 $ ③ $ 48 \\times 3 $ ④ $ (48 \\times 7)+(48 \\times 3) $ ⑤ $ (48 \\times 7)+(48 \\times 30) $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            451,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            70,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            53,
+            113,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            175,
+            77,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            200,
+            86,
+            220
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            222,
+            77,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            244,
+            136,
+            264
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            266,
+            145,
+            286
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            487,
+            287
+          ],
+          "text": "다음 <보기>에서 ㉠에 알맞은 수를 구하는 식으로 바른 것은 어느 것입니까? <보기>  \\( \\begin{array}{r}48 \\\\ \\times 37 \\\\ \\hline \\square \\\\ \\square \\\\ \\hline ㉠ \\end{array}\\\\ \\) ① $ 48 \\times 7 $ ② $ 48 \\times 30 $ ③ $ 48 \\times 3 $ ④ $ (48 \\times 7)+(48 \\times 3) $ ⑤ $ (48 \\times 7)+(48 \\times 30) $"
+        }
+      ]
+    }
+  ]
+}

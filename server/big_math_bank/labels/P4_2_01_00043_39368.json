@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_2_01_00043_39368.png",
+  "id": "00043_39368",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진영이는 $ 4 $시간 동안 수학과 과학을 공부했습니다. 수학을 $ 2 \\frac{2}{3} $시간 동안 공부했을 때, 과학을 공부한 시간을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            695,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            697,
+            37
+          ],
+          "text": "진영이는 $ 4 $시간 동안 수학과 과학을 공부했습니다. 수학을 $ 2 \\frac{2}{3} $시간 동안 공부했을 때, 과학을 공부한 시간을 구하시오."
+        }
+      ]
+    }
+  ]
+}

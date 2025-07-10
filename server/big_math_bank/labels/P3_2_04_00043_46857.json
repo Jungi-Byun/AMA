@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00043_46857.png",
+  "id": "00043_46857",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영석이는 가지고 있는 딱지 $30$개 중에서 $7$개는 친구에게 주고 $11$개는 동생에게 주었습니다. $\\square$ 안에 알맞은 수를 써넣으시오.(1) 친구에게 준 딱지 $7$개는 $30$개의 $\\frac{\\square}{\\square}$입니다.(2) 동생에게 준 딱지 $11$개는 $30$개의 $\\frac{\\square}{\\square}$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            719,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            306,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            69,
+            312,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            721,
+            115
+          ],
+          "text": "영석이는 가지고 있는 딱지 $30$개 중에서 $7$개는 친구에게 주고 $11$개는 동생에게 주었습니다. $\\square$ 안에 알맞은 수를 써넣으시오.(1) 친구에게 준 딱지 $7$개는 $30$개의 $\\frac{\\square}{\\square}$입니다.(2) 동생에게 준 딱지 $11$개는 $30$개의 $\\frac{\\square}{\\square}$입니다."
+        }
+      ]
+    }
+  ]
+}

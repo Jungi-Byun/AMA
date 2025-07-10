@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58272.png",
+  "id": "00043_58272",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진수네 목장에는 말 $6$마리와 소 $4$마리가 있습니다. 아버지께서는 진수에게 말과 소에게 줄 풀을 모아놓으라고 말씀하셨습니다. 말과 소가 먹는 양이 다음과 같을 때 진수가 준비해야 하는 풀의 양은 몇 $kg$입니까? (단, 말과 소는 하루에 $1kg$ 단위로 풀을 먹고, 말과 소가 먹는 풀의 양은 각각 일정합니다.)  말 $4$마리와 소 $6$마리가 하루의 먹는 풀의 양은 $42kg$이고, 말$ 7$마리와 소 $15$마리가 하루에 먹는 풀의 양은 $87kg$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            794,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            151,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.72,
+            73.22,
+            688.72,
+            94.22
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.72,
+            0.22,
+            794.72,
+            94.22
+          ],
+          "text": "진수네 목장에는 말 $6$마리와 소 $4$마리가 있습니다. 아버지께서는 진수에게 말과 소에게 줄 풀을 모아놓으라고 말씀하셨습니다. 말과 소가 먹는 양이 다음과 같을 때 진수가 준비해야 하는 풀의 양은 몇 $kg$입니까? (단, 말과 소는 하루에 $1kg$ 단위로 풀을 먹고, 말과 소가 먹는 풀의 양은 각각 일정합니다.)  말 $4$마리와 소 $6$마리가 하루의 먹는 풀의 양은 $42kg$이고, 말$ 7$마리와 소 $15$마리가 하루에 먹는 풀의 양은 $87kg$입니다."
+        }
+      ]
+    }
+  ]
+}

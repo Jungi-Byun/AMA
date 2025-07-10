@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00043_32347.png",
+  "id": "00043_32347",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억 단위 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$0$에서 $9$까지의 숫자를 한 번씩만 사용하여 다음 조건을 만족하는 $10$자리 수를 만들려고 합니다. 만들 수 있는 수 중 가장 큰 수를 구하시오. ㉠ 억의 자리 숫자는 만의 자리 숫자의 $2$배입니다.㉡ 만의 자리 숫자는 일의 자리 숫자의 $3$배입니다.㉢ 십억의 자리 숫자는 십만의 자리 숫자의 $4$배입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            759,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            61,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            46,
+            306,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            76,
+            307,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            96,
+            270,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            118,
+            98,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            144
+          ],
+          "text": "$0$에서 $9$까지의 숫자를 한 번씩만 사용하여 다음 조건을 만족하는 $10$자리 수를 만들려고 합니다. 만들 수 있는 수 중 가장 큰 수를 구하시오. ㉠ 억의 자리 숫자는 만의 자리 숫자의 $2$배입니다.㉡ 만의 자리 숫자는 일의 자리 숫자의 $3$배입니다.㉢ 십억의 자리 숫자는 십만의 자리 숫자의 $4$배입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00043_50284.png",
+  "id": "00043_50284",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 두 수의 크기를 비교하여 $\\bigcirc$ 안에 $>$, $<$ 를 알맞게 써넣으시오. $ 0.65 \\bigcirc 0.72 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            15.33,
+            1.83,
+            433.33,
+            22.83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            116.33,
+            167.83,
+            150.33,
+            194.83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            153.33,
+            167.83,
+            189.33,
+            199.83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            189.33,
+            169.83,
+            227.33,
+            196.83
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            35,
+            307,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            431,
+            22
+          ],
+          "text": "그림을 보고 두 수의 크기를 비교하여 $\\bigcirc$ 안에 $>$, $<$ 를 알맞게 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            114,
+            166,
+            229,
+            199
+          ],
+          "text": "$ 0.65 \\bigcirc 0.72 $ "
+        }
+      ]
+    }
+  ]
+}

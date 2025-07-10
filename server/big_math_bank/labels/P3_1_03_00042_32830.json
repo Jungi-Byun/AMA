@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_03_00042_32830.png",
+  "id": "00042_32830",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "딸기 $18$개를 $3$개의 접시에 똑같이 나누어 담으려고 합니다. 한 접시에 몇 개씩 담아야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            546,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            548,
+            21
+          ],
+          "text": "딸기 $18$개를 $3$개의 접시에 똑같이 나누어 담으려고 합니다. 한 접시에 몇 개씩 담아야 합니까?"
+        }
+      ]
+    }
+  ]
+}

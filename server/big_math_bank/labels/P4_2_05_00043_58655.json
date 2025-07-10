@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_05_00043_58655.png",
+  "id": "00043_58655",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205002",
+      "question_topic_name": "꺾은선그래프 내용 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음에서 $7$월의 에어컨 판매량은 $4$월에 비하여 늘었습니까, 줄었습니까? 대교 신문 올 여름 무더위 기승 전국 폭염특보 $ \\bigcirc   \\bigcirc $ 회사의 에어컨 판매량을 조사하여 나타낸 꺾은선그래프입니다. 에어컨 판매량",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            428,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            29,
+            318,
+            333
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            430,
+            23
+          ],
+          "text": "다음에서 $7$월의 에어컨 판매량은 $4$월에 비하여 늘었습니까, 줄었습니까? 대교 신문 올 여름 무더위 기승 전국 폭염특보 $ \\bigcirc   \\bigcirc $ 회사의 에어컨 판매량을 조사하여 나타낸 꺾은선그래프입니다. 에어컨 판매량"
+        }
+      ]
+    }
+  ]
+}

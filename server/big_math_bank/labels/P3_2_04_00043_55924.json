@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55924.png",
+  "id": "00043_55924",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "팔린 케이크의 수를 나타낸 것입니다. 팔린 케이크의 수를 대분수로 나타내시오. 치즈 케이크 $\\frac{15}{8}$개 초콜릿 케이크 $\\frac{22}{7}$개 (1) 치즈 케이크 $\\frac{15}{8} = ()$ (2) 초콜릿 케이크 $\\frac{22}{7} =  ()$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            467,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            35,
+            241,
+            326
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            469,
+            24
+          ],
+          "text": "팔린 케이크의 수를 나타낸 것입니다. 팔린 케이크의 수를 대분수로 나타내시오. 치즈 케이크 $\\frac{15}{8}$개 초콜릿 케이크 $\\frac{22}{7}$개 (1) 치즈 케이크 $\\frac{15}{8} = ()$ (2) 초콜릿 케이크 $\\frac{22}{7} =  ()$"
+        }
+      ]
+    }
+  ]
+}

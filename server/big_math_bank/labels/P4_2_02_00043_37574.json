@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_02_00043_37574.png",
+  "id": "00043_37574",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202003",
+      "question_topic_name": "이등변삼각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미주는 다음과 같은 두 각의 크기를 이용하여 이등변삼각형을 그리려고 합니다. 이등변삼각형이 될 수 없는 것은 무엇입니까? ① $80^{\\circ}, 80^{\\circ}$ ② $60^{\\circ}, 70^{\\circ}$ ③$ 50^{\\circ}, 80^{\\circ} $ ④$ 30^{\\circ}, 75^{\\circ} $ ⑤$ 90^{\\circ}, 45^{\\circ} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            723,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            97,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            95,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            95,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            93,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            94,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            725,
+            128
+          ],
+          "text": "미주는 다음과 같은 두 각의 크기를 이용하여 이등변삼각형을 그리려고 합니다. 이등변삼각형이 될 수 없는 것은 무엇입니까? ① $80^{\\circ}, 80^{\\circ}$ ② $60^{\\circ}, 70^{\\circ}$ ③$ 50^{\\circ}, 80^{\\circ} $ ④$ 30^{\\circ}, 75^{\\circ} $ ⑤$ 90^{\\circ}, 45^{\\circ} $"
+        }
+      ]
+    }
+  ]
+}

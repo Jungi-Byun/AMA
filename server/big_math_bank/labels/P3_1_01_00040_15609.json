@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00040_15609.png",
+  "id": "00040_15609",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "윤미의 걸음으로 집에서 슈퍼마켓까지는 $576$걸음이고, 슈퍼마켓에서 학교까지는 $302$걸음입니다. 윤미가 집에서 슈퍼마켓을 지나 학교까지 가려면 몇 걸음을 걸어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            752,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            262,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            754,
+            41
+          ],
+          "text": "윤미의 걸음으로 집에서 슈퍼마켓까지는 $576$걸음이고, 슈퍼마켓에서 학교까지는 $302$걸음입니다. 윤미가 집에서 슈퍼마켓을 지나 학교까지 가려면 몇 걸음을 걸어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_03_00042_25589.png",
+  "id": "00042_25589",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈식을 보고 $\\square$ 안에 알맞은 수나 말을 써넣으시오.  $16\\div2=8$ ($1$) $16\\square 2$는 $\\square$ 입니다. ($2$) $16$에서 $\\square$ 씩 $\\square$번 덜어 내면 $0$입니다. ($3$) $8$은 $16$을 $\\square$ 로 나눈 $\\square$ 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            329,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            55,
+            231,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            282,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            102,
+            239,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            331,
+            124
+          ],
+          "text": "나눗셈식을 보고 $\\square$ 안에 알맞은 수나 말을 써넣으시오.  $16\\div2=8$ ($1$) $16\\square 2$는 $\\square$ 입니다. ($2$) $16$에서 $\\square$ 씩 $\\square$번 덜어 내면 $0$입니다. ($3$) $8$은 $16$을 $\\square$ 로 나눈 $\\square$ 입니다."
+        }
+      ]
+    }
+  ]
+}

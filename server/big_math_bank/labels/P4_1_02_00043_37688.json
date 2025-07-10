@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_02_00043_37688.png",
+  "id": "00043_37688",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102006",
+      "question_topic_name": "예각과 둔각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희정이는 $8$시 $30$분에 등교하여 $7$시간 후에 하교합니다. 희정이가 학교에 있는 시간 중에서 시계의 긴바늘이 숫자 $12$를 가리키고 긴바늘과 짧은바늘이 이루는 작은 쪽의 각이 예각인 경우는 몇 번 있는지 알아보시오.  ⑴ 희정이가 하교하는 시각은 몇 시 몇 분입니까?  ⑵ 희정이가 학교에 있는 시간 중에서 시계의 긴바늘이 숫자 $12$를 가리키는 시각을 모두 쓰시오.  ⑶ ⑵의 시각 중 긴바늘과 짧은바늘이 이루는 작은 쪽의 각이 예각인 경우는 몇 번입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            443,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            295,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            556,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            521,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            106
+          ],
+          "text": "희정이는 $8$시 $30$분에 등교하여 $7$시간 후에 하교합니다. 희정이가 학교에 있는 시간 중에서 시계의 긴바늘이 숫자 $12$를 가리키고 긴바늘과 짧은바늘이 이루는 작은 쪽의 각이 예각인 경우는 몇 번 있는지 알아보시오.  ⑴ 희정이가 하교하는 시각은 몇 시 몇 분입니까?  ⑵ 희정이가 학교에 있는 시간 중에서 시계의 긴바늘이 숫자 $12$를 가리키는 시각을 모두 쓰시오.  ⑶ ⑵의 시각 중 긴바늘과 짧은바늘이 이루는 작은 쪽의 각이 예각인 경우는 몇 번입니까?"
+        }
+      ]
+    }
+  ]
+}

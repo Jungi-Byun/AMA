@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00042_26827.png",
+  "id": "00042_26827",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빨간 구슬$ 12$개와 파란 구슬 $13$개가 있습니다. 색깔에 관계없이 구슬을 $5$사람에게 똑같이 나누어 주려고 합니다. 한 사람에게 몇 개씩 나누어 주어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            124,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            237,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            40
+          ],
+          "text": "빨간 구슬$ 12$개와 파란 구슬 $13$개가 있습니다. 색깔에 관계없이 구슬을 $5$사람에게 똑같이 나누어 주려고 합니다. 한 사람에게 몇 개씩 나누어 주어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_28394.png",
+  "id": "00042_28394",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형 ㄱㄴㄷㄹ에서 변 ㄴㄷ 위에 점 ㅅ이 있으며, 선분 ㄹㅅ을 접는 선으로 하여 기존 사각형 위치를 점선으로 표시하고, 각 ㄷ의 새 위치가 ㅁ, 변 ㄱㄹ과 선분 ㅁㅅ의 접점을 ㅂ으로 하며, 각 ㄹㅅㅁ이 20도, 각 ㄱㅂㅅ에 각 표시가 있는 그림",
+      "question_text": "직사각형 모양의 종이를 접은 것입니다. 각 ㄱㅂㅅ의 크기를 구하시오.각 ㄱㅂㅅ$= ()^\\circ$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            413,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            24,
+            209,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            415,
+            24
+          ],
+          "text": "직사각형 모양의 종이를 접은 것입니다. 각 ㄱㅂㅅ의 크기를 구하시오.각 ㄱㅂㅅ$= ()^\\circ$"
+        }
+      ]
+    }
+  ]
+}

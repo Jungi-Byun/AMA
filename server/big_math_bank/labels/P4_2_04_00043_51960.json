@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_51960.png",
+  "id": "00043_51960",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204002",
+      "question_topic_name": "삼각자와 각도기를 이용한 수선 긋기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 직각 삼각자를 사용하여 주어진 직선에 대한 수선을 그어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            472,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            28,
+            320,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.17,
+            0.44,
+            475.17,
+            18.44
+          ],
+          "text": "<보기>와 같이 직각 삼각자를 사용하여 주어진 직선에 대한 수선을 그어 보시오."
+        }
+      ]
+    }
+  ]
+}

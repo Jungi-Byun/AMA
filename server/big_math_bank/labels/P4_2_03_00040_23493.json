@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00040_23493.png",
+  "id": "00040_23493",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203012",
+      "question_topic_name": "소수 한 자리 수의 뺄셈",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민호와 선영이는 딸기밭에서 딸기를 땄습니다. 민호는 $0.8kg$, 선영이는 $0.1kg$을 땄다면 민호는 선영이보다 몇 $kg$의 딸기를 더 딴 것입니까? ①$0.4kg$ ②$0.5kg$ ③$0.6kg$ ④$0.7kg$ ⑤$0.8kg$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            80,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            79,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            80,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            79,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            80,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            804,
+            130
+          ],
+          "text": "민호와 선영이는 딸기밭에서 딸기를 땄습니다. 민호는 $0.8kg$, 선영이는 $0.1kg$을 땄다면 민호는 선영이보다 몇 $kg$의 딸기를 더 딴 것입니까? ①$0.4kg$ ②$0.5kg$ ③$0.6kg$ ④$0.7kg$ ⑤$0.8kg$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33424.png",
+  "id": "00043_33424",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "거리가 765 cm인 두 점선이 있고, 짧은 막대를 왼쪽 점선에 접하게 위쪽에 놓고, 긴 막대를 오른쪽 점선에 접하게 아래쪽에 놓을 때, 두 막대가 겹치는 부분의 길이가 178 cm인 그림",
+      "question_text": "길이의 차가 $ 187 \\mathrm{~cm} $ 인 두 막대를 그림과 같이 겹쳤습니다. 긴 막대와 짦은 막대의 길이를 차례로 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            618,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            24,
+            312,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            618,
+            22
+          ],
+          "text": "길이의 차가 $ 187 \\mathrm{~cm} $ 인 두 막대를 그림과 같이 겹쳤습니다. 긴 막대와 짦은 막대의 길이를 차례로 구하시오."
+        }
+      ]
+    }
+  ]
+}

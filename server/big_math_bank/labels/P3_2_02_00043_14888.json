@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00043_14888.png",
+  "id": "00043_14888",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진형이는 재미있는 나눗셈 수수께끼를 만들고 있습니다. 다음을 보고 물음에 답하시오.        (1) 위의 표에 있는 나눗셈의 몫을 구하여 표의 빈칸에 알맞게 채우시오. (2) 나눗셈의 몫의 크기가 작은 순서대로 가장 윗줄에 있는 글자를 쓰면 수수게끼 문제가 나옵니다 수수께끼 문제를 찾고 답하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            505,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            266,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            165,
+            419,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            187,
+            755,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            758,
+            205
+          ],
+          "text": "진형이는 재미있는 나눗셈 수수께끼를 만들고 있습니다. 다음을 보고 물음에 답하시오.        (1) 위의 표에 있는 나눗셈의 몫을 구하여 표의 빈칸에 알맞게 채우시오. (2) 나눗셈의 몫의 크기가 작은 순서대로 가장 윗줄에 있는 글자를 쓰면 수수게끼 문제가 나옵니다 수수께끼 문제를 찾고 답하시오."
+        }
+      ]
+    }
+  ]
+}

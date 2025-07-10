@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00040_38400.png",
+  "id": "00040_38400",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203004",
+      "question_topic_name": "소수의 크기를 비교하는 방법 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 소수 중에서 생략할 수 있는 $0$이 있는 수는 어느 것입니까? ①$0.017$ ②$9.049$ ③$0.720$ ④$7.008$ ⑤$0.405$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            380,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            79,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            81,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            81,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            82,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            82,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            382,
+            130
+          ],
+          "text": "다음 소수 중에서 생략할 수 있는 $0$이 있는 수는 어느 것입니까? ①$0.017$ ②$9.049$ ③$0.720$ ④$7.008$ ⑤$0.405$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_01_00043_38905.png",
+  "id": "00043_38905",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.  (1) \\[\\frac{7}{9}-\\frac{3}{9}=\\frac{\\square-\\square}{9}=\\frac{\\square}{9} \\] (2) \\[ 4-\\frac{2}{6}=\\square \\frac{\\square}{6}-\\frac{2}{6}=\\square \\frac{\\square}{6} \\]",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            274,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            70,
+            238,
+            297,
+            286
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            76.86,
+            104.54,
+            279.74,
+            154.46
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            31,
+            317,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            171,
+            311,
+            227
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            277,
+            19
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            78,
+            105,
+            280,
+            155
+          ],
+          "text": "(1) \\[\\frac{7}{9}-\\frac{3}{9}=\\frac{\\square-\\square}{9}=\\frac{\\square}{9} \\]"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            68,
+            237,
+            299,
+            287
+          ],
+          "text": "(2) \\[ 4-\\frac{2}{6}=\\square \\frac{\\square}{6}-\\frac{2}{6}=\\square \\frac{\\square}{6} \\]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_28442.png",
+  "id": "00042_28442",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "빗변이 밑변이고 밑변의 대각이 직각인 직각삼각형에서 밑변의 오른쪽 꼭짓점의 내각이 50도이고, 왼쪽 꼭짓점을 밑변 위의 한 점과 왼쪽 변 위의 한 점을 이은 선분을 접는 선으로 접었을 때, 접혀진 밑변과 왼쪽 변이 만나서 생기는 사잇각은 ㄱ이고, 접히기 전의 밑변과 접는 선이 만나 생기는 각이 15도이며, 접히기 전의 종이의 위치는 점선으로 표시하고 종이를 회색으로 칠한 그림",
+      "question_text": "직각삼각형 모양의 종이를 그림과 같이 접었습니다. 각 ㉠의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            455,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            192,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            457,
+            21
+          ],
+          "text": "직각삼각형 모양의 종이를 그림과 같이 접었습니다. 각 ㉠의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

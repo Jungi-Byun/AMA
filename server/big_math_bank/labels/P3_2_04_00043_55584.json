@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_04_00043_55584.png",
+  "id": "00043_55584",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "학생들이 좋아하는 음식을 표로 나타낸 것입니다. 물음에 답하시오.  <음식별 좋아하는 학생 수> <table border> <tbody>   <tr>     <td>피자</td>     <td>치킨</td>     <td>스파게티</td>   </tr>   <tr>     <td>$15$명</td>     <td>$3$명</td>     <td>$7$명</td>   </tr> </tbody> </table> (1) 피자를 좋아하는 학생 수는 스파게티를 좋아하는 학생 수의 몇 분의 몇인지 수직선 위에 빨간색 점으로 표시해 보시오. (2) 치킨을 좋아하는 학생 수는 스파게티를 좋아하는 학생 수의 몇 분의 몇인지 수직선 위에 파란색 점으로 표시해 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            396,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            22,
+            187,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            158,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            147,
+            700,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            168,
+            702,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            105,
+            317,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            398,
+            94
+          ],
+          "text": "학생들이 좋아하는 음식을 표로 나타낸 것입니다. 물음에 답하시오.  <음식별 좋아하는 학생 수> <table border> <tbody>   <tr>     <td>피자</td>     <td>치킨</td>     <td>스파게티</td>   </tr>   <tr>     <td>$15$명</td>     <td>$3$명</td>     <td>$7$명</td>   </tr> </tbody> </table>"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            145,
+            704,
+            188
+          ],
+          "text": "(1) 피자를 좋아하는 학생 수는 스파게티를 좋아하는 학생 수의 몇 분의 몇인지 수직선 위에 빨간색 점으로 표시해 보시오. (2) 치킨을 좋아하는 학생 수는 스파게티를 좋아하는 학생 수의 몇 분의 몇인지 수직선 위에 파란색 점으로 표시해 보시오."
+        }
+      ]
+    }
+  ]
+}

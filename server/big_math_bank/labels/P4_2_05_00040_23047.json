@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_05_00040_23047.png",
+  "id": "00040_23047",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205001",
+      "question_topic_name": "꺾은선그래프 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "상수의 몸무게를 매년 6월에 조사하여 가로축에는 단위가 (살)인 나이를 7, 8, 9, 10, 11 순으로 나열하고, 세로축에는 단위가 (kg)인 몸무게를 눈금 단위가 2이고 5칸마다 10배수로 단위를 표시하며, 매년 6월 조사라는 문구가 괄호 안에 그래프 우측 상단에 있고, 나이가 7살에는 몸무게가 18 kg, 나이가 8살에는 20 kg, 나이가 9살에는 24 kg, 나이가 10살에는 32 kg, 나이가 11살에는 34 kg 임을 나타낸 꺾은선그래프",
+      "question_text": "다음은 상수의 몸무게를 꺾은선그래프로 나타낸 것입니다. 세로의 작은 눈금 한 칸은 몇 $kg$입니까? ①$0.5kg$ ②$1kg$ ③$2kg$ ④$3kg$ ⑤$5kg$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            573,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            215,
+            79,
+            235
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            237,
+            65,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            259,
+            67,
+            279
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            281,
+            67,
+            301
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            303,
+            67,
+            323
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            24,
+            243,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            0.67,
+            572.62,
+            16.67
+          ],
+          "text": "다음은 상수의 몸무게를 꺾은선그래프로 나타낸 것입니다. 세로의 작은 눈금 한 칸은 몇 $kg$입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.94,
+            216.99,
+            79.82,
+            321.95
+          ],
+          "text": "①$0.5kg$ ②$1kg$ ③$2kg$ ④$3kg$ ⑤$5kg$"
+        }
+      ]
+    }
+  ]
+}

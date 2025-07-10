@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50046.png",
+  "id": "00043_50046",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "수직선 위 1.25, 1.26 사이에 1.25, 1.26의 눈금보다 작은 눈금 9개가 일정한 간격을 두고 있는 도형",
+      "question_text": "소수 1.254를 수직선에 화살표로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            274,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            29,
+            316,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            276,
+            23
+          ],
+          "text": "소수 1.254를 수직선에 화살표로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

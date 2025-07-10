@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_04_00043_38329.png",
+  "id": "00043_38329",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 곱셈식에서 숫자 '4'가 나타내는 수는 얼마인지 바르게 나타낸 것은 무엇입니까? $ \\begin{array}{r}23 \\\\ \\times  2 \\\\ \\hline 46\\end{array} $①2×2 ②20×2 ③2+2 ④20+2",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            505,
+            22
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            27,
+            82,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            112,
+            69,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            137,
+            78,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            159,
+            68,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            181,
+            78,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            511,
+            202
+          ],
+          "text": "다음 곱셈식에서 숫자 '4'가 나타내는 수는 얼마인지 바르게 나타낸 것은 무엇입니까? $ \\begin{array}{r}23 \\\\ \\times  2 \\\\ \\hline 46\\end{array} $①2×2 ②20×2 ③2+2 ④20+2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_2_03_00042_55421.png",
+  "id": "00042_55421",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203013",
+      "question_topic_name": "소수 두 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게가 $0.27$kg인 상자 안에 무게가 $0.85$kg인 호박을 넣었습니다. 호박을 넣은 상자의 무게는 몇 kg입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            623,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            625,
+            21
+          ],
+          "text": "무게가 $0.27$kg인 상자 안에 무게가 $0.85$kg인 호박을 넣었습니다. 호박을 넣은 상자의 무게는 몇 kg입니까?"
+        }
+      ]
+    }
+  ]
+}

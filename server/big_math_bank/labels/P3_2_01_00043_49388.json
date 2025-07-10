@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_01_00043_49388.png",
+  "id": "00043_49388",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산한 것을 보고 물음에 답하시오.  (ㄱ) $ \\begin{array}{r}524 \\\\ \\times  3 \\\\ \\hline 1562\\end{array} $ (ㄴ) $ \\begin{array}{r}43 \\\\ \\times  30 \\\\ \\hline 1290\\end{array} $ ⑴ 바르게 계산한 것을 찾아 기호를 쓰시오. ⑵ 잘못 계산한 것은 어느 부분을 잘못 계산하였는지 설명하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            216,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            122,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            144,
+            22,
+            244,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            95,
+            262,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            384,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            386,
+            134
+          ],
+          "text": "계산한 것을 보고 물음에 답하시오.  (ㄱ) $ \\begin{array}{r}524 \\\\ \\times  3 \\\\ \\hline 1562\\end{array} $ (ㄴ) $ \\begin{array}{r}43 \\\\ \\times  30 \\\\ \\hline 1290\\end{array} $ ⑴ 바르게 계산한 것을 찾아 기호를 쓰시오. ⑵ 잘못 계산한 것은 어느 부분을 잘못 계산하였는지 설명하시오."
+        }
+      ]
+    }
+  ]
+}

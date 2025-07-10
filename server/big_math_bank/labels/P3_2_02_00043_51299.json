@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00043_51299.png",
+  "id": "00043_51299",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 윷놀이 게임에서 마지막에 칸이 남는 종류는 무엇입니까? ⑴ $20$칸을 움직이는 칸 수로 나누었을 때 나머지를 각각 구하시오.  <table border> <thead>   <tr>     <td>종류 </td>   <td>개 </td>     <td>걸 </td>     <td>윷  </td>     <td></td>         </tr> </thead> <tbody>   <tr>     <td>나머지</td>     <td></td>     <td></td>     <td></td>       </tr> </tbody> </table>  ⑵ 마지막에 칸이 남는 종류는 무엇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            372,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            269,
+            392,
+            286
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            290,
+            223,
+            339
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            339,
+            262,
+            359
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            33,
+            319,
+            254
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.79,
+            0.51,
+            371.43,
+            17.15
+          ],
+          "text": "다음 윷놀이 게임에서 마지막에 칸이 남는 종류는 무엇입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.87,
+            267.39,
+            392.55,
+            359.55
+          ],
+          "text": "⑴ $20$칸을 움직이는 칸 수로 나누었을 때 나머지를 각각 구하시오.  <table border> <thead>   <tr>     <td>종류 </td>   <td>개 </td>     <td>걸 </td>     <td>윷  </td>     <td></td>         </tr> </thead> <tbody>   <tr>     <td>나머지</td>     <td></td>     <td></td>     <td></td>       </tr> </tbody> </table>  ⑵ 마지막에 칸이 남는 종류는 무엇입니까?"
+        }
+      ]
+    }
+  ]
+}

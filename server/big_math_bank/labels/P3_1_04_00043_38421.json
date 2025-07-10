@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_04_00043_38421.png",
+  "id": "00043_38421",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104005",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로로 된 선분을 네 등분한 수직선의 각 칸 위에 길이는 31이라고 표시되어 있고, 수직선의 밑에는 31 곱하기 정사각형은 직사각형이라고 쓰인 그림",
+      "question_text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $ 31 \\times  \\square$=$\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            112,
+            71,
+            233,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            30,
+            299,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            21
+          ],
+          "text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            110,
+            69,
+            235,
+            102
+          ],
+          "text": "$ 31 \\times  \\square$=$\\square$"
+        }
+      ]
+    }
+  ]
+}

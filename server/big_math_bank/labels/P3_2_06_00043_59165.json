@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_06_00043_59165.png",
+  "id": "00043_59165",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영수와 지희가 표와 그림그래프를 보고 각각의 편리한 점을 설명했습니다. 영수와 지희가 설명한 것은 무엇인지 빈칸에 표 또는 그림그래프를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            103,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            49,
+            323,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "영수와 지희가 표와 그림그래프를 보고 각각의 편리한 점을 설명했습니다. 영수와 지희가 설명한 것은 무엇인지 빈칸에 표 또는 그림그래프를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

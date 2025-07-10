@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_42298.png",
+  "id": "00043_42298",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{1}{10} $보다 작은 분수를 찾아 기호를 쓰시오.  ㉠ $ \\frac{1}{5} $ ㉡ $ \\frac{1}{15} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            263,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            40,
+            144,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            281,
+            93
+          ],
+          "text": "$ \\frac{1}{10} $보다 작은 분수를 찾아 기호를 쓰시오.  ㉠ $ \\frac{1}{5} $ ㉡ $ \\frac{1}{15} $"
+        }
+      ]
+    }
+  ]
+}

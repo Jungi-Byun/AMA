@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_06_00043_54750.png",
+  "id": "00043_54750",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206006",
+      "question_topic_name": "모양 만들기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "모양 조각은 한 변이 $2 cm$인 정사각형 $4$개를 겹치지 않게 이어 붙여 만든 것입니다. 이 모양 조각을 여러 개 사용하여 두 번째로 작은 정사각형을 만들려고 합니다. 두 번째로 작은 정사각형의 한 변의 길이와 필요한 모양 조각의 개수를 차례로 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            655,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            49,
+            152,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            41
+          ],
+          "text": "모양 조각은 한 변이 $2 cm$인 정사각형 $4$개를 겹치지 않게 이어 붙여 만든 것입니다. 이 모양 조각을 여러 개 사용하여 두 번째로 작은 정사각형을 만들려고 합니다. 두 번째로 작은 정사각형의 한 변의 길이와 필요한 모양 조각의 개수를 차례로 구하시오."
+        }
+      ]
+    }
+  ]
+}

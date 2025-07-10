@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00043_39093.png",
+  "id": "00043_39093",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 30 cm인 끈을 6 cm씩 겹치게 이은 모양의 그림이 두 번 반복되고 그 이후는 생략 되어져 있으며 겹쳐진 부분에는 좀더 진하게 색칠이 되어있는 그림",
+      "question_text": "길이가 $30$cm인 끈 $6$개를 $6$cm씩 겹치게 이었습니다. 이은 끈의 전체 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            533,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            299,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            535,
+            21
+          ],
+          "text": "길이가 $30$cm인 끈 $6$개를 $6$cm씩 겹치게 이었습니다. 이은 끈의 전체 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

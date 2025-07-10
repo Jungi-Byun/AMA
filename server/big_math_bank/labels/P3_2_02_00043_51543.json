@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_02_00043_51543.png",
+  "id": "00043_51543",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$(주사위를 굴려 멈춘 곳의 수) \\div (클립을 돌려 멈춘 곳의 수)$를 계산해서 나머지가 큰 사람이 이기는 놀이를 하려고 합니다. ⑴ 수진이의 나눗셈식을 쓰고 나머지를 구하시오. ⑵ 경호의 나눗셈식을 쓰고 나머지를 구하시오. ⑶ 누가 이겼습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            695,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            296,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            318,
+            284,
+            336
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            605,
+            137,
+            622
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            38,
+            66,
+            304,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            46,
+            357,
+            302,
+            517
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            697,
+            41
+          ],
+          "text": "$(주사위를 굴려 멈춘 곳의 수) \\div (클립을 돌려 멈춘 곳의 수)$를 계산해서 나머지가 큰 사람이 이기는 놀이를 하려고 합니다. ⑴ 수진이의 나눗셈식을 쓰고 나머지를 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            317.9,
+            286.1,
+            337.9
+          ],
+          "text": "⑵ 경호의 나눗셈식을 쓰고 나머지를 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.1,
+            604.9,
+            139.1,
+            623.9
+          ],
+          "text": "⑶ 누가 이겼습니까?"
+        }
+      ]
+    }
+  ]
+}

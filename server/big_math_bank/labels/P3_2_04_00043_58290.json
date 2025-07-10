@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00043_58290.png",
+  "id": "00043_58290",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수직선을 보고 물음에 답하시오. $ \\begin{array}{llll}\\frac{3}{4} & \\frac{5}{4} & \\frac{6}{8} & \\frac{11}{8}\\end{array} $ (1) $ \\frac{3}{4}, \\frac{5}{4} $ 인 곳을 찾아 수직선 위에 $ \\downarrow $ 로 표시하시오. (2) $ \\frac{6}{8}, \\frac{11}{8} $ 인 곳을 찾아 수직선 위에 $ \\uparrow $ 로 표시하시오. (3) 크기가 같은 분수는 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            200,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            321,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            135,
+            333,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            179,
+            340,
+            214
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            220,
+            241,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            346,
+            238
+          ],
+          "text": "수직선을 보고 물음에 답하시오. $ \\begin{array}{llll}\\frac{3}{4} & \\frac{5}{4} & \\frac{6}{8} & \\frac{11}{8}\\end{array} $ (1) $ \\frac{3}{4}, \\frac{5}{4} $ 인 곳을 찾아 수직선 위에 $ \\downarrow $ 로 표시하시오. (2) $ \\frac{6}{8}, \\frac{11}{8} $ 인 곳을 찾아 수직선 위에 $ \\uparrow $ 로 표시하시오. (3) 크기가 같은 분수는 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

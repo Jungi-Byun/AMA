@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_06_00042_55856.png",
+  "id": "00042_55856",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206004",
+      "question_topic_name": "대각선의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 대각선의 길이가 항상 같은 도형끼리 짝지어진 것은 어느 것입니까?  ①사다리꼴, 마름모 ②평행사변형, 정사각형 ③마름모, 정사각형 ④직사각형, 정사각형 ⑤마름모, 직사각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            417,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            141,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            165,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            140,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            153,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            140,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            419,
+            130
+          ],
+          "text": "두 대각선의 길이가 항상 같은 도형끼리 짝지어진 것은 어느 것입니까?  ①사다리꼴, 마름모 ②평행사변형, 정사각형 ③마름모, 정사각형 ④직사각형, 정사각형 ⑤마름모, 직사각형"
+        }
+      ]
+    }
+  ]
+}

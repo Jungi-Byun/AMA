@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_04_00042_87667.png",
+  "id": "00042_87667",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물 $16$병 중에서 어제는 전체의 $\\frac{3}{8}$을 마셨고, 오늘은 어제 마시고 남은 물의 $\\frac{2}{5}$를 마셨습니다. 오늘 마신 물은 몇 병입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            721,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            723,
+            39
+          ],
+          "text": "물 $16$병 중에서 어제는 전체의 $\\frac{3}{8}$을 마셨고, 오늘은 어제 마시고 남은 물의 $\\frac{2}{5}$를 마셨습니다. 오늘 마신 물은 몇 병입니까?"
+        }
+      ]
+    }
+  ]
+}

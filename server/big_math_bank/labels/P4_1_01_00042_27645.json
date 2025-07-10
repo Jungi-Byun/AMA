@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_01_00042_27645.png",
+  "id": "00042_27645",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "표를 보고 넓이가 가장 넓은 지역과 가장 좁은 지역을 각각 구하시오. <table border>   <tbody>     <tr>       <td>지역</td>       <td>넓이($m^2$)</td>     </tr>     <tr>       <td>가</td>       <td>$1$억 $127$만 $400$</td>     </tr>     <tr>       <td>나</td>       <td>$166125300$</td>     </tr>     <tr>       <td>다</td>       <td>$2$억 $87$만 $8900$</td>     </tr>     <tr>       <td>라</td>       <td>$1$억 $6029$만 $5400$</td>     </tr>     <tr>       <td>마</td>       <td>$295425500$</td>     </tr>     <tr>       <td>바</td>       <td>$18471900$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            404,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            200,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            406,
+            185
+          ],
+          "text": "표를 보고 넓이가 가장 넓은 지역과 가장 좁은 지역을 각각 구하시오. <table border>   <tbody>     <tr>       <td>지역</td>       <td>넓이($m^2$)</td>     </tr>     <tr>       <td>가</td>       <td>$1$억 $127$만 $400$</td>     </tr>     <tr>       <td>나</td>       <td>$166125300$</td>     </tr>     <tr>       <td>다</td>       <td>$2$억 $87$만 $8900$</td>     </tr>     <tr>       <td>라</td>       <td>$1$억 $6029$만 $5400$</td>     </tr>     <tr>       <td>마</td>       <td>$295425500$</td>     </tr>     <tr>       <td>바</td>       <td>$18471900$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

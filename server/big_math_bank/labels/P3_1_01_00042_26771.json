@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_01_00042_26771.png",
+  "id": "00042_26771",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$㉠$에 알맞은 수는 어느 것입니까?   ①$66 $ ②$146 $ ③$156 $ ④$431 $ ⑤$515$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            206,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            86,
+            64,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            110,
+            66,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            132,
+            65,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            154,
+            65,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            176,
+            65,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            14.28,
+            18.37,
+            336.28,
+            89.37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.28,
+            0.37,
+            206.28,
+            19.37
+          ],
+          "text": "$㉠$에 알맞은 수는 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.28,
+            91.37,
+            67.28,
+            196.37
+          ],
+          "text": "  ①$66 $ ②$146 $ ③$156 $ ④$431 $ ⑤$515$"
+        }
+      ]
+    }
+  ]
+}

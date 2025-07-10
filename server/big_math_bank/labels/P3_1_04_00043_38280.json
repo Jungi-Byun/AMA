@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_04_00043_38280.png",
+  "id": "00043_38280",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 모형을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.  ⑴ 모두 몇 개인지 곱셈식으로 써 보시오. $ 21 \\times \\square= \\square$ ⑵ 수 모형은 모두 $\\square$개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            291,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            129,
+            249,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            152,
+            117,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            181,
+            218,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            25,
+            304,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            293,
+            22
+          ],
+          "text": "수 모형을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            129,
+            251,
+            208
+          ],
+          "text": "⑴ 모두 몇 개인지 곱셈식으로 써 보시오. $ 21 \\times \\square= \\square$ ⑵ 수 모형은 모두 $\\square$개입니다."
+        }
+      ]
+    }
+  ]
+}

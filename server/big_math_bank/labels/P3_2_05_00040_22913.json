@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00040_22913.png",
+  "id": "00040_22913",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 목장에서 어제는 $ 15 \\mathrm{L~} 400 \\mathrm{mL} $ 의 우유를 생산하였고, 오늘은 어제보다 $ 5 \\mathrm{L~} 700 \\mathrm{mL} $를 더 생산하였습니다. 이 목장에서 어제와 오늘 생산 한 우유의 양은 모두 얼마나 됩니까? ① $ 20 \\mathrm{L~} 100 \\mathrm{mL} $  ② $ 21 \\mathrm{L~} 100 \\mathrm{mL} $  ③ $ 20 \\mathrm{L~} 1100 \\mathrm{mL} $  ④ $ 26 \\mathrm{L~} 500 \\mathrm{mL} $  ⑤ $ 36 \\mathrm{L~} 500 \\mathrm{mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            224,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            116,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            112,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            121,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            117,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            117,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            152
+          ],
+          "text": "어느 목장에서 어제는 $ 15 \\mathrm{L~} 400 \\mathrm{mL} $ 의 우유를 생산하였고, 오늘은 어제보다 $ 5 \\mathrm{L~} 700 \\mathrm{mL} $를 더 생산하였습니다. 이 목장에서 어제와 오늘 생산 한 우유의 양은 모두 얼마나 됩니까? ① $ 20 \\mathrm{L~} 100 \\mathrm{mL} $  ② $ 21 \\mathrm{L~} 100 \\mathrm{mL} $  ③ $ 20 \\mathrm{L~} 1100 \\mathrm{mL} $  ④ $ 26 \\mathrm{L~} 500 \\mathrm{mL} $  ⑤ $ 36 \\mathrm{L~} 500 \\mathrm{mL} $"
+        }
+      ]
+    }
+  ]
+}

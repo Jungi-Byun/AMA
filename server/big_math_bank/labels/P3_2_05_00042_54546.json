@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00042_54546.png",
+  "id": "00042_54546",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이가 가장 많은 것과 가장 적은 것의 들이의 차는 몇 $L$ 몇 $mL$입니까? $4600mL 3L 450mL 2800mL 1L 240mL  { }$  $( { } )L (  { })mL$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            417,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            181,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            54,
+            178,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            423,
+            79
+          ],
+          "text": "들이가 가장 많은 것과 가장 적은 것의 들이의 차는 몇 $L$ 몇 $mL$입니까? $4600mL 3L 450mL 2800mL 1L 240mL  { }$  $( { } )L (  { })mL$"
+        }
+      ]
+    }
+  ]
+}

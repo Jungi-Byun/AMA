@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00042_53680.png",
+  "id": "00042_53680",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이의 계산을 하시오. (1) $ \\begin{array}{r}5 \\mathrm{~L} 300 \\mathrm{~mL} \\\\ +4 \\mathrm{~L} 500 \\mathrm{~mL} \\\\ \\hline\\end{array} $ (2)$ \\begin{array}{r}10 \\mathrm{~L} 750 \\mathrm{~mL} \\\\ - 2 \\mathrm{~L} 600 \\mathrm{~mL} \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            145,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            141,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            108,
+            150,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            153,
+            149
+          ],
+          "text": "들이의 계산을 하시오. (1) $ \\begin{array}{r}5 \\mathrm{~L} 300 \\mathrm{~mL} \\\\ +4 \\mathrm{~L} 500 \\mathrm{~mL} \\\\ \\hline\\end{array} $ (2)$ \\begin{array}{r}10 \\mathrm{~L} 750 \\mathrm{~mL} \\\\ - 2 \\mathrm{~L} 600 \\mathrm{~mL} \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

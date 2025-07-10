@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00042_52912.png",
+  "id": "00042_52912",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물건의 무게가 얼마쯤 되는지 어림해 보고, 다음에서 골라 기호를 쓰시오. ㉠ 약 $60g$ ㉡ 약 $3kg$ ㉢ 약 $500g$ (1) 축구공 (2) 의자 (3) 달걀",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            429,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            239,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            77,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            68,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            68,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            432,
+            121
+          ],
+          "text": "물건의 무게가 얼마쯤 되는지 어림해 보고, 다음에서 골라 기호를 쓰시오. ㉠ 약 $60g$ ㉡ 약 $3kg$ ㉢ 약 $500g$ (1) 축구공 (2) 의자 (3) 달걀"
+        }
+      ]
+    }
+  ]
+}

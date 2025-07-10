@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_01_00043_32469.png",
+  "id": "00043_32469",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101005",
+      "question_topic_name": "천만 단위 수의 각 자리의 숫자와 나타내는 값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "불우이웃돕기 성금인 $65270000$원의 각 자리 숫자와 자릿값을 알아보시오. (1) 빈칸에 알맞은 수를 써넣으시오. <table border> <caption></caption>   <tbody>     <tr>       <td></td>       <td>천만의 자리</td>       <td>백만의 자리</td>       <td>십만의 자리</td>       <td>만의 자리</td>     </tr>     <tr>       <td>숫자</td>       <td>$6$</td>       <td></td>       <td></td>       <td></td>     </tr>     <tr>       <td>수</td>       <td>$60000000$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) $65270000$을 각 자리의 자릿값의 합으로 나타내시오.. $ 65270000 $ $ =\\square+\\square $ $ +\\square+\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            447,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            218,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            298,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            140,
+            346,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            162,
+            86,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            184,
+            224,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            39,
+            215,
+            205,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            449,
+            243
+          ],
+          "text": "불우이웃돕기 성금인 $65270000$원의 각 자리 숫자와 자릿값을 알아보시오. (1) 빈칸에 알맞은 수를 써넣으시오. <table border> <caption></caption>   <tbody>     <tr>       <td></td>       <td>천만의 자리</td>       <td>백만의 자리</td>       <td>십만의 자리</td>       <td>만의 자리</td>     </tr>     <tr>       <td>숫자</td>       <td>$6$</td>       <td></td>       <td></td>       <td></td>     </tr>     <tr>       <td>수</td>       <td>$60000000$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table> (2) $65270000$을 각 자리의 자릿값의 합으로 나타내시오.. $ 65270000 $ $ =\\square+\\square $ $ +\\square+\\square $"
+        }
+      ]
+    }
+  ]
+}

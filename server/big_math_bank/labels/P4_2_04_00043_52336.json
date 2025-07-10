@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_04_00043_52336.png",
+  "id": "00043_52336",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "각 ㄱ, ㄷ, ㄹ이 직각이며 변 ㄱㄴ과 변 ㄱㅁ의 길이가 같은 오각형 ㄱㄴㄷㄹㅁ",
+      "question_text": "다음 도형을 보고 잘못 말한 사람은 누구인지 쓰시오.  재웅 : 변 $ㄴㄷ$과 변 $ㄷㄹ$은 서로 수직이지.  태을 : 수선은 $3$쌍이네!  율 : 평행선은 $2$쌍이야.  현철 : 변 $ㄴㄷ$과 변 $ㅁㄹ$은 서로 평행이구나.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            317,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            180,
+            264,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            207,
+            161,
+            230
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            230,
+            158,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            253,
+            280,
+            278
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            38,
+            38,
+            142,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            21
+          ],
+          "text": "다음 도형을 보고 잘못 말한 사람은 누구인지 쓰시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            175,
+            804,
+            278
+          ],
+          "text": "재웅 : 변 $ㄴㄷ$과 변 $ㄷㄹ$은 서로 수직이지.  태을 : 수선은 $3$쌍이네!  율 : 평행선은 $2$쌍이야.  현철 : 변 $ㄴㄷ$과 변 $ㅁㄹ$은 서로 평행이구나."
+        }
+      ]
+    }
+  ]
+}

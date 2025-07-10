@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52373.png",
+  "id": "00043_52373",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "서로 평행한 직선 가와 직선 나가 있고, 직선 나의 오른쪽 아래 한 점에서 왼쪽 위 방향으로 24도의 각을 이루는 두 반직선이 직선 나와 직선 가를 지날 때, 오른쪽 반직선이 직선 가와 이루는 오른쪽 아래의 각의 크기가 62도이고, 왼쪽 반직선이 직선 나와 만나는 네 교각 중 오른쪽 위의 각이 원 문자 ㄱ",
+      "question_text": "다음 그림에서 직선 가와 나는 서로 평행합니다. ㉠의 각도는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            437,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            43,
+            190,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            439,
+            22
+          ],
+          "text": "다음 그림에서 직선 가와 나는 서로 평행합니다. ㉠의 각도는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

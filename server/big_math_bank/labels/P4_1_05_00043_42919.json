@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_05_00043_42919.png",
+  "id": "00043_42919",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 종류를 음식물, 종이류, 플라스틱류, 병류, 기타 순으로 나열하고 세로축은 단위가 (kg)인 쓰레기 양을 눈금 단위가 1이고 5칸마다 5배수로 단위를 표시하고, 음식물은 19kg, 종이류는 11kg, 플라스틱류는 14kg, 병류는 4kg, 기타는 8kg인 일주일 동안 버려진 쓰레기 양을 나타낸 막대그래프",
+      "question_text": "우주네 마을에서 일주일 동안 버려진 쓰레기 양을 조사하여 나타낸 막대그래프입니다. 물음에 답하시오. (1) 일주일 동안 가장 많이 버려진 쓰레기는 무엇입니까? (2) 일주일 동안 버려진 음식물 쓰레기는 몇 $kg$입니까? (3) 일주일 동안 버려진 종이류 쓰레기는 몇 $kg$입니까? (4) 버려진 쓰레기 양이 많은 것부터 차례로 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            602,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            301,
+            335,
+            318
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            323,
+            327,
+            340
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            345,
+            327,
+            362
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            366,
+            309,
+            384
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            28,
+            320,
+            297
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            604,
+            24
+          ],
+          "text": "우주네 마을에서 일주일 동안 버려진 쓰레기 양을 조사하여 나타낸 막대그래프입니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            300,
+            337,
+            385
+          ],
+          "text": "(1) 일주일 동안 가장 많이 버려진 쓰레기는 무엇입니까? (2) 일주일 동안 버려진 음식물 쓰레기는 몇 $kg$입니까? (3) 일주일 동안 버려진 종이류 쓰레기는 몇 $kg$입니까? (4) 버려진 쓰레기 양이 많은 것부터 차례로 쓰시오."
+        }
+      ]
+    }
+  ]
+}

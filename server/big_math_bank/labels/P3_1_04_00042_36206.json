@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_04_00042_36206.png",
+  "id": "00042_36206",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈으로 나타낸 것 중에서 틀린 것은 어느 것입니까? ① $20$ 씩 $4$ 개 $ \\rightarrow 20 \\times 4 $ ② $30$ 의 $2$ 배 $ \\rightarrow 30 \\times 2 $ ③ $ 10+10+10 \\rightarrow 10 \\times 10 $ ④ $ 20+20+20+20 \\rightarrow 20 \\times 4 $ ⑤ $40$ 과 $3$ 의 곱 $ \\rightarrow 40 \\times 3 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            151,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            150,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            159,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            188,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            167,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            323,
+            130
+          ],
+          "text": "곱셈으로 나타낸 것 중에서 틀린 것은 어느 것입니까? ① $20$ 씩 $4$ 개 $ \\rightarrow 20 \\times 4 $ ② $30$ 의 $2$ 배 $ \\rightarrow 30 \\times 2 $ ③ $ 10+10+10 \\rightarrow 10 \\times 10 $ ④ $ 20+20+20+20 \\rightarrow 20 \\times 4 $ ⑤ $40$ 과 $3$ 의 곱 $ \\rightarrow 40 \\times 3 $"
+        }
+      ]
+    }
+  ]
+}

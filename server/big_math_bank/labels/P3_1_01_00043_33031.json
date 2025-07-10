@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_01_00043_33031.png",
+  "id": "00043_33031",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "덧셈식에서 받아올림한 수가 실제로 나타내는 수를 알아보시오.<BR> $ \\begin{array}{r}  \\\\ \\overset{1}5\\overset{1}74 \\\\ + 289 \\\\ \\hline 863\\end{array} $  (1) 오른쪽의 $\\boxed{1}$이 실제로 나타내는 수는 $\\square$입니다.(2) 왼쪽의 $\\boxed{1}$ 이 실제로 나타내는 수는 $\\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            376,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            117,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            113,
+            333,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            144,
+            332,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            378,
+            171
+          ],
+          "text": "덧셈식에서 받아올림한 수가 실제로 나타내는 수를 알아보시오.<BR> $ \\begin{array}{r}  \\\\ \\overset{1}5\\overset{1}74 \\\\ + 289 \\\\ \\hline 863\\end{array} $  (1) 오른쪽의 $\\boxed{1}$이 실제로 나타내는 수는 $\\square$입니다.(2) 왼쪽의 $\\boxed{1}$ 이 실제로 나타내는 수는 $\\square$입니다."
+        }
+      ]
+    }
+  ]
+}

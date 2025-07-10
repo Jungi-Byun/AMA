@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_06_00043_59634.png",
+  "id": "00043_59634",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에 면봉 4개로 만든 정사각형 한 개와 아래에 첫 번째가 쓰여있고 그 오른쪽에는 첫 번째 만든 정사각형 오른쪽에 면봉 3개를 붙여 정사각형 2개 아래에 두 번째가 쓰여있으며 그 오른쪽에는 두 번째 만든 도형 오른쪽에 면봉 3개를 붙여 정사각형 3개 아래에 세 번째가 쓰여있고 그 오른쪽에 가로로 점이 6개인 줄임표를 나타낸 그림",
+      "question_text": "다음과 같이 면봉으로 모양을 만들었습니다. 여덟 번째에는 면봉이 몇 개 필요한지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            538,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            26,
+            323,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            539,
+            21
+          ],
+          "text": "다음과 같이 면봉으로 모양을 만들었습니다. 여덟 번째에는 면봉이 몇 개 필요한지 구하시오."
+        }
+      ]
+    }
+  ]
+}

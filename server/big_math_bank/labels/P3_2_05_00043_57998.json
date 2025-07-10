@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57998.png",
+  "id": "00043_57998",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준서, 태원, 수빈 세 사람이 $ 4 $kg인 컴퓨터의 무게를 다음과 같이 어림하였습니다. 가장 가깝게 어림한 사람은 누구입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            701,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            180,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            703,
+            70
+          ],
+          "text": "준서, 태원, 수빈 세 사람이 $ 4 $kg인 컴퓨터의 무게를 다음과 같이 어림하였습니다. 가장 가깝게 어림한 사람은 누구입니까?"
+        }
+      ]
+    }
+  ]
+}

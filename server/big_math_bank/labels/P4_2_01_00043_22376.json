@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_01_00043_22376.png",
+  "id": "00043_22376",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201003",
+      "question_topic_name": "(진분수)+(진분수)",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "상수는 오전에는 $ 1 \\frac{2}{4} $ 시간 동안 수학을 공부하였고 오후에는 $ 1 \\frac{1}{4} $ 시간 동안 국어를 공부하였습니다. 상수가 오늘 공부한 시간은 모두 몇 시간입니까?  ① $ 2 \\frac{3}{4} $ 시간 ② $ \\frac{1}{4} $ 시간 ③ $ 3 \\frac{1}{4} $ 시간 ④ $ 2 \\frac{3}{8} $ 시간 ⑤ $ 3 \\frac{3}{4} $ 시간",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            78,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            101,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            92,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            148,
+            101,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            101,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            229,
+            104,
+            263
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            264
+          ],
+          "text": "상수는 오전에는 $ 1 \\frac{2}{4} $ 시간 동안 수학을 공부하였고 오후에는 $ 1 \\frac{1}{4} $ 시간 동안 국어를 공부하였습니다. 상수가 오늘 공부한 시간은 모두 몇 시간입니까?  ① $ 2 \\frac{3}{4} $ 시간 ② $ \\frac{1}{4} $ 시간 ③ $ 3 \\frac{1}{4} $ 시간 ④ $ 2 \\frac{3}{8} $ 시간 ⑤ $ 3 \\frac{3}{4} $ 시간"
+        }
+      ]
+    }
+  ]
+}

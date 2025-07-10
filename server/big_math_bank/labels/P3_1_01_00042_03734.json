@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_01_00042_03734.png",
+  "id": "00042_03734",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "동물원에 간 혜진이는 동물들을 볼 수 있는 가까운 길을 알아보려고 합니다. 동물원의 안내도에는 건물들 사이의 거리를 어린이 걸음으로 나타내고 있습니다. 입구에서 출발하여 돌고래를 구경하려고 합니다. 타조관과 식물원 중 어느 곳을 지나가는 것이 더 가깝습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            762,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            760,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            40,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            69,
+            285,
+            278
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            60
+          ],
+          "text": "동물원에 간 혜진이는 동물들을 볼 수 있는 가까운 길을 알아보려고 합니다. 동물원의 안내도에는 건물들 사이의 거리를 어린이 걸음으로 나타내고 있습니다. 입구에서 출발하여 돌고래를 구경하려고 합니다. 타조관과 식물원 중 어느 곳을 지나가는 것이 더 가깝습니까?"
+        }
+      ]
+    }
+  ]
+}

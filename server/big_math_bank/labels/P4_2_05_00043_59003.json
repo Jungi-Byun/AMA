@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_05_00043_59003.png",
+  "id": "00043_59003",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민준이네 반 학생들이 좋아하는 운동을 조사하여 나타낸 표입니다. 좋아하는 운동별 학생 수를 비교하는 데 알맞은 그래프로 나타내시오. 학생들이 좋아하는 운동 학생들이 좋아하는 운동",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            786,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            95,
+            25,
+            260,
+            44
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            48,
+            323,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            121,
+            323,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            788,
+            111
+          ],
+          "text": "민준이네 반 학생들이 좋아하는 운동을 조사하여 나타낸 표입니다. 좋아하는 운동별 학생 수를 비교하는 데 알맞은 그래프로 나타내시오. 학생들이 좋아하는 운동 학생들이 좋아하는 운동"
+        }
+      ]
+    }
+  ]
+}

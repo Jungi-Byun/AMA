@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_05_00042_57252.png",
+  "id": "00042_57252",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각 그래프에 맞는 특징을 모두 찾아 기호를 쓰시오. ㉠ 시간에 따른 연속적인 변화를 알기 쉽습니다.㉡ 양의 많고 적음을 비교하기 쉽습니다.㉢ 중간의 값도 대강 예상할 수 있습니다.㉣ 각 항목의 상대적인 크기를 비교하기 쉽습니다.㉤ 늘어나고 줄어드는 변화 상태를 알기 쉽습니다. (1) 막대그래프 ( )(2) 꺾은선그래프 ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            296,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            255,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            74,
+            257,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            96,
+            308,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            118,
+            309,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            162,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            170,
+            177,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            187
+          ],
+          "text": "각 그래프에 맞는 특징을 모두 찾아 기호를 쓰시오. ㉠ 시간에 따른 연속적인 변화를 알기 쉽습니다.㉡ 양의 많고 적음을 비교하기 쉽습니다.㉢ 중간의 값도 대강 예상할 수 있습니다.㉣ 각 항목의 상대적인 크기를 비교하기 쉽습니다.㉤ 늘어나고 줄어드는 변화 상태를 알기 쉽습니다. (1) 막대그래프 ( )(2) 꺾은선그래프 ( )"
+        }
+      ]
+    }
+  ]
+}

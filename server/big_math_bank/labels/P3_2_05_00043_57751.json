@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00043_57751.png",
+  "id": "00043_57751",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$9$ 명의 친구들에게 주스를 $ 200 \\mathrm{~mL} $ 씩 나누어 주려고 합니다. 준비한 주스가 $ 9 \\mathrm{~L} $ 있다면 나누어 주고 남게 되는 주스는 몇 $  \\mathrm{~L} $  몇 $ \\mathrm{mL} $ 입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            783,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            785,
+            21
+          ],
+          "text": "$9$ 명의 친구들에게 주스를 $ 200 \\mathrm{~mL} $ 씩 나누어 주려고 합니다. 준비한 주스가 $ 9 \\mathrm{~L} $ 있다면 나누어 주고 남게 되는 주스는 몇 $  \\mathrm{~L} $  몇 $ \\mathrm{mL} $ 입니까?"
+        }
+      ]
+    }
+  ]
+}

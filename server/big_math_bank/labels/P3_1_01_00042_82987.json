@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_82987.png",
+  "id": "00042_82987",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지훈이네 학교 $3$학년 학생은 $510$명입니다. 그중에서 $143$명은 동생이 있습니다. 동생이 없는 학생은 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            609,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            611,
+            40
+          ],
+          "text": "지훈이네 학교 $3$학년 학생은 $510$명입니다. 그중에서 $143$명은 동생이 있습니다. 동생이 없는 학생은 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

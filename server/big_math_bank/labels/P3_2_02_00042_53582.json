@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_02_00042_53582.png",
+  "id": "00042_53582",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 들어갈 숫자가 틀린 것은 어느 것입니까? ① $1$ ② $5$ ③ $3$ ④ $2$ ⑤ $4$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            295,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            63,
+            23,
+            134,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            174,
+            49,
+            194
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            196,
+            52,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            218,
+            53,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            240,
+            53,
+            260
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            262,
+            53,
+            282
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            297,
+            283
+          ],
+          "text": "$\\square$ 안에 들어갈 숫자가 틀린 것은 어느 것입니까? ① $1$ ② $5$ ③ $3$ ④ $2$ ⑤ $4$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_03_00040_19466.png",
+  "id": "00040_19466",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한권에 $450$원인 공책 $20$권을 사고 $10000$원을 냈습니다. 거스름돈으로 얼마를 받아야 합니까? ① $900$원 ② $1000$원 ③ $1100$원 ④ $1200$원 ⑤ $1300$원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            559,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            23,
+            289,
+            43
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            47,
+            192,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            561,
+            68
+          ],
+          "text": "한권에 $450$원인 공책 $20$권을 사고 $10000$원을 냈습니다. 거스름돈으로 얼마를 받아야 합니까? ① $900$원 ② $1000$원 ③ $1100$원 ④ $1200$원 ⑤ $1300$원"
+        }
+      ]
+    }
+  ]
+}

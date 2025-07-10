@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38924.png",
+  "id": "00043_38924",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 4 m인 같은 파란색 테이프 두 장을 가로로 첫 번째 테이프 오른쪽과 두 번째 테이프 왼쪽이 3분의 1 m 겹쳐진 그림",
+      "question_text": "길이가 $4 m$인 색 테이프 $2$장을 $13 m$만큼 겹치게 이어 붙이면 전체 길이는 몇 $m$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            3,
+            516,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            45,
+            276,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            518,
+            39
+          ],
+          "text": "길이가 $4 m$인 색 테이프 $2$장을 $13 m$만큼 겹치게 이어 붙이면 전체 길이는 몇 $m$입니까?"
+        }
+      ]
+    }
+  ]
+}

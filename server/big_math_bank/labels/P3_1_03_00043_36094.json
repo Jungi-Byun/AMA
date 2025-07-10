@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36094.png",
+  "id": "00043_36094",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "0부터 있는 1칸의 단위가 1인 수직선 위에 5의 배수인 눈금마다 눈금 아래에 5, 10, 15, 20이 쓰여 있고, 눈금 위로 7칸씩 건너뛴 호 모양의 점선 화살표가 세 개 있는 수직선",
+      "question_text": "그림을 보고 곱셈식과 나눗셈식으로 나타내시오. 곱셈식 $ () $ 나눗셈식 $ () $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            293,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            30,
+            320,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            295,
+            21
+          ],
+          "text": "그림을 보고 곱셈식과 나눗셈식으로 나타내시오. 곱셈식 $ () $ 나눗셈식 $ () $"
+        }
+      ]
+    }
+  ]
+}

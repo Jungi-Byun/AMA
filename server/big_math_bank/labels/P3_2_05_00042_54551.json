@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_54551.png",
+  "id": "00042_54551",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민우가 여러 가지 물건의 들이를 어림한 후 실제로 재어 보았습니다. 실제 들이에 가장 가깝게 어림한 것은 어느 것입니까?  <table border> <caption></caption>   <tbody>     <tr>       <td>물건</td>       <td>어림한 들이</td>       <td>실제 들이</td>     </tr>     <tr>       <td>물병</td>       <td>$370 \\mathrm{~mL}$</td>       <td>$450 \\mathrm{~mL}$</td>     </tr>     <tr>       <td>보온병</td>       <td>$1400 \\mathrm{~mL}$</td>       <td>$1330 \\mathrm{~mL}$</td>     </tr>     <tr>       <td>종이컵</td>       <td>$230 \\mathrm{~mL}$</td>       <td>$200 \\mathrm{~mL}$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            705,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            232,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            707,
+            116
+          ],
+          "text": "민우가 여러 가지 물건의 들이를 어림한 후 실제로 재어 보았습니다. 실제 들이에 가장 가깝게 어림한 것은 어느 것입니까?  <table border> <caption></caption>   <tbody>     <tr>       <td>물건</td>       <td>어림한 들이</td>       <td>실제 들이</td>     </tr>     <tr>       <td>물병</td>       <td>$370 \\mathrm{~mL}$</td>       <td>$450 \\mathrm{~mL}$</td>     </tr>     <tr>       <td>보온병</td>       <td>$1400 \\mathrm{~mL}$</td>       <td>$1330 \\mathrm{~mL}$</td>     </tr>     <tr>       <td>종이컵</td>       <td>$230 \\mathrm{~mL}$</td>       <td>$200 \\mathrm{~mL}$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

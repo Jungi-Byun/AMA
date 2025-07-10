@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_20858.png",
+  "id": "00043_20858",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수나 말을 써넣으시오. $1$과 $0.7$만큼을 소수로 나타내면 $\\square$ 이고, $\\square$이라고 읽습니다",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            135,
+            466,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            14,
+            216,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            306,
+            21
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수나 말을 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            130,
+            469,
+            168
+          ],
+          "text": "$1$과 $0.7$만큼을 소수로 나타내면 $\\square$ 이고, $\\square$이라고 읽습니다"
+        }
+      ]
+    }
+  ]
+}

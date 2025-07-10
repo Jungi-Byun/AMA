@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58265.png",
+  "id": "00043_58265",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 근은 약 $600g$이고, 한 관은 약 $4kg$입니다. 어머니께서 산 물건이 다음과 같다면 어머니께서 산 물건의 무게는 모두 약 몇 $kg$ 몇 $g$입니까?  <table border> <caption></caption>   <tbody>     <tr>       <td>물건</td>       <td>수량</td>            </tr> </tbody>  <tr>       <td>포도</td>       <td>2관</td>            </tr>   <tbody>     <tr>       <td>돼지고기</td>       <td>2근 반</td>            </tr> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            137,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            91
+          ],
+          "text": "한 근은 약 $600g$이고, 한 관은 약 $4kg$입니다. 어머니께서 산 물건이 다음과 같다면 어머니께서 산 물건의 무게는 모두 약 몇 $kg$ 몇 $g$입니까?  <table border> <caption></caption>   <tbody>     <tr>       <td>물건</td>       <td>수량</td>            </tr> </tbody>  <tr>       <td>포도</td>       <td>2관</td>            </tr>   <tbody>     <tr>       <td>돼지고기</td>       <td>2근 반</td>            </tr> </table>"
+        }
+      ]
+    }
+  ]
+}

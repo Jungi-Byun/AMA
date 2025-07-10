@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_02_00043_37536.png",
+  "id": "00043_37536",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202001",
+      "question_topic_name": "삼각형의 변의 길이에 따라 분류하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기가 같은 정삼각형 $2$개를 사용하여 다음과 같은 도형을 만들었습니다. 만든 도형의 둘레가 $20cm$일 때 정삼각형의 한 변의 길이는 몇 $cm$입니까? ⑴ 도형의 둘레는 정삼각형의 한 변이 몇 개인 것과 같습니까?⑵ 정삼각형의 한 변의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            544,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            324,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            108,
+            367,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            130,
+            272,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            44,
+            126,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.43,
+            1.55,
+            542.95,
+            38.67
+          ],
+          "text": "크기가 같은 정삼각형 $2$개를 사용하여 다음과 같은 도형을 만들었습니다. 만든 도형의 둘레가 $20cm$일 때 정삼각형의 한 변의 길이는 몇 $cm$입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.43,
+            110.35,
+            366.95,
+            147.47
+          ],
+          "text": "⑴ 도형의 둘레는 정삼각형의 한 변이 몇 개인 것과 같습니까?⑵ 정삼각형의 한 변의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

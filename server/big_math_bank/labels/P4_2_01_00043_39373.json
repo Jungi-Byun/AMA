@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_39373.png",
+  "id": "00043_39373",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영진이와 동생은 빵을 $1$개씩 가지고 있었습니다. 영진이는 가지고 있던 빵의$ \\frac{2}{5} $만큼 먹었고, 동생은 가지고 있던 빵의 $ \\frac{4}{5} $만큼 먹었습니다. 두 사람이 먹고 남은 빵을 더하면 빵 $1$개의 얼마만큼입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            355,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            58
+          ],
+          "text": "영진이와 동생은 빵을 $1$개씩 가지고 있었습니다. 영진이는 가지고 있던 빵의$ \\frac{2}{5} $만큼 먹었고, 동생은 가지고 있던 빵의 $ \\frac{4}{5} $만큼 먹었습니다. 두 사람이 먹고 남은 빵을 더하면 빵 $1$개의 얼마만큼입니까?"
+        }
+      ]
+    }
+  ]
+}

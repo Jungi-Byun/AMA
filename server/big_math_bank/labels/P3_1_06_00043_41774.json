@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_06_00043_41774.png",
+  "id": "00043_41774",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림에 대한 설명으로 옳은 것을 모두 골라 기호를 쓰시오. ㉠ 색칠한 부분은 전체의 $ \\frac{2}{6} $입니다.  ㉡ 색칠하지 않은 부분은 전체의 $ \\frac{6}{8} $입니다.  ㉢ 부분 (부채꼴)은 전체의 $ \\frac{3}{8} $입니다. ㉣ $3$칸에 더 색칠하면 색칠한 부분의 크기와 색칠하지 않은 부분의 크기는 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            346,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            130,
+            241,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            172,
+            280,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            257,
+            501,
+            287
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.07,
+            212.9,
+            268.07,
+            259.9
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            117,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.07,
+            0,
+            347.07,
+            18.9
+          ],
+          "text": "그림에 대한 설명으로 옳은 것을 모두 골라 기호를 쓰시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            22.07,
+            128.9,
+            501.07,
+            285.9
+          ],
+          "text": "㉠ 색칠한 부분은 전체의 $ \\frac{2}{6} $입니다.  ㉡ 색칠하지 않은 부분은 전체의 $ \\frac{6}{8} $입니다.  ㉢ 부분 (부채꼴)은 전체의 $ \\frac{3}{8} $입니다. ㉣ $3$칸에 더 색칠하면 색칠한 부분의 크기와 색칠하지 않은 부분의 크기는 같습니다."
+        }
+      ]
+    }
+  ]
+}

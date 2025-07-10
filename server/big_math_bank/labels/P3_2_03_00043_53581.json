@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_03_00043_53581.png",
+  "id": "00043_53581",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로로 나란히 접하는 두 원의 접점과 세로로 나란히 접하는 두 원의 점점이 접하는 원 4개가 있고, 크기가 같은 4개의 원은 모두 빨간색인 원의 중심이 있으며, 가로로 접하는 두 원의 지름은 세로로 있고, 세로로 접하는 두 원의 지름은 가로로 있을 때, 네 개의 지름을 네 변으로 하는 정사각형의 윗변의 좌측 꼭짓점을 기준으로 반시계 방향으로 꼭짓점 ㄱ, ㄴ, ㄷ, ㄹ인 도형",
+      "question_text": "크기가 같은 원 $4$개를 이용하여 다음과 같은 모양을 만들었습니다. 사각형 $ㄱㄴㄷㄹ$의 네 변의 합이 $32 cm$일 때, 원의 반지름은 몇 $cm$인지 구하시오. ⑴ 사각형 $ㄱㄴㄷㄹ$의 이름을 쓰시오. ⑵ 원의 지름은 몇 $cm$입니까? ⑶ 원의 반지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            74,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            202,
+            229,
+            219
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            224,
+            188,
+            241
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            246,
+            201,
+            263
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            52,
+            169,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            40
+          ],
+          "text": "크기가 같은 원 $4$개를 이용하여 다음과 같은 모양을 만들었습니다. 사각형 $ㄱㄴㄷㄹ$의 네 변의 합이 $32 cm$일 때, 원의 반지름은 몇 $cm$인지 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            201,
+            231,
+            264
+          ],
+          "text": "⑴ 사각형 $ㄱㄴㄷㄹ$의 이름을 쓰시오. ⑵ 원의 지름은 몇 $cm$입니까? ⑶ 원의 반지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

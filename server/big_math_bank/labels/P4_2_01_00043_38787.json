@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38787.png",
+  "id": "00043_38787",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 1과 19분의 7 m이고 세로의 길이가 2와 19분의 10 m인 직사각형",
+      "question_text": "가로가 $1\\frac{7 }{19}$m, 세로가 $2\\frac{10}{19}$m인 직사각형의 네 변의 길이의 합은 몇 m입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            491,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            40,
+            144,
+            189
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            493,
+            39
+          ],
+          "text": "가로가 $1\\frac{7 }{19}$m, 세로가 $2\\frac{10}{19}$m인 직사각형의 네 변의 길이의 합은 몇 m입니까?"
+        }
+      ]
+    }
+  ]
+}

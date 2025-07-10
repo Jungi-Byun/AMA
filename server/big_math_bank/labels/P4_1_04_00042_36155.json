@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_04_00042_36155.png",
+  "id": "00042_36155",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "왼쪽 도형을 오른쪽으로 뒤집은 후 (반시계방향) 방향으로 돌린 모양을 그리려고 합니다. 물음에 답하시오. (1) 왼쪽 도형을 오른쪽으로 뒤집었을 때 생기는 모양을 가운데에 그리시오. (2) 가운데 도형을 (반시계방향) 방향으로 돌렸을 때 생기는 모양을 오른쪽에 그리시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            570,
+            32
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            440,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            120,
+            462,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19.43,
+            27.42,
+            327.27,
+            101.66
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.07,
+            1.18,
+            569.19,
+            27.42
+          ],
+          "text": "왼쪽 도형을 오른쪽으로 뒤집은 후 (반시계방향) 방향으로 돌린 모양을 그리려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.79,
+            101.66,
+            461.67,
+            149.02
+          ],
+          "text": "(1) 왼쪽 도형을 오른쪽으로 뒤집었을 때 생기는 모양을 가운데에 그리시오. (2) 가운데 도형을 (반시계방향) 방향으로 돌렸을 때 생기는 모양을 오른쪽에 그리시오."
+        }
+      ]
+    }
+  ]
+}

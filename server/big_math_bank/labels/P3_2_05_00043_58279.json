@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_58279.png",
+  "id": "00043_58279",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "축구공과 배구공의 무게를 어림하고 직접 잰 것입니다. 직접 잰 무게에 더 가깝게 어림한 공은 무엇입니까?  <table border>   <tbody align=\"center\">     <tr>       <td>공</td>       <td>어림한 무게</td>       <td>직접 잰무게</td>     </tr>     <tr>       <td>축구공</td>       <td>$480g$</td>       <td>$510g$</td>     </tr>     <tr>       <td>배구공</td>       <td>$300g$</td>       <td>$260g$</td>     </tr> </tbody> </table> (1) 축구공과 배구공의 어림한 무게와 직접 잰 무게의 차는 각각 몇 $ \\mathrm{g} $ 입니까?  (2) 직접 잰 무게에 더 가깝게 어림한 공은 무엇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            617,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            253,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            93,
+            447,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            162,
+            329,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            619,
+            114
+          ],
+          "text": "축구공과 배구공의 무게를 어림하고 직접 잰 것입니다. 직접 잰 무게에 더 가깝게 어림한 공은 무엇입니까?  <table border>   <tbody align=\"center\">     <tr>       <td>공</td>       <td>어림한 무게</td>       <td>직접 잰무게</td>     </tr>     <tr>       <td>축구공</td>       <td>$480g$</td>       <td>$510g$</td>     </tr>     <tr>       <td>배구공</td>       <td>$300g$</td>       <td>$260g$</td>     </tr> </tbody> </table> (1) 축구공과 배구공의 어림한 무게와 직접 잰 무게의 차는 각각 몇 $ \\mathrm{g} $ 입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            156,
+            331,
+            183
+          ],
+          "text": "(2) 직접 잰 무게에 더 가깝게 어림한 공은 무엇입니까?"
+        }
+      ]
+    }
+  ]
+}

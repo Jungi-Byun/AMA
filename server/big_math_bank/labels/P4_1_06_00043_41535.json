@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_06_00043_41535.png",
+  "id": "00043_41535",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106008",
+      "question_topic_name": "곱셈과 나눗셈이 있는 계산식에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 원 위에 점 $2$개를 찍었을 때 그을 수 있는 선분은 $1$개, 점 $3$개를 찍었을 때 그을 수 있는 선분은 $3$개, 점 $4$개를 찍었을 때 그을 수 있는 선분은 $6$개입니다. 점 $24$개를 찍었을 때 그을 수 있는 선분은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            498,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            43,
+            114,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "다음과 같은 원 위에 점 $2$개를 찍었을 때 그을 수 있는 선분은 $1$개, 점 $3$개를 찍었을 때 그을 수 있는 선분은 $3$개, 점 $4$개를 찍었을 때 그을 수 있는 선분은 $6$개입니다. 점 $24$개를 찍었을 때 그을 수 있는 선분은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

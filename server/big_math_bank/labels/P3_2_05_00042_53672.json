@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_53672.png",
+  "id": "00042_53672",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이가 $1$L인 그릇을 보고 어림한 것을 나타낸 것입니다. 실제 들이에 더 가깝게 어림한 사람은 누구입니까? <table border>   <tbody>     <tr>       <td>이름</td>       <td>어림한 들이</td>     </tr>     <tr>       <td>윤정</td>       <td>$700 mL$</td>     </tr>     <tr>       <td>수근</td>       <td>$1 L 100 mL$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            617,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            145,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            619,
+            92
+          ],
+          "text": "들이가 $1$L인 그릇을 보고 어림한 것을 나타낸 것입니다. 실제 들이에 더 가깝게 어림한 사람은 누구입니까? <table border>   <tbody>     <tr>       <td>이름</td>       <td>어림한 들이</td>     </tr>     <tr>       <td>윤정</td>       <td>$700 mL$</td>     </tr>     <tr>       <td>수근</td>       <td>$1 L 100 mL$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00043_35513.png",
+  "id": "00043_35513",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형에서 찾을 수 있는 크고 작은 정사각형은 모두 몇 개인지 알아보시오.  <table border> <tbody> <tr> <td>$~$$~$$~$</td> <td>$~$$~$$~$</td> <td>$~$$~$$~$</td> </tr> <tr> <td>$~$$~$$~$</td> <td>$~$$~$$~$</td> <td>$~$$~$$~$</td> </tr>  </tbody> </table>  (1) $\\square$ 안에 알맞은 수를 써넣으시오. ㆍ작은 정사각형 $1$개짜리: $\\square$개 ㆍ작은 정사각형 $4$개짜리: $\\square$개  (2) 도형에서 찾을 수 있는 크고 작은 정사각형은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            430,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            115,
+            222,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            135,
+            229,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            157,
+            232,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            181,
+            400,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27.1,
+            26.3,
+            152.1,
+            113.3
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            0.3,
+            431.1,
+            200.3
+          ],
+          "text": "도형에서 찾을 수 있는 크고 작은 정사각형은 모두 몇 개인지 알아보시오.  <table border> <tbody> <tr> <td>$~$$~$$~$</td> <td>$~$$~$$~$</td> <td>$~$$~$$~$</td> </tr> <tr> <td>$~$$~$$~$</td> <td>$~$$~$$~$</td> <td>$~$$~$$~$</td> </tr>  </tbody> </table>  (1) $\\square$ 안에 알맞은 수를 써넣으시오. ㆍ작은 정사각형 $1$개짜리: $\\square$개 ㆍ작은 정사각형 $4$개짜리: $\\square$개  (2) 도형에서 찾을 수 있는 크고 작은 정사각형은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

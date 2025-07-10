@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_03_00040_21668.png",
+  "id": "00040_21668",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203010",
+      "question_topic_name": "소수 한 자리 수의 뺄셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 $\\square$ 안에 알맞은 수는 어느 것입니까? $0.9$ - $0.5$ = $\\square$ ①$0.4$ ②$0.5 ③0.6$ ④$0.7$ ⑤$0.9$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            1,
+            253,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            156,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            58,
+            66,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            65,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            65,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            65,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            65,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            311,
+            167
+          ],
+          "text": "다음 $\\square$ 안에 알맞은 수는 어느 것입니까? $0.9$ - $0.5$ = $\\square$ ①$0.4$ ②$0.5 ③0.6$ ④$0.7$ ⑤$0.9$"
+        }
+      ]
+    }
+  ]
+}

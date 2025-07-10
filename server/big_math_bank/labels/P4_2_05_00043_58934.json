@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_05_00043_58934.png",
+  "id": "00043_58934",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "신생아 수를 반올림하여 만의 자리까지 나타내고 반올림한 수를 이용하여 꺾은선그래프를 그리시오. <table border> <caption>Title</caption>   <tbody>     <tr>       <td>연도</td>       <td>$2005$ </td> <td>$2006$ </td> <td> $2007$ </td> <td> $2008$ </td> <td> $2009$ </td>     </tr>     <tr>       <td>신생아 수(명)</td>       <td>$616780$ </td>       <td> $557228$ </td>      <td> $494625$ </td>       <td> $493471$ </td>      <td> $476052$ </td>     </tr>     <tr>       <td>반올림한 수(명)</td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            582,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            76,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            388,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            121,
+            309,
+            326
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            584,
+            117
+          ],
+          "text": "신생아 수를 반올림하여 만의 자리까지 나타내고 반올림한 수를 이용하여 꺾은선그래프를 그리시오. <table border> <caption>Title</caption>   <tbody>     <tr>       <td>연도</td>       <td>$2005$ </td> <td>$2006$ </td> <td> $2007$ </td> <td> $2008$ </td> <td> $2009$ </td>     </tr>     <tr>       <td>신생아 수(명)</td>       <td>$616780$ </td>       <td> $557228$ </td>      <td> $494625$ </td>       <td> $493471$ </td>      <td> $476052$ </td>     </tr>     <tr>       <td>반올림한 수(명)</td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

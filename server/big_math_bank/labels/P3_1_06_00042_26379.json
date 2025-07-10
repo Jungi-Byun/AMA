@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00042_26379.png",
+  "id": "00042_26379",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "셋째 번으로 큰 분수는 어느 것입니까? ① $\\frac{1}{8}$ ② $\\frac{1}{7}$ ③ $\\frac{1}{13}$ ④ $\\frac{1}{14}$ ⑤ $\\frac{1}{9}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            237,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            63,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            63,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            72,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            141,
+            72,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            63,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            239,
+            224
+          ],
+          "text": "셋째 번으로 큰 분수는 어느 것입니까? ① $\\frac{1}{8}$ ② $\\frac{1}{7}$ ③ $\\frac{1}{13}$ ④ $\\frac{1}{14}$ ⑤ $\\frac{1}{9}$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_03_00042_32608.png",
+  "id": "00042_32608",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기에서 밑줄 친 숫자 $5$와 나타내는 수가 같은 수는 어느 것입니까?  $ 10.6 \\underline{5} 4 $ ①$ 0.5 \\underline{9} $ ②$ 2.14 \\underline{5} $ ③$\\underline{5}.003 $ ④$ 11.7 \\underline{5} $ ⑤$ \\underline{5} 0.164 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            403,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            69,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            48,
+            73,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            70,
+            77,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            92,
+            81,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            114,
+            74,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            136,
+            87,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            405,
+            157
+          ],
+          "text": "보기에서 밑줄 친 숫자 $5$와 나타내는 수가 같은 수는 어느 것입니까?  $ 10.6 \\underline{5} 4 $ ①$ 0.5 \\underline{9} $ ②$ 2.14 \\underline{5} $ ③$\\underline{5}.003 $ ④$ 11.7 \\underline{5} $ ⑤$ \\underline{5} 0.164 $"
+        }
+      ]
+    }
+  ]
+}

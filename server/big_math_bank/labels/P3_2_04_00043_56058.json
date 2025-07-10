@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00043_56058.png",
+  "id": "00043_56058",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 숫자 카드 중에서 $3$장을 뽑아 한 번씩만 사용하여 분모가 $4$인 가장 큰 대분수를 만들려고 합니다. 만든 대분수를 수직선 위에 나타내시오. (다만, $4$를 포함하여 뽑고 $4$를 분모로 합니다.) $\\boxed3 \\boxed2 \\boxed4 \\boxed5 \\boxed6$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            299,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            52,
+            319,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "다음 숫자 카드 중에서 $3$장을 뽑아 한 번씩만 사용하여 분모가 $4$인 가장 큰 대분수를 만들려고 합니다. 만든 대분수를 수직선 위에 나타내시오. (다만, $4$를 포함하여 뽑고 $4$를 분모로 합니다.) $\\boxed3 \\boxed2 \\boxed4 \\boxed5 \\boxed6$"
+        }
+      ]
+    }
+  ]
+}

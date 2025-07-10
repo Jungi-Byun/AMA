@@ -1,0 +1,139 @@
+{
+  "question_filename": "P3_2_06_00042_93562.png",
+  "id": "00042_93562",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림그래프를 그리는 순서에 맞게 기호를 쓴 것은 어느 것입니까? ㉠ 조사한 수에 맞도록 그림을 그립니다. ㉡ 어떤 그림으로 나타낼 것인지 정합니다. ㉢ 그림을 몇 가지로 나타낼 것인지 정합니다. ㉣ 그린 그림그래프에 알맞은 제목을 붙입니다. ①㉠, ㉡, ㉢, ㉣ ②㉠, ㉢, ㉡, ㉣ ③㉡, ㉠, ㉢, ㉣ ④㉢, ㉠, ㉡, ㉣ ⑤㉢, ㉡, ㉠, ㉣",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            388,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            256,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            57,
+            267,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            74,
+            285,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            96,
+            292,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            122,
+            117,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            117,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            117,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            190,
+            117,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            212,
+            117,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            396,
+            233
+          ],
+          "text": "그림그래프를 그리는 순서에 맞게 기호를 쓴 것은 어느 것입니까? ㉠ 조사한 수에 맞도록 그림을 그립니다. ㉡ 어떤 그림으로 나타낼 것인지 정합니다. ㉢ 그림을 몇 가지로 나타낼 것인지 정합니다. ㉣ 그린 그림그래프에 알맞은 제목을 붙입니다. ①㉠, ㉡, ㉢, ㉣ ②㉠, ㉢, ㉡, ㉣ ③㉡, ㉠, ㉢, ㉣ ④㉢, ㉠, ㉡, ㉣ ⑤㉢, ㉡, ㉠, ㉣"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38967.png",
+  "id": "00043_38967",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "야구에 양 팀이 교대로 공격과 수비를 한 번씩 하면서 생기는 경기의 구분 단위를 이닝이라고 합니다. 어느 투수가 현재 공을 $ 6 \\frac{1}{3} $이닝까지 던졌다고 합니다. 이 투수가 공을 $9$이닝까지 던지려면 몇 이닝 남았습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            799,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            41,
+            441,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            59
+          ],
+          "text": "야구에 양 팀이 교대로 공격과 수비를 한 번씩 하면서 생기는 경기의 구분 단위를 이닝이라고 합니다. 어느 투수가 현재 공을 $ 6 \\frac{1}{3} $이닝까지 던졌다고 합니다. 이 투수가 공을 $9$이닝까지 던지려면 몇 이닝 남았습니까?"
+        }
+      ]
+    }
+  ]
+}

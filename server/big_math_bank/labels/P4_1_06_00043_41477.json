@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_06_00043_41477.png",
+  "id": "00043_41477",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "광우네 이불장을 열어보니 1층에는 요가 있고, 2, 3층에는 이불이 있고, 4층에는 베개가 2개 있습니다. 이와 같은 규칙으로 첫 번째 이불장에는 8층, 두 번째 이불장에는 10층, 세 번째 이불장에는 12층까지 쌓여 있을 때 물음에 답하시오. ⑴ 세 번째 이불장에 있는 요, 이불, 베개의 수를 구하는 식을 쓰시오 <style type=\"text/css\"> .tg  {border-collapse:collapse;border-spacing:0;} .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;   overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-0lax{text-align:left;vertical-align:top} </style> <table class=\"tg\"> <thead>   <tr>     <th class=\"tg-0lax\">이불장</th>     <th class=\"tg-0lax\">요(채)</th>     <th class=\"tg-0lax\">이불(채)</th>     <th class=\"tg-0lax\">베개(개)</th>   </tr> </thead> <tbody>   <tr>     <td class=\"tg-0lax\">첫 번째</td>     <td class=\"tg-0lax\">$1\\times2=2$</td>     <td class=\"tg-0lax\">$2\\times2=4$</td>     <td class=\"tg-0lax\">$2\\times2=4$</td>   </tr>   <tr>     <td class=\"tg-0lax\">두 번째</td>     <td class=\"tg-0lax\">$1\\times3=3$</td>     <td class=\"tg-0lax\">$2\\times2+1=5$</td>     <td class=\"tg-0lax\">$2\\times2=4$</td>   </tr>   <tr>     <td class=\"tg-0lax\">세 번째</td>     <td class=\"tg-0lax\"></td>     <td class=\"tg-0lax\"></td>     <td class=\"tg-0lax\"></td>   </tr> </tbody> </table> (2) 두 사람당 요 1채, 이불 2채, 베개 2개가 필요하다면 12명이 자는 데 요, 이불, 베개는 각각 얼마나 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            551,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            193,
+            402,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            216,
+            293,
+            310
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            313,
+            651,
+            330
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            57,
+            248,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.72,
+            0.39,
+            803.72,
+            39.39
+          ],
+          "text": "광우네 이불장을 열어보니 1층에는 요가 있고, 2, 3층에는 이불이 있고, 4층에는 베개가 2개 있습니다. 이와 같은 규칙으로 첫 번째 이불장에는 8층, 두 번째 이불장에는 10층, 세 번째 이불장에는 12층까지 쌓여 있을 때 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.72,
+            194.39,
+            650.72,
+            329.39
+          ],
+          "text": "⑴ 세 번째 이불장에 있는 요, 이불, 베개의 수를 구하는 식을 쓰시오 <style type=\"text/css\"> .tg  {border-collapse:collapse;border-spacing:0;} .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;   overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-0lax{text-align:left;vertical-align:top} </style> <table class=\"tg\"> <thead>   <tr>     <th class=\"tg-0lax\">이불장</th>     <th class=\"tg-0lax\">요(채)</th>     <th class=\"tg-0lax\">이불(채)</th>     <th class=\"tg-0lax\">베개(개)</th>   </tr> </thead> <tbody>   <tr>     <td class=\"tg-0lax\">첫 번째</td>     <td class=\"tg-0lax\">$1\\times2=2$</td>     <td class=\"tg-0lax\">$2\\times2=4$</td>     <td class=\"tg-0lax\">$2\\times2=4$</td>   </tr>   <tr>     <td class=\"tg-0lax\">두 번째</td>     <td class=\"tg-0lax\">$1\\times3=3$</td>     <td class=\"tg-0lax\">$2\\times2+1=5$</td>     <td class=\"tg-0lax\">$2\\times2=4$</td>   </tr>   <tr>     <td class=\"tg-0lax\">세 번째</td>     <td class=\"tg-0lax\"></td>     <td class=\"tg-0lax\"></td>     <td class=\"tg-0lax\"></td>   </tr> </tbody> </table> (2) 두 사람당 요 1채, 이불 2채, 베개 2개가 필요하다면 12명이 자는 데 요, 이불, 베개는 각각 얼마나 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

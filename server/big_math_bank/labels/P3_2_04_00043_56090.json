@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_04_00043_56090.png",
+  "id": "00043_56090",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 조건을 만족하는 가장 큰 가분수를 구하시오.  ㆍ $2$와 $3$ 사이의 분수입니다. ㆍ 분모는 $11$입니다. ㆍ 대분수로 나타내면 분자는 $10$보다 작습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            190,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            139,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            75,
+            294,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            302,
+            94
+          ],
+          "text": "다음 조건을 만족하는 가장 큰 가분수를 구하시오.  ㆍ $2$와 $3$ 사이의 분수입니다. ㆍ 분모는 $11$입니다. ㆍ 대분수로 나타내면 분자는 $10$보다 작습니다."
+        }
+      ]
+    }
+  ]
+}

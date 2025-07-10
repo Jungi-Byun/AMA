@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_1_01_00043_32775.png",
+  "id": "00043_32775",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민재는 아버지와 자동차 매장에 갔습니다. 물음에 답하시오. $\\cdot$ 빨간색 자동차 : $17210000$원 $\\cdot$ 노란색 자동차 : $31500000$원 $\\cdot$ 파란색 자동차 : $18550000$원 (1) 빨간색 자동차의 가격에서 ㉠이 나타내는 수는 ㉡이 나타내는 수의 몇 배입니까? $\\underset{㉠}{\\underline{1}}72\\underset{㉡}{\\underline{1}}0000$ (2) 노랑색 자동차의 가격은 얼마인지 읽어 보시오. (3) 자동차의 가격이 높은 것부터 차례로 색을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            354,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            21,
+            211,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            53,
+            214,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            75,
+            214,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            490,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            127,
+            128,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            144,
+            79,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            164,
+            305,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            186,
+            321,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            204
+          ],
+          "text": "민재는 아버지와 자동차 매장에 갔습니다. 물음에 답하시오. $\\cdot$ 빨간색 자동차 : $17210000$원 $\\cdot$ 노란색 자동차 : $31500000$원 $\\cdot$ 파란색 자동차 : $18550000$원 (1) 빨간색 자동차의 가격에서 ㉠이 나타내는 수는 ㉡이 나타내는 수의 몇 배입니까? $\\underset{㉠}{\\underline{1}}72\\underset{㉡}{\\underline{1}}0000$ (2) 노랑색 자동차의 가격은 얼마인지 읽어 보시오. (3) 자동차의 가격이 높은 것부터 차례로 색을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55446.png",
+  "id": "00043_55446",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우리 반 학생 수는 $35$명입니다. 이 중에서 국어를 좋아하는 학생은 전체의 $ \\frac{1}{5} $이고, 나머지 학생의 $ \\frac{3}{7} $은 수학을 좋아합니다. 수학을 좋아하는 학생은 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            796,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            166,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            60
+          ],
+          "text": "우리 반 학생 수는 $35$명입니다. 이 중에서 국어를 좋아하는 학생은 전체의 $ \\frac{1}{5} $이고, 나머지 학생의 $ \\frac{3}{7} $은 수학을 좋아합니다. 수학을 좋아하는 학생은 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

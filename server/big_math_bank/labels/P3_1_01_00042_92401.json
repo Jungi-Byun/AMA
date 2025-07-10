@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_01_00042_92401.png",
+  "id": "00042_92401",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "전시관에는 어른이 $343$명, 어린이가 $425$명 있습니다. 전시관에 있는 사람은 모두 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            555,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            557,
+            21
+          ],
+          "text": "전시관에는 어른이 $343$명, 어린이가 $425$명 있습니다. 전시관에 있는 사람은 모두 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

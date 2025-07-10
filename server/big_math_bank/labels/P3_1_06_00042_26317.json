@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_1_06_00042_26317.png",
+  "id": "00042_26317",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\frac{6}{7}$과 $\\frac{4}{7}$의 크기를 비교하려고 합니다. 물음에 답하시오.(1) $\\frac{6}{7}$은 $\\frac{1}{7}$이 몇 개입니까?(2) $\\frac{4}{7}$는 $\\frac{1}{7}$이 몇 개입니까?(3) $\\bigcirc$ 안에 >, <를 알맞게 써넣으시오. 6$ \\bigcirc $4이므로 $\\frac{6}{7}  \\bigcirc  \\frac{4}{7}$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            346,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            188,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            83,
+            191,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            123,
+            236,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            52,
+            151,
+            79,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            78,
+            178,
+            150,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            152,
+            151,
+            179,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            179,
+            178,
+            243,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            155,
+            48,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            348,
+            182
+          ],
+          "text": "$\\frac{6}{7}$과 $\\frac{4}{7}$의 크기를 비교하려고 합니다. 물음에 답하시오.(1) $\\frac{6}{7}$은 $\\frac{1}{7}$이 몇 개입니까?(2) $\\frac{4}{7}$는 $\\frac{1}{7}$이 몇 개입니까?(3) $\\bigcirc$ 안에 >, <를 알맞게 써넣으시오. 6$ \\bigcirc $4이므로 $\\frac{6}{7}  \\bigcirc  \\frac{4}{7}$입니다."
+        }
+      ]
+    }
+  ]
+}

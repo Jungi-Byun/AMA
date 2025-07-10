@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00043_39107.png",
+  "id": "00043_39107",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소영이는 색종이를 $5$묶음으로 똑같이 나누었습니다. 그중 한 묶음을 네 상자에 똑같이 나누어 담았더니 한 상자에는 $11$장의 색종이가 들어있습니다. 소영이가 원래 가지고 있던 색종이는 몇 장입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            349,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "소영이는 색종이를 $5$묶음으로 똑같이 나누었습니다. 그중 한 묶음을 네 상자에 똑같이 나누어 담았더니 한 상자에는 $11$장의 색종이가 들어있습니다. 소영이가 원래 가지고 있던 색종이는 몇 장입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_20673.png",
+  "id": "00043_20673",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 수를 소수로 나타내고 읽어 보시오. $ \\frac{1}{10} $이 $8$개인 수 ( ), ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            22,
+            161,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            317,
+            78
+          ],
+          "text": "다음 수를 소수로 나타내고 읽어 보시오. $ \\frac{1}{10} $이 $8$개인 수 ( ), ( )"
+        }
+      ]
+    }
+  ]
+}

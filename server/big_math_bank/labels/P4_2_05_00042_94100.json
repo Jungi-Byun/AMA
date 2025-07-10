@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_05_00042_94100.png",
+  "id": "00042_94100",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 표는 연도별 강아지의 무게를 나타낸 것입니다. 이 표를 보고 꺾은선그래프를 그리려고 할 때, 잘못 생각한 것은 어느 것입니까?  <table border> <caption>강아지의 무게 (매년 $1$월 초 조사)</caption>   <tbody>     <tr>       <td>년도</td>       <td>$2009$</td>       <td>$2010$</td>       <td>$2011$</td>       <td>$2012$</td>     </tr>     <tr>       <td>무게($\\mathrm{kg}$)</td>       <td>$8$</td>       <td>$13$</td>       <td>$17$</td>       <td>$25$</td>     </tr> </tbody> </table> ①가로의 눈금에는 년도를 나타냅니다. ②세로의 눈금에는 무게를 나타냅니다. ③세로의 작은 눈금 한 칸의 크기를 $1\\mathrm{kg}$으로 합니다. ④무게를 각 연도별로 점을 찍고 선분으로 잇습니다. ⑤세로의 작은 눈금 한 칸의 크기를 $10\\mathrm{kg}$으로 합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            763,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            222,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            235,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            92,
+            249,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            115,
+            249,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            137,
+            322,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            159,
+            324,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            181,
+            331,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            765,
+            202
+          ],
+          "text": "다음 표는 연도별 강아지의 무게를 나타낸 것입니다. 이 표를 보고 꺾은선그래프를 그리려고 할 때, 잘못 생각한 것은 어느 것입니까?  <table border> <caption>강아지의 무게 (매년 $1$월 초 조사)</caption>   <tbody>     <tr>       <td>년도</td>       <td>$2009$</td>       <td>$2010$</td>       <td>$2011$</td>       <td>$2012$</td>     </tr>     <tr>       <td>무게($\\mathrm{kg}$)</td>       <td>$8$</td>       <td>$13$</td>       <td>$17$</td>       <td>$25$</td>     </tr> </tbody> </table> ①가로의 눈금에는 년도를 나타냅니다. ②세로의 눈금에는 무게를 나타냅니다. ③세로의 작은 눈금 한 칸의 크기를 $1\\mathrm{kg}$으로 합니다. ④무게를 각 연도별로 점을 찍고 선분으로 잇습니다. ⑤세로의 작은 눈금 한 칸의 크기를 $10\\mathrm{kg}$으로 합니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57806.png",
+  "id": "00043_57806",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성훈이는 주스를 사서 첫째 날에는 $600 mL$, 둘째 날에는 $500 mL$, 셋째 날에는 남은 주스의 절반을 마셨습니다. 남은 주스가 $350 mL$였다면 성훈이가 처음 사 온 주스의 양은 몇 $L$ 몇 $mL$였습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            330,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "성훈이는 주스를 사서 첫째 날에는 $600 mL$, 둘째 날에는 $500 mL$, 셋째 날에는 남은 주스의 절반을 마셨습니다. 남은 주스가 $350 mL$였다면 성훈이가 처음 사 온 주스의 양은 몇 $L$ 몇 $mL$였습니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00040_38265.png",
+  "id": "00040_38265",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205001",
+      "question_topic_name": "꺾은선그래프 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 꺾은선그래프에 대한 설명으로 옳지 않은 것은 어느 것입니까? ①세로 눈금에는 변화하는 수량을 표시합니다. ②조사하지 않은 중간의 것도 예상할 수 있습니다. ③막대그래프보다 변화하는 모양과 정도를 알아보기 쉽습니다. ④세로 눈금 한 칸의 크기를 크게 잡을수록 변화하는 모양을 뚜렷이 나타낼 수 있습니다. ⑤하루 동안의 기온의 변화, 몸무게의 변화 등을 나타내기에 적당합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            417,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            291,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            312,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            384,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            525,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            437,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            527,
+            128
+          ],
+          "text": "다음 중 꺾은선그래프에 대한 설명으로 옳지 않은 것은 어느 것입니까? ①세로 눈금에는 변화하는 수량을 표시합니다. ②조사하지 않은 중간의 것도 예상할 수 있습니다. ③막대그래프보다 변화하는 모양과 정도를 알아보기 쉽습니다. ④세로 눈금 한 칸의 크기를 크게 잡을수록 변화하는 모양을 뚜렷이 나타낼 수 있습니다. ⑤하루 동안의 기온의 변화, 몸무게의 변화 등을 나타내기에 적당합니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_01_00042_29509.png",
+  "id": "00042_29509",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억 단위 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숫자 카드를 한 번씩만 사용하여 만들 수 있는 십억의 자리 숫자가 $5$인 가장 큰 수는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            562,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            19,
+            240,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            62,
+            240,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            564,
+            95
+          ],
+          "text": "숫자 카드를 한 번씩만 사용하여 만들 수 있는 십억의 자리 숫자가 $5$인 가장 큰 수는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

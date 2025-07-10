@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00040_28923.png",
+  "id": "00040_28923",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수조를 가득 채우는 데 가 컵으로는 $7$번, 나 컵으로는 $8$번, 다 컵으로는 $9$번을 부으면 됩니다. 가, 나, 다의 들이가 많은 순서대로 나열된 것은 다음 중 어느 것입니까? ①가, 나, 다 ②나, 다, 가 ③다, 가, 나 ④가, 다, 나 ⑤나, 가, 다",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            153,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            98,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            98,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            98,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            98,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            98,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            152
+          ],
+          "text": "수조를 가득 채우는 데 가 컵으로는 $7$번, 나 컵으로는 $8$번, 다 컵으로는 $9$번을 부으면 됩니다. 가, 나, 다의 들이가 많은 순서대로 나열된 것은 다음 중 어느 것입니까? ①가, 나, 다 ②나, 다, 가 ③다, 가, 나 ④가, 다, 나 ⑤나, 가, 다"
+        }
+      ]
+    }
+  ]
+}

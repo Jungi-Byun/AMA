@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_03_00043_50060.png",
+  "id": "00043_50060",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 마라톤 대회에 참가한 $5$명의 현재 위치와 출발선으로부터의 거리를 나타낸 것입니다. 주영이가 현재 $2$위라면 현재까지 달린 거리를 $km$로 나타내었을 때 가능한 거리를 소수 세 자리 수로 모두 쓰시오.  (1) 현재까지 달린 거리를 각각 $km$로 나타내시오.  <table border> <tbody> <tr> <td>정인</td> <td>예영</td> <td>진우</td> <td>주은</td> </tr> <tr> <td>$\\,$</td> <td>$\\,$</td> <td>$\\,$</td> </tr> <tr> </tr> </tbody> </table>  (2) 주영이가 현재까지 달린 거리를 $㎞$로 나타내었을 때 가능한 거리를 소수 세 자리 수로 모두 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            398,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            127,
+            295,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            144,
+            161,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            200,
+            599,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18.68,
+            43.89,
+            326.68,
+            121.49
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            41
+          ],
+          "text": "다음은 마라톤 대회에 참가한 $5$명의 현재 위치와 출발선으로부터의 거리를 나타낸 것입니다. 주영이가 현재 $2$위라면 현재까지 달린 거리를 $km$로 나타내었을 때 가능한 거리를 소수 세 자리 수로 모두 쓰시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            126,
+            601,
+            218
+          ],
+          "text": " (1) 현재까지 달린 거리를 각각 $km$로 나타내시오.  <table border> <tbody> <tr> <td>정인</td> <td>예영</td> <td>진우</td> <td>주은</td> </tr> <tr> <td>$\\,$</td> <td>$\\,$</td> <td>$\\,$</td> </tr> <tr> </tr> </tbody> </table>  (2) 주영이가 현재까지 달린 거리를 $㎞$로 나타내었을 때 가능한 거리를 소수 세 자리 수로 모두 쓰시오."
+        }
+      ]
+    }
+  ]
+}

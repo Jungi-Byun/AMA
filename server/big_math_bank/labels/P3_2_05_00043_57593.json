@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00043_57593.png",
+  "id": "00043_57593",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이를 바르게 어림한 것을 찾아 선으로 이으시오.  (1) 종이컵  ㉠ 약 $ 4 \\mathrm{~L} $  (2) 주사기 ㉡ 약 $ 5 \\mathrm{~mL} $  (3) 세숫대야 ㉢ 약 $ 100 \\mathrm{~mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            76,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            223,
+            22,
+            286,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            103,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            226,
+            44,
+            300,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            104,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            227,
+            66,
+            317,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            83
+          ],
+          "text": "들이를 바르게 어림한 것을 찾아 선으로 이으시오.  (1) 종이컵  ㉠ 약 $ 4 \\mathrm{~L} $  (2) 주사기 ㉡ 약 $ 5 \\mathrm{~mL} $  (3) 세숫대야 ㉢ 약 $ 100 \\mathrm{~mL} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_04_00042_25885.png",
+  "id": "00042_25885",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기와 같이 곱을 구하시오.  [보기] $ \\\\ \\begin{array}{r}16 \\\\ \\times 2 \\\\ \\hline 12 \\\\ 20 \\\\ \\hline 32\\end{array} \\\\ $  $ \\begin{array}{r}39 \\\\ \\times 2 \\\\ \\hline \\square \\\\ \\square \\\\ \\hline \\square\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            174,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            25,
+            66,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            54,
+            74,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            178,
+            72,
+            325
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            189,
+            327
+          ],
+          "text": "보기와 같이 곱을 구하시오.  [보기] $ \\\\ \\begin{array}{r}16 \\\\ \\times 2 \\\\ \\hline 12 \\\\ 20 \\\\ \\hline 32\\end{array} \\\\ $  $ \\begin{array}{r}39 \\\\ \\times 2 \\\\ \\hline \\square \\\\ \\square \\\\ \\hline \\square\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "question_filename": "P3_1_02_00042_24982.png",
+  "id": "00042_24982",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102004",
+      "question_topic_name": "각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 ( ) 안에 알맞게 써 보시오. 각 읽기: 각 ( ) 각의 꼭짓점: 점 ( ) 변: 변 ( ), 변 (  )  각 읽기: 각 ( ) 각의 꼭짓점: 점 ( ) 변: 변 ( ), 변 ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            249,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            104,
+            158,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            126,
+            153,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            148,
+            177,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            258,
+            158,
+            275
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            280,
+            153,
+            297
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            302,
+            177,
+            318
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            27,
+            150,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            176,
+            168,
+            250
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            251,
+            21
+          ],
+          "text": "그림을 보고 ( ) 안에 알맞게 써 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            32,
+            103,
+            179,
+            166
+          ],
+          "text": "각 읽기: 각 ( ) 각의 꼭짓점: 점 ( ) 변: 변 ( ), 변 (  ) "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            32,
+            257,
+            179,
+            320
+          ],
+          "text": "각 읽기: 각 ( ) 각의 꼭짓점: 점 ( ) 변: 변 ( ), 변 ( )"
+        }
+      ]
+    }
+  ]
+}

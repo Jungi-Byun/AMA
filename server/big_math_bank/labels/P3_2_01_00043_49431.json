@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49431.png",
+  "id": "00043_49431",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "재우네 모둠이 알뜰 시장에서 판 물건을 정리하여 나타낸 것입니다. 재우네 모둠이 알뜰 시장에서 번 돈은 모두 얼마입니까? 물품 필통 지우개 장난감 판매 가격 $450$원 $50$원 $650$원 팔린 개수 $6$개 $44$개 $7$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            714,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            237,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            716,
+            93
+          ],
+          "text": "재우네 모둠이 알뜰 시장에서 판 물건을 정리하여 나타낸 것입니다. 재우네 모둠이 알뜰 시장에서 번 돈은 모두 얼마입니까? 물품 필통 지우개 장난감 판매 가격 $450$원 $50$원 $650$원 팔린 개수 $6$개 $44$개 $7$개"
+        }
+      ]
+    }
+  ]
+}

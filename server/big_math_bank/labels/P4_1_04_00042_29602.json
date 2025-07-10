@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00042_29602.png",
+  "id": "00042_29602",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104013",
+      "question_topic_name": "무늬에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 가지 모양을 밀어서 만든 것입니다. 어떤 모양을 이어 붙여서 만든 것인지 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            521,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            316,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            523,
+            21
+          ],
+          "text": "두 가지 모양을 밀어서 만든 것입니다. 어떤 모양을 이어 붙여서 만든 것인지 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

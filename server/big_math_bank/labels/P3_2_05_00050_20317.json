@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20317.png",
+  "id": "00050_20317",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$3.5t$까지 실을 수 있는 트럭에 한 통의 무게가 $4kg$인 수박 $200$통을 실었습니다. 무게가 $5kg$인 수박을 더 싣는다면 $5kg$짜리 수박은 몇 통까지 실을 수 있겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            153,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "$3.5t$까지 실을 수 있는 트럭에 한 통의 무게가 $4kg$인 수박 $200$통을 실었습니다. 무게가 $5kg$인 수박을 더 싣는다면 $5kg$짜리 수박은 몇 통까지 실을 수 있겠습니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_01_00043_39016.png",
+  "id": "00043_39016",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201016",
+      "question_topic_name": "받아내림이 있는 (대분수)-(대분수)_대분수를 가분수로 바꾸기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{l}3 \\frac{1}{4}-1 \\frac{2}{4}=2 \\frac{\\square}{4}-1 \\frac{2}{4} \\\\ =(2-\\square)+\\left(\\frac{\\square}{4}-\\frac{2}{4}\\right) \\\\ =\\square+\\frac{\\square}{4}=\\square \\frac{\\square}{4}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            93,
+            196,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            133,
+            193,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            172,
+            191,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            25,
+            305,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            0.14,
+            277.17,
+            18.14
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.17,
+            92.14,
+            196.17,
+            212.14
+          ],
+          "text": "$ \\begin{array}{l}3 \\frac{1}{4}-1 \\frac{2}{4}=2 \\frac{\\square}{4}-1 \\frac{2}{4} \\\\ =(2-\\square)+\\left(\\frac{\\square}{4}-\\frac{2}{4}\\right) \\\\ =\\square+\\frac{\\square}{4}=\\square \\frac{\\square}{4}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

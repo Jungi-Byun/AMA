@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00043_58192.png",
+  "id": "00043_58192",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게가 $1kg 500g$인 꿩의 수컷이 있습니다. 꿩의 암컷이 수컷보다 $700g$ 더 가볍다면, 암컷과 수컷의 무게의 합은 몇 $kg$ 몇 $g$인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            21
+          ],
+          "text": "무게가 $1kg 500g$인 꿩의 수컷이 있습니다. 꿩의 암컷이 수컷보다 $700g$ 더 가볍다면, 암컷과 수컷의 무게의 합은 몇 $kg$ 몇 $g$인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

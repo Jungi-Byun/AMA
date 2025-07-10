@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_01_00042_29789.png",
+  "id": "00042_29789",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101005",
+      "question_topic_name": "천만 단위 수의 각 자리의 숫자와 나타내는 값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "표를 보고 $\\square$ 안에 알맞은 수나 말을 써넣으시오. <table border>   <tbody>     <tr>       <td>$5$</td>       <td>$3$</td>       <td>$2$</td>       <td>$7$</td>       <td>$6$</td>       <td>$0$</td>       <td>$8$</td>       <td>$2$</td>     </tr>     <tr>       <td>천 </td>       <td>백 </td>       <td>십 </td>       <td>일 </td>       <td rowspan=2>천 </td>       <td rowspan=2>백 </td>       <td rowspan=2>십 </td>       <td rowspan=2>일  </td>     </tr>     <tr>       <td colspan=3></td>       <td>만</td>     </tr> </tbody> </table> ($1$) 이 수는 만이 $\\square$, 일이 $\\square$인 수입니다. ($2$) 이 수는 $\\square$라고 읽습니다. ($3$) 이 수의 천만의 자리 숫자는 $\\square$, 백만의 자리 숫자는 $\\square$, 십만의 자리 숫자는 $\\square$, 만의 자리 숫자는 $\\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            291,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            179,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            342,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            129,
+            380,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            158,
+            694,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            696,
+            181
+          ],
+          "text": "표를 보고 $\\square$ 안에 알맞은 수나 말을 써넣으시오. <table border>   <tbody>     <tr>       <td>$5$</td>       <td>$3$</td>       <td>$2$</td>       <td>$7$</td>       <td>$6$</td>       <td>$0$</td>       <td>$8$</td>       <td>$2$</td>     </tr>     <tr>       <td>천 </td>       <td>백 </td>       <td>십 </td>       <td>일 </td>       <td rowspan=2>천 </td>       <td rowspan=2>백 </td>       <td rowspan=2>십 </td>       <td rowspan=2>일  </td>     </tr>     <tr>       <td colspan=3></td>       <td>만</td>     </tr> </tbody> </table> ($1$) 이 수는 만이 $\\square$, 일이 $\\square$인 수입니다. ($2$) 이 수는 $\\square$라고 읽습니다. ($3$) 이 수의 천만의 자리 숫자는 $\\square$, 백만의 자리 숫자는 $\\square$, 십만의 자리 숫자는 $\\square$, 만의 자리 숫자는 $\\square$입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_1_05_00043_42772.png",
+  "id": "00043_42772",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성우네 반 학생들을 대상으로 수질 오염을 막기 위해 실천할 수 있는 활동을 조사하여 표로 나타냈습니다. 이 표를 보고 막대그래프를 나타내려고 합니다. 물음에 답하시오.  실천할 수 있는 활동 (1) 가로에 실천할 수 있는 활동을 나타내면 세로에는 무엇을 나타내어야 합니까? (2) 세로 눈금 한 칸은 몇 명을 나타내는 것이 좋겠습니까? (3) 세로 눈금은 몇 명까지 나타낼 수 있어야 합니까? (4) 막대그래프로 나타내시오. 실천할 수 있는 활동",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            203,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            72,
+            44,
+            188,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            308,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            183,
+            474,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            205,
+            346,
+            222
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            227,
+            316,
+            244
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            249,
+            188,
+            265
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            280,
+            294,
+            451
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            266
+          ],
+          "text": "성우네 반 학생들을 대상으로 수질 오염을 막기 위해 실천할 수 있는 활동을 조사하여 표로 나타냈습니다. 이 표를 보고 막대그래프를 나타내려고 합니다. 물음에 답하시오.  실천할 수 있는 활동 (1) 가로에 실천할 수 있는 활동을 나타내면 세로에는 무엇을 나타내어야 합니까? (2) 세로 눈금 한 칸은 몇 명을 나타내는 것이 좋겠습니까? (3) 세로 눈금은 몇 명까지 나타낼 수 있어야 합니까? (4) 막대그래프로 나타내시오. 실천할 수 있는 활동"
+        }
+      ]
+    }
+  ]
+}

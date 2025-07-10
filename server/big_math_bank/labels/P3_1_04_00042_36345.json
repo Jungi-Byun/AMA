@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_04_00042_36345.png",
+  "id": "00042_36345",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "용우는 연필 $6$타를 가지고 있습니다. 그중에서 $9$자루를 동생에게 주었습니다. 남은 연필은 몇 자루입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            617,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            619,
+            21
+          ],
+          "text": "용우는 연필 $6$타를 가지고 있습니다. 그중에서 $9$자루를 동생에게 주었습니다. 남은 연필은 몇 자루입니까?"
+        }
+      ]
+    }
+  ]
+}

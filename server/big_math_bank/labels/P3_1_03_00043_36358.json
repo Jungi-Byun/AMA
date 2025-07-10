@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00043_36358.png",
+  "id": "00043_36358",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈식의 $\\square$ 안에 알맞은 수를 써넣고 곱셈식을 보고 나눗셈식을 $2$개 만들어 보시오.  $ \\begin{array}{c}8 \\times 9= \\square \\end{array}  $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            492,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            7.73,
+            31.34,
+            128.14,
+            65.09
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            494,
+            23
+          ],
+          "text": "곱셈식의 $\\square$ 안에 알맞은 수를 써넣고 곱셈식을 보고 나눗셈식을 $2$개 만들어 보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            5.9,
+            31.8,
+            129.05,
+            66.46
+          ],
+          "text": "$ \\begin{array}{c}8 \\times 9= \\square \\end{array}  $"
+        }
+      ]
+    }
+  ]
+}

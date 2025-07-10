@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00042_91781.png",
+  "id": "00042_91781",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103003",
+      "question_topic_name": "똑같이 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기와 같이 도형에 선을 그어 똑같이 둘로 나눌 때, 선을 그을 수 있는 방법은 모두 몇 가지입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            574,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            24,
+            168,
+            255
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            576,
+            23
+          ],
+          "text": "보기와 같이 도형에 선을 그어 똑같이 둘로 나눌 때, 선을 그을 수 있는 방법은 모두 몇 가지입니까?"
+        }
+      ]
+    }
+  ]
+}

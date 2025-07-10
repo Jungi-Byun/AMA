@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_01_00043_38724.png",
+  "id": "00043_38724",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201008",
+      "question_topic_name": "분모가 같은 대분수끼리 덧셈에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞게 써넣으시오. $ \\begin{array}{l}1 \\frac{4}{6}+1 \\frac{5}{6}=(1+1)+\\left(\\frac{4}{6}+\\frac{\\square}{6}\\right) \\\\ =2+\\frac{\\square}{6}=2+\\square \\frac{\\square}{6} \\\\ =\\square \\frac{\\square}{6}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            166,
+            242,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            209,
+            181,
+            249
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            252,
+            87,
+            292
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            24,
+            303,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            248,
+            20
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞게 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21,
+            165,
+            244,
+            293
+          ],
+          "text": "$ \\begin{array}{l}1 \\frac{4}{6}+1 \\frac{5}{6}=(1+1)+\\left(\\frac{4}{6}+\\frac{\\square}{6}\\right) \\\\ =2+\\frac{\\square}{6}=2+\\square \\frac{\\square}{6} \\\\ =\\square \\frac{\\square}{6}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

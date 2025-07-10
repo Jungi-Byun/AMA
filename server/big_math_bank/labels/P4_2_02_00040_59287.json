@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_02_00040_59287.png",
+  "id": "00040_59287",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202002",
+      "question_topic_name": "이등변삼각형 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직사각형의 모양의 종이를 각$ㄷㅅㄹ$이 직각이 되도록 올려 접었습니다. 그림에 대한 설명으로 틀린 것은 어느 것입니까? ①각 ㄹㅁㅂ은 직각입니다. ②각 ㄱㄴㄷ은 직각입니다. ③변 ㄱㄴ과 변 ㄷㄹ의 길이는 같습니다. ④변 ㄱㄴ과 변 ㅂㅁ의 길이는 같습니다. ⑤변 ㅅㄷ과 변 ㅅㄹ의 길이는 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            694,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            132,
+            182,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            154,
+            182,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            176,
+            257,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            198,
+            257,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            220,
+            257,
+            240
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            24,
+            198,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            696,
+            23
+          ],
+          "text": "직사각형의 모양의 종이를 각$ㄷㅅㄹ$이 직각이 되도록 올려 접었습니다. 그림에 대한 설명으로 틀린 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            131,
+            259,
+            241
+          ],
+          "text": "①각 ㄹㅁㅂ은 직각입니다. ②각 ㄱㄴㄷ은 직각입니다. ③변 ㄱㄴ과 변 ㄷㄹ의 길이는 같습니다. ④변 ㄱㄴ과 변 ㅂㅁ의 길이는 같습니다. ⑤변 ㅅㄷ과 변 ㅅㄹ의 길이는 같습니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_01_00043_22208.png",
+  "id": "00043_22208",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201002",
+      "question_topic_name": "분모가 같고 합이 1보다 큰 (진분수)+(진분수) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산한 값이 1에 가장 가까운 것은 어느 것입니까?  ①$\\frac{2}{13}$+$\\frac{7}{13}$  ②$\\frac{9}{13}$+$\\frac{1}{13}$  ③$\\frac{1}{13}$+$\\frac{10}{13}$  ④$\\frac{4}{13}$+$\\frac{3}{13}$  ⑤$\\frac{6}{13}$+$\\frac{8}{13}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            301,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            112,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            112,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            112,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            112,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            112,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            303,
+            224
+          ],
+          "text": "계산한 값이 1에 가장 가까운 것은 어느 것입니까?  ①$\\frac{2}{13}$+$\\frac{7}{13}$  ②$\\frac{9}{13}$+$\\frac{1}{13}$  ③$\\frac{1}{13}$+$\\frac{10}{13}$  ④$\\frac{4}{13}$+$\\frac{3}{13}$  ⑤$\\frac{6}{13}$+$\\frac{8}{13}$"
+        }
+      ]
+    }
+  ]
+}

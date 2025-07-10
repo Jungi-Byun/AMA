@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00043_34843.png",
+  "id": "00043_34843",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104013",
+      "question_topic_name": "무늬에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "(이미지)도형으로 ‘밀기’, ‘뒤집기’, ‘돌리기’의 방법을 이용하여 규칙적인 무늬를 $2$가지 만들어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19.72,
+            0,
+            580.72,
+            39.67
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19.72,
+            38.67,
+            330.72,
+            262.67
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.72,
+            0,
+            580.72,
+            39.67
+          ],
+          "text": "(이미지)도형으로 ‘밀기’, ‘뒤집기’, ‘돌리기’의 방법을 이용하여 규칙적인 무늬를 $2$가지 만들어 보시오."
+        }
+      ]
+    }
+  ]
+}

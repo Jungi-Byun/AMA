@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00042_53605.png",
+  "id": "00042_53605",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "컵 ㉮, ㉯, ㉰에 물을 가득 담아 다음 횟수만큼 모양과 크기가 같은 그릇에 부으면 그릇에 담긴 물의 높이가 같아진다고 합니다. 물음에 답하시오. ㉮ $6$번 ㉯ $8$번 ㉰ $12$번 (1) ㉮ 컵의 들이는 ㉰ 컵의 들이의 몇 배라고 할 수 있습니까?(2) 컵 ㉮, ㉯, ㉰ 중에서 들이가 가장 많은 것은 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            49,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            46,
+            43,
+            260,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            363,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            373,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            122
+          ],
+          "text": "컵 ㉮, ㉯, ㉰에 물을 가득 담아 다음 횟수만큼 모양과 크기가 같은 그릇에 부으면 그릇에 담긴 물의 높이가 같아진다고 합니다. 물음에 답하시오. ㉮ $6$번 ㉯ $8$번 ㉰ $12$번 (1) ㉮ 컵의 들이는 ㉰ 컵의 들이의 몇 배라고 할 수 있습니까?(2) 컵 ㉮, ㉯, ㉰ 중에서 들이가 가장 많은 것은 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

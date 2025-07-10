@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_02_00043_35158.png",
+  "id": "00043_35158",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "대화를 읽고 바르게 말한 사람은 누구인지 쓰시오. 장우 : 직사각형은 네 각이 모두 직각이니까 정사각형이야. 서진 : 네 변만 모두 같으면 정사각형이야. 민혜 : 정사각형은 네 각이 모두 직각이니까 직사각형이야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            356,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            54,
+            260,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            72,
+            356,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            391,
+            99
+          ],
+          "text": "대화를 읽고 바르게 말한 사람은 누구인지 쓰시오. 장우 : 직사각형은 네 각이 모두 직각이니까 정사각형이야. 서진 : 네 변만 모두 같으면 정사각형이야. 민혜 : 정사각형은 네 각이 모두 직각이니까 직사각형이야."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00043_51326.png",
+  "id": "00043_51326",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은하수 모둠 친구들 $5$명은 현장 학습을 가서 한 명당 복숭아를  $7 $개씩 땄습니다. 딴 복숭아를 한 봉지에  $4$개씩 담고 남은 것은 모두 먹었습니다. 물음에 답하시오.⑴ 은하수 모둠 친구들이 딴 복숭아는 모두 몇 개입니까?⑵ 은하수 모둠 친구들이 딴 복숭아를 한 봉지에  $4 $개씩 담았을 때 나눗셈식을 쓰시오. $\\square ÷ \\square = \\square ⋯ \\square$ ⑶ 은하수 모둠 친구들이 먹은 복숭아는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            136,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            337,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            496,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            88,
+            188,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            321,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            135
+          ],
+          "text": "은하수 모둠 친구들 $5$명은 현장 학습을 가서 한 명당 복숭아를  $7 $개씩 땄습니다. 딴 복숭아를 한 봉지에  $4$개씩 담고 남은 것은 모두 먹었습니다. 물음에 답하시오.⑴ 은하수 모둠 친구들이 딴 복숭아는 모두 몇 개입니까?⑵ 은하수 모둠 친구들이 딴 복숭아를 한 봉지에  $4 $개씩 담았을 때 나눗셈식을 쓰시오. $\\square ÷ \\square = \\square ⋯ \\square$ ⑶ 은하수 모둠 친구들이 먹은 복숭아는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

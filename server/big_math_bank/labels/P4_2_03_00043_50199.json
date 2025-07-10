@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_2_03_00043_50199.png",
+  "id": "00043_50199",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "체육 시간에 $4$명씩 한 모둠이 되어 계주를 하려고 합니다. 한 명이 $ 400 \\mathrm{~m} $ 씩 달릴 때 네 사람이 달리는 거리는 모두 몇 $ \\mathrm{km} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            748,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            750,
+            21
+          ],
+          "text": "체육 시간에 $4$명씩 한 모둠이 되어 계주를 하려고 합니다. 한 명이 $ 400 \\mathrm{~m} $ 씩 달릴 때 네 사람이 달리는 거리는 모두 몇 $ \\mathrm{km} $입니까?"
+        }
+      ]
+    }
+  ]
+}

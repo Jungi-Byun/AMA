@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00042_26605.png",
+  "id": "00042_26605",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "서울역에서 $7$시 $15$분에 출발하는 기차의 열차 시간표입니다. 이 기차가 부산역까지 가는 데 걸리는 시간을 구하시오. 도착역 대전역 대구역 부산역 도착 시각 $8$시 $41$분 $9$시 $5$분 $10$시 $12$분",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            671,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            302,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            673,
+            70
+          ],
+          "text": "서울역에서 $7$시 $15$분에 출발하는 기차의 열차 시간표입니다. 이 기차가 부산역까지 가는 데 걸리는 시간을 구하시오. 도착역 대전역 대구역 부산역 도착 시각 $8$시 $41$분 $9$시 $5$분 $10$시 $12$분"
+        }
+      ]
+    }
+  ]
+}

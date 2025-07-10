@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00043_51279.png",
+  "id": "00043_51279",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 나머지가 $2$인 나눗셈을 모두 고르시오.  ① $ 48 \\div 4 $ ② $ 60 \\div 5 $ ③ $ 30 \\div 7 $ ④ $ 50 \\div 8 $ (⑤ $ 66 \\div 9 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            283,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            78,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            78,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            78,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            78,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            77,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            285,
+            130
+          ],
+          "text": "다음 중 나머지가 $2$인 나눗셈을 모두 고르시오.  ① $ 48 \\div 4 $ ② $ 60 \\div 5 $ ③ $ 30 \\div 7 $ ④ $ 50 \\div 8 $ (⑤ $ 66 \\div 9 $"
+        }
+      ]
+    }
+  ]
+}

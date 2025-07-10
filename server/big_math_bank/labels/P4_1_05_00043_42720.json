@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_05_00043_42720.png",
+  "id": "00043_42720",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 혈액형을 A형, B형, AB형, O형으로 나열하고 세로축은 단위가 (명)인 학생 수를 눈금 단위가 2이고 5칸마다 10배수로 표시하고, A형은 28명, B형은 20명, AB형은 12명, O형은 24명인 혈액형별 학생 수를 나타낸 막대그래프",
+      "question_text": "지수네 학교 학생들의 혈액형을 조사하여 나타낸 막대그래프입니다. 그래프를 보고 물음에 답하시오. (1) 세로 눈금 한 칸은 몇 명을 나타냅니까? (2) 학생 수가 가장 많은 혈액형은 어느 것이고 몇 명입니까? (3) 학생 수가 가장 적은 혈액형은 어느 것이고 몇 명입니까? (4) 학생 수가 가장 많은 혈액형과 가장 적은 혈액형의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            585,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            226,
+            259,
+            246
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            251,
+            358,
+            268
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            273,
+            358,
+            290
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            295,
+            409,
+            312
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            315,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            587,
+            20
+          ],
+          "text": "지수네 학교 학생들의 혈액형을 조사하여 나타낸 막대그래프입니다. 그래프를 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.1,
+            227.9,
+            411.1,
+            312.9
+          ],
+          "text": "(1) 세로 눈금 한 칸은 몇 명을 나타냅니까? (2) 학생 수가 가장 많은 혈액형은 어느 것이고 몇 명입니까? (3) 학생 수가 가장 적은 혈액형은 어느 것이고 몇 명입니까? (4) 학생 수가 가장 많은 혈액형과 가장 적은 혈액형의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

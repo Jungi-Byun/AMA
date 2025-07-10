@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00043_36065.png",
+  "id": "00043_36065",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "모든 면이 정사각형 모양인 상자를 그림과 같이 끈으로 묶었습니다. 사용한 끈의 길이는 모두 $96cm$이고, 상자 위의 리본을 묶는 데 사용한 끈의 길이가 $24cm$라면 상자를 이루고 있는 정사각형 모양 면의 한 변은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            507,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            52,
+            118,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "모든 면이 정사각형 모양인 상자를 그림과 같이 끈으로 묶었습니다. 사용한 끈의 길이는 모두 $96cm$이고, 상자 위의 리본을 묶는 데 사용한 끈의 길이가 $24cm$라면 상자를 이루고 있는 정사각형 모양 면의 한 변은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50770.png",
+  "id": "00043_50770",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203018",
+      "question_topic_name": "소수 두 자리 수의 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "수직선의 눈금 단위가 0.05 km이고 왼쪽부터 눈금 10칸씩 마다 13 km, 13.5 km, 14 km, 14.5 km 표시되어 있고 13.65 km, 14.2 km 위치 아래에 각각 화살표로 원영, 남호의 위치를 표시한 그림",
+      "question_text": "달리기 시합 중에 원영이와 남호가 지금 있는 위치를 화살표로 표시한 것입니다. 두 사람 사이의 거리는 몇 $km$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            682,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            32,
+            321,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            684,
+            21
+          ],
+          "text": "달리기 시합 중에 원영이와 남호가 지금 있는 위치를 화살표로 표시한 것입니다. 두 사람 사이의 거리는 몇 $km$입니까?"
+        }
+      ]
+    }
+  ]
+}

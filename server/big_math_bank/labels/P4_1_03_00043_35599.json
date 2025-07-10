@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_03_00043_35599.png",
+  "id": "00043_35599",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 310 m인 도로가 있고 도로 따라 뒤쪽 길가에 나무가 왼쪽 끝부터 일정한 간격으로 3그루 있고 가운데 동일한 방법으로 진행됨을 알리는 줄임말 점 6개가 있으며 오른쪽 끝부터 일정한 간격으로 나무 3그루가 그려져 있는 그림",
+      "question_text": "길이가 $ 360 \\mathrm{~m} $ 인 도로의 한쪽에 $ 18 \\mathrm{~m} $ 간격으로 다음과 같이 나무를 심으려고 합니다. 나무는 모두 몇 그루 필요합니까? (다만, 나무의 두께는 생각하지 않습니다.) (1) 나무와 나무 사이의 거리는 몇 $ \\mathrm{m} $ 입니까? (2) 도로의 한쪽에 심는 나무와 나무 사이의 간격은 몇 군데입니까? (3) 나무는 모두 몇 그루 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            134,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            165,
+            267,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            187,
+            396,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            209,
+            229,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            51,
+            311,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "길이가 $ 360 \\mathrm{~m} $ 인 도로의 한쪽에 $ 18 \\mathrm{~m} $ 간격으로 다음과 같이 나무를 심으려고 합니다. 나무는 모두 몇 그루 필요합니까? (다만, 나무의 두께는 생각하지 않습니다.)"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            164,
+            398,
+            227
+          ],
+          "text": "(1) 나무와 나무 사이의 거리는 몇 $ \\mathrm{m} $ 입니까? (2) 도로의 한쪽에 심는 나무와 나무 사이의 간격은 몇 군데입니까? (3) 나무는 모두 몇 그루 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_06_00043_54490.png",
+  "id": "00043_54490",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한 변의 길이가 $9$ cm인 정육각형과 정십각형이 한 개씩 있습니다. 두 정다각형의 둘레의 합을 알아보시오.⑴ 정육각형과 정십각형의 변은 각각 몇 개입니까?⑵ 정육각형과 정십각형의 변의 개수는 모두 몇 개입니까?⑶ 두 정다각형의 둘레의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            613,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            304,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            346,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            246,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            617,
+            84
+          ],
+          "text": "한 변의 길이가 $9$ cm인 정육각형과 정십각형이 한 개씩 있습니다. 두 정다각형의 둘레의 합을 알아보시오.⑴ 정육각형과 정십각형의 변은 각각 몇 개입니까?⑵ 정육각형과 정십각형의 변의 개수는 모두 몇 개입니까?⑶ 두 정다각형의 둘레의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

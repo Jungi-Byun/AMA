@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_02_00043_37701.png",
+  "id": "00043_37701",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202012",
+      "question_topic_name": "삼각형을 각의 크기에 따라 분류하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 사람의 대화를 읽고 ㉠에 알맞은 수를 구하시오. 호진 : 둔각삼각형과 직각삼각형에서 찾을 수 잇는 예각은 모두 몇 개야?지나 : 둔각삼각형에서 $\\square$개, 직각삼각형에서 $△$개 찾을 수 있으니까 모두 ㉠개지~호진 : 아~ 역시 네가 짱이야. ^^;;",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            436,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            53,
+            487,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            73,
+            219,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            582,
+            99
+          ],
+          "text": "두 사람의 대화를 읽고 ㉠에 알맞은 수를 구하시오. 호진 : 둔각삼각형과 직각삼각형에서 찾을 수 잇는 예각은 모두 몇 개야?지나 : 둔각삼각형에서 $\\square$개, 직각삼각형에서 $△$개 찾을 수 있으니까 모두 ㉠개지~호진 : 아~ 역시 네가 짱이야. ^^;;"
+        }
+      ]
+    }
+  ]
+}

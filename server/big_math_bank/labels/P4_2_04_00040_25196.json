@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_25196.png",
+  "id": "00040_25196",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204010",
+      "question_topic_name": "사다리꼴 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각 $ㄱㄴㄷ$과 마주 보는 각의 크기는 몇 도입니까?  ① $ 30^{\\circ} $ ② $ 40^{\\circ} $ ③ $ 50^{\\circ} $ ④ $ 60^{\\circ} $ ⑤ $ 70^{\\circ} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            295,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            67,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            67,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            66,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            67,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            190,
+            66,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            163,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.48,
+            0,
+            295.68,
+            16.76
+          ],
+          "text": "각 $ㄱㄴㄷ$과 마주 보는 각의 크기는 몇 도입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.68,
+            99.96,
+            66.88,
+            210.36
+          ],
+          "text": "① $ 30^{\\circ} $ ② $ 40^{\\circ} $ ③ $ 50^{\\circ} $ ④ $ 60^{\\circ} $ ⑤ $ 70^{\\circ} $"
+        }
+      ]
+    }
+  ]
+}

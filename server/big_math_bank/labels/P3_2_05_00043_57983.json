@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_57983.png",
+  "id": "00043_57983",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 조건을 보고 토마토 $5$개의 무게를 구하시오. (다만 같은 과일의 무게는 모두 같습니다.) ㆍ사과 $4$개의 무게와 배 $2$개의 무게가 같습니다.ㆍ토마토 $10$개의 무게와 사과 $5$개의 무게가 같습니다.ㆍ사과 $6$개와 배 $6$개의 무게는 합쳐서 $5400g$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            534,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            21,
+            300,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            55,
+            329,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            73,
+            330,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            101
+          ],
+          "text": "다음 조건을 보고 토마토 $5$개의 무게를 구하시오. (다만 같은 과일의 무게는 모두 같습니다.) ㆍ사과 $4$개의 무게와 배 $2$개의 무게가 같습니다.ㆍ토마토 $10$개의 무게와 사과 $5$개의 무게가 같습니다.ㆍ사과 $6$개와 배 $6$개의 무게는 합쳐서 $5400g$입니다."
+        }
+      ]
+    }
+  ]
+}

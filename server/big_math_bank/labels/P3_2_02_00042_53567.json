@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_02_00042_53567.png",
+  "id": "00042_53567",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 나눗셈식에서 기호에 알맞은 수를 찾아보시오.  (1) 문제를 해결하는 데 가장 쉽게 찾을 수 있는 기호는 무엇입니까? (2) 둘째로 쉽게 찾을 수 있는 곳의 기호는 무엇입니까? (3) 몫의 십의 자리 숫자 $2$를 이용하여 ㉮와 ㉱의 값을 찾을 수 있다고 생각합니까? (4) ㉮의 자리에 숫자 $1$ 또는 $2$를 넣을 수 있다고 생각합니까? (5) 모든 기호에 알맞은 수를 찾아보시오. ㉮( ), ㉯( ), ㉰( ), ㉱( ), ㉲( ), ㉳( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            309,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            55,
+            24,
+            112,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            174,
+            398,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            196,
+            329,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            218,
+            483,
+            235
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            240,
+            363,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            262,
+            250,
+            278
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            284,
+            327,
+            301
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            485,
+            302
+          ],
+          "text": "다음 나눗셈식에서 기호에 알맞은 수를 찾아보시오.  (1) 문제를 해결하는 데 가장 쉽게 찾을 수 있는 기호는 무엇입니까? (2) 둘째로 쉽게 찾을 수 있는 곳의 기호는 무엇입니까? (3) 몫의 십의 자리 숫자 $2$를 이용하여 ㉮와 ㉱의 값을 찾을 수 있다고 생각합니까? (4) ㉮의 자리에 숫자 $1$ 또는 $2$를 넣을 수 있다고 생각합니까? (5) 모든 기호에 알맞은 수를 찾아보시오. ㉮( ), ㉯( ), ㉰( ), ㉱( ), ㉲( ), ㉳( )"
+        }
+      ]
+    }
+  ]
+}

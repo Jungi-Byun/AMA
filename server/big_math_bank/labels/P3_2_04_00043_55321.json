@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_04_00043_55321.png",
+  "id": "00043_55321",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "구슬 $25$개 중에서 목걸이를 만드는 데 $18$개를 사용하였습니다. 남은 구슬은 전체의 얼마인지 분수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            650,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            653,
+            21
+          ],
+          "text": "구슬 $25$개 중에서 목걸이를 만드는 데 $18$개를 사용하였습니다. 남은 구슬은 전체의 얼마인지 분수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

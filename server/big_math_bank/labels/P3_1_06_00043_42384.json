@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_42384.png",
+  "id": "00043_42384",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "①~④에 들어갈 수를 아래 표에서 찾아 그에 해당하는 자음과 모음을 순서대로 연결하였습니다. 어떤 단어를 만들 수 있습니까? ㆍ①이 $3$개이면 $0.3$입니다. ㆍ$0.1$이 $5$개이면 ②입니다. ㆍ$ \\frac{7}{10} $은 소수 ③과 같습니다. ㆍ$0.8$과 $1$사이의 소수 한 자리 수는 ④입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            742,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            184,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            54,
+            183,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            77,
+            204,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            115,
+            287,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            143,
+            143,
+            235
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            750,
+            237
+          ],
+          "text": "①~④에 들어갈 수를 아래 표에서 찾아 그에 해당하는 자음과 모음을 순서대로 연결하였습니다. 어떤 단어를 만들 수 있습니까? ㆍ①이 $3$개이면 $0.3$입니다. ㆍ$0.1$이 $5$개이면 ②입니다. ㆍ$ \\frac{7}{10} $은 소수 ③과 같습니다. ㆍ$0.8$과 $1$사이의 소수 한 자리 수는 ④입니다."
+        }
+      ]
+    }
+  ]
+}

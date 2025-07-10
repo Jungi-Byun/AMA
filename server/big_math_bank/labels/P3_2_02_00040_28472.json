@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00040_28472.png",
+  "id": "00040_28472",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202001",
+      "question_topic_name": "내림이 없는 (몇십)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 옳은 것은 어느 것입니까? ①$40\\div2 = 80\\div4$ ②$60\\div3 = 6\\div3$ ③$20\\div1 < 30\\div3$ ④$90\\div9 > 4\\times3$ ⑤$80\\div2 < 90\\div3$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            212,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            23,
+            134,
+            45
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            48,
+            123,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            73,
+            129,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            98,
+            124,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            123,
+            133,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            214,
+            146
+          ],
+          "text": "다음 중 옳은 것은 어느 것입니까? ①$40\\div2 = 80\\div4$ ②$60\\div3 = 6\\div3$ ③$20\\div1 < 30\\div3$ ④$90\\div9 > 4\\times3$ ⑤$80\\div2 < 90\\div3$"
+        }
+      ]
+    }
+  ]
+}

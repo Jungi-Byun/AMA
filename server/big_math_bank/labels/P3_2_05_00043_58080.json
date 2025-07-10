@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58080.png",
+  "id": "00043_58080",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "음력 $5$월 $5$일 단오에는 수리취떡을 먹습니다. 어머니께서 수리취떡 $3 kg 300 g$을 만들어 이웃에게 나누어 주고 $1 kg 600 g$이 남았습니다. 이웃에게 나누어 준 수리취떡은 몇 $kg$ 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            292,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            41
+          ],
+          "text": "음력 $5$월 $5$일 단오에는 수리취떡을 먹습니다. 어머니께서 수리취떡 $3 kg 300 g$을 만들어 이웃에게 나누어 주고 $1 kg 600 g$이 남았습니다. 이웃에게 나누어 준 수리취떡은 몇 $kg$ 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_05_00040_59353.png",
+  "id": "00040_59353",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205014",
+      "question_topic_name": "무게 직접 비교하기 _ 양손으로 들어서 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "여러 가지 물건의 무게를 양팔 저울로 비교한 것입니다. 옳지 않은 설명은 어느 것입니까? ① 사과는 컵보다 무겁습니다. ② 사과는 컵보다 가볍습니다. ③ 수학책은 컵보다 무겁습니다. ④ 컵은 수학책보다 가볍습니다. ⑤ 수학책은 사과보다 가볍습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            521,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            112,
+            195,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            134,
+            195,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            156,
+            207,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            178,
+            207,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            200,
+            220,
+            220
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            23,
+            328,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            1.01,
+            520.78,
+            17.01
+          ],
+          "text": "여러 가지 물건의 무게를 양팔 저울로 비교한 것입니다. 옳지 않은 설명은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.3,
+            113.01,
+            220.62,
+            219.89
+          ],
+          "text": "① 사과는 컵보다 무겁습니다. ② 사과는 컵보다 가볍습니다. ③ 수학책은 컵보다 무겁습니다. ④ 컵은 수학책보다 가볍습니다. ⑤ 수학책은 사과보다 가볍습니다."
+        }
+      ]
+    }
+  ]
+}

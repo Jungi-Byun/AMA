@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00042_56755.png",
+  "id": "00042_56755",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204017",
+      "question_topic_name": "마름모의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형 ㄱㄴㄷㄹ의 네 변에 꼭짓점이 있는 사각형 ㅁㅂㅅㅇ에서 점 ㅁ은 변 ㄱㄹ의 중점이고 점 ㅂ은 변 ㄱㄴ의 중점이고 점 ㅅ은 변 ㄴㄷ의 중점이고 점 ㅇ은 변 ㄷㄹ의 중점이며 각 ㅁㅂㅅ은 빨간색 각 표현하고 52도이고 각 ㄴㅅㅂ에 빨간색 각 표현한 도형",
+      "question_text": "직사각형의 각 변의 중심을 이어 마름모를 그렸습니다. 각 ㅂㅅㄴ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            497,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            196,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            499,
+            21
+          ],
+          "text": "직사각형의 각 변의 중심을 이어 마름모를 그렸습니다. 각 ㅂㅅㄴ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

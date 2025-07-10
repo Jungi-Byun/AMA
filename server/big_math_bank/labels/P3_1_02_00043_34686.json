@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00043_34686.png",
+  "id": "00043_34686",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102010",
+      "question_topic_name": "직사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형에서 찾을 수 있는 크고 작은 직사각형은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            408,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            21,
+            193,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            410,
+            22
+          ],
+          "text": "다음 도형에서 찾을 수 있는 크고 작은 직사각형은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00040_20928.png",
+  "id": "00040_20928",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204004",
+      "question_topic_name": "여러 개씩 묶었을 때 분수로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분수로 표현한 것 중 틀린것은 어느 것입니까? (1) 6 은 15 의 $ \\frac{2}{5} $ 입니다. (2) 5 는 10 의 $ \\frac{1}{2} $ 입니다. (3) 9 는 18 의 $ \\frac{1}{3} $ 입니다. (4) 12 는 18 의 $ \\frac{2}{3} $ 입니다. (5) 8 은 12 의 $ \\frac{2}{3} $ 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            283,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            160,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            161,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            161,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            166,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            161,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            285,
+            224
+          ],
+          "text": "분수로 표현한 것 중 틀린것은 어느 것입니까? (1) 6 은 15 의 $ \\frac{2}{5} $ 입니다. (2) 5 는 10 의 $ \\frac{1}{2} $ 입니다. (3) 9 는 18 의 $ \\frac{1}{3} $ 입니다. (4) 12 는 18 의 $ \\frac{2}{3} $ 입니다. (5) 8 은 12 의 $ \\frac{2}{3} $ 입니다."
+        }
+      ]
+    }
+  ]
+}

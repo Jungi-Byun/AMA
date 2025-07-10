@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_05_00042_86161.png",
+  "id": "00042_86161",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105002",
+      "question_topic_name": "몇 cm 몇 mm 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이를 바르게 비교한 것은 어느 것입니까?  ①$ 12 \\mathrm{~mm}>11 \\mathrm{~cm} $ ② $ 4 \\mathrm{~cm}<38 \\mathrm{~mm} $ ③ $ 65 \\mathrm{~mm}<6 \\mathrm{~cm} $ ④ $ 9 \\mathrm{~cm}>17 \\mathrm{~mm} $ ⑤ $ 5 \\mathrm{~mm}=50 \\mathrm{~cm} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            262,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            126,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            127,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            126,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            123,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            126,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            264,
+            130
+          ],
+          "text": "길이를 바르게 비교한 것은 어느 것입니까?  ①$ 12 \\mathrm{~mm}>11 \\mathrm{~cm} $ ② $ 4 \\mathrm{~cm}<38 \\mathrm{~mm} $ ③ $ 65 \\mathrm{~mm}<6 \\mathrm{~cm} $ ④ $ 9 \\mathrm{~cm}>17 \\mathrm{~mm} $ ⑤ $ 5 \\mathrm{~mm}=50 \\mathrm{~cm} $"
+        }
+      ]
+    }
+  ]
+}

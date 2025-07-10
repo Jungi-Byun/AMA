@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55945.png",
+  "id": "00043_55945",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 선수가 쇼트트랙 경기를 하고 있습니다. 김나래 선수는 $ \\frac{14}{5} $바퀴가 남았고, 박하늘 선수는 $ 3 \\frac{2}{5} $바퀴가 남았습니다. 남은 바퀴 수가 더 적은 선수는 누구인지 이름을 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            229,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            59
+          ],
+          "text": "두 선수가 쇼트트랙 경기를 하고 있습니다. 김나래 선수는 $ \\frac{14}{5} $바퀴가 남았고, 박하늘 선수는 $ 3 \\frac{2}{5} $바퀴가 남았습니다. 남은 바퀴 수가 더 적은 선수는 누구인지 이름을 쓰시오."
+        }
+      ]
+    }
+  ]
+}

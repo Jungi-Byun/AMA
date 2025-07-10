@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00040_26687.png",
+  "id": "00040_26687",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중에서 크기가 가장 작은 원은 어느 것입니까? ①반지름이 $7cm$인 원 ②컴퍼스와 연필 사이의 거리가 $4cm$인 원 ③원의 중심과 원 위의 한 점을 이은 선분의 길이가 $8cm$인 원 ④반지름이 $5cm$인 원 ⑤반지름이 $10cm$인 원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            308,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            154,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            268,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            376,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            154,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            161,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            378,
+            130
+          ],
+          "text": "다음 중에서 크기가 가장 작은 원은 어느 것입니까? ①반지름이 $7cm$인 원 ②컴퍼스와 연필 사이의 거리가 $4cm$인 원 ③원의 중심과 원 위의 한 점을 이은 선분의 길이가 $8cm$인 원 ④반지름이 $5cm$인 원 ⑤반지름이 $10cm$인 원"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00040_30654.png",
+  "id": "00040_30654",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 분수의 종류가 잘못 짝지어진 것은 어느 것입니까?  ① $ 1 \\frac{2}{7} \\rightarrow $ 대분수 ② $ \\frac{3}{8} \\rightarrow $ 진분수 ③ $ \\frac{9}{9} \\rightarrow $ 진분수 ④ $ \\frac{9}{7} \\rightarrow $ 가분수 ⑤ $ \\frac{1}{5} \\rightarrow $ 진분수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            350,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            123,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            114,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            114,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            114,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            114,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            352,
+            224
+          ],
+          "text": "다음 중 분수의 종류가 잘못 짝지어진 것은 어느 것입니까?  ① $ 1 \\frac{2}{7} \\rightarrow $ 대분수 ② $ \\frac{3}{8} \\rightarrow $ 진분수 ③ $ \\frac{9}{9} \\rightarrow $ 진분수 ④ $ \\frac{9}{7} \\rightarrow $ 가분수 ⑤ $ \\frac{1}{5} \\rightarrow $ 진분수"
+        }
+      ]
+    }
+  ]
+}

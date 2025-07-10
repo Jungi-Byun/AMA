@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_06_00043_59388.png",
+  "id": "00043_59388",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "마을별 심은 나무 수를 조사하여 나타낸 그림그래프입니다. 네 마을에서 심은 나무 수가 모두 $1020$그루일 때, 그림그래프를 완성하시오.  (1) 개울, 잔디, 미래 마을에서 심은 나무는 각각 몇 그루인지 차례로 쓰시오. (2) 숲속 마을에서 심은 나무는 몇 그루입니까? (3) 그림그래프를 완성하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            782,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            238,
+            442,
+            255
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            260,
+            283,
+            277
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            282,
+            188,
+            298
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            323,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.88,
+            0.71,
+            782.68,
+            18.31
+          ],
+          "text": "마을별 심은 나무 수를 조사하여 나타낸 그림그래프입니다. 네 마을에서 심은 나무 수가 모두 $1020$그루일 때, 그림그래프를 완성하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            237,
+            444,
+            299
+          ],
+          "text": "(1) 개울, 잔디, 미래 마을에서 심은 나무는 각각 몇 그루인지 차례로 쓰시오. (2) 숲속 마을에서 심은 나무는 몇 그루입니까? (3) 그림그래프를 완성하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_01_00042_27405.png",
+  "id": "00042_27405",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101004",
+      "question_topic_name": "십만, 백만, 천만 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경원이 어머니께서는 은행에 저금되어 있는 돈 $18650000$원을 되도록 적은 수의 수표로 찾은 다음, 수표로 찾을 수 없는 돈은 만 원짜리 지폐로 찾으려고 합니다. 수표는 $100$만 원짜리와 $10$만 원짜리 두 종류만 있다고 할 때, 각각 몇 장씩 찾아야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            281,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            761,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            434,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            763,
+            62
+          ],
+          "text": "경원이 어머니께서는 은행에 저금되어 있는 돈 $18650000$원을 되도록 적은 수의 수표로 찾은 다음, 수표로 찾을 수 없는 돈은 만 원짜리 지폐로 찾으려고 합니다. 수표는 $100$만 원짜리와 $10$만 원짜리 두 종류만 있다고 할 때, 각각 몇 장씩 찾아야 합니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_06_00043_42100.png",
+  "id": "00043_42100",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "근수는 비커에 물을 담으려고 합니다. 물음에 답하시오. ⑴ $\\frac{3}{4}$은 전체를 똑같이 $\\square$ 로 나눈 것 중의 $\\square$입니다. ⑵ 비커에 주어진 분수만큼 색칠하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            329,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            115,
+            387,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            155,
+            242,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            26,
+            143,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.5,
+            0.46,
+            331.5,
+            17.46
+          ],
+          "text": "근수는 비커에 물을 담으려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.5,
+            113,
+            386.5,
+            171
+          ],
+          "text": "⑴ $\\frac{3}{4}$은 전체를 똑같이 $\\square$ 로 나눈 것 중의 $\\square$입니다. ⑵ 비커에 주어진 분수만큼 색칠하시오."
+        }
+      ]
+    }
+  ]
+}

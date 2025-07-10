@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_05_00043_42593.png",
+  "id": "00043_42593",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "⑴ 피자, 햄버거, 만두를 좋아하는 학생 수의 합을 구하시오.⑵ 피자, 햄버거, 만두를 좋아하는 학생은 각각 몇 명인지 차례로 쓰시오. ⑶ 위의 막대그래프를 완성하시오. 정미네 반 학생 31명이 좋아하는 간식을 조사하여 나타낸 막대그래프입니다. 피자와 만두를 좋아하는 학생 수는 같고, 햄버거를 좋아하는 학생은 만두를 좋아하는 학생보다 1명 더 많을 때, 막대그래프를 완성해 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            451,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            247,
+            353,
+            264
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            269,
+            424,
+            286
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            291,
+            213,
+            308
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26.72,
+            51.44,
+            323.72,
+            235.44
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            246,
+            426,
+            309
+          ],
+          "text": "⑴ 피자, 햄버거, 만두를 좋아하는 학생 수의 합을 구하시오.⑵ 피자, 햄버거, 만두를 좋아하는 학생은 각각 몇 명인지 차례로 쓰시오. ⑶ 위의 막대그래프를 완성하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            14.72,
+            0.44,
+            803.72,
+            40.44
+          ],
+          "text": "정미네 반 학생 31명이 좋아하는 간식을 조사하여 나타낸 막대그래프입니다. 피자와 만두를 좋아하는 학생 수는 같고, 햄버거를 좋아하는 학생은 만두를 좋아하는 학생보다 1명 더 많을 때, 막대그래프를 완성해 보시오. "
+        }
+      ]
+    }
+  ]
+}

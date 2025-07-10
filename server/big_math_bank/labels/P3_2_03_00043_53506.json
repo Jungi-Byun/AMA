@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53506.png",
+  "id": "00043_53506",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민수네 가족이 얼음 낚시를 하기 위해 원 모양의 구멍을 뚫었습니다. 뚫은 구멍이 가장 큰 사람은 누구입니까? 아빠 : 내가 뚫은 구멍은 반지름이 $8cm$란다. 엄마 : 내가 뚫은 구멍은 지름이 $14 cm$야. 민수 : 제가 뚫은 구멍은 반지름이 $10 cm$예요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            634,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            25,
+            279,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            52,
+            257,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            75,
+            286,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            635,
+            94
+          ],
+          "text": "민수네 가족이 얼음 낚시를 하기 위해 원 모양의 구멍을 뚫었습니다. 뚫은 구멍이 가장 큰 사람은 누구입니까? 아빠 : 내가 뚫은 구멍은 반지름이 $8cm$란다. 엄마 : 내가 뚫은 구멍은 지름이 $14 cm$야. 민수 : 제가 뚫은 구멍은 반지름이 $10 cm$예요."
+        }
+      ]
+    }
+  ]
+}

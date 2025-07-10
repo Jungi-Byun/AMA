@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_02337.png",
+  "id": "00042_02337",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과수원에 배나무가 $436$그루 있었는데 그중에서 $125$그루를 베었습니다. 과수원에 남아 있는 배나무는 몇 그루입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            606,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            91,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            608,
+            40
+          ],
+          "text": "과수원에 배나무가 $436$그루 있었는데 그중에서 $125$그루를 베었습니다. 과수원에 남아 있는 배나무는 몇 그루입니까?"
+        }
+      ]
+    }
+  ]
+}

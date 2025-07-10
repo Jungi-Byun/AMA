@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_01_00043_38716.png",
+  "id": "00043_38716",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201002",
+      "question_topic_name": "분모가 같고 합이 1보다 큰 (진분수)+(진분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\frac{4}{8}+\\frac{7}{8} $을 계산하려고 합니다. 물음에 답하시오. (1) 그림에 $ \\frac{4}{8} $ 만큼 색칠하고 이어서 $ \\frac{7}{8} $ 만큼 색칠하시오. ⑵ $\\square$ 안에 알맞은 수를 써넣으시오. $ \\frac{4}{8}+\\frac{7}{8}=\\frac{\\square}{8}=\\square \\frac{\\square}{8} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            3,
+            301,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            40,
+            346,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            124,
+            220,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            143,
+            185,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23.44,
+            79.5,
+            313.44,
+            123.5
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            348,
+            76
+          ],
+          "text": "$\\frac{4}{8}+\\frac{7}{8} $을 계산하려고 합니다. 물음에 답하시오. (1) 그림에 $ \\frac{4}{8} $ 만큼 색칠하고 이어서 $ \\frac{7}{8} $ 만큼 색칠하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            123,
+            222,
+            184
+          ],
+          "text": "⑵ $\\square$ 안에 알맞은 수를 써넣으시오. $ \\frac{4}{8}+\\frac{7}{8}=\\frac{\\square}{8}=\\square \\frac{\\square}{8} $"
+        }
+      ]
+    }
+  ]
+}

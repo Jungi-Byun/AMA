@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57532.png",
+  "id": "00043_57532",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 3\\mathrm{~L} $의 물이 담긴 그릇에 $ 900 \\mathrm{~mL} $의 물을 더 부으면 물은 모두 몇 $ \\mathrm{~L} $ 몇 $ \\mathrm{~mL} $가 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            486,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            25,
+            186,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            488,
+            22
+          ],
+          "text": "$ 3\\mathrm{~L} $의 물이 담긴 그릇에 $ 900 \\mathrm{~mL} $의 물을 더 부으면 물은 모두 몇 $ \\mathrm{~L} $ 몇 $ \\mathrm{~mL} $가 됩니까?"
+        }
+      ]
+    }
+  ]
+}

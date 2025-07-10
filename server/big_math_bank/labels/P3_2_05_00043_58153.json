@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58153.png",
+  "id": "00043_58153",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "위인전과 동화책의 무게의 합은 1kg 500g이고, 동화책과 국어사전의 무게의 합은 1kg 700g입니다. 국어사전의 무게가 900g이면 위인전의 무게는 몇 g입니까?(1) 동화책의 무게는 몇 g입니까?(2) 위인전의 무게는 몇 g입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            148,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            204,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            207,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            84
+          ],
+          "text": "위인전과 동화책의 무게의 합은 1kg 500g이고, 동화책과 국어사전의 무게의 합은 1kg 700g입니다. 국어사전의 무게가 900g이면 위인전의 무게는 몇 g입니까?(1) 동화책의 무게는 몇 g입니까?(2) 위인전의 무게는 몇 g입니까?"
+        }
+      ]
+    }
+  ]
+}

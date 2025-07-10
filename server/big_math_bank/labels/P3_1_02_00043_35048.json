@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_02_00043_35048.png",
+  "id": "00043_35048",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직각삼각형에 대해 설명한 것입니다. 바르게 설명한 사람은 누구입니까?  유라: 변이 $3$개, 각이 $3$개 있어. 민주: 직각이 $2$개 있어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            426,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            24,
+            202,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            53,
+            158,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            79
+          ],
+          "text": "직각삼각형에 대해 설명한 것입니다. 바르게 설명한 사람은 누구입니까?  유라: 변이 $3$개, 각이 $3$개 있어. 민주: 직각이 $2$개 있어."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51294.png",
+  "id": "00043_51294",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희선이네 반 학생   $ 23$명이 놀이공원에서 회전찻잔과 후룸라이드를 각각 모두 탔습니다. 회전찻잔은 $3$명씩 타고, 후룸라이드는 $4$명씩 탔습니다. 정해진 사람 수대로 짝을 짓지 못한 사람이 더 많은 놀이기구는 무엇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            466,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "희선이네 반 학생   $ 23$명이 놀이공원에서 회전찻잔과 후룸라이드를 각각 모두 탔습니다. 회전찻잔은 $3$명씩 타고, 후룸라이드는 $4$명씩 탔습니다. 정해진 사람 수대로 짝을 짓지 못한 사람이 더 많은 놀이기구는 무엇입니까?"
+        }
+      ]
+    }
+  ]
+}

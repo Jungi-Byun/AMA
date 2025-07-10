@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58195.png",
+  "id": "00043_58195",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "홍기가 정육점에서 산 고기의 무게는 다음과 같습니다. 홍기는 고기를 약 몇 근 샀습니까? (단, 고기 $1$근은 약 $ 600 \\mathrm{~g} $입니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            709,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            25,
+            289,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            711,
+            21
+          ],
+          "text": "홍기가 정육점에서 산 고기의 무게는 다음과 같습니다. 홍기는 고기를 약 몇 근 샀습니까? (단, 고기 $1$근은 약 $ 600 \\mathrm{~g} $입니다.)"
+        }
+      ]
+    }
+  ]
+}

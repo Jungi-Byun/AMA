@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_03_00043_34210.png",
+  "id": "00043_34210",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103001",
+      "question_topic_name": "세 자리 수와 몇십 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "완두콩 씨앗이 한 봉지에 $500$개씩 $20$봉지가 있습니다. 모두 몇 개인지 알아보시오. (2) 완두콩 씨앗은 모두 $\\square$개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            487,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            106,
+            274,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            24,
+            210,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            491,
+            21
+          ],
+          "text": "완두콩 씨앗이 한 봉지에 $500$개씩 $20$봉지가 있습니다. 모두 몇 개인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            102,
+            276,
+            134
+          ],
+          "text": "(2) 완두콩 씨앗은 모두 $\\square$개입니다."
+        }
+      ]
+    }
+  ]
+}

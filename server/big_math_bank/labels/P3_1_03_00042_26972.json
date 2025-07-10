@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00042_26972.png",
+  "id": "00042_26972",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성진이는 우리나라 우표 $37$장과 외국 우표 $27$장을 가지고 있습니다. 이것을 우표 책에 한 줄에 $8$장씩 꽂아 정리하면 우표는 모두 몇 줄이 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            53,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "성진이는 우리나라 우표 $37$장과 외국 우표 $27$장을 가지고 있습니다. 이것을 우표 책에 한 줄에 $8$장씩 꽂아 정리하면 우표는 모두 몇 줄이 됩니까?"
+        }
+      ]
+    }
+  ]
+}

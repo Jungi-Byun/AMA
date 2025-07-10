@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_03_00043_50614.png",
+  "id": "00043_50614",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203010",
+      "question_topic_name": "소수 한 자리 수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$0.7-0.5$는 얼마인지 알아보시오. (1) $0.7$만큼 색칠한 후 $0.5$만큼 $X$로 지워 보시오. (2) $0.7-0.5=\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            203,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            81,
+            290,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            102,
+            132,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            33,
+            320,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            205,
+            23
+          ],
+          "text": "$0.7-0.5$는 얼마인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            80,
+            292,
+            130
+          ],
+          "text": "(1) $0.7$만큼 색칠한 후 $0.5$만큼 $X$로 지워 보시오. (2) $0.7-0.5=\\square$"
+        }
+      ]
+    }
+  ]
+}

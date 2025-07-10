@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_06_00043_49107.png",
+  "id": "00043_49107",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "규칙을 찾아 $\\square$ 안에 알맞은 수를 써넣으시오.⑴ $2 8 14 \\square 26 32 \\square 44$⑵ $52 45 38 \\square 24 \\square 10 3$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            329,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            332,
+            64
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            334,
+            65
+          ],
+          "text": "규칙을 찾아 $\\square$ 안에 알맞은 수를 써넣으시오.⑴ $2 8 14 \\square 26 32 \\square 44$⑵ $52 45 38 \\square 24 \\square 10 3$"
+        }
+      ]
+    }
+  ]
+}

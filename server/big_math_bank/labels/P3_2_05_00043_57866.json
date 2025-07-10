@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_57866.png",
+  "id": "00043_57866",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205014",
+      "question_topic_name": "무게 직접 비교하기 _ 양손으로 들어서 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. (1) 피망의 무게는 바둑돌 $\\square$개의 같고, 고추의 무게는 바둑돌 $\\square$개의 무게와 같습니다. (2) 피망이 고추보다 바둑돌 $\\square$개만큼 더 무겁습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            133,
+            573,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            155,
+            353,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            24,
+            281,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.92,
+            0.42,
+            276.48,
+            18.34
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            131,
+            575,
+            178
+          ],
+          "text": "(1) 피망의 무게는 바둑돌 $\\square$개의 같고, 고추의 무게는 바둑돌 $\\square$개의 무게와 같습니다. (2) 피망이 고추보다 바둑돌 $\\square$개만큼 더 무겁습니다."
+        }
+      ]
+    }
+  ]
+}

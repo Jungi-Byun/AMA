@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00042_26009.png",
+  "id": "00042_26009",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $◯$ 안에 $>,<$를 알맞게 써넣으시오.  $ \\frac{4}{10} \\bigcirc \\frac{6}{10} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            286,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69,
+            112,
+            98,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            118,
+            127,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            131.1,
+            112.5,
+            158.1,
+            149.5
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            228,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            0,
+            287.1,
+            17.01
+          ],
+          "text": "그림을 보고 $◯$ 안에 $>,<$를 알맞게 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            67.1,
+            111.5,
+            158.1,
+            150.5
+          ],
+          "text": "$ \\frac{4}{10} \\bigcirc \\frac{6}{10} $"
+        }
+      ]
+    }
+  ]
+}

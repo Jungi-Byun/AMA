@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_01_00043_49432.png",
+  "id": "00043_49432",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영진이는 하루에 $20$분씩 종이학을 접습니다. $2$분에 $8$개씩 종이학을 접는다면 같은 빠르기로 영진이가 $30$일 동안 접을 수 있는 종이학은 모두 몇 개인지 알아보시오. (1) $20$분은 $2$분의 몇 배입니까? (2) 영진이는 하루에 몇 개의 종이학을 접습니까? (3) 영진이가 $30$일 동안 접을 수 있는 종이학은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            162,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            194,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            292,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            387,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            106
+          ],
+          "text": "영진이는 하루에 $20$분씩 종이학을 접습니다. $2$분에 $8$개씩 종이학을 접는다면 같은 빠르기로 영진이가 $30$일 동안 접을 수 있는 종이학은 모두 몇 개인지 알아보시오. (1) $20$분은 $2$분의 몇 배입니까? (2) 영진이는 하루에 몇 개의 종이학을 접습니까? (3) 영진이가 $30$일 동안 접을 수 있는 종이학은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

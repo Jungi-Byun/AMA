@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53684.png",
+  "id": "00043_53684",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로로 각각 한 점에서 접하는 세 원의 아랫부분에 세 원의 사이에서 가로로 접하는 두 원이 접해 있고, 두 원의 아랫부분에 두 원의 사이에서 접하는 원의 중심이 점 ㄴ인 원이 있을 때, 동일한 크기의 6개의 원은 빨간색인 원의 중심이 있고, 위에서 첫 줄의 좌측 첫 번째 원은 원의 중심이 점 ㄱ, 세 번째 원은 점 ㄷ일 때, 점 ㄱ과 점 ㄴ, ㄷ를 각각 이은 선분 ㄱㄴ, ㄱㄷ과 점 ㄴ과 점 ㄷ을 이은 선분 ㄴㄷ을 세 변으로 하는 정삼각형 ㄱㄴㄷ이 있는 도형",
+      "question_text": "그림은 반지름이 $8$ cm인 원 $6$개를 맞닿게 그린 것입니다. 삼각형 ㄱㄴㄷ의 세 변의 합은 몇$ cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            599,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            29,
+            156,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            601,
+            24
+          ],
+          "text": "그림은 반지름이 $8$ cm인 원 $6$개를 맞닿게 그린 것입니다. 삼각형 ㄱㄴㄷ의 세 변의 합은 몇$ cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

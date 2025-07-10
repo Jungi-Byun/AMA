@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_01_00043_32409.png",
+  "id": "00043_32409",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101003",
+      "question_topic_name": "다섯 자리 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 보고 다저 스타디움이 수용할 수 있는 인원은 몇 명인지 읽어 보시오. 류현진 선수가 활약하고 있는 L.A 다저스의 홈 구장인 다저 스타디움은 $1962$년 $4$월 $10$일에 지어진 구장입니다. 이 구장은 옛 야구장의 모습을 간직한 현대식 야구 전용구장으로 수용 인원은 $56000$명입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            446,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            761,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            462,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            763,
+            78
+          ],
+          "text": "다음을 보고 다저 스타디움이 수용할 수 있는 인원은 몇 명인지 읽어 보시오. 류현진 선수가 활약하고 있는 L.A 다저스의 홈 구장인 다저 스타디움은 $1962$년 $4$월 $10$일에 지어진 구장입니다. 이 구장은 옛 야구장의 모습을 간직한 현대식 야구 전용구장으로 수용 인원은 $56000$명입니다."
+        }
+      ]
+    }
+  ]
+}

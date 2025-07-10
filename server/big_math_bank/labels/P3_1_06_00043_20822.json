@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_20822.png",
+  "id": "00043_20822",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소수를 잘못 읽은 것을 모두 고르시오.  ① $2.7 \\rightarrow$ 이십칠  ② $1.9 \\rightarrow$ 일점 구  ③ $8.4 \\rightarrow$ 팔점 사  ④ $10.5 \\rightarrow$ 일영점 오  ⑤ $3.6 \\rightarrow$ 삼점 육",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            119,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            122,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            125,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            143,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            124,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            235,
+            129
+          ],
+          "text": "소수를 잘못 읽은 것을 모두 고르시오.  ① $2.7 \\rightarrow$ 이십칠  ② $1.9 \\rightarrow$ 일점 구  ③ $8.4 \\rightarrow$ 팔점 사  ④ $10.5 \\rightarrow$ 일영점 오  ⑤ $3.6 \\rightarrow$ 삼점 육"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53625.png",
+  "id": "00043_53625",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "세 원이 양옆의 두 원과 서로 외접하고 있으며, 원 ㄱ은 위에 있고 반지름이 2 cm이며 좌측 아래에는 원 ㄴ이 있고 반지름이 4 cm이며 우측 아래에는 원 ㄷ이 있고 반지름이 3 cm일 때, 점 ㄱ, 점 ㄴ, 점 ㄷ은 각각의 원의 중심이고 세 점을 이은 삼각형 ㄱㄴㄷ이 있는 평면도형",
+      "question_text": "점 ㄱ, 점 ㄴ, 점 ㄷ은 각 원의 중심입니다. 삼각형 ㄱㄴㄷ의 세 변의 합은 몇 cm입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            507,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            28,
+            222,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            509,
+            21
+          ],
+          "text": "점 ㄱ, 점 ㄴ, 점 ㄷ은 각 원의 중심입니다. 삼각형 ㄱㄴㄷ의 세 변의 합은 몇 cm입니까?"
+        }
+      ]
+    }
+  ]
+}

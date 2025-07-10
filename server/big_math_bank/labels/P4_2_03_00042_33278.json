@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00042_33278.png",
+  "id": "00042_33278",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. 21.07 은 $ \\left[\\begin{array}{r}10이 \\square \\text { 개 } \\\\ 1이\\square \\text { 개 } \\\\ 0.1이 \\square \\text { 개 } \\\\ 0.01이 \\square \\text { 개 }\\end{array}\\right. $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            95,
+            24,
+            171,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            105,
+            55,
+            171,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            73,
+            74,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92,
+            85,
+            171,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            84,
+            116,
+            171,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            144
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. 21.07 은 $ \\left[\\begin{array}{r}10이 \\square \\text { 개 } \\\\ 1이\\square \\text { 개 } \\\\ 0.1이 \\square \\text { 개 } \\\\ 0.01이 \\square \\text { 개 }\\end{array}\\right. $"
+        }
+      ]
+    }
+  ]
+}

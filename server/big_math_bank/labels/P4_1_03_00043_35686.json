@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_03_00043_35686.png",
+  "id": "00043_35686",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같은 방법으로 $375×57$을 계산하시오.  (1) 빈 곳에 알맞은 수를 써넣으시오. (2) (1)을 보고 <보기>와 같이 계산하시오. $375×57=10000+\\underline{~~~~~~~~~~}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            291,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            543,
+            222,
+            560
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            674,
+            256,
+            692
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.9,
+            699.6,
+            243.9,
+            717.6
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            42,
+            27,
+            309,
+            530
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            567,
+            167,
+            670
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.9,
+            1,
+            291.9,
+            17
+          ],
+          "text": "<보기>와 같은 방법으로 $375×57$을 계산하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.9,
+            541.6,
+            223.9,
+            561.6
+          ],
+          "text": "(1) 빈 곳에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.9,
+            672.6,
+            257.9,
+            717.6
+          ],
+          "text": "(2) (1)을 보고 <보기>와 같이 계산하시오. $375×57=10000+\\underline{~~~~~~~~~~}$"
+        }
+      ]
+    }
+  ]
+}

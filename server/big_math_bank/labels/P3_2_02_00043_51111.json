@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00043_51111.png",
+  "id": "00043_51111",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 친구가 곤충박물관에서 잠자리를 보고 있습니다. 물음에 답하시오. ⑴ 잠자리 한 마리의 날개는 몇 장입니까? ⑵ 잠자리의 날개가 $60$장일 때 잠자리는 몇 마리입니까?  $ 60 \\div \\square = \\square$ (마리)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            408,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            187,
+            253,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            209,
+            338,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            230,
+            165,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            37,
+            319,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            411,
+            21
+          ],
+          "text": "두 친구가 곤충박물관에서 잠자리를 보고 있습니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            186,
+            340,
+            257
+          ],
+          "text": "⑴ 잠자리 한 마리의 날개는 몇 장입니까? ⑵ 잠자리의 날개가 $60$장일 때 잠자리는 몇 마리입니까?  $ 60 \\div \\square = \\square$ (마리)"
+        }
+      ]
+    }
+  ]
+}

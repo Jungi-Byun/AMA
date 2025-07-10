@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33216.png",
+  "id": "00043_33216",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "신혜와 우빈이가 비행기 게임을 하여 얻은 점수입니다. 누가 몇 점을 더 많이 얻었습니까? 신혜 : $846$점  우빈 : $918$점",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            521,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            213,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            526,
+            54
+          ],
+          "text": "신혜와 우빈이가 비행기 게임을 하여 얻은 점수입니다. 누가 몇 점을 더 많이 얻었습니까? 신혜 : $846$점  우빈 : $918$점"
+        }
+      ]
+    }
+  ]
+}

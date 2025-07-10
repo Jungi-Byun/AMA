@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_01_00043_26388.png",
+  "id": "00043_26388",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 두 서점에서 판매한 책의 수를 비교한 것입니다. 빈칸에 알맞은 수를 써넣고, ( ) 안에 어느 서점이 얼마나 더 많이 판매했는지 쓰시오. <table border>   <tbody>     <tr>       <td></td>       <td>㉠ 서점</td>       <td>㉡ 서점</td>     </tr>     <tr>       <td>동화책(권)</td>       <td>$859$</td>       <td>$546$</td>     </tr>     <tr>       <td>위인전(권)</td>       <td>$564$</td>       <td>$451$</td>     </tr>     <tr>       <td>전체(권)</td>       <td>$1423$</td>       <td></td>     </tr> </tbody> </table> ( ) 서점이 ( )권 더 많이 판매하였습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            613,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            216,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            210,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            141,
+            308,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            615,
+            159
+          ],
+          "text": "다음은 두 서점에서 판매한 책의 수를 비교한 것입니다. 빈칸에 알맞은 수를 써넣고, ( ) 안에 어느 서점이 얼마나 더 많이 판매했는지 쓰시오. <table border>   <tbody>     <tr>       <td></td>       <td>㉠ 서점</td>       <td>㉡ 서점</td>     </tr>     <tr>       <td>동화책(권)</td>       <td>$859$</td>       <td>$546$</td>     </tr>     <tr>       <td>위인전(권)</td>       <td>$564$</td>       <td>$451$</td>     </tr>     <tr>       <td>전체(권)</td>       <td>$1423$</td>       <td></td>     </tr> </tbody> </table> ( ) 서점이 ( )권 더 많이 판매하였습니다."
+        }
+      ]
+    }
+  ]
+}

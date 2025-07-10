@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_06_00043_59284.png",
+  "id": "00043_59284",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "초등학교별 일 년 동안 심은 나무 수를 조사하여 나타낸 그림그래프입니다. 그래프를 보고 알 수 있는 사실이 아닌 것을 찾아 기호를 쓰시오.  ㉠ 나무를 가장 많이 심은 학교는 행복 학교입니다. ㉡ 웃음 학교는 사랑 학교보다 나무를 $60$그루 더 심었습니다. ㉢ 기쁨 학교는 목표량을 달성했습니다. ㉣ 네 학교 모두 나무를 $100$그루 넘게 심었습니다. ㉤ 사랑 학교와 기쁨 학교가 심은 나무는 모두 $350$그루입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            233,
+            316,
+            268
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            268,
+            374,
+            291
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            291,
+            253,
+            313
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            313,
+            316,
+            335
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            335,
+            382,
+            355
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            27,
+            322,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            24
+          ],
+          "text": "초등학교별 일 년 동안 심은 나무 수를 조사하여 나타낸 그림그래프입니다. 그래프를 보고 알 수 있는 사실이 아닌 것을 찾아 기호를 쓰시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            232,
+            804,
+            357
+          ],
+          "text": "㉠ 나무를 가장 많이 심은 학교는 행복 학교입니다. ㉡ 웃음 학교는 사랑 학교보다 나무를 $60$그루 더 심었습니다. ㉢ 기쁨 학교는 목표량을 달성했습니다. ㉣ 네 학교 모두 나무를 $100$그루 넘게 심었습니다. ㉤ 사랑 학교와 기쁨 학교가 심은 나무는 모두 $350$그루입니다."
+        }
+      ]
+    }
+  ]
+}

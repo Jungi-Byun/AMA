@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_02_00043_51734.png",
+  "id": "00043_51734",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "파프리카를 $16$개씩 $5$봉지에 담았더니 $4$개가 남았습니다. 물음에 답하시오.⑴ 파프리카는 모두 몇 개입니까?⑵ 파프리카를 다시 7봉지에 똑같이 나누어 담았습니다. 한 봉지에 몇 개씩 담아 정리했습니까? 식____________________ 답_____________",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            437,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            208,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            554,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            556,
+            62
+          ],
+          "text": "파프리카를 $16$개씩 $5$봉지에 담았더니 $4$개가 남았습니다. 물음에 답하시오.⑴ 파프리카는 모두 몇 개입니까?⑵ 파프리카를 다시 7봉지에 똑같이 나누어 담았습니다. 한 봉지에 몇 개씩 담아 정리했습니까? 식____________________ 답_____________"
+        }
+      ]
+    }
+  ]
+}

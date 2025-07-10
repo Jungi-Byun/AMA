@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38804.png",
+  "id": "00043_38804",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각 모양 조각이 나타내는 수는 <보기>와 같습니다. 오른쪽 배 모양을 만드는 데 사용한 모양 조각들이 나타내는 수의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            760,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            29,
+            290,
+            237
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            762,
+            22
+          ],
+          "text": "각 모양 조각이 나타내는 수는 <보기>와 같습니다. 오른쪽 배 모양을 만드는 데 사용한 모양 조각들이 나타내는 수의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

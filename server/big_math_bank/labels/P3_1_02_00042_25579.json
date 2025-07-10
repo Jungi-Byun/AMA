@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_02_00042_25579.png",
+  "id": "00042_25579",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음의 정사각형을 모눈종이에 그리시오.  ① 한 변의 길이가 $5$칸인 정사각형 ② 다이아몬드 모양으로 세워진 정사각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            251,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            224,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            58,
+            261,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            77,
+            250,
+            212
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            264,
+            76
+          ],
+          "text": "다음의 정사각형을 모눈종이에 그리시오.  ① 한 변의 길이가 $5$칸인 정사각형 ② 다이아몬드 모양으로 세워진 정사각형"
+        }
+      ]
+    }
+  ]
+}

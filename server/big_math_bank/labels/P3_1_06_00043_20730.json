@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_20730.png",
+  "id": "00043_20730",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "단위를 잘못 나타낸 것은 어느 것입니까?  ① $ 1 \\mathrm{~mm}=0.1 \\mathrm{~cm} $ (2) $ 7 \\mathrm{~mm}=\\frac{7}{10} \\mathrm{~cm} $ (3) $ 3 \\mathrm{~mm}=0.3 \\mathrm{~cm} $ (4) $ 0.9 \\mathrm{~cm}=9 \\mathrm{~mm} $ (5) $ \\frac{5}{10} \\mathrm{~cm}=0.5 \\mathrm{~mm} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            250,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            117,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            47,
+            131,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            122,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            123,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            132,
+            144,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            252,
+            167
+          ],
+          "text": "단위를 잘못 나타낸 것은 어느 것입니까?  ① $ 1 \\mathrm{~mm}=0.1 \\mathrm{~cm} $ (2) $ 7 \\mathrm{~mm}=\\frac{7}{10} \\mathrm{~cm} $ (3) $ 3 \\mathrm{~mm}=0.3 \\mathrm{~cm} $ (4) $ 0.9 \\mathrm{~cm}=9 \\mathrm{~mm} $ (5) $ \\frac{5}{10} \\mathrm{~cm}=0.5 \\mathrm{~mm} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_06_00043_59425.png",
+  "id": "00043_59425",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경민이와 친구들은 낚시 대회에 참가하였습니다. 낚시 대회에서 잡은 물고기 수를 조사하여 나타낸 표와 그림그래프입니다. 표와 그림그래프를 완성하고 물고기를 가장 많이 잡은 사람과 가장 적게 잡은 사람의 물고기 수의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            572,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            100,
+            49,
+            250,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            74,
+            324,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            170,
+            325,
+            440
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            157
+          ],
+          "text": "경민이와 친구들은 낚시 대회에 참가하였습니다. 낚시 대회에서 잡은 물고기 수를 조사하여 나타낸 표와 그림그래프입니다. 표와 그림그래프를 완성하고 물고기를 가장 많이 잡은 사람과 가장 적게 잡은 사람의 물고기 수의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

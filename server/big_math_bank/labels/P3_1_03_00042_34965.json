@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_03_00042_34965.png",
+  "id": "00042_34965",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "공책이 $36$권 있습니다. 한 명에게 $4$권씩 나누어 주려고 합니다. 몇 명에게 나누어 줄 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            569,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            571,
+            21
+          ],
+          "text": "공책이 $36$권 있습니다. 한 명에게 $4$권씩 나누어 주려고 합니다. 몇 명에게 나누어 줄 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

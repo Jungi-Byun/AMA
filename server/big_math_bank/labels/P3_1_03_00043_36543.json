@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00043_36543.png",
+  "id": "00043_36543",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민수가 생각한 수는 얼마입니까? 연지: 수를 한 개 생각해서 그 수를 $5$로 나눠 봐. 몫이 얼마야?민수: 몫은 $9$야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.17,
+            27.44,
+            370.17,
+            49.44
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23.17,
+            50.44,
+            114.17,
+            70.44
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            0.44,
+            371.17,
+            70.44
+          ],
+          "text": "민수가 생각한 수는 얼마입니까? 연지: 수를 한 개 생각해서 그 수를 $5$로 나눠 봐. 몫이 얼마야?민수: 몫은 $9$야."
+        }
+      ]
+    }
+  ]
+}

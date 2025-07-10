@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_28226.png",
+  "id": "00042_28226",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102011",
+      "question_topic_name": "각도의 합 또는 차의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㄱㅁ 위에 중점 ㅇ에서 위쪽 방향으로 선분 ㄴㅇ, 선분 ㄷㅇ, 선분 ㄹㅇ이 차례대로 있고, 각 ㄱㅇㄴ과 각 ㄴㅇㄷ의 크기가 같고 각 ㄷㅇㄹ과 각 ㄹㅇㅁ의 크기가 같을 때, 각의 크기 ㄴㅇㄹ",
+      "question_text": "같은 표시를 한 각은 크기가 같습니다. 각 ㄴㅇㄹ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            404,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            22,
+            181,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            406,
+            22
+          ],
+          "text": "같은 표시를 한 각은 크기가 같습니다. 각 ㄴㅇㄹ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

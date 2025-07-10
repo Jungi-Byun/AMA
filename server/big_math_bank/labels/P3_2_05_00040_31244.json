@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00040_31244.png",
+  "id": "00040_31244",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 무게가 가장 무거운 것은 어느 것입니까? (1) 쌀 $ 250 \\mathrm{~g} $ (2) 쇠고기 $ 3 \\mathrm{~kg} $ (3) 철근 $ 2 \\mathrm{~kg} \\mathrm{900 \\textrm {g }} $ (4) 한 상자에 $ 550 \\mathrm{~g} $ 인 딸기 5 상자 (5) 물 $ 2950 \\mathrm{~g} $ 에 소금 $ 30 \\mathrm{~g} $ 을 녹인 소금물",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            295,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            94,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            109,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            134,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            214,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            256,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            297,
+            130
+          ],
+          "text": "다음 중 무게가 가장 무거운 것은 어느 것입니까? (1) 쌀 $ 250 \\mathrm{~g} $ (2) 쇠고기 $ 3 \\mathrm{~kg} $ (3) 철근 $ 2 \\mathrm{~kg} \\mathrm{900 \\textrm {g }} $ (4) 한 상자에 $ 550 \\mathrm{~g} $ 인 딸기 5 상자 (5) 물 $ 2950 \\mathrm{~g} $ 에 소금 $ 30 \\mathrm{~g} $ 을 녹인 소금물"
+        }
+      ]
+    }
+  ]
+}

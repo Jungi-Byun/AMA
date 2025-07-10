@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00043_57967.png",
+  "id": "00043_57967",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "산에서 밤을 영수는 $ 4 \\mathrm{~kg} 800 \\mathrm{~g} $, 수진이는 $ 2900 \\mathrm{~g} $ 땄고 미라는 $ 4 \\mathrm{~kg} $ 보다 $ 500 \\mathrm{~g} $ 더 많이 땄습니다. 밤을 가장 많이 딴 사람은 누구입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            781,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            783,
+            20
+          ],
+          "text": "산에서 밤을 영수는 $ 4 \\mathrm{~kg} 800 \\mathrm{~g} $, 수진이는 $ 2900 \\mathrm{~g} $ 땄고 미라는 $ 4 \\mathrm{~kg} $ 보다 $ 500 \\mathrm{~g} $ 더 많이 땄습니다. 밤을 가장 많이 딴 사람은 누구입니까?"
+        }
+      ]
+    }
+  ]
+}

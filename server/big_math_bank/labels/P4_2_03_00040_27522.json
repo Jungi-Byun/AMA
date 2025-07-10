@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00040_27522.png",
+  "id": "00040_27522",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 틀린 것은 어느 것입니까? ①$0.3$의 $\\frac{1}{100}$배는 $0.003$입니다. ②$1.07$의 $\\frac{1}{10}$배는 $0.107$입니다. ③$26.01$의 $10$배는 $260.1$입니다. ④$0.23$의 $100$배는 $23$입니다. ⑤$1.007$의 $10$배는 $10.7$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            212,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            31,
+            219,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            72,
+            210,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            103,
+            213,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            125,
+            199,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            204,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            221,
+            168
+          ],
+          "text": "다음 중 틀린 것은 어느 것입니까? ①$0.3$의 $\\frac{1}{100}$배는 $0.003$입니다. ②$1.07$의 $\\frac{1}{10}$배는 $0.107$입니다. ③$26.01$의 $10$배는 $260.1$입니다. ④$0.23$의 $100$배는 $23$입니다. ⑤$1.007$의 $10$배는 $10.7$입니다."
+        }
+      ]
+    }
+  ]
+}

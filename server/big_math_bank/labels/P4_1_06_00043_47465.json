@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_06_00043_47465.png",
+  "id": "00043_47465",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "윤수와 지은이의 대화를 읽고 물음에 답하시오. 윤수 : $4,8$ 다음 수는? 지은 : $12$! 윤수 : 아니야. $16$이야. 지은 : 규칙이 뭐야? (1) 지은이가 $12$라고 대답했을 때 생각했던 규칙은 무엇입니까? (2) 윤수가 생각한 규칙은 무엇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            284,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            158,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            57,
+            92,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            77,
+            154,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            98,
+            147,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            372,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            233,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            166
+          ],
+          "text": "윤수와 지은이의 대화를 읽고 물음에 답하시오. 윤수 : $4,8$ 다음 수는? 지은 : $12$! 윤수 : 아니야. $16$이야. 지은 : 규칙이 뭐야? (1) 지은이가 $12$라고 대답했을 때 생각했던 규칙은 무엇입니까? (2) 윤수가 생각한 규칙은 무엇입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_01_00042_29801.png",
+  "id": "00042_29801",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101004",
+      "question_topic_name": "십만, 백만, 천만 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나타내는 수가 다른 하나를 찾아 기호를 쓰시오. ㉠ 만이 $970$인 수  ㉡ $100000$이 $97$인 수㉢ 백만이 $97$인 수㉣ $ 970000$의 $10$배인 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            134,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            57,
+            161,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            75,
+            135,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            97,
+            174,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            347,
+            120
+          ],
+          "text": "나타내는 수가 다른 하나를 찾아 기호를 쓰시오. ㉠ 만이 $970$인 수  ㉡ $100000$이 $97$인 수㉢ 백만이 $97$인 수㉣ $ 970000$의 $10$배인 수"
+        }
+      ]
+    }
+  ]
+}

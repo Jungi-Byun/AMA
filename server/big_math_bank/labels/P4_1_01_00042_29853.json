@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_01_00042_29853.png",
+  "id": "00042_29853",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1$조에 대한 설명입니다. $\\square$안에 알맞은 수를 써넣으시오. $\\square$의 $10$배인 수  $\\square$의 $10000$배인 수  $\\square$보다 $1000$억 큰 수  $\\square$보다 $100$억 큰 수  $\\square$보다 $10$억 큰 수  $\\square$보다 $1$억 큰 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            338,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            23,
+            209,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            54,
+            233,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            85,
+            248,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            116,
+            238,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            147,
+            230,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            178,
+            221,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            340,
+            206
+          ],
+          "text": "$1$조에 대한 설명입니다. $\\square$안에 알맞은 수를 써넣으시오. $\\square$의 $10$배인 수  $\\square$의 $10000$배인 수  $\\square$보다 $1000$억 큰 수  $\\square$보다 $100$억 큰 수  $\\square$보다 $10$억 큰 수  $\\square$보다 $1$억 큰 수"
+        }
+      ]
+    }
+  ]
+}

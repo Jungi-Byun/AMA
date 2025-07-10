@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_04_00043_38289.png",
+  "id": "00043_38289",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "구슬의 개수를 $2$가지 방법으로 구하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오. ⑴ 구슬은 $12$개씩 $4$줄이니까 $\\square×\\square=\\square$(개)야. ⑵ $10$개씩 $4$묶음은$\\square × \\square$, $2$개씩 $4$묶음은 $\\square×\\square$니까 구슬은 모두 $\\square$개야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            479,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            172,
+            344,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            201,
+            540,
+            227
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            28,
+            291,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            0.17,
+            479.82,
+            16.81
+          ],
+          "text": "구슬의 개수를 $2$가지 방법으로 구하려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            171,
+            542,
+            227
+          ],
+          "text": "⑴ 구슬은 $12$개씩 $4$줄이니까 $\\square×\\square=\\square$(개)야. ⑵ $10$개씩 $4$묶음은$\\square × \\square$, $2$개씩 $4$묶음은 $\\square×\\square$니까 구슬은 모두 $\\square$개야."
+        }
+      ]
+    }
+  ]
+}

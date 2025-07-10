@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00042_86492.png",
+  "id": "00042_86492",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$24.86$에서 숫자 $8$이 나타내는 수와 같은 것은 어느 것입니까?  ① $0.01이 8개인 수$ ② $0.1이 18개인 수$ ③ $1이 8개인 수$ ④ $ \\frac{1}{10}이   8 개인 수$ ⑤ $ \\frac{1}{100} 이  8 개인 수$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            369,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            139,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            135,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            117,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            97,
+            133,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            138,
+            141,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            371,
+            169
+          ],
+          "text": "$24.86$에서 숫자 $8$이 나타내는 수와 같은 것은 어느 것입니까?  ① $0.01이 8개인 수$ ② $0.1이 18개인 수$ ③ $1이 8개인 수$ ④ $ \\frac{1}{10}이   8 개인 수$ ⑤ $ \\frac{1}{100} 이  8 개인 수$"
+        }
+      ]
+    }
+  ]
+}

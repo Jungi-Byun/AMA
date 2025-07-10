@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_02_00043_51481.png",
+  "id": "00043_51481",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지구 주위를 돌고 있는 달은 지구에서 약 $38만 km$ 떨어진 곳에 있으며 지구의 크기의 $\\frac{1}{4}$입니다. 또, 달에는 공기가 없어 낮과 밤의 온도 차가 크고 중력이 지구의 $\\frac{1}{6}$밖에 되지 않아 어떤 물체의 달에서의 무게는 지구에서 $\\frac{1}{6}$의 정도 밖에 되지 않습니다. 지구에서의 몸무게가 $72 kg$인 사람이 달에서 잰 몸무게는 몇 $kg$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            804,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            268,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            100
+          ],
+          "text": "지구 주위를 돌고 있는 달은 지구에서 약 $38만 km$ 떨어진 곳에 있으며 지구의 크기의 $\\frac{1}{4}$입니다. 또, 달에는 공기가 없어 낮과 밤의 온도 차가 크고 중력이 지구의 $\\frac{1}{6}$밖에 되지 않아 어떤 물체의 달에서의 무게는 지구에서 $\\frac{1}{6}$의 정도 밖에 되지 않습니다. 지구에서의 몸무게가 $72 kg$인 사람이 달에서 잰 몸무게는 몇 $kg$입니까?"
+        }
+      ]
+    }
+  ]
+}

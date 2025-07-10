@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57582.png",
+  "id": "00043_57582",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>는 $200mL$ 우유갑입니다. 들이가 $200 mL$보다 더 많은 것에 $\\bigcirc$표 하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            474,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            116,
+            114,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            27,
+            324,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            476,
+            21
+          ],
+          "text": "<보기>는 $200mL$ 우유갑입니다. 들이가 $200 mL$보다 더 많은 것에 $\\bigcirc$표 하시오."
+        }
+      ]
+    }
+  ]
+}

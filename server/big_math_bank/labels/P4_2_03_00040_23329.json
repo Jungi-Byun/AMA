@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00040_23329.png",
+  "id": "00040_23329",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203009",
+      "question_topic_name": "소수 한 자리 수의 덧셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "스머프는 맛있는 튀김을 만들기 위해 $0.8 L$씩 들어 있는 식용유 $2$병을 샀습니다. 스머프가 산 식용유는 모두 몇 $L$입니까? ①$1.6 L$ ②$1.7 L$ ③$1.8 L$ ④$1.9 L$ ⑤$2 L$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            694,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            69,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            68,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            69,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            69,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            60,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            696,
+            130
+          ],
+          "text": "스머프는 맛있는 튀김을 만들기 위해 $0.8 L$씩 들어 있는 식용유 $2$병을 샀습니다. 스머프가 산 식용유는 모두 몇 $L$입니까? ①$1.6 L$ ②$1.7 L$ ③$1.8 L$ ④$1.9 L$ ⑤$2 L$"
+        }
+      ]
+    }
+  ]
+}

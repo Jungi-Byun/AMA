@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_06_00043_59741.png",
+  "id": "00043_59741",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희주와 지환이가 규칙 알아맞히기 놀이를 하였습니다. 희주가 $18$이라고 하면 지환이가 $9$라고 답하고 희주가 $34$라고 하면 지환이가 $7$이라고 답합니다. 또 희주가 $75$라고 하면 지환이가 $12$라고 답합니다. 지환이가 $5$라고 답했을 때 희주가 말한 수가 될 수 있는 수를 모두 쓰시오.(단, 희주는 $100$보다 작은 수를 말합니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            797,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            233,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            61
+          ],
+          "text": "희주와 지환이가 규칙 알아맞히기 놀이를 하였습니다. 희주가 $18$이라고 하면 지환이가 $9$라고 답하고 희주가 $34$라고 하면 지환이가 $7$이라고 답합니다. 또 희주가 $75$라고 하면 지환이가 $12$라고 답합니다. 지환이가 $5$라고 답했을 때 희주가 말한 수가 될 수 있는 수를 모두 쓰시오.(단, 희주는 $100$보다 작은 수를 말합니다.)"
+        }
+      ]
+    }
+  ]
+}

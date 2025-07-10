@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36170.png",
+  "id": "00043_36170",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "주은이의 어머니께서 오늘 만들어야 하는 샌드위치는 $50$개입니다. 주은이의 어머니는 샌드위치를 $10$분만에 $ 5$개씩 만듭니다. 주은이의 어머니가 $20$분 동안 샌드위치를 만들었을 때, 남은 샌드위치를 만들려면 몇 시간 몇 분이 더 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            583,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "주은이의 어머니께서 오늘 만들어야 하는 샌드위치는 $50$개입니다. 주은이의 어머니는 샌드위치를 $10$분만에 $ 5$개씩 만듭니다. 주은이의 어머니가 $20$분 동안 샌드위치를 만들었을 때, 남은 샌드위치를 만들려면 몇 시간 몇 분이 더 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

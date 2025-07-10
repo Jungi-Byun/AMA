@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_06_00043_59574.png",
+  "id": "00043_59574",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "게임말의 수를 수와 식으로 나타낸 표입니다. $ \\square $ 안에 알맞은 수를 써넣으시오. <table border> <table border> <caption> </caption>   <tbody>     <tr>       <td>순서</td>       <td>수</td>       <td colspan=5>식</td>     </tr>     <tr>       <td>첫번째</td>       <td>1</td>       <td colspan=5>1</td>     </tr>     <tr>       <td>두번째</td>       <td>3</td>       <td colspan=5>1+2</td>     </tr>     <tr>       <td>세번째</td>       <td>6</td>       <td colspan=2>1+2+$ \\square $</td>       <td></td>       <td colspan=2></td>     </tr>     <tr>       <td>네번째</td>       <td>10</td>       <td>1+2+$ \\square $+$ \\square $</td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            458,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            238,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            460,
+            139
+          ],
+          "text": "게임말의 수를 수와 식으로 나타낸 표입니다. $ \\square $ 안에 알맞은 수를 써넣으시오. <table border> <table border> <caption> </caption>   <tbody>     <tr>       <td>순서</td>       <td>수</td>       <td colspan=5>식</td>     </tr>     <tr>       <td>첫번째</td>       <td>1</td>       <td colspan=5>1</td>     </tr>     <tr>       <td>두번째</td>       <td>3</td>       <td colspan=5>1+2</td>     </tr>     <tr>       <td>세번째</td>       <td>6</td>       <td colspan=2>1+2+$ \\square $</td>       <td></td>       <td colspan=2></td>     </tr>     <tr>       <td>네번째</td>       <td>10</td>       <td>1+2+$ \\square $+$ \\square $</td>       <td></td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

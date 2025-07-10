@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_01_00043_39267.png",
+  "id": "00043_39267",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201003",
+      "question_topic_name": "(진분수)+(진분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소원이는 우리 고장에서 사람들이 많이 모이는 중심지인 수목원에 답사를 가려고 합니다. 소원이가 수목원에 갈 때 걸어서 간 시간은 몇 분입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            61,
+            43,
+            243,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            80,
+            128,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            102,
+            175,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            121,
+            183,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            143,
+            313,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            106,
+            166,
+            185,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            199
+          ],
+          "text": "소원이는 우리 고장에서 사람들이 많이 모이는 중심지인 수목원에 답사를 가려고 합니다. 소원이가 수목원에 갈 때 걸어서 간 시간은 몇 분입니까?"
+        }
+      ]
+    }
+  ]
+}

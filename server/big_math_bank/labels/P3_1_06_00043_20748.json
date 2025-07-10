@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_20748.png",
+  "id": "00043_20748",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$㉠$과 $㉡$에 알맞은 수의 차를 구하시오. • $0.7$은 $0.1$이 $㉠$개입니다. • $0.1$이 $㉡$개이면 $0.5$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            0.92,
+            233.1,
+            18.92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28.1,
+            26.92,
+            192.1,
+            51.92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28.1,
+            50.92,
+            207.1,
+            74.92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            1.4,
+            234.1,
+            76.4
+          ],
+          "text": "$㉠$과 $㉡$에 알맞은 수의 차를 구하시오. • $0.7$은 $0.1$이 $㉠$개입니다. • $0.1$이 $㉡$개이면 $0.5$입니다."
+        }
+      ]
+    }
+  ]
+}

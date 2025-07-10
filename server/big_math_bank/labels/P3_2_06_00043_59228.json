@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_06_00043_59228.png",
+  "id": "00043_59228",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가, 나, 다, 라 마을에서 수확한 벼의 양을 조사하여 그림그래프로 나타내었습니다. 전체 수확량이 $1490$가마니일 때, 벼를 가장 많이 수확한 마을은 어디인지 알아보시오. (1) 가, 나, 다 마을에서 수확한 벼는 모두 몇 가마니입니까? (2) 라 마을에서 수확한 벼는 몇 가마니입니까? (3) 벼를 가장 많이 수확한 마을은 어디입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            183,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            253,
+            350,
+            270
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            275,
+            283,
+            292
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            297,
+            283,
+            314
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            48,
+            322,
+            245
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            40
+          ],
+          "text": "가, 나, 다, 라 마을에서 수확한 벼의 양을 조사하여 그림그래프로 나타내었습니다. 전체 수확량이 $1490$가마니일 때, 벼를 가장 많이 수확한 마을은 어디인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            252,
+            352,
+            315
+          ],
+          "text": "(1) 가, 나, 다 마을에서 수확한 벼는 모두 몇 가마니입니까? (2) 라 마을에서 수확한 벼는 몇 가마니입니까? (3) 벼를 가장 많이 수확한 마을은 어디입니까?"
+        }
+      ]
+    }
+  ]
+}

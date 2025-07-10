@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00040_30607.png",
+  "id": "00040_30607",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 대분수를 가분수로 바르게 나타낸 것은 어느 것입니까?  (1) $ 4 \\frac{1}{7}=\\frac{41}{7} $(2) $ 2 \\frac{3}{4}=\\frac{6}{4} $(3) $ 3 \\frac{1}{8}=\\frac{25}{8} $(4) $ 6 \\frac{3}{4}=\\frac{22}{4} $(5) $ 5 \\frac{3}{5}=\\frac{20}{5} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            375,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            112,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            104,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            110,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            112,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            112,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            377,
+            224
+          ],
+          "text": "다음 중 대분수를 가분수로 바르게 나타낸 것은 어느 것입니까?  (1) $ 4 \\frac{1}{7}=\\frac{41}{7} $(2) $ 2 \\frac{3}{4}=\\frac{6}{4} $(3) $ 3 \\frac{1}{8}=\\frac{25}{8} $(4) $ 6 \\frac{3}{4}=\\frac{22}{4} $(5) $ 5 \\frac{3}{5}=\\frac{20}{5} $"
+        }
+      ]
+    }
+  ]
+}

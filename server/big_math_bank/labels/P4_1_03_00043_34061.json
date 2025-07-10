@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_34061.png",
+  "id": "00043_34061",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빵빵 제과점에서는 빵을 낱개로 살 때와 봉지로 살 때의 가격이 다릅니다. 빵 40개를 가장 싸게 사는 경우에 필요한 돈은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            768,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            26,
+            250,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            770,
+            21
+          ],
+          "text": "빵빵 제과점에서는 빵을 낱개로 살 때와 봉지로 살 때의 가격이 다릅니다. 빵 40개를 가장 싸게 사는 경우에 필요한 돈은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37259.png",
+  "id": "00043_37259",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102009",
+      "question_topic_name": "두 각도의 합 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 점에서 시작하는 세 반직선으로 이루어진 도형에서 오른쪽 수평 방향으로 뻗는 첫 번째 반직선과 반시계 방향으로 45도를 이루는 두 번째 반직선이 있고, 두 번째 반직선과 반시계 방향으로 90도를 이루는 세 번째 반직선이 있는 그림",
+      "question_text": "두 각도의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            162,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            27,
+            183,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            164,
+            22
+          ],
+          "text": "두 각도의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_03_00042_57465.png",
+  "id": "00042_57465",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203014",
+      "question_topic_name": "자릿수가 다른 소수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1)$ \\\\ \\begin{array}{r}0.64 \\rightarrow 0.01\\text { 이 } \\square \\text { 개 } \\\\ +0.49 \\rightarrow 0.01\\text { 이 } \\square \\text { 개 } \\\\ \\hline \\boxed{\\phantom{1234}} \\leftarrow 0.01\\text { 이 } \\square \\text { 개 }\\end{array} (2) \\begin{array}{r}2.6 \\rightarrow 0.01\\text { 이 } \\square \\text { 개 } \\\\ +4.73 \\rightarrow 0.01\\text { 이 } \\square \\text { 개 } \\\\ \\hline \\boxed{\\phantom{1234}} \\leftarrow 0.01\\text { 이 } \\square \\text { 개 }\\end{array} $ (3)$ \\begin{array}{r}3.742 \\rightarrow 0.001\\text { 이 } \\square \\text { 개 } \\\\ +1.56 \\rightarrow 0.001\\text { 이 } \\square \\text { 개 } \\\\ \\hline \\boxed{\\phantom{1234}} \\leftarrow 0.001\\text { 이 } \\square \\text { 개 }\\end{array} (4) \\begin{array}{r}0.\\overset{\\square}{5}8 \\\\ + 0.38 \\\\ \\hline \\boxed{\\phantom{1234}}\\end{array} $ (5)$ \\begin{array}{r}\\overset{\\square}{0}.\\overset{\\square}{8}6 \\\\ +0.78 \\\\ \\hline \\boxed{\\phantom{1234}}\\end{array} $ (6) $ \\begin{array}{r}\\overset{\\square}{3}.74 \\\\ +5.9 \\\\ \\hline \\boxed{\\phantom{1234}}\\end{array} (7) \\begin{array}{r}\\overset{\\square}{4}.\\overset{\\square}{8}5 \\\\ +1.786 \\\\ \\hline \\boxed{\\phantom{1234}}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            221,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            118,
+            223,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            212,
+            256,
+            301
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            305,
+            108,
+            393
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            398,
+            109,
+            486
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            491,
+            109,
+            579
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            584,
+            121,
+            672
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            258,
+            674
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  (1)$ \\\\ \\begin{array}{r}0.64 \\rightarrow 0.01\\text { 이 } \\square \\text { 개 } \\\\ +0.49 \\rightarrow 0.01\\text { 이 } \\square \\text { 개 } \\\\ \\hline \\boxed{\\phantom{1234}} \\leftarrow 0.01\\text { 이 } \\square \\text { 개 }\\end{array} (2) \\begin{array}{r}2.6 \\rightarrow 0.01\\text { 이 } \\square \\text { 개 } \\\\ +4.73 \\rightarrow 0.01\\text { 이 } \\square \\text { 개 } \\\\ \\hline \\boxed{\\phantom{1234}} \\leftarrow 0.01\\text { 이 } \\square \\text { 개 }\\end{array} $ (3)$ \\begin{array}{r}3.742 \\rightarrow 0.001\\text { 이 } \\square \\text { 개 } \\\\ +1.56 \\rightarrow 0.001\\text { 이 } \\square \\text { 개 } \\\\ \\hline \\boxed{\\phantom{1234}} \\leftarrow 0.001\\text { 이 } \\square \\text { 개 }\\end{array} (4) \\begin{array}{r}0.\\overset{\\square}{5}8 \\\\ + 0.38 \\\\ \\hline \\boxed{\\phantom{1234}}\\end{array} $ (5)$ \\begin{array}{r}\\overset{\\square}{0}.\\overset{\\square}{8}6 \\\\ +0.78 \\\\ \\hline \\boxed{\\phantom{1234}}\\end{array} $ (6) $ \\begin{array}{r}\\overset{\\square}{3}.74 \\\\ +5.9 \\\\ \\hline \\boxed{\\phantom{1234}}\\end{array} (7) \\begin{array}{r}\\overset{\\square}{4}.\\overset{\\square}{8}5 \\\\ +1.786 \\\\ \\hline \\boxed{\\phantom{1234}}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

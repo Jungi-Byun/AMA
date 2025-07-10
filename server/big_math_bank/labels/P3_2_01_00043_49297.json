@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_01_00043_49297.png",
+  "id": "00043_49297",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201005",
+      "question_topic_name": "일, 십, 백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 어떤 두 수의 합과 곱을 나타낸 것입니다.  숫자 카드   $\\boxed{2},\\boxed{3},\\boxed{5},\\boxed{7},\\boxed{8}$ 을 사용하여 $\\square$ 안에 알맞게 써넣으시오. $ \\\\ \\begin{array}{r}\\square 4 \\square \\\\ + \\square \\\\ \\hline 2\\,5\\,5\\end{array} $ $ \\begin{array}{r}\\square 4 \\square \\\\ \\times  \\square \\\\ \\hline 1\\,7\\,3\\,6\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            748,
+            26
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            31,
+            114,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            137,
+            31,
+            237,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            750,
+            111
+          ],
+          "text": "다음은 어떤 두 수의 합과 곱을 나타낸 것입니다.  숫자 카드   $\\boxed{2},\\boxed{3},\\boxed{5},\\boxed{7},\\boxed{8}$ 을 사용하여 $\\square$ 안에 알맞게 써넣으시오. $ \\\\ \\begin{array}{r}\\square 4 \\square \\\\ + \\square \\\\ \\hline 2\\,5\\,5\\end{array} $ $ \\begin{array}{r}\\square 4 \\square \\\\ \\times  \\square \\\\ \\hline 1\\,7\\,3\\,6\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55976.png",
+  "id": "00043_55976",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞게 써넣으시오. $4$+$ \\frac{5}{9} $를 대분수로 나타내면 $\\square$이고 $\\square$ 라고 읽습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            174,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            187,
+            22,
+            255,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            31,
+            191,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            250,
+            34,
+            281,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            280,
+            67,
+            413,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            408,
+            38,
+            497,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            513,
+            83
+          ],
+          "text": "$\\square$ 안에 알맞게 써넣으시오. $4$+$ \\frac{5}{9} $를 대분수로 나타내면 $\\square$이고 $\\square$ 라고 읽습니다."
+        }
+      ]
+    }
+  ]
+}

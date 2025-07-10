@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_01_00042_02762.png",
+  "id": "00042_02762",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기에서 두 수를 골라 차가 가장 크게 되도록 $ \\square $ 안에 알맞은 수를 써넣고 계산하시오.   <보기> $749317231654$  $ \\square-\\square=\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            505,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            31,
+            29,
+            67,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            50,
+            165,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            82,
+            179,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            502,
+            109
+          ],
+          "text": "보기에서 두 수를 골라 차가 가장 크게 되도록 $ \\square $ 안에 알맞은 수를 써넣고 계산하시오.   <보기> $749317231654$  $ \\square-\\square=\\square $"
+        }
+      ]
+    }
+  ]
+}

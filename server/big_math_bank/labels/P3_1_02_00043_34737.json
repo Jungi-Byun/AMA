@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00043_34737.png",
+  "id": "00043_34737",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $160 \\mathrm{~cm}$ 인 철사를 이용하여 가로가 $8 \\mathrm{~cm}$, 세로가 $4 \\mathrm{~cm}$ 인 직사각형 모양과 한 변의 길이가 $5 \\mathrm{~cm}$ 인 정사각형 모양을 최대한 많이 번갈아 가며 만들었습니다. 직사각형은 몇 개까지 만들 수 있고, 남은 철사의 길이는 몇 $\\mathrm{cm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            19,
+            555,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "길이가 $160 \\mathrm{~cm}$ 인 철사를 이용하여 가로가 $8 \\mathrm{~cm}$, 세로가 $4 \\mathrm{~cm}$ 인 직사각형 모양과 한 변의 길이가 $5 \\mathrm{~cm}$ 인 정사각형 모양을 최대한 많이 번갈아 가며 만들었습니다. 직사각형은 몇 개까지 만들 수 있고, 남은 철사의 길이는 몇 $\\mathrm{cm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

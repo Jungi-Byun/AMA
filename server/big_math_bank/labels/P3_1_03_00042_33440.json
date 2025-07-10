@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_03_00042_33440.png",
+  "id": "00042_33440",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $ \\square \\times 9=63 \\rightarrow \\begin{array}{l}63 \\div 9=\\square \\\\ 63 \\div \\square=9\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            138,
+            22,
+            213,
+            43
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            36,
+            93,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            138,
+            48,
+            216,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            218,
+            70
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $ \\square \\times 9=63 \\rightarrow \\begin{array}{l}63 \\div 9=\\square \\\\ 63 \\div \\square=9\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

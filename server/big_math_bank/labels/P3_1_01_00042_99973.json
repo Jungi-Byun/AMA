@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_01_00042_99973.png",
+  "id": "00042_99973",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 계산에서 $\\square$ 안에 알맞은 수는 어느 것입니까? $\\begin{array}{r}2 \\square 10 \\\\ \\not 3 \\not 24 \\\\ - 195 \\\\ \\hline 129\\end{array}$ ① $1$ ② $10$ ③ $11$ ④ $100$ ⑤ $110$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            308,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            126,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            142,
+            49,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            167,
+            59,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            55,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            211,
+            68,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            233,
+            64,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            311,
+            254
+          ],
+          "text": "다음 계산에서 $\\square$ 안에 알맞은 수는 어느 것입니까? $\\begin{array}{r}2 \\square 10 \\\\ \\not 3 \\not 24 \\\\ - 195 \\\\ \\hline 129\\end{array}$ ① $1$ ② $10$ ③ $11$ ④ $100$ ⑤ $110$"
+        }
+      ]
+    }
+  ]
+}

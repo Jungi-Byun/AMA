@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_06_00043_41482.png",
+  "id": "00043_41482",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "서규와 친구들은 그림과 같이 규칙적으로 벽돌을 쌓으려고 합니다. 그림을 보고 물음에 답하시오. ⑴ $8$층까지 쌓은 벽돌의 수를 식으로 나타내시오.⑵ $12$층까지 쌓은 벽돌은 몇 장입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            563,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            224,
+            296,
+            241
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            246,
+            237,
+            263
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            39,
+            318,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.23,
+            0,
+            566.23,
+            18.15
+          ],
+          "text": "서규와 친구들은 그림과 같이 규칙적으로 벽돌을 쌓으려고 합니다. 그림을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            222,
+            298,
+            265
+          ],
+          "text": "⑴ $8$층까지 쌓은 벽돌의 수를 식으로 나타내시오.⑵ $12$층까지 쌓은 벽돌은 몇 장입니까?"
+        }
+      ]
+    }
+  ]
+}

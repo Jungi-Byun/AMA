@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_03_00042_33434.png",
+  "id": "00042_33434",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $ 5 \\times 6=\\square $  $ \\begin{array}{l}⤢30 \\div 5=\\square \\\\ ⤡30 \\div 6=\\square\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            145,
+            19,
+            241,
+            46
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            33,
+            107,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            154,
+            52,
+            241,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            14.51,
+            0.85,
+            247.01,
+            83.35
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $ 5 \\times 6=\\square $  $ \\begin{array}{l}⤢30 \\div 5=\\square \\\\ ⤡30 \\div 6=\\square\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

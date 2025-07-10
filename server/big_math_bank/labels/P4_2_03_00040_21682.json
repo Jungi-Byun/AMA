@@ -1,0 +1,139 @@
+{
+  "question_filename": "P4_2_03_00040_21682.png",
+  "id": "00040_21682",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 읽고 ㉮를 바르게 나타낸 것은 어느 것입니까? $\\bullet$ ㉮는 소수 세 자리 수입니다. $\\bullet$ ㉮의 일의 자리 숫자는 소수 셋째 자리 숫자보다 $3$ 큰 수인 $8$입니다. $\\bullet$ ㉮의 소수 첫째 자리 숫자는 일의 자리 숫자보다 큽니다. $\\bullet$ ㉮의 소수 둘째 자리 숫자는 소수 셋째 자리 숫자보다 $2$가 작습니다. ① $8.735$ ② $8.753$ ③ $8.935$ ④ $8.953$ ⑤ $8.925$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            25,
+            210,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            55,
+            440,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            78,
+            381,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            102,
+            432,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            122,
+            79,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            79,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            80,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            190,
+            80,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            212,
+            80,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            455,
+            233
+          ],
+          "text": "다음을 읽고 ㉮를 바르게 나타낸 것은 어느 것입니까? $\\bullet$ ㉮는 소수 세 자리 수입니다. $\\bullet$ ㉮의 일의 자리 숫자는 소수 셋째 자리 숫자보다 $3$ 큰 수인 $8$입니다. $\\bullet$ ㉮의 소수 첫째 자리 숫자는 일의 자리 숫자보다 큽니다. $\\bullet$ ㉮의 소수 둘째 자리 숫자는 소수 셋째 자리 숫자보다 $2$가 작습니다. ① $8.735$ ② $8.753$ ③ $8.935$ ④ $8.953$ ⑤ $8.925$"
+        }
+      ]
+    }
+  ]
+}

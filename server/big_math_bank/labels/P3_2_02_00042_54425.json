@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00042_54425.png",
+  "id": "00042_54425",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "혜선이네 반 학생들을 한 모둠에 $7$명씩 나누면 $6$모둠이 됩니다. 혜선이네 반 학생들을 한 모둠에 $3$명씩 나누면 모두 몇 모둠이 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            774,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            776,
+            21
+          ],
+          "text": "혜선이네 반 학생들을 한 모둠에 $7$명씩 나누면 $6$모둠이 됩니다. 혜선이네 반 학생들을 한 모둠에 $3$명씩 나누면 모두 몇 모둠이 됩니까?"
+        }
+      ]
+    }
+  ]
+}

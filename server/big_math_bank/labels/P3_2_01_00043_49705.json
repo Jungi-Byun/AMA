@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_01_00043_49705.png",
+  "id": "00043_49705",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오.(1)$ \\begin{array}{r}37 \\\\ \\times  24 \\\\ \\hline\\end{array} $ (2)$ \\begin{array}{r}56 \\\\ \\times  38 \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            117,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            137,
+            24,
+            235,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            237,
+            69
+          ],
+          "text": "계산을 하시오.(1)$ \\begin{array}{r}37 \\\\ \\times  24 \\\\ \\hline\\end{array} $ (2)$ \\begin{array}{r}56 \\\\ \\times  38 \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

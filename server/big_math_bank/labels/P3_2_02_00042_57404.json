@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00042_57404.png",
+  "id": "00042_57404",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나머지가 $3$이 될 수 없는 나눗셈은 어느 것입니까?  ①$ \\square \\div 7 $ ②$ \\square \\div 4 $ ③$ \\square \\div 3 $ ④$ \\square \\div 5 $ ⑤$ \\square \\div 8 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            303,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            73,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            74,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            74,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            73,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            74,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            305,
+            130
+          ],
+          "text": "나머지가 $3$이 될 수 없는 나눗셈은 어느 것입니까?  ①$ \\square \\div 7 $ ②$ \\square \\div 4 $ ③$ \\square \\div 3 $ ④$ \\square \\div 5 $ ⑤$ \\square \\div 8 $"
+        }
+      ]
+    }
+  ]
+}

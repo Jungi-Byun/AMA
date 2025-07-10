@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_03_00043_36425.png",
+  "id": "00043_36425",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈식을 보고 몫을 구할 수 있는 나눗셈식을 찾아 $\\bigcirc$표 하시오.  $8×3=24$  $24\\div8$= $\\square$ (  )  $24\\div4$= $\\square$ (  )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            375,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            25,
+            79,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            54,
+            144,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            77,
+            144,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            381,
+            97
+          ],
+          "text": "곱셈식을 보고 몫을 구할 수 있는 나눗셈식을 찾아 $\\bigcirc$표 하시오.  $8×3=24$  $24\\div8$= $\\square$ (  )  $24\\div4$= $\\square$ (  )"
+        }
+      ]
+    }
+  ]
+}

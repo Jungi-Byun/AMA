@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_03_00043_34150.png",
+  "id": "00043_34150",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 강에 지하 차도를 건설하려고 합니다. 지하 차도를 건설하기 위해 조사한 내용이 다음과 같았습니다. 공사비는 지하 차도를 몇 년 이용하여 나오는 이익과 같게 됩니까? ㆍ공사 기간: $1$년 $8$개월 ㆍ$ 1 \\mathrm{~m} $당 공사 비용: $3$억 ㆍ$1$개월에 건설할 수 있는 지하 차도의 길이:$ 15 \\mathrm{~m} $ ㆍ지하 차도 이용 예상 이익: $1$년 $45$억 원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            208,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            46,
+            163,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            76,
+            162,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            97,
+            302,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            118,
+            260,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            145
+          ],
+          "text": "어느 강에 지하 차도를 건설하려고 합니다. 지하 차도를 건설하기 위해 조사한 내용이 다음과 같았습니다. 공사비는 지하 차도를 몇 년 이용하여 나오는 이익과 같게 됩니까? ㆍ공사 기간: $1$년 $8$개월 ㆍ$ 1 \\mathrm{~m} $당 공사 비용: $3$억 ㆍ$1$개월에 건설할 수 있는 지하 차도의 길이:$ 15 \\mathrm{~m} $ ㆍ지하 차도 이용 예상 이익: $1$년 $45$억 원"
+        }
+      ]
+    }
+  ]
+}

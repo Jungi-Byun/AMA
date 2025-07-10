@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_05_00040_59329.png",
+  "id": "00040_59329",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $2$분 $5$초는 몇 초인지 알아보는 식으로 옳은 것은 어느 것입니까?  ①$2\\times5$ ②$(2+15)\\times60$  ③$(60\\times2)+5$ ④$(60\\times5)+2$ ⑤$(60\\times2)+(60\\times5)$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            427,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            68,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            108,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            103,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            103,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            138,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            429,
+            130
+          ],
+          "text": "다음 중 $2$분 $5$초는 몇 초인지 알아보는 식으로 옳은 것은 어느 것입니까?  ①$2\\times5$ ②$(2+15)\\times60$  ③$(60\\times2)+5$ ④$(60\\times5)+2$ ⑤$(60\\times2)+(60\\times5)$"
+        }
+      ]
+    }
+  ]
+}

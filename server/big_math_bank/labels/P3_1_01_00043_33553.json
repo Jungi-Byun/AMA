@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33553.png",
+  "id": "00043_33553",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "서로 다른 세 숫자 $\\bullet,\\blacktriangle,\\blacksquare$을 사용하여 다음 뺄셈식을 완성할 때, $\\bullet$+$\\blacktriangle$+$\\blacksquare$의 값을 구하시오. $\\begin{array}{r}7\\bullet4 \\\\ -\\blacktriangle3\\blacksquare \\\\ \\hline 288\\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            547,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            109,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            561,
+            108
+          ],
+          "text": "서로 다른 세 숫자 $\\bullet,\\blacktriangle,\\blacksquare$을 사용하여 다음 뺄셈식을 완성할 때, $\\bullet$+$\\blacktriangle$+$\\blacksquare$의 값을 구하시오. $\\begin{array}{r}7\\bullet4 \\\\ -\\blacktriangle3\\blacksquare \\\\ \\hline 288\\end{array}$"
+        }
+      ]
+    }
+  ]
+}

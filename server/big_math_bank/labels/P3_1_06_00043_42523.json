@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_42523.png",
+  "id": "00043_42523",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "하준이네 집 강아지가 종이에 오줌을 싸 잉크가 번졌습니다. $1$부터 $9$까지의 수 중에서 잉크가 번진 곳에 들어갈 수 있는 수를 모두 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            19,
+            173,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            21
+          ],
+          "text": "하준이네 집 강아지가 종이에 오줌을 싸 잉크가 번졌습니다. $1$부터 $9$까지의 수 중에서 잉크가 번진 곳에 들어갈 수 있는 수를 모두 구하시오."
+        }
+      ]
+    }
+  ]
+}

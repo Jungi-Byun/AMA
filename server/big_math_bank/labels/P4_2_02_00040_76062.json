@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_02_00040_76062.png",
+  "id": "00040_76062",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202003",
+      "question_topic_name": "이등변삼각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "변 ㄱㄴ의 길이와 변 ㄱㄷ의 길이가 모두 7 cm이고 각 ㄴ은 70도이고 각 ㄱ의 크기는 ㄱ, 각 ㄷ의 크기는 ㄴ인 삼각형 ㄱㄴㄷ",
+      "question_text": "다음 삼각형에 대한 설명으로 옳은 것은 어느 것입니까? ① 직각삼각형입니다. ② 각$㉡$의 크기는 $60\\degree$입니다. ③ 변 $ㄴㄷ$의 길이는 $7cm$입니다. ④ 각 $㉠$의 크기는 알 수 없습니다. ⑤ 둘레의 길이는 $21cm$보다 작습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            333,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            149,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            198,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            210,
+            211,
+            230
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            232,
+            219,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            254,
+            243,
+            274
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            133,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            335,
+            21
+          ],
+          "text": "다음 삼각형에 대한 설명으로 옳은 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            165,
+            245,
+            275
+          ],
+          "text": "① 직각삼각형입니다. ② 각$㉡$의 크기는 $60\\degree$입니다. ③ 변 $ㄴㄷ$의 길이는 $7cm$입니다. ④ 각 $㉠$의 크기는 알 수 없습니다. ⑤ 둘레의 길이는 $21cm$보다 작습니다."
+        }
+      ]
+    }
+  ]
+}

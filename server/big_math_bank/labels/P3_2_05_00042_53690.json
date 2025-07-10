@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00042_53690.png",
+  "id": "00042_53690",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$5L 200mL$의 음료수가 있습니다. 이 중에서 $1L 100mL$씩 $2$번 마셨다면 남은 음료수는 몇 $L$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            580,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            582,
+            21
+          ],
+          "text": "$5L 200mL$의 음료수가 있습니다. 이 중에서 $1L 100mL$씩 $2$번 마셨다면 남은 음료수는 몇 $L$입니까?"
+        }
+      ]
+    }
+  ]
+}

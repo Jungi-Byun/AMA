@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_02_00042_28064.png",
+  "id": "00042_28064",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102014",
+      "question_topic_name": "사각형의 네 각의 크기의 합 구하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사각형의 네 각의 크기로 알맞지 않은 것은 어느 것입니까? ① $ 45^{\\circ}, 130^{\\circ}, 50^{\\circ}, 135^{\\circ} $ ② $ 110^{\\circ}, 80^{\\circ}, 30^{\\circ}, 140^{\\circ} $ ③ $ 75^{\\circ}, 100^{\\circ}, 90^{\\circ}, 95^{\\circ} $ ④ $ 65^{\\circ}, 100^{\\circ}, 70^{\\circ}, 115^{\\circ} $ ⑤ $ 140^{\\circ}, 30^{\\circ}, 85^{\\circ}, 105^{\\circ} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            350,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            159,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            161,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            155,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            158,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            162,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            352,
+            130
+          ],
+          "text": "사각형의 네 각의 크기로 알맞지 않은 것은 어느 것입니까? ① $ 45^{\\circ}, 130^{\\circ}, 50^{\\circ}, 135^{\\circ} $ ② $ 110^{\\circ}, 80^{\\circ}, 30^{\\circ}, 140^{\\circ} $ ③ $ 75^{\\circ}, 100^{\\circ}, 90^{\\circ}, 95^{\\circ} $ ④ $ 65^{\\circ}, 100^{\\circ}, 70^{\\circ}, 115^{\\circ} $ ⑤ $ 140^{\\circ}, 30^{\\circ}, 85^{\\circ}, 105^{\\circ} $"
+        }
+      ]
+    }
+  ]
+}

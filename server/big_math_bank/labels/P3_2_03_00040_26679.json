@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00040_26679.png",
+  "id": "00040_26679",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원의 크기를 크게 하려면 다음 중에서 어느 것을 크게 해야 합니까? ①연필심의 굵기 ②컴퍼스의 길이 ③원의 반지름 ④종이의 크기 ⑤자의 길이",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            396,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            124,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            124,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            112,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            111,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            99,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            398,
+            130
+          ],
+          "text": "원의 크기를 크게 하려면 다음 중에서 어느 것을 크게 해야 합니까? ①연필심의 굵기 ②컴퍼스의 길이 ③원의 반지름 ④종이의 크기 ⑤자의 길이"
+        }
+      ]
+    }
+  ]
+}

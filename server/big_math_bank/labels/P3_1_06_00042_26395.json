@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00042_26395.png",
+  "id": "00042_26395",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "둘째 번으로 큰 분수는 어느 것입니까?  ① $ \\frac{1}{5} $ ② $ \\frac{1}{8} $ ③ $ \\frac{3}{5} $ ④ $ \\frac{1}{6} $ ⑤ $ \\frac{4}{5} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            237,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            63,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            66,
+            63,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            61,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            148,
+            61,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            61,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            239,
+            224
+          ],
+          "text": "둘째 번으로 큰 분수는 어느 것입니까?  ① $ \\frac{1}{5} $ ② $ \\frac{1}{8} $ ③ $ \\frac{3}{5} $ ④ $ \\frac{1}{6} $ ⑤ $ \\frac{4}{5} $"
+        }
+      ]
+    }
+  ]
+}

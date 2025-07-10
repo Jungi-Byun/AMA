@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_03_00043_36505.png",
+  "id": "00043_36505",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈식에 대한 설명 중 잘못된 것을 찾아 기호로 쓰시오.  $ 24 \\div 4=6 $ ㉠ $24$ 나누기 $4$는 $6$과 같습니다. ㉡ $24-6-6-6-6=0$ ㉢ $6$은 $24$를 $4$로 나눈 몫입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            346,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            27,
+            73,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            201,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            127,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            201,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            348,
+            122
+          ],
+          "text": "나눗셈식에 대한 설명 중 잘못된 것을 찾아 기호로 쓰시오.  $ 24 \\div 4=6 $ ㉠ $24$ 나누기 $4$는 $6$과 같습니다. ㉡ $24-6-6-6-6=0$ ㉢ $6$은 $24$를 $4$로 나눈 몫입니다."
+        }
+      ]
+    }
+  ]
+}

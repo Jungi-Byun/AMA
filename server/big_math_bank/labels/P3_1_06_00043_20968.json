@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00043_20968.png",
+  "id": "00043_20968",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영주가 떡 $3$ 개와 떡 한 개의 $ \\frac{7}{10} $을 먹었습니다. 영주가 먹은 떡은 몇 개인지 소수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            563,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            565,
+            37
+          ],
+          "text": "영주가 떡 $3$ 개와 떡 한 개의 $ \\frac{7}{10} $을 먹었습니다. 영주가 먹은 떡은 몇 개인지 소수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00043_51194.png",
+  "id": "00043_51194",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈의 몫을 찾아 선으로 이어 보시오. (1) $ 55 \\div 5 $ ⦁ $\\qquad\\qquad\\qquad$        ⦁  ㉠ $ 11 $  (2) $ 46 \\div 2 $ ⦁ $\\qquad\\qquad\\qquad$        ⦁  ㉡ $ 13 $  (3) $ 39 \\div 3 $ ⦁ $\\qquad\\qquad\\qquad$        ⦁  ㉡ $ 23 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            267,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            51,
+            269,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            267,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            270,
+            107
+          ],
+          "text": "나눗셈의 몫을 찾아 선으로 이어 보시오. (1) $ 55 \\div 5 $ ⦁ $\\qquad\\qquad\\qquad$        ⦁  ㉠ $ 11 $  (2) $ 46 \\div 2 $ ⦁ $\\qquad\\qquad\\qquad$        ⦁  ㉡ $ 13 $  (3) $ 39 \\div 3 $ ⦁ $\\qquad\\qquad\\qquad$        ⦁  ㉡ $ 23 $"
+        }
+      ]
+    }
+  ]
+}

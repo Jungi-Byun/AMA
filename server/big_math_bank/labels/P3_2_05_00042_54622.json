@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_54622.png",
+  "id": "00042_54622",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게가 가벼운 것부터 차례로 기호를 쓰시오. ㉠ $2$kg $800$g ㉡ $2080$g ㉢ $2008$g ㉣ $2$kg",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            271,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            195,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            78
+          ],
+          "text": "무게가 가벼운 것부터 차례로 기호를 쓰시오. ㉠ $2$kg $800$g ㉡ $2080$g ㉢ $2008$g ㉣ $2$kg"
+        }
+      ]
+    }
+  ]
+}

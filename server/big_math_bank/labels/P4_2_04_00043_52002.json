@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52002.png",
+  "id": "00043_52002",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직선 가 위의 점 ㄱ, ㄹ과 직선 나 위의 점 ㄴ, 두 직선 사이의 점 ㄷ에서 평행선 가와 나 사이에 그어진 직선 나와 수직인 선분 ㄱㄴ과 각 ㄱㄹㄷ은 95도, 직선 나와 이루는 각이 35도인 선분 ㄴㄷ",
+      "question_text": "직선 가와 직선 나는 서로 평행합니다. 각 $ㄹㄷㄴ$의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            404,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            28,
+            288,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.23,
+            0.65,
+            404.23,
+            18.65
+          ],
+          "text": "직선 가와 직선 나는 서로 평행합니다. 각 $ㄹㄷㄴ$의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53290.png",
+  "id": "00043_53290",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "중심 ㅇ에 빨간 점이 있는 원 위에 9시 방향의 점 ㄱ에서 반 시계 방향으로 점 ㄴ, 점 ㄷ, 점 ㄹ이 있고 점 ㄷ은 점 ㄱ의 반대편에 위치할 때, 현 ㄴㄹ은 원의 중심을 지나고 현 ㄱㄴ과 현 ㄴㄷ이 있는 도형",
+      "question_text": "원의 반지름을 나타내는 선분을 모두 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            30,
+            156,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            302,
+            22
+          ],
+          "text": "원의 반지름을 나타내는 선분을 모두 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

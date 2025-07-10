@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_05_00043_58799.png",
+  "id": "00043_58799",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 날 시간대별 마당의 온도를 나타낸 꺾은선그래프입니다. 오전 $9$시와 오후 $2$시의 온도의 차는 약 몇 도입니까? 마당의 온도",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            663,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            127,
+            28,
+            220,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            56,
+            309,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            665,
+            50
+          ],
+          "text": "어느 날 시간대별 마당의 온도를 나타낸 꺾은선그래프입니다. 오전 $9$시와 오후 $2$시의 온도의 차는 약 몇 도입니까? 마당의 온도"
+        }
+      ]
+    }
+  ]
+}

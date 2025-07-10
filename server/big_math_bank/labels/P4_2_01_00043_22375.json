@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_01_00043_22375.png",
+  "id": "00043_22375",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201007",
+      "question_topic_name": "분모가 같은 대분수끼리 덧셈을 자연수, 진분수끼리 계산",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 분수의 덧셈을 하면 얼마가 됩니까?  3$\\frac{5}{7}$+2$\\frac{1}{7}$  ① 5$\\frac{6}{14}$  ② 1$\\frac{4}{7}$  ③ 5$\\frac{4}{14}$ ④ 5$\\frac{6}{7}$ ⑤ 6$\\frac{1}{7}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            250,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            112,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            78,
+            82,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            117,
+            73,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            154,
+            82,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            192,
+            73,
+            227
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            231,
+            73,
+            265
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            264
+          ],
+          "text": "다음 분수의 덧셈을 하면 얼마가 됩니까?  3$\\frac{5}{7}$+2$\\frac{1}{7}$  ① 5$\\frac{6}{14}$  ② 1$\\frac{4}{7}$  ③ 5$\\frac{4}{14}$ ④ 5$\\frac{6}{7}$ ⑤ 6$\\frac{1}{7}$"
+        }
+      ]
+    }
+  ]
+}

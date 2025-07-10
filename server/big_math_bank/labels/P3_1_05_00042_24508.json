@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_05_00042_24508.png",
+  "id": "00042_24508",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "교내 미술 대회가 $1$시간 $50$분 동안 진행되어 $12$시 $25$분에 끝났습니다. 교내 미술 대회는 몇 시 몇 분에 시작되었습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            691,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            694,
+            21
+          ],
+          "text": "교내 미술 대회가 $1$시간 $50$분 동안 진행되어 $12$시 $25$분에 끝났습니다. 교내 미술 대회는 몇 시 몇 분에 시작되었습니까?"
+        }
+      ]
+    }
+  ]
+}

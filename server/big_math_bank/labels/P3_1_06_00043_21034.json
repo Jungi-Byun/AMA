@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_06_00043_21034.png",
+  "id": "00043_21034",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $\\square$ 안에 들어갈 수 있는 수는 어느 것입니까? $ 0 . \\square>\\frac{7}{10} $ ①$4$ ②$5$ ③$6$ ④$7$ ⑤$8$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            316,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            36,
+            26,
+            124,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            76,
+            94,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            98,
+            52,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            120,
+            53,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            142,
+            52,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            164,
+            53,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            322,
+            185
+          ],
+          "text": "다음 중 $\\square$ 안에 들어갈 수 있는 수는 어느 것입니까? $ 0 . \\square>\\frac{7}{10} $ ①$4$ ②$5$ ③$6$ ④$7$ ⑤$8$"
+        }
+      ]
+    }
+  ]
+}

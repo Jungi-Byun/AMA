@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_28285.png",
+  "id": "00042_28285",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102006",
+      "question_topic_name": "예각과 둔각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준형이는 $7$시 $40$분에 아침 운동을 시작하여 $1$시간 $25$분 동안 했습니다. 준형이가 아침 운동을 끝낸 시각을 시계에 나타낼 때, 시침과 분침이 이루는 작은 쪽의 각은 예각입니까, 둔각입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            291,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "준형이는 $7$시 $40$분에 아침 운동을 시작하여 $1$시간 $25$분 동안 했습니다. 준형이가 아침 운동을 끝낸 시각을 시계에 나타낼 때, 시침과 분침이 이루는 작은 쪽의 각은 예각입니까, 둔각입니까?"
+        }
+      ]
+    }
+  ]
+}

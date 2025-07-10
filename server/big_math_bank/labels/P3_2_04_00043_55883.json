@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_04_00043_55883.png",
+  "id": "00043_55883",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기가 같은 분수끼리 선으로 이으시오.  ($1)\\frac{22}{7}\\cdot \\qquad\\qquad\\qquad\\cdot$ ㉠ $6\\frac{4}{7}\\\\$ ($2)\\frac{17}{7}\\cdot \\qquad\\qquad\\qquad\\cdot$ ㉠ $2\\frac{3}{7}\\\\$ ($3)\\frac{46}{7}\\cdot \\qquad\\qquad\\qquad\\cdot$ ㉠ $3\\frac{1}{7}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            242,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            258,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            261,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            105,
+            261,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            263,
+            141
+          ],
+          "text": "크기가 같은 분수끼리 선으로 이으시오.  ($1)\\frac{22}{7}\\cdot \\qquad\\qquad\\qquad\\cdot$ ㉠ $6\\frac{4}{7}\\\\$ ($2)\\frac{17}{7}\\cdot \\qquad\\qquad\\qquad\\cdot$ ㉠ $2\\frac{3}{7}\\\\$ ($3)\\frac{46}{7}\\cdot \\qquad\\qquad\\qquad\\cdot$ ㉠ $3\\frac{1}{7}$"
+        }
+      ]
+    }
+  ]
+}

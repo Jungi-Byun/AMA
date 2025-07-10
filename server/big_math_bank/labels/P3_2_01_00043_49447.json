@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_01_00043_49447.png",
+  "id": "00043_49447",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<조건>을 만족하는 5개의 수 ㉠, ㉡, ㉢, ㉣, ㉤이 있습니다. 이때, $㉠ \\times ㉡ \\times ㉢ \\times ㉣ \\times ㉤$의 값은 얼마입니까?  <조건> (가) ㉠ $ < $ ㉡ $ < $ ㉢ $ < $ ㉣ $ < $ ㉤ (나) ㉠ $ x $ ㉡ $ x $ ㉢ $ =8 $ (다) ㉢ $ \\times $ ㉣ $ \\times $ ㉤ $ =200 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            1,
+            599,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            71,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            54,
+            146,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            76,
+            121,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            140,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            123
+          ],
+          "text": "<조건>을 만족하는 5개의 수 ㉠, ㉡, ㉢, ㉣, ㉤이 있습니다. 이때, $㉠ \\times ㉡ \\times ㉢ \\times ㉣ \\times ㉤$의 값은 얼마입니까?  <조건> (가) ㉠ $ < $ ㉡ $ < $ ㉢ $ < $ ㉣ $ < $ ㉤ (나) ㉠ $ x $ ㉡ $ x $ ㉢ $ =8 $ (다) ㉢ $ \\times $ ㉣ $ \\times $ ㉤ $ =200 $"
+        }
+      ]
+    }
+  ]
+}

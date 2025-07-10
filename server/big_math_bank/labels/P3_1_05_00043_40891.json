@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_05_00043_40891.png",
+  "id": "00043_40891",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은지와 친구들이 훌라후프 돌리기를 한 시간입니다. 가장 오랫동안 훌라후프를 돌린 사람은 누구입니까?  선우 : $5$분 $14$초 은지 : $320$초 나영 : $259$초",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            606,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            25,
+            115,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            54,
+            105,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            77,
+            113,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            101
+          ],
+          "text": "은지와 친구들이 훌라후프 돌리기를 한 시간입니다. 가장 오랫동안 훌라후프를 돌린 사람은 누구입니까?  선우 : $5$분 $14$초 은지 : $320$초 나영 : $259$초"
+        }
+      ]
+    }
+  ]
+}

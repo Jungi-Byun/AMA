@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32289.png",
+  "id": "00043_32289",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "중국의 화훼 산업이 고급 품질화를 위한 시설 확대와 중국 화훼 기업의 꾸준한 성장으로 $2000$년 $2500$만 달러였던 화훼 수출액은 $2010$년 $3$억 $2500$만 달러를 달성하였다고 합니다. 화훼 수출액이 해마다 같은 금액씩 증가하였다면, 화훼 수출액이 $5$억 달러를 처음으로 넘는 해는 몇 년입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            511,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            258,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            764,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            182,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            84
+          ],
+          "text": "중국의 화훼 산업이 고급 품질화를 위한 시설 확대와 중국 화훼 기업의 꾸준한 성장으로 $2000$년 $2500$만 달러였던 화훼 수출액은 $2010$년 $3$억 $2500$만 달러를 달성하였다고 합니다. 화훼 수출액이 해마다 같은 금액씩 증가하였다면, 화훼 수출액이 $5$억 달러를 처음으로 넘는 해는 몇 년입니까?"
+        }
+      ]
+    }
+  ]
+}

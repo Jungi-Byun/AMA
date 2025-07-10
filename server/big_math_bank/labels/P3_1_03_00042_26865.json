@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00042_26865.png",
+  "id": "00042_26865",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $ 7 \\times \\square=21  \\begin{array}{l}↗21 \\div 7=\\square \\\\↘ 21 \\div \\square=7\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            149,
+            102,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            134,
+            135,
+            228,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            148,
+            160,
+            230,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            224,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            277,
+            22
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            131,
+            232,
+            181
+          ],
+          "text": "$ 7 \\times \\square=21  \\begin{array}{l}↗21 \\div 7=\\square \\\\↘ 21 \\div \\square=7\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

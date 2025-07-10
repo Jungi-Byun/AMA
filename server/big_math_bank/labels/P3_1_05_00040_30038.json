@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_05_00040_30038.png",
+  "id": "00040_30038",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "여러 가지 물건의 길이를 잰 것입니다. 다음 중 바른 단위를 사용하여 잰 사람은 누구입니까? (1) 슬아 : 쌀 한 톨의 길이 약 $ 6 \\mathrm{~mm} $ (2) 정은 : 동화책의 두께 약 $ 1 \\mathrm{~km} $ (3) 재희 : 연필의 길이 약 $ 20 \\mathrm{~m} $ (4) 지민 : 터널의 길이 약 $ 1 \\mathrm{~mm} $ (5) 도현 : 지우개 길이 약 $ 3 \\mathrm{~km} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            537,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            222,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            206,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            198,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            198,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            196,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            539,
+            130
+          ],
+          "text": "여러 가지 물건의 길이를 잰 것입니다. 다음 중 바른 단위를 사용하여 잰 사람은 누구입니까? (1) 슬아 : 쌀 한 톨의 길이 약 $ 6 \\mathrm{~mm} $ (2) 정은 : 동화책의 두께 약 $ 1 \\mathrm{~km} $ (3) 재희 : 연필의 길이 약 $ 20 \\mathrm{~m} $ (4) 지민 : 터널의 길이 약 $ 1 \\mathrm{~mm} $ (5) 도현 : 지우개 길이 약 $ 3 \\mathrm{~km} $"
+        }
+      ]
+    }
+  ]
+}

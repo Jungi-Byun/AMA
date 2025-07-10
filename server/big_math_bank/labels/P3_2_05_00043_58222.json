@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58222.png",
+  "id": "00043_58222",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은수네 집 체중계는 고장이 나서 실제 몸무게보다 $200g$ 더 무겁게 나옵니다. 은수가 이 체중계로 몸무게를 재었더니 $32kg 600g$이었습니다. 동생은 은수보다 $5kg 600g$이 더 가볍고, 형은 은수보다 $3kg 200g$이 더 무겁습니다. 세 형제의 몸무게의 합은 몇 $kg$ 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            767,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "은수네 집 체중계는 고장이 나서 실제 몸무게보다 $200g$ 더 무겁게 나옵니다. 은수가 이 체중계로 몸무게를 재었더니 $32kg 600g$이었습니다. 동생은 은수보다 $5kg 600g$이 더 가볍고, 형은 은수보다 $3kg 200g$이 더 무겁습니다. 세 형제의 몸무게의 합은 몇 $kg$ 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

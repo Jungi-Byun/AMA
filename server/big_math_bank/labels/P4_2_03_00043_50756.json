@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_03_00043_50756.png",
+  "id": "00043_50756",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203018",
+      "question_topic_name": "소수 두 자리 수의 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "죽변에서 울릉도를 거쳐 독도를 가는 거리는 죽변에서 독도로 바로 갈 때의 거리보다 몇 $km$ 더 먼지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            635,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            95,
+            54,
+            277,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            35,
+            319,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            639,
+            27
+          ],
+          "text": "죽변에서 울릉도를 거쳐 독도를 가는 거리는 죽변에서 독도로 바로 갈 때의 거리보다 몇 $km$ 더 먼지 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_02_00043_34711.png",
+  "id": "00043_34711",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림과 같은 직사각형 모양의 나무판 위에 한 변이 $7 cm$이 정사각형 모양의 타일을 붙이려고 합니다. 타일을 빈틈없이 겹치지 않게 이어 붙인다면 타일은 모두 몇 장이 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            250,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            44,
+            211,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "그림과 같은 직사각형 모양의 나무판 위에 한 변이 $7 cm$이 정사각형 모양의 타일을 붙이려고 합니다. 타일을 빈틈없이 겹치지 않게 이어 붙인다면 타일은 모두 몇 장이 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_02_00040_19630.png",
+  "id": "00040_19630",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사각형의 네 각의 크기의 합은 $ 360^{\\circ} $ 입니다. 이를 이용하여 다음 도형 안에 있는 각의 크기의 합을 구하면 무엇입니까? ① $ 360^{\\circ} $ ② $ 720^{\\circ} $ ③ $ 1080^{\\circ} $ ④ $ 1440^{\\circ} $ ⑤ $ 1800^{\\circ} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            680,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            75,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            74,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            190,
+            82,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            212,
+            81,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            234,
+            82,
+            254
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            144,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            682,
+            24
+          ],
+          "text": "사각형의 네 각의 크기의 합은 $ 360^{\\circ} $ 입니다. 이를 이용하여 다음 도형 안에 있는 각의 크기의 합을 구하면 무엇입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            136,
+            96,
+            255
+          ],
+          "text": "① $ 360^{\\circ} $ ② $ 720^{\\circ} $ ③ $ 1080^{\\circ} $ ④ $ 1440^{\\circ} $ ⑤ $ 1800^{\\circ} $"
+        }
+      ]
+    }
+  ]
+}

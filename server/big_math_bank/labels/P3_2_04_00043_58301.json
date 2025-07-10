@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00043_58301.png",
+  "id": "00043_58301",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{4}{4} $를 수직선 위에 나타내려고 합니다. 물음에 답하시오. (1) $ \\frac{4}{4} $는 $ \\frac{1}{4} $이 몇 개입니까? (2) 위의 수직선에 $ \\frac{4}{4} $인 곳을 찾아 점($\\bullet$)으로 표시하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            337,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            107,
+            188,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            351,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            51,
+            320,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            339,
+            37
+          ],
+          "text": "$ \\frac{4}{4} $를 수직선 위에 나타내려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            106,
+            353,
+            182
+          ],
+          "text": "(1) $ \\frac{4}{4} $는 $ \\frac{1}{4} $이 몇 개입니까? (2) 위의 수직선에 $ \\frac{4}{4} $인 곳을 찾아 점($\\bullet$)으로 표시하시오."
+        }
+      ]
+    }
+  ]
+}

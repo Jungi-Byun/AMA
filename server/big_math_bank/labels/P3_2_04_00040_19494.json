@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00040_19494.png",
+  "id": "00040_19494",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 대분수 $2\\frac{3}{5}$을 가분수로 바르게 나타낸 것은 어느 것입니까?  ① $\\frac{6}{5}$    ② $\\frac{10}{5}$    ③ $\\frac{13}{5}$    ④ $\\frac{23}{5}$    ⑤ $\\frac{15}{10}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            409,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            63,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            72,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            125,
+            72,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            72,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            208,
+            72,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            411,
+            243
+          ],
+          "text": "다음 중 대분수 $2\\frac{3}{5}$을 가분수로 바르게 나타낸 것은 어느 것입니까?  ① $\\frac{6}{5}$    ② $\\frac{10}{5}$    ③ $\\frac{13}{5}$    ④ $\\frac{23}{5}$    ⑤ $\\frac{15}{10}$"
+        }
+      ]
+    }
+  ]
+}

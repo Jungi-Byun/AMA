@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_01_00040_17786.png",
+  "id": "00040_17786",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연수는 줄넘기를 어제는 $235$번, 오늘은 $341$번 하였습니다. 연수가 어제와 오늘 한 줄넘기는 모두 몇 번입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            639,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            641,
+            21
+          ],
+          "text": "연수는 줄넘기를 어제는 $235$번, 오늘은 $341$번 하였습니다. 연수가 어제와 오늘 한 줄넘기는 모두 몇 번입니까?"
+        }
+      ]
+    }
+  ]
+}

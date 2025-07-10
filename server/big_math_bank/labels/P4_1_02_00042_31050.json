@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_31050.png",
+  "id": "00042_31050",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "세 각의 크기가 각각 85도, 120도, 45도인 사각형에서 각의 크기가 표시되어 있지 않은 꼭짓점에서 대각선을 그리면 이 각의 크기가 40도, 원 문자 ㄱ으로 나뉘는 사각형",
+      "question_text": "사각형을 두 개의 삼각형으로 나눈 것입니다. 각 ㉠의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            417,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            156,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            419,
+            22
+          ],
+          "text": "사각형을 두 개의 삼각형으로 나눈 것입니다. 각 ㉠의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

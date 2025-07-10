@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_02_00043_35109.png",
+  "id": "00043_35109",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102010",
+      "question_topic_name": "직사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠과 ㉡에 알맞은 수의 합을 구하시오.  ㆍ직각삼각형은 각이 $\\boxed{\\phantom{(}㉠\\phantom{)}}$개입니다. ㆍ직사각형은 직각1이 $\\boxed{\\phantom{(}㉡\\phantom{)}}$2개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26.81,
+            27.71,
+            226.69,
+            50.24
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29.26,
+            54.34,
+            226.28,
+            71.54
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.39,
+            0.27,
+            232.02,
+            72.36
+          ],
+          "text": "㉠과 ㉡에 알맞은 수의 합을 구하시오.  ㆍ직각삼각형은 각이 $\\boxed{\\phantom{(}㉠\\phantom{)}}$개입니다. ㆍ직사각형은 직각1이 $\\boxed{\\phantom{(}㉡\\phantom{)}}$2개입니다."
+        }
+      ]
+    }
+  ]
+}

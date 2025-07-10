@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_54557.png",
+  "id": "00042_54557",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수조에 물을 ㉮ 그릇으로 $4$번 부은 후 ㉯ 그릇으로 몇 번 덜어 내었더니 남아 있는 물이 $ 800\\mathrm{mL} $였습니다. ㉯ 그릇으로 몇 번 덜어 냈습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            255,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            21
+          ],
+          "text": "수조에 물을 ㉮ 그릇으로 $4$번 부은 후 ㉯ 그릇으로 몇 번 덜어 내었더니 남아 있는 물이 $ 800\\mathrm{mL} $였습니다. ㉯ 그릇으로 몇 번 덜어 냈습니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53574.png",
+  "id": "00043_53574",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "지름이 8 cm인 왼쪽 원 문자 ㄱ과 지름이 14 cm인 오른쪽 원 문자 ㄴ이 한 지점에서 만나며, 선분 ㄱㄴ이 연결된 평면도형",
+      "question_text": "다음 그림에서 선분 ㄱㄴ은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            255,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            31,
+            186,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            257,
+            21
+          ],
+          "text": "다음 그림에서 선분 ㄱㄴ은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

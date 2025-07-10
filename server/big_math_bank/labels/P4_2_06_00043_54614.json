@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_06_00043_54614.png",
+  "id": "00043_54614",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206004",
+      "question_topic_name": "대각선의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㄱㄷ이 있고 선분 ㄱㄹ, 선분 ㄴㅁ, 선분 ㄷㅂ의 교점이 ㅅ인 정육각형 ㄱㄴㄷㄹㅁㅂ",
+      "question_text": "정삼각형 $6$개를 붙여 정육각형을 만들었습니다. 선분 ㄱㄴ과 선분 ㄱㄷ의 길이의 합이$ 5 cm$일 때, 이 정육각형에 그을 수 있는 모든 대각선의 길이의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            188,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            46,
+            151,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "정삼각형 $6$개를 붙여 정육각형을 만들었습니다. 선분 ㄱㄴ과 선분 ㄱㄷ의 길이의 합이$ 5 cm$일 때, 이 정육각형에 그을 수 있는 모든 대각선의 길이의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

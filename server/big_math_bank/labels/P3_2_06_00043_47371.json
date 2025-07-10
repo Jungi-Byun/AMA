@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_06_00043_47371.png",
+  "id": "00043_47371",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준서네 모둠 학생들이 좋아하는 음식을 조사하여 나타낸 표입니다. 혜윤이가 좋아하는 음식은 무엇입니까? <table border> <caption>좋아하는 음식별 학생 수</caption>   <tbody>     <tr>       <td >음식</td>       <td>햄버거</td>       <td>피자</td>       <td>치킨</td>       <td>떡볶이</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수(명)</td>       <td>$4$</td>       <td>$3$</td>       <td>$3$</td>       <td>$2$</td>       <td>$12$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            619,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92.78,
+            253.03,
+            255.28,
+            275.53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25.28,
+            284.28,
+            322.78,
+            350.53
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            41.53,
+            30.53,
+            305.28,
+            238.03
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.53,
+            0,
+            620.28,
+            18.03
+          ],
+          "text": "준서네 모둠 학생들이 좋아하는 음식을 조사하여 나타낸 표입니다. 혜윤이가 좋아하는 음식은 무엇입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            25.28,
+            253.03,
+            324.03,
+            350.53
+          ],
+          "text": "<table border> <caption>좋아하는 음식별 학생 수</caption>   <tbody>     <tr>       <td >음식</td>       <td>햄버거</td>       <td>피자</td>       <td>치킨</td>       <td>떡볶이</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수(명)</td>       <td>$4$</td>       <td>$3$</td>       <td>$3$</td>       <td>$2$</td>       <td>$12$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

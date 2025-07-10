@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_01_00043_32214.png",
+  "id": "00043_32214",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101005",
+      "question_topic_name": "천만 단위 수의 각 자리의 숫자와 나타내는 값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수나 말을 써넣으시오. $59307214$에서 숫자 $3$은 $\\square$의 자리 숫자이고, $\\square$을 나타냅니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            233,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            479,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            481,
+            50
+          ],
+          "text": "$\\square$ 안에 알맞은 수나 말을 써넣으시오. $59307214$에서 숫자 $3$은 $\\square$의 자리 숫자이고, $\\square$을 나타냅니다."
+        }
+      ]
+    }
+  ]
+}

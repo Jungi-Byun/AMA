@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00042_53205.png",
+  "id": "00042_53205",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 자전거 공장에서는 $ 3 $일 동안 총 $ 20 $시간씩 일을 합니다. 한 시간 동안 자전거를 $ 58 $대 만든다면 이 공장에서 $ 3 $일 동안 만들 수 있는 자전거는 모두 몇 대입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            153,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "어느 자전거 공장에서는 $ 3 $일 동안 총 $ 20 $시간씩 일을 합니다. 한 시간 동안 자전거를 $ 58 $대 만든다면 이 공장에서 $ 3 $일 동안 만들 수 있는 자전거는 모두 몇 대입니까?"
+        }
+      ]
+    }
+  ]
+}

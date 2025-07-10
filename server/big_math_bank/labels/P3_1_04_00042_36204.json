@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_04_00042_36204.png",
+  "id": "00042_36204",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 30 \\times 4 $를 나타내는 방법으로 틀린 것은 어느 것입니까?  ① $30$의 $4$배 ② $40+40+40$ ③ $30$씩 $4$묶음 ④ $30+30+30+30$ ⑤ $30$과 $4$의 곱",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            329,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            99,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            112,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            112,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            137,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            116,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            331,
+            130
+          ],
+          "text": "$ 30 \\times 4 $를 나타내는 방법으로 틀린 것은 어느 것입니까?  ① $30$의 $4$배 ② $40+40+40$ ③ $30$씩 $4$묶음 ④ $30+30+30+30$ ⑤ $30$과 $4$의 곱"
+        }
+      ]
+    }
+  ]
+}

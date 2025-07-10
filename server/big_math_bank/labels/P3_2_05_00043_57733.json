@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57733.png",
+  "id": "00043_57733",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산한 들이가 더 많은 것의 기호를 쓰시오. ㉠ $ 3 \\mathrm{~L} 300 \\mathrm{~mL}+2 \\mathrm{~L} 600 \\mathrm{~mL} $㉡ $ 8 \\mathrm{~L} 400 \\mathrm{~mL}-2 \\mathrm{~L} 300 \\mathrm{~mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            262,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            21,
+            196,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            54,
+            196,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            272,
+            79
+          ],
+          "text": "계산한 들이가 더 많은 것의 기호를 쓰시오. ㉠ $ 3 \\mathrm{~L} 300 \\mathrm{~mL}+2 \\mathrm{~L} 600 \\mathrm{~mL} $㉡ $ 8 \\mathrm{~L} 400 \\mathrm{~mL}-2 \\mathrm{~L} 300 \\mathrm{~mL} $"
+        }
+      ]
+    }
+  ]
+}

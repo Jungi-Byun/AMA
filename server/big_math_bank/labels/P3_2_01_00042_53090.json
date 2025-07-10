@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_01_00042_53090.png",
+  "id": "00042_53090",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $ 20 \\times 70 $ 과 곱이 같은 것은 어느 것입니까? ① $ 2 \\times 70 $ ② $ 20 \\times 7 $ ③ $ 2 \\times 7 $ ④ $ 2 \\times 7 \\times 10 $ ⑤ $ 2 \\times 7 \\times 100 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            299,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            77,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            78,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            68,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            90,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            100,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            0,
+            300.17,
+            130.5
+          ],
+          "text": "다음 중 $ 20 \\times 70 $ 과 곱이 같은 것은 어느 것입니까? ① $ 2 \\times 70 $ ② $ 20 \\times 7 $ ③ $ 2 \\times 7 $ ④ $ 2 \\times 7 \\times 10 $ ⑤ $ 2 \\times 7 \\times 100 $"
+        }
+      ]
+    }
+  ]
+}

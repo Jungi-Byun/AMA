@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52348.png",
+  "id": "00043_52348",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형 ㄱㄴㄷㄹ의 선분 ㄱㄹ과 선분 ㄷㄹ은 점선으로 나타내고, 선분 ㄱㄷ을 접는 선으로 하여 접힌 모양의 색칠된 삼각형 ㄱㅂㄷ과 각 ㄱㄷㄴ의 크기가 29도인 삼각형 ㄱㄴㄷ이 있을 때, 선분 ㄱㅂ과 선분 ㄴㄷ의 교점이 ㅁ이고 선분 ㅁㄷ은 점선으로 나타내고, 각 ㄱㅁㄴ의 크기를 원 문자 ㄱ으로 나타내고 접힌 것 보다 연한 색으로 색칠 된 삼각형 ㄱㄴㅁ",
+      "question_text": "다음 그림은 직사각형 모양의 종이를 선분 ㄱㄷ을 접는 선으로 하여 접은 것입니다. ㉠의 각도는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            634,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            40,
+            179,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            636,
+            24
+          ],
+          "text": "다음 그림은 직사각형 모양의 종이를 선분 ㄱㄷ을 접는 선으로 하여 접은 것입니다. ㉠의 각도는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

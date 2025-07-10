@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_02_00043_35060.png",
+  "id": "00043_35060",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직각삼각형에 대한 설명으로 옳은 것은 어느 것입니까? ①세 변의 길이가 모두 같습니다. ②세 각의 크기가 모두 같습니다. ③두 각이 직각인 삼각형입니다. ④한 각이 직각인 삼각형입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            330,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            215,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            215,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            211,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            211,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            332,
+            108
+          ],
+          "text": "직각삼각형에 대한 설명으로 옳은 것은 어느 것입니까? ①세 변의 길이가 모두 같습니다. ②세 각의 크기가 모두 같습니다. ③두 각이 직각인 삼각형입니다. ④한 각이 직각인 삼각형입니다."
+        }
+      ]
+    }
+  ]
+}

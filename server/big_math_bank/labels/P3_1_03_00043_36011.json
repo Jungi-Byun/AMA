@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36011.png",
+  "id": "00043_36011",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "아버지께서 사탕 $45$개를 주셨습니다. 이것을 $5$개의 상자에 똑같이 나누어 담아서 포장을 하려고 합니다. 상자 한 개에 넣을 사탕은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            53,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            40
+          ],
+          "text": "아버지께서 사탕 $45$개를 주셨습니다. 이것을 $5$개의 상자에 똑같이 나누어 담아서 포장을 하려고 합니다. 상자 한 개에 넣을 사탕은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

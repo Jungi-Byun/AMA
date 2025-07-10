@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_03_00043_35582.png",
+  "id": "00043_35582",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$459\\div32$는 얼마인지 알아보시오. (1) 표를 보고 $459\\div32$의 몫을 바르게 어림했으면 $\\bigcirc$표, 그렇지 않으면 $\\times$표 하시오.  (2) 위 (1)에서 어림한 몫을 이용하여 $\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{r} \\square~~~\\\\32{\\overline{\\smash{\\big)} 459\\phantom{)}}}\\\\ 32~~~ \\\\ \\hline    \\square~~ \\end{array}  \\Rightarrow$ $ \\begin{array}{r} 1\\square\\\\32{\\overline{\\smash{\\big)} 459\\phantom{)}}}\\\\ 32~~~ \\\\ \\hline   139 \\\\ \\square  \\\\ \\hline \\square \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            205,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            481,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            204,
+            411,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            228,
+            111,
+            333
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            155,
+            228,
+            245,
+            391
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            124,
+            259,
+            141,
+            272
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            48,
+            294,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            483,
+            41
+          ],
+          "text": "$459\\div32$는 얼마인지 알아보시오. (1) 표를 보고 $459\\div32$의 몫을 바르게 어림했으면 $\\bigcirc$표, 그렇지 않으면 $\\times$표 하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            203,
+            413,
+            393
+          ],
+          "text": "(2) 위 (1)에서 어림한 몫을 이용하여 $\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{r} \\square~~~\\\\32{\\overline{\\smash{\\big)} 459\\phantom{)}}}\\\\ 32~~~ \\\\ \\hline    \\square~~ \\end{array}  \\Rightarrow$ $ \\begin{array}{r} 1\\square\\\\32{\\overline{\\smash{\\big)} 459\\phantom{)}}}\\\\ 32~~~ \\\\ \\hline   139 \\\\ \\square  \\\\ \\hline \\square \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

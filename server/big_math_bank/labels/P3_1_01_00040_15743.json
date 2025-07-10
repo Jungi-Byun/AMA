@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_01_00040_15743.png",
+  "id": "00040_15743",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희재는 줄넘기를 어제 $265$회, 오늘 $257$회 했습니다. 어제와 오늘 한 줄넘기는 모두 몇 회인지 수 모형으로 알아보시오.  (1) 낱개 모형끼리 더하면 십 모형 몇 개와 낱개 모형 몇 개입니까? (2) 십 모형끼리 더한 것은 백 모형 몇 개와 십 모형 몇 개가 됩니까? (3) 백 모형끼리 더하면 몇 개입니까? (4) $265+257$은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            613,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            87,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            127,
+            389,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            149,
+            399,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            171,
+            229,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            193,
+            182,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            42,
+            331,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            615,
+            40
+          ],
+          "text": "희재는 줄넘기를 어제 $265$회, 오늘 $257$회 했습니다. 어제와 오늘 한 줄넘기는 모두 몇 회인지 수 모형으로 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            126,
+            401,
+            210
+          ],
+          "text": "(1) 낱개 모형끼리 더하면 십 모형 몇 개와 낱개 모형 몇 개입니까? (2) 십 모형끼리 더한 것은 백 모형 몇 개와 십 모형 몇 개가 됩니까? (3) 백 모형끼리 더하면 몇 개입니까? (4) $265+257$은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

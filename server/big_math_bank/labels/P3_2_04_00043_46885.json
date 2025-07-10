@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00043_46885.png",
+  "id": "00043_46885",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. (1) 가가 나타내는 분수는 $\\frac{\\square}{\\square}$입니다.(2) 나가 나타내는 분수는 $\\frac{\\square}{\\square}$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            78,
+            264,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            127,
+            286,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            29,
+            305,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            21
+          ],
+          "text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            77,
+            288,
+            172
+          ],
+          "text": "(1) 가가 나타내는 분수는 $\\frac{\\square}{\\square}$입니다.(2) 나가 나타내는 분수는 $\\frac{\\square}{\\square}$입니다."
+        }
+      ]
+    }
+  ]
+}

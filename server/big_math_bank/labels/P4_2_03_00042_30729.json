@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_2_03_00042_30729.png",
+  "id": "00042_30729",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1$이 $5$개, $0.1$이 $16$개, $0.01$이 $33$개인 수의 소수 첫째 자리 숫자가 나타내는 수를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            508,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            511,
+            21
+          ],
+          "text": "$1$이 $5$개, $0.1$이 $16$개, $0.01$이 $33$개인 수의 소수 첫째 자리 숫자가 나타내는 수를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

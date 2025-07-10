@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_04_00043_52360.png",
+  "id": "00043_52360",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빛은 곧게 나아가다가 거울에 닿으면 앞으로 나아가지 못하고 다시 되돌아 나옵니다. 이것을 빛의 반사라고 하고 빛이 거울로 들어가는 각인 입사각과 거울에서 반사되는 각인 반사각의 크기는 같습니다. 다음과 같이 평행한 두 거울에 서로 다른 빛이 거울에 들어갔다가 반사될 때, ㉠의 각도는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            794,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            166,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            39,
+            83,
+            255,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            62
+          ],
+          "text": "빛은 곧게 나아가다가 거울에 닿으면 앞으로 나아가지 못하고 다시 되돌아 나옵니다. 이것을 빛의 반사라고 하고 빛이 거울로 들어가는 각인 입사각과 거울에서 반사되는 각인 반사각의 크기는 같습니다. 다음과 같이 평행한 두 거울에 서로 다른 빛이 거울에 들어갔다가 반사될 때, ㉠의 각도는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

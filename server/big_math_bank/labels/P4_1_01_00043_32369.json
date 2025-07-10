@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_01_00043_32369.png",
+  "id": "00043_32369",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101001",
+      "question_topic_name": "1000이 10개인 수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "돈은 모두 얼마인지 알아보시오.  $1000$원짜리 지폐가 $8$장이면 $\\square$ 원입니다. $1000$원짜리 지폐가 $10$장이면 $\\square$ 원입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            200,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            109,
+            279,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            221,
+            285,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            26,
+            322,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            138,
+            322,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.21,
+            0.89,
+            199.65,
+            15.95
+          ],
+          "text": "돈은 모두 얼마인지 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.21,
+            110.23,
+            278.89,
+            129.25
+          ],
+          "text": "$1000$원짜리 지폐가 $8$장이면 $\\square$ 원입니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            222.74,
+            284.43,
+            242.55
+          ],
+          "text": "$1000$원짜리 지폐가 $10$장이면 $\\square$ 원입니다."
+        }
+      ]
+    }
+  ]
+}

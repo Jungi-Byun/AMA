@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_01_00040_27645.png",
+  "id": "00040_27645",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201001",
+      "question_topic_name": "올림 없는 (세 자리 수)x(한 자리 수) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$123×3$과 같은 곱셈으로 나타낼 수 있는 경우를 모두 고르시오. ①한 자루에 $120$원 하는 연필을 3자루 샀을 때의 가격 ②하루에 줄넘기를 $123$번씩 $3$일 동안 한 총 횟수 ③귤이 $123$개씩 들어 있는 상자가 $2$개 있을 때의 귤의 개수 ④사과가 $123$개씩 들어 있는 상자가 $3$개 있을 때의 사과의 개수 ⑤구슬이 $123$개씩 들어 있는 상자가 $4$개 있을 때의 구슬의 개수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            370,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            333,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            304,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            362,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            387,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            388,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            130
+          ],
+          "text": "$123×3$과 같은 곱셈으로 나타낼 수 있는 경우를 모두 고르시오. ①한 자루에 $120$원 하는 연필을 3자루 샀을 때의 가격 ②하루에 줄넘기를 $123$번씩 $3$일 동안 한 총 횟수 ③귤이 $123$개씩 들어 있는 상자가 $2$개 있을 때의 귤의 개수 ④사과가 $123$개씩 들어 있는 상자가 $3$개 있을 때의 사과의 개수 ⑤구슬이 $123$개씩 들어 있는 상자가 $4$개 있을 때의 구슬의 개수"
+        }
+      ]
+    }
+  ]
+}

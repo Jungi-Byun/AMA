@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00040_38280.png",
+  "id": "00040_38280",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중에서 꺾은선그래프와 물결선을 사용한 꺾은선그래프의 차이점이 아닌 것은 어느 것입니까?  ①세로 눈금 한 칸의 크기가 다릅니다. ②물결선을 사용한 꺾은선그래프는 변화하는 모양을 뚜렷이 나타낼 수 있습니다. ③물결선을 사용한 꺾은선그래프는 필요 없는 부분을 물결선으로 줄여서 그립니다. ④가로 눈금 한 칸의 크기가 다릅니다. ⑤물결선을 사용한 꺾은선그래프가 변화하는 모양을 더 잘 볼 수 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            573,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            244,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            484,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            497,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            244,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            450,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            575,
+            130
+          ],
+          "text": "다음 중에서 꺾은선그래프와 물결선을 사용한 꺾은선그래프의 차이점이 아닌 것은 어느 것입니까?  ①세로 눈금 한 칸의 크기가 다릅니다. ②물결선을 사용한 꺾은선그래프는 변화하는 모양을 뚜렷이 나타낼 수 있습니다. ③물결선을 사용한 꺾은선그래프는 필요 없는 부분을 물결선으로 줄여서 그립니다. ④가로 눈금 한 칸의 크기가 다릅니다. ⑤물결선을 사용한 꺾은선그래프가 변화하는 모양을 더 잘 볼 수 있습니다."
+        }
+      ]
+    }
+  ]
+}

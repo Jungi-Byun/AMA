@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_01_00043_22453.png",
+  "id": "00043_22453",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201004",
+      "question_topic_name": "분모가 같은 (진분수)-(진분수) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "차가 가장 큰 것은 어느 것입니까?  ① $ \\frac{10}{17}-\\frac{4}{17} $ ② $ \\frac{9}{17}-\\frac{1}{17} $ ③ $ \\frac{8}{17}-\\frac{5}{17} $ ④ $ \\frac{7}{17}-\\frac{3}{17} $ ⑤ $ \\frac{6}{17}-\\frac{1}{17} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            212,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            111,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            111,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            111,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            111,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            111,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            214,
+            224
+          ],
+          "text": "차가 가장 큰 것은 어느 것입니까?  ① $ \\frac{10}{17}-\\frac{4}{17} $ ② $ \\frac{9}{17}-\\frac{1}{17} $ ③ $ \\frac{8}{17}-\\frac{5}{17} $ ④ $ \\frac{7}{17}-\\frac{3}{17} $ ⑤ $ \\frac{6}{17}-\\frac{1}{17} $"
+        }
+      ]
+    }
+  ]
+}

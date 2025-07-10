@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38921.png",
+  "id": "00043_38921",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로로 왼쪽부터 우체국, 학교, 서점이 차례로 있고 우체국과 학교까지 거리는 2 km이고 학교에서 서점까지 거리는 4분의 3 km인 그림",
+      "question_text": "학교에서 우체국까지 가는 거리는 학교에서 서점까지 가는 거리보다 몇 $km$ 더 멉니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            507,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            26,
+            323,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            509,
+            20
+          ],
+          "text": "학교에서 우체국까지 가는 거리는 학교에서 서점까지 가는 거리보다 몇 $km$ 더 멉니까?"
+        }
+      ]
+    }
+  ]
+}

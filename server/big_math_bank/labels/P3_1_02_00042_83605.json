@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_83605.png",
+  "id": "00042_83605",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형 모양의 색종이를 세로 방향, 가로 방향, 대각선 방향으로 반으로 접는 과정을 설명한 그림으로, 첫 번째는 직사각형 모양의 색종이의 가운데 세로 점선이 표시되어 있고, 두 번째는 첫 번째에서 세로 방향으로 색종이를 한 번 접고 가운데 가로 점선이 표시된 모양, 세 번째는 두 번째에서 접은 색종이를 가로 방향으로 접고 대각선 점선이 표시된 모양, 네 번째는 세 번째에서 접었던 색종이를 대각선 방향으로 접은 모양이 있는 그림과 각각의 그림 사이에는 총 3개의 오른쪽 방향의 화살표가 있는 그림",
+      "question_text": "색종이를 그림과 같이 세 번 접었다 펼친 다음, 접힌 선을 따라 가위로 오리면 어떤 도형이 몇 개 만들어집니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            642,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            277,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            644,
+            22
+          ],
+          "text": "색종이를 그림과 같이 세 번 접었다 펼친 다음, 접힌 선을 따라 가위로 오리면 어떤 도형이 몇 개 만들어집니까?"
+        }
+      ]
+    }
+  ]
+}

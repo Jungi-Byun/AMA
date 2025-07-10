@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00043_54064.png",
+  "id": "00043_54064",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204014",
+      "question_topic_name": "평행사변형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "점 ㄴ이 좌측인 변 ㄴㄷ이 밑변이고 각 ㄱ의 크기가 50도이고 각 ㄴ의 크기가 130도이고 선분 ㄱㄹ의 길이가 11 cm이고 선분 ㄷㄹ의 길이가 10 cm인 평행사변형 ㄱㄴㄷㄹ",
+      "question_text": "평행사변형입니다. 물음에 답하시오. (1) 각 $ㄴㄷㄹ$의 크기는 몇 도입니까? (2) 네 변의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            225,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            134,
+            226,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            156,
+            196,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            32,
+            209,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            0.41,
+            225.74,
+            17.05
+          ],
+          "text": "평행사변형입니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            134.17,
+            225.74,
+            172.57
+          ],
+          "text": "(1) 각 $ㄴㄷㄹ$의 크기는 몇 도입니까? (2) 네 변의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

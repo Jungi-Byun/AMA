@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_01_00043_39264.png",
+  "id": "00043_39264",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201002",
+      "question_topic_name": "분모가 같고 합이 1보다 큰 (진분수)+(진분수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 읽고 <보기>에서 ‘신기한 분수’의 합을 구하시오. 보기 $\\frac{4}{16},\\frac{7}{16},\\frac{8}{16},\\frac{12}{16}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            334,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            52,
+            200,
+            102,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            110,
+            241,
+            252,
+            275
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            23,
+            328,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.93,
+            0.08,
+            335.8,
+            16.67
+          ],
+          "text": "다음을 읽고 <보기>에서 ‘신기한 분수’의 합을 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            38,
+            199,
+            332,
+            299
+          ],
+          "text": "보기 $\\frac{4}{16},\\frac{7}{16},\\frac{8}{16},\\frac{12}{16}$"
+        }
+      ]
+    }
+  ]
+}

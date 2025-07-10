@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_01_00042_27734.png",
+  "id": "00042_27734",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\bigcirc$ 안에 $>, =, <$ 를 알맞게 써넣으시오.  조가 $3$, 억이 $160$인 수 $\\bigcirc$ 삼조 육십억 구천백십만",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            230,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            156,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            54,
+            208,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.28,
+            0.36,
+            267.28,
+            86.36
+          ],
+          "text": "$\\bigcirc$ 안에 $>, =, <$ 를 알맞게 써넣으시오.  조가 $3$, 억이 $160$인 수 $\\bigcirc$ 삼조 육십억 구천백십만"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00042_55321.png",
+  "id": "00042_55321",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "막대그래프보다 꺾은선그래프로 나타내기에 알맞은 것을 모두 고르시오. ① 월별 나의 수학 점수 ② 곡식의 종류별 생산량 ③ 우리 집 한달 생활비의 쓰임새 ④ 매년 과일 생산량의 변화 ⑤ 도시별 수돗물의 사용량",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            427,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            158,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            167,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            212,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            184,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            180,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            429,
+            130
+          ],
+          "text": "막대그래프보다 꺾은선그래프로 나타내기에 알맞은 것을 모두 고르시오. ① 월별 나의 수학 점수 ② 곡식의 종류별 생산량 ③ 우리 집 한달 생활비의 쓰임새 ④ 매년 과일 생산량의 변화 ⑤ 도시별 수돗물의 사용량"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_01_00043_32307.png",
+  "id": "00043_32307",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 $0$부터 $9$까지의 어느 숫자를 넣어도 됩니다. 네 수의 크기를 비교하여 큰 수부터 차례로 기호를 쓰시오. ㉠ $ 897 \\square 02 \\square \\square 185 $ ㉡ $ 8996 \\square 5154 \\square \\square $ ㉢ $ 89904 \\square 8 \\square \\square 53 $ ㉣ $ 8 \\square 66420 \\square \\square 74 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            638,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            264,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            54,
+            274,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            647,
+            79
+          ],
+          "text": "$\\square$ 안에 $0$부터 $9$까지의 어느 숫자를 넣어도 됩니다. 네 수의 크기를 비교하여 큰 수부터 차례로 기호를 쓰시오. ㉠ $ 897 \\square 02 \\square \\square 185 $ ㉡ $ 8996 \\square 5154 \\square \\square $ ㉢ $ 89904 \\square 8 \\square \\square 53 $ ㉣ $ 8 \\square 66420 \\square \\square 74 $"
+        }
+      ]
+    }
+  ]
+}

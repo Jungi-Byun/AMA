@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_58226.png",
+  "id": "00043_58226",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉮와 ㉯의 무게의 합과 차는 각각 몇 $kg$ 몇 $g$인지 구하시오. ㉮ $43200g$ ㉯ $21kg 800g$ 합 ( )차 ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            350,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            255,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            116,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            116,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            359,
+            99
+          ],
+          "text": "㉮와 ㉯의 무게의 합과 차는 각각 몇 $kg$ 몇 $g$인지 구하시오. ㉮ $43200g$ ㉯ $21kg 800g$ 합 ( )차 ( )"
+        }
+      ]
+    }
+  ]
+}

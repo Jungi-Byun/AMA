@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_01_00042_53142.png",
+  "id": "00042_53142",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산에서 ㉮에 알맞은 수를 구하는 식으로 바른 것은 어느 것입니까? $ \\begin{array}{r}25 \\\\ \\times  37 \\\\ \\hline \\square \\\\  \\square \\\\  \\hline \\square \\\\\\end{array} $  ①25×7 ②25×30 ③25×3 ④(25×7)+(25×3) ⑤(25×7)+(25×30)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            405,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            23,
+            72,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            76,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            85,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            190,
+            76,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            212,
+            133,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            234,
+            143,
+            254
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            407,
+            255
+          ],
+          "text": "계산에서 ㉮에 알맞은 수를 구하는 식으로 바른 것은 어느 것입니까? $ \\begin{array}{r}25 \\\\ \\times  37 \\\\ \\hline \\square \\\\  \\square \\\\  \\hline \\square \\\\\\end{array} $  ①25×7 ②25×30 ③25×3 ④(25×7)+(25×3) ⑤(25×7)+(25×30)"
+        }
+      ]
+    }
+  ]
+}

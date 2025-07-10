@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_39517.png",
+  "id": "00043_39517",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 각각 $ 10 \\frac{5}{8} \\mathrm{~cm}, 9 \\frac{7}{8} \\mathrm{~cm} $인 색 테이프를 겹치게 이어 붙였더니 전체 길이가 $ 18 \\frac{6}{8} \\mathrm{~cm} $가 되었습니다. 겹쳐진 부분의 길이는 몇 $\\mathrm{~cm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            800,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            38,
+            65,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            55
+          ],
+          "text": "길이가 각각 $ 10 \\frac{5}{8} \\mathrm{~cm}, 9 \\frac{7}{8} \\mathrm{~cm} $인 색 테이프를 겹치게 이어 붙였더니 전체 길이가 $ 18 \\frac{6}{8} \\mathrm{~cm} $가 되었습니다. 겹쳐진 부분의 길이는 몇 $\\mathrm{~cm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

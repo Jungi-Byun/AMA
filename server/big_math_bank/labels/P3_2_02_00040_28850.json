@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00040_28850.png",
+  "id": "00040_28850",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$5 \\times \\square = $65$에서 \\square 안의 수를 알아보는 식은 어느 것입니까? ①$65 + 5$ ②$65 - 5$ ③$65 × 5$ ④$65 ÷ 5$ ⑤$5 × 13$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            362,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            83,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            82,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            84,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            84,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            81,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            364,
+            130
+          ],
+          "text": "$5 \\times \\square = $65$에서 \\square 안의 수를 알아보는 식은 어느 것입니까? ①$65 + 5$ ②$65 - 5$ ③$65 × 5$ ④$65 ÷ 5$ ⑤$5 × 13$"
+        }
+      ]
+    }
+  ]
+}

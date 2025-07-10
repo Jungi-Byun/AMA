@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_02_00043_35184.png",
+  "id": "00043_35184",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형이 정사각형이 아닌 이유를 찾아 기호를 쓰시오.  ㉠ 네 각이 모두 직각이 아닙니다. ㉡ 네 변이 모두 같지 않습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            313,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.5,
+            101.96,
+            213.5,
+            121.96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.5,
+            123.96,
+            202.5,
+            143.96
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            21,
+            135,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.5,
+            0.96,
+            315.5,
+            17.96
+          ],
+          "text": "도형이 정사각형이 아닌 이유를 찾아 기호를 쓰시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            23.5,
+            100.5,
+            215.5,
+            144.5
+          ],
+          "text": "㉠ 네 각이 모두 직각이 아닙니다. ㉡ 네 변이 모두 같지 않습니다."
+        }
+      ]
+    }
+  ]
+}

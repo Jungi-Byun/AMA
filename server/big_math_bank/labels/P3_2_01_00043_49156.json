@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49156.png",
+  "id": "00043_49156",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201001",
+      "question_topic_name": "올림 없는 (세 자리 수)x(한 자리 수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 $3$배 한 수를 구하시오.  $100$이 $3$개, $10$이 $1$개, $1$이 $2$개인 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            186,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            229,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            225,
+            53
+          ],
+          "text": "다음을 $3$배 한 수를 구하시오.  $100$이 $3$개, $10$이 $1$개, $1$이 $2$개인 수"
+        }
+      ]
+    }
+  ]
+}

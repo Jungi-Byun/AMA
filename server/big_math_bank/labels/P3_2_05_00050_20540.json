@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00050_20540.png",
+  "id": "00050_20540",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민아네 마을에서 다음과 같이 사과를 수확하였습니다. 이 사과를 한 상자에 $20 kg$ 담아 $15000$원씩 받고 모두 팔았습니다. 전체 수확량이 $3 t$일 때, 민아네 집에서 사과를 팔고 받은 돈은 얼마입니까? <table border> <caption><사과 수확량></caption>   <tbody>     <tr>       <td>가구</td>       <td>수확량($kg$)</td>     </tr>     <tr>       <td>민아네</td>       <td></td>     </tr>     <tr>       <td>재영이네</td>       <td>$580$</td>     </tr>     <tr>       <td>지민이네</td>       <td>$640$</td>     </tr>     <tr>       <td>혜수네</td>       <td>$820$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            341,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            86,
+            47,
+            171,
+            64
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            67,
+            239,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            184
+          ],
+          "text": "민아네 마을에서 다음과 같이 사과를 수확하였습니다. 이 사과를 한 상자에 $20 kg$ 담아 $15000$원씩 받고 모두 팔았습니다. 전체 수확량이 $3 t$일 때, 민아네 집에서 사과를 팔고 받은 돈은 얼마입니까? <table border> <caption><사과 수확량></caption>   <tbody>     <tr>       <td>가구</td>       <td>수확량($kg$)</td>     </tr>     <tr>       <td>민아네</td>       <td></td>     </tr>     <tr>       <td>재영이네</td>       <td>$580$</td>     </tr>     <tr>       <td>지민이네</td>       <td>$640$</td>     </tr>     <tr>       <td>혜수네</td>       <td>$820$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

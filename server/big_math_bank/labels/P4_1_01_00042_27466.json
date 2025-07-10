@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_1_01_00042_27466.png",
+  "id": "00042_27466",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억 단위 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 도시의 한 해 예산액이 $328423050000 $원입니다. 이 예산액에서 숫자 8은 어느 자리의 숫자이고, 얼마를 나타냅니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            717,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            719,
+            21
+          ],
+          "text": "어느 도시의 한 해 예산액이 $328423050000 $원입니다. 이 예산액에서 숫자 8은 어느 자리의 숫자이고, 얼마를 나타냅니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_06_00040_16278.png",
+  "id": "00040_16278",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경수, 현호, 하영이는 $ \\frac{2}{3} $를 각각 다음과 같이 나타내었습니다. 다음 중 바르게 말한 것은 어느 것입니까? ①현호만 바르게 나타내었습니다. ②하영이만 바르게 나타내었습니다. ③경수와 하영이가 바르게 나타내었습니다. ④현호와 하영이가 바르게 나타내었습니다. ⑤모두 바르게 나타내었습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            607,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            119,
+            220,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            141,
+            233,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            163,
+            275,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            185,
+            275,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            207,
+            207,
+            227
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            47,
+            317,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            609,
+            38
+          ],
+          "text": "경수, 현호, 하영이는 $ \\frac{2}{3} $를 각각 다음과 같이 나타내었습니다. 다음 중 바르게 말한 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            118,
+            277,
+            228
+          ],
+          "text": "①현호만 바르게 나타내었습니다. ②하영이만 바르게 나타내었습니다. ③경수와 하영이가 바르게 나타내었습니다. ④현호와 하영이가 바르게 나타내었습니다. ⑤모두 바르게 나타내었습니다."
+        }
+      ]
+    }
+  ]
+}

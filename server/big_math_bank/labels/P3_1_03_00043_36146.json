@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_03_00043_36146.png",
+  "id": "00043_36146",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "키를 머리의 길이로 나눈 몫을 두신지수라고 합니다. 예를 들어 키가 $45\\mathrm{cm}$이고 머리의 길이가 $9\\mathrm{cm}$인 인형의 두신지수는 $ 45 \\div 9 = 5$입니다.  다음을 보고 두신지수가 큰 인형부터 순서대로 기호를 쓰시오. <table border>   <tbody align=\"center\">     <tr>       <td>인형</td>       <td>㉮</td>       <td>㉯</td>       <td>㉰</td>       <td>㉱</td>     </tr>     <tr>       <td>키($\\mathrm{cm}$)</td>       <td>$25$</td>       <td>$49$</td>       <td>$56$</td>       <td>$48$</td>     </tr>     <tr>       <td>머리의 길이($\\mathrm{cm}$)</td>       <td>$5$</td>       <td>$7$</td>       <td>$7$</td>       <td>$8$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            792,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            368,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            16.23,
+            279.77,
+            226.23,
+            351.77
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            57,
+            172,
+            264
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            794,
+            41
+          ],
+          "text": "키를 머리의 길이로 나눈 몫을 두신지수라고 합니다. 예를 들어 키가 $45\\mathrm{cm}$이고 머리의 길이가 $9\\mathrm{cm}$인 인형의 두신지수는 $ 45 \\div 9 = 5$입니다.  다음을 보고 두신지수가 큰 인형부터 순서대로 기호를 쓰시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            279,
+            229,
+            352
+          ],
+          "text": "<table border>   <tbody align=\"center\">     <tr>       <td>인형</td>       <td>㉮</td>       <td>㉯</td>       <td>㉰</td>       <td>㉱</td>     </tr>     <tr>       <td>키($\\mathrm{cm}$)</td>       <td>$25$</td>       <td>$49$</td>       <td>$56$</td>       <td>$48$</td>     </tr>     <tr>       <td>머리의 길이($\\mathrm{cm}$)</td>       <td>$5$</td>       <td>$7$</td>       <td>$7$</td>       <td>$8$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

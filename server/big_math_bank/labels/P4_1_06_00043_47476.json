@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_06_00043_47476.png",
+  "id": "00043_47476",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민석이가 말한 수를 듣고 지수가 자기가 정한 규칙에 넣어 대답한 수를 기록한 표입니다. 표의 빈칸에 알맞은 수를 써넣으시오. <table border> <caption>Title</caption>   <tbody>     <tr>       <td>민석</td>       <td>2</td>       <td>3</td>       <td>5</td>       <td>8</td>       <td></td>     </tr>     <tr>       <td>지수</td>       <td>7</td>       <td>8</td>       <td>10</td>       <td></td>       <td>15</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            727,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            172,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            729,
+            68
+          ],
+          "text": "민석이가 말한 수를 듣고 지수가 자기가 정한 규칙에 넣어 대답한 수를 기록한 표입니다. 표의 빈칸에 알맞은 수를 써넣으시오. <table border> <caption>Title</caption>   <tbody>     <tr>       <td>민석</td>       <td>2</td>       <td>3</td>       <td>5</td>       <td>8</td>       <td></td>     </tr>     <tr>       <td>지수</td>       <td>7</td>       <td>8</td>       <td>10</td>       <td></td>       <td>15</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

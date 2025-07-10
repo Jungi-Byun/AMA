@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_01_00041_14658.png",
+  "id": "00041_14658",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숫자 $ 0, 1, 2, 3, 4, 5 $가 쓰여 있는 돌림판이 있습니다. 영호와 민지와 유나는 돌림판을 각각 세 번씩 돌려서 나온 숫자로 가장 큰 세 자리 수와 가장 작은 세 자리 수를 만들어 합을 구하는 놀이를 하였습니다. 각 사람에게 나온 숫자가 다음과 같을 때, 가장 큰 합을 구한 사람은 누구입니까? 또 그 합은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            762,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            760,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            269,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            67,
+            326,
+            283
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            62
+          ],
+          "text": "숫자 $ 0, 1, 2, 3, 4, 5 $가 쓰여 있는 돌림판이 있습니다. 영호와 민지와 유나는 돌림판을 각각 세 번씩 돌려서 나온 숫자로 가장 큰 세 자리 수와 가장 작은 세 자리 수를 만들어 합을 구하는 놀이를 하였습니다. 각 사람에게 나온 숫자가 다음과 같을 때, 가장 큰 합을 구한 사람은 누구입니까? 또 그 합은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

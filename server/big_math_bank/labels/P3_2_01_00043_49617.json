@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49617.png",
+  "id": "00043_49617",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 동네 수영장은 모두 $12$레인으로 되어 있습니다. $1$레인부터 $11$레인까지는 각 레인마다 수강생이 각각 $26$명씩 있고, 강사 선생님이 $1$명씩 있습니다. $12$레인에는 $14$명이 자유 수영을 하고 있습니다. 수영장에 있는 사람은 모두 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            576,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "어느 동네 수영장은 모두 $12$레인으로 되어 있습니다. $1$레인부터 $11$레인까지는 각 레인마다 수강생이 각각 $26$명씩 있고, 강사 선생님이 $1$명씩 있습니다. $12$레인에는 $14$명이 자유 수영을 하고 있습니다. 수영장에 있는 사람은 모두 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

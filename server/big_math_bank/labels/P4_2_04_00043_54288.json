@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00043_54288.png",
+  "id": "00043_54288",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204019",
+      "question_topic_name": "직사각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민규, 승혜, 도진이 중에서 바르게 말한 사람을 찾아 쓰시오.  선생님 : 직사각형에 대해 자유롭게 말해 보세요. 민규 : 네 변의 길이가 모두 같아요. 승혜 : 마주 보는 두 쌍의 변이 서로 평행해요. 도진 : 마름모라고 할 수도 있어요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            352,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            24,
+            300,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            53,
+            225,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            75,
+            283,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            96,
+            222,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            377,
+            121
+          ],
+          "text": "민규, 승혜, 도진이 중에서 바르게 말한 사람을 찾아 쓰시오.  선생님 : 직사각형에 대해 자유롭게 말해 보세요. 민규 : 네 변의 길이가 모두 같아요. 승혜 : 마주 보는 두 쌍의 변이 서로 평행해요. 도진 : 마름모라고 할 수도 있어요."
+        }
+      ]
+    }
+  ]
+}

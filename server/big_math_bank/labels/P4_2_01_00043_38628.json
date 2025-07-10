@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_01_00043_38628.png",
+  "id": "00043_38628",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201007",
+      "question_topic_name": "분모가 같은 대분수끼리 덧셈을 자연수, 진분수끼리 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$2\\frac{5}{8}+1\\frac{1}{8}$을 계산하려고 합니다. 물음에 답하시오. ⑴ 그림에 알맞게 색칠하시오.   (2)  $ 2 \\frac{5}{8}+1 \\frac{1}{8}=(2+\\square)+\\left(\\frac{\\square}{8}+\\frac{1}{8}\\right) $ $ =\\square+\\frac{\\square}{8}=\\square \\frac{\\square}{8} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            3,
+            319,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            38,
+            187,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            168,
+            287,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            211,
+            174,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            66,
+            321,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            321,
+            56
+          ],
+          "text": "$2\\frac{5}{8}+1\\frac{1}{8}$을 계산하려고 합니다. 물음에 답하시오. ⑴ 그림에 알맞게 색칠하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20,
+            167,
+            289,
+            253
+          ],
+          "text": "(2)  $ 2 \\frac{5}{8}+1 \\frac{1}{8}=(2+\\square)+\\left(\\frac{\\square}{8}+\\frac{1}{8}\\right) $ $ =\\square+\\frac{\\square}{8}=\\square \\frac{\\square}{8} $"
+        }
+      ]
+    }
+  ]
+}

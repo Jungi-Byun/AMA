@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36121.png",
+  "id": "00043_36121",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "기영이네 반에서 게임을 위해 모둠을 나누려고 합니다. 남학생 $4$명과 여학생 $3$명이 한 모둠이 되도록 나누었더니 한 사람도 빠짐없이 모둠이 만들어졌습니다. 기영이네 반에 남학생이 $28$명이라면 여학생은 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            471,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            41
+          ],
+          "text": "기영이네 반에서 게임을 위해 모둠을 나누려고 합니다. 남학생 $4$명과 여학생 $3$명이 한 모둠이 되도록 나누었더니 한 사람도 빠짐없이 모둠이 만들어졌습니다. 기영이네 반에 남학생이 $28$명이라면 여학생은 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

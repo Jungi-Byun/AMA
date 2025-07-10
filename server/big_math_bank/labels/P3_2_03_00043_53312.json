@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53312.png",
+  "id": "00043_53312",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "원의 중심부터 원에 접하도록 아래쪽으로 선을 그어 길이가 5 cm인 반지름을 나타내고, 4 cm인 현을 반지름의 왼쪽에, 길이가 7 cm인 현을 반지름 오른쪽에 그려 두 현과 반지름이 모두 겹치지 않게 나타낸 평면도형",
+      "question_text": "원의 반지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            184,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            31,
+            137,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            186,
+            26
+          ],
+          "text": "원의 반지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

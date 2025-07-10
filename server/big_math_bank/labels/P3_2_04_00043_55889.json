@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_04_00043_55889.png",
+  "id": "00043_55889",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "1에서 9까지의 숫자 카드가 여러 장 있습니다. 이 중에서 2장을 뽑아 조건을 만족하는 대분수를 만들려고 합니다. 만들 수 있는 대분수는 모두 몇 개인지 알아보시오. $ 6 \\frac{2}{4}<   \\square \\frac{\\square}{4}   <8 \\frac{3}{4} $  (1) $ 6 \\frac{2}{4}<   \\square \\frac{\\square}{4}  <7 $ 을 만족하는 대분수는 몇 개입니까?  (2) $ 7<\\square \\frac{\\square}{4}<8 $ 을 만족하는 대분수는 몇 개입니까?  (3) $ 8<\\square \\frac{\\square}{4}<8 \\frac{3}{4} $ 을 만족하는 대분수는 몇 개입니까?  (4) $ 6 \\frac{2}{4}<\\square \\frac{\\square}{4}<8 \\frac{3}{4} $ 을 만족하는 대분수는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            162,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            34,
+            48,
+            185,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            102,
+            369,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            147,
+            353,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            184,
+            371,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            225,
+            421,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            259
+          ],
+          "text": "1에서 9까지의 숫자 카드가 여러 장 있습니다. 이 중에서 2장을 뽑아 조건을 만족하는 대분수를 만들려고 합니다. 만들 수 있는 대분수는 모두 몇 개인지 알아보시오. $ 6 \\frac{2}{4}<   \\square \\frac{\\square}{4}   <8 \\frac{3}{4} $  (1) $ 6 \\frac{2}{4}<   \\square \\frac{\\square}{4}  <7 $ 을 만족하는 대분수는 몇 개입니까?  (2) $ 7<\\square \\frac{\\square}{4}<8 $ 을 만족하는 대분수는 몇 개입니까?  (3) $ 8<\\square \\frac{\\square}{4}<8 \\frac{3}{4} $ 을 만족하는 대분수는 몇 개입니까?  (4) $ 6 \\frac{2}{4}<\\square \\frac{\\square}{4}<8 \\frac{3}{4} $ 을 만족하는 대분수는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

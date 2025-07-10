@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00043_53467.png",
+  "id": "00043_53467",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민주는 한 변이 $6\\;cm$인 정사각형 모양 종이를 똑같이 넷으로 나누어지도록 접고 접은 선이 만나는 곳에 컴퍼스의 침을 꽂아 그릴 수 있는 가장 큰 원을 그렸습니다. 물음에 답하시오.   ($1$) 그린 원의 지름은 몇 $cm$입니까? ($2$) 그린 원의 반지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            249,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            132,
+            217,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            154,
+            230,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            51,
+            324,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "민주는 한 변이 $6\\;cm$인 정사각형 모양 종이를 똑같이 넷으로 나누어지도록 접고 접은 선이 만나는 곳에 컴퍼스의 침을 꽂아 그릴 수 있는 가장 큰 원을 그렸습니다. 물음에 답하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            130,
+            232,
+            173
+          ],
+          "text": "($1$) 그린 원의 지름은 몇 $cm$입니까? ($2$) 그린 원의 반지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

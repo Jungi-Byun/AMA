@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49445.png",
+  "id": "00043_49445",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바구니에 담긴 사탕을 $50$명의 학생들에게 $16$개씩 나누어 주면 $37$개가 남습니다. 이 사탕을 같은 학생들에게 $21$개씩 나누어 주려면 사탕 몇 개가 더 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            137,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            40
+          ],
+          "text": "바구니에 담긴 사탕을 $50$명의 학생들에게 $16$개씩 나누어 주면 $37$개가 남습니다. 이 사탕을 같은 학생들에게 $21$개씩 나누어 주려면 사탕 몇 개가 더 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

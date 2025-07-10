@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00043_46875.png",
+  "id": "00043_46875",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분수를 수직선 위에 표시하시오.  $ \\begin{array}{lll}\\frac{3}{5} & \\frac{7}{5} & \\frac{14}{5}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            200,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            22,
+            277,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            86,
+            303,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            288,
+            76
+          ],
+          "text": "분수를 수직선 위에 표시하시오.  $ \\begin{array}{lll}\\frac{3}{5} & \\frac{7}{5} & \\frac{14}{5}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

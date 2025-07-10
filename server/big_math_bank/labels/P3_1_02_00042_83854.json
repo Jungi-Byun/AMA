@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00042_83854.png",
+  "id": "00042_83854",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 직각삼각형에 대한 설명으로 틀린 것은 어느 것입니까? ① 세 변이 있습니다.  ② 세 각이 있습니다.  ③ 세 각이 모두 직각입니다.  ④ 삼각형에 속합니다.  ⑤ 삼각자의 직각 부분과 꼭맞게 겹쳐지는 각이 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            375,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            144,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            144,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            186,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            153,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            350,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            377,
+            130
+          ],
+          "text": "다음 중 직각삼각형에 대한 설명으로 틀린 것은 어느 것입니까? ① 세 변이 있습니다.  ② 세 각이 있습니다.  ③ 세 각이 모두 직각입니다.  ④ 삼각형에 속합니다.  ⑤ 삼각자의 직각 부분과 꼭맞게 겹쳐지는 각이 있습니다."
+        }
+      ]
+    }
+  ]
+}

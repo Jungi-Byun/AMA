@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00050_20316.png",
+  "id": "00050_20316",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 신문 기사를 읽고 물음에 답하시오. <나무를 심어야 하는 이유> 잘 가꿔진 숲 $10a$는 연간 이산화탄소 $1.6t$을 흡수하고 산소 $1.2t$을 방출합니다. 또 $1$년 동안 침엽수 $10a$는 먼지 약 $3.5t$을, 활엽수 $10a$는 무려 먼지 $6.8t$은 걸러낸다고 하니 숲은 거대한 공기 정화기라고 할 수 있습니다.  (1) 어느 지역의 숲의 넓이는 $5ha$입니다. 이 숲에서 $1$년 동안 방출하는 산소는 몇 $t$입니까? (2) 이 숲의 나무는 모두 침엽수입니다. 이 숲에서 $1$년 동안 걸러낼 수 있는 먼지는 약 몇 $t$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            249,
+            21,
+            417,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            44,
+            632,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            68,
+            506,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            94,
+            521,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            116,
+            564,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            651,
+            134
+          ],
+          "text": "다음 신문 기사를 읽고 물음에 답하시오. <나무를 심어야 하는 이유> 잘 가꿔진 숲 $10a$는 연간 이산화탄소 $1.6t$을 흡수하고 산소 $1.2t$을 방출합니다. 또 $1$년 동안 침엽수 $10a$는 먼지 약 $3.5t$을, 활엽수 $10a$는 무려 먼지 $6.8t$은 걸러낸다고 하니 숲은 거대한 공기 정화기라고 할 수 있습니다.  (1) 어느 지역의 숲의 넓이는 $5ha$입니다. 이 숲에서 $1$년 동안 방출하는 산소는 몇 $t$입니까? (2) 이 숲의 나무는 모두 침엽수입니다. 이 숲에서 $1$년 동안 걸러낼 수 있는 먼지는 약 몇 $t$입니까?"
+        }
+      ]
+    }
+  ]
+}

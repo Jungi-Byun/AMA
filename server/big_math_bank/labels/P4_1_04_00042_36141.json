@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00042_36141.png",
+  "id": "00042_36141",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형을 돌렸을 때, 처음 모양과 같아지려면 어느 방향으로 돌려야 합니까?  ①  ②  ③  ④  ⑤",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            462,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            95,
+            320
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            464,
+            23
+          ],
+          "text": "다음 도형을 돌렸을 때, 처음 모양과 같아지려면 어느 방향으로 돌려야 합니까?  ①  ②  ③  ④  ⑤"
+        }
+      ]
+    }
+  ]
+}

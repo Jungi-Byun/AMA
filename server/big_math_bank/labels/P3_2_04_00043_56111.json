@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_04_00043_56111.png",
+  "id": "00043_56111",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$2$부터 $9$까지의 숫자 카드가 $2$장씩 있습니다. 물음에 답하시오.  $\\boxed{2} \\boxed{2} \\boxed{3} \\boxed{3} \\boxed{4} \\boxed{4} \\boxed{5}$ $\\boxed{5}\\\\ \\boxed{6} \\boxed{6} \\boxed{7} \\boxed{7} \\boxed{8} \\boxed{8}$ $\\boxed{9} \\boxed{9}\\\\ $ (1) 숫자 카드 $2$장을 사용하여 분수를 만들었을 때, 분모와 분자의 합이 $10$인 진분수를 모두 쓰시오.  (2) 숫자 카드 $3$장을 사용하여 분모가 $4$인 대분수를 만들었을 때, $ \\frac{14}{4} $보다 작은 수는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            369,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            33,
+            23,
+            513,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            74,
+            574,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            97,
+            608,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            610,
+            132
+          ],
+          "text": "$2$부터 $9$까지의 숫자 카드가 $2$장씩 있습니다. 물음에 답하시오.  $\\boxed{2} \\boxed{2} \\boxed{3} \\boxed{3} \\boxed{4} \\boxed{4} \\boxed{5}$ $\\boxed{5}\\\\ \\boxed{6} \\boxed{6} \\boxed{7} \\boxed{7} \\boxed{8} \\boxed{8}$ $\\boxed{9} \\boxed{9}\\\\ $ (1) 숫자 카드 $2$장을 사용하여 분수를 만들었을 때, 분모와 분자의 합이 $10$인 진분수를 모두 쓰시오.  (2) 숫자 카드 $3$장을 사용하여 분모가 $4$인 대분수를 만들었을 때, $ \\frac{14}{4} $보다 작은 수는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

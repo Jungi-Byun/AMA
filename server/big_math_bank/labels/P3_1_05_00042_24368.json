@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_05_00042_24368.png",
+  "id": "00042_24368",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\bigcirc$ 안에 $>,=,<$를 알맞게 써넣으시오. (1) $ 30 \\mathrm{~cm} 8 \\mathrm{~mm}   \\bigcirc $ $ 380 \\mathrm{~mm} $ (2) $ 6 \\mathrm{~km} 50 \\mathrm{~m} \\bigcirc 6500 \\mathrm{~m} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            230,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.23,
+            22.65,
+            113.23,
+            48.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            116.23,
+            20.65,
+            146.23,
+            50.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            151.23,
+            20.65,
+            207.23,
+            48.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.23,
+            48.65,
+            103.23,
+            77.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            103.23,
+            47.65,
+            136.23,
+            79.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            139.23,
+            52.65,
+            195.23,
+            75.65
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            232,
+            80
+          ],
+          "text": "$\\bigcirc$ 안에 $>,=,<$를 알맞게 써넣으시오. (1) $ 30 \\mathrm{~cm} 8 \\mathrm{~mm}   \\bigcirc $ $ 380 \\mathrm{~mm} $ (2) $ 6 \\mathrm{~km} 50 \\mathrm{~m} \\bigcirc 6500 \\mathrm{~m} $"
+        }
+      ]
+    }
+  ]
+}

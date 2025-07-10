@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_01_00043_38912.png",
+  "id": "00043_38912",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 음표와 쉼표에 대해 설명한 것입니다. 물음에 답하시오. ⑴ 각 마디의 박자의 합을 구하는 식을 쓰고, 답을 구하시오. ⑵ 박자가 다른 한 마디에 쉼표를 하나 넣어 다른 마디와 박자를 같게 하려고 합니다. 어느 마디에 어떤 쉼표를 넣으면 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            371,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            189,
+            353,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            298,
+            726,
+            316
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            29,
+            319,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            373,
+            23
+          ],
+          "text": "다음은 음표와 쉼표에 대해 설명한 것입니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            184,
+            355,
+            211
+          ],
+          "text": "⑴ 각 마디의 박자의 합을 구하는 식을 쓰고, 답을 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            289,
+            728,
+            318
+          ],
+          "text": "⑵ 박자가 다른 한 마디에 쉼표를 하나 넣어 다른 마디와 박자를 같게 하려고 합니다. 어느 마디에 어떤 쉼표를 넣으면 됩니까?"
+        }
+      ]
+    }
+  ]
+}

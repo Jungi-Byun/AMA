@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_02_00043_37395.png",
+  "id": "00043_37395",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변이 가로로 놓인 사각형의 왼쪽 위의 각의 크기는 75도, 왼쪽 아래의 각의 크기는 90도, 오른쪽 아래에 크기가 원 문자ㄱ인 내각과 크기가 70도인 외각이 밑변의 연장선 위에 표시되어 있고, 각의 크기를 가리키는 화살표와 연결된 빈칸 네모로 표시된 오른쪽 위 각",
+      "question_text": "$\\square$안에 알맞은 각도를 써넣으시오. ⑴ ㉠은 몇 도입니까? ⑵ 사각형의 네 각의 크기의 합은 몇 도입니까? ⑶ $\\square$ 안에 알맞은 각도는 몇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            216,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            116,
+            105,
+            131,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            140,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            283,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            170,
+            224,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            28,
+            154,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            218,
+            23
+          ],
+          "text": "$\\square$안에 알맞은 각도를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            125,
+            285,
+            188
+          ],
+          "text": "⑴ ㉠은 몇 도입니까? ⑵ 사각형의 네 각의 크기의 합은 몇 도입니까? ⑶ $\\square$ 안에 알맞은 각도는 몇입니까?"
+        }
+      ]
+    }
+  ]
+}

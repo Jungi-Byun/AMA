@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32211.png",
+  "id": "00043_32211",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101005",
+      "question_topic_name": "천만 단위 수의 각 자리의 숫자와 나타내는 값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$8\\square\\square4\\square\\square5$인 수 중에서 조건을 모두 만족하는 수를 구하시오.  ㆍ각 자리 숫자는 모두 다릅니다. ㆍ만의 자리 숫자는 백의 자리 숫자의 $2$배입니다. ㆍ십만의 자리 숫자는 십의 자리 숫자의 $3$배입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            379,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            21,
+            213,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            54,
+            304,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            74,
+            317,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            101
+          ],
+          "text": "$8\\square\\square4\\square\\square5$인 수 중에서 조건을 모두 만족하는 수를 구하시오.  ㆍ각 자리 숫자는 모두 다릅니다. ㆍ만의 자리 숫자는 백의 자리 숫자의 $2$배입니다. ㆍ십만의 자리 숫자는 십의 자리 숫자의 $3$배입니다."
+        }
+      ]
+    }
+  ]
+}

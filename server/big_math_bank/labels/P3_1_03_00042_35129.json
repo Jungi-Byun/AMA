@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_03_00042_35129.png",
+  "id": "00042_35129",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "동시집을 하루에 $9$쪽씩 매일 읽으려고 합니다. $72$쪽을 모두 읽는 데에는 며칠이 걸리겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            553,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            555,
+            21
+          ],
+          "text": "동시집을 하루에 $9$쪽씩 매일 읽으려고 합니다. $72$쪽을 모두 읽는 데에는 며칠이 걸리겠습니까?"
+        }
+      ]
+    }
+  ]
+}

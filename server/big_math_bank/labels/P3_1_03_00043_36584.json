@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36584.png",
+  "id": "00043_36584",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가로 열쇠와 세로 열쇠의 $\\square$ 안에 알맞은 수를 구하여 숫자 퍼즐을 완성하시오.  〈숫자 퍼즐〉 가로 열쇠  (1) $ \\square \\div 8=8 $  (2) $ \\square \\div 4=8 $  (3) $ \\square \\div 2=9 $  세로 열쇠  (1) $ \\square \\div 9=7 $  (2) $ \\square \\div 7=3 $  (3) $ \\square \\div 9=9 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            458,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            24,
+            277,
+            284
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            461,
+            20
+          ],
+          "text": "가로 열쇠와 세로 열쇠의 $\\square$ 안에 알맞은 수를 구하여 숫자 퍼즐을 완성하시오.  〈숫자 퍼즐〉 가로 열쇠  (1) $ \\square \\div 8=8 $  (2) $ \\square \\div 4=8 $  (3) $ \\square \\div 2=9 $  세로 열쇠  (1) $ \\square \\div 9=7 $  (2) $ \\square \\div 7=3 $  (3) $ \\square \\div 9=9 $"
+        }
+      ]
+    }
+  ]
+}

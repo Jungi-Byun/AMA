@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_02_00042_92617.png",
+  "id": "00042_92617",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "장미 20송이와 백합 16송이를 가지고 똑같은 꽃 바구니 3개를 만들었더니 몇 송이가 남았습니다. 장미와 백합은 각각 몇 송이씩 남았습니까? ①장미 1송이, 백합 1송이 ②장미 1송이, 백합 2송이 ③장미 2송이, 백합 1송이 ④장미 2송이, 백합 2송이 ⑤장미 3송이, 백합 1송이",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            171,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            173,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            173,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            176,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            173,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            152
+          ],
+          "text": "장미 20송이와 백합 16송이를 가지고 똑같은 꽃 바구니 3개를 만들었더니 몇 송이가 남았습니다. 장미와 백합은 각각 몇 송이씩 남았습니까? ①장미 1송이, 백합 1송이 ②장미 1송이, 백합 2송이 ③장미 2송이, 백합 1송이 ④장미 2송이, 백합 2송이 ⑤장미 3송이, 백합 1송이"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_06_00043_41483.png",
+  "id": "00043_41483",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "통나무를 그림과 같이 규칙적으로 쌓았습니다. 물음에 답하시오. ⑴ $1$층부터 통나무를 쌓은 방향에는 세로와 $\\square$로 번갈아 가면서 쌓는 규칙이 있습니다. ⑵ $1$층부터 쌓은 통나무의 수에는 $3개-\\square$개씩 번갈아 가면서 쌓는 규칙이 있습니다. ⑶ 통나무를 $10$층까지 쌓는다면 통나무는 모두 몇 개가 필요합니까? $ (3+2)\\times \\square =\\square $ (개)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            379,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            192,
+            577,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            214,
+            523,
+            235
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            238,
+            403,
+            255
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            258,
+            221,
+            280
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            46,
+            233,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            382,
+            24
+          ],
+          "text": "통나무를 그림과 같이 규칙적으로 쌓았습니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            191,
+            580,
+            281
+          ],
+          "text": "⑴ $1$층부터 통나무를 쌓은 방향에는 세로와 $\\square$로 번갈아 가면서 쌓는 규칙이 있습니다. ⑵ $1$층부터 쌓은 통나무의 수에는 $3개-\\square$개씩 번갈아 가면서 쌓는 규칙이 있습니다. ⑶ 통나무를 $10$층까지 쌓는다면 통나무는 모두 몇 개가 필요합니까? $ (3+2)\\times \\square =\\square $ (개)"
+        }
+      ]
+    }
+  ]
+}

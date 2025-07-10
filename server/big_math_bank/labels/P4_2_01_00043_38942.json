@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_01_00043_38942.png",
+  "id": "00043_38942",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $ \\square $ 안에 알맞은 분수를 써넣으시오. $ 4-\\frac{4}{8}=\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            120,
+            88,
+            224,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19.33,
+            21.83,
+            324.33,
+            95.83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            21
+          ],
+          "text": "그림을 보고 $ \\square $ 안에 알맞은 분수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            118,
+            86,
+            226,
+            136
+          ],
+          "text": "$ 4-\\frac{4}{8}=\\square$"
+        }
+      ]
+    }
+  ]
+}

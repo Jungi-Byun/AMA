@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_03_00043_50003.png",
+  "id": "00043_50003",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소수 둘째 자리 숫자가 $3$인 수를 찾아 기호를 쓰시오.  ㉠ $0.973$ ㉡ $3.84$  ㉢ $6.038$ ㉣ $5.32$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            316,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            144,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            55,
+            143,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            79
+          ],
+          "text": "소수 둘째 자리 숫자가 $3$인 수를 찾아 기호를 쓰시오.  ㉠ $0.973$ ㉡ $3.84$  ㉢ $6.038$ ㉣ $5.32$"
+        }
+      ]
+    }
+  ]
+}

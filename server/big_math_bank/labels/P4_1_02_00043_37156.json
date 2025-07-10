@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_02_00043_37156.png",
+  "id": "00043_37156",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102006",
+      "question_topic_name": "예각과 둔각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "서영이가 말한 각도를 보고 은채의 대답을 알맞게 써넣으시오.  서영 : 우리 예각, 직각, 둔각 말하기 놀이 할래?은채 : 좋아! 네가 각도를 말하면 내가 답할게~!  서영 : $45^{\\circ}, 90^{\\circ}, 145^{\\circ}$ 를 차례로 말해봐! 은채 :$\\square, \\square, \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            368,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            293,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            54,
+            293,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            73,
+            250,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            94,
+            237,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            372,
+            123
+          ],
+          "text": "서영이가 말한 각도를 보고 은채의 대답을 알맞게 써넣으시오.  서영 : 우리 예각, 직각, 둔각 말하기 놀이 할래?은채 : 좋아! 네가 각도를 말하면 내가 답할게~!  서영 : $45^{\\circ}, 90^{\\circ}, 145^{\\circ}$ 를 차례로 말해봐! 은채 :$\\square, \\square, \\square$"
+        }
+      ]
+    }
+  ]
+}

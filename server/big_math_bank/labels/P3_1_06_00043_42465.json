@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_42465.png",
+  "id": "00043_42465",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색 테이프가 $1 m$ 있습니다. 대수는 $ \\frac{1}{10}  m$가 $2$개인 길이만큼 잘라서 리본을 만들었고, 재영이는 $0.1 m$가 $4$개인 길이만큼 잘라서 리본을 만들었습니다. 누가 만든 리본이 더 깁니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            253,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            59
+          ],
+          "text": "색 테이프가 $1 m$ 있습니다. 대수는 $ \\frac{1}{10}  m$가 $2$개인 길이만큼 잘라서 리본을 만들었고, 재영이는 $0.1 m$가 $4$개인 길이만큼 잘라서 리본을 만들었습니다. 누가 만든 리본이 더 깁니까?"
+        }
+      ]
+    }
+  ]
+}

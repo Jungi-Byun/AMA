@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00042_26398.png",
+  "id": "00042_26398",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{2}{13} $의 $3$배인 수는 어느 것입니까?  ① $ \\frac{1}{13} $ ② $ \\frac{3}{13} $ ③ $ \\frac{5}{13} $ ④ $ \\frac{6}{13} $ ⑤ $ \\frac{9}{13} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            220,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            44,
+            72,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            72,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            126,
+            72,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            72,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            207,
+            72,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            222,
+            243
+          ],
+          "text": "$ \\frac{2}{13} $의 $3$배인 수는 어느 것입니까?  ① $ \\frac{1}{13} $ ② $ \\frac{3}{13} $ ③ $ \\frac{5}{13} $ ④ $ \\frac{6}{13} $ ⑤ $ \\frac{9}{13} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_02_00042_53479.png",
+  "id": "00042_53479",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈이 나누어떨어질 때, $\\square$ 안에 들어갈 수 있는 수에 $\\bigcirc$표 하시오.  $\\square÷3$  ($14,25,36$)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            408,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            46,
+            26,
+            79,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            96,
+            60,
+            165,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            411,
+            78
+          ],
+          "text": "나눗셈이 나누어떨어질 때, $\\square$ 안에 들어갈 수 있는 수에 $\\bigcirc$표 하시오.  $\\square÷3$  ($14,25,36$)"
+        }
+      ]
+    }
+  ]
+}

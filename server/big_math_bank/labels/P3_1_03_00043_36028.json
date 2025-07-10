@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_03_00043_36028.png",
+  "id": "00043_36028",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "장수풍뎅이를 관찰하려고 장수풍뎅이 애벌레 $24$마리를 사육 상자에 넣으려고 합니다. 윤수와 지은이가 필요한 사육 상자 수의 차를 구하시오. 윤수 : 한 사육 상자에 $6$마리씩 담을꺼야. 지은 : 한 사육 상자에 $4$마리씩 담을꺼야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            36,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            43,
+            258,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            74,
+            256,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            100
+          ],
+          "text": "장수풍뎅이를 관찰하려고 장수풍뎅이 애벌레 $24$마리를 사육 상자에 넣으려고 합니다. 윤수와 지은이가 필요한 사육 상자 수의 차를 구하시오. 윤수 : 한 사육 상자에 $6$마리씩 담을꺼야. 지은 : 한 사육 상자에 $4$마리씩 담을꺼야."
+        }
+      ]
+    }
+  ]
+}

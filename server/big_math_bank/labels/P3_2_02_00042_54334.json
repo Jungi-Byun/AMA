@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00042_54334.png",
+  "id": "00042_54334",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "귤 $30$개를 한 접시에 $4$개씩 나누어 담으면 몇 접시까지 담을 수 있고 나머지는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            538,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            304,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            540,
+            23
+          ],
+          "text": "귤 $30$개를 한 접시에 $4$개씩 나누어 담으면 몇 접시까지 담을 수 있고 나머지는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

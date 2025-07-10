@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33483.png",
+  "id": "00043_33483",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 식물원에 장미꽃, 무궁화꽃, 진달래꽃, 바람꽃, 나팔꽃이 모두 $850$송이 피어 있습니다. 장미꽃과 나팔꽃의 수의 합은 $388$송이이고, 무궁화꽃과 바람꽃은 각각 $174$송이씩입니다. 진달래꽃은 몇 송이입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            753,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            462,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            755,
+            41
+          ],
+          "text": "어느 식물원에 장미꽃, 무궁화꽃, 진달래꽃, 바람꽃, 나팔꽃이 모두 $850$송이 피어 있습니다. 장미꽃과 나팔꽃의 수의 합은 $388$송이이고, 무궁화꽃과 바람꽃은 각각 $174$송이씩입니다. 진달래꽃은 몇 송이입니까?"
+        }
+      ]
+    }
+  ]
+}

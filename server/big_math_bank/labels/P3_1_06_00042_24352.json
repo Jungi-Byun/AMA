@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00042_24352.png",
+  "id": "00042_24352",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "혜은이는 미술 시간에 색 테이프의 $ \\frac{1}{4} $을 사용하였고, 윤진이는 혜은이와 같은 길이의 색 테이프의 $ \\frac{1}{6} $을 사용하였습니다. 색테이프를 더 많이 사용한 사람은 누구입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            204,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            59
+          ],
+          "text": "혜은이는 미술 시간에 색 테이프의 $ \\frac{1}{4} $을 사용하였고, 윤진이는 혜은이와 같은 길이의 색 테이프의 $ \\frac{1}{6} $을 사용하였습니다. 색테이프를 더 많이 사용한 사람은 누구입니까?"
+        }
+      ]
+    }
+  ]
+}

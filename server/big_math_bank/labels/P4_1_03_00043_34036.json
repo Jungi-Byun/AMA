@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_03_00043_34036.png",
+  "id": "00043_34036",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103001",
+      "question_topic_name": "세 자리 수와 몇십 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 두 식의 $\\square$ 안에는 같은 수가 들어갑니다. ㉮에 알맞은 수는 얼마인지 알아보시오. $ \\boxed{200 \\times \\square=18000}  \\boxed{500 \\times \\square=㉮} $ (1) $\\square$ 안에 알맞은 수를 구하시오. (2) ㉮에 알맞은 수를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            504,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            233,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            50,
+            209,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            72,
+            195,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            506,
+            90
+          ],
+          "text": "다음 두 식의 $\\square$ 안에는 같은 수가 들어갑니다. ㉮에 알맞은 수는 얼마인지 알아보시오. $ \\boxed{200 \\times \\square=18000}  \\boxed{500 \\times \\square=㉮} $ (1) $\\square$ 안에 알맞은 수를 구하시오. (2) ㉮에 알맞은 수를 구하시오."
+        }
+      ]
+    }
+  ]
+}

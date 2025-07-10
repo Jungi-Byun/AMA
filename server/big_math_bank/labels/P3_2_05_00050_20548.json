@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20548.png",
+  "id": "00050_20548",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 창고에 $0.24t$짜리 철근 몇 개와 $108kg$짜리 철근 $15$개, $25000g$짜리 철근 $6$개가 있습니다. 철근의 총 무게가 $2.73t$이라면 $0.24t$짜리 철근은 몇 개 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            153,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            41
+          ],
+          "text": "어떤 창고에 $0.24t$짜리 철근 몇 개와 $108kg$짜리 철근 $15$개, $25000g$짜리 철근 $6$개가 있습니다. 철근의 총 무게가 $2.73t$이라면 $0.24t$짜리 철근은 몇 개 있습니까?"
+        }
+      ]
+    }
+  ]
+}

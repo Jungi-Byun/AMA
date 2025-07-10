@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_02_00043_37586.png",
+  "id": "00043_37586",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202007",
+      "question_topic_name": "정삼각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "꼭지각의 크기가 ㄱ, 두 밑각의 크기가 왼쪽은 ㄴ, 오른쪽은 ㄷ으로 표시된 정삼각형",
+      "question_text": "정삼각형을 보고 물음에 답하시오. ($1$) 세 각의 크기를 각각 재어 보시오. <table border>   <tbody>     <tr>       <td>각</td>  <td>㉠</td>  <td>㉡</td>  <td>㉢</td>     </tr>     <tr>       <td>크기</td> <td></td> <td></td> <td></td>     </tr> </tbody> </table> ($2$) 정삼각형은 세 각의 크기가 같습니까, 다릅니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            213,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            120,
+            224,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            141,
+            112,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            193,
+            308,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            129,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.76,
+            1.58,
+            214.56,
+            18.38
+          ],
+          "text": "정삼각형을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.76,
+            120.78,
+            307.36,
+            210.38
+          ],
+          "text": "($1$) 세 각의 크기를 각각 재어 보시오. <table border>   <tbody>     <tr>       <td>각</td>  <td>㉠</td>  <td>㉡</td>  <td>㉢</td>     </tr>     <tr>       <td>크기</td> <td></td> <td></td> <td></td>     </tr> </tbody> </table> ($2$) 정삼각형은 세 각의 크기가 같습니까, 다릅니까?"
+        }
+      ]
+    }
+  ]
+}

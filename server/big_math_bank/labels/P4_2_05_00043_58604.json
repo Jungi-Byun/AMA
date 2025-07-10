@@ -1,0 +1,169 @@
+{
+  "question_filename": "P4_2_05_00043_58604.png",
+  "id": "00043_58604",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현미가 사용하는 지우개의 무게를 $10$월 $1$일부터 매주 재어 나타낸 표입니다. 표를 보고 꺾은선그래프로 나타내려고 합니다. 물음에 답하시오. 지우개의 무게 <table border> <tbody> <tr> <td>날짜</td> <td>$1$</td> <td>$8$</td> <td>$15$</td> <td>$22$</td> <td>$29$</td> </tr> <tr> <td>무게($g$)</td> <td>$15$</td> <td>$12$</td> <td>$10$</td> <td>$7$</td> <td>$5$</td> </tr> <tr> </tr> </tbody> </table>  (1) 가로 눈금에는 무엇을 나타내는 것이 좋겠습니까? (2) 세로 눈금에는 무엇을 나타내는 것이 좋겠습니까? (3) 세로 눈금 한 칸의 크기는 얼마로 하는 것이 좋겠습니까? (4) 표를 보고 그래프의 가로 눈금과 세로 눈금이 만나는 자리에 점을 찍어 보시오. (5) (4)에서 찍은 각 점들을 선분으로 연결하여 꺾은선그래프를 완성하시오. (6) 알맞은 말에 $\\bigcirc$표 하시오. $10$월 $1$일부터 $29$일까지 지우개의 무게는 계속 ( 늘어나고, 줄어들고 ) 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            36,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            100,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            225,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            317,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            139,
+            317,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            161,
+            354,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            183,
+            476,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            379.5,
+            436,
+            401.5
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            401.5,
+            180,
+            424.5
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            431.5,
+            472,
+            454.5
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            211,
+            309,
+            373
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            201
+          ],
+          "text": "현미가 사용하는 지우개의 무게를 $10$월 $1$일부터 매주 재어 나타낸 표입니다. 표를 보고 꺾은선그래프로 나타내려고 합니다. 물음에 답하시오. 지우개의 무게 <table border> <tbody> <tr> <td>날짜</td> <td>$1$</td> <td>$8$</td> <td>$15$</td> <td>$22$</td> <td>$29$</td> </tr> <tr> <td>무게($g$)</td> <td>$15$</td> <td>$12$</td> <td>$10$</td> <td>$7$</td> <td>$5$</td> </tr> <tr> </tr> </tbody> </table>  (1) 가로 눈금에는 무엇을 나타내는 것이 좋겠습니까? (2) 세로 눈금에는 무엇을 나타내는 것이 좋겠습니까? (3) 세로 눈금 한 칸의 크기는 얼마로 하는 것이 좋겠습니까? (4) 표를 보고 그래프의 가로 눈금과 세로 눈금이 만나는 자리에 점을 찍어 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20,
+            379.5,
+            474,
+            455.5
+          ],
+          "text": "(5) (4)에서 찍은 각 점들을 선분으로 연결하여 꺾은선그래프를 완성하시오. (6) 알맞은 말에 $\\bigcirc$표 하시오. $10$월 $1$일부터 $29$일까지 지우개의 무게는 계속 ( 늘어나고, 줄어들고 ) 있습니다."
+        }
+      ]
+    }
+  ]
+}

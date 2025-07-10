@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_03_00043_50085.png",
+  "id": "00043_50085",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "야구는 $9$명씩으로 이루어진 두 팀이 $9$회씩 공격과 수비를 번갈아 하며 승패를 겨루는 경기입니다. 어떤 야구 선수의 한 해 기록을 보고 ㉠이 나타내는 수는 ㉡이 나타내는 수의 몇 배인지 구하시오. <table border>   <tbody>     <tr>       <td>선수</td>       <td>포지션</td>       <td>타수</td>       <td>득점</td>       <td>타율</td>     </tr>     <tr>       <td>김훈성</td>       <td>3루수</td>       <td>$407$</td>       <td>$6\\underset{㉠}{\\underline{4}}$</td>       <td>$0.31\\underset{㉡}{\\underline{2}}$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            329,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            260,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            119
+          ],
+          "text": "야구는 $9$명씩으로 이루어진 두 팀이 $9$회씩 공격과 수비를 번갈아 하며 승패를 겨루는 경기입니다. 어떤 야구 선수의 한 해 기록을 보고 ㉠이 나타내는 수는 ㉡이 나타내는 수의 몇 배인지 구하시오. <table border>   <tbody>     <tr>       <td>선수</td>       <td>포지션</td>       <td>타수</td>       <td>득점</td>       <td>타율</td>     </tr>     <tr>       <td>김훈성</td>       <td>3루수</td>       <td>$407$</td>       <td>$6\\underset{㉠}{\\underline{4}}$</td>       <td>$0.31\\underset{㉡}{\\underline{2}}$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

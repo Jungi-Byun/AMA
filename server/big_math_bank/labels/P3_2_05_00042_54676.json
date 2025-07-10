@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_54676.png",
+  "id": "00042_54676",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "여러 가지 물건을 비닐 주머니 속에 $ 1 \\mathrm{~kg} $쯤 되게 넣고 무게를 재어 보았습니다. 누가 $ 1 \\mathrm{~kg} $에 가장 가깝게 넣었습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            664,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            243,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            666,
+            93
+          ],
+          "text": "여러 가지 물건을 비닐 주머니 속에 $ 1 \\mathrm{~kg} $쯤 되게 넣고 무게를 재어 보았습니다. 누가 $ 1 \\mathrm{~kg} $에 가장 가깝게 넣었습니까?"
+        }
+      ]
+    }
+  ]
+}

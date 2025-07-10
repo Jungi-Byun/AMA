@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_04_00042_36184.png",
+  "id": "00042_36184",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 모형을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.  (1) $ 40+40+40+40 $은 $\\square$입니다.(2) 십 모형의 개수를 곱셈식으로 나타내면 $ \\square \\times 4=\\square $입니다.(3) 십 모형 $16$개는 낱개 모형 $\\square$개와 같습니다.(4) $ 40 \\times 4=\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            291,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            227,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            130,
+            391,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            159,
+            308,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            188,
+            118,
+            214
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            331,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            293,
+            20
+          ],
+          "text": "수 모형을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            100,
+            393,
+            215
+          ],
+          "text": "(1) $ 40+40+40+40 $은 $\\square$입니다.(2) 십 모형의 개수를 곱셈식으로 나타내면 $ \\square \\times 4=\\square $입니다.(3) 십 모형 $16$개는 낱개 모형 $\\square$개와 같습니다.(4) $ 40 \\times 4=\\square $"
+        }
+      ]
+    }
+  ]
+}

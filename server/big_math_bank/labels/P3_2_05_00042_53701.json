@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_53701.png",
+  "id": "00042_53701",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205014",
+      "question_topic_name": "무게 직접 비교하기 _ 양손으로 들어서 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지훈이가 사과와 귤을 양손에 들었더니 사과를 든 쪽이 힘이 더 들었습니다. 또 사과와 배를 양손에 들었더니 배를 든 쪽이 힘이 더 들었습니다. 사과, 귤, 배를 무거운 순서대로 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            259,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "지훈이가 사과와 귤을 양손에 들었더니 사과를 든 쪽이 힘이 더 들었습니다. 또 사과와 배를 양손에 들었더니 배를 든 쪽이 힘이 더 들었습니다. 사과, 귤, 배를 무거운 순서대로 쓰시오."
+        }
+      ]
+    }
+  ]
+}

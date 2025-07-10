@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57444.png",
+  "id": "00043_57444",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉮와 ㉯ 그릇에 물을 가득 채우려고 합니다. 모양과 크기가 같은 컵으로 ㉮ 그릇에 $18$번, ㉯ 그릇에 $6$번 부었더니 물이 가득 찼습니다. ㉮ 그릇의 들이는 ㉯ 그릇의 들이의 몇 배입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            266,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "㉮와 ㉯ 그릇에 물을 가득 채우려고 합니다. 모양과 크기가 같은 컵으로 ㉮ 그릇에 $18$번, ㉯ 그릇에 $6$번 부었더니 물이 가득 찼습니다. ㉮ 그릇의 들이는 ㉯ 그릇의 들이의 몇 배입니까?"
+        }
+      ]
+    }
+  ]
+}

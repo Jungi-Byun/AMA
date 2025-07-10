@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00043_58095.png",
+  "id": "00043_58095",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은진이의 몸무게는 $ 35 \\mathrm{~kg} 150 \\mathrm{~g} $ 이고, 영석이의 몸무게는 $ 32 \\mathrm{~kg} 700 \\mathrm{~g} $ 입니다. 두 사람의 몸무게의 차는 몇 $ \\mathrm{kg} $ 몇 $ \\mathrm{g} $인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            729,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            731,
+            21
+          ],
+          "text": "은진이의 몸무게는 $ 35 \\mathrm{~kg} 150 \\mathrm{~g} $ 이고, 영석이의 몸무게는 $ 32 \\mathrm{~kg} 700 \\mathrm{~g} $ 입니다. 두 사람의 몸무게의 차는 몇 $ \\mathrm{kg} $ 몇 $ \\mathrm{g} $인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

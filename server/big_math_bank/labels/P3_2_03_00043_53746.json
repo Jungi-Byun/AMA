@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_03_00043_53746.png",
+  "id": "00043_53746",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 68 cm인 선분 ㄱㄴ 위에 5개 고리의 원의 중심이 일정한 간격으로 표시되어 있고, 3 cm 두께로 크기가 같은 고리 5개가 각 고리를 이루는 작은 원과 이웃하는 고리의 큰 원이 접하면서 고리 5개가 가로로 나란히 겹쳐져 있게 색종이로 이어 붙인 모양",
+      "question_text": "똑같은 고리 모양의 색종이 $5$장을 그림과 같이 이어 붙였습니다. 선분 ㄱㄴ의 길이가 $68~cm$일 때, 고리 모양을 이루고 있는 원 중에서 큰 원의 반지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            171,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            52,
+            320,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            41
+          ],
+          "text": "똑같은 고리 모양의 색종이 $5$장을 그림과 같이 이어 붙였습니다. 선분 ㄱㄴ의 길이가 $68~cm$일 때, 고리 모양을 이루고 있는 원 중에서 큰 원의 반지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_06_00043_27128.png",
+  "id": "00043_27128",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "샌드위치 한 개를 만드는 데 그림과 같이 빵, 자른 토마토, 달걀, 자른 오이를 넣습니다. 재료가 다음과 같이 있을 때, 그림과 같은 순서로 재료를 놓아 만들 수 있는 샌드위치는 몇 개입니까? 빵 $42$개, 자른 토마토 $64$개, 달걀 $36$개, 자른 오이 $75$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            295,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            239,
+            252,
+            273
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            273,
+            120,
+            297
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            56,
+            95,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            41
+          ],
+          "text": "샌드위치 한 개를 만드는 데 그림과 같이 빵, 자른 토마토, 달걀, 자른 오이를 넣습니다. 재료가 다음과 같이 있을 때, 그림과 같은 순서로 재료를 놓아 만들 수 있는 샌드위치는 몇 개입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            239,
+            804,
+            297
+          ],
+          "text": "빵 $42$개, 자른 토마토 $64$개, 달걀 $36$개, 자른 오이 $75$개"
+        }
+      ]
+    }
+  ]
+}

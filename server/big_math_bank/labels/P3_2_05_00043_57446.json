@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57446.png",
+  "id": "00043_57446",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세숫대야에 물을 가득 채우기 위해서 각 그릇으로 물을 부어야 하는 횟수가 각각 다음과 같습니다. ㉮, ㉯, ㉰ 중에서 들이가 가장 많은 그릇은 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            124,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            54,
+            315,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            40
+          ],
+          "text": "세숫대야에 물을 가득 채우기 위해서 각 그릇으로 물을 부어야 하는 횟수가 각각 다음과 같습니다. ㉮, ㉯, ㉰ 중에서 들이가 가장 많은 그릇은 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

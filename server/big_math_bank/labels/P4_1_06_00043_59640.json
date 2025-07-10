@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_06_00043_59640.png",
+  "id": "00043_59640",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽에 빨간 구슬 1개 아래에 첫 번째가 쓰여있고 그 오른쪽에는 1층에 파란 구슬 2개, 2층에 빨간 구슬 1개가 삼각형 모양으로 놓여있고 아래에 두 번째가 쓰여있으며 그 오른쪽에는 1층에 빨간 구슬 3개, 2층에는 파란 구슬 2개, 3층에는 빨간 구슬 1개가 삼각형 모양으로 놓여있고 아래에 세 번째가 쓰여있고 그 오른쪽에 1층에 파란 구슬 4개, 2층에 빨간 구슬 3개, 3층에는 파란 구슬 2개, 4층에는 빨간 구슬 1개가 삼각형 모양으로 놓여있고 아래에 네 번째가 쓰여있으며 그 오른쪽에는 다음 규칙이 계속된다는 의미의 말줄임표가 있는 그림",
+      "question_text": "구슬을 다음과 같은 규칙으로 놓았습니다. 아홉 번째에 놓일 빨간 구슬은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            504,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            26,
+            324,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            506,
+            22
+          ],
+          "text": "구슬을 다음과 같은 규칙으로 놓았습니다. 아홉 번째에 놓일 빨간 구슬은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

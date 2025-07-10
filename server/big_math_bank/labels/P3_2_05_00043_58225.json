@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58225.png",
+  "id": "00043_58225",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어머니는 물건을 배달 받고 싶어합니다. 어머니가 배달을 받기 위해 토마토를 더 사려면 토마토는 적어도 몇 상자를 더 사야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            760,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            34,
+            318,
+            408
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            762,
+            23
+          ],
+          "text": "어머니는 물건을 배달 받고 싶어합니다. 어머니가 배달을 받기 위해 토마토를 더 사려면 토마토는 적어도 몇 상자를 더 사야 합니까?"
+        }
+      ]
+    }
+  ]
+}

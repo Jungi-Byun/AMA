@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_03_00043_50529.png",
+  "id": "00043_50529",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203009",
+      "question_topic_name": "소수 한 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소수의 덧셈식을 규칙에 따라 늘어 놓은 것입니다. $6$번째 식의 계산 결과는 얼마인지 구하려고 합니다. 물음에 답하시오. $0.1+0.3, 0.2+0.5, 0.3+0.7, 0.4+0.9,⋯⋯$ ($1$) $6$번째 식을 $ \\square+\\triangle $라고 할 때 $\\square$는 얼마입니까? ($2$) $6$번째 식을 $ \\square+\\triangle $라고 할 때 $ \\triangle $는 얼마입니까? ($3$) $6$번째 식의 계산 결과는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            690,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            278,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            301,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            303,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            250,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            701,
+            121
+          ],
+          "text": "소수의 덧셈식을 규칙에 따라 늘어 놓은 것입니다. $6$번째 식의 계산 결과는 얼마인지 구하려고 합니다. 물음에 답하시오. $0.1+0.3, 0.2+0.5, 0.3+0.7, 0.4+0.9,⋯⋯$ ($1$) $6$번째 식을 $ \\square+\\triangle $라고 할 때 $\\square$는 얼마입니까? ($2$) $6$번째 식을 $ \\square+\\triangle $라고 할 때 $ \\triangle $는 얼마입니까? ($3$) $6$번째 식의 계산 결과는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

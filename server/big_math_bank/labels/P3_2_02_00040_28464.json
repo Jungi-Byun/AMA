@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_02_00040_28464.png",
+  "id": "00040_28464",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202001",
+      "question_topic_name": "내림이 없는 (몇십)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음의 나눗셈을 할 때에 알아야 하는 것은 어느 것입니까? $80 ÷ 2$ ①$4 ÷ 2$ ②$6 ÷ 2$ ③$8 ÷ 2$ ④$8 ÷ 4$ ⑤$4 ÷ 4$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            350,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            26,
+            88,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            69,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            103,
+            69,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            125,
+            69,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            70,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            169,
+            70,
+            189
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            190
+          ],
+          "text": "다음의 나눗셈을 할 때에 알아야 하는 것은 어느 것입니까? $80 ÷ 2$ ①$4 ÷ 2$ ②$6 ÷ 2$ ③$8 ÷ 2$ ④$8 ÷ 4$ ⑤$4 ÷ 4$"
+        }
+      ]
+    }
+  ]
+}

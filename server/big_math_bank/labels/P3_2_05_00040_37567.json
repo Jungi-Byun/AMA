@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00040_37567.png",
+  "id": "00040_37567",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>의 우유가 $1L$라고 할 때, 들이가 $1L$에 가까운 용기는 다음 중 어느 것이겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            512,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            21,
+            139,
+            547
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            514,
+            22
+          ],
+          "text": "<보기>의 우유가 $1L$라고 할 때, 들이가 $1L$에 가까운 용기는 다음 중 어느 것이겠습니까?"
+        }
+      ]
+    }
+  ]
+}

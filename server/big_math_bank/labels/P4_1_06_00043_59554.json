@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_06_00043_59554.png",
+  "id": "00043_59554",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림과 같이 규칙적으로 놓인 무늬가 있습니다. 여섯 번째의 (클로버) 의 수는 얼마인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19.48,
+            5.09,
+            552.28,
+            32.29
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            45,
+            324,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.68,
+            2.69,
+            552.28,
+            32.29
+          ],
+          "text": "그림과 같이 규칙적으로 놓인 무늬가 있습니다. 여섯 번째의 (클로버) 의 수는 얼마인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

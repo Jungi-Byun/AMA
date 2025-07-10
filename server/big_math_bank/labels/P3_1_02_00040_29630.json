@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00040_29630.png",
+  "id": "00040_29630",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102010",
+      "question_topic_name": "직사각형의 특징 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 직사각형의 성질이 아닌 것을 고르시오. ①네 각이 모두 직각입니다. ②변이 모두 네 개입니다. ③세 개의 꼭짓점을 가지고 있습니다. ④마주 보는 두 변의 길이가 같습니다. ⑤각이 모두 네 개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            186,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            173,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            240,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            244,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            173,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            290,
+            130
+          ],
+          "text": "다음 중 직사각형의 성질이 아닌 것을 고르시오. ①네 각이 모두 직각입니다. ②변이 모두 네 개입니다. ③세 개의 꼭짓점을 가지고 있습니다. ④마주 보는 두 변의 길이가 같습니다. ⑤각이 모두 네 개입니다."
+        }
+      ]
+    }
+  ]
+}

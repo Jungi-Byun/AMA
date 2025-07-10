@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00043_55324.png",
+  "id": "00043_55324",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 1189 mm, 세로 841 mm인 종이가 세로로 반 나뉘어 있고 왼쪽 절반이 A1이고, 나머지의 절반의 아래쪽이 A2이고, 그 나머지의 반의 왼쪽이 A3이고 그 나머지의 반의 아래쪽이 A4이고 그 나머지의 반의 왼쪽이 A5이고 그 나머지의 반의 아래쪽이 A6이고 그 나머지의 반의 왼쪽이 A7이고 그 나머지의 반의 아래쪽이 A8이며 위쪽에 계속된다는 표시가 있는 그림",
+      "question_text": "인쇄를 할 때 사용하는 종이는 자르는 과정을 몇 번 반복했느냐에 따라 용지에 이름을 붙입니다. 예를 들어 $ A 4 $ 용지는 $ A 0 $ 인 용지를 $4$번 잘 랐을 때 생긴 용지라는 뜻입니다. 다음을 보고 $ A 4 $  용지는 $ A 1 $  용지의 얼마인지 분수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            565,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            56,
+            294,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            41
+          ],
+          "text": "인쇄를 할 때 사용하는 종이는 자르는 과정을 몇 번 반복했느냐에 따라 용지에 이름을 붙입니다. 예를 들어 $ A 4 $ 용지는 $ A 0 $ 인 용지를 $4$번 잘 랐을 때 생긴 용지라는 뜻입니다. 다음을 보고 $ A 4 $  용지는 $ A 1 $  용지의 얼마인지 분수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53609.png",
+  "id": "00043_53609",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "원 문자 ㄱ에서 왼쪽 아래와 오른쪽 아래의 임의의 두 점 ㄴ, ㄷ으로 선분을 그어 중심각이 예각인 부채꼴 ㄱㄴㄷ을 만들고, 길이가 13 cm인 현 ㄴㄷ을 그은 그림",
+      "question_text": "그림에서 삼각형 ㄱㄴㄷ의 세 변의 합은 $31 cm$입니다. 이 원의 반지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            507,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            30,
+            151,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            509,
+            21
+          ],
+          "text": "그림에서 삼각형 ㄱㄴㄷ의 세 변의 합은 $31 cm$입니다. 이 원의 반지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

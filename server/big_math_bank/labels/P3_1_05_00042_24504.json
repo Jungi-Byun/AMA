@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00042_24504.png",
+  "id": "00042_24504",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소영이네 집에서 놀이 공원까지 가는 데 1시간 45분이 걸립니다. 10시 30분에 놀이 공원에 도착하려면 집에서 몇 시 몇 분에 출발하여야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            53,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            40
+          ],
+          "text": "소영이네 집에서 놀이 공원까지 가는 데 1시간 45분이 걸립니다. 10시 30분에 놀이 공원에 도착하려면 집에서 몇 시 몇 분에 출발하여야 합니까?"
+        }
+      ]
+    }
+  ]
+}

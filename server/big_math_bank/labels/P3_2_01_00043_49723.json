@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_01_00043_49723.png",
+  "id": "00043_49723",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 $4$장의 숫자 카드를 한 번씩만 사용하여 곱이 가장 큰 (두 자리 수)×(두 자리 수)의 곱셈식을 만들고 곱을 구하려고 합니다. 알맞은 식을 쓰고 답을 구하시오. $3 6 4 8$ 식\\qquad 답\\qquad",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            178,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            44,
+            140,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            71
+          ],
+          "text": "다음과 같은 $4$장의 숫자 카드를 한 번씩만 사용하여 곱이 가장 큰 (두 자리 수)×(두 자리 수)의 곱셈식을 만들고 곱을 구하려고 합니다. 알맞은 식을 쓰고 답을 구하시오. $3 6 4 8$ 식\\qquad 답\\qquad"
+        }
+      ]
+    }
+  ]
+}

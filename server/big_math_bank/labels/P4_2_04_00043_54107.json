@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_54107.png",
+  "id": "00043_54107",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204014",
+      "question_topic_name": "평행사변형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "평행사변형 ㄱㄴㄷㄹ의 선분 ㄴㄷ의 연장선을 점선으로 나타내고 각 ㄴㄷㄹ의 외각의 크기가 50도일 때, 각 ㄴㄷㄹ을 나타내는 네모와 각 ㄱㄹㄷ을 나탸내는 네모",
+      "question_text": "사각형 ㄱㄴㄷㄹ은 평행사변형입니다. $ \\square $ 안에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            422,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            29,
+            208,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            424,
+            22
+          ],
+          "text": "사각형 ㄱㄴㄷㄹ은 평행사변형입니다. $ \\square $ 안에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

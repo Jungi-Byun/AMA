@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_02544.png",
+  "id": "00042_02544",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "운동장에서 학생들이 체조를 하고 있습니다. 모자를 쓴 학생은 $367$명, 모자를 쓰지 않은 학생은 $143$명입니다. 모자를 쓴 학생은 쓰지 않은 학생보다 몇 명 더 많습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            615,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            361,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            617,
+            41
+          ],
+          "text": "운동장에서 학생들이 체조를 하고 있습니다. 모자를 쓴 학생은 $367$명, 모자를 쓰지 않은 학생은 $143$명입니다. 모자를 쓴 학생은 쓰지 않은 학생보다 몇 명 더 많습니까?"
+        }
+      ]
+    }
+  ]
+}

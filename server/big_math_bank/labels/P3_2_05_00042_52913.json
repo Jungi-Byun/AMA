@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_52913.png",
+  "id": "00042_52913",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 물건의 무게가 얼마쯤 되는지 어림해 본 무게와 실제로 잰 무게를 나타낸 것입니다. 가장 잘 어림한 과일은 무엇입니까?  <table border>   <tbody>     <tr>       <td>물건</td>       <td>어림한 무게</td>       <td>실제로 잰 무게</td>     </tr>     <tr>       <td>사과</td>       <td>$320$g</td>       <td>$400$g</td>     </tr>     <tr>       <td>멜론</td>       <td>$850$g</td>       <td>$940$g</td>     </tr>     <tr>       <td>감</td>       <td>$280$g</td>       <td>$230$g</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            730,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            252,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            732,
+            113
+          ],
+          "text": "다음은 물건의 무게가 얼마쯤 되는지 어림해 본 무게와 실제로 잰 무게를 나타낸 것입니다. 가장 잘 어림한 과일은 무엇입니까?  <table border>   <tbody>     <tr>       <td>물건</td>       <td>어림한 무게</td>       <td>실제로 잰 무게</td>     </tr>     <tr>       <td>사과</td>       <td>$320$g</td>       <td>$400$g</td>     </tr>     <tr>       <td>멜론</td>       <td>$850$g</td>       <td>$940$g</td>     </tr>     <tr>       <td>감</td>       <td>$280$g</td>       <td>$230$g</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_01_00042_26738.png",
+  "id": "00042_26738",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠과 ㉡ 중 더 큰 것의 기호를 쓰시오.  ㉠ $385+575-194 $ ㉡ $703-185+482$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            228,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.29,
+            31.05,
+            126.18,
+            45.9
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25.83,
+            54.52,
+            125.67,
+            67.83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.79,
+            1.09,
+            228.74,
+            66.62
+          ],
+          "text": "㉠과 ㉡ 중 더 큰 것의 기호를 쓰시오.  ㉠ $385+575-194 $ ㉡ $703-185+482$"
+        }
+      ]
+    }
+  ]
+}

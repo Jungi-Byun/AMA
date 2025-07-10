@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36054.png",
+  "id": "00043_36054",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "운동장에  $30 \\mathrm{~m}$ 의 선을 긋고, 그 선 위에 $6 \\mathrm{~m}$간격으로 깃발을 꽂으려고 합니다. 선의 처음과 끝에도 모두 깃발을 꽂는다고 할 때, 필요한 깃발은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            153,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "운동장에  $30 \\mathrm{~m}$ 의 선을 긋고, 그 선 위에 $6 \\mathrm{~m}$간격으로 깃발을 꽂으려고 합니다. 선의 처음과 끝에도 모두 깃발을 꽂는다고 할 때, 필요한 깃발은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

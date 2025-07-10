@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_04_00043_52119.png",
+  "id": "00043_52119",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204005",
+      "question_topic_name": "삼각자를 사용하여 평행선 긋기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직선 가와 평행한 직선은 모두 몇 개 그을 수 있습니까?  가 \\qquad  ①$1$개 ②$2$개 ③$3$개 ④셀 수 없이 많습니다. ⑤$5$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            328,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            54,
+            62,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            76,
+            65,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            98,
+            65,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            120,
+            160,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            142,
+            64,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            29,
+            237,
+            46
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            330,
+            161
+          ],
+          "text": "직선 가와 평행한 직선은 모두 몇 개 그을 수 있습니까?  가 \\qquad  ①$1$개 ②$2$개 ③$3$개 ④셀 수 없이 많습니다. ⑤$5$개"
+        }
+      ]
+    }
+  ]
+}

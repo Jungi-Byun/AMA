@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36058.png",
+  "id": "00043_36058",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "고구마를 몇 개씩 넣을 수 있는 봉투가 있습니다. 이 봉투에 고구마를 가득 넣어 한 손에 $2$개씩 양손으로 들고 갔더니 $16$명의 사람이 고구마를 $2$개씩 먹을 수 있었습니다. 봉투 한 개에 넣은 고구마는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            423,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            41
+          ],
+          "text": "고구마를 몇 개씩 넣을 수 있는 봉투가 있습니다. 이 봉투에 고구마를 가득 넣어 한 손에 $2$개씩 양손으로 들고 갔더니 $16$명의 사람이 고구마를 $2$개씩 먹을 수 있었습니다. 봉투 한 개에 넣은 고구마는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

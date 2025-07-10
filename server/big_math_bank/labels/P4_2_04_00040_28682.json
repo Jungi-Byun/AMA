@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_28682.png",
+  "id": "00040_28682",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204001",
+      "question_topic_name": "수직 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직선$ㄱㄴ$과 직선 $ㄷㄹ$이 수선의 관계일 때, 잘못 설명한 것은 어느 것입니까? ①직각은 모두 네 개입니다. ②직선 $ㄱㄴ$에 대한 수선은 직선 $ㄷㄹ$입니다. ③직선 $ㄷㄹ$은 직선 $ㄱㄴ$과 수직으로 만납니다. ④직선 $ㄱㄴ$에 대하여 다른 수선은 그릴 수 없습니다. ⑤직선 $ㄷㄹ$에 대한 수선은 직선 $ㄱㄴ$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            450,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            144,
+            186,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            282,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            295,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            210,
+            328,
+            230
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            232,
+            282,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            182,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            452,
+            20
+          ],
+          "text": "직선$ㄱㄴ$과 직선 $ㄷㄹ$이 수선의 관계일 때, 잘못 설명한 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            143,
+            330,
+            252
+          ],
+          "text": "①직각은 모두 네 개입니다. ②직선 $ㄱㄴ$에 대한 수선은 직선 $ㄷㄹ$입니다. ③직선 $ㄷㄹ$은 직선 $ㄱㄴ$과 수직으로 만납니다. ④직선 $ㄱㄴ$에 대하여 다른 수선은 그릴 수 없습니다. ⑤직선 $ㄷㄹ$에 대한 수선은 직선 $ㄱㄴ$입니다."
+        }
+      ]
+    }
+  ]
+}

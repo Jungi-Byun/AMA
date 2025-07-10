@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_03_00042_36508.png",
+  "id": "00042_36508",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "탁구공을 한 상자에 5개씩 담으려고 합니다. 탁구공 $45$개를 담으려면 상자는 모두 몇 개 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            586,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            588,
+            21
+          ],
+          "text": "탁구공을 한 상자에 5개씩 담으려고 합니다. 탁구공 $45$개를 담으려면 상자는 모두 몇 개 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

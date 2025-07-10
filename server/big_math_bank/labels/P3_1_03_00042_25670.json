@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00042_25670.png",
+  "id": "00042_25670",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$6$의 단 곱셈구구를 이용하여 $6$으로 나눈 몫을 빈칸에 써넣으시오.  <table border>   <tbody>     <tr>       <td>수</td>       <td>$42$</td>       <td>$12$</td>       <td>$30$</td>       <td>$24$</td>       <td>$54$</td>     </tr>     <tr>       <td>몫</td>       <td></td>       <td>$2$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            388,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            180,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            70
+          ],
+          "text": "$6$의 단 곱셈구구를 이용하여 $6$으로 나눈 몫을 빈칸에 써넣으시오.  <table border>   <tbody>     <tr>       <td>수</td>       <td>$42$</td>       <td>$12$</td>       <td>$30$</td>       <td>$24$</td>       <td>$54$</td>     </tr>     <tr>       <td>몫</td>       <td></td>       <td>$2$</td>       <td></td>       <td></td>       <td></td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

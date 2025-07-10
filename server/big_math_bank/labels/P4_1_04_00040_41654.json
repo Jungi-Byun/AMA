@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_04_00040_41654.png",
+  "id": "00040_41654",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같이 $7$을 거울에 비추었습니다. 거울에 생긴 모양은 $7$을 어떻게 움직인 것과 모양이 같습니까?    ① 왼쪽으로 밀기 ② 오른쪽으로 뒤집기  ⑤ 위쪽으로 뒤집기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            590,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            127,
+            124,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            149,
+            149,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            231,
+            137,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            370,
+            22,
+            455,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            166,
+            171,
+            233
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.72,
+            0.83,
+            590.72,
+            17.83
+          ],
+          "text": "다음과 같이 $7$을 거울에 비추었습니다. 거울에 생긴 모양은 $7$을 어떻게 움직인 것과 모양이 같습니까?   "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.72,
+            126.83,
+            149.72,
+            168.83
+          ],
+          "text": "① 왼쪽으로 밀기 ② 오른쪽으로 뒤집기"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.72,
+            232.39,
+            135.72,
+            253.39
+          ],
+          "text": " ⑤ 위쪽으로 뒤집기"
+        }
+      ]
+    }
+  ]
+}

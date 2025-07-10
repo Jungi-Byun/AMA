@@ -1,0 +1,149 @@
+{
+  "question_filename": "P3_2_05_00042_52878.png",
+  "id": "00042_52878",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이의 합과 차를 구하시오. (1) $1L 660mL$+$300mL$ (2) $4L 200mL$+$2L 500mL$ (3) $3L 450mL$+$4L 230mL$ (4) $5L 320mL$+$1L 540mL$ (5) $6L 550mL$+$2L 300mL$ (6) $9L 900mL$-$5L 400mL$ (7) $6L 870mL$-$3L 600mL$ (8) $3L 800mL$-$100mL$ (9) $4L 700mL$-$1L 250mL$ (10) $8L 540mL$-$3L 200mL$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            174,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            154,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            179,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            176,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            173,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            110,
+            176,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            132,
+            178,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            154,
+            175,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            176,
+            156,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            198,
+            172,
+            214
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            220,
+            183,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            185,
+            237
+          ],
+          "text": "들이의 합과 차를 구하시오. (1) $1L 660mL$+$300mL$ (2) $4L 200mL$+$2L 500mL$ (3) $3L 450mL$+$4L 230mL$ (4) $5L 320mL$+$1L 540mL$ (5) $6L 550mL$+$2L 300mL$ (6) $9L 900mL$-$5L 400mL$ (7) $6L 870mL$-$3L 600mL$ (8) $3L 800mL$-$100mL$ (9) $4L 700mL$-$1L 250mL$ (10) $8L 540mL$-$3L 200mL$"
+        }
+      ]
+    }
+  ]
+}

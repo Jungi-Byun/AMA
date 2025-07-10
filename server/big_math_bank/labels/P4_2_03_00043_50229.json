@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_03_00043_50229.png",
+  "id": "00043_50229",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203006",
+      "question_topic_name": "소수의 1/10, 1/100, 1/1000 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음에서 ㉡이 나타내는 수는 ㉠이 나타내는 수의 몇 배인지 분수로 구하시오.$ \\begin{array}{c}2.\\underline18\\underline1 \\\\ \\text { ~~~㉠ ㉡ }\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            455,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            26,
+            70,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            56,
+            80,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            600,
+            83
+          ],
+          "text": "다음에서 ㉡이 나타내는 수는 ㉠이 나타내는 수의 몇 배인지 분수로 구하시오.$ \\begin{array}{c}2.\\underline18\\underline1 \\\\ \\text { ~~~㉠ ㉡ }\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

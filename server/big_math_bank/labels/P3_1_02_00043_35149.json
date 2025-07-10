@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_02_00043_35149.png",
+  "id": "00043_35149",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형의 이름이 될 수 있는 것을 <보기>에서 모두 찾아 쓰시오.  <보기>삼각형, 사각형, 직각삼각형, 직사각형, 정사각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            396,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            125,
+            80,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            155,
+            307,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            24,
+            122,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            398,
+            22
+          ],
+          "text": "다음 도형의 이름이 될 수 있는 것을 <보기>에서 모두 찾아 쓰시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            123,
+            315,
+            183
+          ],
+          "text": "<보기>삼각형, 사각형, 직각삼각형, 직사각형, 정사각형"
+        }
+      ]
+    }
+  ]
+}

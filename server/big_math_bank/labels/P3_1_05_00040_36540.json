@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_05_00040_36540.png",
+  "id": "00040_36540",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "시각과 시간의 계산에 대한 것입니다. 바른 것은 어느 것입니까? ① $(시각) + (시간) = (시간)$ ② $(시간) + (시간) = (시각)$ ③ $(시각) - (시각) = (시각)$ ④ $(시각) - (시간) = (시각)$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            379,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            180,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            184,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            182,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            178,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            381,
+            108
+          ],
+          "text": "시각과 시간의 계산에 대한 것입니다. 바른 것은 어느 것입니까? ① $(시각) + (시간) = (시간)$ ② $(시간) + (시간) = (시각)$ ③ $(시각) - (시각) = (시각)$ ④ $(시각) - (시간) = (시각)$"
+        }
+      ]
+    }
+  ]
+}

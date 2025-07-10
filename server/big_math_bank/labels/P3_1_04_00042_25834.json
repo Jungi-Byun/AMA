@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_04_00042_25834.png",
+  "id": "00042_25834",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $20 cm$인 파란색 테이프$ 8$개를 $5 cm$씩 겹치도록 이어 붙였습니다. 이은 파란색 테이프의 전체 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            717,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.23,
+            0.65,
+            719.23,
+            18.65
+          ],
+          "text": "길이가 $20 cm$인 파란색 테이프$ 8$개를 $5 cm$씩 겹치도록 이어 붙였습니다. 이은 파란색 테이프의 전체 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

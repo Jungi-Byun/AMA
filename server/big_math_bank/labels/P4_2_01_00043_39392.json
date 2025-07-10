@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_01_00043_39392.png",
+  "id": "00043_39392",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 사람의 대화를 보고 $\\square$ 안에 알맞은 수를 구하시오. 희영 : 길이가 $ 2 \\frac{9}{11}  m$인 색 테이프가 필요해. 그만큼 있어? 미선 : 지금 $ 1 \\frac{7}{11}  m$짜리 $2$개 밖에 없어. 희영 : 그럼 $\\square m$ 겹치게 이어 붙여서 $ 2 \\frac{9}{11}  m$로 만들어서 쓰면 되겠구나.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            321,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            30,
+            370,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            69,
+            265,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            110,
+            445,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            448,
+            143
+          ],
+          "text": "두 사람의 대화를 보고 $\\square$ 안에 알맞은 수를 구하시오. 희영 : 길이가 $ 2 \\frac{9}{11}  m$인 색 테이프가 필요해. 그만큼 있어? 미선 : 지금 $ 1 \\frac{7}{11}  m$짜리 $2$개 밖에 없어. 희영 : 그럼 $\\square m$ 겹치게 이어 붙여서 $ 2 \\frac{9}{11}  m$로 만들어서 쓰면 되겠구나."
+        }
+      ]
+    }
+  ]
+}

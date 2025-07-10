@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50905.png",
+  "id": "00043_50905",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$0.1$이 $24$개, $0.01$이 $59$개인 수와 $0.01$이 $62$개, $0.001$이 $73$개인 수의 합을 알아보시오. (1) $0.1$이 $24$개, $0.01$이 $59$개인 수를 구하시오. (2) $0.01$이 $62$개, $0.001$이 $73$개인 수를 구하시오. (3) (1)과 (2)에서 구한 두 수의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            508,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            279,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            300,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            277,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            510,
+            84
+          ],
+          "text": "$0.1$이 $24$개, $0.01$이 $59$개인 수와 $0.01$이 $62$개, $0.001$이 $73$개인 수의 합을 알아보시오. (1) $0.1$이 $24$개, $0.01$이 $59$개인 수를 구하시오. (2) $0.01$이 $62$개, $0.001$이 $73$개인 수를 구하시오. (3) (1)과 (2)에서 구한 두 수의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

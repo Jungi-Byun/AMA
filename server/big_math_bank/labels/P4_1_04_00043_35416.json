@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00043_35416.png",
+  "id": "00043_35416",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형을 (반시계방향 90도)와 같이 $3$번 돌린 다음 아래쪽으로 $5$번 뒤집은 도형을 그리시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19.72,
+            0,
+            475.72,
+            29.67
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27.72,
+            31.67,
+            111.72,
+            228.67
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.72,
+            0,
+            476.72,
+            29.67
+          ],
+          "text": "다음 도형을 (반시계방향 90도)와 같이 $3$번 돌린 다음 아래쪽으로 $5$번 뒤집은 도형을 그리시오."
+        }
+      ]
+    }
+  ]
+}

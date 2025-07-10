@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00043_57379.png",
+  "id": "00043_57379",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉮, ㉯, ㉰ 세 컵에 물을 가득 담아 각각 다음 횟수만큼 어떤 그릇에 부으면 물의 높이가 모두 같아진다고 합니다. 물음에 답하시오. ㉮ 컵 : $10$회 ㉯ 컵 : $15$회 ㉰ 컵 : $30$회 (1) 컵에 따라 부은 횟수가 다른 이유를 쓰시오. (2) ㉮, ㉯, ㉰ 세 컵 중 물이 많이 들어가는 것부터 순서대로 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            743,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            101,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            55,
+            101,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            76,
+            101,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            281,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            440,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            144
+          ],
+          "text": "㉮, ㉯, ㉰ 세 컵에 물을 가득 담아 각각 다음 횟수만큼 어떤 그릇에 부으면 물의 높이가 모두 같아진다고 합니다. 물음에 답하시오. ㉮ 컵 : $10$회 ㉯ 컵 : $15$회 ㉰ 컵 : $30$회 (1) 컵에 따라 부은 횟수가 다른 이유를 쓰시오. (2) ㉮, ㉯, ㉰ 세 컵 중 물이 많이 들어가는 것부터 순서대로 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

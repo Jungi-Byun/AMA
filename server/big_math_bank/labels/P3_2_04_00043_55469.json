@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_04_00043_55469.png",
+  "id": "00043_55469",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "달걀이 $50$개 있었는데 그중의 $\\frac{1}{5}$을 사용하였습니다. 사용한 달걀은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            484,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            486,
+            38
+          ],
+          "text": "달걀이 $50$개 있었는데 그중의 $\\frac{1}{5}$을 사용하였습니다. 사용한 달걀은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

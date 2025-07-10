@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00040_28957.png",
+  "id": "00040_28957",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 옳은 것은 어느 것입니까?  ① $ 15 \\mathrm{~L}=1500 \\mathrm{~mL} $ ② $ 3600 \\mathrm{~mL}=36 \\mathrm{~L} $ ③ $ 7 \\mathrm{~L} 50 \\mathrm{~mL}=750 \\mathrm{~mL} $ ④ $ 2020 \\mathrm{~mL}=2 \\mathrm{~L} 20 \\mathrm{~mL} $ ⑤ $ 50 \\mathrm{~L}=5000 \\mathrm{~mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            212,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            122,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            129,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            149,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            160,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            131,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            214,
+            130
+          ],
+          "text": "다음 중 옳은 것은 어느 것입니까?  ① $ 15 \\mathrm{~L}=1500 \\mathrm{~mL} $ ② $ 3600 \\mathrm{~mL}=36 \\mathrm{~L} $ ③ $ 7 \\mathrm{~L} 50 \\mathrm{~mL}=750 \\mathrm{~mL} $ ④ $ 2020 \\mathrm{~mL}=2 \\mathrm{~L} 20 \\mathrm{~mL} $ ⑤ $ 50 \\mathrm{~L}=5000 \\mathrm{~mL} $"
+        }
+      ]
+    }
+  ]
+}

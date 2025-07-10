@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_01_00042_27537.png",
+  "id": "00042_27537",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수직선에서 ㉠이 가리키는 수는 얼마인지 알아보려고 합니다. 물음에 답하시오.  (1) 작은 눈금 한 칸은 얼마를 나타냅니까? (2) ㉠이 가리키는 수는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            463,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            255,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            86,
+            225,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            19,
+            299,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            465,
+            22
+          ],
+          "text": "수직선에서 ㉠이 가리키는 수는 얼마인지 알아보려고 합니다. 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            62,
+            257,
+            104
+          ],
+          "text": "(1) 작은 눈금 한 칸은 얼마를 나타냅니까? (2) ㉠이 가리키는 수는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

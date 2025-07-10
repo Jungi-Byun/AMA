@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_03_00043_34118.png",
+  "id": "00043_34118",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103011",
+      "question_topic_name": "나머지가 있는 (두 자리 수)÷(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 숫자 카드 를 한 번씩 사용하여 만들 수 있는 두 자리 수 중 가장 큰 수를 셋째로 작은 수로 나누었을 때의 몫과 나머지를 알아보시오.(1) 두 자리 수 중 가장 큰 수를 구하시오.(2) 두 자리 수 중 셋째로 작은 수를 구하시오.(3) 두 자리 수 중 가장 큰 수를 셋째로 작은 수로 나누었을 때의 몫과 나머지를 각각 구하시오.몫( ), 나머지( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            23
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            25,
+            141,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            47,
+            246,
+            64
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            69,
+            274,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            91,
+            546,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            109
+          ],
+          "text": "다음 숫자 카드 를 한 번씩 사용하여 만들 수 있는 두 자리 수 중 가장 큰 수를 셋째로 작은 수로 나누었을 때의 몫과 나머지를 알아보시오.(1) 두 자리 수 중 가장 큰 수를 구하시오.(2) 두 자리 수 중 셋째로 작은 수를 구하시오.(3) 두 자리 수 중 가장 큰 수를 셋째로 작은 수로 나누었을 때의 몫과 나머지를 각각 구하시오.몫( ), 나머지( )"
+        }
+      ]
+    }
+  ]
+}

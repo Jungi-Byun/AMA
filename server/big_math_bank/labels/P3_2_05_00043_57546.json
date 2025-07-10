@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57546.png",
+  "id": "00043_57546",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 들이가 더 적은 그릇을 찾아 어떤 물질로 만들었는지 <보기>에서 골라 쓰시오. <보기> 유리 금속 플라스틱 유리 그릇 $IL  800 \\mathrm{~mL} $ 플라스틱 통 $ 1080 \\mathrm{~mL} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            505,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            30,
+            312,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            507,
+            22
+          ],
+          "text": "다음 중 들이가 더 적은 그릇을 찾아 어떤 물질로 만들었는지 <보기>에서 골라 쓰시오. <보기> 유리 금속 플라스틱 유리 그릇 $IL  800 \\mathrm{~mL} $ 플라스틱 통 $ 1080 \\mathrm{~mL} $"
+        }
+      ]
+    }
+  ]
+}

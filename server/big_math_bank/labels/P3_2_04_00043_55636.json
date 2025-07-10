@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_04_00043_55636.png",
+  "id": "00043_55636",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 분수는 가분수입니다. <보기>에서 $\\square$ 안에 들어갈 수 있는 수를 찾아 쓰시오. $ \\frac{\\square}{9} $ <보기> $3 5 9$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            479,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            42,
+            27,
+            63,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            67,
+            78,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            92,
+            132,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            120
+          ],
+          "text": "다음 분수는 가분수입니다. <보기>에서 $\\square$ 안에 들어갈 수 있는 수를 찾아 쓰시오. $ \\frac{\\square}{9} $ <보기> $3 5 9$"
+        }
+      ]
+    }
+  ]
+}

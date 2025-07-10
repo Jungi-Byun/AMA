@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00043_41984.png",
+  "id": "00043_41984",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103003",
+      "question_topic_name": "똑같이 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "국기를 보고 물음에 답하시오. ⑴ 똑같이 둘로 나누어진 국기는 어느 나라의 국기입니까?⑵ 똑같이 셋으로 나누어진 국기는 어느 나라의 국기입니까?⑶ 똑같이 넷으로 나누어진 국기는 어느 나라의 국기입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            188,
+            346,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            213,
+            359,
+            230
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            235,
+            359,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            315,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            189,
+            20
+          ],
+          "text": "국기를 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            186,
+            361,
+            253
+          ],
+          "text": "⑴ 똑같이 둘로 나누어진 국기는 어느 나라의 국기입니까?⑵ 똑같이 셋으로 나누어진 국기는 어느 나라의 국기입니까?⑶ 똑같이 넷으로 나누어진 국기는 어느 나라의 국기입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_02_00043_37653.png",
+  "id": "00043_37653",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202006",
+      "question_topic_name": "정삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "음악을 듣는 사람과 $2$개의 스피커를 정삼각형으로 놓으면 소리의 입체감이 더욱 뛰어나다고 합니다. 정현이가 방에 스피커 $2$개를 설치하려고 할 때 스피커에서 나오는 소리를 가장 입체적으로 들으려면 스피커를 각각 어느 곳에 설치해야 하는지 기호를 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            694,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            44,
+            258,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "음악을 듣는 사람과 $2$개의 스피커를 정삼각형으로 놓으면 소리의 입체감이 더욱 뛰어나다고 합니다. 정현이가 방에 스피커 $2$개를 설치하려고 할 때 스피커에서 나오는 소리를 가장 입체적으로 들으려면 스피커를 각각 어느 곳에 설치해야 하는지 기호를 쓰시오."
+        }
+      ]
+    }
+  ]
+}

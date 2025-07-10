@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_03_00042_53232.png",
+  "id": "00042_53232",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "원 ㅇ이 있고 반지름 ㅇㄱ, 반지름 ㅇㄷ이 있으며 부채꼴 ㄱㅇㄷ의 짧은 호 ㄱㄷ이 우측에 있고 긴 호인 왼편 원 위에 임의의 점 ㄴ이 있으며 현 ㄴㄷ을 표현한 평면도형",
+      "question_text": "그림을 보고 물음에 답하시오. (1) 점 $o$을 무엇이라고 합니까? (2) 원의 반지름을 나타내는 선분을 모두 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            145,
+            197,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            170,
+            321,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            141,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.1,
+            0.4,
+            188.1,
+            17.4
+          ],
+          "text": "그림을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.51,
+            145.83,
+            322.22,
+            186.24
+          ],
+          "text": "(1) 점 $o$을 무엇이라고 합니까? (2) 원의 반지름을 나타내는 선분을 모두 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

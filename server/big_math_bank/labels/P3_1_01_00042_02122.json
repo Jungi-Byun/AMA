@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_01_00042_02122.png",
+  "id": "00042_02122",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 뺄셈에서 $5$가 실제로 나타내는 수는 얼마입니까?  ① $1$  ② $5$  ③ $10$  ④ $50$  ⑤ $500$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            335,
+            23
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            135,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            49,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            171,
+            52,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            193,
+            59,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            215,
+            61,
+            235
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            237,
+            70,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            337,
+            258
+          ],
+          "text": "다음 뺄셈에서 $5$가 실제로 나타내는 수는 얼마입니까?  ① $1$  ② $5$  ③ $10$  ④ $50$  ⑤ $500$"
+        }
+      ]
+    }
+  ]
+}

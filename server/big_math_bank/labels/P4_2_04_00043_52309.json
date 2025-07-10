@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_52309.png",
+  "id": "00043_52309",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로선 가와 나는 서로 평행하며, 직선 가와 나의 사이에서 우상향하다가 우하향하도록 꺾이는 선이 가와 만나는 지점이 ㄱ, 꺾이는 지점이 ㄴ, 나와 만나는 지점이 ㄷ이고, 두 직선의 사이에서 가와 만나는 지점과 나와 만나는 지점의 각 중 작은 쪽이 각각 35도, 55도인 도형",
+      "question_text": "직선 가와 직선 나는 서로 평행합니다. 각 ㄱㄴㄷ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            404,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            38,
+            37,
+            197,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            406,
+            22
+          ],
+          "text": "직선 가와 직선 나는 서로 평행합니다. 각 ㄱㄴㄷ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

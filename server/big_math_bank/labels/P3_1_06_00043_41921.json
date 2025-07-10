@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_41921.png",
+  "id": "00043_41921",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "서로 방향이 모두 다르고 집에서 학교까지의 거리가 2.4 km, 집에서 병원까지의 거리가 1.2 km, 집에서 마트까지의 거리가 1.6 km, 집에서 은행까지의 거리가 3.4 km인 지도",
+      "question_text": "집에서 가장 가까운 곳은 어디입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            33,
+            318,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            235,
+            21
+          ],
+          "text": "집에서 가장 가까운 곳은 어디입니까?"
+        }
+      ]
+    }
+  ]
+}

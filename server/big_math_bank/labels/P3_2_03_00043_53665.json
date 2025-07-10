@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00043_53665.png",
+  "id": "00043_53665",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㄱㄴ과 선분 ㄴㄷ을 반지름으로 갖는 원 문자 ㄴ, 선분 ㄱㄹ과 선분 ㄷㄹ을 반지름으로 갖는 원 ㄹ이 겹쳐져 있고 두 원의 교점 ㄱ, ㄷ이 있을 때 사각형 ㄱㄴㄷㄹ이 있고 선분 ㄴㄹ을 만들면 차례로 교점 2개가 생기고 점 ㄴ에서 첫 번째 교점까지의 길이는 3 cm, 첫 번째 교점부터 두 번째 교점까지의 길이는 2 cm, 두 번째 교점부터 점 ㄹ까지의 길이는 5 cm인 도형",
+      "question_text": "그림을 보고 사각형 $ㄱㄴㄷㄹ$의 네 변의 합을 알아보시오.  (1) 선분 $ㄱㄴ$과 선분 $ㄴㄷ$의 길이는 각각 몇 $ \\mathrm{cm} $인지 차례로 쓰시오.  (2) 선분 $ㄱㄹ$과 선분 $ㄷㄹ$의 길이는 각각 몇 $ \\mathrm{cm} $인지 차례로 쓰시오.  (3) 사각형 $ㄱㄴㄷㄹ$의 네 변의 합은 몇 $ \\mathrm{cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            152,
+            397,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            174,
+            397,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            196,
+            301,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            28,
+            205,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            344,
+            23
+          ],
+          "text": "그림을 보고 사각형 $ㄱㄴㄷㄹ$의 네 변의 합을 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            151,
+            399,
+            213
+          ],
+          "text": "(1) 선분 $ㄱㄴ$과 선분 $ㄴㄷ$의 길이는 각각 몇 $ \\mathrm{cm} $인지 차례로 쓰시오.  (2) 선분 $ㄱㄹ$과 선분 $ㄷㄹ$의 길이는 각각 몇 $ \\mathrm{cm} $인지 차례로 쓰시오.  (3) 사각형 $ㄱㄴㄷㄹ$의 네 변의 합은 몇 $ \\mathrm{cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_01_00043_32688.png",
+  "id": "00043_32688",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 휴대폰 회사의 수출액이 $1$년에 $2000$억 원씩 늘어난다고 합니다. 빈 곳에 알맞은 수를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            600,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            43,
+            311,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            602,
+            23
+          ],
+          "text": "어느 휴대폰 회사의 수출액이 $1$년에 $2000$억 원씩 늘어난다고 합니다. 빈 곳에 알맞은 수를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

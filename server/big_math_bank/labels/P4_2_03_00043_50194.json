@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00043_50194.png",
+  "id": "00043_50194",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 소수로 나타내었을 때, 생략할 수 있는 숫자 $0$이 있는 것을 고르시오. ①$20.3$의 $ \\frac{1}{10} $배 ②$508$의 $ \\frac{1}{100} $배 ③$1020$의 $ \\frac{1}{1000} $배 ④$1.05$의 $10$배 ⑤$3.707$의 $100$배",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            450,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            123,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            127,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            113,
+            142,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            144,
+            113,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            131,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            452,
+            187
+          ],
+          "text": "다음 중 소수로 나타내었을 때, 생략할 수 있는 숫자 $0$이 있는 것을 고르시오. ①$20.3$의 $ \\frac{1}{10} $배 ②$508$의 $ \\frac{1}{100} $배 ③$1020$의 $ \\frac{1}{1000} $배 ④$1.05$의 $10$배 ⑤$3.707$의 $100$배"
+        }
+      ]
+    }
+  ]
+}

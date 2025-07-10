@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36042.png",
+  "id": "00043_36042",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "네 변의 합이 $56cm$인 직사각형을 다음과 같이 크기가 같은 정사각형 $3$개로 나누었습니다. 정사각형의 한 변은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            723,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            31,
+            167,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            725,
+            24
+          ],
+          "text": "네 변의 합이 $56cm$인 직사각형을 다음과 같이 크기가 같은 정사각형 $3$개로 나누었습니다. 정사각형의 한 변은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

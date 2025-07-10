@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_04_00043_58345.png",
+  "id": "00043_58345",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과수원에서 생산된 사과의 양을 표로 나타낸 것입니다. 물음에 답하시오.   <table border> <caption><과수원별 사과 생산량></caption>   <tbody>     <tr>       <td>과수원</td>       <td>A</td>       <td>B</td>       <td>C</td>       <td>D</td>     </tr>     <tr>       <td>생산량(박스)</td>       <td>10</td>       <td>9</td>       <td>4</td>       <td>15</td>     </tr> </tbody> </table> (1) 과수원 $A$의 사과 생산량은 과수원 $B$의 사과 생산량의 몇 분의 몇인지 수직선 위에 $↑$으로 표시해 보시오.(2) 과수원 $D$의 사과 생산량은 과수원 $B$의 사과 생산량의 몇 분의 몇인지 수직선 위에 $↓$으로 표시해 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            425,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            22,
+            159,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            38,
+            247,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            167,
+            620,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            189,
+            623,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            136,
+            309,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            427,
+            94
+          ],
+          "text": "과수원에서 생산된 사과의 양을 표로 나타낸 것입니다. 물음에 답하시오.   <table border> <caption><과수원별 사과 생산량></caption>   <tbody>     <tr>       <td>과수원</td>       <td>A</td>       <td>B</td>       <td>C</td>       <td>D</td>     </tr>     <tr>       <td>생산량(박스)</td>       <td>10</td>       <td>9</td>       <td>4</td>       <td>15</td>     </tr> </tbody> </table>"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            165,
+            625,
+            208
+          ],
+          "text": "(1) 과수원 $A$의 사과 생산량은 과수원 $B$의 사과 생산량의 몇 분의 몇인지 수직선 위에 $↑$으로 표시해 보시오.(2) 과수원 $D$의 사과 생산량은 과수원 $B$의 사과 생산량의 몇 분의 몇인지 수직선 위에 $↓$으로 표시해 보시오."
+        }
+      ]
+    }
+  ]
+}

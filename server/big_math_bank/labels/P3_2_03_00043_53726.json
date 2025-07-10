@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53726.png",
+  "id": "00043_53726",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 38 cm, 세로 4, 5 cm인 판에 처음 2 cm의 간격을 두고 시작해 각 2 cm의 간격을 두고 6개의 무늬가 있는 원이 있고 마지막에도 2 cm의 간격을 둔 그림",
+      "question_text": "우리나라 고유의 과자인 다식(茶食)은 밤가루, 콩가루, 녹말가루, 참깻가루, 송홧가루 또는 볶아서 말린 멥쌀 가루 등을 꿀에 반죽하여 무늬가 새겨진 다식판에 박아 만든 음식입니다. 다음과 같은 다식판으로 다식을 만들려고 합니다. 만들 수 있는 다식 한 개의 지름은 몇 $ \\mathrm{mm}^{\\prime} $입니까? (단, 다식판의 다식 크기와 다식 사이의 거리는 모두 같습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            799,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            395,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            72,
+            325,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            62
+          ],
+          "text": "우리나라 고유의 과자인 다식(茶食)은 밤가루, 콩가루, 녹말가루, 참깻가루, 송홧가루 또는 볶아서 말린 멥쌀 가루 등을 꿀에 반죽하여 무늬가 새겨진 다식판에 박아 만든 음식입니다. 다음과 같은 다식판으로 다식을 만들려고 합니다. 만들 수 있는 다식 한 개의 지름은 몇 $ \\mathrm{mm}^{\\prime} $입니까? (단, 다식판의 다식 크기와 다식 사이의 거리는 모두 같습니다.)"
+        }
+      ]
+    }
+  ]
+}

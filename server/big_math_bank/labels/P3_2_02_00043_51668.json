@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00043_51668.png",
+  "id": "00043_51668",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$63$보다 크고 $83$보다 작은 자연수 중에서 $5$로 나누었을 때 나머지가 $3$이 되는 수는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            589,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            591,
+            21
+          ],
+          "text": "$63$보다 크고 $83$보다 작은 자연수 중에서 $5$로 나누었을 때 나머지가 $3$이 되는 수는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50376.png",
+  "id": "00043_50376",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203009",
+      "question_topic_name": "소수 한 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "수직선 위 0, 0.5, 1의 눈금 사이에 숫자가 쓰인 눈금보다 작은 눈금이 각각 4개씩 일정한 간격으로 그려져 있고 0에서부터 오른쪽 2번째 눈금, 이 눈금과 0.5에서 오른쪽 3번째 눈금이 각각 눈금 위에서 점선 화살표로 묶여 있는 그림",
+      "question_text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.  $0.2 + 0.6 = \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            288,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            116,
+            70,
+            233,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            23,
+            328,
+            50
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.6,
+            0.59,
+            289.6,
+            17.39
+          ],
+          "text": "수직선을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            114,
+            68,
+            235,
+            101
+          ],
+          "text": "$0.2 + 0.6 = \\square$"
+        }
+      ]
+    }
+  ]
+}

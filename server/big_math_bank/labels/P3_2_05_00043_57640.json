@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_57640.png",
+  "id": "00043_57640",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $ \\begin{aligned} 2200 \\mathrm{~mL}+3700 \\mathrm{~mL} & =\\square \\mathrm{mL} \\\\ & =\\square L \\square \\mathrm{mL}\\end{aligned} $ (2) $ \\begin{aligned} 5900 \\mathrm{~mL}-3300 \\mathrm{~mL} & =\\square \\mathrm{mL} \\\\ & =\\square L \\square \\mathrm{mL}\\end{aligned} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            256,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            107,
+            51,
+            235,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            80,
+            257,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            107,
+            109,
+            235,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            259,
+            136
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $ \\begin{aligned} 2200 \\mathrm{~mL}+3700 \\mathrm{~mL} & =\\square \\mathrm{mL} \\\\ & =\\square L \\square \\mathrm{mL}\\end{aligned} $ (2) $ \\begin{aligned} 5900 \\mathrm{~mL}-3300 \\mathrm{~mL} & =\\square \\mathrm{mL} \\\\ & =\\square L \\square \\mathrm{mL}\\end{aligned} $"
+        }
+      ]
+    }
+  ]
+}

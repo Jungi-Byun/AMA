@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_02_00042_25482.png",
+  "id": "00042_25482",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림은 철사로 직사각형을 만든 것입니다. 이 철사를 남김없이 사용하여 만들 수 있는 가장 큰 정사각형의 한 변의 길이는 몇 $\\mathrm{cm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            791,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            40,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            45,
+            87,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            40
+          ],
+          "text": "다음 그림은 철사로 직사각형을 만든 것입니다. 이 철사를 남김없이 사용하여 만들 수 있는 가장 큰 정사각형의 한 변의 길이는 몇 $\\mathrm{cm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

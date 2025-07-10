@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00043_58626.png",
+  "id": "00043_58626",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "태평양의 표면 수온이 평년보다 상승하여 홍수, 가뭄, 폭설 등을 몰고 오는 기상 이변 현상을 엘리뇨 현상이라고 합니다. 이 엘리뇨 현상으로 어느 도시에 폭설이 내리고 있습니다. $1$시간 동안 내린 눈의 양을 나타낸 표를 보고, 누적되어 쌓인 눈의 양을 꺾은선그래프로 나타내려고 합니다. $7$시부터 $12$시까지 내린 눈의 양이 $19$ cm이고, ㉠이 ㉡의 $2$배일 때, 꺾은선그래프로 나타내시오. <table border> <caption>$1$시간 동안 내린 눈의 양</caption>   <tbody>     <tr>       <td>시간</td>       <td colspan=>$7\\sim8$시</td>  <td>$8\\sim9$시</td>  <td>$9\\sim10$시</td>  <td>$10\\sim11$시</td>  <td>$11\\sim12$시</td>     </tr>     <tr>       <td>눈의 양($cm$)</td>       <td>$~~~~$㉠</td><td>$~~~~5$</td>       <td>$~~~~~$㉡</td>       <td>$~~~~~~~4$</td><td>$~~~~~~1$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            804,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            587,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            98,
+            74,
+            267,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            96,
+            322,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            48,
+            170,
+            301,
+            332
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            334
+          ],
+          "text": "태평양의 표면 수온이 평년보다 상승하여 홍수, 가뭄, 폭설 등을 몰고 오는 기상 이변 현상을 엘리뇨 현상이라고 합니다. 이 엘리뇨 현상으로 어느 도시에 폭설이 내리고 있습니다. $1$시간 동안 내린 눈의 양을 나타낸 표를 보고, 누적되어 쌓인 눈의 양을 꺾은선그래프로 나타내려고 합니다. $7$시부터 $12$시까지 내린 눈의 양이 $19$ cm이고, ㉠이 ㉡의 $2$배일 때, 꺾은선그래프로 나타내시오. <table border> <caption>$1$시간 동안 내린 눈의 양</caption>   <tbody>     <tr>       <td>시간</td>       <td colspan=>$7\\sim8$시</td>  <td>$8\\sim9$시</td>  <td>$9\\sim10$시</td>  <td>$10\\sim11$시</td>  <td>$11\\sim12$시</td>     </tr>     <tr>       <td>눈의 양($cm$)</td>       <td>$~~~~$㉠</td><td>$~~~~5$</td>       <td>$~~~~~$㉡</td>       <td>$~~~~~~~4$</td><td>$~~~~~~1$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

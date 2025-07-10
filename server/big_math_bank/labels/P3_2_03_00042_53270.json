@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00042_53270.png",
+  "id": "00042_53270",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자와 컴퍼스를 사용하여 반지름이 $5cm$인 원을 그리려고 합니다. 순서에 맞게 기호를 쓰시오.  ㉠ 컴퍼스를$ 5cm$가 되도록 벌립니다.㉡ 원의 중심이 되는 점을 정합니다.㉢ 컴퍼스의 침을 원의 중심에 꽂고, 원을 그립니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            536,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            239,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            58,
+            229,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            74,
+            317,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            567,
+            98
+          ],
+          "text": "자와 컴퍼스를 사용하여 반지름이 $5cm$인 원을 그리려고 합니다. 순서에 맞게 기호를 쓰시오.  ㉠ 컴퍼스를$ 5cm$가 되도록 벌립니다.㉡ 원의 중심이 되는 점을 정합니다.㉢ 컴퍼스의 침을 원의 중심에 꽂고, 원을 그립니다."
+        }
+      ]
+    }
+  ]
+}

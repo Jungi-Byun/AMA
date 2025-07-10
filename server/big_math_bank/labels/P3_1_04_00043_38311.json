@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00043_38311.png",
+  "id": "00043_38311",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하시오.   (1) $ \\begin{array}{r}43 \\\\ \\times  2 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}31 \\\\ \\times  3 \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            195,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            197,
+            69
+          ],
+          "text": "계산을 하시오.   (1) $ \\begin{array}{r}43 \\\\ \\times  2 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}31 \\\\ \\times  3 \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

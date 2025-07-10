@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_06_00042_03697.png",
+  "id": "00042_03697",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "전체에 대하여 색칠한 부분의 크기를 분수로 바르게 나타낸 것은 어느 것입니까?  ①$ \\frac{4}{5} $ ②$ \\frac{5}{9} $ ③$ \\frac{4}{9} $ ④$ \\frac{3}{10} $ ⑤$ \\frac{3}{9} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            472,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            94,
+            63,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            135,
+            63,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            176,
+            63,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            216,
+            72,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            257,
+            63,
+            292
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            100,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            474,
+            21
+          ],
+          "text": "전체에 대하여 색칠한 부분의 크기를 분수로 바르게 나타낸 것은 어느 것입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            93,
+            74,
+            293
+          ],
+          "text": "①$ \\frac{4}{5} $ ②$ \\frac{5}{9} $ ③$ \\frac{4}{9} $ ④$ \\frac{3}{10} $ ⑤$ \\frac{3}{9} $"
+        }
+      ]
+    }
+  ]
+}

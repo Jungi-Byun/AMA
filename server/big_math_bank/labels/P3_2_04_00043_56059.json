@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00043_56059.png",
+  "id": "00043_56059",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지희, 정우, 희동이는 서로 다른 양의 점토를 이용하여 소조 작품을 만들려고 합니다. 지희가 가지고 있는 점토의 양은 몇 덩어리가 될 수 있는지 분모가 $15$인 대분수로 모두 쓰시오. 정우 \"내가 가지고 있는 점토는 $ \\frac{26}{15} $ 덩어리야\". 지희 \"희동이의 점토가 가장 많고, 정우의 점토가 가장 적어\". 희동 \"내가 가진 점토는 $ \\frac{30}{15} $ 덩어리야\".",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            245,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            52,
+            322,
+            277
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            40
+          ],
+          "text": "지희, 정우, 희동이는 서로 다른 양의 점토를 이용하여 소조 작품을 만들려고 합니다. 지희가 가지고 있는 점토의 양은 몇 덩어리가 될 수 있는지 분모가 $15$인 대분수로 모두 쓰시오. 정우 \"내가 가지고 있는 점토는 $ \\frac{26}{15} $ 덩어리야\". 지희 \"희동이의 점토가 가장 많고, 정우의 점토가 가장 적어\". 희동 \"내가 가진 점토는 $ \\frac{30}{15} $ 덩어리야\"."
+        }
+      ]
+    }
+  ]
+}

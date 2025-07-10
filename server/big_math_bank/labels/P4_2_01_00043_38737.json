@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38737.png",
+  "id": "00043_38737",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201008",
+      "question_topic_name": "분모가 같은 대분수끼리 덧셈에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산 결과를 더 큰 것의 기호를 쓰시오. ㉠ $ 2 \\frac{1}{10} $+$ 3 \\frac{6}{10} $ ㉡ $ 2 \\frac{7}{10} $+$ 2 \\frac{5}{10} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            237,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            285,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            546,
+            73
+          ],
+          "text": "계산 결과를 더 큰 것의 기호를 쓰시오. ㉠ $ 2 \\frac{1}{10} $+$ 3 \\frac{6}{10} $ ㉡ $ 2 \\frac{7}{10} $+$ 2 \\frac{5}{10} $"
+        }
+      ]
+    }
+  ]
+}

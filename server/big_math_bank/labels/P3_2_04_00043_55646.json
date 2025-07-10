@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55646.png",
+  "id": "00043_55646",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{\\bullet}{7} $는 진분수입니다. 다음 중 $\\bullet$가 될 수 없는 수는 어느 것입니까? ① 1 ② 2 ③ 4 ④ 5 ⑤ 8",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            4,
+            396,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            40,
+            49,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            62,
+            53,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            53,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            52,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            128,
+            53,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            3,
+            398,
+            149
+          ],
+          "text": "$ \\frac{\\bullet}{7} $는 진분수입니다. 다음 중 $\\bullet$가 될 수 없는 수는 어느 것입니까? ① 1 ② 2 ③ 4 ④ 5 ⑤ 8"
+        }
+      ]
+    }
+  ]
+}

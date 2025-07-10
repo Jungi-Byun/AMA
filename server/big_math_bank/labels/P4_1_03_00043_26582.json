@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_03_00043_26582.png",
+  "id": "00043_26582",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103001",
+      "question_topic_name": "세 자리 수와 몇십 곱하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영수는 매일 아침에  $800 \\mathrm{~m}$씩 달리기를 합니다. 이렇게 $30$일 동안 달린다면 몇 $\\mathrm{km}$를 달리게 되겠습니까?  ① $2.4\\mathrm{km}$ ② $24\\mathrm{km}$ ③ $240\\mathrm{km}$  ④ $2400\\mathrm{km}$ ⑤ $24000\\mathrm{km}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            612,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            23,
+            291,
+            43
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            47,
+            210,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            614,
+            68
+          ],
+          "text": "영수는 매일 아침에  $800 \\mathrm{~m}$씩 달리기를 합니다. 이렇게 $30$일 동안 달린다면 몇 $\\mathrm{km}$를 달리게 되겠습니까?  ① $2.4\\mathrm{km}$ ② $24\\mathrm{km}$ ③ $240\\mathrm{km}$  ④ $2400\\mathrm{km}$ ⑤ $24000\\mathrm{km}$"
+        }
+      ]
+    }
+  ]
+}

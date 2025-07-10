@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00042_86467.png",
+  "id": "00042_86467",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밑줄친 숫자가 $30.427$에서 숫자 $2$와 나타내는 수와 같은 것은 어느 것입니까?  ① $ \\underline{2}.459 $ ② $ 5.\\underline{2}63 $  ③ $ \\underline{2} 0.86 $ ④ $ 4.9 \\underline{2} 1$ ⑤ $ 6.70\\underline{2} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            460,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            79,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            79,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            82,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            77,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            81,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            462,
+            130
+          ],
+          "text": "밑줄친 숫자가 $30.427$에서 숫자 $2$와 나타내는 수와 같은 것은 어느 것입니까?  ① $ \\underline{2}.459 $ ② $ 5.\\underline{2}63 $  ③ $ \\underline{2} 0.86 $ ④ $ 4.9 \\underline{2} 1$ ⑤ $ 6.70\\underline{2} $"
+        }
+      ]
+    }
+  ]
+}

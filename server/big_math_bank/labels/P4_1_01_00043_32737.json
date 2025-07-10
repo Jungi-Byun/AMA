@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32737.png",
+  "id": "00043_32737",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "얼마씩 뛰어서 세었는지 알아보려고 합니다. 물음에 답하시오. $\\boxed{\\phantom{(}1350억\\phantom{)}}$-$\\boxed{\\phantom{(}1360억\\phantom{)}}$-$\\boxed{\\phantom{(}1370억\\phantom{)}}$-$\\boxed{\\phantom{(}1380억\\phantom{)}}$-$\\boxed{\\phantom{(}1390억\\phantom{)}}$ (1) 뛰어서 센 수는 어느 자리의 숫자가 변했습니까? (2) 얼마씩 뛰어서 세었습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            367,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            16,
+            238,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            63,
+            310,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            85,
+            196,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            369,
+            103
+          ],
+          "text": "얼마씩 뛰어서 세었는지 알아보려고 합니다. 물음에 답하시오. $\\boxed{\\phantom{(}1350억\\phantom{)}}$-$\\boxed{\\phantom{(}1360억\\phantom{)}}$-$\\boxed{\\phantom{(}1370억\\phantom{)}}$-$\\boxed{\\phantom{(}1380억\\phantom{)}}$-$\\boxed{\\phantom{(}1390억\\phantom{)}}$ (1) 뛰어서 센 수는 어느 자리의 숫자가 변했습니까? (2) 얼마씩 뛰어서 세었습니까?"
+        }
+      ]
+    }
+  ]
+}

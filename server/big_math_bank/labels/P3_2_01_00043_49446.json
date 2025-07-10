@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49446.png",
+  "id": "00043_49446",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같이 원고지의 매수에 따라 묶음으로 묶어 팔 때 한 묶음의 원고지 매수가 많은 묶음부터 차례로 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            643,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            218,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            645,
+            116
+          ],
+          "text": "다음과 같이 원고지의 매수에 따라 묶음으로 묶어 팔 때 한 묶음의 원고지 매수가 많은 묶음부터 차례로 쓰시오."
+        }
+      ]
+    }
+  ]
+}

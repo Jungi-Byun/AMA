@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00042_92615.png",
+  "id": "00042_92615",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. ($1$) $ \\begin{array}{r} \\square\\phantom{)} \\\\ 6{\\overline{\\smash{\\big)}\\,5~~7\\phantom{)}}}\\\\ \\underline{~~~~\\square\\phantom{)}}\\\\ \\square\\phantom{)} \\end{array} $ 몫 : $ \\square $, 나머지: $ \\square $ ($2$) $ \\begin{array}{r} \\square\\phantom{)} \\\\ 8{\\overline{\\smash{\\big)}\\,3~~3\\phantom{)}}}\\\\ \\underline{~~~~\\square\\phantom{)}}\\\\ \\square\\phantom{)} \\end{array} $ 몫 : $ \\square $, , 나머지 : $ \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            95,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            122,
+            66,
+            260,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            163,
+            96,
+            274
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            123,
+            205,
+            262,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            264,
+            276
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. ($1$) $ \\begin{array}{r} \\square\\phantom{)} \\\\ 6{\\overline{\\smash{\\big)}\\,5~~7\\phantom{)}}}\\\\ \\underline{~~~~\\square\\phantom{)}}\\\\ \\square\\phantom{)} \\end{array} $ 몫 : $ \\square $, 나머지: $ \\square $ ($2$) $ \\begin{array}{r} \\square\\phantom{)} \\\\ 8{\\overline{\\smash{\\big)}\\,3~~3\\phantom{)}}}\\\\ \\underline{~~~~\\square\\phantom{)}}\\\\ \\square\\phantom{)} \\end{array} $ 몫 : $ \\square $, , 나머지 : $ \\square $"
+        }
+      ]
+    }
+  ]
+}

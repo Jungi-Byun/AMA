@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_06_00043_59631.png",
+  "id": "00043_59631",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "백 번째 삼각수를 구하는 식을 쓰고 답을 구하시오. (계산기를 사용해도 됩니다.) <식>__________________________ <답>___________________",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            468,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            26,
+            311,
+            233
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            470,
+            22
+          ],
+          "text": "백 번째 삼각수를 구하는 식을 쓰고 답을 구하시오. (계산기를 사용해도 됩니다.) <식>__________________________ <답>___________________"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_03_00042_56436.png",
+  "id": "00042_56436",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203014",
+      "question_topic_name": "자릿수가 다른 소수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산한 값이 큰 것부터 차례로 기호를 쓰시오.  ㉠ $7.2+5.6$ ㉡ $4.89+6.5$ ㉢ $5.54+8.026$ ㉣ $3.97+9.23$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            198,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            54,
+            211,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            79
+          ],
+          "text": "계산한 값이 큰 것부터 차례로 기호를 쓰시오.  ㉠ $7.2+5.6$ ㉡ $4.89+6.5$ ㉢ $5.54+8.026$ ㉣ $3.97+9.23$"
+        }
+      ]
+    }
+  ]
+}

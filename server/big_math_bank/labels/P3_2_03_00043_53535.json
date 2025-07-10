@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00043_53535.png",
+  "id": "00043_53535",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "중심이 선분 ㄴㄷ 위에 있는 점 ㄴ이 지름의 왼쪽 끝점인 작은 굴렁쇠와 외접하는 원의 중심에서 위쪽의 원 위의 한 점과 이은 반지름의 길이가 14 cm이고 지름의 오른쪽 끝점이 ㄷ인 큰 굴렁쇠 그림",
+      "question_text": "큰 굴렁쇠의 지름은 작은 굴렁쇠의 지름의 $2$배입니다. 선분 $ㄴㄷ$의 길이는 몇 $cm$입니까? (다만, 굴렁쇠의 두께는 생각하지 않습니다.) ⑴ 큰 굴렁쇠의 지름은 몇 $cm$입니까? ⑵ 작은 굴렁쇠의 지름은 몇 $cm$입니까? ⑶ 선분 $ㄴㄷ$의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            769,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            140,
+            230,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            162,
+            243,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            184,
+            230,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            29,
+            209,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.75,
+            2.75,
+            768,
+            17.75
+          ],
+          "text": "큰 굴렁쇠의 지름은 작은 굴렁쇠의 지름의 $2$배입니다. 선분 $ㄴㄷ$의 길이는 몇 $cm$입니까? (다만, 굴렁쇠의 두께는 생각하지 않습니다.)"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.75,
+            139,
+            243,
+            204
+          ],
+          "text": "⑴ 큰 굴렁쇠의 지름은 몇 $cm$입니까? ⑵ 작은 굴렁쇠의 지름은 몇 $cm$입니까? ⑶ 선분 $ㄴㄷ$의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

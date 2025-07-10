@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_06_00043_54504.png",
+  "id": "00043_54504",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색 테이프 $60$ cm로 정십칠각형을 만들었습니다. 만들고 남은 색 테이프의 길이가 정십칠각형의 세 변의 길이의 합과 같습니다. 정십칠각형의 모든 변의 길이의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            220,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            40
+          ],
+          "text": "색 테이프 $60$ cm로 정십칠각형을 만들었습니다. 만들고 남은 색 테이프의 길이가 정십칠각형의 세 변의 길이의 합과 같습니다. 정십칠각형의 모든 변의 길이의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

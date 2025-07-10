@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53620.png",
+  "id": "00043_53620",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "크기가 같은 원 5개를 원의 중심을 지나도록 겹치게 이어 붙이고, 원의 중심을 일직선으로 연결하고 왼쪽, 오른쪽으로 각각 연장하여 첫 번째 원, 다섯 번째 원과 만나는 교점이 각각 ㄱ, ㄴ인 도형",
+      "question_text": "크기가 같은 원 $5$개를 원의 중심을 지나도록 겹치게 이어 붙였습니다. 선분 ㄱㄴ이 $42$ cm일 때 원의 지름은 몇 cm입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            705,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            31,
+            273,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            707,
+            22
+          ],
+          "text": "크기가 같은 원 $5$개를 원의 중심을 지나도록 겹치게 이어 붙였습니다. 선분 ㄱㄴ이 $42$ cm일 때 원의 지름은 몇 cm입니까?"
+        }
+      ]
+    }
+  ]
+}

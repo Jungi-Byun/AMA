@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_06_00043_59760.png",
+  "id": "00043_59760",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "마법 상자에 수를 넣으면 다음과 같이 수가 바뀌어서 나온다고 합니다. 이 상자에 $60$을 넣으면 얼마가 나오겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            677,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            24,
+            325,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            679,
+            22
+          ],
+          "text": "마법 상자에 수를 넣으면 다음과 같이 수가 바뀌어서 나온다고 합니다. 이 상자에 $60$을 넣으면 얼마가 나오겠습니까?"
+        }
+      ]
+    }
+  ]
+}

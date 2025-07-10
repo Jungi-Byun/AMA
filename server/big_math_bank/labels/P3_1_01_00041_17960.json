@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_01_00041_17960.png",
+  "id": "00041_17960",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 명의 학생이 각각 저금을 하였습니다. 저금액을 보고, 가장 많은 학생과 가장 적은 학생의 합을 구하시오. 연진 : $100$원짜리 동전 $9$개, $10$원짜리 동전 $3$개 성철 : $100$원짜리 동전 $5$개, $10$원짜리 동전 $35$개 도현 : $100$원짜리 동전 $7$개, $10$원짜리 동전 $27$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            605,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            36,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            49,
+            296,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            74,
+            302,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.23,
+            94.65,
+            303.23,
+            114.65
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.23,
+            0,
+            605.23,
+            115.65
+          ],
+          "text": "세 명의 학생이 각각 저금을 하였습니다. 저금액을 보고, 가장 많은 학생과 가장 적은 학생의 합을 구하시오. 연진 : $100$원짜리 동전 $9$개, $10$원짜리 동전 $3$개 성철 : $100$원짜리 동전 $5$개, $10$원짜리 동전 $35$개 도현 : $100$원짜리 동전 $7$개, $10$원짜리 동전 $27$개"
+        }
+      ]
+    }
+  ]
+}

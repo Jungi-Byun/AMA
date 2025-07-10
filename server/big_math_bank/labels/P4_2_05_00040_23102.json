@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_05_00040_23102.png",
+  "id": "00040_23102",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205002",
+      "question_topic_name": "꺾은선그래프 내용 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 상수의 몸무게를 꺾은선그래프로 나타낸 것입니다. 몸무게가 가장 많이 늘어난 때는 몇 살과 몇 살 사이입니까? ① $7$살과 $8$살 사이 ② $8$살과 $9$살 사이 ③ $9$살과 $10$살 사이 ④ $10$살과 $11$살 사이 ⑤ $11$살과 $12$살 사이",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            685,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            215,
+            131,
+            235
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            237,
+            132,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            259,
+            138,
+            279
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            281,
+            140,
+            301
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            303,
+            139,
+            323
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            24,
+            243,
+            212
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            687,
+            22
+          ],
+          "text": "다음은 상수의 몸무게를 꺾은선그래프로 나타낸 것입니다. 몸무게가 가장 많이 늘어난 때는 몇 살과 몇 살 사이입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            211.9,
+            141.1,
+            323.9
+          ],
+          "text": "① $7$살과 $8$살 사이 ② $8$살과 $9$살 사이 ③ $9$살과 $10$살 사이 ④ $10$살과 $11$살 사이 ⑤ $11$살과 $12$살 사이"
+        }
+      ]
+    }
+  ]
+}

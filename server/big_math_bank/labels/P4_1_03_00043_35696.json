@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_35696.png",
+  "id": "00043_35696",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$405$를 $21$과 $48$로 나누었습니다. (하트) 안에는 몫을, (네모) 안에는 나머지를 각각 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            15.23,
+            0.65,
+            541.23,
+            30.65
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            17.23,
+            31.65,
+            333.23,
+            176.65
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.23,
+            1.65,
+            543.23,
+            29.65
+          ],
+          "text": "$405$를 $21$과 $48$로 나누었습니다. (하트) 안에는 몫을, (네모) 안에는 나머지를 각각 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

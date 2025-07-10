@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00043_58240.png",
+  "id": "00043_58240",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "벌이 $1kg$의 꿀을 얻기 위해서는 $560$만 개의 꽃을 찾아야 하는데 여왕벌이 사는 벌집 $1$통에서는 무려 $10~13kg$의 꿀을 얻을 수 있습니다. 다음과 같이 벌집 $1$통에서 얻은 벌꿀을 $3$개의 병 ㉮, ㉯, ㉰에 나누어 담았습니다. 병 ㉮에 담겨 있는 벌꿀은 몇 $kg$입니까? (단, 병의 무게는 생각하지 않습니다.) ㆍ ㉮, ㉯, ㉰ $3$개의 병에 담겨 있는 꿀을 모두 합하면 $12kg 500g$입니다.ㆍ ㉮ 병에 담겨 있는 꿀은 ㉯ 병보다 $1kg 500g$이 더 많습니다.ㆍ ㉯ 병에 담겨 있는 꿀은 ㉰ 병의 $2$배보다 $500g$이 더 많습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            795,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            121,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            65,
+            432,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            100,
+            382,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            118,
+            394,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            144
+          ],
+          "text": "벌이 $1kg$의 꿀을 얻기 위해서는 $560$만 개의 꽃을 찾아야 하는데 여왕벌이 사는 벌집 $1$통에서는 무려 $10~13kg$의 꿀을 얻을 수 있습니다. 다음과 같이 벌집 $1$통에서 얻은 벌꿀을 $3$개의 병 ㉮, ㉯, ㉰에 나누어 담았습니다. 병 ㉮에 담겨 있는 벌꿀은 몇 $kg$입니까? (단, 병의 무게는 생각하지 않습니다.) ㆍ ㉮, ㉯, ㉰ $3$개의 병에 담겨 있는 꿀을 모두 합하면 $12kg 500g$입니다.ㆍ ㉮ 병에 담겨 있는 꿀은 ㉯ 병보다 $1kg 500g$이 더 많습니다.ㆍ ㉯ 병에 담겨 있는 꿀은 ㉰ 병의 $2$배보다 $500g$이 더 많습니다."
+        }
+      ]
+    }
+  ]
+}

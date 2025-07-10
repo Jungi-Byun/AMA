@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53619.png",
+  "id": "00043_53619",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽부터 지름이 7, 5, 4 cm인 원 문자 ㄱ, ㄴ, ㄷ이 일렬로 붙어있으며, 각 원의 중심을 연결하는 변 ㄱㄷ이 있는 평면도형",
+      "question_text": "점 ㄱ, 점 ㄴ, 점 ㄷ은 원의 중심입니다. 선분 ㄱㄷ은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            390,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            37,
+            287,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            392,
+            23
+          ],
+          "text": "점 ㄱ, 점 ㄴ, 점 ㄷ은 원의 중심입니다. 선분 ㄱㄷ은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

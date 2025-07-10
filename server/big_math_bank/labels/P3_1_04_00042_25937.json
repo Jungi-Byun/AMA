@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_04_00042_25937.png",
+  "id": "00042_25937",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "슬아네 농장에는 닭이 $18$마리, 염소가 $32$마리 있습니다. 농장에 있는 닭과 염소의 다리는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            624,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            626,
+            21
+          ],
+          "text": "슬아네 농장에는 닭이 $18$마리, 염소가 $32$마리 있습니다. 농장에 있는 닭과 염소의 다리는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

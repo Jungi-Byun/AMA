@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55552.png",
+  "id": "00043_55552",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\frac{3}{4}$, $\\frac{6}{8}$은 크기가 같은 분수인지 알아보려고 합니다. 물음에 답하시오.  (1) $ \\frac{3}{4} $인 곳을 찾아 파란색 점으로 표시하시오. (2) $ \\frac{6}{8} $인 곳을 찾아 빨간색 점으로 표시하시오. (3) $ \\frac{3}{4} $과 $ \\frac{6}{8} $이 크기가 같은 분수이면 $\\bigcirc$표, 아니면 $\\times$표 하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            2,
+            430,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            287,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            140,
+            290,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            182,
+            387,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20.33,
+            47.33,
+            322.33,
+            91.33
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            1,
+            432,
+            39
+          ],
+          "text": "$\\frac{3}{4}$, $\\frac{6}{8}$은 크기가 같은 분수인지 알아보려고 합니다. 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            97,
+            389,
+            212
+          ],
+          "text": "(1) $ \\frac{3}{4} $인 곳을 찾아 파란색 점으로 표시하시오. (2) $ \\frac{6}{8} $인 곳을 찾아 빨간색 점으로 표시하시오. (3) $ \\frac{3}{4} $과 $ \\frac{6}{8} $이 크기가 같은 분수이면 $\\bigcirc$표, 아니면 $\\times$표 하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00050_20328.png",
+  "id": "00050_20328",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게의 단위를 <보기>에서 골라 $\\square$ 안에 알맞게 써넣으시오. <보기> $g kg t$ (1) 시우의 몸무게는 약 $39 \\square$입니다. (2) 사과 1개의 무게는 약 $200 \\square$입니다. (3) 코끼리의 무게는 약 $2.1 \\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            359,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            65,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            297,
+            47,
+            373,
+            64
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            248,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            261,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            135,
+            241,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            378,
+            161
+          ],
+          "text": "무게의 단위를 <보기>에서 골라 $\\square$ 안에 알맞게 써넣으시오. <보기> $g kg t$ (1) 시우의 몸무게는 약 $39 \\square$입니다. (2) 사과 1개의 무게는 약 $200 \\square$입니다. (3) 코끼리의 무게는 약 $2.1 \\square$입니다."
+        }
+      ]
+    }
+  ]
+}

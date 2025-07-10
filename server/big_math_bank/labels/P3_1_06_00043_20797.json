@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_20797.png",
+  "id": "00043_20797",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "( ) 안에 알맞은 소수를 써넣으시오.  (1) $ 2 \\mathrm{cm~} 5 \\mathrm{mm}= () \\mathrm{cm} $  (2) $ 4 \\mathrm{cm~} 7 \\mathrm{mm}= () \\mathrm{cm} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            225,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            174,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            177,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            227,
+            61
+          ],
+          "text": "( ) 안에 알맞은 소수를 써넣으시오.  (1) $ 2 \\mathrm{cm~} 5 \\mathrm{mm}= () \\mathrm{cm} $  (2) $ 4 \\mathrm{cm~} 7 \\mathrm{mm}= () \\mathrm{cm} $"
+        }
+      ]
+    }
+  ]
+}

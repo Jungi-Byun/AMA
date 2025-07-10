@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_04_00040_41650.png",
+  "id": "00040_41650",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104010",
+      "question_topic_name": "평면도형을 뒤집고, 시계 방향으로 돌리기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "왼쪽 도형을 어떻게 움직였을 때, 오른쪽 그림과 같이 되는지 고르시오.  ①왼쪽으로 밀기  ②위쪽으로 밀기 ③ (시계 방향) 방향으로 돌리기  ④ (반시계 방향)방향으로 돌리기  ⑤왼쪽으로 뒤집기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            417,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.1,
+            127.9,
+            125.1,
+            144.9
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            146.9,
+            125.1,
+            168.9
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            168.9,
+            175.1,
+            203.9
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            203.9,
+            174.1,
+            235.9
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            234.9,
+            139.1,
+            253.9
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            21,
+            288,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            1.9,
+            418.1,
+            17.9
+          ],
+          "text": "왼쪽 도형을 어떻게 움직였을 때, 오른쪽 그림과 같이 되는지 고르시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            126.9,
+            174.1,
+            253.9
+          ],
+          "text": "①왼쪽으로 밀기  ②위쪽으로 밀기 ③ (시계 방향) 방향으로 돌리기  ④ (반시계 방향)방향으로 돌리기  ⑤왼쪽으로 뒤집기"
+        }
+      ]
+    }
+  ]
+}

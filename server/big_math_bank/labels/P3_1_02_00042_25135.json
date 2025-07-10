@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00042_25135.png",
+  "id": "00042_25135",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102006",
+      "question_topic_name": "직각 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "시계의 짧은 바늘과 긴 바늘이 이루는 작은 각이 직각이 되는 시각은 어느 것입니까?  ①$1$시 ②$4$시 ③$6$시 ④$9$시 ⑤$12$시",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            492,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            62,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            65,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            65,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            65,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            70,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            494,
+            130
+          ],
+          "text": "시계의 짧은 바늘과 긴 바늘이 이루는 작은 각이 직각이 되는 시각은 어느 것입니까?  ①$1$시 ②$4$시 ③$6$시 ④$9$시 ⑤$12$시"
+        }
+      ]
+    }
+  ]
+}

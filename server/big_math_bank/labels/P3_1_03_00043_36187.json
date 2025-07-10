@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00043_36187.png",
+  "id": "00043_36187",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$4$장의 숫자 카드 $\\boxed{1},\\boxed{2},\\boxed{3},\\boxed{4}$ 중에서 $2$장을 뽑아 다음과 같이 $6$으로 나누어지는 나눗셈식을 만들려고 합니다. 만든 나눗셈식의 몫이 가장 클 때의 몫을 구하시오. $\\square \\square \\div 6$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            789,
+            23
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            25,
+            178,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26.17,
+            54.94,
+            80.17,
+            71.94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            793,
+            74
+          ],
+          "text": "$4$장의 숫자 카드 $\\boxed{1},\\boxed{2},\\boxed{3},\\boxed{4}$ 중에서 $2$장을 뽑아 다음과 같이 $6$으로 나누어지는 나눗셈식을 만들려고 합니다. 만든 나눗셈식의 몫이 가장 클 때의 몫을 구하시오. $\\square \\square \\div 6$"
+        }
+      ]
+    }
+  ]
+}

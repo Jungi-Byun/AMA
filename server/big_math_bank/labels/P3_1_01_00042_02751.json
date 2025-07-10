@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_01_00042_02751.png",
+  "id": "00042_02751",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민주와 정민이가 가지고 있는 수 카드 중에서 더 큰 수가 적힌 카드를 가지고 있는 사람은 누구입니까?  민주：내가 가지고 있는 카드의 수는 $397$보다 $36$ 큰 수야! 정민：난 $626$보다 $177$ 작은 수가 적힌 카드를 가지고 있어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            593,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            26,
+            357,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            52,
+            360,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            595,
+            75
+          ],
+          "text": "민주와 정민이가 가지고 있는 수 카드 중에서 더 큰 수가 적힌 카드를 가지고 있는 사람은 누구입니까?  민주：내가 가지고 있는 카드의 수는 $397$보다 $36$ 큰 수야! 정민：난 $626$보다 $177$ 작은 수가 적힌 카드를 가지고 있어."
+        }
+      ]
+    }
+  ]
+}

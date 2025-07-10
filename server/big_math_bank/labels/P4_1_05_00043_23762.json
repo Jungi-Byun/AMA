@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_05_00043_23762.png",
+  "id": "00043_23762",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 막대그래프에 대한 설명으로 옳은 것은 어느 것입니까? ①반드시 사람 수를 세로에 씁니다. ②세로 눈금 한 칸의 크기는 언제나 1로 나타냅니다. ③조사한 수가 클수록 막대의 길이가 깁니다. ④조사한 전체의 사람 수를 알아보기에 좋습니다. ⑤많은 수의 자료를 나타내는데 편리합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            375,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            228,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            321,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            282,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            308,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            278,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            377,
+            130
+          ],
+          "text": "다음 중 막대그래프에 대한 설명으로 옳은 것은 어느 것입니까? ①반드시 사람 수를 세로에 씁니다. ②세로 눈금 한 칸의 크기는 언제나 1로 나타냅니다. ③조사한 수가 클수록 막대의 길이가 깁니다. ④조사한 전체의 사람 수를 알아보기에 좋습니다. ⑤많은 수의 자료를 나타내는데 편리합니다."
+        }
+      ]
+    }
+  ]
+}

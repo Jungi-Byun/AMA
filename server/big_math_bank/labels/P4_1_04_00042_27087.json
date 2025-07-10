@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00042_27087.png",
+  "id": "00042_27087",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "왼쪽 도형을 한 번 돌려서 오른쪽 도형이 되는 방법은 2가지입니다. 어떻게 돌렸는지 원 위에 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            609,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            228,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            611,
+            22
+          ],
+          "text": "왼쪽 도형을 한 번 돌려서 오른쪽 도형이 되는 방법은 2가지입니다. 어떻게 돌렸는지 원 위에 나타내시오."
+        }
+      ]
+    }
+  ]
+}

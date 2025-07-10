@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_04_00040_08044.png",
+  "id": "00040_08044",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104004",
+      "question_topic_name": "평면도형을 위쪽, 아래쪽으로 뒤집기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "선미는 여러 가지 글씨를 투명 종이 위에 쓰고 여러 방향으로 뒤집어 보는 놀이를 하고 있습니다. 선미가 투명 종이에 '문'이라고 쓰고 위쪽으로 뒤집었을 때 생기는 모양은 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            279,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            49,
+            76,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            111,
+            100,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            195,
+            101,
+            492
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            164
+          ],
+          "text": "선미는 여러 가지 글씨를 투명 종이 위에 쓰고 여러 방향으로 뒤집어 보는 놀이를 하고 있습니다. 선미가 투명 종이에 '문'이라고 쓰고 위쪽으로 뒤집었을 때 생기는 모양은 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

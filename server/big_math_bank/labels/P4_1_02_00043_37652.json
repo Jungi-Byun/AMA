@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37652.png",
+  "id": "00043_37652",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102002",
+      "question_topic_name": "각도를 나타내는 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 보고 얼짱 각도로 사진 찍는 법에 가장 가까운 포즈를 취한 사람은 누구인지 이름을 쓰시오. 〈얼짱 각도로 사진 찍는 법〉 ① 카메라의 위치는 어깨보다 $ 40^{\\circ} $ 위쪽에 위치한다. ② 얼굴은 렌즈 정면에서 $ 25^{\\circ} $ 쫌 왼쪽 또는 오른쪽으로 돌린다. ③ 눈을 살짝 치켜뜨지만 렌즈를 너무 노려보지 않도록 한다. ④ 턱이 들리지 않도록 주의한다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            572,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            40,
+            312,
+            545
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            574,
+            22
+          ],
+          "text": "다음을 보고 얼짱 각도로 사진 찍는 법에 가장 가까운 포즈를 취한 사람은 누구인지 이름을 쓰시오. 〈얼짱 각도로 사진 찍는 법〉 ① 카메라의 위치는 어깨보다 $ 40^{\\circ} $ 위쪽에 위치한다. ② 얼굴은 렌즈 정면에서 $ 25^{\\circ} $ 쫌 왼쪽 또는 오른쪽으로 돌린다. ③ 눈을 살짝 치켜뜨지만 렌즈를 너무 노려보지 않도록 한다. ④ 턱이 들리지 않도록 주의한다."
+        }
+      ]
+    }
+  ]
+}

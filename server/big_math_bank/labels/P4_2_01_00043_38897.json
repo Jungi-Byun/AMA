@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_2_01_00043_38897.png",
+  "id": "00043_38897",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  1 은 $ \\frac{1}{8} $ 이 $ \\square $ 개, $ \\frac{3}{8} $ 은 $ \\frac{1}{8} $ 이 $ \\square $ 개이므로 $ 1-\\frac{3}{8} $ 은 $ \\frac{1}{8} $ 이 $\\square$ 개입니다. $ \\Rightarrow 1-\\frac{3}{8}=\\frac{\\square}{8} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            22
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  1 은 $ \\frac{1}{8} $ 이 $ \\square $ 개, $ \\frac{3}{8} $ 은 $ \\frac{1}{8} $ 이 $ \\square $ 개이므로 $ 1-\\frac{3}{8} $ 은 $ \\frac{1}{8} $ 이 $\\square$ 개입니다. $ \\Rightarrow 1-\\frac{3}{8}=\\frac{\\square}{8} $"
+        }
+      ]
+    }
+  ]
+}

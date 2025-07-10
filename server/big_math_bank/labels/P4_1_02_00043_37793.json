@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_02_00043_37793.png",
+  "id": "00043_37793",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형ㄱㄴㄷㄹ이 있고 그 안에 임의의 점ㅁ이 있으며 선분ㄱㅁ, 선분ㄴㅁ이 표현되고 각ㄱㅁㄴ의 작은 왼쪽 각은 분홍색 각의 표시가 있으며 각ㄷ은 80도, 분홍색 각의 표시가 있고 각ㄹ은 96도, 분홍색 각의 표시를 나타낸 평면도형",
+      "question_text": "다음 그림과 같은 사각형 ㄱㄴㄷㄹ에서 (각 ㄹㄱㅁ) = (각 ㄴㄱㅁ), (각 ㅁㄴㄷ) = (각 ㄱㄴㅁ)일 때, 각 ㄱㅁㄴ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            238,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            167,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            367,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            73,
+            175,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            369,
+            62
+          ],
+          "text": "다음 그림과 같은 사각형 ㄱㄴㄷㄹ에서 (각 ㄹㄱㅁ) = (각 ㄴㄱㅁ), (각 ㅁㄴㄷ) = (각 ㄱㄴㅁ)일 때, 각 ㄱㅁㄴ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

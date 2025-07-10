@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_57476.png",
+  "id": "00043_57476",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $ \\begin{array}{l}4 \\mathrm{~L} 570 \\mathrm{~mL} \\\\ =4 \\mathrm{~L}+570 \\mathrm{~mL} \\\\ =\\square \\mathrm{mL}+570 \\mathrm{~mL} \\\\ =\\square \\mathrm{mL}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            83,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            45,
+            95,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            246,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            86,
+            196,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            248,
+            108
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $ \\begin{array}{l}4 \\mathrm{~L} 570 \\mathrm{~mL} \\\\ =4 \\mathrm{~L}+570 \\mathrm{~mL} \\\\ =\\square \\mathrm{mL}+570 \\mathrm{~mL} \\\\ =\\square \\mathrm{mL}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

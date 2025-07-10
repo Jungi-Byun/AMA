@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_03_00043_53350.png",
+  "id": "00043_53350",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 4 cm인 선분 ㄱㄷ 위에 중점인 점 ㄴ이 있는 선분을 그린 그림",
+      "question_text": "반지름이 $2 cm$인 두 원을 맞닿게 그리려고 합니다. 점 $ㄴ$은 선분 $ㄱㄷ$을 반으로 나누는 점일 때 물음에 답하시오. ⑴ 점 $ㄱ$이 원의 중심이고 선분 $ㄱㄴ$이 반지름인 원을 그려 보시오.⑵ 점 $ㄷ$이 원의 중심이고 선분 $ㄴㄷ$이 반지름인 원을 그려 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            650,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            296,
+            392,
+            313
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            318,
+            392,
+            335
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            139,
+            202,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            653,
+            21
+          ],
+          "text": "반지름이 $2 cm$인 두 원을 맞닿게 그리려고 합니다. 점 $ㄴ$은 선분 $ㄱㄷ$을 반으로 나누는 점일 때 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            294,
+            394,
+            337
+          ],
+          "text": "⑴ 점 $ㄱ$이 원의 중심이고 선분 $ㄱㄴ$이 반지름인 원을 그려 보시오.⑵ 점 $ㄷ$이 원의 중심이고 선분 $ㄴㄷ$이 반지름인 원을 그려 보시오."
+        }
+      ]
+    }
+  ]
+}

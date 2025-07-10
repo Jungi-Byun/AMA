@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00042_02179.png",
+  "id": "00042_02179",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지영이는 도화지 한 장의 $\\frac{1}{5}$을 사용하였습니다. 사용하지 않은 도화지는 사용한 도화지의 몇 배입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            605,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            607,
+            38
+          ],
+          "text": "지영이는 도화지 한 장의 $\\frac{1}{5}$을 사용하였습니다. 사용하지 않은 도화지는 사용한 도화지의 몇 배입니까?"
+        }
+      ]
+    }
+  ]
+}

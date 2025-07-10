@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_05_00040_25435.png",
+  "id": "00040_25435",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 현수네 집 온도를 나타낸 것입니다. 꺾은선그래프를 그릴 때 물결선으로 나타내면 가장 편리한 부분은 어느 것입니까? <table border> <caption>현수네 집 온도</caption>   <tbody>     <tr>       <td>시각(시)</td>       <td>오전 $10$</td>       <td>$12$</td>       <td>오후 $2$</td>       <td>$4$</td>     </tr>     <tr>       <td>온도($^{\\circ} C$ )</td>       <td>$18.7$</td>       <td>$19.3$</td>       <td>$21.4$</td>       <td>$20.2$</td>     </tr> </tbody> </table> ① $ 0 \\sim 5^{\\circ} C $ ② $ 5^{\\circ} C \\sim 10^{\\circ} C $ ③ $ 10^{\\circ} C \\sim 15^{\\circ} C $ ④ $ 0^{\\circ} C \\sim 20^{\\circ} C $ ⑤ $ 0 \\sim 18^{\\circ} C $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            723,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            105,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            279,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            92,
+            85,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            115,
+            101,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            137,
+            106,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            159,
+            105,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            181,
+            91,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            725,
+            202
+          ],
+          "text": "다음은 현수네 집 온도를 나타낸 것입니다. 꺾은선그래프를 그릴 때 물결선으로 나타내면 가장 편리한 부분은 어느 것입니까? <table border> <caption>현수네 집 온도</caption>   <tbody>     <tr>       <td>시각(시)</td>       <td>오전 $10$</td>       <td>$12$</td>       <td>오후 $2$</td>       <td>$4$</td>     </tr>     <tr>       <td>온도($^{\\circ} C$ )</td>       <td>$18.7$</td>       <td>$19.3$</td>       <td>$21.4$</td>       <td>$20.2$</td>     </tr> </tbody> </table> ① $ 0 \\sim 5^{\\circ} C $ ② $ 5^{\\circ} C \\sim 10^{\\circ} C $ ③ $ 10^{\\circ} C \\sim 15^{\\circ} C $ ④ $ 0^{\\circ} C \\sim 20^{\\circ} C $ ⑤ $ 0 \\sim 18^{\\circ} C $"
+        }
+      ]
+    }
+  ]
+}

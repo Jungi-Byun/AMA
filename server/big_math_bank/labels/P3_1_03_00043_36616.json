@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36616.png",
+  "id": "00043_36616",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "유진이네 반 학생은 $42$명입니다. $5$명씩 $6$모둠을 만들어 보드게임을 하고 나머지 학생들은 $2$모둠으로 똑같이 나누어 블럭쌓기놀이를 하려고 합니다. 블럭쌓기놀이를 하는 학생은 한 모둠에 몇 명씩입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            792,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            391,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            794,
+            41
+          ],
+          "text": "유진이네 반 학생은 $42$명입니다. $5$명씩 $6$모둠을 만들어 보드게임을 하고 나머지 학생들은 $2$모둠으로 똑같이 나누어 블럭쌓기놀이를 하려고 합니다. 블럭쌓기놀이를 하는 학생은 한 모둠에 몇 명씩입니까?"
+        }
+      ]
+    }
+  ]
+}

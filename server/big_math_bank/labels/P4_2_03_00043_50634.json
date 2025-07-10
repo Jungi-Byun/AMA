@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50634.png",
+  "id": "00043_50634",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203016",
+      "question_topic_name": "소수 두 자리 수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 수의 차가 같은 것끼리 선으로 이으시오.(1) $0.97-0.33 · ·$ ㉠ $0.25-0.12$(2) $0.39-0.26 · · $㉡ $0.67-0.22(3) 0.86-0.41 · ·$ ㉢$ 0.79-0.15$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            262,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            274,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            281,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            276,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            283,
+            83
+          ],
+          "text": "두 수의 차가 같은 것끼리 선으로 이으시오.(1) $0.97-0.33 · ·$ ㉠ $0.25-0.12$(2) $0.39-0.26 · · $㉡ $0.67-0.22(3) 0.86-0.41 · ·$ ㉢$ 0.79-0.15$"
+        }
+      ]
+    }
+  ]
+}

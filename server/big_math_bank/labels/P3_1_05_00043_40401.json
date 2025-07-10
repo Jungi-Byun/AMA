@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_05_00043_40401.png",
+  "id": "00043_40401",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나로호는 $2013$년 $1$월 $30$일 오후 $3$시 $37$분 $46$초에 성공적으로 발사되었습니다. 나로호 발사 시각에 맞게 초바늘을 그려 넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            750,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            30,
+            139,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            752,
+            25
+          ],
+          "text": "나로호는 $2013$년 $1$월 $30$일 오후 $3$시 $37$분 $46$초에 성공적으로 발사되었습니다. 나로호 발사 시각에 맞게 초바늘을 그려 넣으시오."
+        }
+      ]
+    }
+  ]
+}

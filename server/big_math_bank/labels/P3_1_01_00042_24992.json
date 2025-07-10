@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_01_00042_24992.png",
+  "id": "00042_24992",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으시오. (1) $275+867 \\bigcirc 1142$ (2) $496+748 \\bigcirc 1245$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            326,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            26,
+            93,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            23,
+            127,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            135,
+            26,
+            164,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            97,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            105,
+            53,
+            131,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            139,
+            56,
+            170,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            328,
+            80
+          ],
+          "text": "크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으시오. (1) $275+867 \\bigcirc 1142$ (2) $496+748 \\bigcirc 1245$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_03_00043_36268.png",
+  "id": "00043_36268",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사탕이 한 봉지에 $4$개씩 $6$봉지 있습니다. 이 사탕을 한 상자에 $8$개씩 담으려고 합니다. 상자는 모두 몇 개 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            682,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            684,
+            21
+          ],
+          "text": "사탕이 한 봉지에 $4$개씩 $6$봉지 있습니다. 이 사탕을 한 상자에 $8$개씩 담으려고 합니다. 상자는 모두 몇 개 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

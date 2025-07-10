@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_03_00043_53658.png",
+  "id": "00043_53658",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "큰 원의 반지름 위에 지름이 $ 6 \\mathrm{cm} $인 작은 원을 그리려고 합니다. 그림과 같이 원의 중심이 반지름 위에 있고, 작은 원이 큰 원을 벗어나지 않을 때, 작은 원을 모두 몇 개 그릴 수 있는지 알아보시오. ⑴ 작은 원의 반지름은 몇 $\\mathrm{cm}$입니까?⑵ 큰 원의 반지름에 작은 원의 반지름이 몇 번 들어갑니까?⑶ 작은 원을 모두 몇 개 그릴 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            332,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            179,
+            230,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            202,
+            354,
+            219
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            224,
+            261,
+            241
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            49,
+            149,
+            171
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            1.8,
+            801.1,
+            39.8
+          ],
+          "text": "큰 원의 반지름 위에 지름이 $ 6 \\mathrm{cm} $인 작은 원을 그리려고 합니다. 그림과 같이 원의 중심이 반지름 위에 있고, 작은 원이 큰 원을 벗어나지 않을 때, 작은 원을 모두 몇 개 그릴 수 있는지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            179.8,
+            355.1,
+            240.8
+          ],
+          "text": "⑴ 작은 원의 반지름은 몇 $\\mathrm{cm}$입니까?⑵ 큰 원의 반지름에 작은 원의 반지름이 몇 번 들어갑니까?⑶ 작은 원을 모두 몇 개 그릴 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

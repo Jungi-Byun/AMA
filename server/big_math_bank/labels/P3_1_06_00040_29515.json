@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00040_29515.png",
+  "id": "00040_29515",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 설명 중 잘못된 것은 어느 것입니까? ① $ \\frac{3}{4} $ 은 $ \\frac{1}{4} $ 이 3 개인 수입니다. ② $ \\frac{1}{5} $ 이 2 개이면 $ \\frac{1}{2} $ 이 됩니다. ③ $ \\frac{5}{10} $ 는 $ \\frac{1}{10} $ 이 5 개인 수입니다. ④ $ \\frac{4}{6} $ 는 똑같이 6 으로 나눈 것 중 4 를 나타냅니다. ⑤ $ \\frac{3}{8} $ 은 $ \\frac{1}{8} $ 의 3 배입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            253,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            210,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            210,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            228,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            148,
+            315,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            181,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            317,
+            224
+          ],
+          "text": "다음 설명 중 잘못된 것은 어느 것입니까? ① $ \\frac{3}{4} $ 은 $ \\frac{1}{4} $ 이 3 개인 수입니다. ② $ \\frac{1}{5} $ 이 2 개이면 $ \\frac{1}{2} $ 이 됩니다. ③ $ \\frac{5}{10} $ 는 $ \\frac{1}{10} $ 이 5 개인 수입니다. ④ $ \\frac{4}{6} $ 는 똑같이 6 으로 나눈 것 중 4 를 나타냅니다. ⑤ $ \\frac{3}{8} $ 은 $ \\frac{1}{8} $ 의 3 배입니다."
+        }
+      ]
+    }
+  ]
+}

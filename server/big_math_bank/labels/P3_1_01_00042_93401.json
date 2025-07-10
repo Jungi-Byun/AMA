@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_93401.png",
+  "id": "00042_93401",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 뺄셈에서 ㉠, ㉡이 실제로 나타내는 값은 각각 얼마입니까? $ \\begin{array}{r }8㉠㉡  \\\\ \\cancel{9}~\\cancel{2}~4 ~~\\\\ -3~5~8 ~~\\\\ \\hline 5~6~6~~\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            379,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            95,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            381,
+            114
+          ],
+          "text": "다음 뺄셈에서 ㉠, ㉡이 실제로 나타내는 값은 각각 얼마입니까? $ \\begin{array}{r }8㉠㉡  \\\\ \\cancel{9}~\\cancel{2}~4 ~~\\\\ -3~5~8 ~~\\\\ \\hline 5~6~6~~\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

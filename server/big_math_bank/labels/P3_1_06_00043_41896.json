@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_41896.png",
+  "id": "00043_41896",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\blacksquare$에 알맞은 수를 구하시오.  2 와 $ \\frac{4}{5} $ 는 0.1 이 $\\blacksquare$개인 수와 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            174,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            251,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            281,
+            76
+          ],
+          "text": "$\\blacksquare$에 알맞은 수를 구하시오.  2 와 $ \\frac{4}{5} $ 는 0.1 이 $\\blacksquare$개인 수와 같습니다."
+        }
+      ]
+    }
+  ]
+}

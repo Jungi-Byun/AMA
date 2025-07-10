@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53667.png",
+  "id": "00043_53667",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "위에는 중심이 ㄱ이며 노란색인 CD가, 아래에는 서로의 중심을 접하는 중심이 ㄴ인 빨간색 CD와 그 아래에 중심이 ㄷ인 파란색 CD가 각각 노란색 원과 한 점에서 접해 있으며, 삼각형 ㄱㄴㄷ이 그려진 그림",
+      "question_text": "반지름이 $8 cm$인 CD 세 장을 그림과 같이 놓고 세 원의 중심을 선분으로 이었습니다. 삼각형 ㄱㄴㄷ의 세 변의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            754,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            27,
+            153,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            756,
+            21
+          ],
+          "text": "반지름이 $8 cm$인 CD 세 장을 그림과 같이 놓고 세 원의 중심을 선분으로 이었습니다. 삼각형 ㄱㄴㄷ의 세 변의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

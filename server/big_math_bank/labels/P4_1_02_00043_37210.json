@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_02_00043_37210.png",
+  "id": "00043_37210",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102004",
+      "question_topic_name": "각도기와 자를 이용하여 각 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각도기를 사용하여 크기가 $50°$인 각 ㄱㄴㄷ을 그리려고 합니다.  각을 그리는 순서에 따라 $\\square$ 안에 알맞은 숫자를 써넣으시오.  $\\square$ 각의 한 변인 변 $ㄴㄷ$ 긋기  $\\square$ 각도기에서 크기가 $50°$가 되는 곳 위에 점 $ㄱ$ 찍기  $\\square$ 각도기의 중심을 꼭짓점이 될 점 $ㄴ$에 맞추고, 각도기의 밑금을 변 $ㄴㄷ$에 맞추기  $\\square$ 점 $ㄱ$과 점 $ㄴ$을 이어 변 $ㄱㄴ$ 긋기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            718,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            94,
+            220,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            118,
+            354,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            140,
+            525,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            162,
+            266,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            26,
+            316,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.47,
+            0,
+            719.14,
+            16.9
+          ],
+          "text": "각도기를 사용하여 크기가 $50°$인 각 ㄱㄴㄷ을 그리려고 합니다.  각을 그리는 순서에 따라 $\\square$ 안에 알맞은 숫자를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.93,
+            96.24,
+            524.8,
+            183.59
+          ],
+          "text": "$\\square$ 각의 한 변인 변 $ㄴㄷ$ 긋기  $\\square$ 각도기에서 크기가 $50°$가 되는 곳 위에 점 $ㄱ$ 찍기  $\\square$ 각도기의 중심을 꼭짓점이 될 점 $ㄴ$에 맞추고, 각도기의 밑금을 변 $ㄴㄷ$에 맞추기  $\\square$ 점 $ㄱ$과 점 $ㄴ$을 이어 변 $ㄱㄴ$ 긋기"
+        }
+      ]
+    }
+  ]
+}

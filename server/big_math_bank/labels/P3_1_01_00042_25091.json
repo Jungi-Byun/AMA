@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_25091.png",
+  "id": "00042_25091",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "줄넘기를 가장 많이 넘은 학생과 가장 적게 넘은 학생의 줄넘기 횟수의 차는 몇 번입니까?  <table border>   <tbody>     <tr>       <td>이름</td>       <td>횟수(번)</td>            </tr>     <tr>       <td>주영</td>       <td>$286$</td>    </tr>     <tr>       <td>민수</td>       <td>$249$</td>    </tr>     <tr>       <td>정인</td>       <td>$197$</td>    </tr>   </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            521,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            118,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            523,
+            116
+          ],
+          "text": "줄넘기를 가장 많이 넘은 학생과 가장 적게 넘은 학생의 줄넘기 횟수의 차는 몇 번입니까?  <table border>   <tbody>     <tr>       <td>이름</td>       <td>횟수(번)</td>            </tr>     <tr>       <td>주영</td>       <td>$286$</td>    </tr>     <tr>       <td>민수</td>       <td>$249$</td>    </tr>     <tr>       <td>정인</td>       <td>$197$</td>    </tr>   </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

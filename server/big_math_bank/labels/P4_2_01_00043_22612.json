@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_2_01_00043_22612.png",
+  "id": "00043_22612",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201004",
+      "question_topic_name": "분모가 같은 (진분수)-(진분수) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "위에는 가로로 0에서 1까지 지나가는 반직선을 6 등분하여 첫 번째 눈금 아래에는 0, 두 번째 눈금 아래에는 6분의 1, 세 번째 눈금 아래에는 6분의 2, 네 번째 눈금 아래에는 6분의 3, 다섯 번째 눈금 아래에는 6분의 4, 여섯 번째 눈금 아래에는 6분의 5, 일곱 번째 눈금 아래에는 1을 쓰고, 반직선 윗부분에 0과 6분의 5의 눈금을 빨간색 곡선으로 연결하고 가운데에 6분의 5라고 표시한 후 그 아래에 6분의 2의 눈금과 6분의 5의 눈금을 빨간색 곡선 가운데에 6분의 3이라고 표시하고 곡선 양 끝에는 검은색 화살표를 그리고, 반직선의 아래에는 6분의 5 빼기 6분의 3은 네모가 있는 그림",
+      "question_text": "다음 수직선을 보고 $\\square$ 안에 알맞은 수를 구하시오.  ① $\\frac{1}{6}$ ② $\\frac{2}{6}$  ③ $\\frac{3}{6}$  ④ $\\frac{4}{6}$ ⑤ $\\frac{5}{6}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            119,
+            100,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            63,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            206,
+            63,
+            241
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            247,
+            63,
+            282
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            289,
+            63,
+            323
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            330,
+            63,
+            364
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            23,
+            304,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.02,
+            1.02,
+            304.74,
+            17.41
+          ],
+          "text": "다음 수직선을 보고 $\\square$ 안에 알맞은 수를 구하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.61,
+            118.33,
+            100.61,
+            364.09
+          ],
+          "text": "① $\\frac{1}{6}$ ② $\\frac{2}{6}$  ③ $\\frac{3}{6}$  ④ $\\frac{4}{6}$ ⑤ $\\frac{5}{6}$"
+        }
+      ]
+    }
+  ]
+}

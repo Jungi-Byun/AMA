@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00044_32461.png",
+  "id": "00044_32461",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204007",
+      "question_topic_name": "평행선 사이의 거리 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "점 ㄴ이 좌측인 밑변이 변 ㄴㄹ, 각 ㄴ이 직각, 변 ㄱㅁ과 변 ㄴㄹ이 평행한 사다리꼴 ㄱㄴㄹㅁ의 변 ㄴㄹ 위의 점 ㄷ과 점 ㅁ을 이은 선분 ㄷㅁ을 한 변으로 하는 각 ㅁㄷㄹ이 직각인 직각삼각형 ㅁㄷㄹ과 점 ㄱ과 점 ㄷ을 이은 선분 ㄱㄷ을 한 변으로 하는 직각삼각형 ㄱㄷㅁ과 직각삼각형 ㄱㄴㄷ",
+      "question_text": "도형에서 변 $ㄱㅁ$과 변 $ㄴㄹ$은 서로 평행합니다. 평행선 사이의 거리를 나타내는 선분을 모두 고르면 어느 것입니까? ①선분 $ㄱㄴ$ ②선분 $ㄱㄷ$ ③선분 $ㅁㄹ$ ④선분 $ㅁㄷ$ ⑤선분 $ㄱㅁ$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            672,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            120,
+            98,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            142,
+            98,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            164,
+            98,
+            184
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            186,
+            98,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            208,
+            98,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            23,
+            183,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.5,
+            3.5,
+            674.5,
+            17.5
+          ],
+          "text": "도형에서 변 $ㄱㅁ$과 변 $ㄴㄹ$은 서로 평행합니다. 평행선 사이의 거리를 나타내는 선분을 모두 고르면 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.5,
+            123.5,
+            99.5,
+            229.5
+          ],
+          "text": "①선분 $ㄱㄴ$ ②선분 $ㄱㄷ$ ③선분 $ㅁㄹ$ ④선분 $ㅁㄷ$ ⑤선분 $ㄱㅁ$"
+        }
+      ]
+    }
+  ]
+}

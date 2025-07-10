@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00050_20355.png",
+  "id": "00050_20355",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "올해 정수네 논에서 수확한 쌀은 $2700kg$입니다. 이 논에서 수확한 쌀은 모두 몇 $t$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            523,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            525,
+            21
+          ],
+          "text": "올해 정수네 논에서 수확한 쌀은 $2700kg$입니다. 이 논에서 수확한 쌀은 모두 몇 $t$입니까?"
+        }
+      ]
+    }
+  ]
+}

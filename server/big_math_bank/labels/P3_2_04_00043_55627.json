@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00043_55627.png",
+  "id": "00043_55627",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분자가 $5$인 분수 카드의 분모가 보이지 않습니다. 분수 카드의 분수가 가분수일 때 분모가 될 수 있는 자연수를 모두 쓰시오. (다만, 분모는 $1$이 아닙니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            96,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            54,
+            72,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            40
+          ],
+          "text": "분자가 $5$인 분수 카드의 분모가 보이지 않습니다. 분수 카드의 분수가 가분수일 때 분모가 될 수 있는 자연수를 모두 쓰시오. (다만, 분모는 $1$이 아닙니다.)"
+        }
+      ]
+    }
+  ]
+}

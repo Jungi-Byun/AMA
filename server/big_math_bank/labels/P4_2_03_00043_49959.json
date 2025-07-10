@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_2_03_00043_49959.png",
+  "id": "00043_49959",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203001",
+      "question_topic_name": "소수 두 자리 수와 자릿값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 소수 배열표의 일부분입니다. 물음에 답하시오.  <table border>   <tbody>     <tr>       <td>0.01</td>       <td>0.02</td>       <td>0.03</td>       <td></td>       <td>0.05</td>       <td>0.06</td>     </tr>     <tr>       <td>0.11</td>       <td>0.12</td>       <td></td>       <td>0.14</td>       <td>0.15</td>       <td>0.16</td>     </tr>     <tr>       <td>0.21</td>       <td>0.22</td>       <td>0.23</td>       <td>0.24</td>       <td></td>       <td>0.26</td>     </tr>     <tr>       <td>0.31</td>       <td>0.32</td>       <td>0.33</td>       <td>0.34</td>       <td>0.35</td>       <td>0.36</td>     </tr>     <tr>       <td>0.41</td>       <td></td>       <td>0.43</td>       <td>0.44</td>       <td>0.45</td>       <td>0.46</td>     </tr>     <tr>       <td>0.51</td>       <td>0.52</td>       <td>0.53</td>       <td></td>       <td>0.55</td>       <td>0.56</td>     </tr> </tbody> </table> (1) 소수 배열표의 빈칸에 알맞은 소수를 써넣으시오.(2) 소수 둘째 자리 숫자가 3인 수를 모두 찾아 색칠해 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            325,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            165,
+            315,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            187,
+            366,
+            204
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.72,
+            23.29,
+            218.72,
+            44.29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.72,
+            47.29,
+            218.72,
+            72.29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.72,
+            70.83,
+            215.72,
+            94.83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.72,
+            94.83,
+            216.72,
+            114.83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.72,
+            115.83,
+            216.72,
+            138.83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.72,
+            137.83,
+            217.72,
+            161.83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.72,
+            0,
+            378.72,
+            207.83
+          ],
+          "text": "다음은 소수 배열표의 일부분입니다. 물음에 답하시오.  <table border>   <tbody>     <tr>       <td>0.01</td>       <td>0.02</td>       <td>0.03</td>       <td></td>       <td>0.05</td>       <td>0.06</td>     </tr>     <tr>       <td>0.11</td>       <td>0.12</td>       <td></td>       <td>0.14</td>       <td>0.15</td>       <td>0.16</td>     </tr>     <tr>       <td>0.21</td>       <td>0.22</td>       <td>0.23</td>       <td>0.24</td>       <td></td>       <td>0.26</td>     </tr>     <tr>       <td>0.31</td>       <td>0.32</td>       <td>0.33</td>       <td>0.34</td>       <td>0.35</td>       <td>0.36</td>     </tr>     <tr>       <td>0.41</td>       <td></td>       <td>0.43</td>       <td>0.44</td>       <td>0.45</td>       <td>0.46</td>     </tr>     <tr>       <td>0.51</td>       <td>0.52</td>       <td>0.53</td>       <td></td>       <td>0.55</td>       <td>0.56</td>     </tr> </tbody> </table> (1) 소수 배열표의 빈칸에 알맞은 소수를 써넣으시오.(2) 소수 둘째 자리 숫자가 3인 수를 모두 찾아 색칠해 보시오."
+        }
+      ]
+    }
+  ]
+}

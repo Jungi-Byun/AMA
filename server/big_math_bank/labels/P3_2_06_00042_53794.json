@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_06_00042_53794.png",
+  "id": "00042_53794",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민성이네 마을에 있는 가게에서 어제 하룻동안 팔린 음료수 판매량을 조사하여 나타낸 그림그래프입니다. 음료수 판매량이 가장 많은 가게는 어느 가게이고, 몇 개를 팔았습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            240,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            65,
+            42,
+            209,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            67,
+            253,
+            268
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            62
+          ],
+          "text": "민성이네 마을에 있는 가게에서 어제 하룻동안 팔린 음료수 판매량을 조사하여 나타낸 그림그래프입니다. 음료수 판매량이 가장 많은 가게는 어느 가게이고, 몇 개를 팔았습니까?"
+        }
+      ]
+    }
+  ]
+}

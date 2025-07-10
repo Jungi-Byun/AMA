@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_41932.png",
+  "id": "00043_41932",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉮와 ㉯에 대한 힌트가 다음과 같이 적혀 있습니다. ㉮와 ㉯ 중 더 큰 수를 소수로 나타내시오.  · ㉮는 $0.1$이 $54$개인 수입니다. · ㉯는 $ \\frac{1}{10} $이 $52$개인 수입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            540,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            201,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            55,
+            217,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            98
+          ],
+          "text": "㉮와 ㉯에 대한 힌트가 다음과 같이 적혀 있습니다. ㉮와 ㉯ 중 더 큰 수를 소수로 나타내시오.  · ㉮는 $0.1$이 $54$개인 수입니다. · ㉯는 $ \\frac{1}{10} $이 $52$개인 수입니다."
+        }
+      ]
+    }
+  ]
+}

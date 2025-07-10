@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_01_00043_39371.png",
+  "id": "00043_39371",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201014",
+      "question_topic_name": "(자연수)-(대분수)에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가로가 $5cm$인 직사각형이 있습니다. 이 직사각형의 가로는 $ \\frac{3}{7}  cm$만큼 줄이고 세로는 $ \\frac{3}{7}  cm$만큼 늘였더니 네 변의 길이가 같아졌습니다. 처음 직사각형의 세로는 몇 $cm$인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            277,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            64,
+            122,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            59
+          ],
+          "text": "가로가 $5cm$인 직사각형이 있습니다. 이 직사각형의 가로는 $ \\frac{3}{7}  cm$만큼 줄이고 세로는 $ \\frac{3}{7}  cm$만큼 늘였더니 네 변의 길이가 같아졌습니다. 처음 직사각형의 세로는 몇 $cm$인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

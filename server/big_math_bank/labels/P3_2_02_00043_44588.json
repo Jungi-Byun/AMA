@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00043_44588.png",
+  "id": "00043_44588",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $ \\begin{array}{r} \\boxed{\\phantom{123}}  ~~~~~~~~~~~~~~~~~~~~~~~~~~~\\\\ 5{\\overline{\\smash{\\big)}\\,8~~0\\phantom{)}}}~~~~~~~~~~~~~~~~~~~~~~~~~~~\\\\ \\underline{~~\\boxed{\\phantom{12}}~~\\phantom{)}}\\leftarrow (5\\times\\square) ~~~~~~~\\\\ 3~~0 \\phantom{\\phantom{)}} ~~~~~~~~~~~~~~~~~~~~~~~~~~\\\\ \\underline{~~\\boxed{\\phantom{124}}}  \\leftarrow (~5\\times\\square)~~~~~~ \\\\ \\square~~~~~~~~~~~~~~~~~~~~~~~~~\\phantom{\\phantom{)}}  \\\\  \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            23,
+            99,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            121,
+            85,
+            177,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            123,
+            143,
+            179,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            203
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $ \\begin{array}{r} \\boxed{\\phantom{123}}  ~~~~~~~~~~~~~~~~~~~~~~~~~~~\\\\ 5{\\overline{\\smash{\\big)}\\,8~~0\\phantom{)}}}~~~~~~~~~~~~~~~~~~~~~~~~~~~\\\\ \\underline{~~\\boxed{\\phantom{12}}~~\\phantom{)}}\\leftarrow (5\\times\\square) ~~~~~~~\\\\ 3~~0 \\phantom{\\phantom{)}} ~~~~~~~~~~~~~~~~~~~~~~~~~~\\\\ \\underline{~~\\boxed{\\phantom{124}}}  \\leftarrow (~5\\times\\square)~~~~~~ \\\\ \\square~~~~~~~~~~~~~~~~~~~~~~~~~\\phantom{\\phantom{)}}  \\\\  \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00043_58152.png",
+  "id": "00043_58152",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "딸기밭에서 딸기를 지영이는 $2  \\mathrm{~kg}  400  \\mathrm{~g} $ 땄고, 성민이는 $6  \\mathrm{~kg}  150  \\mathrm{~g} $ 땄습니다. 누가 딸기를 몇 $ \\mathrm{~kg} $ 몇 $ \\mathrm{~g} $ 더 많이 땄습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            689,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            691,
+            21
+          ],
+          "text": "딸기밭에서 딸기를 지영이는 $2  \\mathrm{~kg}  400  \\mathrm{~g} $ 땄고, 성민이는 $6  \\mathrm{~kg}  150  \\mathrm{~g} $ 땄습니다. 누가 딸기를 몇 $ \\mathrm{~kg} $ 몇 $ \\mathrm{~g} $ 더 많이 땄습니까?"
+        }
+      ]
+    }
+  ]
+}

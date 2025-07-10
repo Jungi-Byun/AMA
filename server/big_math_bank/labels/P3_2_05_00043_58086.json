@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00043_58086.png",
+  "id": "00043_58086",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 글을 읽고 물음에 답하시오. 시장에서 동건이는 돼지고기 두 근을 사고 민정이는 소고기 세 근을 샀습니다. 동건이는 돼지고기 한 근을 구워먹고 민정이는 소고기 두 근을 할머니께 드렸습니다. (단, 고기 한 근은 $600g$입니다.) (1) 동건이와 민정이가 산 고기의 무게는 각각 몇 $kg$ 몇 $g$입니까? (2) 동건이와 민정이에게 남은 고기의 무게의 합은 몇 $kg$ 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            204,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            801,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            56,
+            364,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            381,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            409,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            100
+          ],
+          "text": "다음 글을 읽고 물음에 답하시오. 시장에서 동건이는 돼지고기 두 근을 사고 민정이는 소고기 세 근을 샀습니다. 동건이는 돼지고기 한 근을 구워먹고 민정이는 소고기 두 근을 할머니께 드렸습니다. (단, 고기 한 근은 $600g$입니다.) (1) 동건이와 민정이가 산 고기의 무게는 각각 몇 $kg$ 몇 $g$입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            137,
+            411,
+            167
+          ],
+          "text": "(2) 동건이와 민정이에게 남은 고기의 무게의 합은 몇 $kg$ 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

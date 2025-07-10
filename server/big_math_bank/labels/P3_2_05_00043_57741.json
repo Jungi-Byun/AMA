@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00043_57741.png",
+  "id": "00043_57741",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우리 조상들이 사용했던 들이의 단위에는 섬, 말, 되, 홉 등이 있습니다. 이 단위들의 들이를 $ L $와 $ \\mathrm{mL} $ 로 나타내면 다음과 같습니다. 놀부는 $1$ 되 $2$ 홉의 쌀로 밥을 지었고 홍부는 $6$ 홉의 쌀로 밥을 지었습니다. 놀부가 사용한 쌀은 홍부가 사용한 쌀보다 약 몇 $ L $ 몇 $ \\mathrm{mL} $ 더 많은지 알아보시오. <table border>   <tbody>     <tr>       <td>$1$섬</td>       <td>약$180  L $</td>          </tr>     <tr>        <td>$1$말</td>       <td>약$18  L $</td>     </tr>     <tr>       <td>$1$되</td>       <td>약$ 1L   800\\mathrm{mL} $</td>     </tr>     <tr>  <td>$1$홉</td>             <td>약$ 180\\mathrm{mL} $</td>     </tr> </tbody> </table> (1) 놀부가 사용한 쌀은 약 몇 $ L $ 몇 $ \\mathrm{mL} $입니까? (2) 흥부가 사용한 쌀은 약 몇 $ L $ 몇 $ \\mathrm{mL} $ 입니까? (3) 놀부가 사용한 쌀은 홍부가 사용한 쌀보다 약 몇 $ L $ 몇 $ \\mathrm{mL} $ 더 많습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            802,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            49,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            138,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            163,
+            277,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            185,
+            280,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            207,
+            438,
+            224
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            225
+          ],
+          "text": "우리 조상들이 사용했던 들이의 단위에는 섬, 말, 되, 홉 등이 있습니다. 이 단위들의 들이를 $ L $와 $ \\mathrm{mL} $ 로 나타내면 다음과 같습니다. 놀부는 $1$ 되 $2$ 홉의 쌀로 밥을 지었고 홍부는 $6$ 홉의 쌀로 밥을 지었습니다. 놀부가 사용한 쌀은 홍부가 사용한 쌀보다 약 몇 $ L $ 몇 $ \\mathrm{mL} $ 더 많은지 알아보시오. <table border>   <tbody>     <tr>       <td>$1$섬</td>       <td>약$180  L $</td>          </tr>     <tr>        <td>$1$말</td>       <td>약$18  L $</td>     </tr>     <tr>       <td>$1$되</td>       <td>약$ 1L   800\\mathrm{mL} $</td>     </tr>     <tr>  <td>$1$홉</td>             <td>약$ 180\\mathrm{mL} $</td>     </tr> </tbody> </table> (1) 놀부가 사용한 쌀은 약 몇 $ L $ 몇 $ \\mathrm{mL} $입니까? (2) 흥부가 사용한 쌀은 약 몇 $ L $ 몇 $ \\mathrm{mL} $ 입니까? (3) 놀부가 사용한 쌀은 홍부가 사용한 쌀보다 약 몇 $ L $ 몇 $ \\mathrm{mL} $ 더 많습니까?"
+        }
+      ]
+    }
+  ]
+}

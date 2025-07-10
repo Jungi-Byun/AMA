@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00043_32459.png",
+  "id": "00043_32459",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101002",
+      "question_topic_name": "다섯 자리 수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $\\begin{array}{r}10000이8\\\\1000이16\\\\10이 128\\\\1이56\\end{array}$이면 $\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            23,
+            106,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            31,
+            47,
+            107,
+            62
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            111,
+            55,
+            212,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            48,
+            70,
+            111,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            55,
+            95,
+            109,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            214,
+            114
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.  $\\begin{array}{r}10000이8\\\\1000이16\\\\10이 128\\\\1이56\\end{array}$이면 $\\square$"
+        }
+      ]
+    }
+  ]
+}

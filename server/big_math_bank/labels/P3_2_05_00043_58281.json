@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00043_58281.png",
+  "id": "00043_58281",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 실제 무게가 $2kg$인 사전의 어림한 무게와 실제 무게의 차입니다. 가장 가깝게 어림한 사람의 무게와 가장 멀게 어림한 사람의 무게의 차가 가장 적을 때는 얼마인지 알아보시오. <table border> <caption></caption>   <tbody>     <tr>       <td></td>       <td>현주</td>       <td>선우</td>       <td>동훈</td>     </tr>     <tr>       <td>무게의 차($g$)</td>       <td>$200$</td>       <td>$400$</td>       <td>$300$</td>     </tr> </tbody> </table> (1) 가장 가깝게 어림한 사람과 가장 멀게 어림한 사람을 차례로 쓰시오. (2) 가장 가깝게 어림한 사람과 가장 멀게 어림한 사람이 어림한 무게가 될 수 있는 무게를 각각 $2$개씩 차례로 쓰시오. (3) (2)에서 두 사람이 어림한 무게의 차가 가장 작을 때의 무게의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            258,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            214,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            95,
+            419,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            676,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            138,
+            472,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            157
+          ],
+          "text": "다음은 실제 무게가 $2kg$인 사전의 어림한 무게와 실제 무게의 차입니다. 가장 가깝게 어림한 사람의 무게와 가장 멀게 어림한 사람의 무게의 차가 가장 적을 때는 얼마인지 알아보시오. <table border> <caption></caption>   <tbody>     <tr>       <td></td>       <td>현주</td>       <td>선우</td>       <td>동훈</td>     </tr>     <tr>       <td>무게의 차($g$)</td>       <td>$200$</td>       <td>$400$</td>       <td>$300$</td>     </tr> </tbody> </table> (1) 가장 가깝게 어림한 사람과 가장 멀게 어림한 사람을 차례로 쓰시오. (2) 가장 가깝게 어림한 사람과 가장 멀게 어림한 사람이 어림한 무게가 될 수 있는 무게를 각각 $2$개씩 차례로 쓰시오. (3) (2)에서 두 사람이 어림한 무게의 차가 가장 작을 때의 무게의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

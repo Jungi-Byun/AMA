@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_03_00043_35567.png",
+  "id": "00043_35567",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square $ 안에 알맞은 수를 써넣으시오.(1) $ \\begin{array}{r} \\boxed{\\phantom{123}}\\\\ 36{\\overline{\\smash{\\big)}\\,4~5~5\\;}}\\\\ \\underline{3~6~~\\;\\;}\\\\\\boxed{\\phantom{123}} \\\\ \\underline{\\;\\boxed{\\phantom {123}}} \\\\ \\boxed{\\phantom {123}} \\\\  \\end{array} $ (2) $ \\begin{array}{r} \\boxed{\\phantom{123}}\\\\ 59{\\overline{\\smash{\\big)}\\,8~2~9\\;}}\\\\ \\underline{5~9~~\\;\\;}\\\\\\boxed{\\phantom{1243}} \\\\ \\underline{\\;\\boxed{\\phantom {1243}}} \\\\ \\boxed{\\phantom {3}} \\\\  \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            137,
+            24,
+            234,
+            194
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            113,
+            194
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            236,
+            196
+          ],
+          "text": "$\\square $ 안에 알맞은 수를 써넣으시오.(1) $ \\begin{array}{r} \\boxed{\\phantom{123}}\\\\ 36{\\overline{\\smash{\\big)}\\,4~5~5\\;}}\\\\ \\underline{3~6~~\\;\\;}\\\\\\boxed{\\phantom{123}} \\\\ \\underline{\\;\\boxed{\\phantom {123}}} \\\\ \\boxed{\\phantom {123}} \\\\  \\end{array} $ (2) $ \\begin{array}{r} \\boxed{\\phantom{123}}\\\\ 59{\\overline{\\smash{\\big)}\\,8~2~9\\;}}\\\\ \\underline{5~9~~\\;\\;}\\\\\\boxed{\\phantom{1243}} \\\\ \\underline{\\;\\boxed{\\phantom {1243}}} \\\\ \\boxed{\\phantom {3}} \\\\  \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

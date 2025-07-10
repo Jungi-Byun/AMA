@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_05_00043_42949.png",
+  "id": "00043_42949",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105002",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 농촌 지역에서 연도별 다문화 가정 가구 수를 조사하여 나타낸 막대그래프입니다. 물음에 답하시오. (1) 위 막대그래프에서 가로는 년도를 나타내고, 세로는 무엇을 나타내는지 알맞은 것에 $\\bigcirc$표 하시오.( 학생 수 , 가구 수 ) (2) $2011$년도의 다문화 가정은 몇 가구입니까? (3) 다문화 가정 가구 수는 어떻게 변화되었는지 알맞은 말에 $\\bigcirc$표 하시오.( 줄어들었습니다. , 늘어났습니다. )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            606,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            213,
+            133,
+            230
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            235,
+            281,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            257,
+            434,
+            274
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            279,
+            220,
+            296
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.38,
+            193.11,
+            582.86,
+            210.39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            315,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.74,
+            1.11,
+            607.18,
+            17.75
+          ],
+          "text": "어느 농촌 지역에서 연도별 다문화 가정 가구 수를 조사하여 나타낸 막대그래프입니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.38,
+            192.47,
+            583.5,
+            298.07
+          ],
+          "text": "(1) 위 막대그래프에서 가로는 년도를 나타내고, 세로는 무엇을 나타내는지 알맞은 것에 $\\bigcirc$표 하시오.( 학생 수 , 가구 수 ) (2) $2011$년도의 다문화 가정은 몇 가구입니까? (3) 다문화 가정 가구 수는 어떻게 변화되었는지 알맞은 말에 $\\bigcirc$표 하시오.( 줄어들었습니다. , 늘어났습니다. )"
+        }
+      ]
+    }
+  ]
+}

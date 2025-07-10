@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_06_00043_49093.png",
+  "id": "00043_49093",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "동전을 그림과 같이 규칙적으로 늘어놓았습니다. 빈칸에 알맞은 수를 써넣으시오. <table border> <tbody>   <tr>     <td>순서</td>     <td>첫 번째</td>     <td>두 번째</td>     <td>세 번째</td>   </tr>   <tr>     <td>수</td>     <td></td>     <td></td>     <td></td>   </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            476,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            133,
+            223,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            314,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.5,
+            0,
+            479.5,
+            17.96
+          ],
+          "text": "동전을 그림과 같이 규칙적으로 늘어놓았습니다. 빈칸에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.5,
+            131.5,
+            225.5,
+            180.5
+          ],
+          "text": "<table border> <tbody>   <tr>     <td>순서</td>     <td>첫 번째</td>     <td>두 번째</td>     <td>세 번째</td>   </tr>   <tr>     <td>수</td>     <td></td>     <td></td>     <td></td>   </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

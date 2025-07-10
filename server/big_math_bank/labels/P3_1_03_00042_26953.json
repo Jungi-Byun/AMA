@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_03_00042_26953.png",
+  "id": "00042_26953",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "글을 읽고 물음에 답하시오. 한 봉지에 사탕이 $6$개씩 들어 있습니다. 사탕이 모두 $24$개이면 봉지는 모두 몇 개입니까? (1) 곱셈식으로 나타내시오. (2) 나눗셈식으로 나타내시오.  (3) 답을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            174,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            172,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            188,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            124,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.1,
+            30.4,
+            525.1,
+            49.4
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            1.4,
+            526.1,
+            77.4
+          ],
+          "text": "글을 읽고 물음에 답하시오. 한 봉지에 사탕이 $6$개씩 들어 있습니다. 사탕이 모두 $24$개이면 봉지는 모두 몇 개입니까? (1) 곱셈식으로 나타내시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            104.4,
+            187.1,
+            121.4
+          ],
+          "text": "(2) 나눗셈식으로 나타내시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            148.4,
+            124.1,
+            165.4
+          ],
+          "text": "(3) 답을 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_04_00043_55559.png",
+  "id": "00043_55559",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 분수를 수직선 위에 각각 표시하고, 크기가 같은 분수를 쓰시오. $ \\begin{array}{lll}\\frac{4}{16} & \\frac{3}{8} & \\frac{1}{4}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            404,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            55,
+            24,
+            250,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            89,
+            306,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            407,
+            71
+          ],
+          "text": "다음 분수를 수직선 위에 각각 표시하고, 크기가 같은 분수를 쓰시오. $ \\begin{array}{lll}\\frac{4}{16} & \\frac{3}{8} & \\frac{1}{4}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

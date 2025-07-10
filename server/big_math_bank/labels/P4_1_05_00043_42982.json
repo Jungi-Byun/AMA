@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_05_00043_42982.png",
+  "id": "00043_42982",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105002",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로는 요일이 세로는 시간(분)이 표시되어 있고 시간은 10분 단위로 칸이 나누어져 있고 민수는 파란색 막대로 호정은 빨간색 막대로 나타내고 월요일은 민수가 50분이고 호정은 30분, 화요일은 민수가 50분이고 호정은 40분, 수요일은 민수는 40분이고 호정은 50분, 목요일은 민수는 50분이고 호정은 40분인 막대그래프",
+      "question_text": "민수와 호정이가 $ 4 $일 동안 운동한 시간을 조사하여 나타낸 막대그래프입니다. 물음에 답하시오. (1) 민수와 호정이가 $ 4 $일 동안 운동한 시간을 각각 구하시오. (2) 민수와 호정이가 $ 4 $일 동안 운동한 시간의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            555,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            185,
+            359,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.3,
+            165.31,
+            354.38,
+            180.67
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            324,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.66,
+            2.11,
+            555.34,
+            15.55
+          ],
+          "text": "민수와 호정이가 $ 4 $일 동안 운동한 시간을 조사하여 나타낸 막대그래프입니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.94,
+            165.95,
+            358.86,
+            202.43
+          ],
+          "text": "(1) 민수와 호정이가 $ 4 $일 동안 운동한 시간을 각각 구하시오. (2) 민수와 호정이가 $ 4 $일 동안 운동한 시간의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

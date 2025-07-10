@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_05_00043_43028.png",
+  "id": "00043_43028",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105002",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우리 반 친구들이 실천할 수 있는 환경 보호 활동에는 무엇이 있는지 조사하여 표로 나타냈습니다. 물음에 답하시오. 실천 가능한 환경 보호 활동 <table border> <caption>실천 가능한 환경 보호 활동</caption>   <tbody>     <tr>       <td>활동</td>       <td>쓰레기 분리 배출</td>       <td>재활용 하기</td>       <td>물 사용량 줄이기</td>       <td>기타</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수 (명)</td>       <td>35</td>       <td>25</td>       <td>25</td>       <td>15</td>       <td>100</td>     </tr>     <tr>       <td colspan=6></td>     </tr> </tbody> </table> (1) 표를 보고 막대그래프로 나타내시오. (2) 막대그래프에서 가로와 세로는 각각 무엇을 나타냅니까? (3) 우리 반 친구들이 실천 가능한 환경 보호 활동은 모두$ 4$가지라고 할 수 있습니까? ‘예’ 또는 ‘아니요’로 대답하고 그 이유를 설명하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            668,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            61,
+            22,
+            218,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            318,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            161,
+            244,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            397,
+            359,
+            417
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            444,
+            790,
+            461
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            181,
+            315,
+            399
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            670,
+            177
+          ],
+          "text": "우리 반 친구들이 실천할 수 있는 환경 보호 활동에는 무엇이 있는지 조사하여 표로 나타냈습니다. 물음에 답하시오. 실천 가능한 환경 보호 활동 <table border> <caption>실천 가능한 환경 보호 활동</caption>   <tbody>     <tr>       <td>활동</td>       <td>쓰레기 분리 배출</td>       <td>재활용 하기</td>       <td>물 사용량 줄이기</td>       <td>기타</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수 (명)</td>       <td>35</td>       <td>25</td>       <td>25</td>       <td>15</td>       <td>100</td>     </tr>     <tr>       <td colspan=6></td>     </tr> </tbody> </table> (1) 표를 보고 막대그래프로 나타내시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            395,
+            792,
+            462
+          ],
+          "text": "(2) 막대그래프에서 가로와 세로는 각각 무엇을 나타냅니까? (3) 우리 반 친구들이 실천 가능한 환경 보호 활동은 모두$ 4$가지라고 할 수 있습니까? ‘예’ 또는 ‘아니요’로 대답하고 그 이유를 설명하시오."
+        }
+      ]
+    }
+  ]
+}

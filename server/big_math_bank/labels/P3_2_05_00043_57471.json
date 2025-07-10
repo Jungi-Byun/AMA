@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57471.png",
+  "id": "00043_57471",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$mL$와 $L$ 중에서  $\\square$안에 알맞은 들이의 단위를 쓰시오.  양치컵의 들이는 약 $300 \\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            322,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            299,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            342,
+            57
+          ],
+          "text": "$mL$와 $L$ 중에서  $\\square$안에 알맞은 들이의 단위를 쓰시오.  양치컵의 들이는 약 $300 \\square$입니다."
+        }
+      ]
+    }
+  ]
+}

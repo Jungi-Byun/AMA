@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55421.png",
+  "id": "00043_55421",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "배추흰나비의 머리부터 배까지의 전체 길이가 $48mm$일 때 배의 길이는 몇 $mm$입니까? <table border>   <tbody>     <tr>       <td>머리</td>       <td>전체 길이의 $\\frac{1}{8}$임.</td>     </tr>     <tr>       <td>가슴</td>       <td>전체 길이의 $\\frac{1}{4}$임.</td>     </tr>     <tr>       <td>배</td>       <td>마디로 되어 있음</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            514,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            191,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            516,
+            131
+          ],
+          "text": "배추흰나비의 머리부터 배까지의 전체 길이가 $48mm$일 때 배의 길이는 몇 $mm$입니까? <table border>   <tbody>     <tr>       <td>머리</td>       <td>전체 길이의 $\\frac{1}{8}$임.</td>     </tr>     <tr>       <td>가슴</td>       <td>전체 길이의 $\\frac{1}{4}$임.</td>     </tr>     <tr>       <td>배</td>       <td>마디로 되어 있음</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

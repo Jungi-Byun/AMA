@@ -1,0 +1,139 @@
+{
+  "question_filename": "P4_2_05_00040_23048.png",
+  "id": "00040_23048",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205003",
+      "question_topic_name": "꺾은선그래프로 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 꺾은선그래프를 그리는 방법을 나타낸 것입니다. 그리는 순서에 맞게 나열한 것은 어느 것입니까? 가. 점을 선분으로 잇습니다. 나. 가로, 세로의 눈금에 나타낼 것을 정합니다. 다. 조사한 내용을 가로, 세로의 눈금에서 각각 찾아 만나는 자리에 점을 찍습니다. 라. 세로 눈금 한 칸의 크기를 정합니다. ① (가)-(나)-(다)-(라) ② (나)-(다)-(라)-(가) ③ (나)-(라)-(다)-(가) ④ (다)-(나)-(라)-(가) ⑤ (라)-(나)-(라)-(가)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            610,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            188,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            288,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            74,
+            486,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            96,
+            250,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            123,
+            152,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            152,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            152,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            190,
+            152,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            212,
+            152,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            643,
+            233
+          ],
+          "text": "다음은 꺾은선그래프를 그리는 방법을 나타낸 것입니다. 그리는 순서에 맞게 나열한 것은 어느 것입니까? 가. 점을 선분으로 잇습니다. 나. 가로, 세로의 눈금에 나타낼 것을 정합니다. 다. 조사한 내용을 가로, 세로의 눈금에서 각각 찾아 만나는 자리에 점을 찍습니다. 라. 세로 눈금 한 칸의 크기를 정합니다. ① (가)-(나)-(다)-(라) ② (나)-(다)-(라)-(가) ③ (나)-(라)-(다)-(가) ④ (다)-(나)-(라)-(가) ⑤ (라)-(나)-(라)-(가)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00042_54844.png",
+  "id": "00042_54844",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203014",
+      "question_topic_name": "자릿수가 다른 소수의 덧셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바르게 계산한 것은 어느 것입니까?  ① $ \\begin{array}{r}3.75 \\\\ + 5.6 \\\\ \\hline 4.31\\end{array} $  ② $ \\begin{array}{r}3.75{~}{~} \\\\ + 5.6 \\\\ \\hline 3.806\\end{array} $  ③ $ \\begin{array}{r}3.75 \\\\ + 5.6{~}{~} \\\\ \\hline 9.35\\end{array} $   ④ $ \\begin{array}{r}3.75 \\\\ + 5.6{~}{~}{~}{~} \\\\ \\hline 5.975\\end{array} $  ⑤ $ \\begin{array}{r}3.75 \\\\ + 5.6{~}{~}{~}{~}{~} \\\\ \\hline 5.6375\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            220,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            105,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            90,
+            117,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            155,
+            108,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            220,
+            117,
+            274
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            285,
+            129,
+            339
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            222,
+            341
+          ],
+          "text": "바르게 계산한 것은 어느 것입니까?  ① $ \\begin{array}{r}3.75 \\\\ + 5.6 \\\\ \\hline 4.31\\end{array} $  ② $ \\begin{array}{r}3.75{~}{~} \\\\ + 5.6 \\\\ \\hline 3.806\\end{array} $  ③ $ \\begin{array}{r}3.75 \\\\ + 5.6{~}{~} \\\\ \\hline 9.35\\end{array} $   ④ $ \\begin{array}{r}3.75 \\\\ + 5.6{~}{~}{~}{~} \\\\ \\hline 5.975\\end{array} $  ⑤ $ \\begin{array}{r}3.75 \\\\ + 5.6{~}{~}{~}{~}{~} \\\\ \\hline 5.6375\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

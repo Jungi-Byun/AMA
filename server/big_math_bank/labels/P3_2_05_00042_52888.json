@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00042_52888.png",
+  "id": "00042_52888",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "물건의 무게를 재는 데 $kg$과 $g$ 중 더 적당한 단위를 쓰시오. (1) 수학 교과서 (        ) (2) 책가방 (        ) (3) 필통 (         ) (4) 컴퓨터 (         )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            350,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            106,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            80,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            64,
+            67,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            88,
+            79,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            352,
+            106
+          ],
+          "text": "물건의 무게를 재는 데 $kg$과 $g$ 중 더 적당한 단위를 쓰시오. (1) 수학 교과서 (        ) (2) 책가방 (        ) (3) 필통 (         ) (4) 컴퓨터 (         )"
+        }
+      ]
+    }
+  ]
+}

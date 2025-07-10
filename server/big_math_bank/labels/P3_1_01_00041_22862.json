@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00041_22862.png",
+  "id": "00041_22862",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "학교 도서관에 기증할 책 $600$권을 모으려고 합니다. $1, 2, 3$학년 학생들이 $418$권을 모았고, $4, 5, 6$학년 학생들이 $296$권을 모았습니다. 처음에 모으려고 한 $600$권보다 얼마나 더 모았습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            613,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            497,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            615,
+            41
+          ],
+          "text": "학교 도서관에 기증할 책 $600$권을 모으려고 합니다. $1, 2, 3$학년 학생들이 $418$권을 모았고, $4, 5, 6$학년 학생들이 $296$권을 모았습니다. 처음에 모으려고 한 $600$권보다 얼마나 더 모았습니까?"
+        }
+      ]
+    }
+  ]
+}

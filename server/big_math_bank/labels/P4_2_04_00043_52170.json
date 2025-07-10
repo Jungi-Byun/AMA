@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_04_00043_52170.png",
+  "id": "00043_52170",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204001",
+      "question_topic_name": "수직 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "ㅇ을 중심으로 4개의 선분이 있으며, 선분 ㅇㄱ은 ㅇㄷ에 대한 수선이고, 그 사이의 선분 ㅇㄴ은 마지막 선분인 ㅇㄹ의 수선이며, 각 ㄱㅇㄹ이 155도이고 각 ㄴㅇㄷ에 각 표시가 있는 평면도형",
+      "question_text": "그림에서 선분 ㅇㄱ은 선분 ㅇㄷ에 대한 수선이고, 선분 ㅇㄴ은 선분 ㅇㄹ에 대한 수선입니다. 각 ㄱㅇㄹ의 크기가 $155°$일 때, 각 ㄴㅇㄷ의 크기는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            124,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            58,
+            189,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "그림에서 선분 ㅇㄱ은 선분 ㅇㄷ에 대한 수선이고, 선분 ㅇㄴ은 선분 ㅇㄹ에 대한 수선입니다. 각 ㄱㅇㄹ의 크기가 $155°$일 때, 각 ㄴㅇㄷ의 크기는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

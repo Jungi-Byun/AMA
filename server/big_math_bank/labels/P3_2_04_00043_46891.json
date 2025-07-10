@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_04_00043_46891.png",
+  "id": "00043_46891",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수직선을 보고 물음에 답하시오. \\[ \\begin{array}{llll} \\frac{2}{3} & \\frac{4}{3} & \\frac{4}{6} & \\frac{11}{6} \\end{array} \\] (1) $ \\frac{2}{3}$, $\\frac{4}{3} $ 인 곳을 찾아 수직선 위에 $ \\downarrow $ 로 표시하시오. (2) $ \\frac{4}{6}$, $\\frac{11}{6} $ 인 곳을 찾아 수직선 위에 $ \\uparrow $ 로 표시하시오. (3) 크기가 같은 분수는 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            200,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            135,
+            331,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            176,
+            343,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            216,
+            241,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38.63,
+            31.26,
+            368.87,
+            69.15
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            90,
+            301,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.64,
+            0.03,
+            368.87,
+            69.66
+          ],
+          "text": "수직선을 보고 물음에 답하시오. \\[ \\begin{array}{llll} \\frac{2}{3} & \\frac{4}{3} & \\frac{4}{6} & \\frac{11}{6} \\end{array} \\]"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.15,
+            135.04,
+            343.79,
+            233.34
+          ],
+          "text": "(1) $ \\frac{2}{3}$, $\\frac{4}{3} $ 인 곳을 찾아 수직선 위에 $ \\downarrow $ 로 표시하시오. (2) $ \\frac{4}{6}$, $\\frac{11}{6} $ 인 곳을 찾아 수직선 위에 $ \\uparrow $ 로 표시하시오. (3) 크기가 같은 분수는 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50893.png",
+  "id": "00043_50893",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은지네 집에서 놀이터까지의 거리는 $105 m$, 놀이터에서 이모댁까지의 거리는 $0.61 km$입니다. 은지가 집에서 놀이터를 지나 이모댁에 다녀온 거리는 모두 몇 $km$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            188,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "은지네 집에서 놀이터까지의 거리는 $105 m$, 놀이터에서 이모댁까지의 거리는 $0.61 km$입니다. 은지가 집에서 놀이터를 지나 이모댁에 다녀온 거리는 모두 몇 $km$입니까?"
+        }
+      ]
+    }
+  ]
+}

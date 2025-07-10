@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00043_51269.png",
+  "id": "00043_51269",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "조건을 모두 만족하는 $\\bigstar$을 구하시오.  · $\\bigstar$은 $60$보다 크고 $70$보다 작습니다.   · $\\bigstar$을 $8$로 나누면 나머지가 $3$입니다.   · $\\bigstar$을 $9$로 나누면 나머지가 $4$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            229,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            239,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            54,
+            235,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            73,
+            235,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            241,
+            94
+          ],
+          "text": "조건을 모두 만족하는 $\\bigstar$을 구하시오.  · $\\bigstar$은 $60$보다 크고 $70$보다 작습니다.   · $\\bigstar$을 $8$로 나누면 나머지가 $3$입니다.   · $\\bigstar$을 $9$로 나누면 나머지가 $4$입니다."
+        }
+      ]
+    }
+  ]
+}

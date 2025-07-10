@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_04_00042_25850.png",
+  "id": "00042_25850",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱이 가장 큰 것은 어느 것입니까?  ① $ 23 \\times 2 $ ② $ 11 \\times 5 $ ③ $ 21 \\times 4 $ ④ $ 32 \\times 2 $ ⑤ $ 43 \\times 2 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            212,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            77,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            71,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            75,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            76,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            77,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            214,
+            130
+          ],
+          "text": "곱이 가장 큰 것은 어느 것입니까?  ① $ 23 \\times 2 $ ② $ 11 \\times 5 $ ③ $ 21 \\times 4 $ ④ $ 32 \\times 2 $ ⑤ $ 43 \\times 2 $"
+        }
+      ]
+    }
+  ]
+}

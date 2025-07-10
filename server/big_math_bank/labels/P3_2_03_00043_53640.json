@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53640.png",
+  "id": "00043_53640",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "반지름이 $5  \\mathrm{cm} $인 원을 다음과 같이 겹쳐서 그렸더니 전체 길이가 $80 cm$가 되었습니다. 원을 몇 개 그린 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            665,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            25,
+            317,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            667,
+            23
+          ],
+          "text": "반지름이 $5  \\mathrm{cm} $인 원을 다음과 같이 겹쳐서 그렸더니 전체 길이가 $80 cm$가 되었습니다. 원을 몇 개 그린 것입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00042_27289.png",
+  "id": "00042_27289",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "상현이는 95장의 딱지를 가지고 있고, 우진이는 20장의 딱지를 가지고 있습니다. 내일부터 매일 상현이는 5장씩 딱지를 사고, 우진이는 20장씩 딱지를 산다면 며칠 후에 상현이와 우진이가 가지고 있는 딱지의 수가 같게 됩니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            518,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            41
+          ],
+          "text": "상현이는 95장의 딱지를 가지고 있고, 우진이는 20장의 딱지를 가지고 있습니다. 내일부터 매일 상현이는 5장씩 딱지를 사고, 우진이는 20장씩 딱지를 산다면 며칠 후에 상현이와 우진이가 가지고 있는 딱지의 수가 같게 됩니까?"
+        }
+      ]
+    }
+  ]
+}

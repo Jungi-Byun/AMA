@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_42330.png",
+  "id": "00043_42330",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "규종이와 효은이는 울타리에 노란색 페인트를 칠하고 있습니다. 물음에 답하시오.⑴ 규종이가 칠한 부분을 소수로 나타내시오. ⑵ 효은이가 칠한 부분을 소수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            476,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            271,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            134,
+            271,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            46,
+            223,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            159,
+            222,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            478,
+            41
+          ],
+          "text": "규종이와 효은이는 울타리에 노란색 페인트를 칠하고 있습니다. 물음에 답하시오.⑴ 규종이가 칠한 부분을 소수로 나타내시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            125,
+            273,
+            154
+          ],
+          "text": "⑵ 효은이가 칠한 부분을 소수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

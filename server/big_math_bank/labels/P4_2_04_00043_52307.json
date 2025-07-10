@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00043_52307.png",
+  "id": "00043_52307",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로로 지나는 직선 가 아래에 평행한 직선 나를 뚫고 지나가는 오른쪽 위로 향하는 직선과 직선 가와 만나는 교점 ㄱ이고 이루는 예각은 50도이고 직선 나와 만나는 점 ㄴ이고 예각에 검은 별 그려져있는 도형",
+      "question_text": "직선 $가$와 직선 $나는$ 서로 평행합니다. 각 $\\bigstar$의 크기를 알아보시오.  (1) 점 $ㄱ$에서 직선 $나$에 수선을 그어 직선 $나$와 만나는 곳에 점 $ㄷ$을 표시해 보시오.(2) 직선 가와 직선 $나$ 사이에 만들어진 도형은 무엇입니까?(3) $\\bigstar$의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            391,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            172,
+            485,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            194,
+            354,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            216,
+            166,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            40,
+            197,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            393,
+            21
+          ],
+          "text": "직선 $가$와 직선 $나는$ 서로 평행합니다. 각 $\\bigstar$의 크기를 알아보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            171,
+            487,
+            233
+          ],
+          "text": "(1) 점 $ㄱ$에서 직선 $나$에 수선을 그어 직선 $나$와 만나는 곳에 점 $ㄷ$을 표시해 보시오.(2) 직선 가와 직선 $나$ 사이에 만들어진 도형은 무엇입니까?(3) $\\bigstar$의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

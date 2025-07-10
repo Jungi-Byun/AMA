@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_05_00043_58504.png",
+  "id": "00043_58504",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음에서 꺾은선그래프로 나타내면 좋은 것을 찾아 기호를 쓰시오. ㉠ 도시별 인구를 조사하여 그래프로 나타내는 경우㉡ 우리 반에서 어느 혈액형이 가장 많은지 알아보고 싶은 경우㉢ 매년 어느 초등학교의 학생 수의 변화를 알아보고 싶은 경우",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            393,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            320,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            55,
+            379,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            72,
+            384,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            434,
+            99
+          ],
+          "text": "다음에서 꺾은선그래프로 나타내면 좋은 것을 찾아 기호를 쓰시오. ㉠ 도시별 인구를 조사하여 그래프로 나타내는 경우㉡ 우리 반에서 어느 혈액형이 가장 많은지 알아보고 싶은 경우㉢ 매년 어느 초등학교의 학생 수의 변화를 알아보고 싶은 경우"
+        }
+      ]
+    }
+  ]
+}

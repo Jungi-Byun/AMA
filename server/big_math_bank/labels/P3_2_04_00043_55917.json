@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55917.png",
+  "id": "00043_55917",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 말을 써넣으시오. 자연수와 진분수로 이루어진 분수를 $\\square$라고 합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            371,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            377,
+            56
+          ],
+          "text": "$\\square$ 안에 알맞은 말을 써넣으시오. 자연수와 진분수로 이루어진 분수를 $\\square$라고 합니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32676.png",
+  "id": "00043_32676",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "백조의 자리 숫자와 천억의 자리 숫자가 같은 수를 찾아 기호를 쓰시오.  ㉠ $832480371230045$ ㉡ $5738710569841233$ ㉢ $6874720125796214$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            417,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            166,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            56,
+            167,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            75,
+            168,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            101
+          ],
+          "text": "백조의 자리 숫자와 천억의 자리 숫자가 같은 수를 찾아 기호를 쓰시오.  ㉠ $832480371230045$ ㉡ $5738710569841233$ ㉢ $6874720125796214$"
+        }
+      ]
+    }
+  ]
+}

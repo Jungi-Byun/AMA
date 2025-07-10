@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00042_24288.png",
+  "id": "00042_24288",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠+㉡의 값을 구하시오.  · $\\frac{4}{7}$는 $\\frac{1}{7}$이 ㉠개입니다.  · $\\frac{㉡}{6}$은 $\\frac{1}{6}$이 $5$개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            153,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            195,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            76,
+            199,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            197,
+            107
+          ],
+          "text": "㉠+㉡의 값을 구하시오.  · $\\frac{4}{7}$는 $\\frac{1}{7}$이 ㉠개입니다.  · $\\frac{㉡}{6}$은 $\\frac{1}{6}$이 $5$개입니다."
+        }
+      ]
+    }
+  ]
+}

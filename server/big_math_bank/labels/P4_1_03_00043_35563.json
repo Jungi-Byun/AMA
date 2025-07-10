@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_35563.png",
+  "id": "00043_35563",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103015",
+      "question_topic_name": "몫이 한 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가운데 안의 수를 바깥 수로 나누어 큰 원의 빈 곳에 몫을 써넣고, 나머지는 $\\square$ 안에 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            15.24,
+            0,
+            586.49,
+            23.2
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25.24,
+            27.61,
+            283.99,
+            225.11
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.49,
+            0.11,
+            586.49,
+            22.61
+          ],
+          "text": "가운데 안의 수를 바깥 수로 나누어 큰 원의 빈 곳에 몫을 써넣고, 나머지는 $\\square$ 안에 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

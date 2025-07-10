@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00042_52687.png",
+  "id": "00042_52687",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202001",
+      "question_topic_name": "내림이 없는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "검은 공 $30$개와 흰 공 $50$개가 있습니다. 이 공을 남김없이 $4$명에게 똑같게 나누어 주려고 합니다. 한 사람에게 공을 몇 개씩 주어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            20
+          ],
+          "text": "검은 공 $30$개와 흰 공 $50$개가 있습니다. 이 공을 남김없이 $4$명에게 똑같게 나누어 주려고 합니다. 한 사람에게 공을 몇 개씩 주어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_03_00043_35651.png",
+  "id": "00043_35651",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희망 초등학교에서 농촌 봉사 활동을 가려고 합니다. 다음 계획을 보고 참가한 학생은 모두 몇 명인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            639,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            67,
+            35,
+            292,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            55,
+            67,
+            288,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            49,
+            88,
+            291,
+            105
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            50,
+            105,
+            301,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            645,
+            145
+          ],
+          "text": "희망 초등학교에서 농촌 봉사 활동을 가려고 합니다. 다음 계획을 보고 참가한 학생은 모두 몇 명인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

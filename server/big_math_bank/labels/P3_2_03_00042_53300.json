@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00042_53300.png",
+  "id": "00042_53300",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원에 대한 설명으로 틀린 것은 어느 것입니까? ①한 원에서 반지름은 모두 같습니다. ②원을 그릴 때 컴퍼스의 침이 꽂혔던 점을 원의 중심이라고 합니다. ③한 원에서 가장 긴 선분은 원의 반지름입니다. ④한 원에서 지름은 모두 같습니다. ⑤한 원에서 지름은 수없이 많이 그릴 수 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            279,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            240,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            412,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            299,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            228,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            315,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            414,
+            130
+          ],
+          "text": "원에 대한 설명으로 틀린 것은 어느 것입니까? ①한 원에서 반지름은 모두 같습니다. ②원을 그릴 때 컴퍼스의 침이 꽂혔던 점을 원의 중심이라고 합니다. ③한 원에서 가장 긴 선분은 원의 반지름입니다. ④한 원에서 지름은 모두 같습니다. ⑤한 원에서 지름은 수없이 많이 그릴 수 있습니다."
+        }
+      ]
+    }
+  ]
+}

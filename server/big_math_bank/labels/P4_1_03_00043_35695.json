@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_35695.png",
+  "id": "00043_35695",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 보고 지영이네 반 이름으로 아동 복지 시설 한 곳에 몇 권의 책을 나누어 줄 수 있습니까?  [행복한 책 마라톤 대회] $ 4 \\mathrm{~km} $ 마라톤에 참가하여 완주를 하면 자사에서 책을 기부해 드립니다. 완주를 한 사람에 한하여 한 사람당 $140$권씩 책을 기부해 드리고 있으니 많이 참여해 주세요. 일시 : $\\bigcirc\\bigcirc\\bigcirc\\bigcirc$년 $\\bigcirc\\bigcirc$월 $\\bigcirc\\bigcirc$일, $10$시 출발  $\\bigcirc\\bigcirc\\bigcirc\\bigcirc$년 $\\bigcirc\\bigcirc$월 $△△$일, $\\square$ 요일 날씨 : 맑음  우리 반에서 '행복한 책 마라튼 대회'에 $15$명이 참가했다. 그러나 아쉽게도 완주를 한 학쌩은 나를 포합하여 $7$명 뿐이었다. 내일 우리 반의 이름으로 $14$곳의 아동 복지 시설에 책을 똑같이 나누어 주기로 했다. 줗은 일을 했다는 생각에 뿌듯하다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            558,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            33,
+            309,
+            462
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            560,
+            24
+          ],
+          "text": "다음을 보고 지영이네 반 이름으로 아동 복지 시설 한 곳에 몇 권의 책을 나누어 줄 수 있습니까?  [행복한 책 마라톤 대회] $ 4 \\mathrm{~km} $ 마라톤에 참가하여 완주를 하면 자사에서 책을 기부해 드립니다. 완주를 한 사람에 한하여 한 사람당 $140$권씩 책을 기부해 드리고 있으니 많이 참여해 주세요. 일시 : $\\bigcirc\\bigcirc\\bigcirc\\bigcirc$년 $\\bigcirc\\bigcirc$월 $\\bigcirc\\bigcirc$일, $10$시 출발  $\\bigcirc\\bigcirc\\bigcirc\\bigcirc$년 $\\bigcirc\\bigcirc$월 $△△$일, $\\square$ 요일 날씨 : 맑음  우리 반에서 '행복한 책 마라튼 대회'에 $15$명이 참가했다. 그러나 아쉽게도 완주를 한 학쌩은 나를 포합하여 $7$명 뿐이었다. 내일 우리 반의 이름으로 $14$곳의 아동 복지 시설에 책을 똑같이 나누어 주기로 했다. 줗은 일을 했다는 생각에 뿌듯하다."
+        }
+      ]
+    }
+  ]
+}

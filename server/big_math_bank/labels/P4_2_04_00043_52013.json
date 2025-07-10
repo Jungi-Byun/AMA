@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00043_52013.png",
+  "id": "00043_52013",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "평행선끼리 바르게 짝지은 것을 모두 고르시오.  ①직선 가와 직선 바 ②직선 나와 직선 다  ③직선 라와 직선 마 ④직선 다와 직선 바  ⑤직선 나와 직선 마",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            284,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            156,
+            146,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            178,
+            146,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            200,
+            146,
+            220
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            222,
+            146,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            244,
+            146,
+            264
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            28,
+            229,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.7,
+            0.8,
+            284.5,
+            16.8
+          ],
+          "text": "평행선끼리 바르게 짝지은 것을 모두 고르시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            155,
+            148,
+            265
+          ],
+          "text": "①직선 가와 직선 바 ②직선 나와 직선 다  ③직선 라와 직선 마 ④직선 다와 직선 바  ⑤직선 나와 직선 마"
+        }
+      ]
+    }
+  ]
+}

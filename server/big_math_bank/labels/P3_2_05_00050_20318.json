@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20318.png",
+  "id": "00050_20318",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "운동장 $1a$를 만들기 위해서는 $170kg$의 모래가 필요합니다. 가로가 $100m$, 세로가 $80m$인 직사각형 모양의 운동장을 만들려면 모래는 모두 몇 $t$이 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            129,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "운동장 $1a$를 만들기 위해서는 $170kg$의 모래가 필요합니다. 가로가 $100m$, 세로가 $80m$인 직사각형 모양의 운동장을 만들려면 모래는 모두 몇 $t$이 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

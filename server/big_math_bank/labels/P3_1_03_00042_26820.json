@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00042_26820.png",
+  "id": "00042_26820",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 사람이 라면 $36$봉지를 가지고 여행을 가게 되었습니다. 하루에 두 사람에게 필요한 라면이 $4$봉지라면 이 라면으로 며칠 동안 여행을 할 수 있습니까? (단, 한 사람이 하루에 필요한 라면의 수는 같습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            395,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            41
+          ],
+          "text": "세 사람이 라면 $36$봉지를 가지고 여행을 가게 되었습니다. 하루에 두 사람에게 필요한 라면이 $4$봉지라면 이 라면으로 며칠 동안 여행을 할 수 있습니까? (단, 한 사람이 하루에 필요한 라면의 수는 같습니다.)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_02_00043_37877.png",
+  "id": "00043_37877",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202007",
+      "question_topic_name": "정삼각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정삼각형 ㄱㄴㄷ이 있고 밑변 ㄴㄷ을 연장한 연장선이 있고 삼각형 ㄱㄴㄷ의 각 ㄷ의 외각에서 55도가 되는 연장선과 변 ㄱㄷ의 외부에서 각 ㄱ을 중심으로 외부에 85도가 되는 연장선이 만나는 점이 ㄹ이고 변 ㄱㄹ과 변 ㄷㄹ이 만나 내부에 생기는 각 ㄱㄹㄷ의 크기가 예각인 각",
+      "question_text": "그림에서 삼각형 ㄱㄴㄷ은 정삼각형입니다. 각 ㄱㄹㄷ의 크기를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            434,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            34,
+            179,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            436,
+            25
+          ],
+          "text": "그림에서 삼각형 ㄱㄴㄷ은 정삼각형입니다. 각 ㄱㄹㄷ의 크기를 구하시오."
+        }
+      ]
+    }
+  ]
+}

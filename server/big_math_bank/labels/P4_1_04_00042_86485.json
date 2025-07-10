@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_04_00042_86485.png",
+  "id": "00042_86485",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104013",
+      "question_topic_name": "무늬에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "왼쪽 모양을 이용하여 무늬를 만들었습니다. 사용하지 않은 방법은 어느 것입니까? ㉠ 밀기 ㉡ 뒤집기 ㉢ 돌리기",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            484,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            260,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            486,
+            21
+          ],
+          "text": "왼쪽 모양을 이용하여 무늬를 만들었습니다. 사용하지 않은 방법은 어느 것입니까? ㉠ 밀기 ㉡ 뒤집기 ㉢ 돌리기"
+        }
+      ]
+    }
+  ]
+}

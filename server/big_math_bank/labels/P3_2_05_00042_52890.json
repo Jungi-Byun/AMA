@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00042_52890.png",
+  "id": "00042_52890",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $ 7000 \\mathrm{g}= $ $ \\square  \\mathrm{kg} $ (2) $ 4 \\mathrm{kg} ~600 \\mathrm{g}=4 \\mathrm{kg}+600 \\mathrm{g}   =\\square g+600 g=\\square   \\mathrm{g} $ (3) $ 2080 \\mathrm{g}=   \\square \\mathrm{kg} ~\\square \\mathrm{g}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            137,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            174,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            64,
+            329,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            86,
+            208,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            331,
+            108
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $ 7000 \\mathrm{g}= $ $ \\square  \\mathrm{kg} $ (2) $ 4 \\mathrm{kg} ~600 \\mathrm{g}=4 \\mathrm{kg}+600 \\mathrm{g}   =\\square g+600 g=\\square   \\mathrm{g} $ (3) $ 2080 \\mathrm{g}=   \\square \\mathrm{kg} ~\\square \\mathrm{g}$"
+        }
+      ]
+    }
+  ]
+}

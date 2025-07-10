@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_06_00043_59714.png",
+  "id": "00043_59714",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "예진이가 생각한 규칙을 추측하려고 합니다. 규칙을 잘못 추측한 사람은 누구입니까? 보람 : $4$씩 커지는 규칙이니까 $9$가 와야 해. 은정 : 앞의 수를 $5$배 하면 다음에 올 수는 $25$야. 지연 : $2$씩 더한 것이니까 $5$ 다음에 올 수는 $ 5+2=7 $이야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            497,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            171,
+            272,
+            205
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            205,
+            295,
+            224
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            224,
+            338,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            215,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.32,
+            3.9,
+            497.32,
+            18.9
+          ],
+          "text": "예진이가 생각한 규칙을 추측하려고 합니다. 규칙을 잘못 추측한 사람은 누구입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            22.32,
+            172.9,
+            339.32,
+            250.9
+          ],
+          "text": "보람 : $4$씩 커지는 규칙이니까 $9$가 와야 해. 은정 : 앞의 수를 $5$배 하면 다음에 올 수는 $25$야. 지연 : $2$씩 더한 것이니까 $5$ 다음에 올 수는 $ 5+2=7 $이야."
+        }
+      ]
+    }
+  ]
+}

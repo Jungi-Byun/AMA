@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_03_00042_26821.png",
+  "id": "00042_26821",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오.  (1) $16$을 $4$곳으로 똑같이 나누면 한 곳에 $\\square$ 자루씩 됩니다. (2) 이것을 식으로 $ 16 \\div 4=\\square $라 쓰고, ‘$16$ 나누기 $4$는 $\\square$와 같습니다.’ 라고 읽습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            134,
+            364,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            157,
+            524,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            15.72,
+            18.94,
+            295.72,
+            130.94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            277,
+            22
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            132,
+            526,
+            180
+          ],
+          "text": "(1) $16$을 $4$곳으로 똑같이 나누면 한 곳에 $\\square$ 자루씩 됩니다. (2) 이것을 식으로 $ 16 \\div 4=\\square $라 쓰고, ‘$16$ 나누기 $4$는 $\\square$와 같습니다.’ 라고 읽습니다."
+        }
+      ]
+    }
+  ]
+}

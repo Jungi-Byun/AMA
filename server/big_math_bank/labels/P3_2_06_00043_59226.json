@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_06_00043_59226.png",
+  "id": "00043_59226",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "윤아네 학교 $3$학년의 반별 학생 수를 그림그래프로 나타내었습니다. $2$반은 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            516,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            28,
+            323,
+            220
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            518,
+            20
+          ],
+          "text": "윤아네 학교 $3$학년의 반별 학생 수를 그림그래프로 나타내었습니다. $2$반은 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

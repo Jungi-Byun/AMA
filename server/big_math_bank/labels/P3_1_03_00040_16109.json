@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00040_16109.png",
+  "id": "00040_16109",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square \\times 5=15$ 에서 $\\square$ 안에 알맞은 수를 구하는 식은 다음 중 어느 것입니까? ① $15\\times5$ ② $15\\div5$ ③ $15-5$ ④ $15+5$ ⑤ $5\\div15$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            418,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            73,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            73,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            71,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            73,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            73,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            420,
+            130
+          ],
+          "text": "$\\square \\times 5=15$ 에서 $\\square$ 안에 알맞은 수를 구하는 식은 다음 중 어느 것입니까? ① $15\\times5$ ② $15\\div5$ ③ $15-5$ ④ $15+5$ ⑤ $5\\div15$"
+        }
+      ]
+    }
+  ]
+}

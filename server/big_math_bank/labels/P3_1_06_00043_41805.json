@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_41805.png",
+  "id": "00043_41805",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠에 알맞은 수는 모두 몇 개인지 구하시오.   $\\frac{3}{8} $ < $\\frac{㉠}{8} $ < $\\frac{6}{8} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            262,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            24,
+            115,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            275,
+            76
+          ],
+          "text": "㉠에 알맞은 수는 모두 몇 개인지 구하시오.   $\\frac{3}{8} $ < $\\frac{㉠}{8} $ < $\\frac{6}{8} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_93262.png",
+  "id": "00042_93262",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "( ) 안에 알맞게 써넣으시오. 들이의 단위 ( )는 $1L$라 쓰고, $1$밀리리터는 ( )라고 씁니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            190,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            422,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            439,
+            57
+          ],
+          "text": "( ) 안에 알맞게 써넣으시오. 들이의 단위 ( )는 $1L$라 쓰고, $1$밀리리터는 ( )라고 씁니다."
+        }
+      ]
+    }
+  ]
+}

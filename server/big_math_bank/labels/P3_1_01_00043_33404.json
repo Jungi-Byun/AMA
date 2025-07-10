@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33404.png",
+  "id": "00043_33404",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 숫자 카드를 한 번씩만 사용하여 세 자리 수를 만들 때, 가장 큰 수와 가장 작은 수의 합을 구하시오. $\\boxed{3} \\boxed{1} \\boxed{7} \\boxed{9}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            603,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            143,
+            45
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            606,
+            46
+          ],
+          "text": "다음 숫자 카드를 한 번씩만 사용하여 세 자리 수를 만들 때, 가장 큰 수와 가장 작은 수의 합을 구하시오. $\\boxed{3} \\boxed{1} \\boxed{7} \\boxed{9}$"
+        }
+      ]
+    }
+  ]
+}

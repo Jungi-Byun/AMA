@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_1_01_00043_32582.png",
+  "id": "00043_32582",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억 단위 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $76943810000$ 은 억이 $\\square$ 만이 $4381$인 수입니다. (2) $830529470000$ 은 억이 $\\square$ 만이 $\\square$ 인 수입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            141,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            44,
+            125,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            127,
+            61,
+            199,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            39,
+            69,
+            125,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            100,
+            155,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            123,
+            132,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            135,
+            141,
+            207,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            39,
+            155,
+            133,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            209,
+            183
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1) $76943810000$ 은 억이 $\\square$ 만이 $4381$인 수입니다. (2) $830529470000$ 은 억이 $\\square$ 만이 $\\square$ 인 수입니다."
+        }
+      ]
+    }
+  ]
+}

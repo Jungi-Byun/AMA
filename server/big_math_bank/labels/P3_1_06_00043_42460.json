@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_42460.png",
+  "id": "00043_42460",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 수진이가 과학 시간에 필기한 노트입니다. 애벌레와 장수풍뎅이의 길이는 비슷합니다. 애벌레의 길이를 바르게 썼다면 장수풍뎅이의 길이는 어떻게 고쳐야 하는지 쓰시오.  <table border>   <tbody>     <tr>       <td>애벌레</td>       <td>장수풍뎅이</td>     </tr>     <tr>       <td>길이:$3.2\\mathrm{cm}$</td>       <td>길이:$31\\mathrm{cm}$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            229,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            216,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            91
+          ],
+          "text": "다음은 수진이가 과학 시간에 필기한 노트입니다. 애벌레와 장수풍뎅이의 길이는 비슷합니다. 애벌레의 길이를 바르게 썼다면 장수풍뎅이의 길이는 어떻게 고쳐야 하는지 쓰시오.  <table border>   <tbody>     <tr>       <td>애벌레</td>       <td>장수풍뎅이</td>     </tr>     <tr>       <td>길이:$3.2\\mathrm{cm}$</td>       <td>길이:$31\\mathrm{cm}$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

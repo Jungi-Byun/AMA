@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_2_01_00043_22969.png",
+  "id": "00043_22969",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201010",
+      "question_topic_name": "분모가 같은 대분수끼리 뺄셈을 자연수, 진분수끼리 계산",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빈칸에 알맞은 분수는 어느 것입니까?  $ +3 \\frac{2}{8}    \\rightarrow   -4 \\frac{4}{8} $  $ \\nearrow  \\searrow $  $ 2 \\frac{3}{8} \\square$  ① $ 5 \\frac{5}{8} $ ②$ 1 \\frac{3}{8} $ ③ $ 1 \\frac{1}{8} $ ④ $ 7 \\frac{6}{8} $ ⑤ $ 10 \\frac{1}{8} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            233,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            54,
+            19,
+            209,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            182,
+            85,
+            254,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            86,
+            89,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            134,
+            73,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            73,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            213,
+            73,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            251,
+            73,
+            282
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            286,
+            82,
+            320
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            256,
+            319
+          ],
+          "text": "빈칸에 알맞은 분수는 어느 것입니까?  $ +3 \\frac{2}{8}    \\rightarrow   -4 \\frac{4}{8} $  $ \\nearrow  \\searrow $  $ 2 \\frac{3}{8} \\square$  ① $ 5 \\frac{5}{8} $ ②$ 1 \\frac{3}{8} $ ③ $ 1 \\frac{1}{8} $ ④ $ 7 \\frac{6}{8} $ ⑤ $ 10 \\frac{1}{8} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50385.png",
+  "id": "00043_50385",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203009",
+      "question_topic_name": "소수 한 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "15칸으로 나누어진 주황색 띠그래프가 칸마다 0에서 1.5까지 숫자가 쓰여 있으며 나뉘는 칸은 점선으로 표현하고 0~0.7까지 주황색, 0.7~1.3까지 파란색으로 색칠된 띠그래프 그림",
+      "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $ 0.7+0.6= \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            116,
+            78,
+            234,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23.1,
+            26.9,
+            329.1,
+            70.9
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.1,
+            0,
+            277.1,
+            18.9
+          ],
+          "text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            115.1,
+            76.9,
+            236.1,
+            106.9
+          ],
+          "text": "$ 0.7+0.6= \\square$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00040_28750.png",
+  "id": "00040_28750",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 옳은 것은 어느 것입니까?  ① $ 48 \\div 3 = 72 \\div 4 $ ② $ 51 \\div 3 = 68 \\div 4 $ ③ $ 46 \\div 2<70 \\div 5 $ ④ $ 64 \\div 4>32 \\div 2 $ ⑤ $ 52 \\div 2<63 \\div 3 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            212,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            23,
+            134,
+            45
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            48,
+            132,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            73,
+            134,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            98,
+            134,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            123,
+            133,
+            145
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            214,
+            146
+          ],
+          "text": "다음 중 옳은 것은 어느 것입니까?  ① $ 48 \\div 3 = 72 \\div 4 $ ② $ 51 \\div 3 = 68 \\div 4 $ ③ $ 46 \\div 2<70 \\div 5 $ ④ $ 64 \\div 4>32 \\div 2 $ ⑤ $ 52 \\div 2<63 \\div 3 $"
+        }
+      ]
+    }
+  ]
+}

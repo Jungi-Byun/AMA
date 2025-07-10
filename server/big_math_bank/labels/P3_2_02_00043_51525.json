@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_2_02_00043_51525.png",
+  "id": "00043_51525",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 58 \\div 4 $ 를 어떻게 계산하는지 알아보시오. ⑴ 수 모형을 $4$묶음으로 똑같이 묶어 보시오. (2) 한 묶음에는 십 모형 $\\square $개, 낱개 모형 $ \\square $ 개가 들어 있고 남은 낱개 모형은 $\\square$ 개입니다. (3) $ 58 \\div 4 $ 의 몫과 나머지는 얼마입니까? 몫 ( ), 나머지 ( ) (4) $ \\square $ 안에 알맞은 수를 써넣으시오. $ 58 \\div 4=   \\square $ ••••$ \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            245,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            155,
+            270,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            177,
+            564,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            206,
+            240,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            228,
+            167,
+            245
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            250,
+            220,
+            267
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            272,
+            146,
+            298
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            34,
+            317,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.36,
+            0.74,
+            244.92,
+            16.74
+          ],
+          "text": "$ 58 \\div 4 $ 를 어떻게 계산하는지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.72,
+            153.3,
+            565.56,
+            299.22
+          ],
+          "text": "⑴ 수 모형을 $4$묶음으로 똑같이 묶어 보시오. (2) 한 묶음에는 십 모형 $\\square $개, 낱개 모형 $ \\square $ 개가 들어 있고 남은 낱개 모형은 $\\square$ 개입니다. (3) $ 58 \\div 4 $ 의 몫과 나머지는 얼마입니까? 몫 ( ), 나머지 ( ) (4) $ \\square $ 안에 알맞은 수를 써넣으시오. $ 58 \\div 4=   \\square $ ••••$ \\square$ "
+        }
+      ]
+    }
+  ]
+}

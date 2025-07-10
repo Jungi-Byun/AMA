@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_41928.png",
+  "id": "00043_41928",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민우, 현경, 미영 세 사람이 오늘 하루 동안 걸은 거리입니다. 많이 걸은 사람부터 차례로 이름을 쓰시오. 민우 : 난 한 시간에 $0.9$km씩 $5$시간.현경 : 난 $4.1$km.미영 : 난 $4$km와 $0.6$km 만큼.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            598,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            235,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            58,
+            122,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            75,
+            203,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            609,
+            99
+          ],
+          "text": "민우, 현경, 미영 세 사람이 오늘 하루 동안 걸은 거리입니다. 많이 걸은 사람부터 차례로 이름을 쓰시오. 민우 : 난 한 시간에 $0.9$km씩 $5$시간.현경 : 난 $4.1$km.미영 : 난 $4$km와 $0.6$km 만큼."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_03_00043_53720.png",
+  "id": "00043_53720",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "크기가 같은 원 $3$개를 다음 그림과 같이 겹쳐서 그린 다음 각 원의 중심을 이어서 삼각형을 만들었습니다. 이 삼각형 ㄱㄴㄷ의 세 변의 합이 $30 cm$일 때, 원의 지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            247,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            50,
+            130,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "크기가 같은 원 $3$개를 다음 그림과 같이 겹쳐서 그린 다음 각 원의 중심을 이어서 삼각형을 만들었습니다. 이 삼각형 ㄱㄴㄷ의 세 변의 합이 $30 cm$일 때, 원의 지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

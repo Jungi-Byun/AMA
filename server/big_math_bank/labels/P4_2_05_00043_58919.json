@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_05_00043_58919.png",
+  "id": "00043_58919",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희주네 교실의 온도를 소수 첫째 자리에서 반올림한 수를 이용하여 꺾은선그래프를 그리시오.  <table border> <caption>교실의 온도</caption>   <tbody>     <tr>       <td>시각</td>       <td>오전9시</td>       <td>오전10시</td>       <td>오전11시</td>       <td>낮12시</td>       <td>오후1시</td>       <td>오후2시</td>     </tr>     <tr>       <td>온도($~\\degree$)</td>       <td>11.2</td>       <td>13.8</td>       <td>15.7</td>       <td>17.4</td>       <td>19.9</td>       <td>17.5</td>         </tr>       <td>어림한 수($~\\degree$)</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>         </tr> </tbody> </table>  ⑴ 교실의 온도를 소수 첫째 자리에서 반올림하여 위의 표를 완성하시오.  ⑵ 반올림한 수를 이용하여 위의 꺾은선그래프를 그리시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            544,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            88,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            325,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            127,
+            146,
+            220,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            163,
+            309,
+            313
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            320,
+            425,
+            337
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            342,
+            351,
+            359
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            546,
+            360
+          ],
+          "text": "희주네 교실의 온도를 소수 첫째 자리에서 반올림한 수를 이용하여 꺾은선그래프를 그리시오.  <table border> <caption>교실의 온도</caption>   <tbody>     <tr>       <td>시각</td>       <td>오전9시</td>       <td>오전10시</td>       <td>오전11시</td>       <td>낮12시</td>       <td>오후1시</td>       <td>오후2시</td>     </tr>     <tr>       <td>온도($~\\degree$)</td>       <td>11.2</td>       <td>13.8</td>       <td>15.7</td>       <td>17.4</td>       <td>19.9</td>       <td>17.5</td>         </tr>       <td>어림한 수($~\\degree$)</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>       <td>$$</td>         </tr> </tbody> </table>  ⑴ 교실의 온도를 소수 첫째 자리에서 반올림하여 위의 표를 완성하시오.  ⑵ 반올림한 수를 이용하여 위의 꺾은선그래프를 그리시오."
+        }
+      ]
+    }
+  ]
+}

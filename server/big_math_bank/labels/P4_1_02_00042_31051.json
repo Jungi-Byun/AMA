@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_31051.png",
+  "id": "00042_31051",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽 위쪽과 아래쪽 각의 값이 각각 원 문자 ㄱ, 85도, 오른쪽 위쪽과 아래쪽 각의 값이 각각 50도, 80도인 왼쪽 사각형과 밑변이 위로 향해 있으며, 왼쪽이 직각, 오른쪽 각의 값이 원 문자 ㄴ이며, 아래쪽의 각이 60도인 오른쪽 삼각형",
+      "question_text": "그림에서 각 ㉠과 각 ㉡의 크기의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            291,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            21,
+            282,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            293,
+            22
+          ],
+          "text": "그림에서 각 ㉠과 각 ㉡의 크기의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00042_53417.png",
+  "id": "00042_53417",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202001",
+      "question_topic_name": "내림이 없는 (몇십)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "몫이 가장 큰 것을 찾아 $\\bigcirc$표 하시오. $50÷5 90÷3 40÷2$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            224,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            31,
+            21,
+            182,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            226,
+            57
+          ],
+          "text": "몫이 가장 큰 것을 찾아 $\\bigcirc$표 하시오. $50÷5 90÷3 40÷2$"
+        }
+      ]
+    }
+  ]
+}

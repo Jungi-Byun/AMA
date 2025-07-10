@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_05_00043_40404.png",
+  "id": "00043_40404",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한의원에서 진료받는 아저씨는 맥박이 $1$초에 $1$회씩 규칙적으로 뜁니다. $1$분 동안 맥박이 몇 회 뜁니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            591,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            593,
+            21
+          ],
+          "text": "한의원에서 진료받는 아저씨는 맥박이 $1$초에 $1$회씩 규칙적으로 뜁니다. $1$분 동안 맥박이 몇 회 뜁니까?"
+        }
+      ]
+    }
+  ]
+}

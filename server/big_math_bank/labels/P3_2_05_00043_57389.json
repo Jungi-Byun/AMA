@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00043_57389.png",
+  "id": "00043_57389",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우유갑에 물을 가득 채운 후 병에 옮겨 담았더니 그림과 같이 물이 채워졌습니다. 알맞은 말에 $\\bigcirc$표 하시오 우유값의 들이가 병의 들이보다 더 ( 많습니다 , 적습니다 ).",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            617,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.68,
+            109.49,
+            359.48,
+            131.89
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            26,
+            235,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.48,
+            0,
+            618.68,
+            17.49
+          ],
+          "text": "우유갑에 물을 가득 채운 후 병에 옮겨 담았더니 그림과 같이 물이 채워졌습니다. 알맞은 말에 $\\bigcirc$표 하시오"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            22.68,
+            111.89,
+            357.88,
+            132.69
+          ],
+          "text": "우유값의 들이가 병의 들이보다 더 ( 많습니다 , 적습니다 )."
+        }
+      ]
+    }
+  ]
+}

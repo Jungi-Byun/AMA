@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_01_00043_38727.png",
+  "id": "00043_38727",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201008",
+      "question_topic_name": "분모가 같은 대분수끼리 덧셈에서 대분수를 가분수로 바꾸어 계산",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로로 시점이 0인 반직선 위의 1, 2, 3, 4인 눈금이 있고 0과 1, 1과 2, 2와 3, 3과 4 사이를 9 등분하여 눈금 표시하고, 눈금 0부터 1에서 오른쪽으로 네 번째에 있는 눈금까지 위에 점선으로 오른쪽에 화살표가 있는 곡선을 그리고, 이어서 3에서 오른쪽에 두 번째 있는 눈금까지 위에 점선으로 오른쪽에 화살표 있는 곡선을 그린 반직선과 그 아래에 1과 9분의 4 더하기 1과 9분의 7은 네모라고 써진 그림",
+      "question_text": "수직선을 보고 $ 1 \\frac{4}{9}+1 \\frac{7}{9} $ 은 얼마인지 구하시오. $ 1 \\frac{4}{9}+1 \\frac{7}{9}= \\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            303,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            42,
+            313,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            305,
+            39
+          ],
+          "text": "수직선을 보고 $ 1 \\frac{4}{9}+1 \\frac{7}{9} $ 은 얼마인지 구하시오. $ 1 \\frac{4}{9}+1 \\frac{7}{9}= \\square$"
+        }
+      ]
+    }
+  ]
+}

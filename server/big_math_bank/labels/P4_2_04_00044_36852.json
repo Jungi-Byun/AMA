@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00044_36852.png",
+  "id": "00044_36852",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204007",
+      "question_topic_name": "평행선 사이의 거리 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "세로로 그려진 두 평행선 사이에 평행선과 양 끝점이 만나는 세 선분이 있고 맨 위에 하나는 수직으로 만나며 길이가 4 cm이고, 길이가 각각 5 cm, 6 cm인 두 선분은 평행선 사이에서 한 점에서 만나도록 교차하여 그려진 도형",
+      "question_text": "평행선 사이의 거리를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            200,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            38,
+            39,
+            123,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            202,
+            22
+          ],
+          "text": "평행선 사이의 거리를 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_05_00043_40975.png",
+  "id": "00043_40975",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소라네 집에서 여러 친척 댁까지의 거리를 나타낸 것입니다. 소라네 집에서 가장 먼 곳은 어디입니까? 삼촌 댁 : $7030 m$ 할아버지 댁 : $7 km 300 m$이모 댁 : $12 km$ 고모 댁 : $6008 m$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            588,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            298,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            54,
+            251,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            613,
+            79
+          ],
+          "text": "소라네 집에서 여러 친척 댁까지의 거리를 나타낸 것입니다. 소라네 집에서 가장 먼 곳은 어디입니까? 삼촌 댁 : $7030 m$ 할아버지 댁 : $7 km 300 m$이모 댁 : $12 km$ 고모 댁 : $6008 m$"
+        }
+      ]
+    }
+  ]
+}

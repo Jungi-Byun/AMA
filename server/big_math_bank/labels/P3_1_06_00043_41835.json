@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_41835.png",
+  "id": "00043_41835",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "초희와 진경이는 같은 양의 밀가루를 한 봉지씩 샀습니다. 초희는 이 밀가루의 $ \\frac{4}{5} $만큼을 사용하여 쿠키를 만들었고, 진경이는 밀가루의 $ \\frac{6}{7} $만큼을 사용하여 머핀을 만들었습니다. 밀가루가 더 많이 남은 사람은 누구입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            782,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            42,
+            505,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            784,
+            78
+          ],
+          "text": "초희와 진경이는 같은 양의 밀가루를 한 봉지씩 샀습니다. 초희는 이 밀가루의 $ \\frac{4}{5} $만큼을 사용하여 쿠키를 만들었고, 진경이는 밀가루의 $ \\frac{6}{7} $만큼을 사용하여 머핀을 만들었습니다. 밀가루가 더 많이 남은 사람은 누구입니까?"
+        }
+      ]
+    }
+  ]
+}

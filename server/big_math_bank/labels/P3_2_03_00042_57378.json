@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00042_57378.png",
+  "id": "00042_57378",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "우하향하는 지름의 길이가 6 cm인 원의 중심에서 오른쪽 위로 향하는 반직선이 원과 만나는 거리가 3 cm인 점에서 좌하향하는 길이가 4 cm인 현이 우하향하는 지름의 끝점과 만나는 도형",
+      "question_text": "원의 반지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            184,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            60,
+            20,
+            214,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            186,
+            22
+          ],
+          "text": "원의 반지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

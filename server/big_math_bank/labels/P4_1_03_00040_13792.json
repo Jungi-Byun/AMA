@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_03_00040_13792.png",
+  "id": "00040_13792",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103015",
+      "question_topic_name": "몫이 한 자리 수인 몇십몇으로 나누기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 수의 곱이 ( ) 안의 수보다 크지 않으면서 가장 가까운 수가 되도록 $\\square$ 안에 알맞은 수를 구하면 다음 중 어느 것입니까?  $ 38 \\times \\square(291) $ ①$6$ ②$7$ ③$8$ ④$9$ ⑤$10$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            709,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            109,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            50,
+            53,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            72,
+            52,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            94,
+            53,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            116,
+            53,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            138,
+            59,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            711,
+            158
+          ],
+          "text": "두 수의 곱이 ( ) 안의 수보다 크지 않으면서 가장 가까운 수가 되도록 $\\square$ 안에 알맞은 수를 구하면 다음 중 어느 것입니까?  $ 38 \\times \\square(291) $ ①$6$ ②$7$ ③$8$ ④$9$ ⑤$10$"
+        }
+      ]
+    }
+  ]
+}

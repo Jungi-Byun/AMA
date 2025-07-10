@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_02_00043_37874.png",
+  "id": "00043_37874",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202003",
+      "question_topic_name": "이등변삼각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변이 변 ㄴㄷ이고 각 ㄱ의 크기가 40도, 변 ㄱㄴ과 변 ㄱㄷ의 길이가 같은 이등변삼각형 ㄱㄴㄷ과 변 ㄴㄷ과 변 ㄴㄹ의 길이가 같은 이등변삼각형 ㄴㄷㄹ이 변 ㄴㄷ에서 겹치지 않게 이어 붙이고, 각 ㄷㄹㅁ과 각 ㄷㅁㄹ에 각 표시가 된 삼각형 ㄷㄹㅁ과 삼각형 ㄴㄷㄹ이 변 ㄷㄹ에서 겹치지 않게 이어 붙여 만든 삼각형 ㄱㄹㅁ",
+      "question_text": "삼각형 ㄱㄴㄷ과 ㄴㄷㄹ은 이등변삼각형입니다. 각 ㄷㄹㅁ과 각 ㄷㅁㄹ의 크기의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            556,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            34,
+            160,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            558,
+            21
+          ],
+          "text": "삼각형 ㄱㄴㄷ과 ㄴㄷㄹ은 이등변삼각형입니다. 각 ㄷㄹㅁ과 각 ㄷㅁㄹ의 크기의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00043_20543.png",
+  "id": "00043_20543",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 소수를 바르게 읽은 것은 어느 것입니까? ① $ 0.1 \\Rightarrow $ 일점 영 ② $ 0.3 \\Rightarrow $ 삼점 영 ③ $ 0.5 \\Rightarrow $ 영점 오 ④ $ 0.7 \\Rightarrow $ 영점 육 ⑤ $ 0.9 \\Rightarrow $  구점 영",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            295,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            124,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            126,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            127,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            127,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            127,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            297,
+            130
+          ],
+          "text": "다음 중 소수를 바르게 읽은 것은 어느 것입니까? ① $ 0.1 \\Rightarrow $ 일점 영 ② $ 0.3 \\Rightarrow $ 삼점 영 ③ $ 0.5 \\Rightarrow $ 영점 오 ④ $ 0.7 \\Rightarrow $ 영점 육 ⑤ $ 0.9 \\Rightarrow $  구점 영"
+        }
+      ]
+    }
+  ]
+}

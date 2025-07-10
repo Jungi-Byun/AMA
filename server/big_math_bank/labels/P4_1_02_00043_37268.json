@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_02_00043_37268.png",
+  "id": "00043_37268",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102010",
+      "question_topic_name": "두 각도의 차 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 각도의 합과 차를 구하시오. (1) $135^{\\circ}+80^{\\circ}$ (2) $140^{\\circ}-65^{\\circ}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            191,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            100,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            99,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            193,
+            62
+          ],
+          "text": "두 각도의 합과 차를 구하시오. (1) $135^{\\circ}+80^{\\circ}$ (2) $140^{\\circ}-65^{\\circ}$"
+        }
+      ]
+    }
+  ]
+}

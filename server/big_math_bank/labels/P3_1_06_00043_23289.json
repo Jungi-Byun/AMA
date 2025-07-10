@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_23289.png",
+  "id": "00043_23289",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "종수는 산에서 밤을 $84$개 땄습니다. 그중 $ \\frac{1}{4} $은 썩어서 버리고 친구에게 몇 개를 주었더니 $49$개가 남았습니다. 친구에게 준 밤은 종수가 딴 밤 전체의 몇 분의 몇인지 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            802,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            220,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            59
+          ],
+          "text": "종수는 산에서 밤을 $84$개 땄습니다. 그중 $ \\frac{1}{4} $은 썩어서 버리고 친구에게 몇 개를 주었더니 $49$개가 남았습니다. 친구에게 준 밤은 종수가 딴 밤 전체의 몇 분의 몇인지 구하시오."
+        }
+      ]
+    }
+  ]
+}

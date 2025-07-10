@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53583.png",
+  "id": "00043_53583",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준수는 반지름이 $4cm$인 원 $5$개로 다음과 같이 올림픽 오륜기를 그렸습니다. 선분 ㄱㄴ은 선분 ㄷㄹ보다 몇 $cm$ 더 깁니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            710,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            31,
+            317,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            712,
+            21
+          ],
+          "text": "준수는 반지름이 $4cm$인 원 $5$개로 다음과 같이 올림픽 오륜기를 그렸습니다. 선분 ㄱㄴ은 선분 ㄷㄹ보다 몇 $cm$ 더 깁니까?"
+        }
+      ]
+    }
+  ]
+}

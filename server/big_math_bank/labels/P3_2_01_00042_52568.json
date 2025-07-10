@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00042_52568.png",
+  "id": "00042_52568",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "하루에 45대씩 피아노를 생산하는 공장이 있습니다. 9월과 10월에 하루도 쉬지 않고 피아노를 생산할 때 두 달 동안 생산한 피아노는 모두 몇 대입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            95,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            41
+          ],
+          "text": "하루에 45대씩 피아노를 생산하는 공장이 있습니다. 9월과 10월에 하루도 쉬지 않고 피아노를 생산할 때 두 달 동안 생산한 피아노는 모두 몇 대입니까?"
+        }
+      ]
+    }
+  ]
+}

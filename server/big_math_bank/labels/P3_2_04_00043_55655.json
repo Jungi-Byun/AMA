@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00043_55655.png",
+  "id": "00043_55655",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 숫자 카드 중에서 $2$장을 골라 가분수를 만들려고 합니다. 만들 수 있는 가분수를 모두 쓰시오. $2, 4, 7, 9$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            570,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            20,
+            44,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            105,
+            20,
+            129,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            190,
+            20,
+            214,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            275,
+            20,
+            298,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            573,
+            43
+          ],
+          "text": "다음 숫자 카드 중에서 $2$장을 골라 가분수를 만들려고 합니다. 만들 수 있는 가분수를 모두 쓰시오. $2, 4, 7, 9$"
+        }
+      ]
+    }
+  ]
+}

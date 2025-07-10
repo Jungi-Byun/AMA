@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00043_23236.png",
+  "id": "00043_23236",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$54$ 개의 구슬 중 소영이가 전체의 $ \\frac{5}{9} $ 를 갖고, 소윤이는 나머지의 $ \\frac{3}{4} $ 을 가졌습니다. 소윤이가 가진 구슬은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            695,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            697,
+            38
+          ],
+          "text": "$54$ 개의 구슬 중 소영이가 전체의 $ \\frac{5}{9} $ 를 갖고, 소윤이는 나머지의 $ \\frac{3}{4} $ 을 가졌습니다. 소윤이가 가진 구슬은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

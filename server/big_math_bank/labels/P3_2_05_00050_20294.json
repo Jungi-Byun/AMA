@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00050_20294.png",
+  "id": "00050_20294",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진우네 과수원의 과일별 수확량을 나타낸 표입니다. 물음에 답하시오. <table border> <caption>과일별 수확량</caption>   <tbody>     <tr>       <td>과일</td>       <td>포도</td>       <td>참외</td>       <td>수박</td>     </tr>     <tr>       <td>수확량(kg)</td>       <td>760</td>       <td>1430</td>       <td>2810</td>     </tr> </tbody> </table> ⑴ 진우네 과수원에서 수확한 과일은 모두 몇 $kg$입니까? ⑵ 진우네 과수원에서 수확한 과일은 모두 몇 $t$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            408,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            127,
+            25,
+            226,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            45,
+            335,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            96,
+            333,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            118,
+            326,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            411,
+            136
+          ],
+          "text": "진우네 과수원의 과일별 수확량을 나타낸 표입니다. 물음에 답하시오. <table border> <caption>과일별 수확량</caption>   <tbody>     <tr>       <td>과일</td>       <td>포도</td>       <td>참외</td>       <td>수박</td>     </tr>     <tr>       <td>수확량(kg)</td>       <td>760</td>       <td>1430</td>       <td>2810</td>     </tr> </tbody> </table> ⑴ 진우네 과수원에서 수확한 과일은 모두 몇 $kg$입니까? ⑵ 진우네 과수원에서 수확한 과일은 모두 몇 $t$입니까?"
+        }
+      ]
+    }
+  ]
+}

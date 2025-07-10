@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_01_00043_49660.png",
+  "id": "00043_49660",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1)$ \\begin{array}{r}45 \\\\ \\times  39 \\\\ \\hline  \\square\\square\\square\\\\ \\square\\square\\square~~~ \\\\ \\hline\\square\\square\\square\\square\\end{array} (2) \\begin{array}{r}28 \\\\ \\times  69 \\\\ \\hline  \\square\\square\\square\\\\ \\square\\square\\square~~~ \\\\ \\hline\\square\\square\\square\\square\\end{array} (3) \\begin{array}{r}86 \\\\ \\times  23 \\\\ \\hline  \\square\\square\\square\\\\ \\square\\square\\square~~~ \\\\ \\hline\\square\\square\\square\\square\\end{array} (4) \\begin{array}{r}63 \\\\ \\times  32 \\\\ \\hline  \\square\\square\\square\\\\ \\square\\square\\square~~~ \\\\ \\hline\\square\\square\\square\\square\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            24,
+            141,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            151,
+            24,
+            274,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            168,
+            144,
+            307
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            154,
+            168,
+            277,
+            306
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            279,
+            309
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. (1)$ \\begin{array}{r}45 \\\\ \\times  39 \\\\ \\hline  \\square\\square\\square\\\\ \\square\\square\\square~~~ \\\\ \\hline\\square\\square\\square\\square\\end{array} (2) \\begin{array}{r}28 \\\\ \\times  69 \\\\ \\hline  \\square\\square\\square\\\\ \\square\\square\\square~~~ \\\\ \\hline\\square\\square\\square\\square\\end{array} (3) \\begin{array}{r}86 \\\\ \\times  23 \\\\ \\hline  \\square\\square\\square\\\\ \\square\\square\\square~~~ \\\\ \\hline\\square\\square\\square\\square\\end{array} (4) \\begin{array}{r}63 \\\\ \\times  32 \\\\ \\hline  \\square\\square\\square\\\\ \\square\\square\\square~~~ \\\\ \\hline\\square\\square\\square\\square\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

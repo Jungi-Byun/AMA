@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_34550.png",
+  "id": "00043_34550",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103011",
+      "question_topic_name": "나머지가 있는 (두 자리 수)÷(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "2칸 2줄인 표 위 원 안에 나누기 표시가 있는 오른쪽 화살표가 있고 윗줄부터 오른쪽으로 92, 27, 네모 빈칸, 타원 빈칸, 아랫줄에 43, 12, 네모 빈칸, 타원 빈칸이 있고, 표 왼쪽에 원 안에 나누기 표시가 있는 아래로 향한 화살표가 있고, 첫 번째 칸 위부터 아래로 92, 43, 네모 빈칸, 타원 빈칸이 있고, 두 번째 칸 위부터 아래로 27, 12, 네모 빈칸, 타원 빈칸이 있는 그림",
+      "question_text": "빈칸에 몫을 쓰고 $\\bigcirc$ 안에 나머지를 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            305,
+            19
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            32,
+            303,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            307,
+            22
+          ],
+          "text": "빈칸에 몫을 쓰고 $\\bigcirc$ 안에 나머지를 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

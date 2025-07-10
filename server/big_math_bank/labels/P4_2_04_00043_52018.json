@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_04_00043_52018.png",
+  "id": "00043_52018",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "같은 크기의 둥근 모양의 색종이들을 접어서 서로 수직으로 만나는 두 선분을 만들고, 이것을 사용하여 무늬를 만들었습니다. 오른쪽 그림에서 빨간색 선분과 길이가 같고 평행한 선분은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            379,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            49,
+            322,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "같은 크기의 둥근 모양의 색종이들을 접어서 서로 수직으로 만나는 두 선분을 만들고, 이것을 사용하여 무늬를 만들었습니다. 오른쪽 그림에서 빨간색 선분과 길이가 같고 평행한 선분은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

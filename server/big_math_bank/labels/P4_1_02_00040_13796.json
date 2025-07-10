@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_02_00040_13796.png",
+  "id": "00040_13796",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102010",
+      "question_topic_name": "두 각도의 차 구하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 두 각도의 차는 얼마입니까?  ① $ 35\\degree $  ② $ 45\\degree $  ③ $ 55\\degree $  ④ $ 65\\degree $  ⑤ $ 75\\degree $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            208,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            132,
+            65,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            154,
+            65,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            176,
+            64,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            198,
+            65,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            220,
+            64,
+            240
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            283,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            210,
+            21
+          ],
+          "text": "다음 두 각도의 차는 얼마입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            131,
+            67,
+            241
+          ],
+          "text": "① $ 35\\degree $  ② $ 45\\degree $  ③ $ 55\\degree $  ④ $ 65\\degree $  ⑤ $ 75\\degree $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_41785.png",
+  "id": "00043_41785",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106009",
+      "question_topic_name": "단위분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 보고 볶음밥을 만드는 데 필요한 양만큼 양파와 홍피망에 $ \\bigcirc $표 하시오.〈볶음밥 재료〉 밥 $ 1 $공기, 달걀 $ 1 $개, 당근 $ \\frac{1}{4} $ 개, 양파 $ \\frac{1}{2} $ 개, 홍피망 $ \\frac{2}{5} $ 개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            455,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            47,
+            36,
+            281,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            39,
+            63,
+            307,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            122,
+            314,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            457,
+            104
+          ],
+          "text": "다음을 보고 볶음밥을 만드는 데 필요한 양만큼 양파와 홍피망에 $ \\bigcirc $표 하시오.〈볶음밥 재료〉 밥 $ 1 $공기, 달걀 $ 1 $개, 당근 $ \\frac{1}{4} $ 개, 양파 $ \\frac{1}{2} $ 개, 홍피망 $ \\frac{2}{5} $ 개"
+        }
+      ]
+    }
+  ]
+}

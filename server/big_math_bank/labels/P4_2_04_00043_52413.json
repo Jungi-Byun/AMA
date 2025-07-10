@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00043_52413.png",
+  "id": "00043_52413",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204005",
+      "question_topic_name": "삼각자를 사용하여 평행선 긋기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지역의 위치를 설명할 때 가로, 세로 좌표를 이용하여 설명할 수 있습니다. 빨간색 선부터 시작하여 $1cm$ 간격으로 평행선을 오른쪽과 아래쪽에 계속해서 긋고 지도에 좌표를 쓴 다음 부산의 좌표를 구하시오. 서울은 (다), $1$에 있습니다. 부산은 $\\square. \\square$에 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            388,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            13.79,
+            273.8,
+            175.39,
+            293.8
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            13.79,
+            295.4,
+            246.59,
+            317.8
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            60,
+            255,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.74,
+            0.37,
+            803.66,
+            40.05
+          ],
+          "text": "지역의 위치를 설명할 때 가로, 세로 좌표를 이용하여 설명할 수 있습니다. 빨간색 선부터 시작하여 $1cm$ 간격으로 평행선을 오른쪽과 아래쪽에 계속해서 긋고 지도에 좌표를 쓴 다음 부산의 좌표를 구하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            11.39,
+            271.4,
+            251.39,
+            317.8
+          ],
+          "text": "서울은 (다), $1$에 있습니다. 부산은 $\\square. \\square$에 있습니다."
+        }
+      ]
+    }
+  ]
+}

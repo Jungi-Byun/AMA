@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00040_25453.png",
+  "id": "00040_25453",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그래프에서 세로의 작은 눈금 한 칸의 크기가 다음과 같을 때 가장 자세한 그래프는 어느 것입니까? ①$1$ ②$0.1$ ③$2$ ④$10$ ⑤$50$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            576,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            49,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            62,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            53,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            59,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            61,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            578,
+            130
+          ],
+          "text": "그래프에서 세로의 작은 눈금 한 칸의 크기가 다음과 같을 때 가장 자세한 그래프는 어느 것입니까? ①$1$ ②$0.1$ ③$2$ ④$10$ ⑤$50$"
+        }
+      ]
+    }
+  ]
+}

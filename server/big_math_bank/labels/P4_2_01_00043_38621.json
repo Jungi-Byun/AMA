@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_01_00043_38621.png",
+  "id": "00043_38621",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201007",
+      "question_topic_name": "분모가 같은 대분수끼리 덧셈을 자연수, 진분수끼리 계산",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.1$\\frac{2}{13}$+1$\\frac{5}{13}$=(1+$\\square$ )+( $\\frac{\\square}{13}$+$\\frac{5}{13}$) = $\\square$+ $\\frac{\\square}{13} $=$\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            19,
+            273,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            62,
+            154,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            104,
+            107,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            275,
+            149
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.1$\\frac{2}{13}$+1$\\frac{5}{13}$=(1+$\\square$ )+( $\\frac{\\square}{13}$+$\\frac{5}{13}$) = $\\square$+ $\\frac{\\square}{13} $=$\\square$"
+        }
+      ]
+    }
+  ]
+}

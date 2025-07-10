@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_03_00043_35535.png",
+  "id": "00043_35535",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103015",
+      "question_topic_name": "몫이 한 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 나눗셈의 몫에 가깝게 어림할 수 있는 식을 찾아 $\\bigcirc$표 하고 어림한 후 계산을 하시오. $293÷48$  $200÷50 250÷50 300÷50$ <어림하기> $ \\square \\div 50= \\square$ <계산하기> $ 293 \\div 48=\\square ··· \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            521,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            376,
+            21,
+            447,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            81,
+            245,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            709,
+            119
+          ],
+          "text": "다음 나눗셈의 몫에 가깝게 어림할 수 있는 식을 찾아 $\\bigcirc$표 하고 어림한 후 계산을 하시오. $293÷48$  $200÷50 250÷50 300÷50$ <어림하기> $ \\square \\div 50= \\square$ <계산하기> $ 293 \\div 48=\\square ··· \\square $"
+        }
+      ]
+    }
+  ]
+}

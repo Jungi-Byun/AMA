@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50319.png",
+  "id": "00043_50319",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경주 불국사에는 국보 제 $20$호인 다보탑과 국보 제 $21$호인 삼층석탑이 있습니다. 다보탑과 삼층석탑 중 더 높은 것은 무엇입니까? 다보탑 높이 $10.29\\mathrm{m}$ 삼층석탑 높이 $10.75\\mathrm{m}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            748,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            58,
+            36,
+            293,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            750,
+            25
+          ],
+          "text": "경주 불국사에는 국보 제 $20$호인 다보탑과 국보 제 $21$호인 삼층석탑이 있습니다. 다보탑과 삼층석탑 중 더 높은 것은 무엇입니까? 다보탑 높이 $10.29\\mathrm{m}$ 삼층석탑 높이 $10.75\\mathrm{m}$"
+        }
+      ]
+    }
+  ]
+}

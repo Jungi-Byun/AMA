@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00043_42020.png",
+  "id": "00043_42020",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103003",
+      "question_topic_name": "똑같이 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 어린이들이 먹은 음식의 양입니다. 똑같이 나누어 먹지 않은 어린이를 모두 찾아 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            555,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            270,
+            124,
+            303,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            313,
+            272
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            557,
+            23
+          ],
+          "text": "다음은 어린이들이 먹은 음식의 양입니다. 똑같이 나누어 먹지 않은 어린이를 모두 찾아 쓰시오."
+        }
+      ]
+    }
+  ]
+}

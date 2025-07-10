@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00042_35020.png",
+  "id": "00042_35020",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현수는 동화책 $63$쪽을 일주일 동안 매일 같은 쪽수로 나누어 읽었습니다. 현수는 하루에 동화책을 몇 쪽씩 읽었는지 식을 쓰고 답을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            36,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            39
+          ],
+          "text": "현수는 동화책 $63$쪽을 일주일 동안 매일 같은 쪽수로 나누어 읽었습니다. 현수는 하루에 동화책을 몇 쪽씩 읽었는지 식을 쓰고 답을 구하시오."
+        }
+      ]
+    }
+  ]
+}

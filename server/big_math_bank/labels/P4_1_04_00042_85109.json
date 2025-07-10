@@ -1,0 +1,129 @@
+{
+  "question_filename": "P4_1_04_00042_85109.png",
+  "id": "00042_85109",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "아래 글자를 다음과 같이 움직였을 때 같은 모양이 되는 것을 <보기>에서 고르시오.  $\\boxed{라}$ <보기>㉠ 왼쪽으로 뒤집은 모양㉡ 아래쪽으로 민 모양㉢ 위쪽으로 뒤집은 모양 (1) 위쪽으로 연속 두 번뒤집은 모양 (2) (도형회전방향) 방향으로 돌리고 왼쪽으로 뒤집은 모양 (3) 오른쪽으로 뒤집은 모양",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            488,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            58,
+            74,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            93,
+            169,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            113,
+            161,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            135,
+            174,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            165,
+            224,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            220,
+            177,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.09,
+            22.09,
+            64.09,
+            60.09
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.09,
+            191.09,
+            302.09,
+            218.09
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.09,
+            1.09,
+            489.09,
+            239.09
+          ],
+          "text": "아래 글자를 다음과 같이 움직였을 때 같은 모양이 되는 것을 <보기>에서 고르시오.  $\\boxed{라}$ <보기>㉠ 왼쪽으로 뒤집은 모양㉡ 아래쪽으로 민 모양㉢ 위쪽으로 뒤집은 모양 (1) 위쪽으로 연속 두 번뒤집은 모양 (2) (도형회전방향) 방향으로 돌리고 왼쪽으로 뒤집은 모양 (3) 오른쪽으로 뒤집은 모양"
+        }
+      ]
+    }
+  ]
+}

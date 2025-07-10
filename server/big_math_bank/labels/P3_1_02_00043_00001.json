@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_02_00043_00001.png",
+  "id": "00043_00001",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102004",
+      "question_topic_name": "각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각을 보고 물음에 답하시오. ⑴ 점 $ㅅ$을 무엇이라고 합니까? ⑵ 두 반직선 $ㅅㅂ$과 $ㅅㅇ$을 무엇이라고 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            174,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            121,
+            195,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            143,
+            292,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            32,
+            151,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            0.36,
+            177.08,
+            18.76
+          ],
+          "text": "각을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            119,
+            294,
+            162
+          ],
+          "text": "⑴ 점 $ㅅ$을 무엇이라고 합니까? ⑵ 두 반직선 $ㅅㅂ$과 $ㅅㅇ$을 무엇이라고 합니까?"
+        }
+      ]
+    }
+  ]
+}

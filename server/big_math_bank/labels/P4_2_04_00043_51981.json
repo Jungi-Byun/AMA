@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00043_51981.png",
+  "id": "00043_51981",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204003",
+      "question_topic_name": "수직",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가로가 $ 6 \\mathrm{~cm} $, 세로가 $ 4 \\mathrm{~cm} $ 인 직사각형을 그려 태극기를 완성하시오. (1) 길이가 $ 6 \\mathrm{~cm} $ 인 선분의 양 끝점에서 각각 길이가 $ 4 \\mathrm{~cm} $ 인 수선을 그려 보시오.(2) 위 (1)에서 그은 수선의 양 끝점을 잇는 선분을 그어 보시오.(3) 태극기를 완성하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            398,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            183,
+            463,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            205,
+            373,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            227,
+            162,
+            244
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            30,
+            272,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.08,
+            0,
+            398.68,
+            18.01
+          ],
+          "text": "가로가 $ 6 \\mathrm{~cm} $, 세로가 $ 4 \\mathrm{~cm} $ 인 직사각형을 그려 태극기를 완성하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            182,
+            465,
+            245
+          ],
+          "text": "(1) 길이가 $ 6 \\mathrm{~cm} $ 인 선분의 양 끝점에서 각각 길이가 $ 4 \\mathrm{~cm} $ 인 수선을 그려 보시오.(2) 위 (1)에서 그은 수선의 양 끝점을 잇는 선분을 그어 보시오.(3) 태극기를 완성하시오."
+        }
+      ]
+    }
+  ]
+}

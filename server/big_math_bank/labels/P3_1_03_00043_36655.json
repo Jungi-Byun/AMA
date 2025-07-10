@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00043_36655.png",
+  "id": "00043_36655",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 수 중에서 $2$개를 골라 몫이 $ 5$인 나눗셈식을 만들어 보시오. $ \\begin{array}{lllll}40 & 2 & 7 & 8 & 25\\end{array}   \\square \\div \\square=5 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            378,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            26,
+            133,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            60,
+            114,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            381,
+            87
+          ],
+          "text": "다음 수 중에서 $2$개를 골라 몫이 $ 5$인 나눗셈식을 만들어 보시오. $ \\begin{array}{lllll}40 & 2 & 7 & 8 & 25\\end{array}   \\square \\div \\square=5 $"
+        }
+      ]
+    }
+  ]
+}

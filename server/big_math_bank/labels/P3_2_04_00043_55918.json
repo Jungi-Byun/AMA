@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00043_55918.png",
+  "id": "00043_55918",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204009",
+      "question_topic_name": "대분수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\frac{5}{3}$를 대분수로 나타내려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오.(1) $\\frac{5}{3}$는 1보다 얼마나 더 큽니까? $\\frac{5}{3} = \\frac{3}{3} + \\frac{\\square}{3} = 1 + \\frac{\\square}{3}$ (2) 대분수로 나타내시오. $\\frac{5}{3} = 1 + \\frac{\\square}{3} = \\square \\frac{\\square}{3}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            408,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            214,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            42,
+            82,
+            211,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            127,
+            162,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            42,
+            149,
+            205,
+            189
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            410,
+            190
+          ],
+          "text": "$\\frac{5}{3}$를 대분수로 나타내려고 합니다. $\\square$ 안에 알맞은 수를 써넣으시오.(1) $\\frac{5}{3}$는 1보다 얼마나 더 큽니까? $\\frac{5}{3} = \\frac{3}{3} + \\frac{\\square}{3} = 1 + \\frac{\\square}{3}$ (2) 대분수로 나타내시오. $\\frac{5}{3} = 1 + \\frac{\\square}{3} = \\square \\frac{\\square}{3}$"
+        }
+      ]
+    }
+  ]
+}

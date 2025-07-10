@@ -1,0 +1,139 @@
+{
+  "question_filename": "P4_2_04_00043_54254.png",
+  "id": "00043_54254",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204019",
+      "question_topic_name": "직사각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가영이와 친구들이 직사각형의 성질을 이야기하고 있습니다. $\\square$ 안에 알맞은 말을 써넣으시오. (1) 직사각형은 마주 보는 두 쌍의 변이 서로 $\\square$합니다. (2) 직사각형은 마주 보는 두 변의 $\\square$가 같습니다. (3) 직사각형은 마주 보는 두 $\\square$의 크기가 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            547,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            170,
+            357,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            294,
+            331,
+            315
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            413,
+            324,
+            434
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            31,
+            298,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            229,
+            297,
+            284
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            349,
+            285,
+            403
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            0.4,
+            547.1,
+            18.4
+          ],
+          "text": "가영이와 친구들이 직사각형의 성질을 이야기하고 있습니다. $\\square$ 안에 알맞은 말을 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            168.4,
+            358.1,
+            192.4
+          ],
+          "text": "(1) 직사각형은 마주 보는 두 쌍의 변이 서로 $\\square$합니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            292.4,
+            333.1,
+            316.4
+          ],
+          "text": "(2) 직사각형은 마주 보는 두 변의 $\\square$가 같습니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            411.4,
+            325.1,
+            435.4
+          ],
+          "text": "(3) 직사각형은 마주 보는 두 $\\square$의 크기가 같습니다."
+        }
+      ]
+    }
+  ]
+}

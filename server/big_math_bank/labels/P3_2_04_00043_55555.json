@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55555.png",
+  "id": "00043_55555",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204016",
+      "question_topic_name": "분모가 같은 분수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수직선에서 $ \\frac{5}{3} $인 곳에 표시한 점에 $\\bigcirc$표 하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            3,
+            298,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            52,
+            303,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            2,
+            305,
+            83
+          ],
+          "text": "수직선에서 $ \\frac{5}{3} $인 곳에 표시한 점에 $\\bigcirc$표 하시오."
+        }
+      ]
+    }
+  ]
+}

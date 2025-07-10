@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_06_00043_41480.png",
+  "id": "00043_41480",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "⑴ $6$층까지 쌓은 벽돌의 수를 하나의 식으로 나타내시오.⑵ $10$층까지 쌓은 벽돌은 모두 몇 장입니까? 일정한 규칙으로 벽돌을 쌓아 올리고 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            455,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            199,
+            338,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            221,
+            268,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            31,
+            316,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            197,
+            340,
+            240
+          ],
+          "text": "⑴ $6$층까지 쌓은 벽돌의 수를 하나의 식으로 나타내시오.⑵ $10$층까지 쌓은 벽돌은 모두 몇 장입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.2,
+            1.27,
+            454.52,
+            18.42
+          ],
+          "text": "일정한 규칙으로 벽돌을 쌓아 올리고 있습니다. "
+        }
+      ]
+    }
+  ]
+}

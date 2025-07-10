@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_05_00040_25459.png",
+  "id": "00040_25459",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그래프에 대한 설명으로 바른 것은 어느 것입니까?  ① 판매량이 가장 많이 늘어난 때는 $10$월과 $11$월 사이입니다.  ② 판매량이 가장 적은 달은 $3$월입니다.  ③ 판매량이 줄어들기 시작한 달은 $1$월부터입니다.  ④ 판매량이 가장 많은 달은 $2$월입니다.  ⑤ $12$월의 판매량은 $292$개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            22,
+            366,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            44,
+            248,
+            64
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            309,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            88,
+            248,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            110,
+            219,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            368,
+            131
+          ],
+          "text": "그래프에 대한 설명으로 바른 것은 어느 것입니까?  ① 판매량이 가장 많이 늘어난 때는 $10$월과 $11$월 사이입니다.  ② 판매량이 가장 적은 달은 $3$월입니다.  ③ 판매량이 줄어들기 시작한 달은 $1$월부터입니다.  ④ 판매량이 가장 많은 달은 $2$월입니다.  ⑤ $12$월의 판매량은 $292$개입니다."
+        }
+      ]
+    }
+  ]
+}

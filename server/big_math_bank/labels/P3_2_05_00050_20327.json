@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20327.png",
+  "id": "00050_20327",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "짐을 최대 $2.5$t까지 실을 수 있는 트럭에 $15$kg짜리 감자 $80$상자와 $10$kg짜리 피망 $60$상자를 실었습니다. 이 트럭에 한 상자에 $5$kg인 상추는 몇 상자까지 실을 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            195,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "짐을 최대 $2.5$t까지 실을 수 있는 트럭에 $15$kg짜리 감자 $80$상자와 $10$kg짜리 피망 $60$상자를 실었습니다. 이 트럭에 한 상자에 $5$kg인 상추는 몇 상자까지 실을 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

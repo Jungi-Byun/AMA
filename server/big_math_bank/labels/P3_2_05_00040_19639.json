@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_05_00040_19639.png",
+  "id": "00040_19639",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205014",
+      "question_topic_name": "무게 직접 비교하기 _ 양손으로 들어서 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 가장 가벼운 사람은 누구입니까?  ①종우 ②승완  ③준한  ④종우, 승완  ⑤승완, 준한",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            250,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            268,
+            70,
+            288
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            290,
+            71,
+            310
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            312,
+            71,
+            332
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            334,
+            103,
+            354
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            356,
+            103,
+            376
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            200,
+            265
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            252,
+            21
+          ],
+          "text": "다음 중 가장 가벼운 사람은 누구입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            267,
+            105,
+            377
+          ],
+          "text": "①종우 ②승완  ③준한  ④종우, 승완  ⑤승완, 준한"
+        }
+      ]
+    }
+  ]
+}

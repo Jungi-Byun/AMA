@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_06_00043_59572.png",
+  "id": "00043_59572",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "포장지 무늬에 그려진 보석 수의 규칙을 찾아 표에 식으로 나타내시오. <table border> <thead>   <tr>     <th>순서</th>     <th>수</th>     <th>식</th>   </tr> </thead> <tbody>   <tr>     <td>첫 번째</td>     <td>$3$</td>     <td>$1+1+1$</td>   </tr>   <tr>     <td>두 번째</td>     <td>$6$</td>     <td>$2+2+2$</td>   </tr>   <tr>     <td>세 번째</td>     <td>$9$</td>     <td>$3+\\square+\\square$</td>   </tr>   <tr>     <td>네 번째</td>     <td>$12$</td>     <td>$4+\\square+\\square$</td>   </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            413,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            171,
+            322,
+            319
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            30,
+            325,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            415,
+            20
+          ],
+          "text": "포장지 무늬에 그려진 보석 수의 규칙을 찾아 표에 식으로 나타내시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            26,
+            169,
+            324,
+            321
+          ],
+          "text": "<table border> <thead>   <tr>     <th>순서</th>     <th>수</th>     <th>식</th>   </tr> </thead> <tbody>   <tr>     <td>첫 번째</td>     <td>$3$</td>     <td>$1+1+1$</td>   </tr>   <tr>     <td>두 번째</td>     <td>$6$</td>     <td>$2+2+2$</td>   </tr>   <tr>     <td>세 번째</td>     <td>$9$</td>     <td>$3+\\square+\\square$</td>   </tr>   <tr>     <td>네 번째</td>     <td>$12$</td>     <td>$4+\\square+\\square$</td>   </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

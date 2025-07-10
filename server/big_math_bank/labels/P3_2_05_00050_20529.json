@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00050_20529.png",
+  "id": "00050_20529",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "시민 단체는 지역 문제를 해결하기 위하여 뜻을 함께 하는 사람들이 모여서 만든 단체입니다. 정표는 그중에서 환경 단체에 가입하였습니다. 환경 단체에서 $16g$짜리 빈 음료수 캔을 $1000$개 주웠습니다. 주운 빈 음료수 캔의 무게는 모두 몇 $t$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            617,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "시민 단체는 지역 문제를 해결하기 위하여 뜻을 함께 하는 사람들이 모여서 만든 단체입니다. 정표는 그중에서 환경 단체에 가입하였습니다. 환경 단체에서 $16g$짜리 빈 음료수 캔을 $1000$개 주웠습니다. 주운 빈 음료수 캔의 무게는 모두 몇 $t$입니까?"
+        }
+      ]
+    }
+  ]
+}

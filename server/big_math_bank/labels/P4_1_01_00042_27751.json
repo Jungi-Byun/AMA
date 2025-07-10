@@ -1,0 +1,139 @@
+{
+  "question_filename": "P4_1_01_00042_27751.png",
+  "id": "00042_27751",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\bigcirc$ 안에 $>,<$를 알맞게 써넣으시오. (1) $ 7853421 \\bigcirc 7653421 $ (2) $ 42795623 \\bigcirc 42908780 $ (3) $ 26471593 \\bigcirc 2741523 $ (4) $ 86749800 \\bigcirc 86479800 $ (5) $ 975301246 \\bigcirc 9753024680 $ (6) $ 84075603000000 \\bigcirc 84065703000000 $ (7) $4980$억 $237$만 $ \\bigcirc  4998$억 $5610$만 (8) $354$억 $2106$만 $ 51 \\bigcirc 345 $ 억 $401$만 $4063$ (9) $2156$조 $8566$억 $1022$만 $ \\bigcirc  2157$조",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            215,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            178,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            53,
+            206,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            83,
+            188,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            113,
+            211,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            143,
+            227,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            173,
+            319,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            203,
+            255,
+            229
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            233,
+            291,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            263,
+            255,
+            289
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            321,
+            290
+          ],
+          "text": "$\\bigcirc$ 안에 $>,<$를 알맞게 써넣으시오. (1) $ 7853421 \\bigcirc 7653421 $ (2) $ 42795623 \\bigcirc 42908780 $ (3) $ 26471593 \\bigcirc 2741523 $ (4) $ 86749800 \\bigcirc 86479800 $ (5) $ 975301246 \\bigcirc 9753024680 $ (6) $ 84075603000000 \\bigcirc 84065703000000 $ (7) $4980$억 $237$만 $ \\bigcirc  4998$억 $5610$만 (8) $354$억 $2106$만 $ 51 \\bigcirc 345 $ 억 $401$만 $4063$ (9) $2156$조 $8566$억 $1022$만 $ \\bigcirc  2157$조"
+        }
+      ]
+    }
+  ]
+}

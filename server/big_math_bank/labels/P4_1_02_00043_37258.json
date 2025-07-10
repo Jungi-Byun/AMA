@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00043_37258.png",
+  "id": "00043_37258",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102009",
+      "question_topic_name": "두 각도의 합 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민지는 종이의 가운데를 잘라 접어서 크리스마스 카드를 만들려고 합니다. 트리의 윗부분의 각도는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            652,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            290,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            654,
+            23
+          ],
+          "text": "민지는 종이의 가운데를 잘라 접어서 크리스마스 카드를 만들려고 합니다. 트리의 윗부분의 각도는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

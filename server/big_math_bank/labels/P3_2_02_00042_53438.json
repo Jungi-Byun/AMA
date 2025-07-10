@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_02_00042_53438.png",
+  "id": "00042_53438",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색종이 $28$장을 한 사람에게 $2$장씩 나누어 주려고 합니다. 모두 몇 명에게 나누어 줄 수 있습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            565,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            567,
+            20
+          ],
+          "text": "색종이 $28$장을 한 사람에게 $2$장씩 나누어 주려고 합니다. 모두 몇 명에게 나누어 줄 수 있습니까?"
+        }
+      ]
+    }
+  ]
+}

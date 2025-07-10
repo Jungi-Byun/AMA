@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_02_00043_37257.png",
+  "id": "00043_37257",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102009",
+      "question_topic_name": "두 각도의 합 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "모양 조각을 보고 각도의 합과 차를 구하려고 합니다. 물음에 답하시오. ⑴ 보라색 사각형의 뾰족한 각을 $3$개 이어 붙이면 $90\\degree$입니다. 뾰족한 각의 크기는 몇 도입니까? ⑵ 주황색 사각형의 한 각과 보라색 사각형의 뾰족한 각을 이어 붙이면 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            416,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            170,
+            554,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            195,
+            492,
+            212
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            22,
+            271,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            1.15,
+            416.17,
+            18.15
+          ],
+          "text": "모양 조각을 보고 각도의 합과 차를 구하려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            171.77,
+            556.17,
+            212.77
+          ],
+          "text": "⑴ 보라색 사각형의 뾰족한 각을 $3$개 이어 붙이면 $90\\degree$입니다. 뾰족한 각의 크기는 몇 도입니까? ⑵ 주황색 사각형의 한 각과 보라색 사각형의 뾰족한 각을 이어 붙이면 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

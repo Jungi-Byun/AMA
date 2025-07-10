@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_05_00042_53637.png",
+  "id": "00042_53637",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은지는 $2L$의 물이 들어 있는 물통에 물을 $800mL$ 더 부었습니다. 물의 양은 모두 몇$ L$ 몇 $mL$인지 쓰고, 읽어 보시오.쓰기( )읽기( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            671,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            675,
+            21
+          ],
+          "text": "은지는 $2L$의 물이 들어 있는 물통에 물을 $800mL$ 더 부었습니다. 물의 양은 모두 몇$ L$ 몇 $mL$인지 쓰고, 읽어 보시오.쓰기( )읽기( )"
+        }
+      ]
+    }
+  ]
+}

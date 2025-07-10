@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_04_00042_27186.png",
+  "id": "00042_27186",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104005",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 큰 곱과 가장 작은 곱의 차를 구하시오.$ \\begin{array}{r}70 \\\\ \\times  3 \\\\ \\hline\\end{array}   \\begin{array}{r}52 \\\\ \\times  4 \\\\ \\hline\\end{array}   \\begin{array}{r}41 \\\\ \\times  5 \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            266,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            31,
+            23,
+            105,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            106,
+            22,
+            180,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            177,
+            22,
+            251,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            282,
+            83
+          ],
+          "text": "가장 큰 곱과 가장 작은 곱의 차를 구하시오.$ \\begin{array}{r}70 \\\\ \\times  3 \\\\ \\hline\\end{array}   \\begin{array}{r}52 \\\\ \\times  4 \\\\ \\hline\\end{array}   \\begin{array}{r}41 \\\\ \\times  5 \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

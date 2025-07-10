@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_02_00043_51647.png",
+  "id": "00043_51647",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 세 가지 조건을 만족하는 수를 모두 구하시오. 첫째, $50$보다 크고 $60$보다 작습니다. 둘째, $2$로 나누면 나누어떨어집니다. 셋째, $4$로 나누면 나머지가 $2$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            238,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            234,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            74,
+            235,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            101
+          ],
+          "text": "다음 세 가지 조건을 만족하는 수를 모두 구하시오. 첫째, $50$보다 크고 $60$보다 작습니다. 둘째, $2$로 나누면 나누어떨어집니다. 셋째, $4$로 나누면 나머지가 $2$입니다."
+        }
+      ]
+    }
+  ]
+}

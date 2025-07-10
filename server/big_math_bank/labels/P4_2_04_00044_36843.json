@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00044_36843.png",
+  "id": "00044_36843",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204007",
+      "question_topic_name": "평행선 사이의 거리 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "오른쪽 위에서 왼쪽 아래로 비스듬히 그려진 평행한 직선 가, 나, 다가 있고, 직선 가와 나의 거리를 나타내는 선분의 길이가 2 cm이고 직선 나와 다의 거리를 나타내는 선분의 길이가 4 cm이고, 길이가 2 cm인 선분이 직선 나와 만나는 점과 길이가 4 cm인 선분이 나와 만나는 점 사이의 한 점을 지나는 선분이 직선 가와 직선 나와 만나고 있을 때, 그 선분의 직선 가와 나까지는 3 cm, 직선 나와 다까지는 6 cm이고 길이가 4 cm인 선분이 직선 나와 만나고 있는 점과 길이가 6 cm인 선분이 직선 나와 만나고 있는 점까지의 길이가 5 cm인 도형",
+      "question_text": "세 직선 가, 나, 다는 서로 평행합니다. 직선 가와 직선 다 사이의 거리는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            503,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            40,
+            40,
+            282,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            505,
+            21
+          ],
+          "text": "세 직선 가, 나, 다는 서로 평행합니다. 직선 가와 직선 다 사이의 거리는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

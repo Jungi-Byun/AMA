@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_06_00043_41486.png",
+  "id": "00043_41486",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106004",
+      "question_topic_name": "모양 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "선희는 크기와 모양이 같은 책을 다음 그림과 같이 1층은 가로로 1권을 눕히고, 2층은 세로로 $3$권을 세우고, 다시 $3$층은 가로로$1$권을 눕히는 방법으로 쌓아가고 있습니다. 물음에 답하시오.  ⑴ $6$층까지 쌓은 책의 수를 덧셈식으로 나타내시오. ⑵ $10$층까지 쌓은 책은 몇 권입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            283,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            276,
+            308,
+            293
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            298,
+            226,
+            315
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            44,
+            63,
+            97,
+            256
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "선희는 크기와 모양이 같은 책을 다음 그림과 같이 1층은 가로로 1권을 눕히고, 2층은 세로로 $3$권을 세우고, 다시 $3$층은 가로로$1$권을 눕히는 방법으로 쌓아가고 있습니다. 물음에 답하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            275,
+            310,
+            316
+          ],
+          "text": "⑴ $6$층까지 쌓은 책의 수를 덧셈식으로 나타내시오. ⑵ $10$층까지 쌓은 책은 몇 권입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55626.png",
+  "id": "00043_55626",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분모가 $7$인 가분수는 어느 것입니까?  ① $ \\frac{3}{7} $ ② $ \\frac{7}{5} $ ③ $ \\frac{7}{9} $ ④ $ \\frac{6}{7} $ ⑤ $ \\frac{7}{7} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            228,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            63,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            63,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            63,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            141,
+            63,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            63,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            230,
+            224
+          ],
+          "text": "분모가 $7$인 가분수는 어느 것입니까?  ① $ \\frac{3}{7} $ ② $ \\frac{7}{5} $ ③ $ \\frac{7}{9} $ ④ $ \\frac{6}{7} $ ⑤ $ \\frac{7}{7} $"
+        }
+      ]
+    }
+  ]
+}

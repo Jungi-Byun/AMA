@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_05_00043_40986.png",
+  "id": "00043_40986",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 가장 긴 끈을 가지고 있는 학생은 누구입니까? 서영 : 내 끈의 길이는 $927$mm야.창훈 : 나는 $3m 50cm$인데.민준 : 그래? 나는$ 89cm4mm$인데.예은 : 나는 $308cm$인 끈을 가지고 있어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            217,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            55,
+            187,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            75,
+            231,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            97,
+            257,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            335,
+            121
+          ],
+          "text": "길이가 가장 긴 끈을 가지고 있는 학생은 누구입니까? 서영 : 내 끈의 길이는 $927$mm야.창훈 : 나는 $3m 50cm$인데.민준 : 그래? 나는$ 89cm4mm$인데.예은 : 나는 $308cm$인 끈을 가지고 있어."
+        }
+      ]
+    }
+  ]
+}

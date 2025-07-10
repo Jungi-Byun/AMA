@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_01_00043_49267.png",
+  "id": "00043_49267",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201005",
+      "question_topic_name": "일, 십, 백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지우는 $650$원짜리 도넛 $3$개와 $750$원짜리 우유 $2$개를 샀습니다. 지우는 얼마를 내야 하는지 알아보시오.⑴ $650$원짜리 도넛 $3$개의 값은 얼마입니까?⑵ $750$원짜리 우유 $2$개의 값은 얼마입니까?⑶ 지우는 얼마를 내야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            606,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            269,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            268,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            195,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            608,
+            84
+          ],
+          "text": "지우는 $650$원짜리 도넛 $3$개와 $750$원짜리 우유 $2$개를 샀습니다. 지우는 얼마를 내야 하는지 알아보시오.⑴ $650$원짜리 도넛 $3$개의 값은 얼마입니까?⑵ $750$원짜리 우유 $2$개의 값은 얼마입니까?⑶ 지우는 얼마를 내야 합니까?"
+        }
+      ]
+    }
+  ]
+}

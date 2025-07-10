@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_04_00043_52286.png",
+  "id": "00043_52286",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "서로 평행한 직선 가와 나가 있고 직선 나에 있는 한 점 ㄷ에서 직선 가에 수선을 그어 직선 가와 만나는 점을 ㄹ이라 하고, 점 ㄷ에서 직선 나와 크기가 네모인 예각을 이루도록 직선을 우상향하게 긋고, 직선 가 위에 점 ㄹ의 오른쪽에 위치한 점 ㄱ에서 직선 가와 60도를 이루도록 우하향하게 선을 그었을 때 두 직선이 만나는 점을 점 ㄴ이라 하고 각 ㄱㄴㄷ의 크기는 95도인 도형",
+      "question_text": "직선 가와 직선 나는 서로 평행합니다. 점 ㄷ에서 직선 가에 수선을 그어 직선 가와 만나는 점을 ㄹ이라 할 때, $\\square$ 안에 알맞은 각도를 구하시오.  (1) 각 $ㄹㄱㄴ$의 크기를 구하시오. (2) 각 $ㄴㄷㄹ$ 의 크기를 구하시오. (3) $\\square $ 안에 알맞은 각도를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            36,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            189,
+            206,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            211,
+            208,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            233,
+            225,
+            249
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            58,
+            184,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            39
+          ],
+          "text": "직선 가와 직선 나는 서로 평행합니다. 점 ㄷ에서 직선 가에 수선을 그어 직선 가와 만나는 점을 ㄹ이라 할 때, $\\square$ 안에 알맞은 각도를 구하시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            188,
+            227,
+            251
+          ],
+          "text": "(1) 각 $ㄹㄱㄴ$의 크기를 구하시오. (2) 각 $ㄴㄷㄹ$ 의 크기를 구하시오. (3) $\\square $ 안에 알맞은 각도를 구하시오."
+        }
+      ]
+    }
+  ]
+}

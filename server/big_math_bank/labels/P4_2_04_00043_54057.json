@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_54057.png",
+  "id": "00043_54057",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204014",
+      "question_topic_name": "평행사변형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변 ㄴㄷ의 길이가 15 cm이고 선분 ㄷㄹ의 길이가 14 cm이고 각 ㄱㄴㄷ의 크기가 55도이고 각 ㄴㄱㄹ의 크기가 125도인 평행사변형 ㄱㄴㄷㄹ",
+      "question_text": "사각형 ㄱㄴㄷㄹ은 평행사변형입니다. 변 ㄱㄴ의 길이와 각 ㄱㄹㄷ의 크기를 각각 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            535,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            33,
+            205,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            535,
+            21
+          ],
+          "text": "사각형 ㄱㄴㄷㄹ은 평행사변형입니다. 변 ㄱㄴ의 길이와 각 ㄱㄹㄷ의 크기를 각각 구하시오."
+        }
+      ]
+    }
+  ]
+}

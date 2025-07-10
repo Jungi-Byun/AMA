@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00043_57916.png",
+  "id": "00043_57916",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게를 잘못 나타낸 것은 어느 것입니까? ①어머니의 몸무게 : 약 $56g$ ②야구공 : 약 $200g$ ③의자 : 약 $2kg 800g$ ④귤 $1$개 : 약 $100g$ ⑤사과 $1$상자 : 약 $5kg$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            250,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            189,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            145,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            159,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            139,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            155,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            252,
+            130
+          ],
+          "text": "무게를 잘못 나타낸 것은 어느 것입니까? ①어머니의 몸무게 : 약 $56g$ ②야구공 : 약 $200g$ ③의자 : 약 $2kg 800g$ ④귤 $1$개 : 약 $100g$ ⑤사과 $1$상자 : 약 $5kg$"
+        }
+      ]
+    }
+  ]
+}

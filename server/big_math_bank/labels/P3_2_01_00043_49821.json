@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00043_49821.png",
+  "id": "00043_49821",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과일 가게에 금귤이 $41$상자 있었는데 $15$상자를 팔았습니다. 금귤이 한 상자에 $29$개씩 들어 있다면 팔고 남은 금귤은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            747,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            749,
+            21
+          ],
+          "text": "과일 가게에 금귤이 $41$상자 있었는데 $15$상자를 팔았습니다. 금귤이 한 상자에 $29$개씩 들어 있다면 팔고 남은 금귤은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

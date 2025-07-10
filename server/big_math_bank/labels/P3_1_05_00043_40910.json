@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_05_00043_40910.png",
+  "id": "00043_40910",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 두 학생의 대화를 보고 은경이가 일어난 시각은 몇 시 몇 분인지 구하시오. 은경 : 많이 기다렸지? 미안해~준우 : $11$시에 만나기로 해놓고 $24$분이나 늦으면 어떡해?은경 : 미안 미안~ 일어나자마자 $10$분 동안 세수하고, $15$분 동안 준비하고, 여기까지 오는 데 $12$분 걸렸어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            462,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            55,
+            347,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22.17,
+            29.44,
+            203.17,
+            49.44
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.17,
+            73.68,
+            616.17,
+            93.68
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            628,
+            98
+          ],
+          "text": "다음 두 학생의 대화를 보고 은경이가 일어난 시각은 몇 시 몇 분인지 구하시오. 은경 : 많이 기다렸지? 미안해~준우 : $11$시에 만나기로 해놓고 $24$분이나 늦으면 어떡해?은경 : 미안 미안~ 일어나자마자 $10$분 동안 세수하고, $15$분 동안 준비하고, 여기까지 오는 데 $12$분 걸렸어."
+        }
+      ]
+    }
+  ]
+}

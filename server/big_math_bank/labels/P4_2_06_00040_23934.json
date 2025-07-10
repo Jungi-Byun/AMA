@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_06_00040_23934.png",
+  "id": "00040_23934",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206002",
+      "question_topic_name": "정다각형과 정다각형의 이름 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 말은 어느 것입니까?  정다각형은 변의 $\\square$에 따라 정삼각형, 정사각형, 정오각형, 정육각형 등으로 부릅니다. ① 색 ② 수 ③ 길이 ④ 형태 ⑤ 모양",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            224,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            512,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            58,
+            57,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            58,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            69,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            70,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            71,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            552,
+            167
+          ],
+          "text": "$\\square$ 안에 알맞은 말은 어느 것입니까?  정다각형은 변의 $\\square$에 따라 정삼각형, 정사각형, 정오각형, 정육각형 등으로 부릅니다. ① 색 ② 수 ③ 길이 ④ 형태 ⑤ 모양"
+        }
+      ]
+    }
+  ]
+}

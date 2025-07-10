@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_30351.png",
+  "id": "00042_30351",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102006",
+      "question_topic_name": "예각과 둔각 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "시계의 시침과 분침이 이루는 작은 쪽의 각이 예각인지 둔각인지 쓰시오.  (1)  (2)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            426,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            286,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            428,
+            22
+          ],
+          "text": "시계의 시침과 분침이 이루는 작은 쪽의 각이 예각인지 둔각인지 쓰시오.  (1)  (2)"
+        }
+      ]
+    }
+  ]
+}

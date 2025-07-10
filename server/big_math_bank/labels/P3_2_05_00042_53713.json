@@ -1,0 +1,169 @@
+{
+  "question_filename": "P3_2_05_00042_53713.png",
+  "id": "00042_53713",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게의 크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으시오.  (1) $3$kg $900$g $\\bigcirc 4$kg (2) $2700$g $\\bigcirc 2$kg $700$g (3) $5$kg $\\bigcirc 5060$g (4) $8$kg $10$g $\\bigcirc 8100$g",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            368,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            26,
+            99,
+            43
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            103,
+            23,
+            129,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            133,
+            26,
+            158,
+            43
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            83,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            86,
+            53,
+            113,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            117,
+            56,
+            178,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            86,
+            64,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            67,
+            83,
+            94,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            97,
+            87,
+            142,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            116,
+            91,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            94,
+            113,
+            120,
+            139
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            124,
+            117,
+            167,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            370,
+            140
+          ],
+          "text": "무게의 크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으시오.  (1) $3$kg $900$g $\\bigcirc 4$kg (2) $2700$g $\\bigcirc 2$kg $700$g (3) $5$kg $\\bigcirc 5060$g (4) $8$kg $10$g $\\bigcirc 8100$g"
+        }
+      ]
+    }
+  ]
+}

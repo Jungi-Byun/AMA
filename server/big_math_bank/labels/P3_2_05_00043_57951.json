@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57951.png",
+  "id": "00043_57951",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게의 단위를 잘못 사용한 학생은 누구인지 쓰고, 바르게 고치시오.  수진 : 내 동생의 몸무게는 $11kg$이야. 주혁 : 어머니께서 쇠고기 $1g$을 사 오셨어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            400,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            234,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            56,
+            264,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            406,
+            78
+          ],
+          "text": "무게의 단위를 잘못 사용한 학생은 누구인지 쓰고, 바르게 고치시오.  수진 : 내 동생의 몸무게는 $11kg$이야. 주혁 : 어머니께서 쇠고기 $1g$을 사 오셨어."
+        }
+      ]
+    }
+  ]
+}

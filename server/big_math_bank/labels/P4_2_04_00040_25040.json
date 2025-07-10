@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_25040.png",
+  "id": "00040_25040",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204003",
+      "question_topic_name": "수직",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "점 가에서 직선 $ㄱㄴ$에 그을 수 있는 수선의 수는 몇 개입니까?  ①$1$개 ②$2$개 ③$3$개 ④$4$개 ⑤$5$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            370,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            101,
+            62,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            123,
+            65,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            145,
+            65,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            167,
+            65,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            189,
+            64,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            142,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.86,
+            0.58,
+            370.5,
+            17.22
+          ],
+          "text": "점 가에서 직선 $ㄱㄴ$에 그을 수 있는 수선의 수는 몇 개입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.78,
+            101.06,
+            65.86,
+            209.22
+          ],
+          "text": "①$1$개 ②$2$개 ③$3$개 ④$4$개 ⑤$5$개"
+        }
+      ]
+    }
+  ]
+}

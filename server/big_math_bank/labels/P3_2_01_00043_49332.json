@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49332.png",
+  "id": "00043_49332",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201005",
+      "question_topic_name": "일, 십, 백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자석에 붙는 물체를 알아보기 위해서 한 상자에 $120$개씩 들어 있는 클립 $3$상자와 한 상자에 $150$개씩 들어 있는 철 못 $2$상자를 샀습니다. 클립과 철 못은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            199,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            41
+          ],
+          "text": "자석에 붙는 물체를 알아보기 위해서 한 상자에 $120$개씩 들어 있는 클립 $3$상자와 한 상자에 $150$개씩 들어 있는 철 못 $2$상자를 샀습니다. 클립과 철 못은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

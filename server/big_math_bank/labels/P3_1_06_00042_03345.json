@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00042_03345.png",
+  "id": "00042_03345",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색칠한 부분을 분수로 잘못 나타낸 것을 모두 찾아 기호를 쓰시오. $\\frac{1}{5}$, $\\frac{3}{4}$, $\\frac{5}{6}$, $\\frac{6}{8}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            1,
+            385,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            44,
+            105,
+            301,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20.72,
+            17.11,
+            309.72,
+            88.11
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.72,
+            0,
+            384.72,
+            15.61
+          ],
+          "text": "색칠한 부분을 분수로 잘못 나타낸 것을 모두 찾아 기호를 쓰시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            45.72,
+            104.61,
+            301.72,
+            164.61
+          ],
+          "text": "$\\frac{1}{5}$, $\\frac{3}{4}$, $\\frac{5}{6}$, $\\frac{6}{8}$"
+        }
+      ]
+    }
+  ]
+}

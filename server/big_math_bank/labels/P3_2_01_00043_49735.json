@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_01_00043_49735.png",
+  "id": "00043_49735",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 식에서 $\\blacklozenge,\\bullet,\\blacksquare,\\blacktriangle$는 각각 1에서 9까지의 숫자 중에서 한 숫자를 나타냅니다. $\\blacktriangle$가 나타내는 숫자는 무엇입니까? $ \\begin{array}{r}3\\blacklozenge \\bullet 7 \\\\ +489 \\blacksquare\\\\ \\hline 82  \\bullet 3\\end{array} $ $ \\begin{array}{r}5 \\boldsymbol{\\blacktriangle} \\\\ \\times  \\blacklozenge\\boldsymbol{\\blacksquare} \\\\ \\hline 194\\blacktriangle\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            678,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            27,
+            133,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            161,
+            27,
+            238,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            680,
+            98
+          ],
+          "text": "두 식에서 $\\blacklozenge,\\bullet,\\blacksquare,\\blacktriangle$는 각각 1에서 9까지의 숫자 중에서 한 숫자를 나타냅니다. $\\blacktriangle$가 나타내는 숫자는 무엇입니까? $ \\begin{array}{r}3\\blacklozenge \\bullet 7 \\\\ +489 \\blacksquare\\\\ \\hline 82  \\bullet 3\\end{array} $ $ \\begin{array}{r}5 \\boldsymbol{\\blacktriangle} \\\\ \\times  \\blacklozenge\\boldsymbol{\\blacksquare} \\\\ \\hline 194\\blacktriangle\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

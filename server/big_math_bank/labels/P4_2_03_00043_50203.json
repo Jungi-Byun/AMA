@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50203.png",
+  "id": "00043_50203",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "수직선 위 0.8 m, 0.9 m, 1 m 사이에 숫자가 쓰여 있는 눈금보다 작은 눈금이 각각 9개씩 일정한 간격으로 있는 도형",
+      "question_text": "$19$ cm짜리 철사가 $5$개 있습니다. 철사는 모두 몇 m인지 수직선에 화살표로 표시해 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            529,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            31,
+            321,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            532,
+            23
+          ],
+          "text": "$19$ cm짜리 철사가 $5$개 있습니다. 철사는 모두 몇 m인지 수직선에 화살표로 표시해 보시오."
+        }
+      ]
+    }
+  ]
+}

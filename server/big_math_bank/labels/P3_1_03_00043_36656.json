@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00043_36656.png",
+  "id": "00043_36656",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 읽고 물음에 답하시오.   어떤 수를 7로 나누면 8과 같습니다.  (1) $\\square$를 이용하여 나눗셈식으로 나타내시오.  $ \\square \\div \\square=\\square $ (2) 위 (1)의 나눗셈식을 곱셈식으로 나타내고, $\\square$의 값을 구하시오  $ 7 \\times \\square=\\square, \\square=\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            234,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            269,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            82,
+            108,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            111,
+            394,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            133,
+            152,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            462,
+            160
+          ],
+          "text": "다음을 읽고 물음에 답하시오.   어떤 수를 7로 나누면 8과 같습니다.  (1) $\\square$를 이용하여 나눗셈식으로 나타내시오.  $ \\square \\div \\square=\\square $ (2) 위 (1)의 나눗셈식을 곱셈식으로 나타내고, $\\square$의 값을 구하시오  $ 7 \\times \\square=\\square, \\square=\\square $"
+        }
+      ]
+    }
+  ]
+}

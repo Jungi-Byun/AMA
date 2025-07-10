@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_04_00042_26277.png",
+  "id": "00042_26277",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204004",
+      "question_topic_name": "여러 개씩 묶었을 때 분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바둑돌 $56$개를 똑같이 $7$묶음으로 나누었습니다. 그중에서 $24$개는 검은색 바둑돌입니다. 흰색 바둑돌은 전체 바둑돌의 몇 분의 몇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            790,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            792,
+            21
+          ],
+          "text": "바둑돌 $56$개를 똑같이 $7$묶음으로 나누었습니다. 그중에서 $24$개는 검은색 바둑돌입니다. 흰색 바둑돌은 전체 바둑돌의 몇 분의 몇입니까?"
+        }
+      ]
+    }
+  ]
+}

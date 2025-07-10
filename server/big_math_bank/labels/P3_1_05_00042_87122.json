@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_05_00042_87122.png",
+  "id": "00042_87122",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빈칸에 알맞은 수를 써넣으시오. (1)$\\begin{array}{r}\\overset{\\square}{\\cancel{5}} \\text { 분 } \\overset{\\square}{18} \\text { 초 } \\\\ - 3 \\text { 분 } 34 \\text { 초 } \\\\ \\hline \\square \\text { 분 } \\square \\text { 초 }\\end{array}$ (2) $\\begin{array}{r}\\overset{\\square}{\\cancel{13}} \\text { 분 } \\overset{\\square}{25} \\text { 초 } \\\\ - 7 \\text { 분 } 49 \\text { 초 } \\\\ \\hline \\square \\text { 분 } \\square \\text { 초 }\\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            200,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            154,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            143,
+            167,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            202,
+            238
+          ],
+          "text": "빈칸에 알맞은 수를 써넣으시오. (1)$\\begin{array}{r}\\overset{\\square}{\\cancel{5}} \\text { 분 } \\overset{\\square}{18} \\text { 초 } \\\\ - 3 \\text { 분 } 34 \\text { 초 } \\\\ \\hline \\square \\text { 분 } \\square \\text { 초 }\\end{array}$ (2) $\\begin{array}{r}\\overset{\\square}{\\cancel{13}} \\text { 분 } \\overset{\\square}{25} \\text { 초 } \\\\ - 7 \\text { 분 } 49 \\text { 초 } \\\\ \\hline \\square \\text { 분 } \\square \\text { 초 }\\end{array}$"
+        }
+      ]
+    }
+  ]
+}

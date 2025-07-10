@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_05_00043_58949.png",
+  "id": "00043_58949",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205004",
+      "question_topic_name": "물결선을 이용하여 나타내는 방법",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 놀이공원의 월별 방문객 수를 조사하여 나타낸 표입니다. 방문객 수를 천의 자리에서 반올림하여 꺾은선그래프로 나타내어 보시오. $방문객 수$ $월                4            5             6            7  방문객 수(명) 543312   528941    455587    540295$ ⑴ 표를 보고 천의 자리에서 반올림하여 빈칸에 써넣으시오. $방문객 수$ $ 월                  4      5    6    7 $ $방문객 수(만 명)    54$ ⑵ ⑴의 표를 보고 꺾은선그래프로 나타내어 보시오. $방문객 수$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            782,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            76,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            322,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            95,
+            355,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            76,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            139,
+            194,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            190,
+            313,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            136,
+            218,
+            212,
+            239
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            784,
+            241
+          ],
+          "text": "어느 놀이공원의 월별 방문객 수를 조사하여 나타낸 표입니다. 방문객 수를 천의 자리에서 반올림하여 꺾은선그래프로 나타내어 보시오. $방문객 수$ $월                4            5             6            7  방문객 수(명) 543312   528941    455587    540295$ ⑴ 표를 보고 천의 자리에서 반올림하여 빈칸에 써넣으시오. $방문객 수$ $ 월                  4      5    6    7 $ $방문객 수(만 명)    54$ ⑵ ⑴의 표를 보고 꺾은선그래프로 나타내어 보시오. $방문객 수$"
+        }
+      ]
+    }
+  ]
+}

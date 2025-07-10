@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_04_00043_00318.png",
+  "id": "00043_00318",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "리본 끈 $ 100 \\mathrm{cm} $ 로 상자 $3$개를 포장했습니다. 상자 한 개를 포장하는 데 리본 끈 $ 29 \\mathrm{cm} $ 를 사용했다면 남은 리본 끈은 몇 $\\mathrm{cm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            752,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            754,
+            20
+          ],
+          "text": "리본 끈 $ 100 \\mathrm{cm} $ 로 상자 $3$개를 포장했습니다. 상자 한 개를 포장하는 데 리본 끈 $ 29 \\mathrm{cm} $ 를 사용했다면 남은 리본 끈은 몇 $\\mathrm{cm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

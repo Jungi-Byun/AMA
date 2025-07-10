@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00044_11278.png",
+  "id": "00044_11278",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영진이의 몸무게가 $ 40\\mathrm{~kg} $이고, 자동차의 무게는 $1.6\\mathrm{~t} $이라고 합니다. 자동차의 무게는 영진이의 몸무게의 몇 배입니까? ①$4$배 ②$16$배 ③$20$배 ④$40$배 ⑤$400$배",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            679,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            65,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            70,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            74,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            74,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            83,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            681,
+            130
+          ],
+          "text": "영진이의 몸무게가 $ 40\\mathrm{~kg} $이고, 자동차의 무게는 $1.6\\mathrm{~t} $이라고 합니다. 자동차의 무게는 영진이의 몸무게의 몇 배입니까? ①$4$배 ②$16$배 ③$20$배 ④$40$배 ⑤$400$배"
+        }
+      ]
+    }
+  ]
+}

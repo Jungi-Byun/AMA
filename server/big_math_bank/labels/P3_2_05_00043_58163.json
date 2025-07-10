@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58163.png",
+  "id": "00043_58163",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "범호는 어제 $18kg 800g$의 고구마를 캤고, 오늘은 어제보다 $4kg 100g$을 더 많이 캤습니다. 범호가 어제와 오늘 캔 고구마의 무게는 모두 몇 $kg$ 몇 $g$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            107,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            804,
+            41
+          ],
+          "text": "범호는 어제 $18kg 800g$의 고구마를 캤고, 오늘은 어제보다 $4kg 100g$을 더 많이 캤습니다. 범호가 어제와 오늘 캔 고구마의 무게는 모두 몇 $kg$ 몇 $g$입니까?"
+        }
+      ]
+    }
+  ]
+}

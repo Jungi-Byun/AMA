@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_01_00042_29682.png",
+  "id": "00042_29682",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\square $ 안에 알맞은 수를 써넣으시오.$6213540000429000$은  $ \\begin{array}{l}\\text { 조가 } \\square \\\\ \\text { 억이 } \\square \\\\ \\text { 만이 } \\square \\\\ \\text { 일이 } \\square\\end{array}  $ 인 수입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            167,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            46,
+            110,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            77,
+            110,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            124,
+            95,
+            196,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            107,
+            110,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            138,
+            110,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            206,
+            166
+          ],
+          "text": "$ \\square $ 안에 알맞은 수를 써넣으시오.$6213540000429000$은  $ \\begin{array}{l}\\text { 조가 } \\square \\\\ \\text { 억이 } \\square \\\\ \\text { 만이 } \\square \\\\ \\text { 일이 } \\square\\end{array}  $ 인 수입니다."
+        }
+      ]
+    }
+  ]
+}

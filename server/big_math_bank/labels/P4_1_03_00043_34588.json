@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_03_00043_34588.png",
+  "id": "00043_34588",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103015",
+      "question_topic_name": "몫이 한 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "몫에 가깝게 어림할 수 있는 식을 찾아 $\\bigcirc$표 하고, 계산을 하시오. (1) $219÷71$ $ 140 \\div 70  210 \\div 70  280 \\div 70 $ (계산하기) \\qquad\\qquad\\qquad\\qquad (2) $389÷62$ $ 300 \\div 60  360 \\div 60  420 \\div 60 $ (계산하기) \\qquad\\qquad\\qquad\\qquad",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            382,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            81,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            45,
+            228,
+            62
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            201,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            115,
+            90,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            140,
+            230,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            168,
+            201,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            384,
+            186
+          ],
+          "text": "몫에 가깝게 어림할 수 있는 식을 찾아 $\\bigcirc$표 하고, 계산을 하시오. (1) $219÷71$ $ 140 \\div 70  210 \\div 70  280 \\div 70 $ (계산하기) \\qquad\\qquad\\qquad\\qquad (2) $389÷62$ $ 300 \\div 60  360 \\div 60  420 \\div 60 $ (계산하기) \\qquad\\qquad\\qquad\\qquad"
+        }
+      ]
+    }
+  ]
+}

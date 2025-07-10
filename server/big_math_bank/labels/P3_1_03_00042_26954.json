@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_03_00042_26954.png",
+  "id": "00042_26954",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "글을 읽고 물음에 답하시오. 배구공을 $7$상자에 똑같게 나누어 담았습니다. 배구공이 모두 $21$개이면 한 상자에 몇 개씩 담았습니까? (1)곱셈식으로 나타내시오. $\\square \\times 7=21$ (2) 나눗셈식으로 나타내시오.  $21 \\div= \\square$ (3) 답을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            174,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            603,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            172,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            188,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            124,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.23,
+            80.23,
+            124.23,
+            103.23
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            15.23,
+            123.23,
+            110.23,
+            147.23
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.23,
+            0,
+            647.23,
+            165.23
+          ],
+          "text": "글을 읽고 물음에 답하시오. 배구공을 $7$상자에 똑같게 나누어 담았습니다. 배구공이 모두 $21$개이면 한 상자에 몇 개씩 담았습니까? (1)곱셈식으로 나타내시오. $\\square \\times 7=21$ (2) 나눗셈식으로 나타내시오.  $21 \\div= \\square$ (3) 답을 구하시오."
+        }
+      ]
+    }
+  ]
+}

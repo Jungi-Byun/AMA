@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_06_00041_21632.png",
+  "id": "00041_21632",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206004",
+      "question_topic_name": "대각선의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색종이 한 장을 그림과 같이 $2$번 접은 후, 선을 따라 오려 펼쳐 만든 도형에 대한 설명으로 옳은 것을 모두 고르시오.  ① 네 각의 크기가 모두 같습니다. ② 네 변의 길이가 모두 같습니다. ③ 대각선의 수는 $2$개입니다. ④ 대각선의 길이가 같습니다. ⑤ 대각선은 서로 수직으로 만납니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            666,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            93,
+            215,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            115,
+            215,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            137,
+            190,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            159,
+            195,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            181,
+            237,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            30,
+            321,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.99,
+            0,
+            669.79,
+            19.5
+          ],
+          "text": "색종이 한 장을 그림과 같이 $2$번 접은 후, 선을 따라 오려 펼쳐 만든 도형에 대한 설명으로 옳은 것을 모두 고르시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.99,
+            89.61,
+            237.79,
+            200.01
+          ],
+          "text": "① 네 각의 크기가 모두 같습니다. ② 네 변의 길이가 모두 같습니다. ③ 대각선의 수는 $2$개입니다. ④ 대각선의 길이가 같습니다. ⑤ 대각선은 서로 수직으로 만납니다."
+        }
+      ]
+    }
+  ]
+}

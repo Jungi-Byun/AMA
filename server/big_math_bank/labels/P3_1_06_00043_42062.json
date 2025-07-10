@@ -1,0 +1,139 @@
+{
+  "question_filename": "P3_1_06_00043_42062.png",
+  "id": "00043_42062",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분수를 쓰고 읽어 보시오. ⑴ $\\Rightarrow  \\frac{\\square}{\\square} $라 쓰고 $ \\square $분의 $ \\square $라고 읽습니다. ⑵ $\\Rightarrow  \\frac{\\square}{\\square} $이라 쓰고 $ \\square $분의 $ \\square $이라고 읽습니다. ⑶ $\\Rightarrow  \\frac{\\square}{\\square} $라 쓰고 $ \\square $분의 $ \\square $라고 읽습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            162,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            93,
+            349,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            213,
+            374,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            333,
+            349,
+            377
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            25,
+            212,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            148,
+            209,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            268,
+            232,
+            324
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            2.4,
+            164.1,
+            17.4
+          ],
+          "text": "분수를 쓰고 읽어 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.1,
+            93.4,
+            350.1,
+            137.4
+          ],
+          "text": "⑴ $\\Rightarrow  \\frac{\\square}{\\square} $라 쓰고 $ \\square $분의 $ \\square $라고 읽습니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            213.4,
+            375.1,
+            256.4
+          ],
+          "text": "⑵ $\\Rightarrow  \\frac{\\square}{\\square} $이라 쓰고 $ \\square $분의 $ \\square $이라고 읽습니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            333.4,
+            349.1,
+            378.4
+          ],
+          "text": "⑶ $\\Rightarrow  \\frac{\\square}{\\square} $라 쓰고 $ \\square $분의 $ \\square $라고 읽습니다."
+        }
+      ]
+    }
+  ]
+}

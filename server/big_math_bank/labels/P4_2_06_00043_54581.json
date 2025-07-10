@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_06_00043_54581.png",
+  "id": "00043_54581",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206004",
+      "question_topic_name": "대각선의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "아래에 위치한 가로변이 ㄴㄷ이고 두 대각선 ㄱㄷ과 길이가 10 cm인 ㄴㄹ의 교점이 ㅁ인 직사각형 ㄱㄴㄷㄹ",
+      "question_text": "사각형 ㄱㄴㄷㄹ은 직사각형입니다. 선분 ㄴㅁ은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            377,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            31,
+            156,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            379,
+            22
+          ],
+          "text": "사각형 ㄱㄴㄷㄹ은 직사각형입니다. 선분 ㄴㅁ은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

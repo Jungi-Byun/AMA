@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36076.png",
+  "id": "00043_36076",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $40 m$인 도로의 한쪽에 일정한 간격으로 깃발을 $9$개 꽂았습니다. 도로의 처음부터 끝까지 깃발을 꽂았을 때, 깃발 사이의 간격은 몇 $m$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            77,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            40
+          ],
+          "text": "길이가 $40 m$인 도로의 한쪽에 일정한 간격으로 깃발을 $9$개 꽂았습니다. 도로의 처음부터 끝까지 깃발을 꽂았을 때, 깃발 사이의 간격은 몇 $m$입니까?"
+        }
+      ]
+    }
+  ]
+}

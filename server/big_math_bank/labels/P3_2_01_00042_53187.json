@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00042_53187.png",
+  "id": "00042_53187",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1$분 동안에 $28$바퀴를 도는 전동 바퀴가 있습니다. 같은 빠르기로 $1$시간 $10$분 동안 돌면 모두 몇 바퀴를 돌겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            666,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            668,
+            21
+          ],
+          "text": "$1$분 동안에 $28$바퀴를 도는 전동 바퀴가 있습니다. 같은 빠르기로 $1$시간 $10$분 동안 돌면 모두 몇 바퀴를 돌겠습니까?"
+        }
+      ]
+    }
+  ]
+}

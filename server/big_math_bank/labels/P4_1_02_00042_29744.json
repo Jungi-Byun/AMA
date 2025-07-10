@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_02_00042_29744.png",
+  "id": "00042_29744",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102015",
+      "question_topic_name": "사각형의 나머지 한 각의 크기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "왼쪽 위 각이 95도, 아래 각이 70도, 오른쪽의 위와 아래 각의 크기가 각각 원 문자 ㄱ, ㄴ인 사각형",
+      "question_text": "도형에서 각 ㉠과 각 ㉡의 크기의 합을 구하시오.  각 ㉠+각 ㉡ $ =()^{\\circ} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            291,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            167,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            293,
+            21
+          ],
+          "text": "도형에서 각 ㉠과 각 ㉡의 크기의 합을 구하시오.  각 ㉠+각 ㉡ $ =()^{\\circ} $"
+        }
+      ]
+    }
+  ]
+}

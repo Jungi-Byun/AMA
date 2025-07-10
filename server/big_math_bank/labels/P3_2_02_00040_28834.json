@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_02_00040_28834.png",
+  "id": "00040_28834",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 나눗셈 문제를 보고 만든 검산식입니다. 어떤 나눗셈식이었는지 찾으시오. 검산식: $ 7 \\times 5+6=41 $ ①$ 41 \\div 4 $ ②$ 41 \\div 5 $ ③$ 41 \\div 6 $ ④$ 41 \\div 7 $ ⑤$ 41 \\div 8 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            462,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            141,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            58,
+            75,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            73,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            74,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            74,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            74,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            474,
+            167
+          ],
+          "text": "어떤 나눗셈 문제를 보고 만든 검산식입니다. 어떤 나눗셈식이었는지 찾으시오. 검산식: $ 7 \\times 5+6=41 $ ①$ 41 \\div 4 $ ②$ 41 \\div 5 $ ③$ 41 \\div 6 $ ④$ 41 \\div 7 $ ⑤$ 41 \\div 8 $"
+        }
+      ]
+    }
+  ]
+}

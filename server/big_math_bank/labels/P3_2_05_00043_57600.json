@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_57600.png",
+  "id": "00043_57600",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성주와 민국이는 다음 그릇의 들이를 어림해 본 후 실제로 재어 확인했습니다. 성주와 민국이 중에서 실제 들이에 더 가깝게 어림한 사람은 누구입니까? <table border> <caption></caption>   <tbody>     <tr>       <td colspan=4></td>     </tr>     <tr>       <td colspan=3>성주가 어림한 들이</td>       <td>$1L 250ml$</td>     </tr>     <tr>       <td colspan=3>민국이가 어림한 들이</td>       <td>$1L 400ml$</td>     </tr>     <tr>       <td colspan=3>실제들이</td>       <td>$1L 300mL$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            91,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            132,
+            247,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            47,
+            182,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.28,
+            0.87,
+            794.08,
+            40.07
+          ],
+          "text": "성주와 민국이는 다음 그릇의 들이를 어림해 본 후 실제로 재어 확인했습니다. 성주와 민국이 중에서 실제 들이에 더 가깝게 어림한 사람은 누구입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.28,
+            130.47,
+            247.68,
+            202.47
+          ],
+          "text": "<table border> <caption></caption>   <tbody>     <tr>       <td colspan=4></td>     </tr>     <tr>       <td colspan=3>성주가 어림한 들이</td>       <td>$1L 250ml$</td>     </tr>     <tr>       <td colspan=3>민국이가 어림한 들이</td>       <td>$1L 400ml$</td>     </tr>     <tr>       <td colspan=3>실제들이</td>       <td>$1L 300mL$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_04_00043_51866.png",
+  "id": "00043_51866",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204001",
+      "question_topic_name": "수직 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 수직 또는 수선을 알맞게 써넣으시오. (1) 직선 $가$에 $ \\square $인 직선은 직선 $나$입니다. (2) 직선 $나$는 직선 $가$에 대한 $ \\square $입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            274,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            119,
+            326,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            141,
+            317,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            26,
+            185,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            277,
+            22
+          ],
+          "text": "$\\square$ 안에 수직 또는 수선을 알맞게 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            117,
+            329,
+            164
+          ],
+          "text": "(1) 직선 $가$에 $ \\square $인 직선은 직선 $나$입니다. (2) 직선 $나$는 직선 $가$에 대한 $ \\square $입니다."
+        }
+      ]
+    }
+  ]
+}

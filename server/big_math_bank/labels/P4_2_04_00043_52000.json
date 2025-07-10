@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_04_00043_52000.png",
+  "id": "00043_52000",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204004",
+      "question_topic_name": "평행 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로로 지나는 직선 가 아래에 평행한 직선 나 직선 가 위의 점 ㄱ에서 50도 좌하향하는 점 ㄴ에서 우하향하는 점 ㄷ이 직선 나 위의 점이고 직선 가에 내린 수선의 발 점 ㄹ이며 각 ㄱㄴㄷ에 각 표현하고 선분 ㄴㄷ과 직선 나와 이루는 예각이 30도인 도형",
+      "question_text": "직선 가와 직선 나는 서로 평행합니다. 각 ㄱㄴㄷ의 크기를 구하시오. (1) 각 ㄱㄴㄷ을 제외한 세 각의 크기를 구하시오. (각 ㄹㄱㄴ) =$ 180^{\\circ}-50^{\\circ}=\\square $ (각 ㄴㄷㄹ) = $ 90^{\\circ}-30^{\\circ}=\\square $  (각 ㄱㄹㄷ) $ = \\square $ (2) 각 ㄱㄷㄷ의 크기를 구하시오.  (각 ㄱㄴㄷ) }  $ =360^{\\circ}-(\\text { 나머지 세 각의 크기의 합) } \\\\ =360^{\\circ}-(\\square+\\square \\\\ =360^{\\circ}-\\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            404,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            152,
+            290,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            240,
+            208,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            262,
+            85,
+            278
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            284,
+            227,
+            301
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            30,
+            292,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            406,
+            302
+          ],
+          "text": "직선 가와 직선 나는 서로 평행합니다. 각 ㄱㄴㄷ의 크기를 구하시오. (1) 각 ㄱㄴㄷ을 제외한 세 각의 크기를 구하시오. (각 ㄹㄱㄴ) =$ 180^{\\circ}-50^{\\circ}=\\square $ (각 ㄴㄷㄹ) = $ 90^{\\circ}-30^{\\circ}=\\square $  (각 ㄱㄹㄷ) $ = \\square $ (2) 각 ㄱㄷㄷ의 크기를 구하시오.  (각 ㄱㄴㄷ) }  $ =360^{\\circ}-(\\text { 나머지 세 각의 크기의 합) } \\\\ =360^{\\circ}-(\\square+\\square \\\\ =360^{\\circ}-\\square $"
+        }
+      ]
+    }
+  ]
+}

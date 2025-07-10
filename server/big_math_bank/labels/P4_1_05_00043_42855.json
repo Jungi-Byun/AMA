@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_05_00043_42855.png",
+  "id": "00043_42855",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현호네 반에서 좋아하는 계절별 학생 수를 조사하여 나타낸 표입니다. 표를 보고 막대그래프로 나타내시오. 좋아하는 계절별 학생 수 <table border> <tbody> <tr> <td>계절</td> <td>봄</td> <td>여름</td><td>가을</td><td>겨울</td><td>합계 </td> </tr> <tr> <td>학생 수(명)</td> <td>$8$</td> <td>$12$</td><td>$10$</td><td>$4$</td><td>$34$</td> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            617,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            91,
+            19,
+            259,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            46,
+            315,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            142,
+            315,
+            323
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            620,
+            20
+          ],
+          "text": "현호네 반에서 좋아하는 계절별 학생 수를 조사하여 나타낸 표입니다. 표를 보고 막대그래프로 나타내시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            20,
+            317,
+            124
+          ],
+          "text": "좋아하는 계절별 학생 수 <table border> <tbody> <tr> <td>계절</td> <td>봄</td> <td>여름</td><td>가을</td><td>겨울</td><td>합계 </td> </tr> <tr> <td>학생 수(명)</td> <td>$8$</td> <td>$12$</td><td>$10$</td><td>$4$</td><td>$34$</td> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

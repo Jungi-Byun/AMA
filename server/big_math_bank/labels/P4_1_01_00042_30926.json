@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_01_00042_30926.png",
+  "id": "00042_30926",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용 ",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$2987110824059901$에서 숫자 $7$은 어느 자리의 숫자입니까? ① 십억의 자리 ② 일조의 자리 ③ 십조의 자리 ④ 백조의 자리 ⑤ 천조의 자리",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            366,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            111,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            111,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            111,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            111,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            111,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            368,
+            130
+          ],
+          "text": "$2987110824059901$에서 숫자 $7$은 어느 자리의 숫자입니까? ① 십억의 자리 ② 일조의 자리 ③ 십조의 자리 ④ 백조의 자리 ⑤ 천조의 자리"
+        }
+      ]
+    }
+  ]
+}

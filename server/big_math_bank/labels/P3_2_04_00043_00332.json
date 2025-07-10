@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_04_00043_00332.png",
+  "id": "00043_00332",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빵 $27$개가 있습니다. 그중에서 $ \\frac{1}{3} $은 아버지께 드리고 $ \\frac{4}{9} $는 어머니께 드리려고 합니다. 아버지와 어머니께 드릴 빵은 각각 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            795,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            39
+          ],
+          "text": "빵 $27$개가 있습니다. 그중에서 $ \\frac{1}{3} $은 아버지께 드리고 $ \\frac{4}{9} $는 어머니께 드리려고 합니다. 아버지와 어머니께 드릴 빵은 각각 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

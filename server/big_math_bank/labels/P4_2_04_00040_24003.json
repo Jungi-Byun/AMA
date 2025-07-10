@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_24003.png",
+  "id": "00040_24003",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204020",
+      "question_topic_name": "정사각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사각형 $ㄱㄴㄷㄹ$은 정사각형입니다. 둘레는 몇 $cm$입니까?  ①$14cm$ ②$16cm$ ③$18cm$ ④$22cm$ ⑤$24cm$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            347,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            95,
+            76,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            117,
+            76,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            139,
+            77,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            161,
+            79,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            183,
+            79,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            23,
+            127,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            349,
+            22
+          ],
+          "text": "사각형 $ㄱㄴㄷㄹ$은 정사각형입니다. 둘레는 몇 $cm$입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            94,
+            81,
+            204
+          ],
+          "text": "①$14cm$ ②$16cm$ ③$18cm$ ④$22cm$ ⑤$24cm$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_03_00043_50360.png",
+  "id": "00043_50360",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정아와 친구들은 $0$부터 $4$까지의 숫자가 쓰인 $5$장의 숫자 카드로 놀이를 하고 있습니다. 빈칸에 나머지 숫자 카드를 넣어 소수 세 자리 수를 만들 때, 가장 작은 소수를 만들 수 있는 사람은 누구입니까? (단, 십의 자리에는 $0$이 올 수 없습니다.) ①정아<table border> <caption></caption>   <tbody>     <tr>       <td>$\\qquad$</td> <td>$2$</td> <td>$.\\qquad$</td> <td>$\\qquad$</td> <td>$\\qquad$</td> <td>$\\qquad$</td>     </tr> </tbody> </table> ②수영 <table border> <caption></caption>   <tbody>     <tr>       <td>$\\qquad$</td> <td>$\\qquad$</td> <td>$.\\qquad$</td> <td>$\\qquad$</td> <td>$4$</td> <td>$\\qquad$</td>     </tr> </tbody> </table> ③유리 <table border> <caption></caption>   <tbody>     <tr>       <td>$\\qquad$</td> <td>$1$</td> <td>$.\\qquad$</td> <td>$\\qquad$</td> <td>$\\qquad$</td> <td>$\\qquad$</td>     </tr> </tbody> </table> ④태연 <table border> <caption></caption>   <tbody>     <tr>       <td>$\\qquad$</td> <td>$\\qquad$</td> <td>$.\\qquad$</td> <td>$3$</td> <td>$\\qquad$</td> <td>$\\qquad$</td>     </tr> </tbody> </table> ⑤서현 <table border> <caption></caption>   <tbody>     <tr>       <td>$\\qquad$</td> <td>$\\qquad$</td> <td>$.\\qquad$</td> <td>$\\qquad$</td> <td>$0$</td> <td>$\\qquad$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            587,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            45,
+            217,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            74,
+            217,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            103,
+            217,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            132,
+            216,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            161,
+            217,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            186
+          ],
+          "text": "정아와 친구들은 $0$부터 $4$까지의 숫자가 쓰인 $5$장의 숫자 카드로 놀이를 하고 있습니다. 빈칸에 나머지 숫자 카드를 넣어 소수 세 자리 수를 만들 때, 가장 작은 소수를 만들 수 있는 사람은 누구입니까? (단, 십의 자리에는 $0$이 올 수 없습니다.) ①정아<table border> <caption></caption>   <tbody>     <tr>       <td>$\\qquad$</td> <td>$2$</td> <td>$.\\qquad$</td> <td>$\\qquad$</td> <td>$\\qquad$</td> <td>$\\qquad$</td>     </tr> </tbody> </table> ②수영 <table border> <caption></caption>   <tbody>     <tr>       <td>$\\qquad$</td> <td>$\\qquad$</td> <td>$.\\qquad$</td> <td>$\\qquad$</td> <td>$4$</td> <td>$\\qquad$</td>     </tr> </tbody> </table> ③유리 <table border> <caption></caption>   <tbody>     <tr>       <td>$\\qquad$</td> <td>$1$</td> <td>$.\\qquad$</td> <td>$\\qquad$</td> <td>$\\qquad$</td> <td>$\\qquad$</td>     </tr> </tbody> </table> ④태연 <table border> <caption></caption>   <tbody>     <tr>       <td>$\\qquad$</td> <td>$\\qquad$</td> <td>$.\\qquad$</td> <td>$3$</td> <td>$\\qquad$</td> <td>$\\qquad$</td>     </tr> </tbody> </table> ⑤서현 <table border> <caption></caption>   <tbody>     <tr>       <td>$\\qquad$</td> <td>$\\qquad$</td> <td>$.\\qquad$</td> <td>$\\qquad$</td> <td>$0$</td> <td>$\\qquad$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

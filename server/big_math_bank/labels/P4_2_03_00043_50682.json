@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50682.png",
+  "id": "00043_50682",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203018",
+      "question_topic_name": "소수 두 자리 수의 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "유진이는 학교에 갈 때 마을버스를 탑니다. 유진이가 타고 다니는 마을버스는 운행 거리를 $ 13.85 \\mathrm{~km} $에서 $ 16.32 \\mathrm{~km} $로 바꿨습니다. 운행거리는 얼마나 더 늘어났습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            178,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "유진이는 학교에 갈 때 마을버스를 탑니다. 유진이가 타고 다니는 마을버스는 운행 거리를 $ 13.85 \\mathrm{~km} $에서 $ 16.32 \\mathrm{~km} $로 바꿨습니다. 운행거리는 얼마나 더 늘어났습니까?"
+        }
+      ]
+    }
+  ]
+}

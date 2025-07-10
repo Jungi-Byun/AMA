@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_58078.png",
+  "id": "00043_58078",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지현이의 몸무게는 $ 31 \\mathrm{~kg~} 450 \\mathrm{~g} $이고 책가방의 무게는 $ 2 \\mathrm{~kg~} \\mathrm{300g} $입니다. 책가방을 멘 지현이가 몸무게가 $ 8 \\mathrm{~kg~} 650 \\mathrm{~g} $인 동생을 안고 무게를 재면 모두 몇 $ \\mathrm{kg} $ 몇 $ \\mathrm{g} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            170,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "지현이의 몸무게는 $ 31 \\mathrm{~kg~} 450 \\mathrm{~g} $이고 책가방의 무게는 $ 2 \\mathrm{~kg~} \\mathrm{300g} $입니다. 책가방을 멘 지현이가 몸무게가 $ 8 \\mathrm{~kg~} 650 \\mathrm{~g} $인 동생을 안고 무게를 재면 모두 몇 $ \\mathrm{kg} $ 몇 $ \\mathrm{g} $입니까?"
+        }
+      ]
+    }
+  ]
+}

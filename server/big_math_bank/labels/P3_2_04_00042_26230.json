@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00042_26230.png",
+  "id": "00042_26230",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 큰 수는 어느 것입니까?  ① $18$의 $ \\frac{1}{2} $ ② $16$의 $ \\frac{5}{8} $ ③ $32$의 $ \\frac{1}{4} $ ④ $20$의 $ \\frac{4}{5} $ ⑤ $49$의 $ \\frac{2}{7} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            182,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            93,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            93,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            107,
+            95,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            97,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            96,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            184,
+            224
+          ],
+          "text": "가장 큰 수는 어느 것입니까?  ① $18$의 $ \\frac{1}{2} $ ② $16$의 $ \\frac{5}{8} $ ③ $32$의 $ \\frac{1}{4} $ ④ $20$의 $ \\frac{4}{5} $ ⑤ $49$의 $ \\frac{2}{7} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00042_31187.png",
+  "id": "00042_31187",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 가분수에 모두 ◯표 하시오.  $ \\begin{array}{lllll}\\frac{5}{9} & \\frac{2}{7} & \\frac{5}{3} & \\frac{2}{15} & \\frac{13}{13}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            220,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            252,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            254,
+            66
+          ],
+          "text": "다음 중 가분수에 모두 ◯표 하시오.  $ \\begin{array}{lllll}\\frac{5}{9} & \\frac{2}{7} & \\frac{5}{3} & \\frac{2}{15} & \\frac{13}{13}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

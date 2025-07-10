@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_58055.png",
+  "id": "00043_58055",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현우네 학교에서는 불우 이웃을 돕기 위해 쌀을 모았습니다. 물음에 답하시오. < 1반 > $ $ < 2반 >  $ 5 \\mathrm{~kg} 200 \\mathrm{~g}  3 \\mathrm{~kg} \\mathrm{700g} $  (1) $1$반과 $2$반 친구들이 모은 쌀의 무게는 모두 몇 $ \\mathrm{~kg} $ 몇 $ \\mathrm{~g} $입니까? (2) 어느 반이 쌀을 몇 $ \\mathrm{~kg} $ 몇 $ \\mathrm{~g} $ 더 많이 모았습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            455,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            35,
+            21,
+            212,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            53,
+            220,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            385,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            308,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            470,
+            122
+          ],
+          "text": "현우네 학교에서는 불우 이웃을 돕기 위해 쌀을 모았습니다. 물음에 답하시오. < 1반 > $ $ < 2반 >  $ 5 \\mathrm{~kg} 200 \\mathrm{~g}  3 \\mathrm{~kg} \\mathrm{700g} $  (1) $1$반과 $2$반 친구들이 모은 쌀의 무게는 모두 몇 $ \\mathrm{~kg} $ 몇 $ \\mathrm{~g} $입니까? (2) 어느 반이 쌀을 몇 $ \\mathrm{~kg} $ 몇 $ \\mathrm{~g} $ 더 많이 모았습니까?"
+        }
+      ]
+    }
+  ]
+}

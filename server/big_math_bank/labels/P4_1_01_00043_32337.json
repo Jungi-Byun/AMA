@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32337.png",
+  "id": "00043_32337",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101004",
+      "question_topic_name": "십만, 백만, 천만 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "조건을 모두 만족하는 수 중에서 가장 작은 수를 구하시오.  ㆍ$5$자리 수입니다. ㆍ숫자 $0$이 $2$개 있습니다. ㆍ가장 높은 자리 숫자는 나머지 자리 숫자들을 더한 값과 같습니다",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            346,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            135,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            55,
+            175,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            75,
+            407,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            101
+          ],
+          "text": "조건을 모두 만족하는 수 중에서 가장 작은 수를 구하시오.  ㆍ$5$자리 수입니다. ㆍ숫자 $0$이 $2$개 있습니다. ㆍ가장 높은 자리 숫자는 나머지 자리 숫자들을 더한 값과 같습니다"
+        }
+      ]
+    }
+  ]
+}

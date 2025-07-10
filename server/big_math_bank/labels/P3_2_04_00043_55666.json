@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00043_55666.png",
+  "id": "00043_55666",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진분수를 모두 찾아 $\\bigcirc$표 하시오.  $ \\begin{array}{lllll}\\frac{5}{3} & \\frac{1}{4} & \\frac{3}{8} & \\frac{6}{6} & \\frac{10}{7}\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            204,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            23,
+            336,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            338,
+            59
+          ],
+          "text": "진분수를 모두 찾아 $\\bigcirc$표 하시오.  $ \\begin{array}{lllll}\\frac{5}{3} & \\frac{1}{4} & \\frac{3}{8} & \\frac{6}{6} & \\frac{10}{7}\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

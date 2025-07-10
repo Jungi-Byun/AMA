@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49506.png",
+  "id": "00043_49506",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201010",
+      "question_topic_name": "(몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "귤을 한 봉지에 $7$개씩 담았더니 $29$봉지가 되었습니다. 감을 한 봉지에 $6$개씩 담았더니 $33$봉지가 되었습니다. 귤과 감 중 어느 과일이 몇 개 더 많습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            95,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            41
+          ],
+          "text": "귤을 한 봉지에 $7$개씩 담았더니 $29$봉지가 되었습니다. 감을 한 봉지에 $6$개씩 담았더니 $33$봉지가 되었습니다. 귤과 감 중 어느 과일이 몇 개 더 많습니까?"
+        }
+      ]
+    }
+  ]
+}

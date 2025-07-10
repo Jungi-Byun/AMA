@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_03_00043_50435.png",
+  "id": "00043_50435",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203013",
+      "question_topic_name": "소수 두 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 작은 정사각형 $1$개의 크기를 $0.01$이라고 할 때 $ 0.45+0.28 $을 계산하려고 합니다. 물음에 답하시오. (1) $ 0.45 $만큼 빨간색으로 색칠하시오. (2) 이어서  $ 0.28 $만큼 파란색으로 색칠하시오. (3) $ \\square $  안에 알맞은 수를 써넣으시오. $ 0.45+0.28=   \\square $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            600,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            165,
+            230,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            187,
+            275,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            209,
+            225,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            231,
+            157,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            32,
+            152,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.51,
+            1.78,
+            599.27,
+            17.14
+          ],
+          "text": "가장 작은 정사각형 $1$개의 크기를 $0.01$이라고 할 때 $ 0.45+0.28 $을 계산하려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.07,
+            167.54,
+            274.79,
+            258.42
+          ],
+          "text": "(1) $ 0.45 $만큼 빨간색으로 색칠하시오. (2) 이어서  $ 0.28 $만큼 파란색으로 색칠하시오. (3) $ \\square $  안에 알맞은 수를 써넣으시오. $ 0.45+0.28=   \\square $"
+        }
+      ]
+    }
+  ]
+}

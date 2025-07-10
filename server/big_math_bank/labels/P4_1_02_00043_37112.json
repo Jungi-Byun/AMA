@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_02_00043_37112.png",
+  "id": "00043_37112",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102003",
+      "question_topic_name": "각도기를 이용하여 각도 재기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직선 ㄱㅅ 위의 한 교점 ㅇ에서 만나는 왼쪽부터 다섯 개의 반직선 ㄴㅇ, ㄷㅇ, ㄹㅇ, ㅁㅇ, ㅂㅇ으로 평각을 똑같은 크기로 나누고, 각 ㄴㅇㅁ의 크기가 표시된 그림",
+      "question_text": "다음 그림은 직선을 똑같은 크기의 각 $6$개로 나눈 것입니다. 물음에 답하시오.   ⑴ 직선 위의 한 점을 꼭짓점으로 하는 각의 크기는 몇 도입니까? ⑵ 가장 작은 각의 크기는 몇 도입니까? ⑶ 각 $ㄴㅇㅁ$의 크기는 몇 도입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            454,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            111,
+            383,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            133,
+            241,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            155,
+            224,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            23,
+            180,
+            109
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            456,
+            21
+          ],
+          "text": "다음 그림은 직선을 똑같은 크기의 각 $6$개로 나눈 것입니다. 물음에 답하시오.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            110,
+            385,
+            173
+          ],
+          "text": "⑴ 직선 위의 한 점을 꼭짓점으로 하는 각의 크기는 몇 도입니까? ⑵ 가장 작은 각의 크기는 몇 도입니까? ⑶ 각 $ㄴㅇㅁ$의 크기는 몇 도입니까?"
+        }
+      ]
+    }
+  ]
+}

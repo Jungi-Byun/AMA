@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_2_01_00043_49569.png",
+  "id": "00043_49569",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ 37 \\times 14 $를 어떻게 계산하는지 알아보시오. (1) 색칠된 모눈의 수를 각각 빈 곳에 곱셈식으로 쓰시오. (2) $ \\square $ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{l}37 \\times 14 \\\\ =30 \\times \\square+7 \\times 4+30 \\times 10+7 \\times \\square \\\\ =\\square+28+300+\\square \\\\ =\\square\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            248,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            216,
+            333,
+            233
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            238,
+            220,
+            255
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            259,
+            66,
+            274
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            282,
+            291,
+            310
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            313,
+            225,
+            340
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            344,
+            91,
+            371
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            33,
+            319,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.51,
+            1.96,
+            248.55,
+            16.04
+          ],
+          "text": "$ 37 \\times 14 $를 어떻게 계산하는지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.79,
+            217.64,
+            332.39,
+            371.88
+          ],
+          "text": "(1) 색칠된 모눈의 수를 각각 빈 곳에 곱셈식으로 쓰시오. (2) $ \\square $ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{l}37 \\times 14 \\\\ =30 \\times \\square+7 \\times 4+30 \\times 10+7 \\times \\square \\\\ =\\square+28+300+\\square \\\\ =\\square\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

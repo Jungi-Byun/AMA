@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_06_00043_54524.png",
+  "id": "00043_54524",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206004",
+      "question_topic_name": "대각선의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사각형을 보고 $\\square$ 안에 알맞은 기호를 써넣으시오. (1) 두 대각선의 길이가 같은 사각형은 $\\square,\\square$입니다. (2) 두 대각선이 서로 수직으로 만나는 사각형은 $\\square,\\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            300,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            215,
+            397,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.74,
+            195.89,
+            333.9,
+            213.81
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            30,
+            320,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            0.69,
+            299.98,
+            16.69
+          ],
+          "text": "사각형을 보고 $\\square$ 안에 알맞은 기호를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.02,
+            195.89,
+            397.26,
+            236.85
+          ],
+          "text": "(1) 두 대각선의 길이가 같은 사각형은 $\\square,\\square$입니다. (2) 두 대각선이 서로 수직으로 만나는 사각형은 $\\square,\\square$입니다."
+        }
+      ]
+    }
+  ]
+}

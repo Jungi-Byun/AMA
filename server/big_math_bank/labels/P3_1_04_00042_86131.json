@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_04_00042_86131.png",
+  "id": "00042_86131",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과수원에서 배를 바구니에는 $18$개씩 담고, 상자에는 $30$개씩 담았습니다. 바구니 $5$개와 상자 $4$개에 담은 배는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            738,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            740,
+            20
+          ],
+          "text": "과수원에서 배를 바구니에는 $18$개씩 담고, 상자에는 $30$개씩 담았습니다. 바구니 $5$개와 상자 $4$개에 담은 배는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

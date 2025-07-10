@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50568.png",
+  "id": "00043_50568",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203013",
+      "question_topic_name": "소수 두 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 가장 큰 수와 가장 작은 수의 합을 소수로 나타내시오. ㉠  $0.1$이 $7$개, $\\frac{1}{100}$이 $59$개인 수 ㉡ $\\frac{1}{10}$이 $8$개, $0.01$이 $35$개인 수 ㉢ $\\frac{1}{10}$이 $6$개, $\\frac{1}{100}$이 $47$개인 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            366,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            215,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            79,
+            219,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            121,
+            228,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            395,
+            158
+          ],
+          "text": "다음 중 가장 큰 수와 가장 작은 수의 합을 소수로 나타내시오. ㉠  $0.1$이 $7$개, $\\frac{1}{100}$이 $59$개인 수 ㉡ $\\frac{1}{10}$이 $8$개, $0.01$이 $35$개인 수 ㉢ $\\frac{1}{10}$이 $6$개, $\\frac{1}{100}$이 $47$개인 수"
+        }
+      ]
+    }
+  ]
+}

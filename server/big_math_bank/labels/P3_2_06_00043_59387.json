@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_06_00043_59387.png",
+  "id": "00043_59387",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민정이네 학교 $3$학년 학생들이 좋아하는 동물을 조사하여 나타낸 표입니다. 그림그래프를 완성하시오. <table border> <caption>좋아하는 동물별 학생 수</caption>   <tbody>     <tr>       <td>동물</td>       <td>강아지</td>       <td>고양이</td>       <td>햄스터</td>       <td>다람쥐</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수</td>       <td>$23$</td>       <td>$9$</td>       <td>$17$</td>       <td>$10$</td>       <td>$59$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            593,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            159,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            65,
+            313,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            142,
+            320,
+            334
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            595,
+            113
+          ],
+          "text": "민정이네 학교 $3$학년 학생들이 좋아하는 동물을 조사하여 나타낸 표입니다. 그림그래프를 완성하시오. <table border> <caption>좋아하는 동물별 학생 수</caption>   <tbody>     <tr>       <td>동물</td>       <td>강아지</td>       <td>고양이</td>       <td>햄스터</td>       <td>다람쥐</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수</td>       <td>$23$</td>       <td>$9$</td>       <td>$17$</td>       <td>$10$</td>       <td>$59$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_03_00040_21215.png",
+  "id": "00040_21215",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은주는 어머니를 따라 시장에 가서 포도를 샀습니다. 무게를 달 때 저울 눈금은 다음과 같았습니다. 가장 무거운 포도와 가장 가벼운 포도의 무게의 차는 몇 kg입니까? $0.84  kg 0.549 kg 0.81 kg$ ①$0.291 kg$ ②$1.241 kg$ ③$2.199 kg$ ④$2.425 kg$ ⑤$3.458 kg$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            20,
+            167,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            268,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            93,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            89,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            92,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            94,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            168,
+            94,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            189
+          ],
+          "text": "은주는 어머니를 따라 시장에 가서 포도를 샀습니다. 무게를 달 때 저울 눈금은 다음과 같았습니다. 가장 무거운 포도와 가장 가벼운 포도의 무게의 차는 몇 kg입니까? $0.84  kg 0.549 kg 0.81 kg$ ①$0.291 kg$ ②$1.241 kg$ ③$2.199 kg$ ④$2.425 kg$ ⑤$3.458 kg$"
+        }
+      ]
+    }
+  ]
+}

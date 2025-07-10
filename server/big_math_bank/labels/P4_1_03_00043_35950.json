@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_1_03_00043_35950.png",
+  "id": "00043_35950",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103012",
+      "question_topic_name": "(세 자리 수)÷(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사탕이 한 봉지에 $25$개씩 $8$봉지 있습니다. 이 사탕을 $40$명에게 똑같이 나누어 주려면, 한 사람에게 몇 개씩 주어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            711,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.17,
+            0.44,
+            715.17,
+            19.44
+          ],
+          "text": "사탕이 한 봉지에 $25$개씩 $8$봉지 있습니다. 이 사탕을 $40$명에게 똑같이 나누어 주려면, 한 사람에게 몇 개씩 주어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

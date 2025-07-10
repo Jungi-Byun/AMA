@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_03_00040_21664.png",
+  "id": "00040_21664",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203004",
+      "question_topic_name": "소수의 크기를 비교하는 방법 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 수직선을 이용하여 소수의 크기를 바르게 비교한 것은 어느 것입니까? ①$0.1>0.2$ ②$0.3>0.5$ ③$0.23<0.31$ ④$0.4<0.39$ ⑤$0.42<0.19$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            443,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            47,
+            91,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            69,
+            94,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            91,
+            106,
+            110
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            113,
+            102,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            135,
+            107,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            327,
+            44
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.56,
+            0.28,
+            443.52,
+            16.92
+          ],
+          "text": "다음 수직선을 이용하여 소수의 크기를 바르게 비교한 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21.76,
+            47.64,
+            107.52,
+            154.52
+          ],
+          "text": "①$0.1>0.2$ ②$0.3>0.5$ ③$0.23<0.31$ ④$0.4<0.39$ ⑤$0.42<0.19$"
+        }
+      ]
+    }
+  ]
+}

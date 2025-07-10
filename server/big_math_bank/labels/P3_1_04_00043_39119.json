@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_04_00043_39119.png",
+  "id": "00043_39119",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104005",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 모두 만족하는 두 수의 곱을 구하시오.  ㆍ두 수의 합은 26입니다. ㆍ두 수의 차는 16입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            275,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            173,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            55,
+            174,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            278,
+            74
+          ],
+          "text": "다음을 모두 만족하는 두 수의 곱을 구하시오.  ㆍ두 수의 합은 26입니다. ㆍ두 수의 차는 16입니다."
+        }
+      ]
+    }
+  ]
+}

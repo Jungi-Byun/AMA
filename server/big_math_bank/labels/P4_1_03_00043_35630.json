@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_03_00043_35630.png",
+  "id": "00043_35630",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "몫이 한 자리 수인 것에 ‘한’, 몫이 두 자리 수인 것에 ‘두’를 쓰시오.(1) $ 379 \\div 61( $ ) (2) $ 809 \\div 72() $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            388,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            135,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            142,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            390,
+            61
+          ],
+          "text": "몫이 한 자리 수인 것에 ‘한’, 몫이 두 자리 수인 것에 ‘두’를 쓰시오.(1) $ 379 \\div 61( $ ) (2) $ 809 \\div 72() $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00040_38312.png",
+  "id": "00040_38312",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 설명 중 옳지 않은 것은 어느 것입니까? ①452m는 0.452km입니다. ②250cm는 0.25m입니다. ③1515g은 1.515kg입니다. ④860g은 0.86kg입니다. ⑤2400mL는 2.4L입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            270,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            192,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            184,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            177,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            178,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            182,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            272,
+            130
+          ],
+          "text": "다음 설명 중 옳지 않은 것은 어느 것입니까? ①452m는 0.452km입니다. ②250cm는 0.25m입니다. ③1515g은 1.515kg입니다. ④860g은 0.86kg입니다. ⑤2400mL는 2.4L입니다."
+        }
+      ]
+    }
+  ]
+}

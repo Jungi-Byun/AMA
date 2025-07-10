@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00043_50594.png",
+  "id": "00043_50594",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203010",
+      "question_topic_name": "소수 한 자리 수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$0.9-0.5$는 얼마인지 알아보려고 합니다. 물음에 답하시오. (1) $0.9$는 $0.1$이 $\\square$개이고 $0.5$는 $0.1$이 $\\square$개입니다. (2) $0.9-0.5$는 $0.1$이 몇 개입니까? (3) $0.9-0.5$=$\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            347,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            162,
+            337,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            191,
+            213,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            213,
+            134,
+            239
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            33,
+            222,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            0,
+            347,
+            17.91
+          ],
+          "text": "$0.9-0.5$는 얼마인지 알아보려고 합니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            161.91,
+            339,
+            239.91
+          ],
+          "text": "(1) $0.9$는 $0.1$이 $\\square$개이고 $0.5$는 $0.1$이 $\\square$개입니다. (2) $0.9-0.5$는 $0.1$이 몇 개입니까? (3) $0.9-0.5$=$\\square$"
+        }
+      ]
+    }
+  ]
+}

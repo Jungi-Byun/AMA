@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00044_36800.png",
+  "id": "00044_36800",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204007",
+      "question_topic_name": "평행선 사이의 거리 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "6 cm인 변이 밑변이며 네 변의 길이가 각각 11 cm, 6 cm, 8 cm, 7 cm이고 6 cm인 변과 11 cm, 6 cm인 변과 8 cm인 변이 각각 수직으로 만나고 11 cm인 변과 6 cm인 변이 만나는 꼭짓점에서 그은 대각선의 길이가 10 cm인 사다리꼴",
+      "question_text": "다음 도형에서 평행선 사이의 거리는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            310,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            13,
+            184,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            312,
+            21
+          ],
+          "text": "다음 도형에서 평행선 사이의 거리는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

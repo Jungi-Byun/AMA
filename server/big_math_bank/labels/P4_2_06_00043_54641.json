@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_06_00043_54641.png",
+  "id": "00043_54641",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206004",
+      "question_topic_name": "대각선의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다각형 중에서 그을 수 있는 대각선의 수가 가장 많은 도형과 가장 적은 도형의 대각선 수의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            618,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            29,
+            321,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            620,
+            22
+          ],
+          "text": "다각형 중에서 그을 수 있는 대각선의 수가 가장 많은 도형과 가장 적은 도형의 대각선 수의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

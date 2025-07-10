@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_03_00043_53632.png",
+  "id": "00043_53632",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원에 대해 바르게 말한 사람을 찾아 이름을 쓰시오. 예원 : 한 원에서 반지름은 지름의 $2$배야. 주희 : 원의 중심은 셀 수 없을 만큼 많아. 정현 : 원의 지름은 원을 똑같이 둘로 나눠. 유빈 : 원 위의 두 점을 이은 선분 중 가장 긴 선분은 반지름이야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            259,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            54,
+            258,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            74,
+            265,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            96,
+            387,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            389,
+            123
+          ],
+          "text": "원에 대해 바르게 말한 사람을 찾아 이름을 쓰시오. 예원 : 한 원에서 반지름은 지름의 $2$배야. 주희 : 원의 중심은 셀 수 없을 만큼 많아. 정현 : 원의 지름은 원을 똑같이 둘로 나눠. 유빈 : 원 위의 두 점을 이은 선분 중 가장 긴 선분은 반지름이야."
+        }
+      ]
+    }
+  ]
+}

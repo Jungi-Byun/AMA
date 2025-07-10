@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_25486.png",
+  "id": "00042_25486",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변 ㄴㄷ의 길이가 16 cm, 변 ㄱㄴ의 길이가 10 cm인 색칠한 직사각형 ㄱㄴㄷㄹ을 변 ㄱㄹ 위의 점 ㅁ과 변 ㄴㄷ 위의 점 ㅅ을 이은 선분 ㅁㅅ으로 나눈 정사각형 ㄱㄴㅅㅁ, 선분 ㅁㅅ 위의 점 ㅂ과 변 ㄷㄹ 위의 점 ㅇ을 이은 선분 ㅂㅇ으로 나눈 정사각형 ㅁㅂㅇㄹ과 직사각형 ㅂㅅㄷㅇ",
+      "question_text": "그림과 같이 직사각형 ㄱㄴㄷㄹ을 정사각형 $2$ 개와 직사각형 $1$ 개로 나누었습니다. 직사각형 ㅂㅅㄷㅇ의 네 변의 길이의 합은 몇 $ \\mathrm{cm} $ 입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            23,
+            211,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            23
+          ],
+          "text": "그림과 같이 직사각형 ㄱㄴㄷㄹ을 정사각형 $2$ 개와 직사각형 $1$ 개로 나누었습니다. 직사각형 ㅂㅅㄷㅇ의 네 변의 길이의 합은 몇 $ \\mathrm{cm} $ 입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_51940.png",
+  "id": "00043_51940",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204002",
+      "question_topic_name": "삼각자와 각도기를 이용한 수선 긋기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "수평으로 그어진 직선 가 위에 중심점이 ㅇ인 반원 모양의 각도기가 그려져 있고, 각도기의 바깥쪽에 있는 각을 기준으로 40도에 점 ㄷ, 60도에 점 ㄹ, 90도에 점 ㅁ, 100도에 점 ㅂ, 160도에 점 ㅅ이 찍혀 있는 그림",
+      "question_text": "점 ㅇ을 지나고 직선 가에 대한 수선을 그으려면 점 ㅇ과 어느 점을 이어야 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            483,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            33,
+            293,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            485,
+            23
+          ],
+          "text": "점 ㅇ을 지나고 직선 가에 대한 수선을 그으려면 점 ㅇ과 어느 점을 이어야 합니까?"
+        }
+      ]
+    }
+  ]
+}

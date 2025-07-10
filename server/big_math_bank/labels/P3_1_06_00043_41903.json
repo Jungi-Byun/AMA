@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_41903.png",
+  "id": "00043_41903",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우주에서 태양계는 태양과 태양 주변을 돌고 있는 $8$개의 행성과 혜성, 유성체 등으로 이루어진 모임으로 지구도 태양계에 속하는 행성입니다. 지구와 태양 사이의 거리를 $1$이라고 할 때 태양과 각 행성과의 거리는 다음과 같습니다. 태양에서 두 번째로 가까운 행성의 거리는 $0.1$이 $\\square$개, 네 번째로 먼 행성의 거리는 $0.1$이 $\\triangle$개일 때, $\\square+\\triangle$를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            799,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            411,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            404,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            133
+          ],
+          "text": "우주에서 태양계는 태양과 태양 주변을 돌고 있는 $8$개의 행성과 혜성, 유성체 등으로 이루어진 모임으로 지구도 태양계에 속하는 행성입니다. 지구와 태양 사이의 거리를 $1$이라고 할 때 태양과 각 행성과의 거리는 다음과 같습니다. 태양에서 두 번째로 가까운 행성의 거리는 $0.1$이 $\\square$개, 네 번째로 먼 행성의 거리는 $0.1$이 $\\triangle$개일 때, $\\square+\\triangle$를 구하시오."
+        }
+      ]
+    }
+  ]
+}

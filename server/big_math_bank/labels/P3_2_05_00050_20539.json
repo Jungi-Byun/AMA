@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_05_00050_20539.png",
+  "id": "00050_20539",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진명이네 마을에서는 불우 이웃을 돕기 위한 바자회에 물건을 다음과 같이 기증했습니다. 진명이네 마을에서 기증한 물건이 모두 $2.4\\mathrm{t}$이라면 가구는 몇 $\\mathrm{kg}$입니까? <기증한 물건의 무게>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            796,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            155,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            65,
+            47,
+            192,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            67,
+            243,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            183
+          ],
+          "text": "진명이네 마을에서는 불우 이웃을 돕기 위한 바자회에 물건을 다음과 같이 기증했습니다. 진명이네 마을에서 기증한 물건이 모두 $2.4\\mathrm{t}$이라면 가구는 몇 $\\mathrm{kg}$입니까? <기증한 물건의 무게>"
+        }
+      ]
+    }
+  ]
+}

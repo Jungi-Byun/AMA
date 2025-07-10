@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00042_54029.png",
+  "id": "00042_54029",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "새장을 한 개 만드는 데 철사가 $ 96 \\mathrm{~cm} $ 필요합니다. 새장 27 개를 만들려면 철사가 모두 몇 cm 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            613,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            615,
+            21
+          ],
+          "text": "새장을 한 개 만드는 데 철사가 $ 96 \\mathrm{~cm} $ 필요합니다. 새장 27 개를 만들려면 철사가 모두 몇 cm 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

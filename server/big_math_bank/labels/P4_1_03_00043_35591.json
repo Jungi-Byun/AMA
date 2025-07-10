@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_35591.png",
+  "id": "00043_35591",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "몫이 두 자리 수인 나눗셈에 $\\bigcirc$ 표 하시오. <table border>   <tbody>     <tr>       <td>$495 \\div 95~~$</td>       <td>$~~~~~~~~$</td>     </tr>     <tr>       <td>$348 \\div 67~~$</td>       <td>$~~~~~~~~$</td>     </tr>     <tr>       <td>$926 \\div 77~~$</td>       <td>$~~~~~~~~$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            249,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            115,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            251,
+            95
+          ],
+          "text": "몫이 두 자리 수인 나눗셈에 $\\bigcirc$ 표 하시오. <table border>   <tbody>     <tr>       <td>$495 \\div 95~~$</td>       <td>$~~~~~~~~$</td>     </tr>     <tr>       <td>$348 \\div 67~~$</td>       <td>$~~~~~~~~$</td>     </tr>     <tr>       <td>$926 \\div 77~~$</td>       <td>$~~~~~~~~$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

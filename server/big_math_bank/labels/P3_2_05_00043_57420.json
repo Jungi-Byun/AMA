@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57420.png",
+  "id": "00043_57420",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영준이는 같은 양의 우유를 모양과 크기가 다른 그릇에 각각 옮겨 담았더니 다음과 같았습니다. 두 그릇의 들이를 비교하여 $\\bigcirc$ 안에 $>,<$를 알맞게 써넣으시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            129,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            46,
+            302,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            41
+          ],
+          "text": "영준이는 같은 양의 우유를 모양과 크기가 다른 그릇에 각각 옮겨 담았더니 다음과 같았습니다. 두 그릇의 들이를 비교하여 $\\bigcirc$ 안에 $>,<$를 알맞게 써넣으시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00042_93519.png",
+  "id": "00042_93519",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "털실을 똑같이 $7$도막으로 나누어 그중의 $4$도막을 사용하였습니다. 사용한 털실은 전체의 몇 분의 몇입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            625,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            627,
+            21
+          ],
+          "text": "털실을 똑같이 $7$도막으로 나누어 그중의 $4$도막을 사용하였습니다. 사용한 털실은 전체의 몇 분의 몇입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_04_00043_38398.png",
+  "id": "00043_38398",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104005",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$32\\times4$의 곱을 구하는 방법입니다. $\\square$ 안에 알맞은 수를 써넣으시오. $32$의 $2$배는 $\\square$이므로 $\\square \\times \\square = \\square$ 이야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            394,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            21,
+            177,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            63,
+            212,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            398,
+            91
+          ],
+          "text": "$32\\times4$의 곱을 구하는 방법입니다. $\\square$ 안에 알맞은 수를 써넣으시오. $32$의 $2$배는 $\\square$이므로 $\\square \\times \\square = \\square$ 이야."
+        }
+      ]
+    }
+  ]
+}

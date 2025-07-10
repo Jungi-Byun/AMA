@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00042_52550.png",
+  "id": "00042_52550",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "쿠키를 한 봉지에 $50$개씩 넣어 $60$봉지를 만들었습니다. $60$봉지에 넣은 쿠키는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            572,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            574,
+            21
+          ],
+          "text": "쿠키를 한 봉지에 $50$개씩 넣어 $60$봉지를 만들었습니다. $60$봉지에 넣은 쿠키는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

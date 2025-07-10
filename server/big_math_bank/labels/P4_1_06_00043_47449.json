@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_06_00043_47449.png",
+  "id": "00043_47449",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106002",
+      "question_topic_name": "수 배열에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수영이가 말한 수를 듣고 경호가 정한 규칙에 넣어 대답한 수를 기록한 표입니다. 물음에 답하시오. <table border> <caption>Title</caption>   <tbody>     <tr>       <td>수영</td>       <td>2</td>       <td>4</td>       <td>6</td>       <td>8</td>     </tr>     <tr>       <td>경호</td>       <td>4</td>       <td>8</td>       <td>12</td>       <td>16</td>     </tr> </tbody> </table> ⑴ 경호가 정한 규칙은 무엇입니까?(수영이가 말한 수)×$\\square$ ⑵ 수영이가 $10$을 말했다면 경호가 대답한 수는 얼마입니까?⑶ 경호가 $24$라고 대답했다면 수영이가 말한 수는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            570,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            17,
+            174,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            95,
+            220,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            115,
+            179,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            139,
+            361,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            161,
+            375,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            574,
+            179
+          ],
+          "text": "수영이가 말한 수를 듣고 경호가 정한 규칙에 넣어 대답한 수를 기록한 표입니다. 물음에 답하시오. <table border> <caption>Title</caption>   <tbody>     <tr>       <td>수영</td>       <td>2</td>       <td>4</td>       <td>6</td>       <td>8</td>     </tr>     <tr>       <td>경호</td>       <td>4</td>       <td>8</td>       <td>12</td>       <td>16</td>     </tr> </tbody> </table> ⑴ 경호가 정한 규칙은 무엇입니까?(수영이가 말한 수)×$\\square$ ⑵ 수영이가 $10$을 말했다면 경호가 대답한 수는 얼마입니까?⑶ 경호가 $24$라고 대답했다면 수영이가 말한 수는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

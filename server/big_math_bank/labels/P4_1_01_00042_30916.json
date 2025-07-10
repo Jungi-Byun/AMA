@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_1_01_00042_30916.png",
+  "id": "00042_30916",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억 단위 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉠이 나타내는 수는 ㉡이 나타내는 수의 몇 배입니까? $ 18\\underset{㉠}{\\underline{4}}66\\underset㉡{\\underline{4}}325$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            115,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            49,
+            89,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            323,
+            73
+          ],
+          "text": "㉠이 나타내는 수는 ㉡이 나타내는 수의 몇 배입니까? $ 18\\underset{㉠}{\\underline{4}}66\\underset㉡{\\underline{4}}325$"
+        }
+      ]
+    }
+  ]
+}

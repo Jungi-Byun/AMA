@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00043_49609.png",
+  "id": "00043_49609",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보영이는 위인전을 하루에 $28$쪽씩 $13$일 동안 읽었더니 모두 읽었습니다. 위인전은 모두 몇 쪽입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            588,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            590,
+            21
+          ],
+          "text": "보영이는 위인전을 하루에 $28$쪽씩 $13$일 동안 읽었더니 모두 읽었습니다. 위인전은 모두 몇 쪽입니까?"
+        }
+      ]
+    }
+  ]
+}

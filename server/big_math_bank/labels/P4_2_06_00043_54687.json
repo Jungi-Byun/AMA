@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_06_00043_54687.png",
+  "id": "00043_54687",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206006",
+      "question_topic_name": "모양 만들기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "모양 조각을 사용하여 두 가지 방법으로 사다리꼴을 만들어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            396,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            34,
+            317,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            399,
+            22
+          ],
+          "text": "모양 조각을 사용하여 두 가지 방법으로 사다리꼴을 만들어 보시오."
+        }
+      ]
+    }
+  ]
+}

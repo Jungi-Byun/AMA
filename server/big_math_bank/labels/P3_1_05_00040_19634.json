@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_05_00040_19634.png",
+  "id": "00040_19634",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영수는 우리나라에서 가장 높은 빌딩에서 엘리베이터를 탔습니다. $1$층에서 꼭대기 층까지 가는 데 $2분 3초$가 걸렸습니다. 엘리베이터를 탄 시간은 몇 초입니까? ① $23$초 ② $63$초 ③ $123$초 ④ $203$초 ⑤ $300$초",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            137,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            73,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            74,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            79,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            82,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            131,
+            84,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            152
+          ],
+          "text": "영수는 우리나라에서 가장 높은 빌딩에서 엘리베이터를 탔습니다. $1$층에서 꼭대기 층까지 가는 데 $2분 3초$가 걸렸습니다. 엘리베이터를 탄 시간은 몇 초입니까? ① $23$초 ② $63$초 ③ $123$초 ④ $203$초 ⑤ $300$초"
+        }
+      ]
+    }
+  ]
+}

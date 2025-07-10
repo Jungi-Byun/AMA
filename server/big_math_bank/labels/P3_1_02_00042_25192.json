@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_25192.png",
+  "id": "00042_25192",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102010",
+      "question_topic_name": "직사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직사각형 모양이 없는 물건을 모두 찾아 기호를 쓰시오.  ㉠ 우유갑 ㉡ 공 ㉢ 수학책 ㉣ 바퀴",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            329,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            235,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            333,
+            57
+          ],
+          "text": "직사각형 모양이 없는 물건을 모두 찾아 기호를 쓰시오.  ㉠ 우유갑 ㉡ 공 ㉢ 수학책 ㉣ 바퀴"
+        }
+      ]
+    }
+  ]
+}

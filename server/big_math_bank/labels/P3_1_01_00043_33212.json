@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_01_00043_33212.png",
+  "id": "00043_33212",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "샛별 초등학교 전교 어린이 회장 선거의 결과입니다. 회장 후보는 수현, 지현으로 $2$명입니다. 전교 어린이 회장으로 지현이가 당선되었습니다. 지현이는 수현이보다 몇 표 더 많이 얻었습니까? <전교 어린이 회장 투표 결과> 수현 : $453$표  지현 : $465$표",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            608,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            497,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            46,
+            201,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            76,
+            101,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            97,
+            101,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            611,
+            116
+          ],
+          "text": "샛별 초등학교 전교 어린이 회장 선거의 결과입니다. 회장 후보는 수현, 지현으로 $2$명입니다. 전교 어린이 회장으로 지현이가 당선되었습니다. 지현이는 수현이보다 몇 표 더 많이 얻었습니까? <전교 어린이 회장 투표 결과> 수현 : $453$표  지현 : $465$표"
+        }
+      ]
+    }
+  ]
+}

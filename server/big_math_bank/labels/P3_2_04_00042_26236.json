@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_04_00042_26236.png",
+  "id": "00042_26236",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연필이 $4$타 있습니다. ㉮ 필통에는 전체의 $ \\frac{3}{8} $을 넣고, ㉯ 필통에는 ㉮ 필통에 넣고 남은 연필의 $ \\frac{2}{5} $를 넣었습니다. 두 필통에 넣고 남은 연필은 몇 자루입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            800,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            42,
+            137,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            60
+          ],
+          "text": "연필이 $4$타 있습니다. ㉮ 필통에는 전체의 $ \\frac{3}{8} $을 넣고, ㉯ 필통에는 ㉮ 필통에 넣고 남은 연필의 $ \\frac{2}{5} $를 넣었습니다. 두 필통에 넣고 남은 연필은 몇 자루입니까?"
+        }
+      ]
+    }
+  ]
+}

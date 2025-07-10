@@ -1,0 +1,159 @@
+{
+  "question_filename": "P4_2_02_00042_83950.png",
+  "id": "00042_83950",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202007",
+      "question_topic_name": "정삼각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변의 길이가 9 cm이고 두 개의 밑각의 크기가 60도인 삼각형",
+      "question_text": "주어진 삼각형에 해당하는 것끼리만 모은 것은 어느 것입니까? ㉠ 이등변삼각형 ㉡ 정삼각형 ㉢ 예각삼각형 ㉣ 둔각삼각형 ①㉠, ㉢ ②㉡, ㉢ ③㉠, ㉡, ㉢④㉠, ㉢, ㉣ ⑤㉡, ㉢, ㉣",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            372,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23.5,
+            169.45,
+            118.22,
+            186.09
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.78,
+            192.49,
+            91.98,
+            208.49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26.06,
+            213.61,
+            105.42,
+            228.97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.78,
+            235.37,
+            106.06,
+            251.37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.23,
+            281.65,
+            78.23,
+            306.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.23,
+            307.65,
+            100.23,
+            327.65
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.23,
+            349.27,
+            100.23,
+            373.27
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.23,
+            325.27,
+            99.23,
+            349.27
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21.23,
+            261.27,
+            79.23,
+            281.27
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            22,
+            146,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.74,
+            1.13,
+            371.66,
+            17.77
+          ],
+          "text": "주어진 삼각형에 해당하는 것끼리만 모은 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.23,
+            168.27,
+            119.23,
+            373.27
+          ],
+          "text": "㉠ 이등변삼각형 ㉡ 정삼각형 ㉢ 예각삼각형 ㉣ 둔각삼각형 ①㉠, ㉢ ②㉡, ㉢ ③㉠, ㉡, ㉢④㉠, ㉢, ㉣ ⑤㉡, ㉢, ㉣"
+        }
+      ]
+    }
+  ]
+}

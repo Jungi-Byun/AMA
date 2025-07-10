@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_01_00042_02656.png",
+  "id": "00042_02656",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 수의 합이 $600$보다 큰 것에 모두 $\\bigcirc$표 하시오.  $ 376+127  152+468 $ $ 284+336  167+274 $ $ 384+278  385+125 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            296,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            26,
+            148,
+            52
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            52,
+            154,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            75,
+            154,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            618,
+            101
+          ],
+          "text": "두 수의 합이 $600$보다 큰 것에 모두 $\\bigcirc$표 하시오.  $ 376+127  152+468 $ $ 284+336  167+274 $ $ 384+278  385+125 $"
+        }
+      ]
+    }
+  ]
+}

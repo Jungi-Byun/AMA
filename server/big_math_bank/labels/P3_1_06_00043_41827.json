@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_41827.png",
+  "id": "00043_41827",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영미와 재석이는 똑같은 생수를 한 병씩 가지고 있습니다. 이 생수를 영미는 $ \\frac{3}{4} $만큼 마셨고, 재석이는 $ \\frac{4}{5} $만큼 마셨습니다. 남은 생수의 양은 누가 더 많습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            41,
+            140,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            59
+          ],
+          "text": "영미와 재석이는 똑같은 생수를 한 병씩 가지고 있습니다. 이 생수를 영미는 $ \\frac{3}{4} $만큼 마셨고, 재석이는 $ \\frac{4}{5} $만큼 마셨습니다. 남은 생수의 양은 누가 더 많습니까?"
+        }
+      ]
+    }
+  ]
+}

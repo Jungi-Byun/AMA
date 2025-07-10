@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_2_03_00042_92751.png",
+  "id": "00042_92751",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203015",
+      "question_topic_name": "소수 두 자리 수의 덧셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은석이네 집에서 각 장소까지의 거리를 나타낸 것입니다. 물음에 답하시오. (1) 은석이네 집에서 병원을 다녀오는 거리는 몇 $ \\mathrm{km} $입니까? (2) 학교에서 은석이네 집을 지나 도서관까지의 거리는 몇 $ \\mathrm{km} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            437,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            179,
+            354,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            204,
+            411,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            16.87,
+            21.26,
+            341.35,
+            178.7
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.43,
+            2.7,
+            436.71,
+            16.78
+          ],
+          "text": "은석이네 집에서 각 장소까지의 거리를 나타낸 것입니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.87,
+            182.54,
+            411.11,
+            220.94
+          ],
+          "text": "(1) 은석이네 집에서 병원을 다녀오는 거리는 몇 $ \\mathrm{km} $입니까? (2) 학교에서 은석이네 집을 지나 도서관까지의 거리는 몇 $ \\mathrm{km} $입니까?"
+        }
+      ]
+    }
+  ]
+}

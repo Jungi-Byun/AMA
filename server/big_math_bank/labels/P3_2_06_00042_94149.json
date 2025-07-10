@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_06_00042_94149.png",
+  "id": "00042_94149",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 재호네 마을에서 기르고 있는 가축의 수를 조사한 표입니다. 이것을 그림그래프로 소의 수를 다음과 같이 나타내었습니다. <table border> <caption></caption>   <tbody>     <tr>       <td>종류</td>       <td>오리</td> <td> 닭</td> <td>소</td> <td>  돼지</td>       <td>기타</td>       <td>합계</td>     </tr>     <tr>       <td>가축수(마리)</td>       <td>$60$</td>   <td>$180$</td> <td>$70$</td><td>$140$</td>       <td>$70$</td>       <td>$620$</td>     </tr> </tbody> </table> 이때, 닭의 수를 바르게 나타낸 것은 어느 것입니까? 가축의 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            744,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            304,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            158,
+            311,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            202,
+            76,
+            219
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            106,
+            129,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            234,
+            238,
+            503
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            746,
+            72
+          ],
+          "text": "다음은 재호네 마을에서 기르고 있는 가축의 수를 조사한 표입니다. 이것을 그림그래프로 소의 수를 다음과 같이 나타내었습니다. <table border> <caption></caption>   <tbody>     <tr>       <td>종류</td>       <td>오리</td> <td> 닭</td> <td>소</td> <td>  돼지</td>       <td>기타</td>       <td>합계</td>     </tr>     <tr>       <td>가축수(마리)</td>       <td>$60$</td>   <td>$180$</td> <td>$70$</td><td>$140$</td>       <td>$70$</td>       <td>$620$</td>     </tr> </tbody> </table>"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            157,
+            313,
+            220
+          ],
+          "text": "이때, 닭의 수를 바르게 나타낸 것은 어느 것입니까? 가축의 수"
+        }
+      ]
+    }
+  ]
+}

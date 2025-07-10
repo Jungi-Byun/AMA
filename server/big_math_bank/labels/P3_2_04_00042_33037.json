@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_04_00042_33037.png",
+  "id": "00042_33037",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민주는 구슬을 $32$개 가지고 있습니다. 그중에서 $ \\frac{1}{8} $을 친구에게 주었습니다. 남은 구슬은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            599,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            601,
+            38
+          ],
+          "text": "민주는 구슬을 $32$개 가지고 있습니다. 그중에서 $ \\frac{1}{8} $을 친구에게 주었습니다. 남은 구슬은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

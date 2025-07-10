@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50340.png",
+  "id": "00043_50340",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지나가 가진 우유의 양은 주현이보다 많고 선아보다 적습니다. 지나가 가진 우유의 양은 몇 $mL$인지 구하시오. 주현 : $1L$짜리 $1$개, $0.1 L$짜리 $2$개, $0.01 L$짜리 $1$개 선아 : $1 L$짜리 $1$개, $0.1 L$짜리 $2$개, $0.01 L$짜리 $3$개 지나 : $\\square.\\square\\square L$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            631,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            21,
+            309,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            53,
+            312,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            124,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            718,
+            100
+          ],
+          "text": "지나가 가진 우유의 양은 주현이보다 많고 선아보다 적습니다. 지나가 가진 우유의 양은 몇 $mL$인지 구하시오. 주현 : $1L$짜리 $1$개, $0.1 L$짜리 $2$개, $0.01 L$짜리 $1$개 선아 : $1 L$짜리 $1$개, $0.1 L$짜리 $2$개, $0.01 L$짜리 $3$개 지나 : $\\square.\\square\\square L$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_06_00043_42347.png",
+  "id": "00043_42347",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "띠 테이프를 보고 $\\square$ 안에 알맞은 수를 써넣으시오. ⑴ 띠 테이프의 색칠한 부분을 분수로 나타내면 $\\frac{\\square }{\\square}$입니다. ⑵ 색칠한 부분을 소수로 $\\square$이라고 씁니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            68,
+            407,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            115,
+            334,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24.1,
+            21.9,
+            284.1,
+            65.9
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            1.9,
+            304.1,
+            17.9
+          ],
+          "text": "띠 테이프를 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.1,
+            65.9,
+            408.1,
+            137.9
+          ],
+          "text": "⑴ 띠 테이프의 색칠한 부분을 분수로 나타내면 $\\frac{\\square }{\\square}$입니다. ⑵ 색칠한 부분을 소수로 $\\square$이라고 씁니다."
+        }
+      ]
+    }
+  ]
+}

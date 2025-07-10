@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00043_35187.png",
+  "id": "00043_35187",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "크기가 다른 정사각형 3개를 겹치지 않고 밑변을 이어지게 붙인 도형이며 왼쪽에 있는 정사각형은 한 변의 길이가 5 cm인 정사각형 ㄱㄴㄷㅊ이고 그 다음으로 큰 가운데 정사각형 ㅈㄷㄹㅇ, 가장 큰 오른쪽 정사각형은 한 변의 길이가 11 cm인 정사각형 ㅅㄹㅁㅂ이며 선분 ㄴㅁ의 길이가 23 cm인 도형",
+      "question_text": "다음은 크기가 다른 정사각형 $3$개를 겹치지 않게 이어 붙여서 만든 도형입니다. 선분 ㅅㅇ은 몇  $\\mathrm{cm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            618,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            27,
+            279,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            620,
+            20
+          ],
+          "text": "다음은 크기가 다른 정사각형 $3$개를 겹치지 않게 이어 붙여서 만든 도형입니다. 선분 ㅅㅇ은 몇  $\\mathrm{cm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

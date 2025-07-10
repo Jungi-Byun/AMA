@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00043_50574.png",
+  "id": "00043_50574",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203015",
+      "question_topic_name": "소수 두 자리 수의 덧셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "맨 위부터 시계방향으로 학교, 병원, 빵집, 서희네 집이 있으며, 학교에서 병원, 병원에서 빵집, 빵집에서 서희네 집, 서희네 집에서 학교까지의 거리가 각 1.84 km, 2.76 km, 1.46 km, 2.5 km인 그림",
+      "question_text": "서희네 집에서 병원을 가는 데 학교와 빵집 중에서 어느 곳을 지나서 가는 것이 더 가깝습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            551,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            32,
+            313,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            553,
+            23
+          ],
+          "text": "서희네 집에서 병원을 가는 데 학교와 빵집 중에서 어느 곳을 지나서 가는 것이 더 가깝습니까?"
+        }
+      ]
+    }
+  ]
+}

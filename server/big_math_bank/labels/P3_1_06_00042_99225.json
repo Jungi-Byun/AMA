@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_06_00042_99225.png",
+  "id": "00042_99225",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분수의 크기를 비교하여 ◯ 안에 >, <를 알맞게 써넣으시오. (1) $ \\frac{5}{9} \\bigcirc \\frac{7}{9} $ (2) $ \\frac{3}{5} \\bigcirc \\frac{1}{5} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            354,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            56,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            90,
+            24,
+            116,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            152,
+            23,
+            190,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            227,
+            24,
+            247,
+            44
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            62,
+            29,
+            89,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            196,
+            29,
+            222,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            356,
+            59
+          ],
+          "text": "분수의 크기를 비교하여 ◯ 안에 >, <를 알맞게 써넣으시오. (1) $ \\frac{5}{9} \\bigcirc \\frac{7}{9} $ (2) $ \\frac{3}{5} \\bigcirc \\frac{1}{5} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00044_36845.png",
+  "id": "00044_36845",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204007",
+      "question_topic_name": "평행선 사이의 거리 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "3 cm인 윗변 ㄱㄹ, 7 cm인 변 ㄱㄴ, 8 cm인 아랫변 ㄴㄷ, 변 ㄷㄹ로 이루어진 사각형 ㄱㄴㄷㄹ의 점 ㄷ에서 변 ㄱㄹ의 연장선에 내린 수선의 발이 ㅁ이고 선분 ㄷㅁ이 6 cm, 각 ㅁㄷㄴ이 직각, 선분 ㄹㅁ, 선분 ㄷㅁ은 점선인 평면도형",
+      "question_text": "다음 도형에서 평행선 사이의 거리는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            310,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            32,
+            192,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            312,
+            22
+          ],
+          "text": "다음 도형에서 평행선 사이의 거리는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

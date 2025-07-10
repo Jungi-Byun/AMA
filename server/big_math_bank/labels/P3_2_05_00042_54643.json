@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_54643.png",
+  "id": "00042_54643",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205022",
+      "question_topic_name": "무게 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게가 $2\\mathrm{kg}$인 강아지의 무게를 어림해 보았습니다. 누가 강아지의 실제 무게에 가장 가깝게 어림하였습니까?  <table border>   <tbody>     <tr>       <td>이름</td>       <td>어림한 무게</td>     </tr>     <tr>       <td>철회</td>       <td>1650g</td>     </tr>     <tr>       <td>윤수</td>       <td>1870g</td>     </tr>     <tr>       <td>진아</td>       <td>2300g</td>     </tr>     <tr>       <td>선주</td>       <td>920g</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            631,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            145,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            634,
+            139
+          ],
+          "text": "무게가 $2\\mathrm{kg}$인 강아지의 무게를 어림해 보았습니다. 누가 강아지의 실제 무게에 가장 가깝게 어림하였습니까?  <table border>   <tbody>     <tr>       <td>이름</td>       <td>어림한 무게</td>     </tr>     <tr>       <td>철회</td>       <td>1650g</td>     </tr>     <tr>       <td>윤수</td>       <td>1870g</td>     </tr>     <tr>       <td>진아</td>       <td>2300g</td>     </tr>     <tr>       <td>선주</td>       <td>920g</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

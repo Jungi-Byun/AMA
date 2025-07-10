@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_05_00043_40694.png",
+  "id": "00043_40694",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $km$ 단위로 나타내기에 가장 알맞은 것을 찾아 기호를 쓰시오. ㉠ 누나의 키㉡ 서울에서 전주까지의 거리㉢ 연필심의 길이㉢ $1$분 동안 걸어 갈 수 있는 거리",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            410,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            105,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            55,
+            194,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            74,
+            129,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            98,
+            212,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            410,
+            119
+          ],
+          "text": "다음 중 $km$ 단위로 나타내기에 가장 알맞은 것을 찾아 기호를 쓰시오. ㉠ 누나의 키㉡ 서울에서 전주까지의 거리㉢ 연필심의 길이㉢ $1$분 동안 걸어 갈 수 있는 거리"
+        }
+      ]
+    }
+  ]
+}

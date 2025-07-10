@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00042_52593.png",
+  "id": "00042_52593",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "컴퍼스로 원을 그릴 때 원의 크기와 관계 있는 것은 어느 것입니까? ①원의 중심 ②원의 반지름 ③종이의 크기 ④컴퍼스의 길이 ⑤연필의 길이",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            396,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            99,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            112,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            111,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            124,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            111,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            398,
+            130
+          ],
+          "text": "컴퍼스로 원을 그릴 때 원의 크기와 관계 있는 것은 어느 것입니까? ①원의 중심 ②원의 반지름 ③종이의 크기 ④컴퍼스의 길이 ⑤연필의 길이"
+        }
+      ]
+    }
+  ]
+}

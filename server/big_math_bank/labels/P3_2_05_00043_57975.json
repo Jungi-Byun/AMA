@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_2_05_00043_57975.png",
+  "id": "00043_57975",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205018",
+      "question_topic_name": "무게의 단위 알아보기 (kg, g)",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같이 양팔 저울에 바둑돌 $48$개와 테니스공을 올려놓았습니다. 바둑돌 $1$개의 무게가 $ 2 \\mathrm{~g} $일 때, 테니스공의 무게가 될 수 있는 것은 어느 것입니까? ① $ 95 \\mathrm{~g} $ ② $ 97 \\mathrm{~g} $ ③ $ 99 \\mathrm{~g} $ ④ $ 100 \\mathrm{~g} $ ⑤ $ 150 \\mathrm{~g} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            95,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            160,
+            68,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            182,
+            68,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            204,
+            69,
+            224
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            226,
+            76,
+            246
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            248,
+            74,
+            268
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            45,
+            196,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            40
+          ],
+          "text": "다음과 같이 양팔 저울에 바둑돌 $48$개와 테니스공을 올려놓았습니다. 바둑돌 $1$개의 무게가 $ 2 \\mathrm{~g} $일 때, 테니스공의 무게가 될 수 있는 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            159,
+            78,
+            269
+          ],
+          "text": "① $ 95 \\mathrm{~g} $ ② $ 97 \\mathrm{~g} $ ③ $ 99 \\mathrm{~g} $ ④ $ 100 \\mathrm{~g} $ ⑤ $ 150 \\mathrm{~g} $"
+        }
+      ]
+    }
+  ]
+}

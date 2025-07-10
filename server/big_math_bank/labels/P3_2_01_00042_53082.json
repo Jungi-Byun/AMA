@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00042_53082.png",
+  "id": "00042_53082",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연수는 한 개에 80 원씩 하는 구슬을 50 개 사려고 합니다. 얼마가 필요합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            459,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            461,
+            20
+          ],
+          "text": "연수는 한 개에 80 원씩 하는 구슬을 50 개 사려고 합니다. 얼마가 필요합니까?"
+        }
+      ]
+    }
+  ]
+}

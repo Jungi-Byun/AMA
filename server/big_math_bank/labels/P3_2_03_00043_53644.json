@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53644.png",
+  "id": "00043_53644",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "지름이 점선으로 표현된 원을 아래에서 위로 접어 올린다는 모양의 화살표가 그려진 그림 오른쪽에 오른쪽을 가리키는 화살표가 있고, 화살표의 오른쪽에 점선으로 반지름을 그린 반원을 오른쪽에서 왼쪽으로 접는다는 모양의 화살표가 그려진 그림 오른쪽에 오른쪽을 가리키는 화살표가 있으며, 화살표의 오른쪽에 사분원이 그려진 그림",
+      "question_text": "원 모양의 종이를 똑같이 넷으로 나누어지도록 두 번 접었습니다. 접은 선을 따라 그은 두 선분이 만나는 곳을 무엇이라고 합니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            747,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            28,
+            321,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            749,
+            22
+          ],
+          "text": "원 모양의 종이를 똑같이 넷으로 나누어지도록 두 번 접었습니다. 접은 선을 따라 그은 두 선분이 만나는 곳을 무엇이라고 합니까?"
+        }
+      ]
+    }
+  ]
+}

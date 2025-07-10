@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_01_00043_39306.png",
+  "id": "00043_39306",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "하루에  $ 5 \\frac{1}{4} $분씩 늦게 가는 시계가 있습니다. 이 시계를 오늘 낮 $12$시에 정확하게 맞추어 놓았습니다. 일주일 후 낮 $12$시에 이 시계는 몇 시 몇 분 몇 초를 가리키겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            2,
+            798,
+            35
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            41,
+            195,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            61,
+            134,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            800,
+            59
+          ],
+          "text": "하루에  $ 5 \\frac{1}{4} $분씩 늦게 가는 시계가 있습니다. 이 시계를 오늘 낮 $12$시에 정확하게 맞추어 놓았습니다. 일주일 후 낮 $12$시에 이 시계는 몇 시 몇 분 몇 초를 가리키겠습니까?"
+        }
+      ]
+    }
+  ]
+}

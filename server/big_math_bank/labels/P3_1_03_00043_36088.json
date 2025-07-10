@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00043_36088.png",
+  "id": "00043_36088",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "신지와 종민이가 각각 서로 다른 어떤 수에 대해 이야기하고 있습니다. 둘 중에서 더 큰 수를 설명하고 있는 사람은 누구입니까? 신지 : $28$을 어떤 수로 나누면 $7$입니다. 종민 : $48$을 어떤 수로 나누면 $8$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            734,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            21,
+            248,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            57,
+            251,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            736,
+            75
+          ],
+          "text": "신지와 종민이가 각각 서로 다른 어떤 수에 대해 이야기하고 있습니다. 둘 중에서 더 큰 수를 설명하고 있는 사람은 누구입니까? 신지 : $28$을 어떤 수로 나누면 $7$입니다. 종민 : $48$을 어떤 수로 나누면 $8$입니다."
+        }
+      ]
+    }
+  ]
+}

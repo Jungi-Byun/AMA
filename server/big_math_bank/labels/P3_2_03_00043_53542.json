@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53542.png",
+  "id": "00043_53542",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "서로 접하고 있는 반지름의 길이가 2 cm인 원과 반지름의 길이가 4 cm인 원이 큰 원 안에 내접하고, 큰 원에 내접하고 있는 두 점을 선분으로 그은 그림",
+      "question_text": "그림과 같이 가장 큰 원 안에 원 $2$개가 맞닿게 그려져 있습니다. 가장 큰 원의 지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            575,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            168,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            577,
+            22
+          ],
+          "text": "그림과 같이 가장 큰 원 안에 원 $2$개가 맞닿게 그려져 있습니다. 가장 큰 원의 지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

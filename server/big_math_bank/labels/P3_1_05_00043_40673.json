@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_05_00043_40673.png",
+  "id": "00043_40673",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105005",
+      "question_topic_name": "몇 km 몇 m 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "단위를 바르게 쓴 사람은 누구입니까?  현무 : 내 키는 $ 140 \\mathrm{~mm} $ 야. 호동 : 내 신발의 길이는 $ 235 \\mathrm{~cm} $ 야. 경규 : 지리산의 높이는 $ 1 \\mathrm{~km~} 915 \\mathrm{~m} $ 야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            233,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            177,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            225,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            74,
+            242,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            245,
+            100
+          ],
+          "text": "단위를 바르게 쓴 사람은 누구입니까?  현무 : 내 키는 $ 140 \\mathrm{~mm} $ 야. 호동 : 내 신발의 길이는 $ 235 \\mathrm{~cm} $ 야. 경규 : 지리산의 높이는 $ 1 \\mathrm{~km~} 915 \\mathrm{~m} $ 야."
+        }
+      ]
+    }
+  ]
+}

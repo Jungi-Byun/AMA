@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00042_53245.png",
+  "id": "00042_53245",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "중심이 점 ㅇ인 원에 점 ㄱ, ㄴ, ㄷ, ㄹ, ㅁ이 차례로 있고, 선분 ㄱㄷ, ㄴㄹ, ㅇㅁ이 그어져 있는 도형",
+      "question_text": "다음 그림은 반지름이 $9 cm$인 원입니다. 길이가 $9 cm$인 선분을 찾아 쓰시오. 선분 ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            444,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            21,
+            140,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            446,
+            20
+          ],
+          "text": "다음 그림은 반지름이 $9 cm$인 원입니다. 길이가 $9 cm$인 선분을 찾아 쓰시오. 선분 ( )"
+        }
+      ]
+    }
+  ]
+}

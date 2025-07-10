@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_03_00043_35698.png",
+  "id": "00043_35698",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 몫이 두 자리 수인 나눗셈은 어느 것입니까?  ①$423 \\div 49$  ②$548 \\div 60$  ③$246 \\div 21$  ④$813 \\div 82$  ⑤$688 \\div 78$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            312,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            93,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            94,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            89,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            91,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            94,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            314,
+            130
+          ],
+          "text": "다음 중 몫이 두 자리 수인 나눗셈은 어느 것입니까?  ①$423 \\div 49$  ②$548 \\div 60$  ③$246 \\div 21$  ④$813 \\div 82$  ⑤$688 \\div 78$"
+        }
+      ]
+    }
+  ]
+}

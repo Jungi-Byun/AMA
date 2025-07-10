@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49652.png",
+  "id": "00043_49652",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사과가 한 상자에 $58$개씩 $18$상자가 있고, 키위가 한 상자에 $183$개씩 몇 상자가 있습니다. 사과와 키위가 모두 $2142$개라면 키위는 몇 상자입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            53,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            40
+          ],
+          "text": "사과가 한 상자에 $58$개씩 $18$상자가 있고, 키위가 한 상자에 $183$개씩 몇 상자가 있습니다. 사과와 키위가 모두 $2142$개라면 키위는 몇 상자입니까?"
+        }
+      ]
+    }
+  ]
+}

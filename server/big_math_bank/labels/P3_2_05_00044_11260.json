@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00044_11260.png",
+  "id": "00044_11260",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 가장 큰 수는 어느 것입니까? ①넓이가 $200$ha인 땅에 넓이 $1$a씩의 밭을 만들 때, 만들 수 있는 밭의 총 개수 ②$4$t을 실을 수 있는 트럭에 $8$kg짜리 사과 상자를 실을 때, 실을 수 있는 사과 상자의 최대 개수 ③무게 $240$kg인 돼지고기를 한 근($600$g)씩 포장했을 때, 포장된 돼지고기의 수 ④넓이 $4$㎢의 땅을 $10$a씩 나누어서 아파트 $1$동씩 짓는다고 할 때, 지을 수 있는 아파트의 동수 ⑤동태 $300$t을 $60$kg 상자 단위로 포장한다고 했을 때, 포장된 동태의 상자의 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            228,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            469,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            564,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            482,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            86,
+            556,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            487,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            566,
+            130
+          ],
+          "text": "다음 중 가장 큰 수는 어느 것입니까? ①넓이가 $200$ha인 땅에 넓이 $1$a씩의 밭을 만들 때, 만들 수 있는 밭의 총 개수 ②$4$t을 실을 수 있는 트럭에 $8$kg짜리 사과 상자를 실을 때, 실을 수 있는 사과 상자의 최대 개수 ③무게 $240$kg인 돼지고기를 한 근($600$g)씩 포장했을 때, 포장된 돼지고기의 수 ④넓이 $4$㎢의 땅을 $10$a씩 나누어서 아파트 $1$동씩 짓는다고 할 때, 지을 수 있는 아파트의 동수 ⑤동태 $300$t을 $60$kg 상자 단위로 포장한다고 했을 때, 포장된 동태의 상자의 수"
+        }
+      ]
+    }
+  ]
+}

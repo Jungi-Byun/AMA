@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_02_00043_35148.png",
+  "id": "00043_35148",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102012",
+      "question_topic_name": "정사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형을 보고 물음에 답하시오. (1) 직각삼각형을 모두 찾아 기호를 쓰시오.(2) 직사각형을 모두 찾아 기호를 쓰시오.(3) 정사각형은 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            178,
+            260,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            200,
+            250,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            222,
+            183,
+            239
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            28,
+            321,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            2,
+            188.1,
+            18
+          ],
+          "text": "도형을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            177,
+            262,
+            240
+          ],
+          "text": "(1) 직각삼각형을 모두 찾아 기호를 쓰시오.(2) 직사각형을 모두 찾아 기호를 쓰시오.(3) 정사각형은 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

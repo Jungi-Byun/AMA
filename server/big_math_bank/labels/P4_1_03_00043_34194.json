@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_03_00043_34194.png",
+  "id": "00043_34194",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "조건을 만족하는 어떤 수를 모두 구하시오. ㉠ 어떤 수는 세 자리 수입니다. ㉡ 어떤 수를 $87$로 나누었을 때 나머지는 두 자리 수입니다. ㉢ 어떤 수를 $87$로 나누었을 때 몫과 나머지는 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            258,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            205,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            56,
+            376,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            78,
+            349,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            583,
+            101
+          ],
+          "text": "조건을 만족하는 어떤 수를 모두 구하시오. ㉠ 어떤 수는 세 자리 수입니다. ㉡ 어떤 수를 $87$로 나누었을 때 나머지는 두 자리 수입니다. ㉢ 어떤 수를 $87$로 나누었을 때 몫과 나머지는 같습니다."
+        }
+      ]
+    }
+  ]
+}

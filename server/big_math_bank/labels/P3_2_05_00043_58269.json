@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00043_58269.png",
+  "id": "00043_58269",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205025",
+      "question_topic_name": "무게의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "카레의 주원료인 강황은 항암, 항산화 등의 작용을 하여 다양한 건강 증진 효과가 있습니다. 카레를 즐겨 먹는 인도인들은 노인성 치매 발생률이 미국인의 $ \\frac{1}{4} $에 불과하며 세계에서 치매 발생률이 가장 낮은 나라입니다. 다음은 카레 $3$인분을 만드는 데 필요한 재료입니다. $10$인분을 만드는 데 필요한 재료는 모두 몇 $kg$ 몇 $g$입니까? <table border>   <tbody>     <tr>       <td><재료>카레 가루 $150$g, 고기 $90$g, 양파 $270$g, 감자 $330$g</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            798,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            31,
+            804,
+            48
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            63,
+            295,
+            80
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            80,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            115,
+            316,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            137
+          ],
+          "text": "카레의 주원료인 강황은 항암, 항산화 등의 작용을 하여 다양한 건강 증진 효과가 있습니다. 카레를 즐겨 먹는 인도인들은 노인성 치매 발생률이 미국인의 $ \\frac{1}{4} $에 불과하며 세계에서 치매 발생률이 가장 낮은 나라입니다. 다음은 카레 $3$인분을 만드는 데 필요한 재료입니다. $10$인분을 만드는 데 필요한 재료는 모두 몇 $kg$ 몇 $g$입니까? <table border>   <tbody>     <tr>       <td><재료>카레 가루 $150$g, 고기 $90$g, 양파 $270$g, 감자 $330$g</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

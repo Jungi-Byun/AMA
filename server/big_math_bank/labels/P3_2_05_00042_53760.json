@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_05_00042_53760.png",
+  "id": "00042_53760",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 물음에 답하시오. (1) 주스병과 우유갑에 물을 가득 채운 후 수조에 부으면 물의 양은 얼마입니까? (2) 주전자에 물을 가득 채워 수조에 부은 후 바가지로 물을 가득 담아 덜어 내면 수조에 남은 물의 양은 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            114,
+            465,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            137,
+            672,
+            154
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20,
+            20,
+            329,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            189,
+            21
+          ],
+          "text": "그림을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            113,
+            674,
+            156
+          ],
+          "text": "(1) 주스병과 우유갑에 물을 가득 채운 후 수조에 부으면 물의 양은 얼마입니까? (2) 주전자에 물을 가득 채워 수조에 부은 후 바가지로 물을 가득 담아 덜어 내면 수조에 남은 물의 양은 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

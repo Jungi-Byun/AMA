@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_06_00043_41451.png",
+  "id": "00043_41451",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106008",
+      "question_topic_name": "곱셈과 나눗셈이 있는 계산식에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 수($\\bigcirc,△$)를 더했더니 $\\bigcirc+△=7$이 나왔습니다. 한 수($\\bigcirc$)에 다른 수($△$)를 계속해서 더했더니 아래와 같은 규칙이 나왔습니다. 물음에 답하시오. (1) $\\bigcirc$와 $△$의 값을 구하시오. $\\bigcirc$ ( ), $△$ ( )  (2) 계산한 값이 $42$이면  $\\bigcirc$와 $△$를 더한 수는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            61,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            310,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            95,
+            178,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            117,
+            141,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            139,
+            344,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            796,
+            157
+          ],
+          "text": "두 수($\\bigcirc,△$)를 더했더니 $\\bigcirc+△=7$이 나왔습니다. 한 수($\\bigcirc$)에 다른 수($△$)를 계속해서 더했더니 아래와 같은 규칙이 나왔습니다. 물음에 답하시오. (1) $\\bigcirc$와 $△$의 값을 구하시오. $\\bigcirc$ ( ), $△$ ( )  (2) 계산한 값이 $42$이면  $\\bigcirc$와 $△$를 더한 수는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

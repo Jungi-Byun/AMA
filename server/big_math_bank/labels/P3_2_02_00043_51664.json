@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00043_51664.png",
+  "id": "00043_51664",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 < >과 ⊙을 약속할 때, 다음을 계산하시오. <보기><가, 나> : 가÷나의 몫 ㉠⊙㉡=㉠÷㉡+㉡ $<74, 3>⊙8$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            382,
+            26
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            34,
+            83,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            27,
+            63,
+            154,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            91,
+            145,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            119,
+            88,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            446,
+            136
+          ],
+          "text": "<보기>와 같이 < >과 ⊙을 약속할 때, 다음을 계산하시오. <보기><가, 나> : 가÷나의 몫 ㉠⊙㉡=㉠÷㉡+㉡ $<74, 3>⊙8$"
+        }
+      ]
+    }
+  ]
+}

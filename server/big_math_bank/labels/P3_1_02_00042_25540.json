@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_25540.png",
+  "id": "00042_25540",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102010",
+      "question_topic_name": "직사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "크기가 같은 작은 사각형이 점선 형태로 가로 6칸, 세로 4칸씩 채워져 가로의 길이가 42 cm, 세로의 길이가 20 cm일 때 첫 번째 가로줄은 세 번째 사각형, 두 번째 가로줄은 두 번째부터 네 번째 사각형까지, 세 번째 가로줄은 세 번째부터 다섯 번째 사각형까지, 마지막 네 번째 가로줄은 세 번째, 네 번째 사각형이 색칠되어 있고 테두리가 굵은 선으로 그려진 그림",
+      "question_text": "그림에서 색칠한 부분의 굵은 선의 길이는 몇 $cm$입니까? (단, 작은 사각형의 크기는 모두 같습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            581,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            217,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            583,
+            21
+          ],
+          "text": "그림에서 색칠한 부분의 굵은 선의 길이는 몇 $cm$입니까? (단, 작은 사각형의 크기는 모두 같습니다.)"
+        }
+      ]
+    }
+  ]
+}

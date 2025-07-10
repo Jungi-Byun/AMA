@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_03_00042_26848.png",
+  "id": "00042_26848",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색종이로 네 변의 합이  $28 \\mathrm{~cm}$ 인 정사각형을 $1$ 개 만들었습니다. 정사각형의 한 변은 몇 $\\mathrm{cm}$ 입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            567,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            569,
+            21
+          ],
+          "text": "색종이로 네 변의 합이  $28 \\mathrm{~cm}$ 인 정사각형을 $1$ 개 만들었습니다. 정사각형의 한 변은 몇 $\\mathrm{cm}$ 입니까?"
+        }
+      ]
+    }
+  ]
+}

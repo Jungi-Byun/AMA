@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_02_00040_28836.png",
+  "id": "00040_28836",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 나눗셈 문제를 보고 만든 검산식입니다. 어떤 나눗셈 식이었는지 찾으시오. 검산식 : $ 7 \\times 11+2=79 $ ①$ 77 \\div 7 $ ②$ 77 \\div 2 $ ③$ 79 \\div 7 $ ④$ 79 \\div 2 $ ⑤$ 81 \\div 7 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            467,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            189,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            58,
+            83,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            83,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            84,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            84,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            74,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            167
+          ],
+          "text": "어떤 나눗셈 문제를 보고 만든 검산식입니다. 어떤 나눗셈 식이었는지 찾으시오. 검산식 : $ 7 \\times 11+2=79 $ ①$ 77 \\div 7 $ ②$ 77 \\div 2 $ ③$ 79 \\div 7 $ ④$ 79 \\div 2 $ ⑤$ 81 \\div 7 $"
+        }
+      ]
+    }
+  ]
+}

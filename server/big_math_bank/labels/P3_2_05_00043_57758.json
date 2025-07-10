@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57758.png",
+  "id": "00043_57758",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "A 물통에 약수가 가득 채워져 있습니다. 이 약수를 B 컵에 가득 채워 $4$번 덜어내고, C 컵에 가득 채워 $6$번 덜어냈습니다. 그 다음 D 컵에 가득 채워 A 물통에 약수를 $3$번 더 담았습니다. A 물통에 담긴 약수는 몇 $L$ 몇 $mL$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            509,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            35,
+            45,
+            312,
+            357
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "A 물통에 약수가 가득 채워져 있습니다. 이 약수를 B 컵에 가득 채워 $4$번 덜어내고, C 컵에 가득 채워 $6$번 덜어냈습니다. 그 다음 D 컵에 가득 채워 A 물통에 약수를 $3$번 더 담았습니다. A 물통에 담긴 약수는 몇 $L$ 몇 $mL$입니까?"
+        }
+      ]
+    }
+  ]
+}

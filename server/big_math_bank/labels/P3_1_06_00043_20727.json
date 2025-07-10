@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00043_20727.png",
+  "id": "00043_20727",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106013",
+      "question_topic_name": "1보다 작은 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "숙빈이네 반 남학생은 여학생보다 $2$명 더 많고, 여학생 중의 $0.4$는 당번입니다. 당번이 $8$명일 때, 숙빈이네 반 학생은 모두 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            782,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            783,
+            20
+          ],
+          "text": "숙빈이네 반 남학생은 여학생보다 $2$명 더 많고, 여학생 중의 $0.4$는 당번입니다. 당번이 $8$명일 때, 숙빈이네 반 학생은 모두 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

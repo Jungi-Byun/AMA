@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53664.png",
+  "id": "00043_53664",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 선분 ㄱㄴ 사이에 그려지고 중심이 있는 지름의 길이가 12 cm인 같은 원들을 중심을 지나도록 겹쳐서 만들 때 왼쪽에 점 ㄱ을 지나는 원을 시작으로 5개가 있고 가운데 점 6개 있으며 오른쪽에 원 2개의 마지막 원의 끝 점이 ㄴ인 도형",
+      "question_text": "지름이 $12 cm$인 원 $12$개가 서로의 중심을 지나도록 겹쳐서 그린 것입니다. 선분 ㄱㄴ의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            633,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            28,
+            321,
+            81
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            635,
+            22
+          ],
+          "text": "지름이 $12 cm$인 원 $12$개가 서로의 중심을 지나도록 겹쳐서 그린 것입니다. 선분 ㄱㄴ의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_2_01_00043_49627.png",
+  "id": "00043_49627",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$28\\times19$를 계산하려고 합니다. 그림을 보고 물음에 답하시오. ⑴ $\\square$ 안에 알맞은 수를 써넣으시오. $(전체 모눈의 수)  =180 + 72+\\square+\\square=\\square(칸)$  ⑵ $28 \\times 19$는 얼마입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            354,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            186,
+            220,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            208,
+            114,
+            224
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            230,
+            176,
+            256
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            288,
+            162,
+            305
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            15,
+            257.5,
+            102,
+            285.5
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            31,
+            243,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            0,
+            357,
+            16.5
+          ],
+          "text": "$28\\times19$를 계산하려고 합니다. 그림을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            184.5,
+            220,
+            305.5
+          ],
+          "text": "⑴ $\\square$ 안에 알맞은 수를 써넣으시오. $(전체 모눈의 수)  =180 + 72+\\square+\\square=\\square(칸)$  ⑵ $28 \\times 19$는 얼마입니까?"
+        }
+      ]
+    }
+  ]
+}

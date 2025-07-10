@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00043_35133.png",
+  "id": "00043_35133",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102010",
+      "question_topic_name": "직사각형의 특징 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "변 ㄱㄹ의 길이는 16 cm, 변 ㄱㄴ의 길이는 11 cm인 직사각형 ㄱㄴㄷㄹ이 있고 변 ㄱㄹ 위의 점 ㅁ과 변 ㄴㄷ 위의 점 ㅂ을 점선으로 연결한 선분 ㅁㅂ은 변 ㄱㄹ, 변 ㄴㄷ과 직각이며 선분 ㄴㅂ의 길이는 11 cm인 도형",
+      "question_text": "사각형 ㄱㄴㄷㄹ은 직사각형입니다. 선분 ㅁㄹ은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            377,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            26,
+            191,
+            151
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            379,
+            22
+          ],
+          "text": "사각형 ㄱㄴㄷㄹ은 직사각형입니다. 선분 ㅁㄹ은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

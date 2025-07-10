@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_03_00042_26788.png",
+  "id": "00042_26788",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103002",
+      "question_topic_name": "묶음의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빵 $18$개를 한 상자에 $6$개씩 넣어 포장하였습니다. 포장한 상자는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            488,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            490,
+            21
+          ],
+          "text": "빵 $18$개를 한 상자에 $6$개씩 넣어 포장하였습니다. 포장한 상자는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

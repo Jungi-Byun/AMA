@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_02_00040_76144.png",
+  "id": "00040_76144",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102004",
+      "question_topic_name": "각 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형에 대하여 잘못 설명한 것은 어느 것입니까? ①각 $ㄱㄴㄷ$이라고 읽습니다. ②점 $ㄴ$은 각의 꼭짓점입니다. ③반직선 $ㄴㄱ$을 각의 변이라 합니다. ④각 $ㄴㄷㄱ$이라고 읽습니다. ⑤반직선 $ㄴㄷ$을 각의 변이라 합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            292,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            144,
+            195,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            198,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            240,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            210,
+            195,
+            230
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            232,
+            240,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            27,
+            208,
+            138
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            294,
+            23
+          ],
+          "text": "도형에 대하여 잘못 설명한 것은 어느 것입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            143,
+            242,
+            252
+          ],
+          "text": "①각 $ㄱㄴㄷ$이라고 읽습니다. ②점 $ㄴ$은 각의 꼭짓점입니다. ③반직선 $ㄴㄱ$을 각의 변이라 합니다. ④각 $ㄴㄷㄱ$이라고 읽습니다. ⑤반직선 $ㄴㄷ$을 각의 변이라 합니다."
+        }
+      ]
+    }
+  ]
+}

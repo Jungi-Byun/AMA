@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_01_00043_26381.png",
+  "id": "00043_26381",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 문구점에서 $1475$장의 골판지 중에서 $897$장을 팔았습니다. 팔고 남은 골판지는 몇 장입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            568,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.78,
+            1.34,
+            569.18,
+            17.34
+          ],
+          "text": "어느 문구점에서 $1475$장의 골판지 중에서 $897$장을 팔았습니다. 팔고 남은 골판지는 몇 장입니까?"
+        }
+      ]
+    }
+  ]
+}

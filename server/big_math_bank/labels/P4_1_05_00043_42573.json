@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_05_00043_42573.png",
+  "id": "00043_42573",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축에는 학생 수(명)의 값을 5칸 마다 0, 10, 20의 숫자를 적어 단위를 표현하고, 세로축에는 간식 항목을 표현할 때, 하단에서 라면, 떡볶이 10명, 김밥 16명의 순으로 작성한 제목이 좋아하는 간식별 학생 수를 나타낸 막대그래프",
+      "question_text": "우주네 반 학생들이 좋아하는 간식을 조사하여 나타낸 표입니다. 표를 보고 막대그래프를 완성하시오.<table border> <caption>좋아하는 간식별 학생 수</caption>   <tbody>     <tr>       <td>간식</td>       <td>김밥</td>       <td>떡볶이</td>       <td>라면</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수(명)</td>       <td>$16$</td>       <td>$10$</td>       <td></td>       <td>$40$</td>     </tr> </tbody> </table> ⑴ 라면을 좋아하는 학생은 몇 명입니까? ⑵ 가로 눈금 한 칸의 크기는 몇 명을 나타냅니까? ⑶ 막대그래프를 완성하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            588,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            94,
+            31,
+            255,
+            49
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            59,
+            320,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            271,
+            250,
+            288
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            293,
+            299,
+            310
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            315,
+            183,
+            332
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            46,
+            123,
+            304,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.2,
+            0.82,
+            588.16,
+            114.1
+          ],
+          "text": "우주네 반 학생들이 좋아하는 간식을 조사하여 나타낸 표입니다. 표를 보고 막대그래프를 완성하시오.<table border> <caption>좋아하는 간식별 학생 수</caption>   <tbody>     <tr>       <td>간식</td>       <td>김밥</td>       <td>떡볶이</td>       <td>라면</td>       <td>합계</td>     </tr>     <tr>       <td>학생 수(명)</td>       <td>$16$</td>       <td>$10$</td>       <td></td>       <td>$40$</td>     </tr> </tbody> </table>"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.56,
+            270.26,
+            300.16,
+            332.34
+          ],
+          "text": "⑴ 라면을 좋아하는 학생은 몇 명입니까? ⑵ 가로 눈금 한 칸의 크기는 몇 명을 나타냅니까? ⑶ 막대그래프를 완성하시오."
+        }
+      ]
+    }
+  ]
+}

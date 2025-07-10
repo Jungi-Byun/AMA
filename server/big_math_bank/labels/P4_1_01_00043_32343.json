@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_01_00043_32343.png",
+  "id": "00043_32343",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 세계 여러 나라의 강의 길이와 면적을 조사하여 나타낸 표입니다. 다음 중 길이는 $5500000 m$보다 짧고, 면적이 $760000 km^2$보다 넓고 $840000 km^2$보다 좁은 강은 어느 강인지 구하시오. (단, $km^2$는 면적을 나타내는 단위입니다.) <table border>   <tbody>     <tr>       <td>강</td>       <td>강의 길이($m$)</td>       <td>강의 면적($km^2$)</td>     </tr>     <tr>       <td>인더스강</td>       <td>$2900000$</td>       <td>$1165500$</td>     </tr>     <tr>       <td>황허강</td>       <td>$5463000$</td>       <td>$752440$</td>     </tr>     <tr>       <td>나일강</td>       <td>$6650000$</td>       <td>$3007000$</td>     </tr>     <tr>       <td>도나우강</td>       <td>$2850000$</td>       <td>$816000$</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            515,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            620,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            43,
+            253,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            287,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            622,
+            185
+          ],
+          "text": "다음은 세계 여러 나라의 강의 길이와 면적을 조사하여 나타낸 표입니다. 다음 중 길이는 $5500000 m$보다 짧고, 면적이 $760000 km^2$보다 넓고 $840000 km^2$보다 좁은 강은 어느 강인지 구하시오. (단, $km^2$는 면적을 나타내는 단위입니다.) <table border>   <tbody>     <tr>       <td>강</td>       <td>강의 길이($m$)</td>       <td>강의 면적($km^2$)</td>     </tr>     <tr>       <td>인더스강</td>       <td>$2900000$</td>       <td>$1165500$</td>     </tr>     <tr>       <td>황허강</td>       <td>$5463000$</td>       <td>$752440$</td>     </tr>     <tr>       <td>나일강</td>       <td>$6650000$</td>       <td>$3007000$</td>     </tr>     <tr>       <td>도나우강</td>       <td>$2850000$</td>       <td>$816000$</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

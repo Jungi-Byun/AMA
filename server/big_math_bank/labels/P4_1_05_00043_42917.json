@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_1_05_00043_42917.png",
+  "id": "00043_42917",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105006",
+      "question_topic_name": "자료를 조사하여 막대그래프 그리기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 단위가 (명)인 학생 수를 나타내고 한 칸의 크기가 1이고 0, 5, 10마다 단위를 표시하고, 세로축은 도시를 나타내고 아래에서부터 제주, 부산, 경주, 춘천이 적혀 있고, 춘천은 3명, 경주는 4명이고 그래프의 제목이 가고 싶어 하는 도시별 학생 수인 가로 막대그래프",
+      "question_text": "정호네 반 학생 $20$명이 가고 싶어 하는 도시를 조사하여 나타낸 것입니다. 제주에 가고 싶어 하는 학생은 춘천에 가고 싶어 하는 학생보다 $4$명이 더 많습니다. 물음에 답하시오. (1) 부산과 제주에 가고 싶어 하는 학생은 각각 몇 명입니까?(2) 위의 막대그래프를 완성하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            220,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            258,
+            356,
+            278
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            283,
+            217,
+            299
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            42,
+            221,
+            260
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "정호네 반 학생 $20$명이 가고 싶어 하는 도시를 조사하여 나타낸 것입니다. 제주에 가고 싶어 하는 학생은 춘천에 가고 싶어 하는 학생보다 $4$명이 더 많습니다. 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            256,
+            358,
+            301
+          ],
+          "text": "(1) 부산과 제주에 가고 싶어 하는 학생은 각각 몇 명입니까?(2) 위의 막대그래프를 완성하시오."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00043_51234.png",
+  "id": "00043_51234",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202003",
+      "question_topic_name": "내림과 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현재, 경수, 미경이는 농촌 체험 학습에 가서 고구마를 캐어 한 봉지에 $4$개씩 담았습니다. 다음 대화를 보고 캔 고구마를 셋이 똑같이 나누어 가져가려고 할 때, 한 사람이 고구마를 몇 봉지씩 가져가면 되는지 구하시오. 현재 : 난 오늘 고구마 $33$개를 캤어. 경수 : 난 $39$개나 캤지! 미경 : 잉~ 난 $12$개밖에 못 캤어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            800,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            446,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            46,
+            225,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            74,
+            159,
+            97
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            97,
+            211,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            122
+          ],
+          "text": "현재, 경수, 미경이는 농촌 체험 학습에 가서 고구마를 캐어 한 봉지에 $4$개씩 담았습니다. 다음 대화를 보고 캔 고구마를 셋이 똑같이 나누어 가져가려고 할 때, 한 사람이 고구마를 몇 봉지씩 가져가면 되는지 구하시오. 현재 : 난 오늘 고구마 $33$개를 캤어. 경수 : 난 $39$개나 캤지! 미경 : 잉~ 난 $12$개밖에 못 캤어."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_04_00043_54345.png",
+  "id": "00043_54345",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204020",
+      "question_topic_name": "정사각형의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성우가 책꽂이를 만들려고 직사각형 모양의 나무판을 자르려고 합니다. 성우의 말과 다음 그림을 보고 성우가 자르고 남은 나무판의 모든 변의 길이의 합을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            162,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            49,
+            321,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            40
+          ],
+          "text": "성우가 책꽂이를 만들려고 직사각형 모양의 나무판을 자르려고 합니다. 성우의 말과 다음 그림을 보고 성우가 자르고 남은 나무판의 모든 변의 길이의 합을 구하시오."
+        }
+      ]
+    }
+  ]
+}

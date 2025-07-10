@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_04_00043_39258.png",
+  "id": "00043_39258",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "주미네 집에는 의류를 $ 12 \\mathrm{~kg} $까지 넣어서 세탁할 수 있는 세탁기가 있습니다. 이 세탁기에 의류를 가득 넣어서 일주일에 2번씩 세탁한다면 $8$주 동안 세탁한 의류의 무게는 모두 몇 $ \\mathrm{kg}^{\\prime} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            797,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            297,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            799,
+            41
+          ],
+          "text": "주미네 집에는 의류를 $ 12 \\mathrm{~kg} $까지 넣어서 세탁할 수 있는 세탁기가 있습니다. 이 세탁기에 의류를 가득 넣어서 일주일에 2번씩 세탁한다면 $8$주 동안 세탁한 의류의 무게는 모두 몇 $ \\mathrm{kg}^{\\prime} $입니까?"
+        }
+      ]
+    }
+  ]
+}

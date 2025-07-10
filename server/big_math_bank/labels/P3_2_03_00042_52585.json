@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00042_52585.png",
+  "id": "00042_52585",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "중심에 빨간 점이 있는 원에서 원의 중심을 지나며 오른쪽 위로 향하는 지름을 밑변으로 하는 내접한 삼각형이 있고 원의 중심에서 원 위의 한 점까지 내려가는 선분이 있는 도형",
+      "question_text": "그림에서 원의 반지름을 나타내는 선분은 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            359,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            105,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            361,
+            22
+          ],
+          "text": "그림에서 원의 반지름을 나타내는 선분은 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50821.png",
+  "id": "00043_50821",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203017",
+      "question_topic_name": "자릿수가 다른 소수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수에서 $4.25$를 빼야 할 것을 잘못하여 더했더니 $9.308$이 되었습니다. 바르게 계산한 값을 구하시오.(1) 어떤 수를 구하는 식을 쓰시오.(2) 어떤 수를 구하시오.(3) 바르게 계산한 값을 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            610,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            209,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            154,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            208,
+            82
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            612,
+            83
+          ],
+          "text": "어떤 수에서 $4.25$를 빼야 할 것을 잘못하여 더했더니 $9.308$이 되었습니다. 바르게 계산한 값을 구하시오.(1) 어떤 수를 구하는 식을 쓰시오.(2) 어떤 수를 구하시오.(3) 바르게 계산한 값을 구하시오."
+        }
+      ]
+    }
+  ]
+}

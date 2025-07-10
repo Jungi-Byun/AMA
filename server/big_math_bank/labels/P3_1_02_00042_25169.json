@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_02_00042_25169.png",
+  "id": "00042_25169",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102007",
+      "question_topic_name": "직각삼각형 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정사각형 모양의 색종이, 화살표 오른쪽에 한 번 접은 색종이, 화살표 오른쪽에 두 번 접은 색종이, 화살표 오른쪽에 대각선으로 접은 색종이가 있는 그림",
+      "question_text": "정사각형 모양의 색종이를 그림과 같이 접었다 편 다음 접힌 선을 따라 가위로 오리면 어떤 도형이 몇 개 생깁니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            664,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            298,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            666,
+            21
+          ],
+          "text": "정사각형 모양의 색종이를 그림과 같이 접었다 편 다음 접힌 선을 따라 가위로 오리면 어떤 도형이 몇 개 생깁니까?"
+        }
+      ]
+    }
+  ]
+}

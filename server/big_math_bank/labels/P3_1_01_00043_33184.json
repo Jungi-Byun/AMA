@@ -1,0 +1,139 @@
+{
+  "question_filename": "P3_1_01_00043_33184.png",
+  "id": "00043_33184",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "(1) $618-253$을 어림하면 약$\\square$ 입니다. (2) 낱개 모형 $3$개를 덜어 내면 낱개 모형은 $\\square$개가 됩니다. (3) 십 모형 $1$개에서 십 모형 $5$개를 덜어 낼 수 없으므로 백 모형 $1$개를 십 모형 $\\square$개로 바꿉니다. 십 모형 $11$개에서 $5$개를 덜어 내면 십 모형은 $\\square$개가 됩니다. (4) 백 모형 $5$개에서 $2$개를 덜어 내면 백 모형은 $\\square$개가 됩니다. (5) $618-253=\\square$입니다. (6) 어림한 결과와 비교해 보면 $\\square$차이가 납니다. $618-253$을 수 모형으로 알아보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            225,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            133,
+            267,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            162,
+            367,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            191,
+            616,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            220,
+            343,
+            246
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            249,
+            391,
+            275
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            278,
+            189,
+            304
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            307,
+            313,
+            333
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            25,
+            28,
+            229,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            132,
+            618,
+            334
+          ],
+          "text": "(1) $618-253$을 어림하면 약$\\square$ 입니다. (2) 낱개 모형 $3$개를 덜어 내면 낱개 모형은 $\\square$개가 됩니다. (3) 십 모형 $1$개에서 십 모형 $5$개를 덜어 낼 수 없으므로 백 모형 $1$개를 십 모형 $\\square$개로 바꿉니다. 십 모형 $11$개에서 $5$개를 덜어 내면 십 모형은 $\\square$개가 됩니다. (4) 백 모형 $5$개에서 $2$개를 덜어 내면 백 모형은 $\\square$개가 됩니다. (5) $618-253=\\square$입니다. (6) 어림한 결과와 비교해 보면 $\\square$차이가 납니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15.5,
+            0.64,
+            228.5,
+            18.64
+          ],
+          "text": "$618-253$을 수 모형으로 알아보시오."
+        }
+      ]
+    }
+  ]
+}

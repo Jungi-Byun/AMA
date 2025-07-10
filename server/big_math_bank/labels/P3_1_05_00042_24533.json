@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_05_00042_24533.png",
+  "id": "00042_24533",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 제호가 축구 연습을 시작한 시각과 끝낸 시각을 나타낸 것입니다. 제호가 축구 연습을 한 시간은 몇 분입니까?  ① $25$분 ② $30$분 ③ $35$분 ④ $45$분 ⑤ $55$분",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            676,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            152,
+            75,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            174,
+            73,
+            194
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            196,
+            73,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            218,
+            72,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18.38,
+            132.25,
+            72.78,
+            150.17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            257,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            3.5,
+            676,
+            16.5
+          ],
+          "text": "다음은 제호가 축구 연습을 시작한 시각과 끝낸 시각을 나타낸 것입니다. 제호가 축구 연습을 한 시간은 몇 분입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            21,
+            133.5,
+            76,
+            238.5
+          ],
+          "text": "① $25$분 ② $30$분 ③ $35$분 ④ $45$분 ⑤ $55$분"
+        }
+      ]
+    }
+  ]
+}

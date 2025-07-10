@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_1_05_00043_42564.png",
+  "id": "00043_42564",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105001",
+      "question_topic_name": "막대그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 좋아하는 과일, 세로축은 학생 수(명)을 나타내고 사과를 좋아하는 학생 수는 60명, 배를 좋아하는 학생 수는 80명, 귤을 좋아하는 학생 수는 90명, 포도를 좋아하는 학생 수는 70명인 좋아하는 과일별 학생 수가 제목이고 나타낸 눈금 단위가 10이고 5칸마다 50배수로 단위를 적은 막대그래프",
+      "question_text": "영아네 학교 학생들이 좋아하는 과일을 조사하여 나타낸 막대그래프입니다. 가장 많은 학생들이 좋아하는 과일의 학생 수는 몇 명인지 알아보시오. ⑴ 가장 많은 학생들이 좋아하는 과일은 무엇입니까? ⑵ 세로 눈금 한 칸은 몇 명을 나타냅니까? ⑶ 가장 많은 학생들이 좋아하는 과일의 학생 수는 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            801,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            61,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            257,
+            317,
+            274
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            279,
+            257,
+            296
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            301,
+            379,
+            318
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            31,
+            52,
+            320,
+            244
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            803,
+            40
+          ],
+          "text": "영아네 학교 학생들이 좋아하는 과일을 조사하여 나타낸 막대그래프입니다. 가장 많은 학생들이 좋아하는 과일의 학생 수는 몇 명인지 알아보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            256,
+            381,
+            319
+          ],
+          "text": "⑴ 가장 많은 학생들이 좋아하는 과일은 무엇입니까? ⑵ 세로 눈금 한 칸은 몇 명을 나타냅니까? ⑶ 가장 많은 학생들이 좋아하는 과일의 학생 수는 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

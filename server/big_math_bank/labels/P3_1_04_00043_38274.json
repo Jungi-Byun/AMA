@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_1_04_00043_38274.png",
+  "id": "00043_38274",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104001",
+      "question_topic_name": "올림이 없는 (몇십)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "<보기>와 같이 $90×3$을 $2$가지 방법으로 계산하시오. <보기>[$20×6$의 계산][방법 $1$] $20+20+20+20+20+20=120$이므로 $20×6=120$ [방법 $2$] $10$이 $2×6=12$이므로 $20×6=120$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            317,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            21,
+            73,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            54,
+            118,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            76,
+            352,
+            95
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            95,
+            270,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            122
+          ],
+          "text": "<보기>와 같이 $90×3$을 $2$가지 방법으로 계산하시오. <보기>[$20×6$의 계산][방법 $1$] $20+20+20+20+20+20=120$이므로 $20×6=120$ [방법 $2$] $10$이 $2×6=12$이므로 $20×6=120$"
+        }
+      ]
+    }
+  ]
+}

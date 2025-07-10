@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49636.png",
+  "id": "00043_49636",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "강당에 학생들이 한 줄에 $12$명씩 앉아 있습니다. $3$학년 학생들이 $28$번째 줄부터 $50$번째 줄까지 앉아 있다면 강당에 앉아 있는 $3$학년 학생은 모두 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            140,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            41
+          ],
+          "text": "강당에 학생들이 한 줄에 $12$명씩 앉아 있습니다. $3$학년 학생들이 $28$번째 줄부터 $50$번째 줄까지 앉아 있다면 강당에 앉아 있는 $3$학년 학생은 모두 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

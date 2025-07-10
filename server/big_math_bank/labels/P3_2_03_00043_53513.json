@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53513.png",
+  "id": "00043_53513",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "빨간색인 원의 중심이 점 ㄱ인 원에서 세로로 있는 지름의 아래쪽 끝점이 점 ㄹ이고, 점 ㄱ의 위로 반지름의 길이가16 cm이고, 선분 ㄱㄹ 위의 두 점 ㄴ, ㄷ이 위에서부터 순서대로 있고, 점 ㄴ, ㄷ은 빨간색 점이고, 선분 ㄱㄹ을 지름으로 하고 점 ㄷ이 원의 중심인 원과 선분 ㄱㄷ을 지름으로 하고 점 ㄴ이 원의 중심인 원이 있는 도형",
+      "question_text": "점 ㄱ, 점 ㄴ, 점 ㄷ은 각각 원의 중심입니다. 선분 ㄴㄷ의 길이는 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            461,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            28,
+            172,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            463,
+            22
+          ],
+          "text": "점 ㄱ, 점 ㄴ, 점 ㄷ은 각각 원의 중심입니다. 선분 ㄴㄷ의 길이는 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

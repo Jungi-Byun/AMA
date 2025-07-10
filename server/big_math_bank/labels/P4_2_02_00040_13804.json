@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_02_00040_13804.png",
+  "id": "00040_13804",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202002",
+      "question_topic_name": "이등변삼각형 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 그림과 같이 직사각형을 반으로 접은 후 가위로 잘랐을 때 잘려진 도형의 둘레는 몇 $cm$입니까?  ①$18cm$ ②$21cm$ ③$24cm$ ④$26cm$ ⑤$30cm$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            582,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            135,
+            77,
+            155
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            157,
+            76,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            179,
+            79,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            201,
+            79,
+            221
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            223,
+            80,
+            243
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            328,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.5,
+            1.5,
+            583.5,
+            19.5
+          ],
+          "text": "다음 그림과 같이 직사각형을 반으로 접은 후 가위로 잘랐을 때 잘려진 도형의 둘레는 몇 $cm$입니까? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            134,
+            82,
+            244
+          ],
+          "text": "①$18cm$ ②$21cm$ ③$24cm$ ④$26cm$ ⑤$30cm$"
+        }
+      ]
+    }
+  ]
+}

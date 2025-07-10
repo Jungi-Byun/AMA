@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_02_00043_37838.png",
+  "id": "00043_37838",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202001",
+      "question_topic_name": "삼각형의 변의 길이에 따라 분류하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변과 다른 한 변의 길이가 각각 5 cm, 7 cm인 이등변삼각형 4개를 첫 번째 삼각형은 5 cm인 변이 맨 왼쪽에 오게 삼각형을 가로로 누이고 두 번째 삼각형은 첫 번째 삼각형 아래쪽에서 7 cm인 변끼리 만나게 붙인 다음 세 번째 삼각형은 두 번째 삼각형과 5 cm인 변끼리 만나게 수평으로 붙이고 네 번째 삼각형은 세 번째 삼각형 위쪽에서 7 cm인 변끼리 만나게 그리고 겹치는 부분이 없게 붙인 도형",
+      "question_text": "크기가 같은 이등변삼각형 $4$개를 겹치는 부분 없이 이어 붙여서 만든 도형입니다. 굵은 선의 길이는 몇 $ \\mathrm{cm} $입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            661,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            32,
+            195,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            663,
+            23
+          ],
+          "text": "크기가 같은 이등변삼각형 $4$개를 겹치는 부분 없이 이어 붙여서 만든 도형입니다. 굵은 선의 길이는 몇 $ \\mathrm{cm} $입니까?"
+        }
+      ]
+    }
+  ]
+}

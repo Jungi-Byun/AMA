@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_01_00042_26642.png",
+  "id": "00042_26642",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 덧셈식의 $\\boxed{1}$은 실제로 얼마를 나타냅니까?  $ \\begin{array}{r}\\boxed{1}1   \\\\ 729 \\\\ +278 \\\\ \\hline 1007\\end{array} $ ①$1$ ②$10$ ③$100$ ④$1000$ ⑤$1100$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            304,
+            26
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            29,
+            99,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            129,
+            64,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            154,
+            59,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            176,
+            68,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            198,
+            77,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            220,
+            73,
+            240
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            319,
+            241
+          ],
+          "text": "다음 덧셈식의 $\\boxed{1}$은 실제로 얼마를 나타냅니까?  $ \\begin{array}{r}\\boxed{1}1   \\\\ 729 \\\\ +278 \\\\ \\hline 1007\\end{array} $ ①$1$ ②$10$ ③$100$ ④$1000$ ⑤$1100$"
+        }
+      ]
+    }
+  ]
+}

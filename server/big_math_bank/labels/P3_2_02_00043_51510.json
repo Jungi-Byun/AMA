@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_02_00043_51510.png",
+  "id": "00043_51510",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가지고 있는 구슬의 수가 다음과 같습니다. 빈 주머니가 필요하여 한 주머니에 $4$개씩 담겨 있는 구슬을 한 주머니에 $8$개씩 담으려고 합니다. 몇 개의 빈 주머니가 생기겠습니까? 초록색 구슬 : $17$개 주황색 구슬 : $23$개 보라색 구슬 : $16$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            220,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            43,
+            142,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            76,
+            139,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            98,
+            137,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            122
+          ],
+          "text": "가지고 있는 구슬의 수가 다음과 같습니다. 빈 주머니가 필요하여 한 주머니에 $4$개씩 담겨 있는 구슬을 한 주머니에 $8$개씩 담으려고 합니다. 몇 개의 빈 주머니가 생기겠습니까? 초록색 구슬 : $17$개 주황색 구슬 : $23$개 보라색 구슬 : $16$개"
+        }
+      ]
+    }
+  ]
+}

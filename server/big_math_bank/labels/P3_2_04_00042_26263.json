@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_04_00042_26263.png",
+  "id": "00042_26263",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204004",
+      "question_topic_name": "여러 개씩 묶었을 때 분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "틀린 것을 찾아 기호를 쓰시오.  ㉠ $15$는 $20$의 $ \\frac{3}{4} $입니다. ㉡ $15$는 $24$의 $ \\frac{5}{8} $입니다. ㉢ $15$는 $35$의 $ \\frac{4}{7} $입니다. ㉣ $15$는 $45$의 $ \\frac{1}{3} $입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            191,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            26,
+            178,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            72,
+            179,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            115,
+            179,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            157,
+            181,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            208,
+            193
+          ],
+          "text": "틀린 것을 찾아 기호를 쓰시오.  ㉠ $15$는 $20$의 $ \\frac{3}{4} $입니다. ㉡ $15$는 $24$의 $ \\frac{5}{8} $입니다. ㉢ $15$는 $35$의 $ \\frac{4}{7} $입니다. ㉣ $15$는 $45$의 $ \\frac{1}{3} $입니다."
+        }
+      ]
+    }
+  ]
+}

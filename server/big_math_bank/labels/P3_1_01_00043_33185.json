@@ -1,0 +1,119 @@
+{
+  "question_filename": "P3_1_01_00043_33185.png",
+  "id": "00043_33185",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$918-453$을 세로셈으로 알아보시오. $ \\begin{array}{r}918 \\\\ - 453 \\\\ \\hline\\end{array}  \\rightarrow$  $ \\begin{array}{r}918 \\\\ - 453 \\\\ \\hline \\square\\end{array}  \\rightarrow$  $ \\begin{array}{r}\\square~   \\square~    \\\\ 918 \\\\ - 453 \\\\ \\hline \\square~~  \\square \\end{array}  \\rightarrow$  $ \\begin{array}{r}\\square~~  \\square   \\\\ 918 \\\\ - 453 \\\\ \\hline \\square~~   \\square~  \\square\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            222,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            379,
+            23,
+            495,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            35,
+            126,
+            79
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            141,
+            32,
+            245,
+            106
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            260,
+            23,
+            378,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            122,
+            60,
+            137,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            248,
+            57,
+            264,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            373,
+            60,
+            395,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            497,
+            116
+          ],
+          "text": "$918-453$을 세로셈으로 알아보시오. $ \\begin{array}{r}918 \\\\ - 453 \\\\ \\hline\\end{array}  \\rightarrow$  $ \\begin{array}{r}918 \\\\ - 453 \\\\ \\hline \\square\\end{array}  \\rightarrow$  $ \\begin{array}{r}\\square~   \\square~    \\\\ 918 \\\\ - 453 \\\\ \\hline \\square~~  \\square \\end{array}  \\rightarrow$  $ \\begin{array}{r}\\square~~  \\square   \\\\ 918 \\\\ - 453 \\\\ \\hline \\square~~   \\square~  \\square\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

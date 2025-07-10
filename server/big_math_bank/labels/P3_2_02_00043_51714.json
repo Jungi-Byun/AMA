@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00043_51714.png",
+  "id": "00043_51714",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 나눗셈이 나누어떨어질 때, $\\bigstar$에 알맞은 숫자를 모두 구하려고 합니다. 물음에 답하시오.  $4\\bigstar\\div6$  ⑴ 나눗셈이 나누어떨어질 때 나머지를 구하시오.⑵ 몫을 $\\square$로 놓고 검산식을 세워 보시오.⑶ $6$의 단 곱셈구구에서 곱의 십의 자리 숫자가 $4$인 경우를 찾아 쓰시오.⑷ $\\bigstar$에 알맞은 숫자를 모두 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            542,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            27,
+            73,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            60,
+            296,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            82,
+            249,
+            99
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            425,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            233,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            552,
+            144
+          ],
+          "text": "다음 나눗셈이 나누어떨어질 때, $\\bigstar$에 알맞은 숫자를 모두 구하려고 합니다. 물음에 답하시오.  $4\\bigstar\\div6$  ⑴ 나눗셈이 나누어떨어질 때 나머지를 구하시오.⑵ 몫을 $\\square$로 놓고 검산식을 세워 보시오.⑶ $6$의 단 곱셈구구에서 곱의 십의 자리 숫자가 $4$인 경우를 찾아 쓰시오.⑷ $\\bigstar$에 알맞은 숫자를 모두 구하시오."
+        }
+      ]
+    }
+  ]
+}

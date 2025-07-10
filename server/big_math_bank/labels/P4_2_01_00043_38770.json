@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_2_01_00043_38770.png",
+  "id": "00043_38770",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미영이의 책가방 무게는 $ 3 \\frac{3}{8} \\mathrm{~kg} $이고 진우의 책가방은 미영이의 책가방보다 $ 1 \\frac{5}{8} \\mathrm{~kg}$ 가볍습니다. 진우의 책가방의 무게는 몇 $kg$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            787,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            789,
+            39
+          ],
+          "text": "미영이의 책가방 무게는 $ 3 \\frac{3}{8} \\mathrm{~kg} $이고 진우의 책가방은 미영이의 책가방보다 $ 1 \\frac{5}{8} \\mathrm{~kg}$ 가볍습니다. 진우의 책가방의 무게는 몇 $kg$입니까?"
+        }
+      ]
+    }
+  ]
+}

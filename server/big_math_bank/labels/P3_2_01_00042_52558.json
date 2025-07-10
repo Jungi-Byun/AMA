@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_2_01_00042_52558.png",
+  "id": "00042_52558",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201012",
+      "question_topic_name": "곱셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수학 경시 대회에서 $100$점을 맞은 $39$명의 학생들에게 상품으로 연필을 한 타씩 나누어 주었습니다. 나누어 준 연필은 모두 몇 자루입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            20
+          ],
+          "text": "수학 경시 대회에서 $100$점을 맞은 $39$명의 학생들에게 상품으로 연필을 한 타씩 나누어 주었습니다. 나누어 준 연필은 모두 몇 자루입니까?"
+        }
+      ]
+    }
+  ]
+}

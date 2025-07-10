@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_06_00043_59250.png",
+  "id": "00043_59250",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 병원의 요일별 감기 환자 수를 조사하여 나타낸 그림그래프입니다. 월요일과 화요일의 환자 수의 합이 $78$명일 때, 물음에 답하시오. (1) 월요일과 토요일의 감기 환자 수의 합은 몇 명입니까? (2) 감기 환자가 가장 많은 날과 가장 적은 날의 환자 수의 차는 몇 명입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            784,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            220,
+            339,
+            237
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            242,
+            450,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            26,
+            326,
+            215
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.5,
+            2.5,
+            786.5,
+            18.5
+          ],
+          "text": "어느 병원의 요일별 감기 환자 수를 조사하여 나타낸 그림그래프입니다. 월요일과 화요일의 환자 수의 합이 $78$명일 때, 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.5,
+            220.5,
+            452.5,
+            260.5
+          ],
+          "text": "(1) 월요일과 토요일의 감기 환자 수의 합은 몇 명입니까? (2) 감기 환자가 가장 많은 날과 가장 적은 날의 환자 수의 차는 몇 명입니까?"
+        }
+      ]
+    }
+  ]
+}

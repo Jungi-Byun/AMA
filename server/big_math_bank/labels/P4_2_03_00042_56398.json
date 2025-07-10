@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_03_00042_56398.png",
+  "id": "00042_56398",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203013",
+      "question_topic_name": "소수 두 자리 수의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "학교에서 서점까지의 거리는 $0.27km$이고 서점에서 문구점까지의 거리는 $0.34km$입니다. 학교에서 서점을 지나 문구점까지의 거리는 몇 $km$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            789,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            84,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            791,
+            40
+          ],
+          "text": "학교에서 서점까지의 거리는 $0.27km$이고 서점에서 문구점까지의 거리는 $0.34km$입니다. 학교에서 서점을 지나 문구점까지의 거리는 몇 $km$입니까?"
+        }
+      ]
+    }
+  ]
+}

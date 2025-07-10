@@ -1,0 +1,49 @@
+{
+  "question_filename": "P4_1_01_00043_01277.png",
+  "id": "00043_01277",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억 단위 수의 활용",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\boxed{\\boxed{0}}$에서  $\\boxed{\\boxed{9}}$까지의 숫자 카드를 한 번씩 사용하여 만들 수 있는 열 자리 수 중에서 $ 9876543021 $보다 큰 수는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            1,
+            750,
+            30
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19,
+            1,
+            752,
+            32
+          ],
+          "text": "$\\boxed{\\boxed{0}}$에서  $\\boxed{\\boxed{9}}$까지의 숫자 카드를 한 번씩 사용하여 만들 수 있는 열 자리 수 중에서 $ 9876543021 $보다 큰 수는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

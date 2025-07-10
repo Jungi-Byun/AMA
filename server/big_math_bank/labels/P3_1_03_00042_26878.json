@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_03_00042_26878.png",
+  "id": "00042_26878",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈식 $6\\times3=18$을 보고 만들 수 있는 나눗셈식을 모두 골라 기호를 쓰시오.  ㉠ $18÷2=9$ ㉡ $18÷3=6$  ㉢ $18÷6=3$ ㉣ $18÷9=2$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            441,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            178,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            54,
+            176,
+            77
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            448,
+            76
+          ],
+          "text": "곱셈식 $6\\times3=18$을 보고 만들 수 있는 나눗셈식을 모두 골라 기호를 쓰시오.  ㉠ $18÷2=9$ ㉡ $18÷3=6$  ㉢ $18÷6=3$ ㉣ $18÷9=2$"
+        }
+      ]
+    }
+  ]
+}

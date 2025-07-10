@@ -1,0 +1,189 @@
+{
+  "question_filename": "P3_2_01_00042_52504.png",
+  "id": "00042_52504",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201008",
+      "question_topic_name": "(몇십몇)x(몇십) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "곱셈을 하시오.  (1) $ \\begin{array}{r}20 \\\\ \\times 20 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}20 \\\\ \\times 30 \\\\ \\hline\\end{array} $ (3) $ \\begin{array}{r}40 \\\\ \\times 20 \\\\ \\hline\\end{array} $ (4) $ \\begin{array}{r}50 \\\\ \\times 40 \\\\ \\hline\\end{array} $ (5) $ \\begin{array}{r}60 \\\\ \\times  20 \\\\ \\hline\\end{array} $ (6) $ \\begin{array}{r}30 \\\\ \\times 70 \\\\ \\hline\\end{array} $ (7) $ \\begin{array}{r}39 \\\\ \\times 10 \\\\ \\hline\\end{array} $ (8) $ \\begin{array}{r}63 \\\\ \\times 10 \\\\ \\hline\\end{array} $ (9) $ \\begin{array}{r}12 \\\\ \\times 20 \\\\ \\hline\\end{array} $ (10) $ \\begin{array}{r}21 \\\\ \\times 40 \\\\ \\hline\\end{array} $ (11) $ \\begin{array}{r}32 \\\\ \\times 30 \\\\ \\hline\\end{array} $ (12) $ \\begin{array}{r}74 \\\\ \\times 60 \\\\ \\hline\\end{array} $ (13) $ \\begin{array}{r}54 \\\\ \\times 30 \\\\ \\hline\\end{array} $ (14) $ \\begin{array}{r}35 \\\\ \\times 70 \\\\ \\hline\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            103,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            102,
+            23,
+            172,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            86,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            93,
+            88,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            105,
+            93,
+            175,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            163,
+            88,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            104,
+            163,
+            174,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            233,
+            83,
+            276
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            100,
+            233,
+            170,
+            276
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            303,
+            89,
+            346
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            105,
+            303,
+            182,
+            346
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            373,
+            91,
+            416
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            106,
+            373,
+            182,
+            416
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            443,
+            94,
+            486
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            109,
+            443,
+            184,
+            486
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            186,
+            488
+          ],
+          "text": "곱셈을 하시오.  (1) $ \\begin{array}{r}20 \\\\ \\times 20 \\\\ \\hline\\end{array} $ (2) $ \\begin{array}{r}20 \\\\ \\times 30 \\\\ \\hline\\end{array} $ (3) $ \\begin{array}{r}40 \\\\ \\times 20 \\\\ \\hline\\end{array} $ (4) $ \\begin{array}{r}50 \\\\ \\times 40 \\\\ \\hline\\end{array} $ (5) $ \\begin{array}{r}60 \\\\ \\times  20 \\\\ \\hline\\end{array} $ (6) $ \\begin{array}{r}30 \\\\ \\times 70 \\\\ \\hline\\end{array} $ (7) $ \\begin{array}{r}39 \\\\ \\times 10 \\\\ \\hline\\end{array} $ (8) $ \\begin{array}{r}63 \\\\ \\times 10 \\\\ \\hline\\end{array} $ (9) $ \\begin{array}{r}12 \\\\ \\times 20 \\\\ \\hline\\end{array} $ (10) $ \\begin{array}{r}21 \\\\ \\times 40 \\\\ \\hline\\end{array} $ (11) $ \\begin{array}{r}32 \\\\ \\times 30 \\\\ \\hline\\end{array} $ (12) $ \\begin{array}{r}74 \\\\ \\times 60 \\\\ \\hline\\end{array} $ (13) $ \\begin{array}{r}54 \\\\ \\times 30 \\\\ \\hline\\end{array} $ (14) $ \\begin{array}{r}35 \\\\ \\times 70 \\\\ \\hline\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

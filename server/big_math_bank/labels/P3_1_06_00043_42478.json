@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_06_00043_42478.png",
+  "id": "00043_42478",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현주네 반 친구들이 미술 시간에 사용한 철사의 길이입니다. 적게 사용한 순서대로 이름을 쓰시오. 현주 : $2.7cm$ 보영 : $35mm$ 미현 : $5cm 3mm$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            568,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            107,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            55,
+            110,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            76,
+            129,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            570,
+            92
+          ],
+          "text": "현주네 반 친구들이 미술 시간에 사용한 철사의 길이입니다. 적게 사용한 순서대로 이름을 쓰시오. 현주 : $2.7cm$ 보영 : $35mm$ 미현 : $5cm 3mm$"
+        }
+      ]
+    }
+  ]
+}

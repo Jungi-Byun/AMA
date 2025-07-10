@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53675.png",
+  "id": "00043_53675",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보물지도에서 보물은 $ E $에서 $ 3 \\mathrm{~cm}, D $ 에서 $ 4 \\mathrm{~cm} $ 떨어진 곳에 있습니다. 보물은  A~H 중 어디에 있겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            620,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            34,
+            35,
+            315,
+            245
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            622,
+            20
+          ],
+          "text": "보물지도에서 보물은 $ E $에서 $ 3 \\mathrm{~cm}, D $ 에서 $ 4 \\mathrm{~cm} $ 떨어진 곳에 있습니다. 보물은  A~H 중 어디에 있겠습니까?"
+        }
+      ]
+    }
+  ]
+}

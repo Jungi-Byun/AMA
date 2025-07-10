@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53648.png",
+  "id": "00043_53648",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "원 안에 대각선 방향으로 오른쪽 위로 향하는 원의 중심을 지나는 지름과 이 지름이 원과 만나는 위쪽 점에서 그은 길이가 6 cm인 가로 현과 지름이 원과 만나는 아래쪽 점에서 그은 길이가 8 cm인 세로 현을 세 변으로 하는 삼각형이 있는 그림",
+      "question_text": "원의 반지름은 $5 cm$입니다. 삼각형의 세 변의 합은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            389,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            30,
+            27,
+            163,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            391,
+            21
+          ],
+          "text": "원의 반지름은 $5 cm$입니다. 삼각형의 세 변의 합은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

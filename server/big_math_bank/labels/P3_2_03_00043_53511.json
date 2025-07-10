@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53511.png",
+  "id": "00043_53511",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "바르게 설명한 것을 찾아 기호를 쓰시오. ㉠ 한 원에 그릴 수 있는 지름과 반지름은 각각 $1$개씩입니다.㉡ 한 원에서 중심은 셀 수 없이 많습니다.㉢ 한 원에서 반지름은 모두 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            365,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            262,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            74,
+            246,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            380,
+            98
+          ],
+          "text": "바르게 설명한 것을 찾아 기호를 쓰시오. ㉠ 한 원에 그릴 수 있는 지름과 반지름은 각각 $1$개씩입니다.㉡ 한 원에서 중심은 셀 수 없이 많습니다.㉢ 한 원에서 반지름은 모두 같습니다."
+        }
+      ]
+    }
+  ]
+}

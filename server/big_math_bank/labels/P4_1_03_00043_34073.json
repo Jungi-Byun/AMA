@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_03_00043_34073.png",
+  "id": "00043_34073",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지구가 더 세게 끌어당기는 것은 더 무거운 물체라고 합니다. 사과 상자와 배 상자 중에서 지구가 더 세게 끌어당기는 것은 어느 상자인지 쓰시오. (단, 각각 같은 무게의 상자에 담았습니다.) ㆍ$650\\mathrm{g}$짜리 배 $35$개가 든 상자  ㆍ$250\\mathrm{g}$짜리 사과 $74$개가 든 상자",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            802,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            291,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            43,
+            206,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            75,
+            220,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            101
+          ],
+          "text": "지구가 더 세게 끌어당기는 것은 더 무거운 물체라고 합니다. 사과 상자와 배 상자 중에서 지구가 더 세게 끌어당기는 것은 어느 상자인지 쓰시오. (단, 각각 같은 무게의 상자에 담았습니다.) ㆍ$650\\mathrm{g}$짜리 배 $35$개가 든 상자  ㆍ$250\\mathrm{g}$짜리 사과 $74$개가 든 상자"
+        }
+      ]
+    }
+  ]
+}

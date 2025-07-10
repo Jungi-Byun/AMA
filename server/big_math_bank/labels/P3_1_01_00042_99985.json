@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_99985.png",
+  "id": "00042_99985",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진수네 농장에서는 오늘 고구마를 $754$개 캤고, 감자를 $589$개 캤습니다. 오늘 캔 고구마는 감자보다 몇 개 더 많습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            609,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            22,
+            95,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            611,
+            41
+          ],
+          "text": "진수네 농장에서는 오늘 고구마를 $754$개 캤고, 감자를 $589$개 캤습니다. 오늘 캔 고구마는 감자보다 몇 개 더 많습니까?"
+        }
+      ]
+    }
+  ]
+}

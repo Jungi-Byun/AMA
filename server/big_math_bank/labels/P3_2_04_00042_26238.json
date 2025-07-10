@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_04_00042_26238.png",
+  "id": "00042_26238",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 물음에 답하시오. (1) 전체를 똑같이 $5$묶음으로 나누어 보시오. (2) $\\square$ 안에 알맞은 수를 써넣으시오. $45$의 $\\frac{1}{5}$은 $\\square$입니다.  45의 $\\frac{4}{5}$는 $\\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            168,
+            267,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            192,
+            225,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            216,
+            173,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            257,
+            173,
+            292
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            253,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.5,
+            2.5,
+            189.5,
+            17.5
+          ],
+          "text": "그림을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.5,
+            173.5,
+            271.5,
+            296.5
+          ],
+          "text": "(1) 전체를 똑같이 $5$묶음으로 나누어 보시오. (2) $\\square$ 안에 알맞은 수를 써넣으시오. $45$의 $\\frac{1}{5}$은 $\\square$입니다.  45의 $\\frac{4}{5}$는 $\\square$입니다."
+        }
+      ]
+    }
+  ]
+}

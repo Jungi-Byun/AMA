@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_05_00040_22911.png",
+  "id": "00040_22911",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 가장 바르게 말한 것은 어느 것입니까? ①사람들은 보통 하루에 $1$mL의 물을 먹습니다. ②우리집 승용차 기름통에는 기름이 $500$L 들어갑니다. ③양동이로 물을 한 양동이 길어왔더니 약 $25$L가 되었습니다. ④가득 담은 밥 한 공기는 $10$L쯤 됩니다. ⑤목욕통에 물을 담으려고 $200$mL의 물을 사용하였습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            283,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            294,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            341,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            376,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            257,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            366,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            378,
+            129
+          ],
+          "text": "다음 중 가장 바르게 말한 것은 어느 것입니까? ①사람들은 보통 하루에 $1$mL의 물을 먹습니다. ②우리집 승용차 기름통에는 기름이 $500$L 들어갑니다. ③양동이로 물을 한 양동이 길어왔더니 약 $25$L가 되었습니다. ④가득 담은 밥 한 공기는 $10$L쯤 됩니다. ⑤목욕통에 물을 담으려고 $200$mL의 물을 사용하였습니다."
+        }
+      ]
+    }
+  ]
+}

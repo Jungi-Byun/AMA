@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_54518.png",
+  "id": "00042_54518",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205005",
+      "question_topic_name": "들이의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "들이가 많은 것부터 차례로 기호를 쓰시오.   ㉠ $2450 mL$ ㉡ $2 L 540 mL$ ㉢ $2 L$ ㉣ $2 L 50 mL$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            258,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            325,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            331,
+            56
+          ],
+          "text": "들이가 많은 것부터 차례로 기호를 쓰시오.   ㉠ $2450 mL$ ㉡ $2 L 540 mL$ ㉢ $2 L$ ㉣ $2 L 50 mL$"
+        }
+      ]
+    }
+  ]
+}

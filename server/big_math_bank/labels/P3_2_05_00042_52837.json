@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00042_52837.png",
+  "id": "00042_52837",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205008",
+      "question_topic_name": "들이 어림하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연아와 재성이가 물을 $ 1 \\mathrm{~L} $ 만큼 어림하여 수조에 부었습니다. 실제로 물의 들이를 재어 보니 연아는 $ 970 \\mathrm{~mL} $ 이고, 재성이는 $ 1 \\mathrm{~L} 40 \\mathrm{~mL} $ 였습니다. 누가 어림을 더 잘하였습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            789,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            211,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            791,
+            41
+          ],
+          "text": "연아와 재성이가 물을 $ 1 \\mathrm{~L} $ 만큼 어림하여 수조에 부었습니다. 실제로 물의 들이를 재어 보니 연아는 $ 970 \\mathrm{~mL} $ 이고, 재성이는 $ 1 \\mathrm{~L} 40 \\mathrm{~mL} $ 였습니다. 누가 어림을 더 잘하였습니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_04_00043_39256.png",
+  "id": "00043_39256",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 사람이 넘은 줄넘기 횟수가 같을 때 ㉠$\\times$㉡을 구하시오. 세영 : $48$회씩 $4$번 우진 : $24$회씩 ㉠번 형태 : ㉡회씩 $3$번",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            342,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            135,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            54,
+            138,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            76,
+            131,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            346,
+            97
+          ],
+          "text": "세 사람이 넘은 줄넘기 횟수가 같을 때 ㉠$\\times$㉡을 구하시오. 세영 : $48$회씩 $4$번 우진 : $24$회씩 ㉠번 형태 : ㉡회씩 $3$번"
+        }
+      ]
+    }
+  ]
+}

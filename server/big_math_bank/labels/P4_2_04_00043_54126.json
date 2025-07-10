@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_2_04_00043_54126.png",
+  "id": "00043_54126",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204021",
+      "question_topic_name": "직사각형과 정사각형의 성질 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 프랑스의 루브르 박물관 입구에 있는 유리 피라미드를 그린 것입니다. 그림에서 찾을 수 있는 사각형의 이름을 $3$개 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            746,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32,
+            31,
+            230,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            749,
+            21
+          ],
+          "text": "다음은 프랑스의 루브르 박물관 입구에 있는 유리 피라미드를 그린 것입니다. 그림에서 찾을 수 있는 사각형의 이름을 $3$개 쓰시오."
+        }
+      ]
+    }
+  ]
+}

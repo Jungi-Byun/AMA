@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_03_00042_34988.png",
+  "id": "00042_34988",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103001",
+      "question_topic_name": "한 묶음 안의 수 구하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈식 $ 20 \\div 4=5 $ 를 문장으로 나타내시오. 과자 $ \\square $ 개를 $ \\square $ 사람에게 똑같이 나누어 주면 한 사람에게 $ \\square $ 개씩 줄 수 있습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            261,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            211,
+            541,
+            241
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            28,
+            201,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            0.01,
+            262.1,
+            17.01
+          ],
+          "text": "나눗셈식 $ 20 \\div 4=5 $ 를 문장으로 나타내시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.1,
+            210.01,
+            541.1,
+            241.01
+          ],
+          "text": "과자 $ \\square $ 개를 $ \\square $ 사람에게 똑같이 나누어 주면 한 사람에게 $ \\square $ 개씩 줄 수 있습니다."
+        }
+      ]
+    }
+  ]
+}

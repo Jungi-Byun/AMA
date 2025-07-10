@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_03_00043_36330.png",
+  "id": "00043_36330",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103008",
+      "question_topic_name": "나눗셈식을 곱셈식으로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림을 보고 물음에 답하시오. (1) 의 개수를 곱셈식으로 나타내어 보시오.  (2) 곱셈식을 보고 나눗셈식을 $2$개 만들어 보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            187,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.1,
+            186.4,
+            285.1,
+            220.4
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.1,
+            243.4,
+            298.1,
+            259.4
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            21,
+            23,
+            192,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.1,
+            2.4,
+            188.1,
+            16.4
+          ],
+          "text": "그림을 보고 물음에 답하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.1,
+            184.4,
+            286.1,
+            221.4
+          ],
+          "text": "(1) 의 개수를 곱셈식으로 나타내어 보시오. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.1,
+            243.4,
+            299.1,
+            259.4
+          ],
+          "text": "(2) 곱셈식을 보고 나눗셈식을 $2$개 만들어 보시오."
+        }
+      ]
+    }
+  ]
+}

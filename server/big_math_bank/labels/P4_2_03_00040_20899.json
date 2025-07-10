@@ -1,0 +1,99 @@
+{
+  "question_filename": "P4_2_03_00040_20899.png",
+  "id": "00040_20899",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 두 수의 크기를 비교할 때, 소수 둘째 자리까지 비교해야 하는 것은 어느 것입니까? ① $ 14.253,15.253 $ ② $ 0.716,0.671 $ ③ $ 8.602,8.603 $ ④ $ 100.01,100.011 $ ⑤ $ 52.842,52.834 $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            529,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            130,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            43,
+            117,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            65,
+            125,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            87,
+            139,
+            107
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            109,
+            138,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            531,
+            130
+          ],
+          "text": "다음 중 두 수의 크기를 비교할 때, 소수 둘째 자리까지 비교해야 하는 것은 어느 것입니까? ① $ 14.253,15.253 $ ② $ 0.716,0.671 $ ③ $ 8.602,8.603 $ ④ $ 100.01,100.011 $ ⑤ $ 52.842,52.834 $"
+        }
+      ]
+    }
+  ]
+}

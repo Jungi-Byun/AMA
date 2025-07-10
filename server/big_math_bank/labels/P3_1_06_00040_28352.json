@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_06_00040_28352.png",
+  "id": "00040_28352",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106011",
+      "question_topic_name": "분모를 이용한 단위분수의 크기 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 $\\square$ 안에 들어갈 수 없는  수는 어느 것입니까?     $ \\frac{1}{\\square} $<$ \\frac{1}{9} $ ① $8$  ② $10$  ③ $11$  ④ $12$  ⑤ $13$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            316,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            35,
+            24,
+            122,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            78,
+            53,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            100,
+            59,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            122,
+            55,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            144,
+            58,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            58,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.23,
+            0.65,
+            317.23,
+            187.65
+          ],
+          "text": "다음 중 $\\square$ 안에 들어갈 수 없는  수는 어느 것입니까?     $ \\frac{1}{\\square} $<$ \\frac{1}{9} $ ① $8$  ② $10$  ③ $11$  ④ $12$  ⑤ $13$"
+        }
+      ]
+    }
+  ]
+}

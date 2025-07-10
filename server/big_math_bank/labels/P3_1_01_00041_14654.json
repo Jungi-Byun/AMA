@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_01_00041_14654.png",
+  "id": "00041_14654",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101006",
+      "question_topic_name": "일, 십의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준서는 동화책을 어제까지 $362$쪽을 읽었고 오늘은 $134$쪽을 읽었습니다. 준서가 오늘까지 읽은 동화책은 모두 몇 쪽입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            713,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            715,
+            21
+          ],
+          "text": "준서는 동화책을 어제까지 $362$쪽을 읽었고 오늘은 $134$쪽을 읽었습니다. 준서가 오늘까지 읽은 동화책은 모두 몇 쪽입니까?"
+        }
+      ]
+    }
+  ]
+}

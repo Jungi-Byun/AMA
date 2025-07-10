@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_03_00043_36122.png",
+  "id": "00043_36122",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103010",
+      "question_topic_name": "나눗셈의 몫을 곱셈식으로 구하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진성이와 친구 $3$명이 한 시간에 복숭아를 $16$개씩 땁니다. 모든 친구가 같은 시간 동안 똑같은 수의 복숭아를 딴다면 친구 $2$명이 $72$개의 복숭아를 따는 데에는 몇 시간이 걸리겠습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            804,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            262,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "진성이와 친구 $3$명이 한 시간에 복숭아를 $16$개씩 땁니다. 모든 친구가 같은 시간 동안 똑같은 수의 복숭아를 딴다면 친구 $2$명이 $72$개의 복숭아를 따는 데에는 몇 시간이 걸리겠습니까?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "question_filename": "P3_2_02_00043_51789.png",
+  "id": "00043_51789",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 모형을 보고 $ \\square $ 안에 알맞은 수를 써넣으시오. $42\\div6=\\square$  검산$6\\times\\square=42$ $33\\div5=\\square\\cdots\\square$ $\\square\\times6+\\square=33$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            291,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            147,
+            123,
+            229,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            102,
+            153,
+            227,
+            177
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            112,
+            292,
+            235,
+            317
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            68,
+            322,
+            233,
+            347
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            42,
+            315,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            37,
+            211,
+            281,
+            283
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            293,
+            22
+          ],
+          "text": "수 모형을 보고 $ \\square $ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            100,
+            122,
+            231,
+            178
+          ],
+          "text": "$42\\div6=\\square$  검산$6\\times\\square=42$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            66,
+            291,
+            237,
+            348
+          ],
+          "text": "$33\\div5=\\square\\cdots\\square$ $\\square\\times6+\\square=33$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00043_20938.png",
+  "id": "00043_20938",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "철사  $ 9.8 \\mathrm{~cm} $ 를 가지고 겹치지 않게 사용하여 한 변의 길이가 $ 1.8 \\mathrm{~cm} $인 정사각형을 한 개 만들었습니다. 남은 철사의 길이는 몇 $\\mathrm{cm}$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            788,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            790,
+            21
+          ],
+          "text": "철사  $ 9.8 \\mathrm{~cm} $ 를 가지고 겹치지 않게 사용하여 한 변의 길이가 $ 1.8 \\mathrm{~cm} $인 정사각형을 한 개 만들었습니다. 남은 철사의 길이는 몇 $\\mathrm{cm}$입니까?"
+        }
+      ]
+    }
+  ]
+}

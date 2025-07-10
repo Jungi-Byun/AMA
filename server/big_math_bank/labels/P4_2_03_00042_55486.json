@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_03_00042_55486.png",
+  "id": "00042_55486",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203010",
+      "question_topic_name": "소수 한 자리 수의 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오.(1) $ \\begin{array}{r}0.9 \\\\ -0.3 \\\\ \\hline \\square\\end{array} (2) \\begin{array}{r}0.8 \\\\ -0.6 \\\\ \\hline \\square \\\\\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            24,
+            98,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            130,
+            24,
+            212,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            214,
+            99
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오.(1) $ \\begin{array}{r}0.9 \\\\ -0.3 \\\\ \\hline \\square\\end{array} (2) \\begin{array}{r}0.8 \\\\ -0.6 \\\\ \\hline \\square \\\\\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

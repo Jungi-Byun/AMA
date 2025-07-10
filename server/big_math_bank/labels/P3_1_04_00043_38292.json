@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_1_04_00043_38292.png",
+  "id": "00043_38292",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104003",
+      "question_topic_name": "올림이 없는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 사람의 대화를 읽고 물음에 답하시오. 은수 : 나는 매일 동화책을 $34$쪽씩 읽어.동준 : 나는 매일 동화책을 $42$쪽씩 읽어.은수 : 우리가 $2$일 동안 읽은 동화책은 모두 몇 쪽일까? ⑴ 은수가 읽은 동화책은 모두 몇 쪽인지 곱셈식으로 써 보시오.⑵ 동준이가 읽은 동화책은 모두 몇 쪽인지 곱셈식으로 써 보시오.⑶ 두 사람이 읽은 동화책은 모두 몇 쪽입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            246,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            255,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            56,
+            253,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            74,
+            337,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            104,
+            375,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            126,
+            388,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            148,
+            283,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            395,
+            163
+          ],
+          "text": "두 사람의 대화를 읽고 물음에 답하시오. 은수 : 나는 매일 동화책을 $34$쪽씩 읽어.동준 : 나는 매일 동화책을 $42$쪽씩 읽어.은수 : 우리가 $2$일 동안 읽은 동화책은 모두 몇 쪽일까? ⑴ 은수가 읽은 동화책은 모두 몇 쪽인지 곱셈식으로 써 보시오.⑵ 동준이가 읽은 동화책은 모두 몇 쪽인지 곱셈식으로 써 보시오.⑶ 두 사람이 읽은 동화책은 모두 몇 쪽입니까?"
+        }
+      ]
+    }
+  ]
+}

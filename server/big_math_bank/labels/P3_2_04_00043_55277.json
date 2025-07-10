@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_04_00043_55277.png",
+  "id": "00043_55277",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빵 2개를 3명이 똑같이 나누어 먹을 수 있는 방법을 2가지로 알아보려고 합니다. 그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오. $\\Rightarrow$ 한 명이 먹을 수 있는 빵의 양은 (부채꼴)와 (부채꼴)이므로 분수로 나타내면 $\\frac{1}{\\square}$ 과 $\\frac{1}{\\square}$ 입니다. $\\Rightarrow$ 한 명이 먹을 수 있는 빵의 양은 (반달)와 (부채꼴)이므로 분수로 나타내면 $\\frac{1}{\\square}$ 과 $\\frac{1}{\\square}$ 입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            728,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            35,
+            132,
+            631,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            308,
+            611,
+            362
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            22,
+            193,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            201,
+            198,
+            314
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.5,
+            1.7,
+            732.1,
+            16.1
+          ],
+          "text": "빵 2개를 3명이 똑같이 나누어 먹을 수 있는 방법을 2가지로 알아보려고 합니다. 그림을 보고 $\\square$ 안에 알맞은 수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.9,
+            134.5,
+            618.5,
+            196.9
+          ],
+          "text": "$\\Rightarrow$ 한 명이 먹을 수 있는 빵의 양은 (부채꼴)와 (부채꼴)이므로 분수로 나타내면 $\\frac{1}{\\square}$ 과 $\\frac{1}{\\square}$ 입니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            23.3,
+            308.1,
+            593.7,
+            363.3
+          ],
+          "text": "$\\Rightarrow$ 한 명이 먹을 수 있는 빵의 양은 (반달)와 (부채꼴)이므로 분수로 나타내면 $\\frac{1}{\\square}$ 과 $\\frac{1}{\\square}$ 입니다."
+        }
+      ]
+    }
+  ]
+}

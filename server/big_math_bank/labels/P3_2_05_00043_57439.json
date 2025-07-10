@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_05_00043_57439.png",
+  "id": "00043_57439",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205003",
+      "question_topic_name": "컵의 수를 비교하여 들이 비교하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우유갑에 물을 가득 채운 후 컵에 옮겨 담았더니 그림과 같이 물이 채워졌습니다. 우유갑과 컵 중에서 들이가 더 많은 것은 어느 것입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            793,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            31,
+            283,
+            121
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            24
+          ],
+          "text": "우유갑에 물을 가득 채운 후 컵에 옮겨 담았더니 그림과 같이 물이 채워졌습니다. 우유갑과 컵 중에서 들이가 더 많은 것은 어느 것입니까?"
+        }
+      ]
+    }
+  ]
+}

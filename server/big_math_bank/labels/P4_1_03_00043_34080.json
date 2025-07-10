@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_1_03_00043_34080.png",
+  "id": "00043_34080",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "철인 3종 경기는 수영과 사이클 및 마라톤을 한 사람이 연속해서 하는 경기를 말합니다. 현수네 아버지가 1분 동안 수영하는 거리는 57m이고, 1분 동안 자전거를 타고 달리는 거리는 445m입니다. 현수네 아버지가 연습한 거리는 모두 몇 m입니까? 수영을 29분 동안 하고, 나머지는 자전거를 타고 달렸더니 모두 1시간이 걸려서 마라톤은 쉬었습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            23,
+            36,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            603,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            65,
+            600,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            802,
+            97
+          ],
+          "text": "철인 3종 경기는 수영과 사이클 및 마라톤을 한 사람이 연속해서 하는 경기를 말합니다. 현수네 아버지가 1분 동안 수영하는 거리는 57m이고, 1분 동안 자전거를 타고 달리는 거리는 445m입니다. 현수네 아버지가 연습한 거리는 모두 몇 m입니까? 수영을 29분 동안 하고, 나머지는 자전거를 타고 달렸더니 모두 1시간이 걸려서 마라톤은 쉬었습니다."
+        }
+      ]
+    }
+  ]
+}

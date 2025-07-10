@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_20888.png",
+  "id": "00043_20888",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "눈금 단위가 0.1이고 10칸마다 0부터 3까지 1배수 단위로 적은 눈금선이 있고 원 문자 ㄱ과 화살표로 표시되어 있는 1.3에 해당하는 눈금과 원 문자 ㄴ과 화살표로 표시되어 있는 2.5에 해당하는 눈금",
+      "question_text": "㉠, ㉡에 알맞은 소수를 각각 쓰시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            224,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            19,
+            331,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            226,
+            20
+          ],
+          "text": "㉠,㉡에 알맞은 소수를 각각 쓰시오."
+        }
+      ]
+    }
+  ]
+}

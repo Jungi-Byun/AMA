@@ -1,0 +1,149 @@
+{
+  "question_filename": "P4_2_05_00043_59041.png",
+  "id": "00043_59041",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205006",
+      "question_topic_name": "꺾은선그래프로 나타내고 내용 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㈎는 병헌이네 모둠 학생들의 몸무게를 조사하여 나타낸 표이고, ㈏는 병헌이의 몸무게를 $4$년 동안 조사하여 나타낸 표입니다. 물음에 답하시오. ㈎ 병헌이네 모둠 학생들의 몸무게 <table border> <tbody> <tr> <td>이름</td> <td>병헌</td> <td>수철</td> <td>진아</td> <td>연경</td> </tr> <tr> <td>몸무게$(kg)$</td> <td>$34$</td> <td>$28$</td> <td>$30$</td> <td>$26$</td> </tr> </tbody> </table> (나) 병헌이의 몸무게 <table border> <tbody> <tr> <td>학년</td> <td>$1$</td> <td>$2$</td> <td>$3$</td> <td>$4$</td> </tr> <tr> <td>몸무게$(kg)$</td> <td>$22$</td> <td>$26$</td> <td>$32$</td> <td>$34$</td> </tr> </tbody> </table>  (1) (가)를 보고 막대그래프와 꺾은선그래프 중 알맞은 그래프로 나타내시오. (2) (나)를 보고 막대그래프와 꺾은선그래프 중 알맞은 그래프로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            49,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            213,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            66,
+            315,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            117,
+            129,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            134,
+            315,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            190,
+            435,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            434,
+            435,
+            451
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            270,
+            309,
+            427
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            514,
+            309,
+            671
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            801,
+            208
+          ],
+          "text": "㈎는 병헌이네 모둠 학생들의 몸무게를 조사하여 나타낸 표이고, ㈏는 병헌이의 몸무게를 $4$년 동안 조사하여 나타낸 표입니다. 물음에 답하시오. ㈎ 병헌이네 모둠 학생들의 몸무게 <table border> <tbody> <tr> <td>이름</td> <td>병헌</td> <td>수철</td> <td>진아</td> <td>연경</td> </tr> <tr> <td>몸무게$(kg)$</td> <td>$34$</td> <td>$28$</td> <td>$30$</td> <td>$26$</td> </tr> </tbody> </table> (나) 병헌이의 몸무게 <table border> <tbody> <tr> <td>학년</td> <td>$1$</td> <td>$2$</td> <td>$3$</td> <td>$4$</td> </tr> <tr> <td>몸무게$(kg)$</td> <td>$22$</td> <td>$26$</td> <td>$32$</td> <td>$34$</td> </tr> </tbody> </table>  (1) (가)를 보고 막대그래프와 꺾은선그래프 중 알맞은 그래프로 나타내시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            431,
+            437,
+            458
+          ],
+          "text": "(2) (나)를 보고 막대그래프와 꺾은선그래프 중 알맞은 그래프로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

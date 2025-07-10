@@ -1,0 +1,89 @@
+{
+  "question_filename": "P3_2_01_00043_49122.png",
+  "id": "00043_49122",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201001",
+      "question_topic_name": "올림 없는 (세 자리 수)x(한 자리 수) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$134=100+30+4$임을 이용하여 $134\\times2$를 구하려고 합니다.  ㉠과 ㉡에 알맞은 수를 각각 구하시오.  $ \\left.\\begin{array}{rl}100 \\times 2 & =200 \\\\ 30 \\times 2 & =\\boxed{\\phantom{(}㉠\\phantom{)}} \\\\ 4 \\times 2 & =8\\end{array}\\right] \\rightarrow 134 \\times 2=\\boxed{\\phantom{(}㉡\\phantom{)}} \\\\ $  $ \\begin{array}{ll}\\text { ㉠ ( } & ) \\\\ \\text { ㉡ }( & )\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            564,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            53,
+            44,
+            159,
+            62
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            59,
+            64,
+            152,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            200,
+            64,
+            300,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69,
+            93,
+            138,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            566,
+            114
+          ],
+          "text": "$134=100+30+4$임을 이용하여 $134\\times2$를 구하려고 합니다.  ㉠과 ㉡에 알맞은 수를 각각 구하시오.  $ \\left.\\begin{array}{rl}100 \\times 2 & =200 \\\\ 30 \\times 2 & =\\boxed{\\phantom{(}㉠\\phantom{)}} \\\\ 4 \\times 2 & =8\\end{array}\\right] \\rightarrow 134 \\times 2=\\boxed{\\phantom{(}㉡\\phantom{)}} \\\\ $  $ \\begin{array}{ll}\\text { ㉠ ( } & ) \\\\ \\text { ㉡ }( & )\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

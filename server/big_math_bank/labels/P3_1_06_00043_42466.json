@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_06_00043_42466.png",
+  "id": "00043_42466",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106019",
+      "question_topic_name": "소수의 크기 비교하는 방법 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "피노키오는 거짓말을 하면 코의 길이가 길어지고, 착한 일을 하면 코의 길이가 짧아집니다. 그림을 보고 피노키오의 코의 길이가 가장 긴 날은 며칠인지 쓰시오. $1$일 : $11mm$ $2$일 : $4.7cm$ $3$일 : $7cm$보다 $\\frac{8}{10} cm$ 더 길어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            799,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            133,
+            38
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24.17,
+            51.94,
+            376.17,
+            89.94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.17,
+            0.94,
+            800.17,
+            89.94
+          ],
+          "text": "피노키오는 거짓말을 하면 코의 길이가 길어지고, 착한 일을 하면 코의 길이가 짧아집니다. 그림을 보고 피노키오의 코의 길이가 가장 긴 날은 며칠인지 쓰시오. $1$일 : $11mm$ $2$일 : $4.7cm$ $3$일 : $7cm$보다 $\\frac{8}{10} cm$ 더 길어."
+        }
+      ]
+    }
+  ]
+}

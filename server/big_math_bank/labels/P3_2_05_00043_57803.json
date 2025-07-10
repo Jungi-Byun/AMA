@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_2_05_00043_57803.png",
+  "id": "00043_57803",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205011",
+      "question_topic_name": "들이의 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "칵테일은 술에 과즙 또는 음료 등 여러 가지 재료를 섞어 만든 음료입니다. 왼쪽의 재료를 모두 사용하여 준 벅(June Bug)이라는 칵테일을 만들어 잔에 담으려고 합니다. 잔 중에서 준 벅을 담을 수 있는 잔은 모두 몇 가지입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            794,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            516,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            572,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            795,
+            179
+          ],
+          "text": "칵테일은 술에 과즙 또는 음료 등 여러 가지 재료를 섞어 만든 음료입니다. 왼쪽의 재료를 모두 사용하여 준 벅(June Bug)이라는 칵테일을 만들어 잔에 담으려고 합니다. 잔 중에서 준 벅을 담을 수 있는 잔은 모두 몇 가지입니까?"
+        }
+      ]
+    }
+  ]
+}

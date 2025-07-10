@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_04_00043_55389.png",
+  "id": "00043_55389",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "초콜릿 한 개를 $12$조각으로 똑같이 나눈 후 세 사람이 먹었습니다. $\\square$ 안에 알맞은 수를 써넣고, 각각의 색으로 칠해 보시오. [민정] $12$조각의 $ \\frac{1}{2}  \\rightarrow \\square$조각(빨간색) [상수] $12$조각의 $ \\frac{1}{3}  \\rightarrow \\square$조각(파란색) [현호] 두 사람이 먹고 남은 조각 $\\rightarrow \\square$조각(노란색)1",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            709,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            117,
+            279,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            159,
+            279,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            198,
+            203,
+            214
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17,
+            220,
+            158,
+            241
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            29,
+            309,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.88,
+            0.61,
+            710.68,
+            19.01
+          ],
+          "text": "초콜릿 한 개를 $12$조각으로 똑같이 나눈 후 세 사람이 먹었습니다. $\\square$ 안에 알맞은 수를 써넣고, 각각의 색으로 칠해 보시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            15,
+            115,
+            281,
+            241
+          ],
+          "text": "[민정] $12$조각의 $ \\frac{1}{2}  \\rightarrow \\square$조각(빨간색) [상수] $12$조각의 $ \\frac{1}{3}  \\rightarrow \\square$조각(파란색) [현호] 두 사람이 먹고 남은 조각 $\\rightarrow \\square$조각(노란색)1"
+        }
+      ]
+    }
+  ]
+}

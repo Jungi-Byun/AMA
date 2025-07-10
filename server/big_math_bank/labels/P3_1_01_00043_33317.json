@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00043_33317.png",
+  "id": "00043_33317",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101017",
+      "question_topic_name": "백, 십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "마트에서 본 여러 가지 식품입니다. 다음에서 들(논, 밭)에서 나는 두 식품의 차는 몇 개입니까? <table border> <caption></caption>   <tbody>     <tr>       <td>조개</td>       <td>감자</td>       <td>우유</td>       <td>옥수수</td>     </tr>     <tr>       <td>$834$개</td>       <td>$1325$개</td>       <td>$395$개</td>       <td>$746$개</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            550,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            17,
+            216,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            552,
+            68
+          ],
+          "text": "마트에서 본 여러 가지 식품입니다. 다음에서 들(논, 밭)에서 나는 두 식품의 차는 몇 개입니까? <table border> <caption></caption>   <tbody>     <tr>       <td>조개</td>       <td>감자</td>       <td>우유</td>       <td>옥수수</td>     </tr>     <tr>       <td>$834$개</td>       <td>$1325$개</td>       <td>$395$개</td>       <td>$746$개</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

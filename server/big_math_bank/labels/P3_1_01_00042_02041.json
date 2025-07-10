@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_02041.png",
+  "id": "00042_02041",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "고구마가 $478$개 있습니다. 이 중에서 $125$개를 이웃집에 주고, $140$개를 큰 아버지 댁에 보냈습니다. 남아 있는 고구마는 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            605,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            178,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            607,
+            41
+          ],
+          "text": "고구마가 $478$개 있습니다. 이 중에서 $125$개를 이웃집에 주고, $140$개를 큰 아버지 댁에 보냈습니다. 남아 있는 고구마는 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

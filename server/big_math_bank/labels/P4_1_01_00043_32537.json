@@ -1,0 +1,89 @@
+{
+  "question_filename": "P4_1_01_00043_32537.png",
+  "id": "00043_32537",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101005",
+      "question_topic_name": "천만 단위 수의 각 자리의 숫자와 나타내는 값 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 나타내는 수가 다른 것을 찾아 기호를 쓰시오.  ㉠ 만이 $86$, 일이 $5021$인 수 ㉡ $800000+60000+5000+20+1$ ㉢ $865021$ ㉣ 팔십육만 오백이십일",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            21,
+            188,
+            55
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            55,
+            236,
+            74
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            74,
+            96,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            98,
+            169,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            764,
+            123
+          ],
+          "text": "다음 중 나타내는 수가 다른 것을 찾아 기호를 쓰시오.  ㉠ 만이 $86$, 일이 $5021$인 수 ㉡ $800000+60000+5000+20+1$ ㉢ $865021$ ㉣ 팔십육만 오백이십일"
+        }
+      ]
+    }
+  ]
+}

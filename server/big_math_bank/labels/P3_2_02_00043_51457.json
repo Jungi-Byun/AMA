@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_02_00043_51457.png",
+  "id": "00043_51457",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "낙타는 등에 혹을 가지고 있는 동물로 혹이 $1$개 있는 단봉낙타와 혹이 $2$개 있는 쌍봉낙타의 두 종류가 있습니다. 무리지어 있는 쌍봉낙타의 혹을 세어 보니 모두 $38$개였습니다. 쌍봉낙타는 몇 마리입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            795,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            378,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            797,
+            41
+          ],
+          "text": "낙타는 등에 혹을 가지고 있는 동물로 혹이 $1$개 있는 단봉낙타와 혹이 $2$개 있는 쌍봉낙타의 두 종류가 있습니다. 무리지어 있는 쌍봉낙타의 혹을 세어 보니 모두 $38$개였습니다. 쌍봉낙타는 몇 마리입니까?"
+        }
+      ]
+    }
+  ]
+}

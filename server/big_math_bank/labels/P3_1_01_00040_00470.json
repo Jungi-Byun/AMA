@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_01_00040_00470.png",
+  "id": "00040_00470",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "진이네 과수원에서는 작년에 사과 $725$개를 수확하였고, 올해는 작년보다 $287$개를 더 수확하였습니다. 올해에 수확한 사과는 모두 몇 개입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            610,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            237,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            247,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            612,
+            62
+          ],
+          "text": "진이네 과수원에서는 작년에 사과 $725$개를 수확하였고, 올해는 작년보다 $287$개를 더 수확하였습니다. 올해에 수확한 사과는 모두 몇 개입니까?"
+        }
+      ]
+    }
+  ]
+}

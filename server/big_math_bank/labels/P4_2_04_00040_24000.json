@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_04_00040_24000.png",
+  "id": "00040_24000",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204019",
+      "question_topic_name": "직사각형의 성질 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "점 ㄴ이 좌측인 변 ㄴㄷ을 밑변으로 하는 사각형 ㄱㄴㄷㄹ이 있고 변 ㄱㄴ의 길이가 4 cm, 변 ㄱㄹ의 길이가 5 cm인 그림",
+      "question_text": "사각형 $ㄱㄴㄷㄹ$은 직사각형입니다. 둘레는 몇 $ \\mathrm{cm} $입니까? ①$18 \\mathrm{cm} $ ②$19 \\mathrm{cm} $  ③$20 \\mathrm{cm} $  ④$22 \\mathrm{cm} $  ⑤$24 \\mathrm{cm} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            1,
+            347,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            105,
+            74,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            127,
+            76,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            149,
+            80,
+            169
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            171,
+            79,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            193,
+            79,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            19,
+            23,
+            136,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            349,
+            21
+          ],
+          "text": "사각형 $ㄱㄴㄷㄹ$은 직사각형입니다. 둘레는 몇 $ \\mathrm{cm} $입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18,
+            104,
+            82,
+            214
+          ],
+          "text": "①$18 \\mathrm{cm} $ ②$19 \\mathrm{cm} $  ③$20 \\mathrm{cm} $  ④$22 \\mathrm{cm} $  ⑤$24 \\mathrm{cm} $"
+        }
+      ]
+    }
+  ]
+}

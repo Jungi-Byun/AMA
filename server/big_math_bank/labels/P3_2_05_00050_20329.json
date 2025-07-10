@@ -1,0 +1,109 @@
+{
+  "question_filename": "P3_2_05_00050_20329.png",
+  "id": "00050_20329",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205020",
+      "question_topic_name": "kg보다 더 큰 무게의 단위 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "무게를 비교하여 $\\bigcirc$ 안에 $>,=,<$를 알맞게 써넣으시오.($1$) $2.8t  \\bigcirc 280kg$ ($2) 53kg \\bigcirc 0.53t$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            326,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            25,
+            64,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            67,
+            21,
+            93,
+            47
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            89,
+            22,
+            140,
+            42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            52,
+            71,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            74,
+            49,
+            100,
+            75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            96,
+            53,
+            140,
+            69
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            328,
+            76
+          ],
+          "text": "무게를 비교하여 $\\bigcirc$ 안에 $>,=,<$를 알맞게 써넣으시오.($1$) $2.8t  \\bigcirc 280kg$ ($2) 53kg \\bigcirc 0.53t$"
+        }
+      ]
+    }
+  ]
+}

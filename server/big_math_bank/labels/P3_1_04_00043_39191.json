@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_04_00043_39191.png",
+  "id": "00043_39191",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104007",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇)x(몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 18 cm, 세로 16 cm, 높이 9 cm인 노란색 직육면체 모양의 선물상자에 빨간색 리본을 묶은 그림",
+      "question_text": "현철이는 친구에게 줄 선물을 리본으로 묶어 포장하려고 합니다. 그림과 같이 상자의 겉면을 리본으로 감았습니다. 매듭의 길이가 $20cm$일 때 현철이가 사용한 리본은 모두 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            796,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            285,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            22,
+            45,
+            190,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            798,
+            41
+          ],
+          "text": "현철이는 친구에게 줄 선물을 리본으로 묶어 포장하려고 합니다. 그림과 같이 상자의 겉면을 리본으로 감았습니다. 매듭의 길이가 $20cm$일 때 현철이가 사용한 리본은 모두 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

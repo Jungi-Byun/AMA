@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_06_00043_20882.png",
+  "id": "00043_20882",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "0부터 시작하는 수직선 위에서 0과 10의 배수인 눈금마다 좀 더 길게 눈금을 그리고 그 눈금 아래에 숫자 1, 2, 3, 4가 쓰여 있고, 눈금 2보다 오른쪽 두 번째 눈금 아래 눈금을 가리키는 화살표 아래 원 문자 ㄱ이 있고, 눈금 3보다 오른쪽 여섯 번째 눈금 아래 눈금을 가리키는 화살표 아래 원 문자 ㄴ이 있는 수직선",
+      "question_text": "㉠, ㉡에 알맞은 소수를 쓰시오.㉠ ( )㉡ ( )",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            194,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            331,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            196,
+            21
+          ],
+          "text": "㉠, ㉡에 알맞은 소수를 쓰시오.㉠ ( )㉡ ( )"
+        }
+      ]
+    }
+  ]
+}

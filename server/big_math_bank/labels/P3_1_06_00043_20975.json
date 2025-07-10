@@ -1,0 +1,49 @@
+{
+  "question_filename": "P3_1_06_00043_20975.png",
+  "id": "00043_20975",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106014",
+      "question_topic_name": "1보다 큰 소수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "희주가 가지고 있는 머리핀의 길이는 $ 40 \\mathrm{~mm} $ 보다 $ 8 \\mathrm{~mm} $ 더 깁니다. 희주가 가지고 있는 머리핀의 길이는 몇 $ \\mathrm{cm} $ 인지 소수로 나타내시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            780,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            782,
+            21
+          ],
+          "text": "희주가 가지고 있는 머리핀의 길이는 $ 40 \\mathrm{~mm} $ 보다 $ 8 \\mathrm{~mm} $ 더 깁니다. 희주가 가지고 있는 머리핀의 길이는 몇 $ \\mathrm{cm} $ 인지 소수로 나타내시오."
+        }
+      ]
+    }
+  ]
+}

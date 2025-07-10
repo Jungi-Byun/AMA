@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_06_00042_26023.png",
+  "id": "00042_26023",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106007",
+      "question_topic_name": "분자를 이용하여 분모가 같은 분수의 크기 비교하기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$ \\frac{4}{9} $보다 작은 수를 모두 고르시오.  ① $ \\frac{5}{9} $ ② $ \\frac{2}{9} $ ③ $ \\frac{7}{9} $ ④ $ \\frac{6}{9} $ ⑤ $ \\frac{3}{9} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            2,
+            212,
+            36
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            44,
+            63,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            84,
+            63,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            126,
+            63,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            166,
+            63,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            207,
+            63,
+            242
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            214,
+            243
+          ],
+          "text": "$ \\frac{4}{9} $보다 작은 수를 모두 고르시오.  ① $ \\frac{5}{9} $ ② $ \\frac{2}{9} $ ③ $ \\frac{7}{9} $ ④ $ \\frac{6}{9} $ ⑤ $ \\frac{3}{9} $"
+        }
+      ]
+    }
+  ]
+}

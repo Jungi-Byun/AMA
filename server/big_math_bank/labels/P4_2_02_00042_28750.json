@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_2_02_00042_28750.png",
+  "id": "00042_28750",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202012",
+      "question_topic_name": "삼각형을 각의 크기에 따라 분류하기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "점판에서 주어진 선분을 한 변으로 하는 예각삼각형을 그리려고 합니다. 이을 수 있는 점은 모두 몇 개입니까? ①$1$개 ②$2$개 ③$3$개 ④$4$개 ⑤$5$개",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            634,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            111,
+            65,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            133,
+            65,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            155,
+            65,
+            175
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            177,
+            64,
+            197
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19.02,
+            91.91,
+            61.9,
+            107.91
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            20,
+            132,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.02,
+            0,
+            632.78,
+            17.67
+          ],
+          "text": "점판에서 주어진 선분을 한 변으로 하는 예각삼각형을 그리려고 합니다. 이을 수 있는 점은 모두 몇 개입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            20.94,
+            91.91,
+            64.46,
+            196.87
+          ],
+          "text": "①$1$개 ②$2$개 ③$3$개 ④$4$개 ⑤$5$개"
+        }
+      ]
+    }
+  ]
+}

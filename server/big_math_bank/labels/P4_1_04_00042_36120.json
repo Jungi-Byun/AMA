@@ -1,0 +1,119 @@
+{
+  "question_filename": "P4_1_04_00042_36120.png",
+  "id": "00042_36120",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104007",
+      "question_topic_name": "평면도형을 시계 방향으로 돌리기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "①오른쪽으로 밀기 ②아래쪽으로 뒤집기 ③위쪽으로 뒤집기 ④ (시계 방향으로 90도) 방향으로 돌리기 ⑤ (반시계 방향으로 90도) 방향으로 돌리기 왼쪽 도형을 움직여 오른쪽 도형을 만들었습니다. 어떻게 움직였습니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            426,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            117,
+            137,
+            137
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            139,
+            149,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            161,
+            137,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            17.64,
+            182.29,
+            169.71,
+            213.53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20.2,
+            213.53,
+            170.22,
+            238.61
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            20.2,
+            21.01,
+            216.81,
+            97.3
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.15,
+            115.22,
+            171.24,
+            238.61
+          ],
+          "text": "①오른쪽으로 밀기 ②아래쪽으로 뒤집기 ③위쪽으로 뒤집기 ④ (시계 방향으로 90도) 방향으로 돌리기 ⑤ (반시계 방향으로 90도) 방향으로 돌리기"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            18.67,
+            0.53,
+            425.71,
+            17.43
+          ],
+          "text": "왼쪽 도형을 움직여 오른쪽 도형을 만들었습니다. 어떻게 움직였습니까?  "
+        }
+      ]
+    }
+  ]
+}

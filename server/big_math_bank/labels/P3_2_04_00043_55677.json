@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00043_55677.png",
+  "id": "00043_55677",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "여러 가지 물질의 성질을 알아보았습니다. 물에 가라앉으면서 가장 잘 구부러지는 막대에 쓰인 분수는 진분수와 가분수 중에서 무엇입니까? <물질의 성질> $ \\frac{7}{4}   \\frac{3}{5}   \\frac{8}{8}   \\frac{5}{6} $   철막대  나무막대  플라스틱막대  고무막대",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            18
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            21,
+            118,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            54,
+            310,
+            190
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            190,
+            314,
+            240
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            50,
+            240,
+            317,
+            268
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            44,
+            268,
+            325,
+            293
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            291
+          ],
+          "text": "여러 가지 물질의 성질을 알아보았습니다. 물에 가라앉으면서 가장 잘 구부러지는 막대에 쓰인 분수는 진분수와 가분수 중에서 무엇입니까? <물질의 성질> $ \\frac{7}{4}   \\frac{3}{5}   \\frac{8}{8}   \\frac{5}{6} $   철막대  나무막대  플라스틱막대  고무막대"
+        }
+      ]
+    }
+  ]
+}

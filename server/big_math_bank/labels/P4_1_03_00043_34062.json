@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_03_00043_34062.png",
+  "id": "00043_34062",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103004",
+      "question_topic_name": "세 자리 수와 두 자리 수 곱하기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 곱셈에서 ㉠과 ㉡은 서로 다른 숫자이고, 각각의 $\\square$는 $0$이 아닌 숫자를 나타내고 있습니다. ㉠과 ㉡을 각각 구하시오.  $\\begin{array}{r}8\\,7\\,㉡ \\\\ \\underline{\\times \\; ㉠㉡} \\\\ \\square\\, \\square\\,\\square\\,\\square \\\\ \\underline{\\square\\, \\square\\,\\square\\,\\square} \\\\ 6\\;\\,4\\;\\,6\\;\\,7\\;\\,6\\, \\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            701,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            22,
+            98,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            703,
+            138
+          ],
+          "text": "다음 곱셈에서 ㉠과 ㉡은 서로 다른 숫자이고, 각각의 $\\square$는 $0$이 아닌 숫자를 나타내고 있습니다. ㉠과 ㉡을 각각 구하시오.  $\\begin{array}{r}8\\,7\\,㉡ \\\\ \\underline{\\times \\; ㉠㉡} \\\\ \\square\\, \\square\\,\\square\\,\\square \\\\ \\underline{\\square\\, \\square\\,\\square\\,\\square} \\\\ 6\\;\\,4\\;\\,6\\;\\,7\\;\\,6\\, \\end{array}$"
+        }
+      ]
+    }
+  ]
+}

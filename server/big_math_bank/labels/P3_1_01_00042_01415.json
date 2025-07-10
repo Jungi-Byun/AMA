@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_1_01_00042_01415.png",
+  "id": "00042_01415",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101015",
+      "question_topic_name": "십의 자리에서 받아내림이 있는 뺄셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나현이는 붙임 딱지를 $258$장 가지고 있습니다. 그중에서 범준이에게 몇 장을 주었더니 나현이가 가진 붙임 딱지는 $136$장이 되었습니다. 나현이가 범준이에게 준 붙임 딱지는 몇 장입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            617,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            467,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            618,
+            41
+          ],
+          "text": "나현이는 붙임 딱지를 $258$장 가지고 있습니다. 그중에서 범준이에게 몇 장을 주었더니 나현이가 가진 붙임 딱지는 $136$장이 되었습니다. 나현이가 범준이에게 준 붙임 딱지는 몇 장입니까?"
+        }
+      ]
+    }
+  ]
+}

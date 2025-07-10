@@ -1,0 +1,79 @@
+{
+  "question_filename": "P4_2_03_00043_50772.png",
+  "id": "00043_50772",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203018",
+      "question_topic_name": "소수 두 자리 수의 뺄셈의 활용",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "샤프 한 자루의 무게가 $0.35  g$이라면 지우개 한 개의 무게는 몇 $g$입니까? $1.72g$ $1.14g$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            430,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            78,
+            108,
+            276,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            33,
+            319,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.46,
+            0.81,
+            430.54,
+            17.45
+          ],
+          "text": "샤프 한 자루의 무게가 $0.35  g$이라면 지우개 한 개의 무게는 몇 $g$입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            77.9,
+            108.33,
+            275.66,
+            127.53
+          ],
+          "text": "$1.72g$ $1.14g$"
+        }
+      ]
+    }
+  ]
+}

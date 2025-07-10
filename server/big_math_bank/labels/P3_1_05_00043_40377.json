@@ -1,0 +1,69 @@
+{
+  "question_filename": "P3_1_05_00043_40377.png",
+  "id": "00043_40377",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105014",
+      "question_topic_name": "60초 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣고, 가장 짧은 기록은 몇 분 몇 초인지 쓰시오.  <table border> <caption>달리기 기록</caption>   <tbody>     <tr>       <td>이름</td>       <td>기록(초)</td>       <td>기록(분,</td>     </tr>     <tr>       <td>수민</td>       <td>$~~\\square$초</td>       <td >7분56초</td>     </tr>     <tr>       <td>병호</td>       <td>$486$초</td>       <td>$\\square$분$\\square$초</td>     </tr>     <tr>       <td>미영</td>       <td>$408$초</td>       <td>$\\square$분$\\square$초</td>     </tr> <tr>       <td>혜진</td>       <td>$~~\\square$초</td>       <td>12분23초</td>     </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            415,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            107,
+            22,
+            177,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            44,
+            339,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            417,
+            161
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣고, 가장 짧은 기록은 몇 분 몇 초인지 쓰시오.  <table border> <caption>달리기 기록</caption>   <tbody>     <tr>       <td>이름</td>       <td>기록(초)</td>       <td>기록(분,</td>     </tr>     <tr>       <td>수민</td>       <td>$~~\\square$초</td>       <td >7분56초</td>     </tr>     <tr>       <td>병호</td>       <td>$486$초</td>       <td>$\\square$분$\\square$초</td>     </tr>     <tr>       <td>미영</td>       <td>$408$초</td>       <td>$\\square$분$\\square$초</td>     </tr> <tr>       <td>혜진</td>       <td>$~~\\square$초</td>       <td>12분23초</td>     </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

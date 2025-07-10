@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_01_00043_49753.png",
+  "id": "00043_49753",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음과 같은 $7$장의 숫자 카드 중에서 $4$장을 뽑아 곱이 가장 큰 곱셈식과 곱이 가장 작은 곱셈식을 각각 만들었습니다. 두 곱의 차를 구하시오.    $\\boxed1 \\boxed2 \\boxed3 \\boxed4 \\boxed5 \\boxed6 \\boxed7$    ⑴ 숫자 카드 $4$장을 뽑아 곱이 가장 큰 곱셈식을 만드시오.⑵ 숫자 카드 $4$장을 뽑아 곱이 가장 작은 곱셈식을 만드시오.⑶ 두 곱의 차를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            792,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            36,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            44,
+            234,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            73,
+            345,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            93,
+            358,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            116,
+            166,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            794,
+            135
+          ],
+          "text": "다음과 같은 $7$장의 숫자 카드 중에서 $4$장을 뽑아 곱이 가장 큰 곱셈식과 곱이 가장 작은 곱셈식을 각각 만들었습니다. 두 곱의 차를 구하시오.    $\\boxed1 \\boxed2 \\boxed3 \\boxed4 \\boxed5 \\boxed6 \\boxed7$    ⑴ 숫자 카드 $4$장을 뽑아 곱이 가장 큰 곱셈식을 만드시오.⑵ 숫자 카드 $4$장을 뽑아 곱이 가장 작은 곱셈식을 만드시오.⑶ 두 곱의 차를 구하시오."
+        }
+      ]
+    }
+  ]
+}

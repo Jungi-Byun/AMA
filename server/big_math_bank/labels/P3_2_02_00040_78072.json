@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_02_00040_78072.png",
+  "id": "00040_78072",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202001",
+      "question_topic_name": "내림이 없는 (몇십)÷(몇) 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 중 나눗셈에서 몫의 위치가 바르게 된 것은 어느 것입니까? ①$ \\begin{array}{r} 30\\phantom{)} \\\\ 2{\\overline{\\smash{\\big)}\\,60\\phantom{)}}}\\\\  \\\\  \\end{array} $  ②$ \\begin{array}{r} 30\\phantom{)} \\\\ 2{\\overline{\\smash{\\big)}\\,60 \\ \\ \\phantom{)}}}\\\\  \\\\  \\end{array} $ ③ $ \\begin{array}{r} 30 \\ \\ \\phantom{)} \\\\ 2{\\overline{\\smash{\\big)}\\,60 \\phantom{)}}}\\\\  \\\\  \\end{array} $④ $ \\begin{array}{r} 3 \\ \\ \\phantom{)} \\\\ 2{\\overline{\\smash{\\big)}\\,60\\phantom{)}}}\\\\  \\\\  \\end{array} ⑤ \\begin{array}{r} 3\\phantom{)} \\\\ 2{\\overline{\\smash{\\big)}\\,60\\phantom{)}}}\\\\  \\\\  \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            379,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            24,
+            97,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            72,
+            106,
+            108
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            121,
+            105,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            169,
+            97,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            226,
+            96,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            381,
+            261
+          ],
+          "text": "다음 중 나눗셈에서 몫의 위치가 바르게 된 것은 어느 것입니까? ①$ \\begin{array}{r} 30\\phantom{)} \\\\ 2{\\overline{\\smash{\\big)}\\,60\\phantom{)}}}\\\\  \\\\  \\end{array} $  ②$ \\begin{array}{r} 30\\phantom{)} \\\\ 2{\\overline{\\smash{\\big)}\\,60 \\ \\ \\phantom{)}}}\\\\  \\\\  \\end{array} $ ③ $ \\begin{array}{r} 30 \\ \\ \\phantom{)} \\\\ 2{\\overline{\\smash{\\big)}\\,60 \\phantom{)}}}\\\\  \\\\  \\end{array} $④ $ \\begin{array}{r} 3 \\ \\ \\phantom{)} \\\\ 2{\\overline{\\smash{\\big)}\\,60\\phantom{)}}}\\\\  \\\\  \\end{array} ⑤ \\begin{array}{r} 3\\phantom{)} \\\\ 2{\\overline{\\smash{\\big)}\\,60\\phantom{)}}}\\\\  \\\\  \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_1_01_00043_33428.png",
+  "id": "00043_33428",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101009",
+      "question_topic_name": "일, 십, 백의 자리에서 받아올림이 있는 덧셈 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "유리, 성수, 재훈 세 사람은 게임에서 진 사람이 이긴 사람이 갖고 있는 수만큼 구슬을 주기로 하였습니다. 두 번째 게임이 끝났을 때 세 사람이 가지고 있는 구슬은 각각 $196$개로 같았습니다. 게임을 시작하기 전 유리가 가지고 있던 구슬은 몇 개입니까? <게임 결과>ㆍ첫 번째 게임 : 유리는 성수와 재훈이에게 졌습니다.ㆍ두 번째 게임 : 성수는 유리와 재훈이에게 졌습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            608,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            615,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            44,
+            237,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            68,
+            101,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            28,
+            98,
+            326,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            118,
+            328,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16.23,
+            0,
+            615.23,
+            142.65
+          ],
+          "text": "유리, 성수, 재훈 세 사람은 게임에서 진 사람이 이긴 사람이 갖고 있는 수만큼 구슬을 주기로 하였습니다. 두 번째 게임이 끝났을 때 세 사람이 가지고 있는 구슬은 각각 $196$개로 같았습니다. 게임을 시작하기 전 유리가 가지고 있던 구슬은 몇 개입니까? <게임 결과>ㆍ첫 번째 게임 : 유리는 성수와 재훈이에게 졌습니다.ㆍ두 번째 게임 : 성수는 유리와 재훈이에게 졌습니다."
+        }
+      ]
+    }
+  ]
+}

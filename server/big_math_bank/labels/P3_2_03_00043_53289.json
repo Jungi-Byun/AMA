@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_03_00043_53289.png",
+  "id": "00043_53289",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "빨간색인 원의 중심이 점 ㅇ인 원에서 점 ㅇ의 좌측에 우측 아래를 향하게 그은 길이가 6 cm인 현의 가장 위 시작점에서 우측 위로 그은 길이가 5 cm인 현의 우측 끝 점과 점 ㅇ을 이은 선분의 길이가 4 cm인 도형",
+      "question_text": "원의 반지름은 몇 $cm$입니까?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            184,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            28,
+            154,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            186,
+            23
+          ],
+          "text": "원의 반지름은 몇 $cm$입니까?"
+        }
+      ]
+    }
+  ]
+}

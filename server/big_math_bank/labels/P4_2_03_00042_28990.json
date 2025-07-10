@@ -1,0 +1,109 @@
+{
+  "question_filename": "P4_2_03_00042_28990.png",
+  "id": "00042_28990",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203002",
+      "question_topic_name": "소수 세 자리 수와 자릿값 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밑줄 친 $3$이 나타내는 수가 보기와 같은 소수를 모두 고르시오.   보기 : $51.034$   ①$0.\\underline38$ ②$ 20.6 \\underline{3} 1 $ ③$1.90\\underline3$ ④ $4.05\\underline3$ ⑤$15.7\\underline3$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            370,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            46,
+            21,
+            147,
+            57
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            57,
+            74,
+            78
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            80,
+            86,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            102,
+            79,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            124,
+            81,
+            144
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            146,
+            76,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            378,
+            167
+          ],
+          "text": "밑줄 친 $3$이 나타내는 수가 보기와 같은 소수를 모두 고르시오.   보기 : $51.034$   ①$0.\\underline38$ ②$ 20.6 \\underline{3} 1 $ ③$1.90\\underline3$ ④ $4.05\\underline3$ ⑤$15.7\\underline3$"
+        }
+      ]
+    }
+  ]
+}

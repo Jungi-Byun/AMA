@@ -1,0 +1,139 @@
+{
+  "question_filename": "P3_1_06_00043_42061.png",
+  "id": "00043_42061",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "여러 나라의 국기입니다. $\\square$ 안에 알맞은 분수를 써넣으시오. ⑴ 우크라이나 국기의 노란색 부분은 전체의 $\\frac{\\square}{\\square}$입니다. ⑵ 프랑스 국기의 흰색 부분은 전체의 $\\frac{\\square}{\\square}$입니다. ⑶ 모리셔스 국기의 파란색 부분은 전체의 $\\frac{\\square}{\\square}$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            358,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            76,
+            354,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            179,
+            316,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            282,
+            342,
+            326
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            22,
+            112,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            125,
+            112,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            18,
+            228,
+            112,
+            279
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            359,
+            21
+          ],
+          "text": "여러 나라의 국기입니다. $\\square$ 안에 알맞은 분수를 써넣으시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            74,
+            356,
+            122
+          ],
+          "text": "⑴ 우크라이나 국기의 노란색 부분은 전체의 $\\frac{\\square}{\\square}$입니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            177,
+            318,
+            225
+          ],
+          "text": "⑵ 프랑스 국기의 흰색 부분은 전체의 $\\frac{\\square}{\\square}$입니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            280,
+            344,
+            328
+          ],
+          "text": "⑶ 모리셔스 국기의 파란색 부분은 전체의 $\\frac{\\square}{\\square}$입니다."
+        }
+      ]
+    }
+  ]
+}

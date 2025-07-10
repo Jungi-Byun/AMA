@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_03_00043_53662.png",
+  "id": "00043_53662",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203004",
+      "question_topic_name": "지름의 성질 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㄱㄴ이 있고, 모든 원의 중심은 선분 ㄱㄴ 위에 있으며, 점 ㄱ이 지름의 왼쪽 끝점이고 반지름 4 cm인 원과 반지름 2 cm인 원이 외접하고 있고, 반지름 2 cm인 원의 지름을 반지름으로 하는 원이 반지름 4 cm인 첫 번째 원과는 외접, 반지름 2 cm인 두 번째 원과는 내접하고 있으며, 이 원의 지름을 반지름으로 하는 또 다른 원 또한 첫 번째 원과는 외접, 앞의 두 원과는 내접하고 있으며, 점 ㄴ이 지름의 오른쪽 끝점이고 반지름이 4 cm인 또 다른 원과 외접하고 있는 그림",
+      "question_text": "⑴ 가장 작은 원의 지름은 몇 $cm$입니까? ⑵ 중간 원의 지름은 몇 $cm$입니까?⑶ 선분 $ㄱㄴ$의 길이는 몇 $cm$입니까? 그림을 보고 선분 $ㄱㄴ$의 길이를 알아보시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            271,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            142,
+            246,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            164,
+            217,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            186,
+            230,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            29,
+            255,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            141,
+            248,
+            204
+          ],
+          "text": "⑴ 가장 작은 원의 지름은 몇 $cm$입니까? ⑵ 중간 원의 지름은 몇 $cm$입니까?⑶ 선분 $ㄱㄴ$의 길이는 몇 $cm$입니까?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17.7,
+            0,
+            275.3,
+            17.95
+          ],
+          "text": "그림을 보고 선분 $ㄱㄴ$의 길이를 알아보시오."
+        }
+      ]
+    }
+  ]
+}

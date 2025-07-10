@@ -1,0 +1,99 @@
+{
+  "question_filename": "P3_2_04_00042_29104.png",
+  "id": "00042_29104",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "선택형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분자와 분모의 차가 가장 큰 가분수는 어느 것입니까?  (1) $ \\frac{1}{9} $ (2) $ \\frac{7}{5} $ (3) $ \\frac{13}{8} $ (4) $ \\frac{3}{10} $ (5) $ \\frac{21}{17} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            321,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            25,
+            63,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            66,
+            63,
+            100
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            106,
+            72,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            147,
+            72,
+            182
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            188,
+            72,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            323,
+            224
+          ],
+          "text": "분자와 분모의 차가 가장 큰 가분수는 어느 것입니까?  (1) $ \\frac{1}{9} $ (2) $ \\frac{7}{5} $ (3) $ \\frac{13}{8} $ (4) $ \\frac{3}{10} $ (5) $ \\frac{21}{17} $"
+        }
+      ]
+    }
+  ]
+}

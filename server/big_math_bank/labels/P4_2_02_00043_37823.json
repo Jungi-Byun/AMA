@@ -1,0 +1,69 @@
+{
+  "question_filename": "P4_2_02_00043_37823.png",
+  "id": "00043_37823",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202012",
+      "question_topic_name": "삼각형을 각의 크기에 따라 분류하기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수영이와 소원이는 선물상자를 다음과 같이 각각 쌓았습니다. 수영이의 상자에서 찾을 수 있는 크고 작은 예각삼각형을 ㉠개, 소원이의 상자에서 찾을 수 있는 크고 작은 둔각삼각형을 ㉡개라고 할 때, ㉠$+$㉡의 값을 구하시오. (다만, 굵은 선으로 표시한 부분 안에서만 찾습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            803,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            22,
+            784,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            53,
+            275,
+            125
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            804,
+            41
+          ],
+          "text": "수영이와 소원이는 선물상자를 다음과 같이 각각 쌓았습니다. 수영이의 상자에서 찾을 수 있는 크고 작은 예각삼각형을 ㉠개, 소원이의 상자에서 찾을 수 있는 크고 작은 둔각삼각형을 ㉡개라고 할 때, ㉠$+$㉡의 값을 구하시오. (다만, 굵은 선으로 표시한 부분 안에서만 찾습니다.)"
+        }
+      ]
+    }
+  ]
+}

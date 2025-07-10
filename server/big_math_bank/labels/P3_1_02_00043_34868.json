@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_1_02_00043_34868.png",
+  "id": "00043_34868",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102003",
+      "question_topic_name": "직선 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음에서 설명하는 도형은 무엇입니까?  나는 곧은 선입니다.  나는 두 점을 이은 선입니다.  나는 두 점 사이의 가장 짧은 길입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            242,
+            16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            22,
+            21,
+            143,
+            54
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            21,
+            54,
+            189,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            23,
+            76,
+            245,
+            98
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            254,
+            98
+          ],
+          "text": "다음에서 설명하는 도형은 무엇입니까?  나는 곧은 선입니다.  나는 두 점을 이은 선입니다.  나는 두 점 사이의 가장 짧은 길입니다."
+        }
+      ]
+    }
+  ]
+}

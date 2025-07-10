@@ -1,0 +1,79 @@
+{
+  "question_filename": "P3_2_03_00043_53291.png",
+  "id": "00043_53291",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203002",
+      "question_topic_name": "원의 반지름과 지름 알아보기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "배경 색깔이 어두운 곳에서 정은이라는 아이가 철사에 매달아 놓은 불이 붙은 깡통을 원 모양으로 돌리고 있는 그림",
+      "question_text": "정은이는 쥐불놀이를 하고 있습니다. $\\square$ 안에 중심과 반지름을 써넣어 문장을 완성하시오. <문장> 정은이가 철사를 잡은 손이 원의 $\\square$이고, 중심에서 깡통까지의 거리가 원의 $\\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            522,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            189,
+            733,
+            210
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            29,
+            183,
+            181
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.48,
+            0.99,
+            521.88,
+            16.99
+          ],
+          "text": "정은이는 쥐불놀이를 하고 있습니다. $\\square$ 안에 중심과 반지름을 써넣어 문장을 완성하시오."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            19.48,
+            190.19,
+            733.08,
+            208.59
+          ],
+          "text": "<문장> 정은이가 철사를 잡은 손이 원의 $\\square$이고, 중심에서 깡통까지의 거리가 원의 $\\square$입니다."
+        }
+      ]
+    }
+  ]
+}

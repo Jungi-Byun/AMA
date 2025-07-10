@@ -1,0 +1,59 @@
+{
+  "question_filename": "P3_2_01_00043_49298.png",
+  "id": "00043_49298",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201005",
+      "question_topic_name": "일, 십, 백의 자리에서 올림이 있는 (세 자리 수)x(한 자리 수)",
+      "question_type1": "단답형",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{r}32 \\square \\\\ \\times  6 \\\\ \\hline 1962\\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            19,
+            1,
+            204,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            20,
+            23,
+            110,
+            94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            17,
+            1,
+            206,
+            96
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 써넣으시오. $ \\begin{array}{r}32 \\square \\\\ \\times  6 \\\\ \\hline 1962\\end{array} $"
+        }
+      ]
+    }
+  ]
+}

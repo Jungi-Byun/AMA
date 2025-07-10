@@ -1,0 +1,59 @@
+{
+  "question_filename": "P4_1_06_00043_26458.png",
+  "id": "00043_26458",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106008",
+      "question_topic_name": "곱셈과 나눗셈이 있는 계산식에서 규칙 찾기",
+      "question_type1": "단답형",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림과 같이 바둑돌을 놓을 때, 여덟 번째에 놓일 바둑돌의 수를 구하시오.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            18,
+            1,
+            433,
+            17
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            27,
+            32,
+            324,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            16,
+            1,
+            435,
+            21
+          ],
+          "text": "그림과 같이 바둑돌을 놓을 때, 여덟 번째에 놓일 바둑돌의 수를 구하시오."
+        }
+      ]
+    }
+  ]
+}
