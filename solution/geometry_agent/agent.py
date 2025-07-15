@@ -1,9 +1,9 @@
 from typing import Optional, Dict, Any, List
 from langgraph.graph import StateGraph, END
 
-from configs import MODEL_NAME
-from states import GeometryState
-from nodes import (
+from geometry_agent.configs import MODEL_NAME
+from geometry_agent.states import GeometryState
+from geometry_agent.nodes import (
     classify_sections,
     activate_nodes_by_state,
     generate_code_node,

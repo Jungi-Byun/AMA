@@ -2,9 +2,9 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from typing import Optional, Dict, Any, List
 
-from states import GeometryState
-from configs import MODEL_NAME, SECTIONS_INFO
-from svgs import *
+from geometry_agent.states import GeometryState
+from geometry_agent.configs import MODEL_NAME, SECTIONS_INFO
+from geometry_agent.svgs import *
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
