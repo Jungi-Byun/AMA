@@ -74,6 +74,7 @@ def gen_curves_prototype(concept:str, parameters:Optional[Dict[str,Any]]=None) -
     stroke="{stroke}" fill="none" stroke-width="{stroke_width}"/>
     </svg>
     '''
+
     return svg_content
 
 def gen_angle_prototype(concept:str, parameters:Optional[Dict[str,Any]]=None) -> str:
@@ -204,28 +205,28 @@ def gen_acute_obtuse_angles_prototype(concept:str, parameters:Optional[Dict[str,
 
     # SVG 코드
     svg_content = f'''<svg width="{svg_frame}" height="{svg_frame}" xmlns="http://www.w3.org/2000/svg">
-        <text x="{svg_frame // 2}" y="{svg_frame // 10}" font-size="{svg_frame // 20}" text-anchor="middle">{concept}</text>
-        <!-- 예각 -->
-        <text x="{svg_frame // 2}" y="{(svg_frame * 7) // 40}" font-size="{svg_frame // 25}" text-anchor="middle">예각</text>
-        <!-- 기준선 -->
-        <line x1="{x_acute_0}" y1="{y_acute_0}" x2="{x_acute_1}" y2="{y_acute_1}" stroke="{stroke}" stroke-width="{stroke_width}" />
-        <!-- 기울어진 선 -->
-        <line x1="{x_acute_0}" y1="{y_acute_0}" x2="{x_acute_2}" y2="{y_acute_2}" stroke="{stroke}" stroke-width="{stroke_width}" />
-        <!-- 각도 호 -->
-        <path d="M {arc_acute_start_x},{arc_acute_start_y} A {arc_radius},{arc_radius} 0 0,1 {arc_acute_end_x},{arc_acute_end_y}" stroke="{stroke}" stroke-width="{stroke_width}" fill="none"/>
-        <!-- 보조선 -->
-        <text x="{x_acute_0 + arc_radius * 1.25 * math.cos(-acute_rad / 2)}" y="{y_acute_0 + arc_radius * 1.25 * math.sin(-acute_rad / 2)}" font-size="{svg_frame // 40}" text-anchor="middle">{acute_deg}°</text>
-        <!-- 둔각 -->
-        <text x="{svg_frame // 2}" y="{(svg_frame * 21) // 40}" font-size="{svg_frame // 25}" text-anchor="middle">둔각</text>
-        <!-- 기준선 -->
-        <line x1="{x_obtuse_0}" y1="{y_obtuse_0}" x2="{x_obtuse_1}" y2="{y_obtuse_1}" stroke="{stroke}" stroke-width="{stroke_width}" />
-        <!-- 기울어진 선 -->
-        <line x1="{x_obtuse_0}" y1="{y_obtuse_0}" x2="{x_obtuse_2}" y2="{y_obtuse_2}" stroke="{stroke}" stroke-width="{stroke_width}" />
-        <!-- 각도 호 -->
-        <path d="M {arc_obtuse_start_x},{arc_obtuse_start_y} A {arc_radius},{arc_radius} 0 0,1 {arc_obtuse_end_x},{arc_obtuse_end_y}" stroke="{stroke}" stroke-width="{stroke_width}" fill="none"/>
-        <!-- 보조선 -->
-        <text x="{x_obtuse_0 + arc_radius * 1.25 * math.cos(-obtuse_rad / 2)}" y="{y_obtuse_0 + arc_radius * 1.25 * math.sin(-obtuse_rad / 2)}" font-size="{svg_frame // 40}" text-anchor="middle">{obtuse_deg}°</text>
-        </svg>
+    <text x="{svg_frame // 2}" y="{svg_frame // 10}" font-size="{svg_frame // 20}" text-anchor="middle">{concept}</text>
+    <!-- 예각 -->
+    <text x="{svg_frame // 2}" y="{(svg_frame * 7) // 40}" font-size="{svg_frame // 25}" text-anchor="middle">예각</text>
+    <!-- 기준선 -->
+    <line x1="{x_acute_0}" y1="{y_acute_0}" x2="{x_acute_1}" y2="{y_acute_1}" stroke="{stroke}" stroke-width="{stroke_width}" />
+    <!-- 기울어진 선 -->
+    <line x1="{x_acute_0}" y1="{y_acute_0}" x2="{x_acute_2}" y2="{y_acute_2}" stroke="{stroke}" stroke-width="{stroke_width}" />
+    <!-- 각도 호 -->
+    <path d="M {arc_acute_start_x},{arc_acute_start_y} A {arc_radius},{arc_radius} 0 0,1 {arc_acute_end_x},{arc_acute_end_y}" stroke="{stroke}" stroke-width="{stroke_width}" fill="none"/>
+    <!-- 보조선 -->
+    <text x="{x_acute_0 + arc_radius * 1.25 * math.cos(-acute_rad / 2)}" y="{y_acute_0 + arc_radius * 1.25 * math.sin(-acute_rad / 2)}" font-size="{svg_frame // 40}" text-anchor="middle">{acute_deg}°</text>
+    <!-- 둔각 -->
+    <text x="{svg_frame // 2}" y="{(svg_frame * 21) // 40}" font-size="{svg_frame // 25}" text-anchor="middle">둔각</text>
+    <!-- 기준선 -->
+    <line x1="{x_obtuse_0}" y1="{y_obtuse_0}" x2="{x_obtuse_1}" y2="{y_obtuse_1}" stroke="{stroke}" stroke-width="{stroke_width}" />
+    <!-- 기울어진 선 -->
+    <line x1="{x_obtuse_0}" y1="{y_obtuse_0}" x2="{x_obtuse_2}" y2="{y_obtuse_2}" stroke="{stroke}" stroke-width="{stroke_width}" />
+    <!-- 각도 호 -->
+    <path d="M {arc_obtuse_start_x},{arc_obtuse_start_y} A {arc_radius},{arc_radius} 0 0,1 {arc_obtuse_end_x},{arc_obtuse_end_y}" stroke="{stroke}" stroke-width="{stroke_width}" fill="none"/>
+    <!-- 보조선 -->
+    <text x="{x_obtuse_0 + arc_radius * 1.25 * math.cos(-obtuse_rad / 2)}" y="{y_obtuse_0 + arc_radius * 1.25 * math.sin(-obtuse_rad / 2)}" font-size="{svg_frame // 40}" text-anchor="middle">{obtuse_deg}°</text>
+    </svg>
     '''
     
     return svg_content
@@ -266,15 +267,9 @@ def gen_right_triangle_prototype(concept:str, parameters:Optional[Dict[str,Any]]
     <polygon points="{x0},{y0} {x1},{y1} {x2},{y2}" stroke="{stroke}" stroke-width="{stroke_width}" fill="none"/>
     <!-- 직각 보조선 -->
     <polyline points="{h1}, {y1} {h1}, {h2} {x1} {h2}" stroke="{stroke}" stroke-width="{stroke_width}" fill="none" /> 
-    <!-- 보조선들 -->
-    <path d="M {x0}, {y0} Q {(x0 + x1) // 2}, {((y0 + y1) // 2) - epsilon} {x1}, {y1}" fill="none" stroke="{stroke}" stroke-width="{stroke_width}" stroke-dasharray="5,3" />
-    <text x="{(x0 + x1) // 2}" y="{((y0 + y1) // 2) - epsilon}" font-size="{svg_frame // 40}" text-anchor="middle">밑변</text>
-    <path d="M {x1}, {y1} Q {((x1 + x2) // 2) - epsilon}, {(y1 + y2) // 2} {x2}, {y2}" fill="none" stroke="{stroke}" stroke-width="{stroke_width}" stroke-dasharray="5,3" />
-    <text x="{((x1 + x2) // 2) - 1.2 * epsilon}" y="{(y1 + y2) // 2}" font-size="{svg_frame // 40}" text-anchor="middle">높이</text>
-    <path d="M {x0}, {y0} Q {((x0 + x2) // 2) - epsilon}, {(y0 + y2) // 2 - epsilon} {x2}, {y2}" fill="none" stroke="{stroke}" stroke-width="{stroke_width}" stroke-dasharray="5,3" />
-    <text x="{((x0 + x2) // 2) - 1.2 * epsilon}" y="{(y0 + y2) // 2 - epsilon}" font-size="{svg_frame // 40}" text-anchor="middle">빗변</text>
     </svg>
     '''
+
     return svg_content
 
 def gen_rectangle_prototype(concept:str, parameters:Optional[Dict[str,Any]]=None) -> str:
@@ -309,27 +304,15 @@ def gen_rectangle_prototype(concept:str, parameters:Optional[Dict[str,Any]]=None
     # 사각형이 가로로 중앙에 위치하도록
     x = (svg_frame - r_width) // 2
 
-    # 직사각형, 정사각형에 따른 용어 변경
-    if concept == "정사각형":
-        base_term = "한변"
-        height_term = "한변"
-    else:
-        base_term = "밑변"
-        height_term = "높이"
-
     epsilon = min(r_width, r_height) // 5
     
     # svg_width = x + width + x, svg_height = y + height + y
     svg_content = f'''<svg width="{svg_frame}" height="{svg_height}" xmlns="http://www.w3.org/2000/svg">
     <text x="{svg_frame // 2}" y="{svg_frame // 10}" font-size="{svg_frame // 20}" text-anchor="middle">{concept}</text>
     <rect x="{x}" y="{y}" width="{r_width}" height="{r_height}" stroke="{stroke}" stroke-width="{stroke_width}" fill="{fill}" />
-    <!-- 보조선들 -->
-    <path d="M {x}, {y + r_height} Q {x + (r_width // 2)}, {y + r_height - epsilon} {x + r_width}, {y + r_height}" fill="none" stroke="{stroke}" stroke-width="{stroke_width}" stroke-dasharray="5,3" />
-    <text x="{x + (r_width // 2)}" y="{y + r_height - epsilon}" font-size="{svg_frame // 40}" text-anchor="middle">{base_term}</text>
-    <path d="M {x + r_width}, {y} Q {x + r_width - epsilon}, {y + (r_height // 2)} {x + r_width}, {y + r_height}" fill="none" stroke="{stroke}" stroke-width="{stroke_width}" stroke-dasharray="5,3" />
-    <text x="{x + r_width - epsilon}" y="{y + (r_height // 2)}" font-size="{svg_frame // 40}" text-anchor="middle">{height_term}</text>
-    <polyline points="{x + r_width}, {y + r_height - epsilon} {x + r_width - epsilon}, {y + r_height - epsilon} {x + r_width - epsilon} {y + r_height}" stroke="{stroke}" stroke-width="{stroke_width}" fill="none" /> 
-    </svg>'''
+    </svg>
+    '''
+
     return svg_content
 
 def gen_circle_prototype(concept:str, parameters:Optional[Dict[str,Any]]=None) -> str:
@@ -524,9 +507,6 @@ def gen_isosceles_prototype(concept:str, parameters:Optional[Dict[str,Any]]=None
         <!-- 정삼각형 -->
         <polygon points="{x0},{y0} {x1},{y1} {x2},{y2}" stroke="{stroke}" stroke-width="{stroke_width}" fill="none"/>
         <!-- 보조선들 -->
-        <path d="M {x0}, {y0} Q {(x0 + x1) / 2 + epsilon}, {((y0 + y1) / 2) - epsilon} {x1}, {y1}" fill="none" stroke="{stroke}"
-        stroke-width="{stroke_width}" stroke-dasharray="5,3" />
-        <text x="{(x0 + x1) / 2 + 1.5 * epsilon}" y="{((y0 + y1) / 2) - epsilon}" font-size="{svg_frame // 40}" text-anchor="middle">한변</text>
         <line x1="{(x0 + x1) / 2 - same_tick * math.cos(rad + math.pi / 2)}" y1="{(y0 + y1) / 2 - same_tick * math.sin(rad + math.pi / 2)}"
         x2="{(x0 + x1)/ 2 + same_tick * math.cos(rad + math.pi / 2)}" y2="{(y0 + y1) / 2 + same_tick * math.sin(rad + math.pi / 2)}"
         stroke="{stroke}" stroke-width="{stroke_width}" />
@@ -562,9 +542,6 @@ def gen_isosceles_prototype(concept:str, parameters:Optional[Dict[str,Any]]=None
         <!-- 아등변삼각형 -->
         <polygon points="{x0},{y0} {x1},{y1} {x2},{y2}" stroke="{stroke}" stroke-width="{stroke_width}" fill="none"/>
         <!-- 보조선들 -->
-        <path d="M {x0}, {y0} Q {(x0 + x1) // 2 + epsilon}, {((y0 + y1) // 2) - epsilon} {x1}, {y1}" fill="none" stroke="{stroke}"
-        stroke-width="{stroke_width}" stroke-dasharray="5,3" />
-        <text x="{(x0 + x1) // 2 + epsilon}" y="{((y0 + y1) // 2) - epsilon}" font-size="{svg_frame // 40}" text-anchor="middle">등변</text>
         <line x1="{(x0 + x1) / 2 - same_tick * math.cos((math.pi - rad) / 2 + math.pi / 2)}"
         y1="{(y0 + y1) / 2 - same_tick * math.sin((math.pi - rad) / 2 + math.pi / 2)}"
         x2="{(x0 + x1)/ 2 + same_tick * math.cos((math.pi - rad) / 2 + math.pi / 2)}"
@@ -726,7 +703,6 @@ def gen_parallel_lines_prototype(concept:str, parameters:Optional[Dict[str,Any]]
         <text x="{distance_x - epsilon}" y="{((y0 + y1) // 2)}" font-size="{svg_frame // 40}" text-anchor="middle">거리</text>
         </svg>
         '''
-        pass
     else: # 평행선
         x0, y0 = svg_frame // 4, (svg_frame * 3) // 4
         y1 = svg_frame // 2
@@ -984,10 +960,6 @@ def gen_various_quadrangles_prototype(concept:str, parameters:Optional[Dict[str,
         <path d="M {bx - epsilon * math.cos(rad)},{by - epsilon * math.sin(rad)} A {epsilon},{epsilon} 0 0,1 {bx - epsilon * math.cos(math.pi - rad)},{by - epsilon * math.sin(math.pi - rad)}" stroke="red" stroke-width="{stroke_width}" fill="none"/>
         <path d="M {lx + epsilon * math.cos(-rad)},{ly + epsilon * math.sin(-rad)} A {epsilon},{epsilon} 0 0,1 {lx + epsilon * math.cos(rad)},{ly + epsilon * math.sin(rad)}" stroke="blue" stroke-width="{stroke_width}" fill="none"/>
         <path d="M {rx + epsilon * math.cos(math.pi - rad)},{ry + epsilon * math.sin(math.pi - rad)} A {epsilon},{epsilon} 0 0,1 {rx + epsilon * math.cos(-math.pi + rad)},{ry + epsilon * math.sin(-math.pi + rad)}" stroke="blue" stroke-width="{stroke_width}" fill="none"/>
-        <!-- 대각 보조선 -->
-        <line x1="{tx}" y1="{ty}" x2="{bx}" y2="{by}" stroke="{stroke}" stroke-width="{stroke_width}" stroke-dasharray="5,3" />
-        <line x1="{lx}" y1="{ly}" x2="{rx}" y2="{ry}" stroke="{stroke}" stroke-width="{stroke_width}" stroke-dasharray="5,3" />
-        <polyline points="{tx + epsilon}, {ly} {tx + epsilon}, {ly - epsilon} {tx} {ly - epsilon}" stroke="{stroke}" stroke-width="{stroke_width}" fill="none" /> 
         </svg>
         '''
     else: # 일반사각형
