@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from typing import Optional, Dict, Any, List
 
 from geometry_agent.states import GeometryState
-from geometry_agent.configs import MODEL_NAME, SECTIONS_INFO
+from geometry_agent.configs import MODEL_NAME, SECTIONS_INFO, LEARNED_ORDER, LEARNED_CONCEPTS
 from geometry_agent.svgs import *
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
@@ -88,18 +88,45 @@ def generate_code_node(state: GeometryState) -> GeometryState:
 
     return {"generated_code": code}
 
+def get_concepts_by_custom_order(concept_dict, order_list, target_key):
+    # order_list: 네가 지정한 순서
+    if target_key not in order_list:
+        raise ValueError(f"키 '{target_key}'는 order_list에 없습니다.")
+    
+    # target_key까지 포함하는 인덱스
+    target_index = order_list.index(target_key)
+    
+    # 슬라이싱 후 역순
+    selected_keys = order_list[:target_index + 1][::-1]
+    
+    # 각 개념의 값 리스트도 역순으로 바꿔서 합치기
+    merged_values = []
+    for key in selected_keys:
+        reversed_values = concept_dict[key][::-1]
+        merged_values.extend(reversed_values)
+
+    return merged_values
+
 def generate_comments_node(state: GeometryState) -> GeometryState:
+    basic_prompt = '''
+        당신은 초등학생들에게 수학을 가르쳐주는 친절한 초등학교 선생님입니다.
+        사용자가 제공하는 {state["section_description"]}의 학습목표와 관련된 문제를 학생이 해결할 수 있도록 다음의 조건을 반드시 지키며 해당하는 개념에 대해 설명해주세요.
+        1. 총 300자 이내로 학생들이 이해하기 쉽게 한국어로만 간결하고 정확하게 설명해주세요.
+        2. 음수, 다양한 도형들의 대각선, 빗변, 밑변, 밑각, 등변, 높이, 길이, 둘레, 넓이, 면적, 정리(예: 피타고라스의 정리 등)에 대한 개념은 절대 언급하지 마세요.
+        3. 영어, 그리스 문자, 수학 기호(∠(각), π(원주율))를 절대 사용하지 마세요.
+        4. 학생이 아직 배우지 않은 개념을 포함하지 않기 위해 반드시 아래 개념들만 활용하세요. 아래 목록에 없는 개념은 절대 사용하지 마세요.
+    '''
+
+    preliminary = get_concepts_by_custom_order(LEARNED_CONCEPTS, LEARNED_ORDER, state["input_section"])
+
+    system_prompt = basic_prompt
+    for concept in preliminary:
+        system_prompt += f'\t - {concept}\n'
+
     messages = [
         {
             "role": "system",
-            "content": '''
-                당신은 초등학생들에게 수학을 가르쳐주는 친절한 초등학교 선생님입니다.
-                {state["section_description"]}의 학습목표를 학생이 달성할 수 있도록 해당하는 개념에 대해 설명해주세요.
-                다음 내용을 포함하여 반드시 총 500자 이내로 한국어로 설명해주세요.
-                    - 정의
-                    - 기본 성질(공식은 제외하세요)
-                원주율은 반드시 π(\pi)가 아닌 3.14로하여 제공해주세요.
-             '''
+            "content": system_prompt
         },
         {
             "role": "user",
