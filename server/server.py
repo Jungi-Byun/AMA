@@ -33,7 +33,6 @@ def save_request_image(filename, filedata):
     with open(file_path, 'wb') as f:
         f.write(image_data)
 
-
 # 이미지 출력 엔드포인트
 @app.route('/image/<filename>', methods=['GET'])
 def get_image(filename):
@@ -65,10 +64,10 @@ def upload_file():
         if allowed_file(filename):
             # 요약 필요한 이미지 저장
             save_request_image(filename, filedata)
-
+            
             # Dummy Data 전송
             # 문제 더미
-            question_list = meta.get_math_questions('삼각형을 각의 크기에 따라 분류하기', question_type)
+            question_list = meta.get_math_questions('지름의 성질 알아보기', question_type)
             # string_question_list = [
             #     """다음을 계산하시오. (1) $ 3 \\frac{1}{2} \\times 1 \\frac{3}{4} $ (2) $ 1 \\frac{5}{8} \\times 3 \\frac{7}{13} $""",
             #     """$\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으시오. $ 13 \\div 9 \\bigcirc 5 \\frac{1}{7} \\div 4 $""",

@@ -120,7 +120,7 @@ def add_newline_before_string(text):
 #----------------------------------------------------
 
 #----------------------------------------------------
-topic = '삼각형을 각의 크기에 따라 분류하기'
+topic = '원의 반지름과 지름 알아보기'
 #----------------------------------------------------
 # get_math_questions 함수
 # @topic : 학습 목표(학습 단원)
@@ -175,7 +175,7 @@ def get_math_questions(topic, type, count=4):
                         question_list.append(question)
                     else:
                         print("image bbox found in OCR_info") 
-                    
+
     return question_list
 
 # question_list = get_math_questions(topic, 2)
