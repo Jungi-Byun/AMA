@@ -10,6 +10,10 @@ Flask==2.3.2
 Flask-CORS==3.0.10
 Werkzeug==2.3.3
 
+# model
+git+https://git@github.com/SKTBrain/KoBERT.git@master
+git+https://github.com/SKTBrain/KoBERT.git#egg=kobert_tokenizer&subdirectory=kobert_hf
+
 # geometry_agent
 annotated-types==0.7.0
 anyio==4.9.0
