@@ -1,0 +1,13 @@
+opencv-python
+numpy
+pillow
+matplotlib
+requests
+transformers
+torch
+accelerate
+timm==1.0.13
+paddlepaddle
+paddleocr
+easyocr
+langgraph

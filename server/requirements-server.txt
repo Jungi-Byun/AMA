@@ -1,0 +1,4 @@
+-r requirements-common.txt
+Flask==2.3.2
+Flask-CORS==3.0.10
+Werkzeug==2.3.3 

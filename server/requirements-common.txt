@@ -1,0 +1,5 @@
+numpy
+requests
+transformers
+torch
+langgraph 
