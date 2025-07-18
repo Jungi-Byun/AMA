@@ -15,7 +15,7 @@ def get_easyocr_reader():
     return easyocr.Reader(['ko', 'en'], gpu=True)
 
 # EasyOCR 함수
-def EasyOCR_from_file(file_path=None, url=None, show_image=False, reader=None):
+def EasyOCR_from_file(file_path=None, url=None, reader=None):
     if reader is None:
         reader = get_easyocr_reader()
     if file_path:
@@ -31,11 +31,6 @@ def EasyOCR_from_file(file_path=None, url=None, show_image=False, reader=None):
     blur = cv2.GaussianBlur(gray, (3, 3), 0)
     _, binary = cv2.threshold(blur, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
     results = reader.readtext(binary)
-    if show_image:
-        plt.figure(figsize=(8, 6))
-        plt.imshow(binary, cmap='gray')
-        plt.axis('off')
-        plt.show()
     return results, binary
 
 # PaddleOCR 인스턴스 생성 함수
@@ -43,7 +38,7 @@ def get_paddleocr_instance():
     return OptimizedOCRSystem()
 
 # PaddleOCR 함수
-def PaddleOCR_from_file(file_path=None, url=None, show_image=False, ocr=None):
+def PaddleOCR_from_file(file_path=None, url=None, ocr=None):
     if ocr is None:
         ocr = get_paddleocr_instance()
     if file_path:
@@ -65,9 +60,4 @@ def PaddleOCR_from_file(file_path=None, url=None, show_image=False, ocr=None):
     result = ocr.predict(color_binary)
     ocr_result = result[0]
     texts = ocr_result["rec_texts"]
-    if show_image:
-        plt.figure(figsize=(8, 6))
-        plt.imshow(color_binary)
-        plt.axis('off')
-        plt.show()
     return ' '.join(texts) 

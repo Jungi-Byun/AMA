@@ -5,7 +5,8 @@
 import os
 import json
 
-MODEL_NAME = "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
+LLM_MODEL_NAME = "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
+VLM_MODEL_NAME = "naver-hyperclovax/HyperCLOVAX-SEED-Vision-Instruct-3B"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CURRICULUM_UNITS_PATH = os.path.join(BASE_DIR, "json", "curriculum_units.json")
 

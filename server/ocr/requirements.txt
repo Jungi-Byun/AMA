@@ -11,3 +11,4 @@ paddlepaddle
 paddleocr
 easyocr
 langgraph
+transformers=4.52.4

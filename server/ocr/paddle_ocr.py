@@ -88,19 +88,37 @@ class OptimizedOCR:
         
         try:
             height, width = image.shape[:2]
-            max_size = 4096
+            max_size = 1280
             
-            if width > max_size or height > max_size:
-                scale = min(max_size / width, max_size / height)
+            # if width > max_size or height > max_size:
+            if width >= 1280:
+                # scale = min(max_size / width, max_size / height)
+                scale = 0.7
                 new_width = int(width * scale)
                 new_height = int(height * scale)
                 image = cv2.resize(image, (new_width, new_height), interpolation=cv2.INTER_AREA)
                 self.logger.warning(f"이미지 크기 제한으로 리사이즈: {width}x{height} -> {new_width}x{new_height}")
             
             if image.dtype != np.uint8:
-                image = image.astype(np.uint8)
-            
+                # print(f"이미지 값 범위: {image.min()} ~ {image.max()}")
+                if image.min() >= 0 and image.max() <= 1.0:
+                    image = (image * 255).astype(np.uint8)
+                elif image.min() >= 0 and image.max() <= 255:
+                    image = image.astype(np.uint8)
+                else:
+                    self.logger.warning(f"이미지 값 범위가 비정상적입니다: {image.min()} ~ {image.max()}. 강제 변환 및 debug_resized.png로 저장합니다.")
+                    image = np.clip(image, 0, 255).astype(np.uint8)
+
+            # debug
+            # cv2.imwrite("debug_resized.png", image)
+
             result = self.ocr.predict(image)
+
+            # debug
+            # for res in result:
+            #     res.print()
+            #     res.save_to_img("output")
+            #     res.save_to_json("output")
 
             processing_time = time.time() - start_time
             self.logger.info(f"OCR 예측 완료 (소요시간: {processing_time:.2f}초) - STEP1 최적화 적용")
