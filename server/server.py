@@ -80,4 +80,4 @@ if __name__ == '__main__':
     # classifier_model, classifier_tokenizer = get_classifier_model()
     ocr_agent = OCRAgent()
     
-    app.run(host='0.0.0.0', port=5112, debug=True)
+    app.run(host='0.0.0.0', port=5111, debug=True)
