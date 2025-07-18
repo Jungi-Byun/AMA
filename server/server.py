@@ -58,15 +58,16 @@ def upload_fiile():
         else:
             topic = "invaild"
 
-        #힌트 생성
+        # 문제 생성
+        question_topic = topic
+        questions = QuestionAgent.generate_response(question_topic, question_type)
+
+        # 힌트 생성
         hint_agent = GeometryAgent()
         # TODO: 힌트 생성에 필요한 파라미터를 OCR 인식 후 분류한 소단원으로 변경
-        hint_data = hint_agent.run('지름의 성질 알아보기')
-        
-        question_topic = '지름의 성질 알아보기'
-        questions = QuestionAgent.generate_response(question_topic, question_type)
+        hint_data = hint_agent.run(topic)
+
         response = Response(question_type, questions, hint_data)
-        print('response = ', response)
         
         return jsonify(response.to_dict())
     
@@ -80,4 +81,4 @@ if __name__ == '__main__':
     classifier_model, classifier_tokenizer = get_classifier_model()
     ocr_agent = OCRAgent()
     
-    app.run(host='0.0.0.0', port=5111, debug=True)
+    app.run(host='0.0.0.0', port=5111, debug=False)
