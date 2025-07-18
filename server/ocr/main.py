@@ -110,7 +110,6 @@ def test_graph(file_path=None, url=None):
     llm_time = time.time() - llm_start
     print("요약 및 문제 생성 완료!")
 
-
     # 결과를 특정 파일에 누적 기록
     result_log_path = "ocr_test_results.txt"
     with open(result_log_path, "a", encoding="utf-8") as f:
@@ -147,7 +146,7 @@ if __name__ == "__main__":
     parser.add_argument('--list-folders', '-l', action='store_true', help='사용 가능한 폴더 목록 출력')
     args = parser.parse_args()
     
-    IMG_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__),'img'))
+    IMG_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__),'img2'))
     print(f"IMG_ROOT 경로: {IMG_ROOT}")
     
     if not os.path.exists(IMG_ROOT):

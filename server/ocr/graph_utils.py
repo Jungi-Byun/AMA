@@ -5,7 +5,7 @@
 from langgraph.graph import StateGraph, END
 from langchain_core.runnables import RunnableLambda
 from typing import TypedDict
-from llm_utils import run_ocr_merge, run_exaone_summary, run_exaone_select
+from .llm_utils import run_ocr_merge, run_exaone_summary, run_exaone_select
 
 class AgentState(TypedDict):
     easyocr_result: str

@@ -8,7 +8,7 @@ import requests
 import numpy as np
 import matplotlib.pyplot as plt
 from paddleocr import PaddleOCR
-from paddle_ocr import OptimizedOCRSystem
+from .paddle_ocr import OptimizedOCRSystem
 
 # EasyOCR 리더 초기화
 def get_easyocr_reader():

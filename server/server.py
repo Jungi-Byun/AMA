@@ -9,12 +9,17 @@ from utils import UPLOAD_FOLDER, DOWNLOAD_FOLDER
 from response import Response
 # 힌트 생성 에이전트
 from geometry_agent import GeometryAgent
+# ocr
+from ocr import OCRAgent
 
 app = Flask(__name__)
 CORS(app)
 
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['DOWNLOAD_FOLDER'] = DOWNLOAD_FOLDER
+
+# OCR agent
+ocr_agent = None
 
 for folder in [UPLOAD_FOLDER, DOWNLOAD_FOLDER]:
     if not os.path.exists(folder):
@@ -29,7 +34,7 @@ def get_image(filename):
         return jsonify({"error": "File not found"}), 404
 
 @app.route('/upload', methods=['POST'])
-def upload_file():
+def upload_fiile():
     if not request.data:
         return jsonify({"error": "File data is null"}), 400
 
@@ -45,6 +50,13 @@ def upload_file():
         
         if response == False:
             return jsonify({"error": "No filename or Not allowed format"}), 400
+
+        # OCR
+        file_path = file_agent.get_file_path(filename)
+        if file_path is not None:
+            topic = ocr_agent.run(file_path=file_path)
+        else:
+            topic = "invaild"
 
         #힌트 생성
         hint_agent = GeometryAgent()
@@ -64,7 +76,8 @@ def upload_file():
         return jsonify({"error": "Internal server error"}), 500 
 
 if __name__ == '__main__':
-    llm_model, llm_tokenizer, device = get_llm_model()
-    classifier_model, classifier_tokenizer = get_classifier_model()
+    # llm_model, llm_tokenizer, device = get_llm_model()
+    # classifier_model, classifier_tokenizer = get_classifier_model()
+    ocr_agent = OCRAgent()
     
-    app.run(host='0.0.0.0', port=5111, debug=True)
+    app.run(host='0.0.0.0', port=5112, debug=True)
