@@ -77,7 +77,7 @@ xxhash==3.5.0
 zstandard==0.23.0 
 
 # ocr
-opencv-python
+opencv-python==4.6.0.66
 pillow
 matplotlib
 timm==1.0.13
