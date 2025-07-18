@@ -36,4 +36,5 @@ class FileAgent:
         return os.path.exists(file_path)
     
     def get_file_path(self, filename):
+        filename = secure_filename(filename)
         return os.path.join(self.upload_folder, filename)
