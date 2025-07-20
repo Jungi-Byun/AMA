@@ -36,7 +36,7 @@
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28125.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36923.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92825.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52190.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52190.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25388.png'}
 {'question_topic_name': '각의 크기 비교하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37061.png'}
 {'question_topic_name': '원의 반지름과 지름 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P3_2_03_00043_53315.png'}
@@ -117,7 +117,7 @@
 {'question_topic_name': '평행사변형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54023.png'}
 {'question_topic_name': '각도를 어림하고 각도기로 재어 확인하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37248.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37720.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52186.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52186.png'}
 {'question_topic_name': '삼각자와 각도기를 이용한 수선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52237.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28355.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28291.png'}
@@ -164,7 +164,7 @@
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_31023.png'}
 {'question_topic_name': '각도의 합 또는 차의 활용', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28214.png'}
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92508.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52214.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52214.png'}
 {'question_topic_name': '직선 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34889.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28076.png'}
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37583.png'}
@@ -199,7 +199,7 @@
 {'question_topic_name': '마름모 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54138.png'}
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37889.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37662.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51910.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51910.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25214.png'}
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55775.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_98943.png'}
@@ -217,11 +217,11 @@
 {'question_topic_name': '직사각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54358.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_83452.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37831.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52210.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52210.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37814.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34936.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52218.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51895.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52218.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51895.png'}
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35015.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52113.png'}
 {'question_topic_name': '마름모 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54133.png'}
@@ -254,7 +254,7 @@
 {'question_topic_name': '직각삼각형 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25483.png'}
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_31082.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28359.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51899.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51899.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54755.png'}
 {'question_topic_name': '원의 반지름과 지름 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53255.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55740.png'}
@@ -304,9 +304,9 @@
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56785.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28056.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35112.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51891.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51891.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_83871.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52170.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52170.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25254.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52301.png'}
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56754.png'}
@@ -371,7 +371,7 @@
 {'question_topic_name': '각도를 나타내는 단위 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37098.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53705.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00042_29754.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52171.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52171.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52059.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37818.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37792.png'}
@@ -459,7 +459,7 @@
 {'question_topic_name': '평행사변형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54046.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52362.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25390.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51866.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51866.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30225.png'}
 {'question_topic_name': '마름모 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55766.png'}
 {'question_topic_name': '원의 반지름과 지름 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P3_2_03_00043_53305.png'}
@@ -467,7 +467,7 @@
 {'question_topic_name': '마름모 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54145.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25562.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55744.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51909.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51909.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_33199.png'}
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00043_37323.png'}
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_92574.png'}
@@ -483,7 +483,7 @@
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_28021.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_88347.png'}
 {'question_topic_name': '삼각자와 각도기를 이용한 수선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51930.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51897.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51897.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52373.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_31086.png'}
 {'question_topic_name': '각도기와 자를 이용하여 각 그리기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30119.png'}
@@ -531,7 +531,7 @@
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52306.png'}
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37270.png'}
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37594.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52226.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52226.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28096.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37345.png'}
 {'question_topic_name': '각도의 합 또는 차의 활용', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28219.png'}
@@ -693,7 +693,7 @@
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53842.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53918.png'}
 {'question_topic_name': '각도의 합 또는 차의 활용', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_31025.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52209.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52209.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53754.png'}
 {'question_topic_name': '사다리꼴 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55716.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25581.png'}
@@ -770,7 +770,7 @@
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55779.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_54176.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53588.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51900.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51900.png'}
 {'question_topic_name': '직선 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34902.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28087.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56797.png'}
@@ -811,7 +811,7 @@
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_54168.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52109.png'}
 {'question_topic_name': '평행사변형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55738.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52225.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52225.png'}
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25449.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28436.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53643.png'}
@@ -834,7 +834,7 @@
 {'question_topic_name': '직사각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54348.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00042_99044.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_99014.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52219.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52219.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52124.png'}
 {'question_topic_name': '직사각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92171.png'}
 {'question_topic_name': '직선 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_84250.png'}
@@ -889,7 +889,7 @@
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30199.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53713.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52096.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51898.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51898.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_00052.png'}
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_28018.png'}
 {'question_topic_name': '직선 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34629.png'}
@@ -918,7 +918,7 @@
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37102.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30227.png'}
 {'question_topic_name': '각을 이용하여 이등변삼각형 그리기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37495.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51908.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51908.png'}
 {'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51982.png'}
 {'question_topic_name': '이등변삼각형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37675.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35121.png'}
@@ -926,7 +926,7 @@
 {'question_topic_name': '정삼각형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37519.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51992.png'}
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53378.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52205.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52205.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53510.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_27967.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53903.png'}
@@ -958,7 +958,7 @@
 {'question_topic_name': '삼각자와 각도기를 이용한 수선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51928.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_92589.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52393.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51886.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51886.png'}
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_83846.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37729.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28133.png'}
@@ -968,7 +968,7 @@
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_57546.png'}
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_32755.png'}
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56768.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51896.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51896.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52351.png'}
 {'question_topic_name': '직사각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54278.png'}
 {'question_topic_name': '각도기와 자를 이용하여 각 그리기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28184.png'}
@@ -999,7 +999,7 @@
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00043_37314.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52017.png'}
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37871.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52208.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52208.png'}
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54205.png'}
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25133.png'}
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53388.png'}
@@ -1025,7 +1025,7 @@
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37154.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37728.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37910.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51919.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51919.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52037.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30208.png'}
 {'question_topic_name': '각도를 어림하고 각도기로 재어 확인하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37250.png'}
@@ -1057,7 +1057,7 @@
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37568.png'}
 {'question_topic_name': '각도를 나타내는 단위 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30105.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_98949.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51880.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51880.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34703.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53494.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36884.png'}
@@ -1092,7 +1092,7 @@
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28426.png'}
 {'question_topic_name': '사다리꼴 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_53970.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52334.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52175.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52175.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37689.png'}
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37604.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54295.png'}
@@ -1130,7 +1130,7 @@
 {'question_topic_name': '각의 크기 비교하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_27457.png'}
 {'question_topic_name': '삼각자와 각도기를 이용한 수선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51933.png'}
 {'question_topic_name': '각도를 나타내는 단위 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37103.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52230.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52230.png'}
 {'question_topic_name': '이등변삼각형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37521.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28284.png'}
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37581.png'}
@@ -1174,7 +1174,7 @@
 {'question_topic_name': '각도기와 자를 이용하여 각 그리기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_28186.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36893.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54096.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51872.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51872.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54079.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53845.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55806.png'}
@@ -1183,7 +1183,7 @@
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_53259.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_00044.png'}
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37697.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52183.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52183.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_99020.png'}
 {'question_topic_name': '직선 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34894.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37718.png'}
@@ -1253,16 +1253,16 @@
 {'question_topic_name': '각의 크기 비교하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37056.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37461.png'}
 {'question_topic_name': '원의 반지름과 지름 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53286.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52224.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52224.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52041.png'}
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53339.png'}
 {'question_topic_name': '직사각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54306.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37394.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_32807.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52222.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52222.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37158.png'}
 {'question_topic_name': '직선 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34620.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52174.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52174.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37780.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53727.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52088.png'}
@@ -1386,7 +1386,7 @@
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_92942.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25377.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37827.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51911.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51911.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53776.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51999.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53497.png'}
@@ -1412,7 +1412,7 @@
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_54190.png'}
 {'question_topic_name': '사각형의 네 각의 크기의 합 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28067.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00042_30389.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52215.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52215.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37127.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_32793.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_31012.png'}
@@ -1433,7 +1433,7 @@
 {'question_topic_name': '각도기와 자를 이용하여 각 그리기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28196.png'}
 {'question_topic_name': '각도의 합 또는 차의 활용', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37665.png'}
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25443.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52176.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52176.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52126.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53872.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28412.png'}
@@ -1489,7 +1489,7 @@
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37824.png'}
 {'question_topic_name': '직각삼각형 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25148.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25108.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52180.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52180.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35104.png'}
 {'question_topic_name': '사다리꼴 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56700.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25176.png'}
@@ -1510,7 +1510,7 @@
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56732.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55751.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28163.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51868.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51868.png'}
 {'question_topic_name': '직각삼각형 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_32768.png'}
 {'question_topic_name': '사다리꼴 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92494.png'}
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92510.png'}
@@ -1549,7 +1549,7 @@
 {'question_topic_name': '정사각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92178.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28129.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25180.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51921.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51921.png'}
 {'question_topic_name': '각도기와 자를 이용하여 각 그리기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28197.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54336.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28686.png'}
@@ -1564,7 +1564,7 @@
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_54165.png'}
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_93022.png'}
 {'question_topic_name': '직선 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35506.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52197.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52197.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53841.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25406.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_33196.png'}
@@ -1581,7 +1581,7 @@
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36892.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37736.png'}
 {'question_topic_name': '정사각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54268.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52196.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52196.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30192.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P3_1_02_00042_25667.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_84231.png'}
@@ -1593,7 +1593,7 @@
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25220.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55821.png'}
 {'question_topic_name': '정삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37873.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51871.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51871.png'}
 {'question_topic_name': '사다리꼴 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_53978.png'}
 {'question_topic_name': '예각삼각형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37459.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25478.png'}
@@ -1641,7 +1641,7 @@
 {'question_topic_name': '삼각형의 세 각의 크기의 합 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37353.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25104.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37481.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51907.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51907.png'}
 {'question_topic_name': '정사각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_2_04_00042_92177.png'}
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00043_37256.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55737.png'}
@@ -1751,7 +1751,7 @@
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92565.png'}
 {'question_topic_name': '원의 반지름과 지름 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_54087.png'}
 {'question_topic_name': '원의 반지름과 지름 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_53226.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52213.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52213.png'}
 {'question_topic_name': '두 각도의 합 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37281.png'}
 {'question_topic_name': '두 각도의 합 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37285.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28262.png'}
@@ -1801,9 +1801,9 @@
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53589.png'}
 {'question_topic_name': '사다리꼴 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55722.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00042_99041.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51918.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51918.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_98948.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51867.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51867.png'}
 {'question_topic_name': '직각삼각형 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P3_1_02_00042_83855.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53540.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34939.png'}
@@ -1827,14 +1827,14 @@
 {'question_topic_name': '직선 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34635.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37389.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37074.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51890.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51890.png'}
 {'question_topic_name': '두 각도의 합 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_99024.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28316.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52380.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00042_83458.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_98926.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_27959.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51881.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51881.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37333.png'}
 {'question_topic_name': '직사각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54347.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52405.png'}
@@ -1845,10 +1845,10 @@
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54346.png'}
 {'question_topic_name': '원의 반지름과 지름 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53294.png'}
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54230.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52184.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52184.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25227.png'}
 {'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51938.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51874.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51874.png'}
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37874.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_29743.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37770.png'}
@@ -1925,12 +1925,12 @@
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56713.png'}
 {'question_topic_name': '삼각형의 변의 길이에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37564.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36839.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51875.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51875.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53507.png'}
 {'question_topic_name': '각도를 나타내는 단위 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37092.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_53344.png'}
 {'question_topic_name': '직각삼각형 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35047.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51905.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51905.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30230.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_29691.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56784.png'}
@@ -1962,7 +1962,7 @@
 {'question_topic_name': '원의 반지름과 지름 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_92928.png'}
 {'question_topic_name': '각도의 합 또는 차의 활용', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37754.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52105.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51883.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51883.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92181.png'}
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34993.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53629.png'}
@@ -1971,7 +1971,7 @@
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25430.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53459.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37181.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52173.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52173.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P3_1_02_00042_25467.png'}
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25425.png'}
 {'question_topic_name': '평행사변형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56711.png'}
@@ -2059,7 +2059,7 @@
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25237.png'}
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37635.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53836.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51873.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51873.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52392.png'}
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_92576.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55701.png'}
@@ -2073,10 +2073,10 @@
 {'question_topic_name': '삼각형의 변의 길이에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37837.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34692.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53581.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52228.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52228.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25400.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28363.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51915.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51915.png'}
 {'question_topic_name': '각을 이용하여 이등변삼각형 그리기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37545.png'}
 {'question_topic_name': '사다리꼴 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_53952.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53640.png'}
@@ -2088,7 +2088,7 @@
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25534.png'}
 {'question_topic_name': '각도를 나타내는 단위 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37099.png'}
 {'question_topic_name': '평행사변형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54024.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52211.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52211.png'}
 {'question_topic_name': '원의 반지름과 지름 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53258.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_83937.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25677.png'}
@@ -2143,7 +2143,7 @@
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52080.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53756.png'}
 {'question_topic_name': '각의 크기 비교하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_98856.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51882.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51882.png'}
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55038.png'}
 {'question_topic_name': '정사각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54345.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37409.png'}
@@ -2222,7 +2222,7 @@
 {'question_topic_name': '각의 크기 비교하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30079.png'}
 {'question_topic_name': '삼각자와 각도기를 이용한 수선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51946.png'}
 {'question_topic_name': '원의 반지름과 지름 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_53238.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52217.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52217.png'}
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53356.png'}
 {'question_topic_name': '주어진 거리의 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36781.png'}
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37868.png'}
@@ -2261,7 +2261,7 @@
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92511.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34927.png'}
 {'question_topic_name': '각도를 나타내는 단위 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28144.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52223.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52223.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52086.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52409.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37454.png'}
@@ -2376,7 +2376,7 @@
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36898.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37813.png'}
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53397.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51877.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51877.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53732.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56717.png'}
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_30162.png'}
@@ -2392,7 +2392,7 @@
 {'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52270.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36749.png'}
 {'question_topic_name': '직선 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34911.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52204.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52204.png'}
 {'question_topic_name': '각의 크기 비교하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28082.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56722.png'}
 {'question_topic_name': '각도기와 자를 이용하여 각 그리기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_28176.png'}
@@ -2451,8 +2451,8 @@
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56762.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34940.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36766.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52220.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51991.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52220.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51991.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54106.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37473.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53909.png'}
@@ -2485,7 +2485,7 @@
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53665.png'}
 {'question_topic_name': '두 각도의 합 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37280.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35169.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51912.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51912.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_99021.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35512.png'}
 {'question_topic_name': '사다리꼴 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92492.png'}
@@ -2625,7 +2625,7 @@
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37902.png'}
 {'question_topic_name': '직각삼각형 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34662.png'}
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54249.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51923.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51923.png'}
 {'question_topic_name': '각을 이용하여 정삼각형 그리기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37680.png'}
 {'question_topic_name': '삼각자와 각도기를 이용한 수선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51989.png'}
 {'question_topic_name': '원의 반지름과 지름 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P3_2_03_00043_53262.png'}
@@ -2684,7 +2684,7 @@
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_32787.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_54194.png'}
 {'question_topic_name': '삼각자와 각도기를 이용한 수선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51974.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52188.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52188.png'}
 {'question_topic_name': '각도를 나타내는 단위 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_83468.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36753.png'}
 {'question_topic_name': '각도기와 자를 이용하여 각 그리기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28198.png'}
@@ -2720,7 +2720,7 @@
 {'question_topic_name': '두 각도의 합 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37261.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52308.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_54178.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52177.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52177.png'}
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34978.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28092.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92184.png'}
@@ -2807,7 +2807,7 @@
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52302.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52333.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35191.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52231.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52231.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36764.png'}
 {'question_topic_name': '직각삼각형 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35061.png'}
 {'question_topic_name': '직각삼각형 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_32773.png'}
@@ -2834,7 +2834,7 @@
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55753.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53622.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_31085.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51884.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51884.png'}
 {'question_topic_name': '직각삼각형 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25458.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52414.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_88356.png'}
@@ -2854,7 +2854,7 @@
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_27467.png'}
 {'question_topic_name': '직각삼각형 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35041.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P3_1_02_00043_00047.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52212.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52212.png'}
 {'question_topic_name': '직선 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34893.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54101.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56798.png'}
@@ -2885,9 +2885,9 @@
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37178.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28386.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_84293.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51869.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51869.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52319.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52191.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52191.png'}
 {'question_topic_name': '사각형의 네 각의 크기의 합 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28414.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35196.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25586.png'}
@@ -2914,7 +2914,7 @@
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34679.png'}
 {'question_topic_name': '각의 크기 비교하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30087.png'}
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53384.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51903.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51903.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54070.png'}
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_84297.png'}
 {'question_topic_name': '각도를 나타내는 단위 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_31010.png'}
@@ -2933,7 +2933,7 @@
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28718.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37795.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25208.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52198.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52198.png'}
 {'question_topic_name': '마름모 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54122.png'}
 {'question_topic_name': '사다리꼴 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55726.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25101.png'}
@@ -2976,7 +2976,7 @@
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25129.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_31087.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37794.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51916.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51916.png'}
 {'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51981.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36784.png'}
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37627.png'}
@@ -2995,7 +2995,7 @@
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28222.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53609.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37331.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51914.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51914.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53674.png'}
 {'question_topic_name': '평행사변형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56709.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37713.png'}
@@ -3035,7 +3035,7 @@
 {'question_topic_name': '평행사변형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54018.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_92180.png'}
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P3_2_03_00042_53264.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51922.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51922.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25224.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37171.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35178.png'}
@@ -3054,7 +3054,7 @@
 {'question_topic_name': '사다리꼴 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_53996.png'}
 {'question_topic_name': '삼각자와 각도기를 이용한 수선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51942.png'}
 {'question_topic_name': '마름모의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_56758.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51902.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51902.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52022.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P3_1_02_00043_34741.png'}
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34657.png'}
@@ -3216,7 +3216,7 @@
 {'question_topic_name': '정삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37572.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37467.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25520.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52203.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52203.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53782.png'}
 {'question_topic_name': '각도의 합 또는 차의 활용', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28235.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34931.png'}
@@ -3259,7 +3259,7 @@
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53832.png'}
 {'question_topic_name': '삼각자를 사용하여 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52094.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36859.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52206.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52206.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53722.png'}
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_00461.png'}
 {'question_topic_name': '평행사변형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00042_55748.png'}
@@ -3305,7 +3305,7 @@
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53513.png'}
 {'question_topic_name': '각을 이용하여 정삼각형 그리기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37591.png'}
 {'question_topic_name': '각의 크기 비교하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37054.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52193.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52193.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37424.png'}
 {'question_topic_name': '각도의 합 또는 차의 활용', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37269.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36843.png'}
@@ -3397,7 +3397,7 @@
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53794.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54071.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53476.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51887.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51887.png'}
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37803.png'}
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30163.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00042_30381.png'}
@@ -3469,7 +3469,7 @@
 {'question_topic_name': '직각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35013.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36758.png'}
 {'question_topic_name': '각의 크기 비교하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37658.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51876.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51876.png'}
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37271.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37326.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_53336.png'}
@@ -3504,7 +3504,7 @@
 {'question_topic_name': '원 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00042_54113.png'}
 {'question_topic_name': '각도를 나타내는 단위 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_30089.png'}
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37669.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51913.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51913.png'}
 {'question_topic_name': '각도를 나타내는 단위 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_29735.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53666.png'}
 {'question_topic_name': '각도기와 자를 이용하여 각 그리기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37218.png'}
@@ -3528,7 +3528,7 @@
 {'question_topic_name': '삼각형의 변의 길이에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_2_02_00043_37705.png'}
 {'question_topic_name': '원을 이용하여 여러 가지 모양 그리기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53912.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_98916.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52221.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52221.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_30357.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_28698.png'}
 {'question_topic_name': '두 각도의 차 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28227.png'}
@@ -3644,7 +3644,7 @@
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_25644.png'}
 {'question_topic_name': '정삼각형 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37550.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P3_1_02_00042_25556.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51990.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51990.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28277.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00042_99046.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00042_30370.png'}
@@ -3676,7 +3676,7 @@
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54072.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28121.png'}
 {'question_topic_name': '삼각형에서 나머지 한 각의 크기 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28346.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51894.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51894.png'}
 {'question_topic_name': '평행 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_52273.png'}
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53692.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37135.png'}
@@ -3693,7 +3693,7 @@
 {'question_topic_name': '이등변삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37646.png'}
 {'question_topic_name': '삼각형을 각의 크기에 따라 분류하기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00042_31100.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_35156.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51906.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51906.png'}
 {'question_topic_name': '직사각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54323.png'}
 {'question_topic_name': '각도기를 이용하여 각도 재기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_28150.png'}
 {'question_topic_name': '직사각형과 정사각형의 성질 활용', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54319.png'}
@@ -3793,7 +3793,7 @@
 {'question_topic_name': '지름의 성질 알아보기', 'question_grade': 'P3', 'question_term': 2, 'question_unit': '03', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_2_03_00043_53547.png'}
 {'question_topic_name': '평행선 사이의 거리 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36872.png'}
 {'question_topic_name': '삼각형의 세 각의 크기의 합 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37325.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51901.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51901.png'}
 {'question_topic_name': '정삼각형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_02_00043_37628.png'}
 {'question_topic_name': '정사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34740.png'}
 {'question_topic_name': '예각과 둔각 알아보기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 2, 'question_filename': 'P4_1_02_00042_84328.png'}
@@ -3889,7 +3889,7 @@
 {'question_topic_name': '사각형의 나머지 한 각의 크기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00042_30228.png'}
 {'question_topic_name': '직사각형의 특징 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00043_34677.png'}
 {'question_topic_name': '사각형의 네 각의 크기의 합 구하기', 'question_grade': 'P4', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_1_02_00043_37400.png'}
-{'question_topic_name': '수직 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51888.png'}
+{'question_topic_name': '수직', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_51888.png'}
 {'question_topic_name': '평행사변형의 성질 알아보기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00043_54111.png'}
 {'question_topic_name': '주어진 거리의 평행선 긋기', 'question_grade': 'P4', 'question_term': 2, 'question_unit': '04', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P4_2_04_00044_36792.png'}
 {'question_topic_name': '각 알아보기', 'question_grade': 'P3', 'question_term': 1, 'question_unit': '02', 'question_type1': '단답형', 'question_type2': 1, 'question_filename': 'P3_1_02_00042_83838.png'}
