@@ -1,4 +1,4 @@
-from utils import (SUCCESS_CODE, SUCCESS_MESSAGE)
+from .config import (SUCCESS_CODE, SUCCESS_MESSAGE)
 
 class Response:
     def __init__(self, question_type, questions, hint):

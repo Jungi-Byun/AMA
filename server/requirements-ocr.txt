@@ -1,9 +1,0 @@
--r requirements-common.txt
-opencv-python
-pillow
-matplotlib
-accelerate
-timm==1.0.13
-paddlepaddle
-paddleocr
-easyocr 

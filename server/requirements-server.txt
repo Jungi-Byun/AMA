@@ -1,8 +1,0 @@
--r requirements-common.txt
-Flask==2.3.2
-Flask-CORS==3.0.10
-Werkzeug==2.3.3
-
-# model
-git+https://git@github.com/SKTBrain/KoBERT.git@master
-git+https://github.com/SKTBrain/KoBERT.git#egg=kobert_tokenizer&subdirectory=kobert_hf
