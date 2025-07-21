@@ -26,7 +26,10 @@ def EasyOCR_from_file(file_path=None, url=None, reader=None):
         img = cv2.imdecode(img, cv2.IMREAD_COLOR)
     else:
         raise ValueError("Either file_path or url must be provided.")
-    img = cv2.resize(img, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+
+    if img.shape[1] < 1200:
+        img = cv2.resize(img, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     blur = cv2.GaussianBlur(gray, (3, 3), 0)
     _, binary = cv2.threshold(blur, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)

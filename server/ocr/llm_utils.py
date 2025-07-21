@@ -286,8 +286,6 @@ def run_exaone_summary(text: str, description: str, llm_tokenizer, llm_model, cu
         result = output_text.split("[|assistant|]")[-1].strip()
         # print('\n\n ', result)
 
-        # candidate_topics 파싱
-        candidate_titles = []
         for k in range(1, 6):
             pattern = rf'"topic_{k}(st|nd|rd|th)"\s*:\s*"([^"]+)"'
             match = re.search(pattern, result)
