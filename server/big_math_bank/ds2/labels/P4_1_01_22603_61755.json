@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_01_22603_61755.png",
+  "id": "22603_61755",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "천조 단위 수의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 138,
+      "question_success_rate": 74.68
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "ㄱ에서 숫자 $9$가 나타내는 값은 ㄴ에서 숫자 $9$가 나타내는 값의 몇 배인지 구해 보세요. ㄱ. $865946734211000$ ㄴ.$29340000$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            249,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            96,
+            427,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            582,
+            124
+          ],
+          "text": "ㄱ에서 숫자 $9$가 나타내는 값은 ㄴ에서 숫자 $9$가 나타내는 값의 몇 배인지 구해 보세요. ㄱ. $865946734211000$ ㄴ.$29340000$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_02_26199_135512.png",
+  "id": "26199_135512",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102011",
+      "question_topic_name": "각도의 합과 차",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 137,
+      "question_success_rate": 94.29
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각도가 큰 것부터 순서대로 기호를 끌어 놓아 보세요.$\\\\$ ㄱ. $80\\degree-30\\degree$ ㄴ. $75\\degree+20\\degree$ $\\\\$ ㄷ. $30\\degree+15\\degree$ ㄹ. $130\\degree-70\\degree$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1.54,
+            1.02,
+            510.98,
+            32.26
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            91.14,
+            61.44,
+            434.18,
+            93.18
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            94.21,
+            97.79,
+            439.81,
+            132.1
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            514,
+            135
+          ],
+          "text": "각도가 큰 것부터 순서대로 기호를 끌어 놓아 보세요.$\\\\$ ㄱ. $80\\degree-30\\degree$ ㄴ. $75\\degree+20\\degree$ $\\\\$ ㄷ. $30\\degree+15\\degree$ ㄹ. $130\\degree-70\\degree$"
+        }
+      ]
+    }
+  ]
+}

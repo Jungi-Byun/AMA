@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_04_33264_129334.png",
+  "id": "33264_129334",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204021",
+      "question_topic_name": "직사각형과 정사각형의 성질 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 44,
+      "question_success_rate": 73.67
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "첫째 줄에는 가는 한 각이 직각인 사각형, 나는 마름모, 다는 정사각형, 둘째 줄에는 라는 평행사변형, 마는 직사각형, 바는 오른쪽 위아래가 직각인 사다리꼴로 이루어진 그림",
+      "question_text": "다음 중 직사각형의 개수와 마름모의 개수의 합을 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            572,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            35,
+            29,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            122.22,
+            86.36,
+            449.22,
+            292.36
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1.22,
+            2.36,
+            580.22,
+            58.36
+          ],
+          "text": "다음 중 직사각형의 개수와 마름모의 개수의 합을 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

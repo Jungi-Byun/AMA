@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_02_23734_67862.png",
+  "id": "23734_67862",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 84,
+      "question_success_rate": 93.2
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "몫이 작은 순서대로 기호를 써 보세요. ㄱ. $80 \\div 2$ ㄴ. $50\\div5$ ㄷ.$60\\div4$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            364,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            43,
+            66,
+            485,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            585,
+            113
+          ],
+          "text": "몫이 작은 순서대로 기호를 써 보세요. ㄱ. $80 \\div 2$ ㄴ. $50\\div5$ ㄷ.$60\\div4$"
+        }
+      ]
+    }
+  ]
+}

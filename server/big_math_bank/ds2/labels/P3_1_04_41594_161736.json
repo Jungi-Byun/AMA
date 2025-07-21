@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_04_41594_161736.png",
+  "id": "41594_161736",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104002",
+      "question_topic_name": "(몇십) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 103,
+      "question_success_rate": 67.27
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "굵기가 일정한 나무 막대를 한 번 자르는 데 $40$ 분이 걸린다고 합니다. 이 나무 막대를 쉬지 않고 $4$ 도막으로 자르는 데 걸리는 시간은 몇 분인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            581,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            577,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            320,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            89
+          ],
+          "text": "굵기가 일정한 나무 막대를 한 번 자르는 데 $40$ 분이 걸린다고 합니다. 이 나무 막대를 쉬지 않고 $4$ 도막으로 자르는 데 걸리는 시간은 몇 분인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

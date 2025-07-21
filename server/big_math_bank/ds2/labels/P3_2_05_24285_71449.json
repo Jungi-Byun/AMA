@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_05_24285_71449.png",
+  "id": "24285_71449",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205013",
+      "question_topic_name": "들이의 덧셈과 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 181,
+      "question_success_rate": 68.33
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경진이와 승환이가 마신 주스의 양은 모두 몇 L 몇 mL인지 구해 보세요.1 <table border> <tbody> <tr> <td></td> <td>경진</td> <td>승환</td> </tr> <tr> <td>마시기 전</td> <td>$~1L 900mL~$</td> <td>$~~~~~~3 L~~~~$</td> </tr> <tr> <td>마신 후</td> <td>$~1L250mL~$</td> <td>$~2L150mL~$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            100,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            114,
+            70,
+            483,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            0.95,
+            591.6,
+            64.95
+          ],
+          "text": "경진이와 승환이가 마신 주스의 양은 모두 몇 L 몇 mL인지 구해 보세요.1"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            107.6,
+            68.4,
+            502.6,
+            221.4
+          ],
+          "text": "<table border> <tbody> <tr> <td></td> <td>경진</td> <td>승환</td> </tr> <tr> <td>마시기 전</td> <td>$~1L 900mL~$</td> <td>$~~~~~~3 L~~~~$</td> </tr> <tr> <td>마신 후</td> <td>$~1L250mL~$</td> <td>$~2L150mL~$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

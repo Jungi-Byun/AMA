@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_1_03_22912_62491.png",
+  "id": "22912_62491",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103003",
+      "question_topic_name": "(세 자리 수) x (몇십)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 93,
+      "question_success_rate": 93.13
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "전국 초등학교 수학 경시 대회에서 좋은 성적을 거둔 학생 $20$ 명에게 상장을 한 장씩 나누어 주려고 합니다. 상장 용지는 $160$ 원, 내용을 새기는 데는 $250$ 원이 든다면 상장 $20$ 장을 만드는 데 필요한 금액은 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            580,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            595,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            580,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            386,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            119
+          ],
+          "text": "전국 초등학교 수학 경시 대회에서 좋은 성적을 거둔 학생 $20$ 명에게 상장을 한 장씩 나누어 주려고 합니다. 상장 용지는 $160$ 원, 내용을 새기는 데는 $250$ 원이 든다면 상장 $20$ 장을 만드는 데 필요한 금액은 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

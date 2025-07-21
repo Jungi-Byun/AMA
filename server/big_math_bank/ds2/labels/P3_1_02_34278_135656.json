@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_02_34278_135656.png",
+  "id": "34278_135656",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102005",
+      "question_topic_name": "선과 각",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 101,
+      "question_success_rate": 89.36
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "2개의 직사각형에 각각 민서와 은유라는 제목이 붙어 있고 민서 사각형 안에는 다른 높이로 있는 점 ㄱ과 점 ㄴ을 이은 선분 ㄱㄴ과 그 아래 반직선 ㄴㄱ이 적혀있으며 은유 사각형 안에는 점 ㄷ과 점 ㄹ을 지나는 직선 ㄷㄹ과 그 아래 직선 ㄷㄹ이 적혀있는 그림",
+      "question_text": "민서와 은유는 각자 그린 도형을 읽었습니다. 도형을 잘못 읽은 사람은 누구인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            34,
+            221,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            77,
+            561,
+            295
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            579,
+            60
+          ],
+          "text": "민서와 은유는 각자 그린 도형을 읽었습니다. 도형을 잘못 읽은 사람은 누구인가요?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_1_04_26409_136302.png",
+  "id": "26409_136302",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104006",
+      "question_topic_name": "밀기와 뒤집기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 65,
+      "question_success_rate": 82.98
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "거울을 바라보고 있는 사람과 2시 30분을 가리키는 원형 시계와 거울을 보는 사람이 거울에 비친 그림과 거울 속 시계를 물풍선으로 확대한 그림",
+      "question_text": "경민이가 오후에 축구를 끝내고 거울에 비친 시계를 보았더니 다음과 같았습니다. 경민이가 축구를 오후 $1 $시 $5$ 분에 시작했다면 축구를 하는 데 걸린 시간은 몇 시간 몇 분인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            588,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            584,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            63,
+            586,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            95,
+            29,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.77,
+            0,
+            593.35,
+            123.94
+          ],
+          "text": "경민이가 오후에 축구를 끝내고 거울에 비친 시계를 보았더니 다음과 같았습니다. 경민이가 축구를 오후 $1 $시 $5$ 분에 시작했다면 축구를 하는 데 걸린 시간은 몇 시간 몇 분인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_05_21908_58471.png",
+  "id": "21908_58471",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 88,
+      "question_success_rate": 90.65
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민경이는 산을 올라가고 내려오는 데 $4$ 시간 $38$ 분 $35$ 초가 걸렸습니다. 올라가는 데 걸린 시간이 $2$ 시간 $26$ 분 $12$ 초라면 내려오는 데 걸린 시간은 몇 시간 몇 분 몇 초인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            584,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            573,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            586,
+            89
+          ],
+          "text": "민경이는 산을 올라가고 내려오는 데 $4$ 시간 $38$ 분 $35$ 초가 걸렸습니다. 올라가는 데 걸린 시간이 $2$ 시간 $26$ 분 $12$ 초라면 내려오는 데 걸린 시간은 몇 시간 몇 분 몇 초인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

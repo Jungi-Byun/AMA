@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P3_1_03_34290_161337.png",
+  "id": "34290_161337",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103009",
+      "question_topic_name": "곱셈과 나눗셈의 관계",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 79,
+      "question_success_rate": 90.72
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "복숭아가 $6$ 개씩 $5$ 줄로 놓여 있습니다. $㉠$과 $㉡$의 합을 구해 보세요. $6$상자에 똑같이 나누어 담으려면 한 상자에 복숭아를 $㉠$개씩 담아야 합니다.  한 상자에 $5$ 개씩 담으려면 $㉡$ 상자가 필요합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            51,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            46,
+            336,
+            557,
+            361
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            65,
+            366,
+            314,
+            391
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            45,
+            396,
+            539,
+            421
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            176,
+            80,
+            426,
+            284
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "복숭아가 $6$ 개씩 $5$ 줄로 놓여 있습니다. $㉠$과 $㉡$의 합을 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            43,
+            335,
+            559,
+            422
+          ],
+          "text": "$6$상자에 똑같이 나누어 담으려면 한 상자에 복숭아를 $㉠$개씩 담아야 합니다.  한 상자에 $5$ 개씩 담으려면 $㉡$ 상자가 필요합니다."
+        }
+      ]
+    }
+  ]
+}

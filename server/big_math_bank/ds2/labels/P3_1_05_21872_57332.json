@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_05_21872_57332.png",
+  "id": "21872_57332",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 82,
+      "question_success_rate": 91.98
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지윤이가 어느 날 한 일과 시간을 나타낸 것입니다. 이날 지윤이가 줄넘기와 독서를 한 시간은 모두 몇 분 몇 초인지 구해 보세요. <table border> <tbody> <tr> <td>줄넘기</td> <td>독서</td>  </tr> <tr> <td>$10분16초$</td> <td>$38분 22초$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            590,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            51,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            175,
+            100,
+            422,
+            185
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            591,
+            187
+          ],
+          "text": "지윤이가 어느 날 한 일과 시간을 나타낸 것입니다. 이날 지윤이가 줄넘기와 독서를 한 시간은 모두 몇 분 몇 초인지 구해 보세요. <table border> <tbody> <tr> <td>줄넘기</td> <td>독서</td>  </tr> <tr> <td>$10분16초$</td> <td>$38분 22초$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

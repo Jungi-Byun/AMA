@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_01_25837_160570.png",
+  "id": "25837_160570",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101018",
+      "question_topic_name": "받아내림이 있는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 105,
+      "question_success_rate": 83.33
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가현이네 집에 있는 살구나무의 높이가 작년에는 $432cm$였고, $1$ 년 후에 재어 보니 $5m$였습니다. 이 살구나무는 $1$ 년 동안 몇 cm 자랐는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            585,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            248,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            89
+          ],
+          "text": "가현이네 집에 있는 살구나무의 높이가 작년에는 $432cm$였고, $1$ 년 후에 재어 보니 $5m$였습니다. 이 살구나무는 $1$ 년 동안 몇 cm 자랐는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

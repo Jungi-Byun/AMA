@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_05_25979_136473.png",
+  "id": "25979_136473",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 105,
+      "question_success_rate": 64.66
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "시계가 나타내는 시각에서 $2$시간 $31$분 $27$초 전의 시각은 몇 시 몇 분 몇 초인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            304,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            150,
+            70,
+            447,
+            366
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            59
+          ],
+          "text": "시계가 나타내는 시각에서 $2$시간 $31$분 $27$초 전의 시각은 몇 시 몇 분 몇 초인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

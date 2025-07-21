@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P4_2_01_33077_126948.png",
+  "id": "33077_126948",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201003",
+      "question_topic_name": "(진분수)+(진분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 72,
+      "question_success_rate": 86.86
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "승윤이는 리본을 $\\frac{4}{13}m$ 사용하였습니다. 병수는 승윤이보다 리본을 $\\frac{7}{13} m$ 더 사용하였습니다. 두 사람이 사용한 리본의 길이는 모두 몇 $m$인지 구해 보세요. (1) 병수가 사용한 리본의 길이는 몇 $m$인지 구해 보세요. (2)두 사람이 사용한 리본의 길이는 모두 몇 $m$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            574,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            44,
+            587,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            92,
+            315,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            133,
+            534,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            402,
+            582,
+            428
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            435,
+            61,
+            456
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            590,
+            161
+          ],
+          "text": "승윤이는 리본을 $\\frac{4}{13}m$ 사용하였습니다. 병수는 승윤이보다 리본을 $\\frac{7}{13} m$ 더 사용하였습니다. 두 사람이 사용한 리본의 길이는 모두 몇 $m$인지 구해 보세요. (1) 병수가 사용한 리본의 길이는 몇 $m$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            401,
+            584,
+            457
+          ],
+          "text": "(2)두 사람이 사용한 리본의 길이는 모두 몇 $m$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

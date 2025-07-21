@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_1_02_34286_135960.png",
+  "id": "34286_135960",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102008",
+      "question_topic_name": "직각과 직각삼각형",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 181,
+      "question_success_rate": 51.43
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "모눈종이 위에 가로 3칸, 세로 3칸의 좌측 아래가 직각인 직각이등변삼각형 가와 가로 5칸, 세로 3칸의 우측 아래가 직각인 직각삼각형 나",
+      "question_text": "두 도형에 대한 설명으로 옳은 것을 찾아 기호를 선택해 보세요.    ㄱ. 가는 직각삼각형이고, 나는 직각삼각형이 아닙니다 ㄴ. 가는 세 변의 길이가 모두 같습니다. ㄷ. 나는 세 변의 길이가 모두 다릅니다. ",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            35,
+            29,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            300,
+            535,
+            326
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92,
+            330,
+            141,
+            355
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            57,
+            368,
+            433,
+            393
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            407,
+            433,
+            432
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            134,
+            79,
+            464,
+            258
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            579,
+            57
+          ],
+          "text": "두 도형에 대한 설명으로 옳은 것을 찾아 기호를 선택해 보세요.   "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            54,
+            299,
+            537,
+            433
+          ],
+          "text": "ㄱ. 가는 직각삼각형이고, 나는 직각삼각형이 아닙니다 ㄴ. 가는 세 변의 길이가 모두 같습니다. ㄷ. 나는 세 변의 길이가 모두 다릅니다. "
+        }
+      ]
+    }
+  ]
+}

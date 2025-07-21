@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_03_23882_69755.png",
+  "id": "23882_69755",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203003",
+      "question_topic_name": "원의 중심, 반지름, 지름",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 55,
+      "question_success_rate": 94.47
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "좌측에는 원의 중심이 점 ㄱ인 원이 있고, 점 ㄱ의 좌측 위로 있는 원 위의 점을 점 ㄱ과 이은 선분의 길이가 9 cm이고, 우측에는 원의 중심이 점 ㄴ인 원이 있고, 점 ㄴ의 우측 위로 있는 원위의 점을 점 ㄴ과 이은 선분의 길이가 6 cm이고, 원 ㄴ이 원ㄱ의 우측 위에서 외접하고, 중심인 점 ㄱ과 점 ㄴ을 이은 선분 ㄱㄴ이 두 원의 접점을 지나는 도형",
+      "question_text": "점 $ㄱ$, 점 $ㄴ$은 원의 중심입니다. 선분 $ㄱㄴ$의 길이를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            594,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            35,
+            29,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            115,
+            74,
+            484,
+            395
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            57
+          ],
+          "text": "점 $ㄱ$, 점 $ㄴ$은 원의 중심입니다. 선분 $ㄱㄴ$의 길이를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

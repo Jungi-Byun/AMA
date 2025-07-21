@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_1_06_26094_136973.png",
+  "id": "26094_136973",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106004",
+      "question_topic_name": "분수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 160,
+      "question_success_rate": 88.89
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우유 한 통을 똑같이 $7$ 컵으로 나누어 채아가 $2$ 컵, 서연이가 $3$ 컵을 마셨습니다. 남은 우유는 전체의 얼마인지 분수로 나타내어 보세요. (1) 채아와 서연이가 마시고 남은 우유는 몇 컵인가요? (2) 채아와 서연이가 마시고 남은 우유는 전체의 얼마인지 분수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            585,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            594,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            98,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            143,
+            516,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            338,
+            578,
+            364
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            369,
+            248,
+            394
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            89
+          ],
+          "text": "우유 한 통을 똑같이 $7$ 컵으로 나누어 채아가 $2$ 컵, 서연이가 $3$ 컵을 마셨습니다. 남은 우유는 전체의 얼마인지 분수로 나타내어 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            141,
+            518,
+            172
+          ],
+          "text": "(1) 채아와 서연이가 마시고 남은 우유는 몇 컵인가요?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            337,
+            580,
+            395
+          ],
+          "text": "(2) 채아와 서연이가 마시고 남은 우유는 전체의 얼마인지 분수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

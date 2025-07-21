@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_1_03_34291_161347.png",
+  "id": "34291_161347",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103009",
+      "question_topic_name": "곱셈과 나눗셈의 관계",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 59,
+      "question_success_rate": 94.92
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나눗셈식을 곱셈식으로, 곱셈식을 나눗셈식으로 나타낸 것입니다. $□$에 들어갈 수가 다른 것을 찾아 기호를 선택해 보세요.  ㄱ. ${28}\\div{7}={4}$ $\\to$ ${7}\\times{□}={28}$ ㄴ. ${5}\\times{3}={15}$ $\\to$ ${15}\\div{5}={□}$ ㄷ. ${9}\\times{3}={27}$ $\\to$ ${27}\\div{□}={9}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            8,
+            3,
+            582,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            6,
+            33,
+            579,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            145,
+            95,
+            426,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            146,
+            134,
+            426,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            146,
+            173,
+            426,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            212
+          ],
+          "text": "나눗셈식을 곱셈식으로, 곱셈식을 나눗셈식으로 나타낸 것입니다. $□$에 들어갈 수가 다른 것을 찾아 기호를 선택해 보세요.  ㄱ. ${28}\\div{7}={4}$ $\\to$ ${7}\\times{□}={28}$ ㄴ. ${5}\\times{3}={15}$ $\\to$ ${15}\\div{5}={□}$ ㄷ. ${9}\\times{3}={27}$ $\\to$ ${27}\\div{□}={9}$ "
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P4_1_03_26182_162102.png",
+  "id": "26182_162102",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103006",
+      "question_topic_name": "(세 자리 수) x (두 자리 수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 151,
+      "question_success_rate": 66.42
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수에 $12$를 곱해야 할 것을 잘못하여 더했더니 $285$가 되었습니다. 바르게 계산하면 얼마인지 구해 보세요.     아래에서 알맞은 것을 찾아 $\\square$안에 끌어 놓아 보세요. $\\square+12=285$ $\\square-12=285$ $\\square \\times 12=285$ $285+12$  $285-12$ $285\\times 12$ $273+12$ $273-12$ $273\\times 12$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            458,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            278,
+            375,
+            308
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            72,
+            331,
+            526,
+            351
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            93,
+            377,
+            504,
+            396
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            93,
+            423,
+            504,
+            442
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            59
+          ],
+          "text": "어떤 수에 $12$를 곱해야 할 것을 잘못하여 더했더니 $285$가 되었습니다. 바르게 계산하면 얼마인지 구해 보세요.    "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            27,
+            277,
+            535,
+            452
+          ],
+          "text": "아래에서 알맞은 것을 찾아 $\\square$안에 끌어 놓아 보세요. $\\square+12=285$ $\\square-12=285$ $\\square \\times 12=285$ $285+12$  $285-12$ $285\\times 12$ $273+12$ $273-12$ $273\\times 12$"
+        }
+      ]
+    }
+  ]
+}

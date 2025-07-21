@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_02_22868_73773.png",
+  "id": "22868_73773",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202005",
+      "question_topic_name": "이등변삼각형의 성질",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 80,
+      "question_success_rate": 92.59
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "양 변의 길이가 12 cm이고, 꼭지각이 30도, 왼쪽 밑각이 ㄱ도인 이등변삼각형",
+      "question_text": "다음 삼각형에서 $㉠$은 몇 도인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            436,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            216.6,
+            45.95,
+            385.6,
+            257.95
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            3.6,
+            3.4,
+            436.6,
+            29.4
+          ],
+          "text": "다음 삼각형에서 $㉠$은 몇 도인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_01_24415_72977.png",
+  "id": "24415_72977",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201006",
+      "question_topic_name": "(진분수)-(진분수), 1-(진분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 126,
+      "question_success_rate": 74.43
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정호와 희주는 우유 $1 L$를 각각 가지고 있습니다. 정호는 $\\frac{5}{12} L$, 희주는 $\\frac{8}{12} L$ 마셨을 때, 누구의 우유가 얼마나 더 많이 남았는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            572,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            45,
+            593,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            92,
+            172,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.73,
+            1.06,
+            593.73,
+            117.06
+          ],
+          "text": "정호와 희주는 우유 $1 L$를 각각 가지고 있습니다. 정호는 $\\frac{5}{12} L$, 희주는 $\\frac{8}{12} L$ 마셨을 때, 누구의 우유가 얼마나 더 많이 남았는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

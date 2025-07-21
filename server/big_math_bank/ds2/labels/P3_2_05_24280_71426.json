@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_05_24280_71426.png",
+  "id": "24280_71426",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205013",
+      "question_topic_name": "들이의 덧셈과 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 54,
+      "question_success_rate": 93.19
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 몇 $L$ 몇 $mL$인지 구해 보세요. $5500 mL-3 L 800 mL$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            347,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            192,
+            68,
+            406,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            539,
+            142
+          ],
+          "text": "다음은 몇 $L$ 몇 $mL$인지 구해 보세요. $5500 mL-3 L 800 mL$"
+        }
+      ]
+    }
+  ]
+}

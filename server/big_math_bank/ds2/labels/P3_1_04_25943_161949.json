@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_04_25943_161949.png",
+  "id": "25943_161949",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104006",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 116,
+      "question_success_rate": 95.29
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "승기는 학교에서 출발하여 $1$ 분에 $52$ $m$씩 가는 빠르기로 $3$ 분 동안 걷다가 $1$ 분에 $42$ $m$씩 가는 빠르기로 $3$ 분 동안 걸어서 서점에 도착하였습니다. 승기가 학교에서 서점까지 걸어간 거리는 몇 $m$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            580,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            589,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            588,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            244,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            591,
+            119
+          ],
+          "text": "승기는 학교에서 출발하여 $1$ 분에 $52$ $m$씩 가는 빠르기로 $3$ 분 동안 걷다가 $1$ 분에 $42$ $m$씩 가는 빠르기로 $3$ 분 동안 걸어서 서점에 도착하였습니다. 승기가 학교에서 서점까지 걸어간 거리는 몇 $m$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_06_24316_72345.png",
+  "id": "24316_72345",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206001",
+      "question_topic_name": "표를 보고 내용 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 110,
+      "question_success_rate": 87.8
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미진이네 학교 학생들이 좋아하는 색깔을 조사하여 표로 나타내었습니다. $㉠$과 $㉡$의 합을 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            6,
+            0.15,
+            591,
+            33.15
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            3,
+            31.15,
+            432,
+            62.15
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            166,
+            71.15,
+            418,
+            113.15
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            70,
+            118.15,
+            548,
+            255.15
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            2,
+            2.15,
+            590,
+            259.15
+          ],
+          "text": "미진이네 학교 학생들이 좋아하는 색깔을 조사하여 표로 나타내었습니다. $㉠$과 $㉡$의 합을 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

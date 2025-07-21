@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P4_1_01_34227_135071.png",
+  "id": "34227_135071",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 166,
+      "question_success_rate": 68.75
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밑줄 친 숫자가 나타내는 값의 합을 구하여 그 수를 읽어 보세요. $2\\underline{3}54$$1201$$7952$   $74\\underline{6}2$$8971$$5301$   $6\\underline{3}$$0146$$5823$    일 이 삼 사 오 육 칠 팔 구 십 백 천 만 억",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            583,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            35,
+            29,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            54,
+            94,
+            543,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92.73,
+            508.45,
+            510.73,
+            537.45
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            96.73,
+            552.45,
+            508.73,
+            592.45
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101.73,
+            602.45,
+            416.73,
+            635.45
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            585,
+            140
+          ],
+          "text": "밑줄 친 숫자가 나타내는 값의 합을 구하여 그 수를 읽어 보세요. $2\\underline{3}54$$1201$$7952$   $74\\underline{6}2$$8971$$5301$   $6\\underline{3}$$0146$$5823$   "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            66.73,
+            494.45,
+            535.73,
+            645.45
+          ],
+          "text": "일 이 삼 사 오 육 칠 팔 구 십 백 천 만 억"
+        }
+      ]
+    }
+  ]
+}

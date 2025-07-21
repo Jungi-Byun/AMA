@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_02_22889_74049.png",
+  "id": "22889_74049",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202009",
+      "question_topic_name": "정삼각형의 성질",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 114,
+      "question_success_rate": 93.47
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직선 ㄴㅁ위에 점 ㄷ, ㄹ이 있고, 선분 ㄴㄹ을 밑변으로 가지는 삼각형 ㄱㄴㄹ이 있고, 꼭짓점 ㄹ의 외각은 빨간색으로 표시되어 있으며, 꼭짓점 ㄱ에서 밑변 ㄴㄹ을 잇는 선의 교차점은 ㄷ이고, ㄱㄷ과 ㄷㄹ의 길이는 15 cm로 같으며, 삼각형 ㄱㄴㄷ는 정삼각형인 그림",
+      "question_text": "삼각형 $ㄱㄴㄷ$은 정삼각형입니다. 각 $ㄱㄹㅁ$의 크기를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            51,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            132,
+            89,
+            469,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "삼각형 $ㄱㄴㄷ$은 정삼각형입니다. 각 $ㄱㄹㅁ$의 크기를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

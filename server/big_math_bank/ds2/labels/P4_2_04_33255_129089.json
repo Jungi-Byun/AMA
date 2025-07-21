@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_04_33255_129089.png",
+  "id": "33255_129089",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204009",
+      "question_topic_name": "평행선 사이의 거리의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 82,
+      "question_success_rate": 97.47
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "길이가 10 cm인 선분 ㄱㄴ, 길이가 17 cm인 선분 ㄴㄷ, 길이가 11 cm인 선분 ㄱㅁ이 있고 각 ㄴㄷㅁ, 각 ㄷㅁㄱ이 직각인 사다리꼴 ㄱㄴㄷㅁ과 선분 ㄷㅁ을 공통으로 하는 삼각형 ㄷㄹㅁ이 있을 때, 선분 ㄷㄹ과 선분 ㄹㅁ의 길이가 8 cm이고, 각 ㄷㄹㅁ의 크기가 60도인 도형",
+      "question_text": "평행선을 찾아 평행선 사이의 거리가 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            101,
+            49,
+            469,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            586,
+            30
+          ],
+          "text": "평행선을 찾아 평행선 사이의 거리가 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

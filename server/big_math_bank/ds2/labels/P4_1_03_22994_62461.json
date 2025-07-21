@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_1_03_22994_62461.png",
+  "id": "22994_62461",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103013",
+      "question_topic_name": "몇십으로 나누기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 54,
+      "question_success_rate": 90.33
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$111$ 개의 감자를 상자 한 개에 $20$ 개씩 담아 판매하려고 합니다. 판매할 수 있는 감자 상자는 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            572,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            524,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            574,
+            59
+          ],
+          "text": "$111$ 개의 감자를 상자 한 개에 $20$ 개씩 담아 판매하려고 합니다. 판매할 수 있는 감자 상자는 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_2_03_40172_156811.png",
+  "id": "40172_156811",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203015",
+      "question_topic_name": "소수 두 자리 수의 덧셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 143,
+      "question_success_rate": 85.77
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "태민이네 가족은 과수원에서 배를 수확하였습니다. 배를 동생은 $12.5 kg$ 수확하였고, 형은 동생보다 $1.6 kg$ 더 많이 수확하였습니다. 태민이는 형이 수확한 배의 무게의 $\\frac{1}{10}$보다 $1340 g$ 더 많이 수확하였다면 태민이가 수확한 배의 무게는 $몇 kg$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            588,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            591,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            61,
+            582,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            108,
+            591,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            138,
+            100,
+            163
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            594,
+            164
+          ],
+          "text": "태민이네 가족은 과수원에서 배를 수확하였습니다. 배를 동생은 $12.5 kg$ 수확하였고, 형은 동생보다 $1.6 kg$ 더 많이 수확하였습니다. 태민이는 형이 수확한 배의 무게의 $\\frac{1}{10}$보다 $1340 g$ 더 많이 수확하였다면 태민이가 수확한 배의 무게는 $몇 kg$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

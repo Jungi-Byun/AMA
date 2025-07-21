@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_01_23607_67387.png",
+  "id": "23607_67387",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201009",
+      "question_topic_name": "(몇십)×(몇십), (몇십몇)×(몇십몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 78,
+      "question_success_rate": 88.61
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지아는 매일 영어 단어를 $52$ 개씩 외웁니다. $6$ 월 한 달 동안 영어 단어를 모두 몇 개 외우게 되는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            589,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            469,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            591,
+            59
+          ],
+          "text": "지아는 매일 영어 단어를 $52$ 개씩 외웁니다. $6$ 월 한 달 동안 영어 단어를 모두 몇 개 외우게 되는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

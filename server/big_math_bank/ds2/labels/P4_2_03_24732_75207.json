@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_03_24732_75207.png",
+  "id": "24732_75207",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203012",
+      "question_topic_name": "소수 한 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 42,
+      "question_success_rate": 96.89
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 큰 수와 가장 작은 수의 차를 구해 보세요. $4.7$   $ 2.9$    $1.3$   $2.4$   $3.7$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            447,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            78,
+            64,
+            519,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            546,
+            98
+          ],
+          "text": "가장 큰 수와 가장 작은 수의 차를 구해 보세요. $4.7$   $ 2.9$    $1.3$   $2.4$   $3.7$"
+        }
+      ]
+    }
+  ]
+}

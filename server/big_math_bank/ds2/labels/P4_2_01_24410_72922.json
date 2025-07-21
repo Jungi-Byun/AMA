@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_01_24410_72922.png",
+  "id": "24410_72922",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201006",
+      "question_topic_name": "(진분수)-(진분수), 1-(진분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 61,
+      "question_success_rate": 95.83
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "고슴도치의 무게는 $\\frac{4}{10}$ kg이고 햄스터의 무게는 $\\frac{2}{10}$ kg입니다. 고슴도치는 햄스터보다 몇$kg$ 더 무거운지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            593,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            529,
+            76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            595,
+            77
+          ],
+          "text": "고슴도치의 무게는 $\\frac{4}{10}$ kg이고 햄스터의 무게는 $\\frac{2}{10}$ kg입니다. 고슴도치는 햄스터보다 몇$kg$ 더 무거운지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

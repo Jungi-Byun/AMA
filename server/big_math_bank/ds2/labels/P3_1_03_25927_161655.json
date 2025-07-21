@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_03_25927_161655.png",
+  "id": "25927_161655",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103006",
+      "question_topic_name": "나눗셈식으로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 189,
+      "question_success_rate": 75.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 카드 $4$, $5$, $9$ 를 모두 한 번씩만 사용하여 다음 식의$\\square$에 놓아 나눗셈식을 만들려고 합니다. 나눗셈식을 완성해 보세요. $\\square\\square\\div\\square=5$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            592,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            41,
+            595,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            195,
+            109,
+            404,
+            172
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            597,
+            187
+          ],
+          "text": "수 카드 $4$, $5$, $9$ 를 모두 한 번씩만 사용하여 다음 식의$\\square$에 놓아 나눗셈식을 만들려고 합니다. 나눗셈식을 완성해 보세요. $\\square\\square\\div\\square=5$"
+        }
+      ]
+    }
+  ]
+}

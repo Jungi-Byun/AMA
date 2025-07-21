@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_02_23807_69408.png",
+  "id": "23807_69408",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 120,
+      "question_success_rate": 87.2
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 모둠 학생 $4$ 명이 현장학습을 가서 한 명당 배를 $7$ 개씩 땄습니다. 딴 배를 한 봉지에 $5$ 개씩 담고 남은 것을 모두 먹었다면 학생들이 먹은 배는 모두 몇 개인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            585,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            63,
+            397,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            89
+          ],
+          "text": "어떤 모둠 학생 $4$ 명이 현장학습을 가서 한 명당 배를 $7$ 개씩 땄습니다. 딴 배를 한 봉지에 $5$ 개씩 담고 남은 것을 모두 먹었다면 학생들이 먹은 배는 모두 몇 개인가요?"
+        }
+      ]
+    }
+  ]
+}

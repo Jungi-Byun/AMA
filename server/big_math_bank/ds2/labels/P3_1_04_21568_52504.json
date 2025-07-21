@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_04_21568_52504.png",
+  "id": "21568_52504",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104002",
+      "question_topic_name": "(몇십) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 74,
+      "question_success_rate": 89.71
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "흰 바둑돌 수와 검은 바둑돌 수의 차를 구해 보세요. •흰 바둑돌 : $40$개씩 $5$ 묶음 •검은 바둑돌 : $30$개씩 $4$ 묶음",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            491,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            90,
+            64,
+            358,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            90,
+            102,
+            380,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            500,
+            152
+          ],
+          "text": "흰 바둑돌 수와 검은 바둑돌 수의 차를 구해 보세요. •흰 바둑돌 : $40$개씩 $5$ 묶음 •검은 바둑돌 : $30$개씩 $4$ 묶음"
+        }
+      ]
+    }
+  ]
+}

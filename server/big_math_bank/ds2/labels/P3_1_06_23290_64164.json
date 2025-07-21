@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P3_1_06_23290_64164.png",
+  "id": "23290_64164",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106002",
+      "question_topic_name": "부분과 전체의 크기 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 63,
+      "question_success_rate": 85.99
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림과 같이 꽃밭을 나누어 백합, 팬지, 튤립, 장미를 심었습니다. $\\square$ 안에 알맞은 수를 써넣으세요. 백합을 심은 부분은 전체를 똑같이 $\\square$(으)로 나눈 것 중 $\\square$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            588,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            32,
+            359,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            354,
+            533,
+            388
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            388,
+            203,
+            422
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            96,
+            75,
+            501,
+            319
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            590,
+            68
+          ],
+          "text": "그림과 같이 꽃밭을 나누어 백합, 팬지, 튤립, 장미를 심었습니다. $\\square$ 안에 알맞은 수를 써넣으세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            38,
+            353,
+            535,
+            423
+          ],
+          "text": "백합을 심은 부분은 전체를 똑같이 $\\square$(으)로 나눈 것 중 $\\square$입니다."
+        }
+      ]
+    }
+  ]
+}

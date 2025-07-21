@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_05_24914_75879.png",
+  "id": "24914_75879",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205005",
+      "question_topic_name": "꺾은선그래프를 보고 내용 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1,
+      "question_rtime": 68,
+      "question_success_rate": 91.03
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 (일) 단위의 날짜를 7단위로 1칸마다 1, 8, 15, 22일을, 세로축은 (섭씨온도) 단위의 기온를 0.2의 단위로 5칸마다 1, 2, 3, 4, 5를 나타낼 때, 1일은 2.4도, 8일은 2.8도, 15일은 3.8도, 22일은 3.2도를 조사하여 나타낸 제목이 날짜별 최고 기온인 꺾은선그래프",
+      "question_text": "어느 지역의 하루 중 최고 기온을 일주일마다 조사하여 나타낸 꺾은선그래프입니다. 기온의 변화가 가장 많은 때는 며칠과 며칠 사이인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            594,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            149,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            59,
+            105,
+            539,
+            620
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            89
+          ],
+          "text": "어느 지역의 하루 중 최고 기온을 일주일마다 조사하여 나타낸 꺾은선그래프입니다. 기온의 변화가 가장 많은 때는 며칠과 며칠 사이인가요?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+﻿{
+  "question_filename": "P4_1_01_26114_134913.png",
+  "id": "26114_134913",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101003",
+      "question_topic_name": "다섯 자리 수",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 128,
+      "question_success_rate": 87.01
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 연수가 집안일을 하고 받는 용돈입니다. $2$ 달 동안 청소를 $30$번, 설거지를 $10 $번 했다면 연수가 $2$ 달 동안 받은 용돈은 모두 얼마인지 구해 보세요. $\\\\$청소$1$번: $1000$원   $\\\\$설거지$1$번: $400$원 $\\\\$(1) 청소를 $30 번$ 하여 받은 용돈은 얼마인지 구해 보세요.  (2) 설거지를 $10$ 번 하여 받은 용돈은 얼마인지 구해 보세요. (3) $2$ 달 동안 받은 용돈은 모두 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            591,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            265,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            78,
+            124,
+            519,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            184,
+            544,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            412,
+            566,
+            439
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            651,
+            511,
+            678
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            212
+          ],
+          "text": "다음은 연수가 집안일을 하고 받는 용돈입니다. $2$ 달 동안 청소를 $30$번, 설거지를 $10 $번 했다면 연수가 $2$ 달 동안 받은 용돈은 모두 얼마인지 구해 보세요. $\\\\$청소$1$번: $1000$원   $\\\\$설거지$1$번: $400$원 $\\\\$(1) 청소를 $30 번$ 하여 받은 용돈은 얼마인지 구해 보세요. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            410,
+            568,
+            441
+          ],
+          "text": "(2) 설거지를 $10$ 번 하여 받은 용돈은 얼마인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            649,
+            513,
+            680
+          ],
+          "text": "(3) $2$ 달 동안 받은 용돈은 모두 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_06_22112_56550.png",
+  "id": "22112_56550",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106021",
+      "question_topic_name": "단위분수의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 94,
+      "question_success_rate": 82.74
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "슬기와 지혜는 각각 색 테이프를 한 개씩 샀습니다. 슬기는 색 테이프 전체의 $\\frac{5}{7}$를 사용했고, 지혜는 전체의 $\\frac{1}{7}$을 사용했습니다. 슬기가 사용한 양은 지혜가 사용한 양의 몇 배인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            583,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            30,
+            593,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            78,
+            588,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            108,
+            51,
+            133
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            595,
+            134
+          ],
+          "text": "슬기와 지혜는 각각 색 테이프를 한 개씩 샀습니다. 슬기는 색 테이프 전체의 $\\frac{5}{7}$를 사용했고, 지혜는 전체의 $\\frac{1}{7}$을 사용했습니다. 슬기가 사용한 양은 지혜가 사용한 양의 몇 배인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_1_05_25960_136319.png",
+  "id": "25960_136319",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105006",
+      "question_topic_name": "1m보다 큰 단위",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 138,
+      "question_success_rate": 53.85
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "재연이네 집에서 교회까지의 거리는 $6320 m$이고, 재연이네 집에서 공원까지의 거리는 $6 km 340 m$입니다. 물음에 답하세요. (1) 재연이네 집에서 공원까지의 거리는 몇 $m$인지 구해 보세요. (2) 교회와 공원 중 재연이네 집에서 더 가까운 곳은 어디인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            589,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            586,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            113,
+            571,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            145,
+            29,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            309,
+            584,
+            336
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            341,
+            34,
+            364
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            591,
+            59
+          ],
+          "text": "재연이네 집에서 교회까지의 거리는 $6320 m$이고, 재연이네 집에서 공원까지의 거리는 $6 km 340 m$입니다. 물음에 답하세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            112,
+            573,
+            167
+          ],
+          "text": "(1) 재연이네 집에서 공원까지의 거리는 몇 $m$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            308,
+            586,
+            363
+          ],
+          "text": "(2) 교회와 공원 중 재연이네 집에서 더 가까운 곳은 어디인가요?"
+        }
+      ]
+    }
+  ]
+}

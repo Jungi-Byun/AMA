@@ -9,15 +9,11 @@ ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
 META_DB = "data/big_math_meta.txt"
 TOPIC_DB = "data/big_math_topic_list.txt"
 
-# META_DB = "/home/seungjwa.nam/AMA/AMA/server/data/big_math_meta.txt"
-# TOPIC_DB = "/home/seungjwa.nam/AMA/AMA/server/data/big_math_topic_list.txt"
+
 
 # 수학 문제 은행 경로
 LABELS_DIRECTORY_PATH = 'big_math_bank/labels'
 IMAGES_DIRECTORY_PATH = 'big_math_bank/origins'
-
-# LABELS_DIRECTORY_PATH  = '/home/seungjwa.nam/AMA/AMA/server/big_math_bank/labels'
-# IMAGES_DIRECTORY_PATH  = '/home/seungjwa.nam/AMA/AMA/server/big_math_bank/origins'
 
 # 응답 상태 코드
 SUCCESS_CODE = "2000"

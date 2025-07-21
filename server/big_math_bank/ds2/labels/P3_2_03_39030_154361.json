@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_03_39030_154361.png",
+  "id": "39030_154361",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203003",
+      "question_topic_name": "원의 중심, 반지름, 지름",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 174,
+      "question_success_rate": 75.73
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "반지름의 길이가 6 cm이고 중심이 ㄱ인 원이 있고 이 원의 오른쪽에 반지름의 길이가 9 cm이고 중심이 ㄴ인 원이 겹쳐져 있는데 원의 중심 ㄱ과 ㄴ을 이은 선분 ㄱㄴ에서 두 원이 겹쳐진 길이는 4 cm 이며 두 원의 위쪽 교점은 ㄷ이고 작은 원의 반지름인 선분 ㄱㄷ과 큰 원의 반지름인 ㄴㄷ과 두 원의 중심을 이은 선분 ㄱㄴ을 세 변으로 하는 삼각형 ㄱㄴㄷ이 그려진 평면도형",
+      "question_text": "점 $ㄱ$, 점 $ㄴ$은 원의 중심입니다. 삼각형 $ㄱㄴㄷ$의 세 변의 길이의 합은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            593,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            303,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            167,
+            94,
+            430,
+            276
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            595,
+            59
+          ],
+          "text": "점 $ㄱ$, 점 $ㄴ$은 원의 중심입니다. 삼각형 $ㄱㄴㄷ$의 세 변의 길이의 합은 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

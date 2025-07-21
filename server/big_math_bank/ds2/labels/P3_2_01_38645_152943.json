@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_2_01_38645_152943.png",
+  "id": "38645_152943",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201009",
+      "question_topic_name": "(몇십)×(몇십), (몇십몇)×(몇십몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 133,
+      "question_success_rate": 91.63
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기에서 규칙을 찾아 $21 ★ 20$을 구해 보세요.  보기 $3★6=24$ $4★7=35$ $5★8=48$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            433,
+            34
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            92,
+            43,
+            144,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            248,
+            84,
+            349,
+            104
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            248,
+            110,
+            349,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            249,
+            136,
+            349,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            540,
+            186
+          ],
+          "text": "보기에서 규칙을 찾아 $21 ★ 20$을 구해 보세요.  보기 $3★6=24$ $4★7=35$ $5★8=48$"
+        }
+      ]
+    }
+  ]
+}

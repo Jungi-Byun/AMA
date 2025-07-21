@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_01_39879_155721.png",
+  "id": "39879_155721",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 208,
+      "question_success_rate": 86.29
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "귤과 감을 담은 상자의 무게가 $17\\frac{9}{10}$ $kg$입니다. 이 상자에서 귤만 모두 꺼낸 상자의 무게를 재어 보면 $8\\frac{7}{10}$ $kg$이고, 감만 모두 꺼낸 상자의 무게를 재어 보면 $11\\frac{9}{10}$ $kg$입니다. 빈 상자의 무게는 몇 $kg$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            595,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            44,
+            589,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            89,
+            593,
+            130
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            137,
+            249,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1.72,
+            0.57,
+            596.85,
+            165.27
+          ],
+          "text": "귤과 감을 담은 상자의 무게가 $17\\frac{9}{10}$ $kg$입니다. 이 상자에서 귤만 모두 꺼낸 상자의 무게를 재어 보면 $8\\frac{7}{10}$ $kg$이고, 감만 모두 꺼낸 상자의 무게를 재어 보면 $11\\frac{9}{10}$ $kg$입니다. 빈 상자의 무게는 몇 $kg$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

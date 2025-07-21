@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_05_25976_136377.png",
+  "id": "25976_136377",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105015",
+      "question_topic_name": "1분보다 작은 단위",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 182,
+      "question_success_rate": 51.85
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "초등부 스도쿠 대회에 참가한 세 학생의 기록입니다. 기록이 가장 빠른 학생은 누구인가요? <table border> <tbody> <tr> <td>하진</td> <td>채린</td> <td>서연</td> </tr> <tr> <td>$2$분 $18$초</td> <td>$132$초</td> <td>$2$분 $14$초</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            571,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            292,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            88,
+            70,
+            509,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            573,
+            170
+          ],
+          "text": "초등부 스도쿠 대회에 참가한 세 학생의 기록입니다. 기록이 가장 빠른 학생은 누구인가요? <table border> <tbody> <tr> <td>하진</td> <td>채린</td> <td>서연</td> </tr> <tr> <td>$2$분 $18$초</td> <td>$132$초</td> <td>$2$분 $14$초</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_01_39884_155753.png",
+  "id": "39884_155753",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 166,
+      "question_success_rate": 81.08
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이는 7 cm로 가로 세로의 길이가 모두 같은 색 테이프 4장을 1과 3/8 cm씩 겹쳐서 이어 붙인 그림",
+      "question_text": "길이가 $7 cm$인 색 테이프 $4$ 장을 $1\\frac{3}{8}cm$씩 겹쳐서 이어 붙인다면 이어 붙인 색 테이프의 전체 길이는 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            590,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            48,
+            592,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            146,
+            96,
+            451,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            596,
+            74
+          ],
+          "text": "길이가 $7 cm$인 색 테이프 $4$ 장을 $1\\frac{3}{8}cm$씩 겹쳐서 이어 붙인다면 이어 붙인 색 테이프의 전체 길이는 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

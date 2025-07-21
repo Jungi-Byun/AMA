@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_04_40199_157255.png",
+  "id": "40199_157255",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204003",
+      "question_topic_name": "수직",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 170,
+      "question_success_rate": 84.99
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "평행선인 직선 ㄱㄴ에 27도의 양의 기울기를 가지는 선분 ㄷㄹ이 점 ㅇ에서 만나고, 선분 ㄱㄴ의 아래에 있는 점 ㅁ으로 만든 선분 ㅁㅇ은 선분 ㄷㄹ과 수선의 관계를 가질 때, 각 ㄹㅇㄴ은 27도, 각 ㄱㅇㄷ은 원문자 ㄴ, 각 ㄴㅇㅁ은 원 문자 ㄱ으로 각을 표시한 그림",
+      "question_text": "다음 그림에서 선분 $ㅁㅇ$은 직선 $ㄷㄹ$에 대한 수선입니다. $㉠$과 $㉡$의 각도의 차는 몇 도인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            419,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            160,
+            96,
+            438,
+            284
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            59
+          ],
+          "text": "다음 그림에서 선분 $ㅁㅇ$은 직선 $ㄷㄹ$에 대한 수선입니다. $㉠$과 $㉡$의 각도의 차는 몇 도인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

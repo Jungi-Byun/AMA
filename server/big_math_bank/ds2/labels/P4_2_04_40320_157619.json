@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_2_04_40320_157619.png",
+  "id": "40320_157619",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204018",
+      "question_topic_name": "마름모의 성질 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 131,
+      "question_success_rate": 87.97
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㄱㅂ이 13 cm인 평행사변형 ㄱㄴㄷㅂ과 마름모 ㄷㄹㅁㅂ이 선분 ㄷㅂ에서 겹치지 않게 맞닿아 있는 도형",
+      "question_text": "다음 그림은 평행사변형 $ㄱㄴㄷㅂ$과 마름모 $ㄷㄹㅁㅂ$의 한 변을 맞닿게 이어 붙여 만든 도형입니다. 평행사변형 $ㄱㄴㄷㅂ$의 네 변의 길이의 합이 $40 cm$일 때 만든 도형의 변의 길이의 합은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            589,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            591,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            93,
+            226,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            158,
+            143,
+            442,
+            350
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            119
+          ],
+          "text": "다음 그림은 평행사변형 $ㄱㄴㄷㅂ$과 마름모 $ㄷㄹㅁㅂ$의 한 변을 맞닿게 이어 붙여 만든 도형입니다. 평행사변형 $ㄱㄴㄷㅂ$의 네 변의 길이의 합이 $40 cm$일 때 만든 도형의 변의 길이의 합은 몇 $cm$인지 구해 보세요. "
+        }
+      ]
+    }
+  ]
+}

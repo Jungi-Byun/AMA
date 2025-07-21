@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P3_2_01_32591_124491.png",
+  "id": "32591_124491",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201009",
+      "question_topic_name": "(몇십)×(몇십), (몇십몇)×(몇십몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1,
+      "question_rtime": 78,
+      "question_success_rate": 79.73
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "식품을 먹었을 때 몸속에서 발생하는 열에너지의 양을 '열량'이라고 합니다. 식품별 열량이 다음과 같을 때 주영이네 가족이 먹은 간식의 열량은 모두 몇 킬로칼로리인지 구해 보세요. <table border> <tbody> <tr> <td>간식</td> <td>자두 $1$ 개</td> <td>배 $1$ 개</td> <td>감자 $1$ 개</td> <td>대추 $1$ 개</td> </tr> <tr> <td>열량(킬로칼로리)</td> <td>$25$</td> <td>$162$</td> <td>$60$</td> <td>$57$</td> </tr>  </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            549,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            584,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            572,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            95,
+            29,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            9,
+            130,
+            588,
+            245
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            41,
+            263,
+            556,
+            368
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            590,
+            247
+          ],
+          "text": "식품을 먹었을 때 몸속에서 발생하는 열에너지의 양을 '열량'이라고 합니다. 식품별 열량이 다음과 같을 때 주영이네 가족이 먹은 간식의 열량은 모두 몇 킬로칼로리인지 구해 보세요. <table border> <tbody> <tr> <td>간식</td> <td>자두 $1$ 개</td> <td>배 $1$ 개</td> <td>감자 $1$ 개</td> <td>대추 $1$ 개</td> </tr> <tr> <td>열량(킬로칼로리)</td> <td>$25$</td> <td>$162$</td> <td>$60$</td> <td>$57$</td> </tr>  </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

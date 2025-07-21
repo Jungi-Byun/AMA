@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_01_23601_67305.png",
+  "id": "23601_67305",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201009",
+      "question_topic_name": "(몇십)×(몇십), (몇십몇)×(몇십몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 121,
+      "question_success_rate": 88.56
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$□$안에 알맞은 수를 써넣으세요. $4□\\times90=3□80$  $\\begin{array} {r}4□\\\\ \\times 90\\\\ \\hline 3□80\\\\  \\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            326,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            223,
+            52,
+            374,
+            152
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            376,
+            154
+          ],
+          "text": "$□$안에 알맞은 수를 써넣으세요. $4□\\times90=3□80$  $\\begin{array} {r}4□\\\\ \\times 90\\\\ \\hline 3□80\\\\  \\end{array}$"
+        }
+      ]
+    }
+  ]
+}

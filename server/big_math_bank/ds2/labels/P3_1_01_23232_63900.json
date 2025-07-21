@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P3_1_01_23232_63900.png",
+  "id": "23232_63900",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101018",
+      "question_topic_name": "받아내림이 있는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 128,
+      "question_success_rate": 82.38
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 읽고 미선이네 학교 학생과 주민이네 학교 학생은 각각 몇 명인지 구해 보세요. 성우 : 우리 학교 학생은 모두 $418명$이야. 미선 : 우리 학교 학생은 성우네 학교 학생보다 $195명$이 더 많아.  주민 : 우리 학교 학생은 미선이네 학교 학생보다 $333명$이 더 적어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            221,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            39,
+            94,
+            432,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            124,
+            546,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            158,
+            206,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            39,
+            184,
+            542,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            102,
+            218,
+            228,
+            243
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            247
+          ],
+          "text": "다음을 읽고 미선이네 학교 학생과 주민이네 학교 학생은 각각 몇 명인지 구해 보세요. 성우 : 우리 학교 학생은 모두 $418명$이야. 미선 : 우리 학교 학생은 성우네 학교 학생보다 $195명$이 더 많아.  주민 : 우리 학교 학생은 미선이네 학교 학생보다 $333명$이 더 적어. "
+        }
+      ]
+    }
+  ]
+}

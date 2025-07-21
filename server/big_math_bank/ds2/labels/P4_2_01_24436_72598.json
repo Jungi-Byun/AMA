@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_01_24436_72598.png",
+  "id": "24436_72598",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 64,
+      "question_success_rate": 95.33
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "송이는 호박 $1\\frac{1}{5}$ 개로 호박전을 만들고, $2\\frac{3}{5}$ 개로 호박죽을 만들었습니다. 송이가 사용한 호박은 모두 몇 개인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            585,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            512,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            587,
+            74
+          ],
+          "text": "송이는 호박 $1\\frac{1}{5}$ 개로 호박전을 만들고, $2\\frac{3}{5}$ 개로 호박죽을 만들었습니다. 송이가 사용한 호박은 모두 몇 개인가요?"
+        }
+      ]
+    }
+  ]
+}

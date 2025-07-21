@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P4_2_03_33150_127810.png",
+  "id": "33150_127810",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203019",
+      "question_topic_name": "소소 두 자리 수와 소수 세 자리 수",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 53,
+      "question_success_rate": 95.08
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정아네 집에서 미용실까지의 거리는 $100$ $m$입니다. 정아는 집에서 미용실을 향해 출발하여 $62$ $m$를 갔습니다. 미용실까지 가는 데 남은 거리는 전체의 얼마인지 소수로 나타내어 보세요. (1) 미용실까지 가는 데 남은 거리는 몇 $m$인지 구해 보세요. (2) 미용실까지 가는 데 남은 거리는 전체의 얼마인지 소수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            578,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            594,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            63,
+            579,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            104,
+            561,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            471,
+            287,
+            493,
+            315
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            329,
+            578,
+            355
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            33,
+            360,
+            198,
+            385
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            132
+          ],
+          "text": "정아네 집에서 미용실까지의 거리는 $100$ $m$입니다. 정아는 집에서 미용실을 향해 출발하여 $62$ $m$를 갔습니다. 미용실까지 가는 데 남은 거리는 전체의 얼마인지 소수로 나타내어 보세요. (1) 미용실까지 가는 데 남은 거리는 몇 $m$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            328,
+            577,
+            386
+          ],
+          "text": "(2) 미용실까지 가는 데 남은 거리는 전체의 얼마인지 소수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_04_26396_136276.png",
+  "id": "26396_136276",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104006",
+      "question_topic_name": "밀기와 뒤집기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 57,
+      "question_success_rate": 77.72
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "1칸의 가로와 세로가 1 cm이고 가로 13칸 세로 5칸으로 된 모눈종이 위에 첫 칸을 기준으로 오른쪽으로 2칸 아래로 한 칸 이동한 중앙에서 좌, 우, 위, 아래 1칸씩 총 5칸으로 이루어진 가 도형과 가 도형에서 오른쪽으로 8칸, 아래쪽으로 2칸 떨어진 위치에 가 도형과 합동인 나 도형이 있는 그림",
+      "question_text": "㉮ 도형을 오른쪽으로 $□ cm$ 밀고 아래쪽으로 $△ cm$ 밀면 ㉯ 도형이 됩니다. $□$와 $△$의 합을 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            387,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            76,
+            76,
+            477,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            59
+          ],
+          "text": "㉮ 도형을 오른쪽으로 $□ cm$ 밀고 아래쪽으로 $△ cm$ 밀면 ㉯ 도형이 됩니다. $□$와 $△$의 합을 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

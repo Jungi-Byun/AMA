@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_05_21919_58420.png",
+  "id": "21919_58420",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105025",
+      "question_topic_name": "시간의 덧셈과 뺄셈의 활용 - 시/분/초 또는 시/분",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 157,
+      "question_success_rate": 83.68
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$안에 알맞은 수를 써넣으세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            326,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            99,
+            56,
+            489,
+            277
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            328,
+            39
+          ],
+          "text": "$\\square$안에 알맞은 수를 써넣으세요."
+        }
+      ]
+    }
+  ]
+}

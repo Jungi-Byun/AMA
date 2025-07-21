@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_01_25821_160480.png",
+  "id": "25821_160480",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101014",
+      "question_topic_name": "받아내림이 없는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 175,
+      "question_success_rate": 61.9
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "재형이가 계산한 값은 얼마인지 구해 보세요. 민준 : 어떤 수에 $221$을 더했더니 $774$가 되었어.  재형 : 그럼 나는 어떤 수에서 $221$을 빼 볼래.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            430,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            71,
+            68,
+            516,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69,
+            98,
+            489,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            549,
+            139
+          ],
+          "text": "재형이가 계산한 값은 얼마인지 구해 보세요. 민준 : 어떤 수에 $221$을 더했더니 $774$가 되었어.  재형 : 그럼 나는 어떤 수에서 $221$을 빼 볼래. "
+        }
+      ]
+    }
+  ]
+}

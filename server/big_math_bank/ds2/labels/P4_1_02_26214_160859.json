@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_02_26214_160859.png",
+  "id": "26214_160859",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102016",
+      "question_topic_name": "삼각형과 사각형의 각의 크기의 합",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 56,
+      "question_success_rate": 96.43
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "태현이와 채영이가 각도기를 이용하여 삼각형의 세 각의 크기를 재었습니다. 각도를 잘못 잰 사람은 누구인가요? $\\\\$<table border> <thead>   <tr>     <th>태현</th>     <th>$55\\degree$,$70\\degree$,$50\\degree$</th>   </tr> </thead> <tbody>   <tr>     <td>채영</td>     <td>$140\\degree$,$25\\degree$,$15\\degree$</td>   </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            3,
+            587,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            5,
+            33,
+            489,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            130.06,
+            73.37,
+            467.06,
+            160.37
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1.06,
+            1.37,
+            590.06,
+            155.37
+          ],
+          "text": "태현이와 채영이가 각도기를 이용하여 삼각형의 세 각의 크기를 재었습니다. 각도를 잘못 잰 사람은 누구인가요? $\\\\$<table border> <thead>   <tr>     <th>태현</th>     <th>$55\\degree$,$70\\degree$,$50\\degree$</th>   </tr> </thead> <tbody>   <tr>     <td>채영</td>     <td>$140\\degree$,$25\\degree$,$15\\degree$</td>   </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

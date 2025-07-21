@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_02_41521_161239.png",
+  "id": "41521_161239",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102016",
+      "question_topic_name": "삼각형과 사각형의 각의 크기의 합",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 241,
+      "question_success_rate": 78.05
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㄱㄹ 위의 점 ㅁ과 선분 ㄴㄷ 위의 점 ㅂ을 이은 선분 ㅁㅂ을 기준으로 각 ㄱㅁㅂ의 크기가 65도가 되도록 접고, 점 ㄱ에 대응점을 점 ㅇ, 점 ㄴ의 대응점을 점 ㅅ, 변 ㅇㅅ과 변 ㄴㄷ이 만나는 점을 점 ㅈ이라 할 때, 각 ㅇㅈㅂ에 각도 표시가 되어있는 직사각형 모양의 종이 ㄱㄴㄷㄹ",
+      "question_text": "다음 그림과 같이 직사각형 모양의 종이를 접었습니다. 각 $ㅂㅈㅇ$의 크기를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            576,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            265,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            138,
+            87,
+            460,
+            312
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            578,
+            59
+          ],
+          "text": "다음 그림과 같이 직사각형 모양의 종이를 접었습니다. 각 $ㅂㅈㅇ$의 크기를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

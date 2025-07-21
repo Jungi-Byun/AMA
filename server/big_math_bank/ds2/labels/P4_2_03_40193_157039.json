@@ -1,0 +1,151 @@
+﻿{
+  "question_filename": "P4_2_03_40193_157039.png",
+  "id": "40193_157039",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203018",
+      "question_topic_name": "소수 두 자리 수의 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 165,
+      "question_success_rate": 90.18
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "오른쪽과 같이 둘레가 $1km$인 원 모양 호수의 둘레를 소연이와 종민이가 같은 곳에서 동시에 출발하여 서로 반대 방향으로 걷고 있습니다. 소연이의 한 걸음은 $0.47m$이고, 종민이의 한 걸음은 $0.53m$입니다. 소연이와 종민이가 처음으로 만났을 때 두 사람이 걸은 거리의 차는 몇 $km$인지 구해 보세요. (단, 소연이가 한 걸음을 걸을 때, 종민이도 한 걸음을 걷습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            387,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            381,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            381,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            364,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            123,
+            392,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            153,
+            381,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            183,
+            382,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            213,
+            380,
+            240
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            243,
+            368,
+            269
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            273,
+            37,
+            300
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            406,
+            8,
+            587,
+            252
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            394,
+            301
+          ],
+          "text": "오른쪽과 같이 둘레가 $1km$인 원 모양 호수의 둘레를 소연이와 종민이가 같은 곳에서 동시에 출발하여 서로 반대 방향으로 걷고 있습니다. 소연이의 한 걸음은 $0.47m$이고, 종민이의 한 걸음은 $0.53m$입니다. 소연이와 종민이가 처음으로 만났을 때 두 사람이 걸은 거리의 차는 몇 $km$인지 구해 보세요. (단, 소연이가 한 걸음을 걸을 때, 종민이도 한 걸음을 걷습니다.)"
+        }
+      ]
+    }
+  ]
+}

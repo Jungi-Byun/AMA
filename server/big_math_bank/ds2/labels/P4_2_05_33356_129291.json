@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_05_33356_129291.png",
+  "id": "33356_129291",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205007",
+      "question_topic_name": "두 꺾은선그래프 비교하기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 48,
+      "question_success_rate": 93.08
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "월별 호떡 판매량을 제목으로 가로축 단위가 (월)인 월을 1, 2, 3, 4순 나열하고, 세로축 단위가 (개)인 판매량을 눈금 단위 10으로 0부터 150까지 5칸마다 50배수로 단위를 표시하며, 판매량이 1월 100개, 2월 140개, 3월 70개, 4월 50개를 나타낸 좌측에 위치한 꺾은선그래프와 월별 기온을 제목으로 가로축 단위가 (월)인 월을 1, 2, 3, 4순 나열하고, 세로축 단위가 (도)인 기온을 눈금 단위가 1로 0부터 15까지 5칸마다 5배수로 단위를 표시하며, 기온이 1월 4도, 2월 3도, 3월 8도, 4월 10도를 나타낸 우측에 위치한 꺾은선그래프가 나란히 있는 2개의 그래프",
+      "question_text": "어느 호떡 가게의 월별 판매량과 어느 지역의 월별 기온을 조사하여 나타낸 꺾은선그래프입니다. 호떡 판매량이 가장 많은 때의 기온은 몇 $\\degree C$인지 구해 보세요. ",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            590,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            344,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            15,
+            103,
+            580,
+            391
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            89
+          ],
+          "text": "어느 호떡 가게의 월별 판매량과 어느 지역의 월별 기온을 조사하여 나타낸 꺾은선그래프입니다. 호떡 판매량이 가장 많은 때의 기온은 몇 $\\degree C$인지 구해 보세요. "
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_2_06_24349_72408.png",
+  "id": "24349_72408",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 49,
+      "question_success_rate": 100.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "선우네 아파트 동별 학생 수를 조사하여 표로 나타내었습니다. 조사한 표를 보고 그림그래프를 완성해 보세요. <table border> <caption>아파트 동별 학생 수</caption>   <tbody>     <tr>       <td>동</td>       <td>$101$동</td>        <td>$102$동</td>       <td>$103$동</td>  <td>$104$동</td>  <td>합계</td>         </tr>     <tr>       <td>학생 수 (명)</td>       <td>$11$</td>       <td>$14$</td>       <td>$20$</td>     <td>$22$</td>     <td>$67$</td>         </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            452,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            196,
+            69,
+            401,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            120,
+            597,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            69,
+            219,
+            510,
+            686
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            204
+          ],
+          "text": "선우네 아파트 동별 학생 수를 조사하여 표로 나타내었습니다. 조사한 표를 보고 그림그래프를 완성해 보세요. <table border> <caption>아파트 동별 학생 수</caption>   <tbody>     <tr>       <td>동</td>       <td>$101$동</td>        <td>$102$동</td>       <td>$103$동</td>  <td>$104$동</td>  <td>합계</td>         </tr>     <tr>       <td>학생 수 (명)</td>       <td>$11$</td>       <td>$14$</td>       <td>$20$</td>     <td>$22$</td>     <td>$67$</td>         </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

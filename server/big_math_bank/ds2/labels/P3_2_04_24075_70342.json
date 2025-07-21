@@ -1,0 +1,51 @@
+﻿{
+  "question_filename": "P3_2_04_24075_70342.png",
+  "id": "24075_70342",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204010",
+      "question_topic_name": "대분수를 가분수로, 가분수를 대분수로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 73,
+      "question_success_rate": 90.98
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "대분수 $3\\frac{1}{6}$을 가분수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            392,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            394,
+            42
+          ],
+          "text": "대분수 $3\\frac{1}{6}$을 가분수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

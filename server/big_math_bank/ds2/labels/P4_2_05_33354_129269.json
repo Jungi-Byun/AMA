@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_2_05_33354_129269.png",
+  "id": "33354_129269",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205007",
+      "question_topic_name": "두 꺾은선그래프 비교하기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 141,
+      "question_success_rate": 79.05
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "판매한 붕어빵 수를 2개월마다 조사하여 단위가 (월)을 가로축으로, 단위가 (개)를 세로축으로 하고 가로축의 눈금 단위가 2, 세로축의 눈금 단위가 10이며 가로축은 3, 5, 7, 9, 11을 1칸마다, 세로축은 300개 미만은 물결선을 그려 생략하고 0, 300, 350, 400, 450을 5칸마다 단위를 적은, 3월은 420개, 5월은 450개, 7월은 370개, 9월은 410개, 11월은 340개를 나타내는 제목이 판매한 붕어빵 수인 꺾은선그래프",
+      "question_text": "어느 가게에서 판매한 붕어빵 수를 $2$ 개월마다 조사하여 나타낸 꺾은선그래프입니다. 이 꺾은선그래프를 세로 눈금 한 칸이 $20$ 개를 나타내도록 다시 그린다면 $5$ 월과 $7$ 월의 세로 눈금은 몇 칸 차이가 나는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            585,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            585,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            93,
+            320,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            126,
+            123,
+            472,
+            410
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            595,
+            119
+          ],
+          "text": "어느 가게에서 판매한 붕어빵 수를 $2$ 개월마다 조사하여 나타낸 꺾은선그래프입니다. 이 꺾은선그래프를 세로 눈금 한 칸이 $20$ 개를 나타내도록 다시 그린다면 $5$ 월과 $7$ 월의 세로 눈금은 몇 칸 차이가 나는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

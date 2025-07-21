@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P3_2_06_39514_155090.png",
+  "id": "39514_155090",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206001",
+      "question_topic_name": "표를 보고 내용 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 179,
+      "question_success_rate": 88.55
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민우네 반 학생 $26$ 명이 가지고 있는 색종이 수를 조사하였더니 $2$장인 학생이 $10$ 명, $3$장인 학생이 $7$ 명, $4$장인 학생이 $5$ 명, $5$장인 학생이 $4$ 명이었습니다. 학생들이 가지고 있는 색종이 수를 다시 색깔별로 조사하여 표로 나타내었습니다. 하늘색 색종이는 몇 장인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            594,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            577,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            93,
+            593,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            123,
+            293,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            149,
+            160,
+            448,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            50,
+            211,
+            547,
+            296
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            298
+          ],
+          "text": "민우네 반 학생 $26$ 명이 가지고 있는 색종이 수를 조사하였더니 $2$장인 학생이 $10$ 명, $3$장인 학생이 $7$ 명, $4$장인 학생이 $5$ 명, $5$장인 학생이 $4$ 명이었습니다. 학생들이 가지고 있는 색종이 수를 다시 색깔별로 조사하여 표로 나타내었습니다. 하늘색 색종이는 몇 장인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

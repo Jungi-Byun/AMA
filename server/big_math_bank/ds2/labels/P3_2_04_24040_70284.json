@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_04_24040_70284.png",
+  "id": "24040_70284",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 112,
+      "question_success_rate": 84.88
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\blacklozenge$은 $1$이고, $\\blacklozenge$을 $2$ 등분 한 것이 $\\blacktriangle$이라고 할 때 다음 모양을 가분수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            0,
+            582.95,
+            38.66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            38.66,
+            338.29,
+            70.36
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            129.13,
+            71.62,
+            467.6,
+            219.94
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            0,
+            591.83,
+            70.36
+          ],
+          "text": "$\\blacklozenge$은 $1$이고, $\\blacklozenge$을 $2$ 등분 한 것이 $\\blacktriangle$이라고 할 때 다음 모양을 가분수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

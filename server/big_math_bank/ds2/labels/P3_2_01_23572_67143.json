@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_01_23572_67143.png",
+  "id": "23572_67143",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201006",
+      "question_topic_name": "십의 자리, 백의 자리에서 올림이 있는 (세 자리 수)×(한 자리 수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 131,
+      "question_success_rate": 83.96
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "비누가 한 상자에 $108$ 개씩 $7$ 상자, 칫솔이 한 상자에 $336$ 개씩 $2$ 상자 있습니다. 상자에 들어 있는 비누와 칫솔은 모두 몇 개인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            578,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            78,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            586,
+            89
+          ],
+          "text": "비누가 한 상자에 $108$ 개씩 $7$ 상자, 칫솔이 한 상자에 $336$ 개씩 $2$ 상자 있습니다. 상자에 들어 있는 비누와 칫솔은 모두 몇 개인가요?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_02_22870_73788.png",
+  "id": "22870_73788",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202005",
+      "question_topic_name": "이등변삼각형의 성질",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 117,
+      "question_success_rate": 90.28
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "각 ㄴ이 70도, 각 ㄹ을 네모 빈칸으로 화살표를 이용해 표시했고, 점 ㄷ으로부터 변 ㄴㄹ 위의 점 ㄱ으로 선분 ㄱㄷ을 그은 변 ㄴㄷ을 밑변으로 하는 삼각형 ㄴㄷㄹ",
+      "question_text": "삼각형 $ㄱㄴㄷ$과 삼각형 $ㄱㄷㄹ$은 이등변삼각형입니다. $\\square$는 몇 도인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            221,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            234.82,
+            78.86,
+            373.82,
+            334.86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            59
+          ],
+          "text": "삼각형 $ㄱㄴㄷ$과 삼각형 $ㄱㄷㄹ$은 이등변삼각형입니다. $\\square$는 몇 도인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

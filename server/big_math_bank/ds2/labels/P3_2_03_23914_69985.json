@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_03_23914_69985.png",
+  "id": "23914_69985",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203006",
+      "question_topic_name": "원의 성질",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 73,
+      "question_success_rate": 90.7
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "빨간색인 원의 중심이 동심원인 두 개가 있을 때, 가로로 그어져 있는 큰 원의 지름에서 작은 원의 지름을 뺀 위, 아래 선분의 길이가 모두 3 cm이고, 우측 위를 향하게 그려진 작은 원의 지름의 길이가 12 cm인 도형",
+      "question_text": "큰 원의 반지름은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            397,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            144,
+            47,
+            453,
+            355
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            399,
+            30
+          ],
+          "text": "큰 원의 반지름은 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

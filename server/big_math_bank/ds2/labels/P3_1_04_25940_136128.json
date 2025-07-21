@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_04_25940_136128.png",
+  "id": "25940_136128",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104006",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 107,
+      "question_success_rate": 90.74
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$43$ 개씩 포장된 귤 $3$ 상자와 $21$ 개씩 포장된 감 $6$ 상자가 있습니다. 귤과 감 중 더 많은 것은 어느 것인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            413,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "$43$ 개씩 포장된 귤 $3$ 상자와 $21$ 개씩 포장된 감 $6$ 상자가 있습니다. 귤과 감 중 더 많은 것은 어느 것인가요? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            597,
+            30
+          ],
+          "text": null
+        }
+      ]
+    }
+  ]
+}

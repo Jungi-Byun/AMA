@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_02_33095_127485.png",
+  "id": "33095_127485",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202009",
+      "question_topic_name": "정삼각형의 성질",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 51,
+      "question_success_rate": 79.42
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정삼각형 4개를 이용하여 맨 아래에는 정삼각형 3개, 그 위에는 1개를 변끼리 교차하지 않게 이어 붙여 만든 큰 정삼각형",
+      "question_text": "한 변의 길이가 $5 cm$인 정삼각형 $4$ 개를 그림과 같이 겹치지 않게 변끼리 이어 붙여서 큰 정삼각형을 만들었습니다. 큰 정삼각형의 세 변의 길이의 합은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            579,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            496,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            140,
+            110,
+            431,
+            361
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            89
+          ],
+          "text": "한 변의 길이가 $5 cm$인 정삼각형 $4$ 개를 그림과 같이 겹치지 않게 변끼리 이어 붙여서 큰 정삼각형을 만들었습니다. 큰 정삼각형의 세 변의 길이의 합은 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

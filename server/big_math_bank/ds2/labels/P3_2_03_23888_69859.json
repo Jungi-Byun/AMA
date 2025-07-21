@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_03_23888_69859.png",
+  "id": "23888_69859",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203003",
+      "question_topic_name": "원의 중심, 반지름, 지름",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 51,
+      "question_success_rate": 94.96
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "지름이 6 cm인 원에 길이가 2cm인 현이 있는 그림을 가, 오른쪽에 지름이 7 cm인 원 안에 지름과 5 cm인 현이 교차하도록 그린 그림을 나 를 나란히 그린 그림",
+      "question_text": "두 원 가와 나의 지름의 합은 몇 $cm$인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            407,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            49,
+            561,
+            324
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            409,
+            30
+          ],
+          "text": "두 원 가와 나의 지름의 합은 몇 $cm$인가요?"
+        }
+      ]
+    }
+  ]
+}

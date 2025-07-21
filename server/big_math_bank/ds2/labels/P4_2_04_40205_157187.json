@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_04_40205_157187.png",
+  "id": "40205_157187",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204009",
+      "question_topic_name": "평행선 사이의 거리의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 83,
+      "question_success_rate": 92.91
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "윗변과 아랫변에 모두 수직의 관계를 갖는 변 ㄱㅂ의 길이는 9 cm, 빗변 ㄴㄷ의 길이는 13 cm인 사다리꼴 ㄱㄴㄷㅂ과 윗변과 아랫변에 모두 수직의 관계를 갖는 변 ㄷㄹ의 길이는 4 cm, 빗변 ㅁㅂ의 길이는 6 cm인 사다리꼴 ㄷㄹㅁㅂ이 선분 ㅂㄷ을 공통의 변으로 겹치지 않게 이어 붙어 있는 그림",
+      "question_text": "다음 도형에서 변 $ㄱㄴ$과 변 $ㄹㅁ$은 서로 평행합니다. 변 $ㄱㄴ$과 변 $ㄹㅁ$ 사이의 거리는 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            474,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0.37,
+            1.91,
+            585.37,
+            26.91
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            175.37,
+            86.86,
+            416.37,
+            458.86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.37,
+            1.91,
+            584.37,
+            57.91
+          ],
+          "text": "다음 도형에서 변 $ㄱㄴ$과 변 $ㄹㅁ$은 서로 평행합니다. 변 $ㄱㄴ$과 변 $ㄹㅁ$ 사이의 거리는 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

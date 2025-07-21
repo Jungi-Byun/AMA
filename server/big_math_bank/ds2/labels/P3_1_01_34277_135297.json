@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_01_34277_135297.png",
+  "id": "34277_135297",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101018",
+      "question_topic_name": "받아내림이 있는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 158,
+      "question_success_rate": 92.44
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민경이는 ㉮, ㉯, ㉰ 세 대교의 길이를 조사했습니다. 길이의 차가 $200 m$에 가장 가까운 두 대교는 어느 것인가요?  <table border> <tbody> <tr> <td>㉮대교</td> <td>㉯대교</td> <td>㉰대교</td> </tr> <tr> <td>$934m$</td> <td>$679m$</td> <td>$498m$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            595,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            480,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            164,
+            70,
+            433,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            167
+          ],
+          "text": "민경이는 ㉮, ㉯, ㉰ 세 대교의 길이를 조사했습니다. 길이의 차가 $200 m$에 가장 가까운 두 대교는 어느 것인가요?  <table border> <tbody> <tr> <td>㉮대교</td> <td>㉯대교</td> <td>㉰대교</td> </tr> <tr> <td>$934m$</td> <td>$679m$</td> <td>$498m$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

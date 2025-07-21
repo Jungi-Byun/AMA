@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_01_32592_125925.png",
+  "id": "32592_125925",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201010",
+      "question_topic_name": "(몇)x(몇십몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 43,
+      "question_success_rate": 94.15
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 작은 수와 가장 큰 수의 곱은 얼마인지 구해 보세요. $29$ $8$ $11$ $20$ $34$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            540,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            97,
+            64,
+            500,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            574,
+            109
+          ],
+          "text": "가장 작은 수와 가장 큰 수의 곱은 얼마인지 구해 보세요. $29$ $8$ $11$ $20$ $34$"
+        }
+      ]
+    }
+  ]
+}

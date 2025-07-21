@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P4_1_01_26156_161014.png",
+  "id": "26156_161014",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 182,
+      "question_success_rate": 73.33
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민재와 여진이는 각각 다음과 같이 수 카드를 모두 한 번씩만 사용하여 여섯 자리 수를 만들었습니다. 더 큰 수를 만든 사람은 누구인가요? $5$ $7$ $1$ $9$ $3$ $4$ 민재 : 나는 천의 자리 숫자가 $3$인 가장 큰 수를 만들었어. 여진 : 나는 만의 자리 숫자가 $5$인 가장 큰 수를 만들었어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            584,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            149,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            150,
+            103,
+            447,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            196,
+            568,
+            225
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            234,
+            569,
+            263
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            594,
+            277
+          ],
+          "text": "민재와 여진이는 각각 다음과 같이 수 카드를 모두 한 번씩만 사용하여 여섯 자리 수를 만들었습니다. 더 큰 수를 만든 사람은 누구인가요? $5$ $7$ $1$ $9$ $3$ $4$ 민재 : 나는 천의 자리 숫자가 $3$인 가장 큰 수를 만들었어. 여진 : 나는 만의 자리 숫자가 $5$인 가장 큰 수를 만들었어."
+        }
+      ]
+    }
+  ]
+}

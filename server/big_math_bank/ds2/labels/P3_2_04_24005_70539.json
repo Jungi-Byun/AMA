@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_04_24005_70539.png",
+  "id": "24005_70539",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 108,
+      "question_success_rate": 80.14
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "종현이는 아몬드 $28$ 개 중 $\\frac{5}{7}$를 빵의 재료로 사용했습니다. 남은 아몬드는 몇 개인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            585,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            248,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            587,
+            74
+          ],
+          "text": "종현이는 아몬드 $28$ 개 중 $\\frac{5}{7}$를 빵의 재료로 사용했습니다. 남은 아몬드는 몇 개인가요?"
+        }
+      ]
+    }
+  ]
+}

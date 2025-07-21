@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_05_32947_126678.png",
+  "id": "32947_126678",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205013",
+      "question_topic_name": "들이의 덧셈과 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 93,
+      "question_success_rate": 81.61
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "차가운 물이 나오는 수도에서는 $1$ 분에 $1 L$의 물이 나오고 따뜻한 물이 나오는 수도에서는 $1$ 분에 $2 L~ 590 mL$의 물이 나옵니다. 두 수도를 동시에 틀어서 $2$ 분 동안 받을 수 있는 물은 모두 몇 $L$ 몇 $mL$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            580,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            63,
+            590,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            303,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            137
+          ],
+          "text": "차가운 물이 나오는 수도에서는 $1$ 분에 $1 L$의 물이 나오고 따뜻한 물이 나오는 수도에서는 $1$ 분에 $2 L~ 590 mL$의 물이 나옵니다. 두 수도를 동시에 틀어서 $2$ 분 동안 받을 수 있는 물은 모두 몇 $L$ 몇 $mL$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

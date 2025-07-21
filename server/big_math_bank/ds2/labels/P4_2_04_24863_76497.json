@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_04_24863_76497.png",
+  "id": "24863_76497",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204015",
+      "question_topic_name": "평행사변형의 성질 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 120,
+      "question_success_rate": 87.94
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "변 ㄷㄹ에 평행하도록 변 ㄴㄷ 위의 점 ㅁ과 ㄱ을 이은 선분 ㄱㅁ을 그린 윗변 ㄱㄹ의 길이가 18 cm이고 아랫변 ㄴㄷ의 길이가 24 cm, 빗변 ㄷㄹ의 길이가 17 cm인 사다리꼴 ㄱㄴㄷㄹ",
+      "question_text": "사다리꼴 $ㄱㄴㄷㄹ$에서 변 $ㄷㄹ$에 평행한 선분 $ㄱㅁ$을 그었습니다. 변 $ㄱㅁ$과 변 $ㄴㅁ$의 길이의 합은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            571,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            65,
+            29,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            157,
+            120,
+            444,
+            329
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            87
+          ],
+          "text": "사다리꼴 $ㄱㄴㄷㄹ$에서 변 $ㄷㄹ$에 평행한 선분 $ㄱㅁ$을 그었습니다. 변 $ㄱㅁ$과 변 $ㄴㅁ$의 길이의 합은 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

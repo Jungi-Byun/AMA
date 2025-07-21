@@ -1,0 +1,141 @@
+﻿{
+  "question_filename": "P4_1_03_26166_135671.png",
+  "id": "26166_135671",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103003",
+      "question_topic_name": "(세 자리 수) x (몇십)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 62,
+      "question_success_rate": 88.55
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성재와 탁수가 '$248\\times30$'을 이용하여 해결할 수 있는 문제를 만들었습니다. 바르게 만든 문제의 답을 구해 보세요. 성재 : 색종이를 $248$ 장 가지고 있습니다. $30$ 장의 색종이를 사용했다면 가지고 있는 색종이는 모두 몇 장인가요?  탁수 : 한 통에 휴지가 $248$ 장씩 들어 있는 휴지갑이 $30$ 통 있습니다. 휴지는 모두 몇 장인가요? (1) 문제를 바르게 만든 사람은 누구인가요? (2) 바르게 만든 문제의 답을 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            594,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            485,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            45,
+            90,
+            537,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            106,
+            124,
+            531,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            106,
+            154,
+            261,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            46,
+            188,
+            530,
+            217
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            106,
+            222,
+            509,
+            247
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            283,
+            417,
+            310
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            619,
+            396,
+            646
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1.67,
+            0,
+            597.67,
+            320.8
+          ],
+          "text": "성재와 탁수가 '$248\\times30$'을 이용하여 해결할 수 있는 문제를 만들었습니다. 바르게 만든 문제의 답을 구해 보세요. 성재 : 색종이를 $248$ 장 가지고 있습니다. $30$ 장의 색종이를 사용했다면 가지고 있는 색종이는 모두 몇 장인가요?  탁수 : 한 통에 휴지가 $248$ 장씩 들어 있는 휴지갑이 $30$ 통 있습니다. 휴지는 모두 몇 장인가요? (1) 문제를 바르게 만든 사람은 누구인가요?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1.67,
+            609.87,
+            409.67,
+            653.07
+          ],
+          "text": "(2) 바르게 만든 문제의 답을 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

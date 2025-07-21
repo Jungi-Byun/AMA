@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_2_06_32965_126758.png",
+  "id": "32965_126758",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 53,
+      "question_success_rate": 83.47
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "윤미네 학교의 학생들이 좋아하는 색깔을 조사하였습니다. 윤미네 학교의 학생은 모두 몇 명인지 구해 보세요. 학생들이 좋아하는 색깔 <table border> <tbody> <tr> <td>색깔</td> <td>빨간색</td> <td>파란색</td> <td>보라색</td> <td>합계</td> </tr> <tr> <td>학생 수(명)</td> <td> </td> <td>$80$</td> <td> </td> <td> </td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            463,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            177,
+            54,
+            421,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            14,
+            110,
+            583,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            103,
+            212,
+            476,
+            454
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            197
+          ],
+          "text": "윤미네 학교의 학생들이 좋아하는 색깔을 조사하였습니다. 윤미네 학교의 학생은 모두 몇 명인지 구해 보세요. 학생들이 좋아하는 색깔 <table border> <tbody> <tr> <td>색깔</td> <td>빨간색</td> <td>파란색</td> <td>보라색</td> <td>합계</td> </tr> <tr> <td>학생 수(명)</td> <td> </td> <td>$80$</td> <td> </td> <td> </td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

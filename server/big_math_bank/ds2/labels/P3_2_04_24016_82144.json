@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_04_24016_82144.png",
+  "id": "24016_82144",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 84,
+      "question_success_rate": 74.83
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영수는 사탕 $8$ 개를 먹었습니다. 이것은 전체 사탕의 $\\frac{2}{5}$입니다. 전체 사탕은 모두 몇 개였는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            595,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            414,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            597,
+            74
+          ],
+          "text": "영수는 사탕 $8$ 개를 먹었습니다. 이것은 전체 사탕의 $\\frac{2}{5}$입니다. 전체 사탕은 모두 몇 개였는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

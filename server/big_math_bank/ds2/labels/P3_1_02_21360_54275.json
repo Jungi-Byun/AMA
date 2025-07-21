@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_02_21360_54275.png",
+  "id": "21360_54275",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102013",
+      "question_topic_name": "직사각형과 정사각형",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 213,
+      "question_success_rate": 87.48
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "수직의 관계를 갖는 두 변의 길이가 8 cm와 15 cm이고 빗변이 밑변으로 있는 직각삼각형과 빗변을 한 변으로 삼각형의 아래쪽에 겹치지 않게 이어 붙인 정사각형이 있는 그림",
+      "question_text": "다음 도형은 직각삼각형과 정사각형을 겹치지 않게 이어 붙인 것입니다. 정사각형의 네 변의 길이의 합이 $68{cm}$일 때, 직각삼각형의 세 변의 길이의 합은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            588,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            595,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            496,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            187,
+            110,
+            412,
+            394
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            89
+          ],
+          "text": "다음 도형은 직각삼각형과 정사각형을 겹치지 않게 이어 붙인 것입니다. 정사각형의 네 변의 길이의 합이 $68{cm}$일 때, 직각삼각형의 세 변의 길이의 합은 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_01_38626_153162.png",
+  "id": "38626_153162",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201001",
+      "question_topic_name": "올림 없는 (세 자리 수)x(한 자리 수) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 174,
+      "question_success_rate": 87.32
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$㉠ ◆ ㉡$을 다음과 같이 계산할 때, $63 ◆ 59$는 얼마인지 구해 보세요. $㉠+㉡=㉢$, $㉠-㉡=㉣$일 때, $㉠ ◆ ㉡=㉢\\times㉣$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            592,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            51,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            83,
+            98,
+            387,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            83,
+            128,
+            324,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            594,
+            182
+          ],
+          "text": "$㉠ ◆ ㉡$을 다음과 같이 계산할 때, $63 ◆ 59$는 얼마인지 구해 보세요. $㉠+㉡=㉢$, $㉠-㉡=㉣$일 때, $㉠ ◆ ㉡=㉢\\times㉣$입니다."
+        }
+      ]
+    }
+  ]
+}

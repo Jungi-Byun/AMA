@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_1_02_34287_160907.png",
+  "id": "34287_160907",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102013",
+      "question_topic_name": "직사각형과 정사각형",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 103,
+      "question_success_rate": 77.78
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민지와 강현이 중 옳게 설명한 사람은 누구인가요? 민지 : 두 도형의 네각이 모두 직각이야 강현 : 가는 정사각형이고 나는 직사각형이 아니야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            485,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            297,
+            436,
+            326
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            54,
+            327,
+            540,
+            356
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            122,
+            50,
+            476,
+            254
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            487,
+            30
+          ],
+          "text": "민지와 강현이 중 옳게 설명한 사람은 누구인가요?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            52,
+            296,
+            542,
+            357
+          ],
+          "text": "민지 : 두 도형의 네각이 모두 직각이야 강현 : 가는 정사각형이고 나는 직사각형이 아니야."
+        }
+      ]
+    }
+  ]
+}

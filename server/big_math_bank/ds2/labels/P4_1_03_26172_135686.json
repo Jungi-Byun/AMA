@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_03_26172_135686.png",
+  "id": "26172_135686",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103003",
+      "question_topic_name": "(세 자리 수) x (몇십)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 52,
+      "question_success_rate": 91.27
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가게에서 과자 한 봉지를 $1050$ 원에 사 와서 $1600$ 원에 팔고 있습니다. 이 과자를 $40$ 봉지 팔았다면 이익금은 모두 얼마인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            3,
+            592,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            33,
+            578,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            65,
+            34,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            594,
+            87
+          ],
+          "text": "가게에서 과자 한 봉지를 $1050$ 원에 사 와서 $1600$ 원에 팔고 있습니다. 이 과자를 $40$ 봉지 팔았다면 이익금은 모두 얼마인가요?"
+        }
+      ]
+    }
+  ]
+}

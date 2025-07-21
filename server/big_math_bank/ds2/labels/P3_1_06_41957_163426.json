@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_06_41957_163426.png",
+  "id": "41957_163426",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106021",
+      "question_topic_name": "단위분수의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 98,
+      "question_success_rate": 94.62
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지윤이가 과자를 전체의 $\\frac{1}{9}$만큼 먹는 데 $3$ 분이 걸립니다. 같은 빠르기로 과자를 전체의 $\\frac{5}{9}$만큼 먹으려면 몇 분이 걸리는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            596,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            45,
+            595,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            92,
+            100,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            597,
+            118
+          ],
+          "text": "지윤이가 과자를 전체의 $\\frac{1}{9}$만큼 먹는 데 $3$ 분이 걸립니다. 같은 빠르기로 과자를 전체의 $\\frac{5}{9}$만큼 먹으려면 몇 분이 걸리는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

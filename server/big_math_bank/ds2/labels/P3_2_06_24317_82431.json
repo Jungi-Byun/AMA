@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_06_24317_82431.png",
+  "id": "24317_82431",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206001",
+      "question_topic_name": "표를 보고 내용 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 38,
+      "question_success_rate": 53.43
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연주는 반 학생들이 좋아하는 계절을 조사하여 표로 나타내었습니다. 연주네 반 여학생은 모두 몇 명인지 구해 보세요. 좋아하는 계절별 학생 수 <table border> <tbody> <tr> <td>계절</td> <td>봄</td> <td>여름</td> <td>가을</td> <td>겨울</td> </tr> <tr> <td>여학생 수(명)</td> <td>$4$</td> <td>$6$</td> <td>$3$</td> <td>$7$</td> </tr> <tr> <td>남학생 수(명)</td> <td>$7$</td> <td>$3$</td> <td>$2$</td> <td>$5$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            589,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            540,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            174,
+            69,
+            423,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            103,
+            109,
+            494,
+            247
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            591,
+            249
+          ],
+          "text": "연주는 반 학생들이 좋아하는 계절을 조사하여 표로 나타내었습니다. 연주네 반 여학생은 모두 몇 명인지 구해 보세요. 좋아하는 계절별 학생 수 <table border> <tbody> <tr> <td>계절</td> <td>봄</td> <td>여름</td> <td>가을</td> <td>겨울</td> </tr> <tr> <td>여학생 수(명)</td> <td>$4$</td> <td>$6$</td> <td>$3$</td> <td>$7$</td> </tr> <tr> <td>남학생 수(명)</td> <td>$7$</td> <td>$3$</td> <td>$2$</td> <td>$5$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

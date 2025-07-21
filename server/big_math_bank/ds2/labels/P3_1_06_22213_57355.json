@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_06_22213_57355.png",
+  "id": "22213_57355",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106015",
+      "question_topic_name": "소수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 83,
+      "question_success_rate": 85.26
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색 테이프를 똑같이 $10$ 도막으로 나누어 선우가 그중 $9$ 도막을 사용했습니다. 선우가 사용한 색 테이프를 소수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            591,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            51,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            89
+          ],
+          "text": "색 테이프를 똑같이 $10$ 도막으로 나누어 선우가 그중 $9$ 도막을 사용했습니다. 선우가 사용한 색 테이프를 소수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

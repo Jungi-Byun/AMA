@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_05_25984_136464.png",
+  "id": "25984_136464",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1,
+      "question_rtime": 70,
+      "question_success_rate": 89.11
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 명이 한 모둠이 되어 장애물 달리기 경주를 하였습니다. 경주에서 이긴 모둠은 어느 모둠인가요? <table border> <tbody> <tr> <td>모둠</td> <td>이름</td> <td>달리기 기록</td> </tr> <tr> <td  rowspan=2>①모둠</td> <td>예준</td> <td>$2분5초$</td> </tr> <tr> <td>원제</td> <td>$1분48초$</td>  </tr> <tr> <td  rowspan=2>②모둠</td> <td>준열</td> <td>$1분54초$</td>  </tr> <tr> <td>로운</td> <td>$2분3초$</td>  </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            582,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            33,
+            362,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            88,
+            70,
+            509,
+            276
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            584,
+            280
+          ],
+          "text": "두 명이 한 모둠이 되어 장애물 달리기 경주를 하였습니다. 경주에서 이긴 모둠은 어느 모둠인가요? <table border> <tbody> <tr> <td>모둠</td> <td>이름</td> <td>달리기 기록</td> </tr> <tr> <td  rowspan=2>①모둠</td> <td>예준</td> <td>$2분5초$</td> </tr> <tr> <td>원제</td> <td>$1분48초$</td>  </tr> <tr> <td  rowspan=2>②모둠</td> <td>준열</td> <td>$1분54초$</td>  </tr> <tr> <td>로운</td> <td>$2분3초$</td>  </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

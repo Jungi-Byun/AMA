@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P3_1_01_25777_134955.png",
+  "id": "25777_134955",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101004",
+      "question_topic_name": "받아올림이 없는 세 자리 수의 덧셈",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 96,
+      "question_success_rate": 87.43
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "명수네 책상 공장에서 작년에는 책상을 $221$ 개, 올해에는 작년보다 $232$ 개 더 많이 생산했습니다. 명수네 책상 공장에서 작년과 올해에 생산한 책상은 모두 몇 개인지 구해 보세요. (1) 올해에 생산한 책상은 몇 개인지 구해 보세요. (2) 작년과 올해에 생산한 책상은 모두 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            589,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            595,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            513,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            104,
+            467,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            398,
+            588,
+            425
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            132
+          ],
+          "text": "명수네 책상 공장에서 작년에는 책상을 $221$ 개, 올해에는 작년보다 $232$ 개 더 많이 생산했습니다. 명수네 책상 공장에서 작년과 올해에 생산한 책상은 모두 몇 개인지 구해 보세요. (1) 올해에 생산한 책상은 몇 개인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            396,
+            589,
+            427
+          ],
+          "text": "(2) 작년과 올해에 생산한 책상은 모두 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

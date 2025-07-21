@@ -1,0 +1,51 @@
+﻿{
+  "question_filename": "P4_1_01_22475_59233.png",
+  "id": "22475_59233",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101006",
+      "question_topic_name": "천만 단위까지 수 알기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 58,
+      "question_success_rate": 92.42
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$3\\underline{4}265718$에서 밑줄 친 숫자가 나타내는 값을 구해보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            547,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            549,
+            30
+          ],
+          "text": "$3\\underline{4}265718$에서 밑줄 친 숫자가 나타내는 값을 구해보세요."
+        }
+      ]
+    }
+  ]
+}

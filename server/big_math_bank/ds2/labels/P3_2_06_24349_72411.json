@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_2_06_24349_72411.png",
+  "id": "24349_72411",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 37,
+      "question_success_rate": 90.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "마을별 기르고 있는 소의 수를 조사하여 표로 나타내었습니다. 조사한 표를 보고 그림그래프를 완성해 보세요. $\\\\$ 마을별 소의 수 $\\\\$ <table border>   <tbody>     <tr>       <td>마을</td>       <td>보람</td>       <td>시원</td><td>별빛</td><td> 미래</td><td>합계</td>            </tr>     <tr>       <td>소의 수 (마리)</td>       <td>$41$</td>       <td>$50$</td><td>$33$</td><td>$21$</td><td>$145$</td>    </tr>   </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            452,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            221,
+            69,
+            376,
+            112
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            65,
+            120,
+            532,
+            202
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33,
+            219,
+            547,
+            696
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            204
+          ],
+          "text": "마을별 기르고 있는 소의 수를 조사하여 표로 나타내었습니다. 조사한 표를 보고 그림그래프를 완성해 보세요. $\\\\$ 마을별 소의 수 $\\\\$ <table border>   <tbody>     <tr>       <td>마을</td>       <td>보람</td>       <td>시원</td><td>별빛</td><td> 미래</td><td>합계</td>            </tr>     <tr>       <td>소의 수 (마리)</td>       <td>$41$</td>       <td>$50$</td><td>$33$</td><td>$21$</td><td>$145$</td>    </tr>   </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P4_2_06_33365_129714.png",
+  "id": "33365_129714",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206005",
+      "question_topic_name": "대각선의 성질 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 68,
+      "question_success_rate": 73.86
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 사각형의 공통점으로 알맞은 것을 모두 찾아 기호를 써 보세요. ㄱ. 한 대각선이 다른 대각선을 이등분합니다. ㄴ. 그을 수 있는 대각선은 $2$개입니다. ㄷ. 정다각형입니다. ㄹ. 두 대각선이 서로 수직으로 만납니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            6,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            51,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            71,
+            250,
+            504,
+            275
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            72,
+            288,
+            437,
+            313
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            71,
+            327,
+            267,
+            352
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            72,
+            366,
+            465,
+            391
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            96,
+            79,
+            476,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            59
+          ],
+          "text": "두 사각형의 공통점으로 알맞은 것을 모두 찾아 기호를 써 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            69,
+            249,
+            511,
+            392
+          ],
+          "text": "ㄱ. 한 대각선이 다른 대각선을 이등분합니다. ㄴ. 그을 수 있는 대각선은 $2$개입니다. ㄷ. 정다각형입니다. ㄹ. 두 대각선이 서로 수직으로 만납니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_04_21632_54558.png",
+  "id": "21632_54558",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104006",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 105,
+      "question_success_rate": 93.54
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 중화 요리점은 붙임 딱지 $41$ 장을 모으면 서비스로 탕수육을 한 그릇 줍니다. 붙임 딱지를 모아 재우네 가족은 $2$ 그릇, 철수네 가족은 $7$ 그릇의 탕수육을 먹었다면 재우네 가족과 철수네 가족이 탕수육과 바꾼 붙임 딱지는 각각 몇 장인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            576,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            584,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            583,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            562,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            119
+          ],
+          "text": "어느 중화 요리점은 붙임 딱지 $41$ 장을 모으면 서비스로 탕수육을 한 그릇 줍니다. 붙임 딱지를 모아 재우네 가족은 $2$ 그릇, 철수네 가족은 $7$ 그릇의 탕수육을 먹었다면 재우네 가족과 철수네 가족이 탕수육과 바꾼 붙임 딱지는 각각 몇 장인가요?"
+        }
+      ]
+    }
+  ]
+}

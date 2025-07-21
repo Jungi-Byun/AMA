@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_01_24437_72777.png",
+  "id": "24437_72777",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 87,
+      "question_success_rate": 87.25
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "큰 비커에는 물이 $50\\frac{2}{6}$ mL, 작은 비커에는 $24\\frac{5}{6}$ $mL$ 들어 있습니다. 두 비커에 들어 있는 물의 양은 모두 몇 $mL$인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            585,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            48,
+            537,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1.9,
+            586,
+            74.9
+          ],
+          "text": "큰 비커에는 물이 $50\\frac{2}{6}$ mL, 작은 비커에는 $24\\frac{5}{6}$ $mL$ 들어 있습니다. 두 비커에 들어 있는 물의 양은 모두 몇 $mL$인가요?"
+        }
+      ]
+    }
+  ]
+}

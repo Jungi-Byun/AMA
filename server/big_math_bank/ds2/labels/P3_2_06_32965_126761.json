@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P3_2_06_32965_126761.png",
+  "id": "32965_126761",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 46,
+      "question_success_rate": 93.44
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민수네 학교의 학생들이 좋아하는 운동을 조사하였습니다. 민수네 학교의 학생은 모두 몇 명인지 구해 보세요. 학생들이 좋아하는 운동 <table border> <tbody> <tr> <td>운동</td> <td>줄넘기</td> <td>농구</td> <td>달리기</td> <td>합계</td> </tr> <tr> <td>학생 수(명)</td> <td></td> <td>$71$</td> <td></td> <td></td> </tr> </tbody> </table> 학생들이 좋아하는 운동 <table border> <tbody> <tr> <td>운동</td> <td>학생 수</td> </tr> <tr> <td>줄넘기</td> <td>(큰 얼굴)(큰 얼굴)(큰 얼굴)(작은 얼굴)(작은 얼굴)(작은 얼굴)</td> </tr> <tr> <td>농구</td> <td></td> </tr> <tr> <td>달리기</td> <td>(큰 얼굴)(큰 얼굴)(큰 얼굴)(큰 얼굴)(큰 얼굴)(작은 얼굴)</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            588,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            463,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            177,
+            54,
+            421,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            14,
+            110,
+            583,
+            195
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            115.67,
+            209,
+            366.67,
+            258
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            96.67,
+            257,
+            480.67,
+            457
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.67,
+            1,
+            590.67,
+            459
+          ],
+          "text": "민수네 학교의 학생들이 좋아하는 운동을 조사하였습니다. 민수네 학교의 학생은 모두 몇 명인지 구해 보세요. 학생들이 좋아하는 운동 <table border> <tbody> <tr> <td>운동</td> <td>줄넘기</td> <td>농구</td> <td>달리기</td> <td>합계</td> </tr> <tr> <td>학생 수(명)</td> <td></td> <td>$71$</td> <td></td> <td></td> </tr> </tbody> </table> 학생들이 좋아하는 운동 <table border> <tbody> <tr> <td>운동</td> <td>학생 수</td> </tr> <tr> <td>줄넘기</td> <td>(큰 얼굴)(큰 얼굴)(큰 얼굴)(작은 얼굴)(작은 얼굴)(작은 얼굴)</td> </tr> <tr> <td>농구</td> <td></td> </tr> <tr> <td>달리기</td> <td>(큰 얼굴)(큰 얼굴)(큰 얼굴)(큰 얼굴)(큰 얼굴)(작은 얼굴)</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

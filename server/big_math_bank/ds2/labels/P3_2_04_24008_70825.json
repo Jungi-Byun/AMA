@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_04_24008_70825.png",
+  "id": "24008_70825",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 119,
+      "question_success_rate": 94.8
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$10$의 $\\frac{4}{5}$, $\\frac{1}{2}$, $\\frac{1}{5}$만큼 되는 곳에 알맞은 글자를 찾아  \\( \\square \\) 안에 써넣어 속담을 완성하세요. $10$의 $\\frac{4}{5}$$\\rightarrow$기 $10$의 $\\frac{1}{2}$$\\rightarrow$키 $10$의 $\\frac{1}{5}$$\\rightarrow$토",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            588,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            48,
+            238,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            57,
+            110,
+            541,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            101,
+            183,
+            503,
+            253
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            4,
+            1,
+            597,
+            189
+          ],
+          "text": "$10$의 $\\frac{4}{5}$, $\\frac{1}{2}$, $\\frac{1}{5}$만큼 되는 곳에 알맞은 글자를 찾아  \\( \\square \\) 안에 써넣어 속담을 완성하세요. $10$의 $\\frac{4}{5}$$\\rightarrow$기 $10$의 $\\frac{1}{2}$$\\rightarrow$키 $10$의 $\\frac{1}{5}$$\\rightarrow$토"
+        }
+      ]
+    }
+  ]
+}

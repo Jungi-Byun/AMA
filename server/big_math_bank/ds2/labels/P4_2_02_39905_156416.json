@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_02_39905_156416.png",
+  "id": "39905_156416",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202009",
+      "question_topic_name": "정삼각형의 성질",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 211,
+      "question_success_rate": 75.16
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "정삼각형 ㄱㄴㄷ과 한 각 ㄹ의 크기가 52도인 이등변삼각형 ㄹㄷㄴ을 겹쳐 놓고 각 ㄹㄷㄱ에 각 표시가 있는 도형",
+      "question_text": "다음 도형은 정삼각형 $ㄱㄴㄷ$과 이등변삼각형 $ㄷㄹㄴ$을 겹쳐 놓은 것입니다. 각 $ㄱㄷㄹ$의 크기를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            582,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            463,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            188,
+            92,
+            409,
+            293
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            584,
+            58
+          ],
+          "text": "다음 도형은 정삼각형 $ㄱㄴㄷ$과 이등변삼각형 $ㄷㄹㄴ$을 겹쳐 놓은 것입니다. 각 $ㄱㄷㄹ$의 크기를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

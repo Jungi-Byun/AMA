@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_05_24191_72011.png",
+  "id": "24191_72011",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205027",
+      "question_topic_name": "무게의 덧셈과 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 79,
+      "question_success_rate": 92.18
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우석, 주하, 민국 세 사람이 $8 kg$인 사과 상자의 무게를 다음과 같이 어림하였습니다. 가장 가깝게 어림한 사람은 누구인가요? <table border> <tbody> <tr> <td>우석</td> <td>주하</td> <td>민국</td> </tr> <tr> <td>$7kg900g$</td> <td>$8280g$</td> <td>$7750g$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            585,
+            31
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            569,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            65,
+            34,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            118,
+            100,
+            479,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            181
+          ],
+          "text": "우석, 주하, 민국 세 사람이 $8 kg$인 사과 상자의 무게를 다음과 같이 어림하였습니다. 가장 가깝게 어림한 사람은 누구인가요? <table border> <tbody> <tr> <td>우석</td> <td>주하</td> <td>민국</td> </tr> <tr> <td>$7kg900g$</td> <td>$8280g$</td> <td>$7750g$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

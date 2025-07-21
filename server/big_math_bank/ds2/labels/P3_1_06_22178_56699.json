@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_06_22178_56699.png",
+  "id": "22178_56699",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106015",
+      "question_topic_name": "소수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 46,
+      "question_success_rate": 95.65
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$★+■+◆$는 얼마인지 구해 보세요.    \t <table border>   <tbody>     <tr>       <td>읽기</td>       <td>영점사   </td>       <td>영점오   </td> <td>영점팔</td>            </tr>     <tr>       <td>쓰기    </td>       <td>$0.★$</td>       <td>$0.■$</td> <td>$0.◆$</td>    </tr>   </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            346,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            118,
+            40,
+            479,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            481,
+            129
+          ],
+          "text": "$★+■+◆$는 얼마인지 구해 보세요.    \t <table border>   <tbody>     <tr>       <td>읽기</td>       <td>영점사   </td>       <td>영점오   </td> <td>영점팔</td>            </tr>     <tr>       <td>쓰기    </td>       <td>$0.★$</td>       <td>$0.■$</td> <td>$0.◆$</td>    </tr>   </tbody> </table>  "
+        }
+      ]
+    }
+  ]
+}

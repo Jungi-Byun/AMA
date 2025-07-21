@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_03_25885_135618.png",
+  "id": "25885_135618",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103003",
+      "question_topic_name": "똑같이 나누기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 64,
+      "question_success_rate": 97.64
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "연필 28 자루를 가로로 7개씩, 세로로 4줄로 나열해 놓은 그림",
+      "question_text": "연필 $28$ 자루를 한 명에게 $7$ 자루씩 주려고 합니다. 몇 명에게 나누어 줄 수 있는지 두 가지 방법으로 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            578,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            491,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            183,
+            84,
+            414,
+            278
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            580,
+            59
+          ],
+          "text": "연필 $28$ 자루를 한 명에게 $7$ 자루씩 주려고 합니다. 몇 명에게 나누어 줄 수 있는지 두 가지 방법으로 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

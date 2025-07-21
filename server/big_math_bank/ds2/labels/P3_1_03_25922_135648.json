@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_03_25922_135648.png",
+  "id": "25922_135648",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103012",
+      "question_topic_name": "나눗셈의 몫 구하기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 323,
+      "question_success_rate": 55.17
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다람쥐 $2$ 마리가 하루에 도토리 $8$ 개를 먹습니다. 모든 다람쥐가 매일 똑같은 수의 도토리를 먹는다면 다람쥐 $7$ 마리가 도토리 $56$ 개를 먹는 데 며칠이 걸리는지 구해 보세요. 다람쥐 $7$ 마리가 도토리 $56$ 개를 먹을 때 다람쥐 한 마리가 먹는 도토리는 $56\\div$$\\square$$=$$\\square$(개)입니다. 다람쥐 한 마리가 하루에 먹는 도토리는 $8\\div$$\\square$$=$$\\square$(개)입니다. 따라서 다람쥐 $7$ 마리가 도토리 $56$ 개를 먹는 데 $\\square$$÷$$\\square$$=$$\\square$(일)이 걸립니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            583,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            590,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            469,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            89
+          ],
+          "text": "다람쥐 $2$ 마리가 하루에 도토리 $8$ 개를 먹습니다. 모든 다람쥐가 매일 똑같은 수의 도토리를 먹는다면 다람쥐 $7$ 마리가 도토리 $56$ 개를 먹는 데 며칠이 걸리는지 구해 보세요. 다람쥐 $7$ 마리가 도토리 $56$ 개를 먹을 때 다람쥐 한 마리가 먹는 도토리는 $56\\div$$\\square$$=$$\\square$(개)입니다. 다람쥐 한 마리가 하루에 먹는 도토리는 $8\\div$$\\square$$=$$\\square$(개)입니다. 따라서 다람쥐 $7$ 마리가 도토리 $56$ 개를 먹는 데 $\\square$$÷$$\\square$$=$$\\square$(일)이 걸립니다."
+        }
+      ]
+    }
+  ]
+}

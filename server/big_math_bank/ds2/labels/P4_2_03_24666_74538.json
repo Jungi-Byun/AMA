@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_03_24666_74538.png",
+  "id": "24666_74538",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203011",
+      "question_topic_name": "소수 한 자리 수의 덧셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 37,
+      "question_success_rate": 95.57
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민규네 집에서 물을 어제는 $25.6$ $L$ 사용했고, 오늘은 $31.2$ $L$ 사용했습니다. 민규네 집에서 어제와 오늘 사용한 물은 모두 몇 $L$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            584,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            578,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            185,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.4,
+            0.55,
+            585.4,
+            89.55
+          ],
+          "text": "민규네 집에서 물을 어제는 $25.6$ $L$ 사용했고, 오늘은 $31.2$ $L$ 사용했습니다. 민규네 집에서 어제와 오늘 사용한 물은 모두 몇 $L$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

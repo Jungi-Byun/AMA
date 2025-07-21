@@ -1,0 +1,151 @@
+﻿{
+  "question_filename": "P3_1_04_25948_162513.png",
+  "id": "25948_162513",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104008",
+      "question_topic_name": "일의 자리에서 올림이 있는 (몇십몇) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 167,
+      "question_success_rate": 56.59
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 길이가 53 cm이고 세로 길이가 같은 색 테이프를 18 cm 씩 겹치도록 가로로 한 줄로 3개를 이어 붙인 테이프에서 가장 오른쪽 테이프에 오른쪽 일부분이 찢어져 있고 그 오른쪽에는 이러한 과정이 반복됨을 나타내는 표시가 있는 그림",
+      "question_text": "길이가 $53 cm$인 색 테이프 $7$ 장을 그림과 같이 겹치게 한 줄로 이어 붙였습니다. 이어 붙인 색 테이프의 전체 길이는 몇 $cm$인지 구해 보세요. (1) 색 테이프 $7$ 장의 길이의 합을 구해 보세요. (2) 색 테이프가 겹치는 부분의 길이의 합을 구해 보세요. (3) 이어 붙인 색 테이프의 전체 길이는 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            583,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            588,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            150,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            10,
+            211,
+            434,
+            238
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            7,
+            437,
+            536,
+            464
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            663,
+            570,
+            690
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            695,
+            29,
+            716
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            118,
+            102,
+            476,
+            193
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            590,
+            89
+          ],
+          "text": "길이가 $53 cm$인 색 테이프 $7$ 장을 그림과 같이 겹치게 한 줄로 이어 붙였습니다. 이어 붙인 색 테이프의 전체 길이는 몇 $cm$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            209,
+            442,
+            240
+          ],
+          "text": "(1) 색 테이프 $7$ 장의 길이의 합을 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            435,
+            541,
+            466
+          ],
+          "text": "(2) 색 테이프가 겹치는 부분의 길이의 합을 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            662,
+            572,
+            717
+          ],
+          "text": "(3) 이어 붙인 색 테이프의 전체 길이는 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_1_03_26207_136095.png",
+  "id": "26207_136095",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 168,
+      "question_success_rate": 76.74
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수혁이네 반은 한 모둠에 $7$ 명씩 $5$ 모둠이 있습니다. 연필 $50$ 타를 수혁이네 반 학생들에게 똑같이 나누어 주었더니 $5$ 자루가 남았습니다. 학생 한 명이 받은 연필은 몇 자루인지 구해 보세요. (단, 연필 $1$ 타는 $12$ 자루입니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            3,
+            540,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            544,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            572,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            93,
+            435,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            574,
+            120
+          ],
+          "text": "수혁이네 반은 한 모둠에 $7$ 명씩 $5$ 모둠이 있습니다. 연필 $50$ 타를 수혁이네 반 학생들에게 똑같이 나누어 주었더니 $5$ 자루가 남았습니다. 학생 한 명이 받은 연필은 몇 자루인지 구해 보세요. (단, 연필 $1$ 타는 $12$ 자루입니다.) "
+        }
+      ]
+    }
+  ]
+}

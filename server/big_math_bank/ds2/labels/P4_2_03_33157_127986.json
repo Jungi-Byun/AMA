@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P4_2_03_33157_127986.png",
+  "id": "33157_127986",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 94,
+      "question_success_rate": 65.26
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 모두 만족하는 소수 세 자리 수를 구해 보세요. ㈎ $7$보다 크고 $8$보다 작은 소수입니다. ㈏ 일의 자리 수와 소수 첫째 자리 수의 합은 $11$입니다. ㈐ 소수 둘째 자리 수는 $3$으로 나누어떨어지는 수 중 가장 큰 수입니다. ㈑ 이 소수를 $10 $배 하면 소수 둘째 자리 수는 $2$가 됩니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            512,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            64,
+            406,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            102,
+            531,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            70,
+            132,
+            98,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            171,
+            538,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            70,
+            201,
+            241,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            38,
+            240,
+            531,
+            265
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            71,
+            270,
+            133,
+            295
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            585,
+            320
+          ],
+          "text": "다음을 모두 만족하는 소수 세 자리 수를 구해 보세요. ㈎ $7$보다 크고 $8$보다 작은 소수입니다. ㈏ 일의 자리 수와 소수 첫째 자리 수의 합은 $11$입니다. ㈐ 소수 둘째 자리 수는 $3$으로 나누어떨어지는 수 중 가장 큰 수입니다. ㈑ 이 소수를 $10 $배 하면 소수 둘째 자리 수는 $2$가 됩니다."
+        }
+      ]
+    }
+  ]
+}

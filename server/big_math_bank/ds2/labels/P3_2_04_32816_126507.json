@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_04_32816_126507.png",
+  "id": "32816_126507",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204007",
+      "question_topic_name": "길이에 대한 분수만큼은 얼마인지 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 152,
+      "question_success_rate": 76.79
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "태은이는 공책 한 상자를 가지고 있었습니다. 전체의 $\\frac{5}{8}$를 성재에게 주었더니 $18$ 권이 남았습니다. 공책 한 상자는 모두 몇 권이었는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            1,
+            577,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            3,
+            48,
+            584,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            78,
+            238,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            586,
+            104
+          ],
+          "text": "태은이는 공책 한 상자를 가지고 있었습니다. 전체의 $\\frac{5}{8}$를 성재에게 주었더니 $18$ 권이 남았습니다. 공책 한 상자는 모두 몇 권이었는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

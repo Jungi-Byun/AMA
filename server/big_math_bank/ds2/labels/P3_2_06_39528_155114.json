@@ -1,0 +1,131 @@
+﻿{
+  "question_filename": "P3_2_06_39528_155114.png",
+  "id": "39528_155114",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 326,
+      "question_success_rate": 66.41
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "동계 올림픽은 겨울 스포츠 종목을 대상으로 $4$ 년에 한 번씩 개최되고 있습니다. 다음은 $2018$ 년 대한민국 평창 올림픽에서 각 나라가 받은 메달 수를 조사하여 나타낸 그림그래프입니다. 을 모두 만족하도록 그림그래프를 완성해 보세요. 조건 $\\bullet$ 캐나다가 받은 메달 수는 대한민국과 스웨덴이 받은 메달 수의 합보다 $2$ 개 적습니다. $\\bullet$ 네 나라가 받은 메달 수의 합은 $83$ 개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            594,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            597,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            568,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            514,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            59,
+            133,
+            102,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            51,
+            175,
+            546,
+            201
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            71,
+            206,
+            408,
+            231
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            51,
+            245,
+            491,
+            270
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            1,
+            336,
+            591,
+            774
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            295
+          ],
+          "text": "동계 올림픽은 겨울 스포츠 종목을 대상으로 $4$ 년에 한 번씩 개최되고 있습니다. 다음은 $2018$ 년 대한민국 평창 올림픽에서 각 나라가 받은 메달 수를 조사하여 나타낸 그림그래프입니다. 을 모두 만족하도록 그림그래프를 완성해 보세요. 조건 $\\bullet$ 캐나다가 받은 메달 수는 대한민국과 스웨덴이 받은 메달 수의 합보다 $2$ 개 적습니다. $\\bullet$ 네 나라가 받은 메달 수의 합은 $83$ 개입니다. "
+        }
+      ]
+    }
+  ]
+}

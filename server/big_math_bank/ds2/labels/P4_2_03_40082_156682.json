@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_2_03_40082_156682.png",
+  "id": "40082_156682",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203011",
+      "question_topic_name": "소수 한 자리 수의 덧셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 93,
+      "question_success_rate": 80.59
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "집에서 문구점까지의 거리는 0.4 km이고 문구점에서 학교까지의 거리는 0.5 km인 거리를 나타내는 그림",
+      "question_text": "경수는 집에서 출발하여 학교에 가는데 집에 필통을 놓고 와서 문구점까지 갔다가 다시 집에 가서 필통을 가지고 학교에 갔습니다. 경수가 오늘 집에서 학교까지 가는 데 걸은 거리는 몇 $km$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            593,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            595,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            63,
+            597,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            172,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            85,
+            136,
+            521,
+            295
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            119
+          ],
+          "text": "경수는 집에서 출발하여 학교에 가는데 집에 필통을 놓고 와서 문구점까지 갔다가 다시 집에 가서 필통을 가지고 학교에 갔습니다. 경수가 오늘 집에서 학교까지 가는 데 걸은 거리는 몇 $km$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

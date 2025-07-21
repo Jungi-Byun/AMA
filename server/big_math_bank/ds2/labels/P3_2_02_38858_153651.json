@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_02_38858_153651.png",
+  "id": "38858_153651",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 228,
+      "question_success_rate": 86.58
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민석이와 진영이가 $70$ $m$ 떨어진 곳에서 마주 보며 동시에 걷기 시작했습니다. 민석이는 $10$ 초에 $5$ $m$씩 걷고, 진영이는 $10$ 초에 $2$ $m$씩 걷는다면 두 사람이 만나는 때는 출발한지 몇 초 후인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            594,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            596,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            590,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            95,
+            34,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            595,
+            117
+          ],
+          "text": "민석이와 진영이가 $70$ $m$ 떨어진 곳에서 마주 보며 동시에 걷기 시작했습니다. 민석이는 $10$ 초에 $5$ $m$씩 걷고, 진영이는 $10$ 초에 $2$ $m$씩 걷는다면 두 사람이 만나는 때는 출발한지 몇 초 후인가요?"
+        }
+      ]
+    }
+  ]
+}

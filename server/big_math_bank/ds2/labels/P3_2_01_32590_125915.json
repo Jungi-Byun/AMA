@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_2_01_32590_125915.png",
+  "id": "32590_125915",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201009",
+      "question_topic_name": "(몇십)×(몇십), (몇십몇)×(몇십몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 55,
+      "question_success_rate": 97.44
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "하은이와 경호 중 바르게 말한 사람은 누구인가요? 하은 : $1$ 시간은 $60$ 분이니까 $30$ 시간은 $180$ 분이야. 경호 : $1$ 일은 $24$ 시간이니까 $20$ 일은 $480$ 시간이야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            485,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69,
+            68,
+            521,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69,
+            98,
+            97,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69,
+            128,
+            521,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69,
+            158,
+            97,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            555,
+            212
+          ],
+          "text": "하은이와 경호 중 바르게 말한 사람은 누구인가요? 하은 : $1$ 시간은 $60$ 분이니까 $30$ 시간은 $180$ 분이야. 경호 : $1$ 일은 $24$ 시간이니까 $20$ 일은 $480$ 시간이야."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_02_32686_126101.png",
+  "id": "32686_126101",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202006",
+      "question_topic_name": "내림이 있고 나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 43,
+      "question_success_rate": 94.58
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "기현이는 창고에 있는 농구공 $43$ 개를 체육관으로 옮기려고 합니다. 한 번에 $3$ 개씩 옮길 수 있을 때 농구공을 모두 옮기려면 적어도 몇 번 움직여야 하는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            33,
+            583,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            414,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            89
+          ],
+          "text": "기현이는 창고에 있는 농구공 $43$ 개를 체육관으로 옮기려고 합니다. 한 번에 $3$ 개씩 옮길 수 있을 때 농구공을 모두 옮기려면 적어도 몇 번 움직여야 하는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_05_24268_82430.png",
+  "id": "24268_82430",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205013",
+      "question_topic_name": "들이의 덧셈과 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 38,
+      "question_success_rate": 93.78
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "양동이에 물이 $900 mL$ 들어 있습니다. 이 양동이에 물 $350 mL$를 더 부으면 양동이의 물은 모두 몇 $L$ 몇 $mL$가 되는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            587,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            595,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            51,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            89
+          ],
+          "text": "양동이에 물이 $900 mL$ 들어 있습니다. 이 양동이에 물 $350 mL$를 더 부으면 양동이의 물은 모두 몇 $L$ 몇 $mL$가 되는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

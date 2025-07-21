@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_03_23949_82227.png",
+  "id": "23949_82227",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 52,
+      "question_success_rate": 94.86
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민지가 지름이 $22 cm$인 원을 그리려고 합니다. 컴퍼스의 침과 연필심 사이의 길이는 몇 $cm$로 해야 하는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            585,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            540,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            59
+          ],
+          "text": "민지가 지름이 $22 cm$인 원을 그리려고 합니다. 컴퍼스의 침과 연필심 사이의 길이는 몇 $cm$로 해야 하는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

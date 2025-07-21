@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_1_03_34293_135708.png",
+  "id": "34293_135708",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103012",
+      "question_topic_name": "나눗셈의 몫 구하기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 193,
+      "question_success_rate": 63.64
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $36cm$ 인 철사를 모두 사용하여 크기가 같은 정사각형을 $9$ 개 만들었습니다. 만든 정사각형의 한 변의 길이는 몇 $cm$인지 구해 보세요. (1) 정사각형 한 개를 만드는 데 사용한 철사의 길이는 몇 $cm$인지 구해 보세요. (2) 만든 정사각형의 한 변의 길이는 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            585,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            172,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            142,
+            592,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            173,
+            182,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            428,
+            571,
+            455
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            89
+          ],
+          "text": "길이가 $36cm$ 인 철사를 모두 사용하여 크기가 같은 정사각형을 $9$ 개 만들었습니다. 만든 정사각형의 한 변의 길이는 몇 $cm$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            141,
+            594,
+            199
+          ],
+          "text": "(1) 정사각형 한 개를 만드는 데 사용한 철사의 길이는 몇 $cm$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            426,
+            573,
+            457
+          ],
+          "text": "(2) 만든 정사각형의 한 변의 길이는 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

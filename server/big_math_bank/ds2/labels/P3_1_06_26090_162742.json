@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_06_26090_162742.png",
+  "id": "26090_162742",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106004",
+      "question_topic_name": "분수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 70,
+      "question_success_rate": 93.91
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "윤서네 밭을 같은 크기의 격자로 가로 5칸 세로 3칸으로 나누었을 때 심은 꽃은 맨 아래쪽에 맨 왼쪽 1칸은 장미, 그 옆의 4칸은 개나리, 가운뎃줄의 오른쪽 3칸은 튤립, 나머지 7칸은 무궁화가 심어진 그림",
+      "question_text": "윤서네 밭에 심은 꽃을 나타낸 것입니다. 가장 넓은 부분에 심은 꽃은 무엇이고, 전체의 얼마인지 분수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            582,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            579,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            171,
+            74,
+            426,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            584,
+            60
+          ],
+          "text": "윤서네 밭에 심은 꽃을 나타낸 것입니다. 가장 넓은 부분에 심은 꽃은 무엇이고, 전체의 얼마인지 분수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P3_1_04_25941_162338.png",
+  "id": "25941_162338",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104004",
+      "question_topic_name": "올림이 없는 (몇십몇) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 58,
+      "question_success_rate": 90.12
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "갈치가 한 상자에 $7$ 마리씩 $6$ 줄 들어 있습니다. 갈치가 $2$상자있을 때, 상자에 들어 있는 갈치는 모두 몇 마리인지 구해 보세요. (1) 한 상자에 들어 있는 갈치는 몇 마리인지 구해 보세요. (2) 상자에 들어 있는 갈치는 모두 몇 마리인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            586,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            587,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            65,
+            29,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            104,
+            544,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            398,
+            566,
+            425
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            590,
+            132
+          ],
+          "text": "갈치가 한 상자에 $7$ 마리씩 $6$ 줄 들어 있습니다. 갈치가 $2$상자있을 때, 상자에 들어 있는 갈치는 모두 몇 마리인지 구해 보세요. (1) 한 상자에 들어 있는 갈치는 몇 마리인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            396,
+            565,
+            427
+          ],
+          "text": "(2) 상자에 들어 있는 갈치는 모두 몇 마리인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_05_40348_157809.png",
+  "id": "40348_157809",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205005",
+      "question_topic_name": "꺾은선그래프를 보고 내용 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 94,
+      "question_success_rate": 88.92
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 단위가 (월)로 1월부터 5월까지 표시되어 있고, 세로축은 단위가 (cm)인 키를 도수로 하고 있으며, 143.8 cm 미만은 생략하는 물결선 표시가 되어있고 145.3 cm까지 0.1 cm 단위로 눈금이 있고, 5칸마다 144, 144.5, 145로 숫자가 적혀 있으며, 1월부터 5월까지 지수의 키는 144.1, 144.5, 144.6, 145, 145.2로 주황색으로 표시되어 있고, 민호의 키는 144, 144.2, 144.6, 144.8, 145로 파란색 선으로 표시되어 있으며, 그래프의 우측 하단에 주황색 선은 지수, 파란색 선은 민호라는 범례가 표시되어 있는 지수와 민호의 키를 제목으로 하는 꺽은선그래프",
+      "question_text": "지수와 민호의 키를 매월 $1$ 일에 조사하여 나타낸 꺾은선그래프입니다. 지수가 민호보다 $0.3$ $cm$ 더 큰 때의 두 사람의 키의 합은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            583,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            577,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            276,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            48.41,
+            100.86,
+            545.41,
+            552.86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            585,
+            89
+          ],
+          "text": "지수와 민호의 키를 매월 $1$ 일에 조사하여 나타낸 꺾은선그래프입니다. 지수가 민호보다 $0.3$ $cm$ 더 큰 때의 두 사람의 키의 합은 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P3_1_05_41865_162913.png",
+  "id": "41865_162913",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 248,
+      "question_success_rate": 79.96
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "버스 터미널에서 버스가 $7$ 시 $35$ 분에 출발한다고 합니다. 정희네 집에서 버스 터미널까지 $50$ 분이 걸리고, 거울에 비친 지금 시각을 보니 다음과 같았습니다. 정희가 버스를 타기 위해 지금 집에서 출발한다면 버스 터미널에 도착해서 버스가 출발하기까지 몇 분 몇 초를 기다려야 하는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            594,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            585,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            577,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            590,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            123,
+            491,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            85,
+            167,
+            517,
+            372
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            149
+          ],
+          "text": "버스 터미널에서 버스가 $7$ 시 $35$ 분에 출발한다고 합니다. 정희네 집에서 버스 터미널까지 $50$ 분이 걸리고, 거울에 비친 지금 시각을 보니 다음과 같았습니다. 정희가 버스를 타기 위해 지금 집에서 출발한다면 버스 터미널에 도착해서 버스가 출발하기까지 몇 분 몇 초를 기다려야 하는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

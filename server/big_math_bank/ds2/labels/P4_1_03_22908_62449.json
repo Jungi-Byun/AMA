@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_03_22908_62449.png",
+  "id": "22908_62449",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103003",
+      "question_topic_name": "(세 자리 수) x (몇십)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 41,
+      "question_success_rate": 94.36
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민주네 밭에서 수확한 고추를 한 상자에 $113$ 개씩 담아 $20$ 상자를 시장에 팔았습니다. 시장에 판매한 고추는 모두 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            597,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            577,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            122,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            89
+          ],
+          "text": "민주네 밭에서 수확한 고추를 한 상자에 $113$ 개씩 담아 $20$ 상자를 시장에 팔았습니다. 시장에 판매한 고추는 모두 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

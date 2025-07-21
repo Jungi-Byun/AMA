@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_05_34342_163112.png",
+  "id": "34342_163112",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105006",
+      "question_topic_name": "1m보다 큰 단위",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 82,
+      "question_success_rate": 77.42
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "하진이는 $93km$ 떨어져 있는 할머니 댁에 갔습니다. $92km270m$는 버스를 타고, 나머지는 걸어서 갔습니다. 하진이는 몇 $m$를 걸었는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            492,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            580,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            337,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            582,
+            89
+          ],
+          "text": "하진이는 $93km$ 떨어져 있는 할머니 댁에 갔습니다. $92km270m$는 버스를 타고, 나머지는 걸어서 갔습니다. 하진이는 몇 $m$를 걸었는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

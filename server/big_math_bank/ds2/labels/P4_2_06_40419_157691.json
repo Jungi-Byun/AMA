@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_06_40419_157691.png",
+  "id": "40419_157691",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206009",
+      "question_topic_name": "정다각형의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 223,
+      "question_success_rate": 85.79
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "모든 변의 길이의 합이 각각 $30 cm$, $40 cm$인 두 정다각형 가와 나가 있습니다. 가와 나의 한 변의 길이는 같고, 변의 수의 차는 $2$ 개입니다. 두 정다각형 가와 나의 이름을 각각 써 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            585,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            557,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            593,
+            89
+          ],
+          "text": "모든 변의 길이의 합이 각각 $30 cm$, $40 cm$인 두 정다각형 가와 나가 있습니다. 가와 나의 한 변의 길이는 같고, 변의 수의 차는 $2$ 개입니다. 두 정다각형 가와 나의 이름을 각각 써 보세요."
+        }
+      ]
+    }
+  ]
+}

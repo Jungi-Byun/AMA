@@ -1,7 +1,7 @@
 # common
 numpy
 requests
-transformers=4.52.4
+transformers==4.52.4
 torch
 langgraph 
 

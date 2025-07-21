@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_05_24164_71284.png",
+  "id": "24164_71284",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205027",
+      "question_topic_name": "무게의 덧셈과 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 73,
+      "question_success_rate": 91.34
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수박과 멜론의 무게는 다음과 같습니다. 수박과 멜론의 무게는 모두 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            265,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            23,
+            72,
+            574,
+            344
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "수박과 멜론의 무게는 다음과 같습니다. 수박과 멜론의 무게는 모두 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

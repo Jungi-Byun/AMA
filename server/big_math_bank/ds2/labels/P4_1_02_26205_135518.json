@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_1_02_26205_135518.png",
+  "id": "26205_135518",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102011",
+      "question_topic_name": "각도의 합과 차",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 181,
+      "question_success_rate": 68.18
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㄱㄹ의 중점 ㅇ을 기준으로 각 ㄱㅇㄴ, 각 ㄴㅇㄷ, 각 ㄷㅇㄹ 순으로 나누어져있고, 각 ㄴㅇㄷ의 크기는 35도, 각 ㄴㅇㄹ의 크기는 115도인 그림",
+      "question_text": "각 $ㄱㅇㄷ$의 크기를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            315,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            122,
+            49,
+            476,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            317,
+            30
+          ],
+          "text": "각 $ㄱㅇㄷ$의 크기를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_06_25020_76903.png",
+  "id": "25020_76903",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206005",
+      "question_topic_name": "대각선의 성질 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 86,
+      "question_success_rate": 84.4
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "육각형의 여섯 각의 크기의 합은 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            529,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            204,
+            50,
+            393,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            531,
+            30
+          ],
+          "text": "육각형의 여섯 각의 크기의 합은 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

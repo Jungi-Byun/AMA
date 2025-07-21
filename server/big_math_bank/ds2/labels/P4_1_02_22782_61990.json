@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_1_02_22782_61990.png",
+  "id": "22782_61990",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102016",
+      "question_topic_name": "삼각형과 사각형의 각의 크기의 합",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 124,
+      "question_success_rate": 86.63
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "삼각형의 한 변과 사각형의 한 변이 일직선에 있고, 두 내각이 각각 35도, 105도인 삼각형의 나머지 한 각과 사각형의 85도인 각이 만나고, 두 각 사이의 각이 원 문자 ㄱ인 도형",
+      "question_text": "㉠은 몇 도인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            271,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            116,
+            50,
+            480,
+            244
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            273,
+            30
+          ],
+          "text": "㉠은 몇 도인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

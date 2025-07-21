@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_2_06_24317_72504.png",
+  "id": "24317_72504",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206001",
+      "question_topic_name": "표를 보고 내용 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 45,
+      "question_success_rate": 79.49
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "규태는 반 학생들이 기억에 남는 학교 행사를 조사하여 표로 나타내었습니다. 규태네 반 남학생은 모두 몇 명인지 구해 보세요. 기억에 남는 학교 행사별 학생 수 <table> <tbody>   <tr>     <td>학교 행사</td>     <td>글짓기 대회</td>     <td>학예회</td>     <td>음악회</td>     <td>운동회</td>   </tr>   <tr>     <td>여학생 수(명)</td>     <td>$5$</td>     <td>$2$</td>     <td>$6$</td>     <td>$4$</td>   </tr>   <tr>     <td>남학생 수 (명)</td>     <td>$7$</td>     <td>$2$</td>     <td>$4$</td>     <td>$1$</td>   </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            573,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            579,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            51,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            135,
+            100,
+            462,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            138,
+            597,
+            307
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            324
+          ],
+          "text": "규태는 반 학생들이 기억에 남는 학교 행사를 조사하여 표로 나타내었습니다. 규태네 반 남학생은 모두 몇 명인지 구해 보세요. 기억에 남는 학교 행사별 학생 수 <table> <tbody>   <tr>     <td>학교 행사</td>     <td>글짓기 대회</td>     <td>학예회</td>     <td>음악회</td>     <td>운동회</td>   </tr>   <tr>     <td>여학생 수(명)</td>     <td>$5$</td>     <td>$2$</td>     <td>$6$</td>     <td>$4$</td>   </tr>   <tr>     <td>남학생 수 (명)</td>     <td>$7$</td>     <td>$2$</td>     <td>$4$</td>     <td>$1$</td>   </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

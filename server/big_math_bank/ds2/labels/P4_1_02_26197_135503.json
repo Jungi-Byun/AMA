@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P4_1_02_26197_135503.png",
+  "id": "26197_135503",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102011",
+      "question_topic_name": "각도의 합과 차",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 126,
+      "question_success_rate": 74.34
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각도가 가장 작은 각을 찾아 기호를 선택해 보세요. ㄱ. $120\\degree$ - $30\\degree$ ㄴ. $53\\degree$보다 $67\\degree$더 큰 각 ㄷ. $136\\degree$보다 $42\\degree$더 작은 각    (1) ㄱ, ㄴ, ㄷ은 각각 몇 도인지 구해 보세요. (2) 가장 작은 각을 찾아 기호를 선택해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            5,
+            3,
+            483,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            66,
+            236,
+            87
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            102,
+            331,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            141,
+            364,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            241,
+            418,
+            268
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            444.41,
+            459.82,
+            479.41
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            445.41,
+            459.82,
+            479.41
+          ],
+          "text": "각도가 가장 작은 각을 찾아 기호를 선택해 보세요. ㄱ. $120\\degree$ - $30\\degree$ ㄴ. $53\\degree$보다 $67\\degree$더 큰 각 ㄷ. $136\\degree$보다 $42\\degree$더 작은 각   "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            243.41,
+            419.82,
+            269.41
+          ],
+          "text": "(1) ㄱ, ㄴ, ㄷ은 각각 몇 도인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.82,
+            0,
+            531.82,
+            197.41
+          ],
+          "text": "(2) 가장 작은 각을 찾아 기호를 선택해 보세요."
+        }
+      ]
+    }
+  ]
+}

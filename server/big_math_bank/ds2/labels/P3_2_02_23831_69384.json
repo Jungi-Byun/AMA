@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_02_23831_69384.png",
+  "id": "23831_69384",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 114,
+      "question_success_rate": 81.69
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연필 $89$ 자루를 $7$ 개의 상자에 똑같이 담으려고 합니다.  $\\square$안에 알맞은 수를 써넣으세요. 한 상자에 $\\square$ 자루씩 담을 수 있고 $\\square$ 자루가 남습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            1,
+            591,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            38,
+            265,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            83,
+            101,
+            501,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            83,
+            137,
+            228,
+            162
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            593,
+            188
+          ],
+          "text": "연필 $89$ 자루를 $7$ 개의 상자에 똑같이 담으려고 합니다.  $\\square$안에 알맞은 수를 써넣으세요. 한 상자에 $\\square$ 자루씩 담을 수 있고 $\\square$ 자루가 남습니다."
+        }
+      ]
+    }
+  ]
+}

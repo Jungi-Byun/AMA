@@ -1,0 +1,141 @@
+﻿{
+  "question_filename": "P3_1_04_34335_136047.png",
+  "id": "34335_136047",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104002",
+      "question_topic_name": "(몇십) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 102,
+      "question_success_rate": 100.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 학생의 대화를 읽고 물음에 답하세요. 영훈 : 나는 구슬을 $10$개 가지고 있어 지운 : 나는 영훈이가 가지고 있는 구슬 수의 $4$ 배만큼 가지고 있어 로희 : 나는 지운이가 가지고 있는 구슬 수의 $3$ 배만큼 가지고 있어.    (1) 지운이가 가지고 있는 구슬은 몇 개인지 구해 보세요. (2) 로희가 가지고 있는 구슬은 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            7,
+            3,
+            386,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            64,
+            384,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            94,
+            561,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            86,
+            128,
+            186,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            154,
+            561,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            86,
+            188,
+            186,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            292,
+            539,
+            319
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            454,
+            517,
+            481
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            572,
+            225
+          ],
+          "text": "세 학생의 대화를 읽고 물음에 답하세요. 영훈 : 나는 구슬을 $10$개 가지고 있어 지운 : 나는 영훈이가 가지고 있는 구슬 수의 $4$ 배만큼 가지고 있어 로희 : 나는 지운이가 가지고 있는 구슬 수의 $3$ 배만큼 가지고 있어.   "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            290,
+            541,
+            321
+          ],
+          "text": "(1) 지운이가 가지고 있는 구슬은 몇 개인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            452,
+            519,
+            483
+          ],
+          "text": "(2) 로희가 가지고 있는 구슬은 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -12,14 +12,8 @@ from .config import QUESTION_TYPE_RANDOM
 from .config import QUESTION_TYPE_GENERATE
 from .config import DEFAULT_QUESTION_COUNT
 
-from .makedb import save_question_meta_info
-
 from .response import Response
-
-from .utils import add_newline_before_string
 from .utils import validate_file_data
-from .utils import safe_get_random_index
-from .utils import read_datasets_from_file
 
 
 __all__ = [
@@ -37,16 +31,9 @@ __all__ = [
     "QUESTION_TYPE_GENERATE",
     "DEFAULT_QUESTION_COUNT",
 
-    # makedb
-    "save_question_meta_info"
-
     # response
-    "Response"
+    "Response",
 
     # utils
-    "add_newline_before_string",
     "validate_file_data",
-    "safe_get_random_index",
-    "read_datasets_from_file",
-
 ]

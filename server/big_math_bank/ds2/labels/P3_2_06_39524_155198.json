@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P3_2_06_39524_155198.png",
+  "id": "39524_155198",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 111,
+      "question_success_rate": 89.61
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "마을에 사는 학생 수를 조사하여 표로 나타내었습니다. 표를 보고 그림그래프로 나타낼 때 (큰 얼굴)은 $10$ 명, (작은 얼굴)은 $1$ 명을 나타냅니다. 둘째로 많이 사는 마을의 학생 수는 (큰 얼)과 (작은 얼굴)을 각각 몇 개로 나타내어야 하는지 구해 보세요. 마을별 학생 수 <table border> <tbody> <tr> <td>마을</td> <td>아름</td> <td>햇살</td> <td>행복</td> <td>사랑</td> <td>합계</td> </tr> <tr> <td>학생 수 (명)</td> <td>$42$</td> <td></td> <td>$43$</td> <td>$49$</td> <td>$180$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            221,
+            169,
+            377,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            74,
+            221,
+            524,
+            306
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            0.76,
+            572.57,
+            29.76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0.57,
+            29.76,
+            594.57,
+            79.76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0.57,
+            78.76,
+            576.57,
+            130.76
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            128.76,
+            414.57,
+            158.76
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.57,
+            2.76,
+            596.57,
+            306.76
+          ],
+          "text": "마을에 사는 학생 수를 조사하여 표로 나타내었습니다. 표를 보고 그림그래프로 나타낼 때 (큰 얼굴)은 $10$ 명, (작은 얼굴)은 $1$ 명을 나타냅니다. 둘째로 많이 사는 마을의 학생 수는 (큰 얼)과 (작은 얼굴)을 각각 몇 개로 나타내어야 하는지 구해 보세요. 마을별 학생 수 <table border> <tbody> <tr> <td>마을</td> <td>아름</td> <td>햇살</td> <td>행복</td> <td>사랑</td> <td>합계</td> </tr> <tr> <td>학생 수 (명)</td> <td>$42$</td> <td></td> <td>$43$</td> <td>$49$</td> <td>$180$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_02_23849_69029.png",
+  "id": "23849_69029",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202009",
+      "question_topic_name": "(세 자리 수)÷(한 자리 수)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 65,
+      "question_success_rate": 95.62
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "쿠키 $140$ 개를 한 봉지에 $5$ 개씩 담으려고 합니다. 쿠키를 몇 봉지에 나누어 담을 수 있을지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            392,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "쿠키 $140$ 개를 한 봉지에 $5$ 개씩 담으려고 합니다. 쿠키를 몇 봉지에 나누어 담을 수 있을지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

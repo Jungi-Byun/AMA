@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_03_23907_82211.png",
+  "id": "23907_82211",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203005",
+      "question_topic_name": "지름과 반지름 사이의 관계 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 53,
+      "question_success_rate": 79.35
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "원의 중앙이 표시되어 있고, 원 위의 45도 방향 점과 225도 방향 점을 연결하는 지름, 135도 방향 점과 315도 방향 점을 연결하는 지름을 중심으로 접었다는 표현으로 점선이 그려져 있고, 지름의 길이가 20 cm 이며, 원 오른쪽에 접은 이후를 표현하기 위한 화살표가 있고, 화살표 오른쪽에는 원을 접어 만들어진 대략 225도 ~ 315도 방향의 부채꼴이 그려져 있고, 부채꼴의 반지름의 길이가 미지수를 의미하는 검정색 네모 cm인 그림",
+      "question_text": "원을 두 번 접어서 오른쪽 그림과 같이 만들었습니다. $■$에 알맞은 수를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            221,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            85,
+            94,
+            515,
+            297
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            586,
+            59
+          ],
+          "text": "원을 두 번 접어서 오른쪽 그림과 같이 만들었습니다. $■$에 알맞은 수를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

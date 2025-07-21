@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_1_05_25960_163108.png",
+  "id": "25960_163108",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105006",
+      "question_topic_name": "1m보다 큰 단위",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 103,
+      "question_success_rate": 85.71
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민찬이네 집에서 박물관까지의 거리는 $8050m$이고, 민찬이네 집에서 놀이공원까지의 거리는 $8$ $km$ $170$ $m$입니다. 물음에 답하세요. (1) 민찬이네 집에서 놀이공원까지의 거리는 몇 $m$인지 구해 보세요. (2) 박물관과 놀이공원 중 민찬이네 집에서 더 가까운 곳은 어디인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            584,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            581,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            73,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            104,
+            593,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            134,
+            51,
+            159
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            450,
+            581,
+            477
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            480,
+            100,
+            505
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            160
+          ],
+          "text": "민찬이네 집에서 박물관까지의 거리는 $8050m$이고, 민찬이네 집에서 놀이공원까지의 거리는 $8$ $km$ $170$ $m$입니다. 물음에 답하세요. (1) 민찬이네 집에서 놀이공원까지의 거리는 몇 $m$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            449,
+            583,
+            506
+          ],
+          "text": "(2) 박물관과 놀이공원 중 민찬이네 집에서 더 가까운 곳은 어디인가요?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_1_06_42066_163682.png",
+  "id": "42066_163682",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106006",
+      "question_topic_name": "도형의 배열의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 164,
+      "question_success_rate": 81.16
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색종이를 그림과 같은 규칙으로 겹치지 않게 이어 붙여서 모양을 만들고 있습니다. 색종이 한 장의 가격이 $50$ 원일 때, 일곱째 모양을 만드는 데 필요한 금액을 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            436,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            105,
+            111,
+            493,
+            261
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            89
+          ],
+          "text": "색종이를 그림과 같은 규칙으로 겹치지 않게 이어 붙여서 모양을 만들고 있습니다. 색종이 한 장의 가격이 $50$ 원일 때, 일곱째 모양을 만드는 데 필요한 금액을 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_1_03_34290_135728.png",
+  "id": "34290_135728",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103009",
+      "question_topic_name": "곱셈과 나눗셈의 관계",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 171,
+      "question_success_rate": 70.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "연필이 $8$ 자루씩 $3$ 줄로 놓여 있습니다. $㉠$과 $㉡$의 합을 구해 보세요. • $8$ 상자에 똑같이 나누어 담으려면 한 상자에 연필을 $㉠$ 자루씩 담아야 합니다. • 한 상자에 $3$ 자루씩 담으려면 $㉡$ 상자가 필요합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            594,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            51,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            45,
+            309,
+            554,
+            334
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            65,
+            339,
+            308,
+            364
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            66,
+            399,
+            94,
+            424
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40.93,
+            368.87,
+            535.93,
+            392.87
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            199,
+            72,
+            398,
+            270
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "연필이 $8$ 자루씩 $3$ 줄로 놓여 있습니다. $㉠$과 $㉡$의 합을 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            43,
+            308,
+            558,
+            425
+          ],
+          "text": "• $8$ 상자에 똑같이 나누어 담으려면 한 상자에 연필을 $㉠$ 자루씩 담아야 합니다. • 한 상자에 $3$ 자루씩 담으려면 $㉡$ 상자가 필요합니다."
+        }
+      ]
+    }
+  ]
+}

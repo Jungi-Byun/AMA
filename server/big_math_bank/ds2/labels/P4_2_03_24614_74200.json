@@ -1,0 +1,51 @@
+﻿{
+  "question_filename": "P4_2_03_24614_74200.png",
+  "id": "24614_74200",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 105,
+      "question_success_rate": 81.25
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$6.3$의 $\\frac{1}{10}$은 얼마인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            237,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            239,
+            43
+          ],
+          "text": "$6.3$의 $\\frac{1}{10}$은 얼마인가요?"
+        }
+      ]
+    }
+  ]
+}

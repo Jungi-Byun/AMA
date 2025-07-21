@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_2_03_40172_156814.png",
+  "id": "40172_156814",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203015",
+      "question_topic_name": "소수 두 자리 수의 덧셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 149,
+      "question_success_rate": 85.34
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미소네 가족은 과수원에서 포도를 수확하였습니다. 포도를 동생은 $15.4 kg$ 수확하였고, 언니는 동생보다 $1.7 kg$ 더 많이 수확하였습니다. 미소는 언니가 수확한 포도의 무게의 $\\frac{1}{10}$보다 $1420 g$ 더 많이 수확하였다면 미소가 수확한 포도의 무게는 몇 $kg$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            589,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            591,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            61,
+            556,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            108,
+            589,
+            136
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            138,
+            194,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            593,
+            167
+          ],
+          "text": "미소네 가족은 과수원에서 포도를 수확하였습니다. 포도를 동생은 $15.4 kg$ 수확하였고, 언니는 동생보다 $1.7 kg$ 더 많이 수확하였습니다. 미소는 언니가 수확한 포도의 무게의 $\\frac{1}{10}$보다 $1420 g$ 더 많이 수확하였다면 미소가 수확한 포도의 무게는 몇 $kg$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

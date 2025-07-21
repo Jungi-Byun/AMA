@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_02_23851_69048.png",
+  "id": "23851_69048",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202009",
+      "question_topic_name": "(세 자리 수)÷(한 자리 수)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 87,
+      "question_success_rate": 90.19
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "옥수수 $137$ 개를 $7$ 명이 똑같이 나누어 가지려고 합니다. $□$ 안에 알맞은 수를 써넣으세요. 한 명이 $□$ 개씩 가지게 되고 $□$ 개가 남습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            575,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            38,
+            287,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            54,
+            101,
+            543,
+            135
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            597,
+            159
+          ],
+          "text": "옥수수 $137$ 개를 $7$ 명이 똑같이 나누어 가지려고 합니다. $□$ 안에 알맞은 수를 써넣으세요. 한 명이 $□$ 개씩 가지게 되고 $□$ 개가 남습니다."
+        }
+      ]
+    }
+  ]
+}

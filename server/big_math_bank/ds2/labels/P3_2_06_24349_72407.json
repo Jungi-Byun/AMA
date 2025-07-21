@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P3_2_06_24349_72407.png",
+  "id": "24349_72407",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206004",
+      "question_topic_name": "그림그래프로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 113,
+      "question_success_rate": 100.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민호네 반 학생들이 일주일 동안 도서관에서 빌려 온 책을 조사하여 표로 나타내었습니다. 조사한 표를 보고 그림그래프를 완성해 보세요. 도서관에서 빌려 온 책의 수 <table border> <tbody> <tr> <td>종류</td> <td>과학책</td> <td>백과사전</td> <td>동화책</td> <td>위인전</td> <td>합계</td> </tr> <tr> <td>책의 수 (권)</td> <td>$32$</td> <td>$2$</td> <td>$21$</td> <td>$13$</td> <td>$69$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            590,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            63,
+            144,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            162,
+            99,
+            436,
+            142
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            150,
+            596,
+            232
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            28,
+            249,
+            553,
+            719
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            234
+          ],
+          "text": "민호네 반 학생들이 일주일 동안 도서관에서 빌려 온 책을 조사하여 표로 나타내었습니다. 조사한 표를 보고 그림그래프를 완성해 보세요. 도서관에서 빌려 온 책의 수 <table border> <tbody> <tr> <td>종류</td> <td>과학책</td> <td>백과사전</td> <td>동화책</td> <td>위인전</td> <td>합계</td> </tr> <tr> <td>책의 수 (권)</td> <td>$32$</td> <td>$2$</td> <td>$21$</td> <td>$13$</td> <td>$69$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

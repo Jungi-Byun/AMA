@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_1_04_41769_162266.png",
+  "id": "41769_162266",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104006",
+      "question_topic_name": "밀기와 뒤집기의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 204,
+      "question_success_rate": 61.76
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$4$ 장의 수 카드를 모두 한 번씩만 사용하여 가장 작은 네 자리 수를 만들었습니다. 이 수를 아래쪽으로 뒤집었을 때 만들어지는 수와 오른쪽으로 뒤집었을 때 만들어지는 수의 차를 구해 보세요. (단, 네 자리 수를 한꺼번에 뒤집습니다.) $\\\\$ $0$ $1$ $5$ $8$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            572,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            462,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            134,
+            143,
+            463,
+            248
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            595,
+            250
+          ],
+          "text": "$4$ 장의 수 카드를 모두 한 번씩만 사용하여 가장 작은 네 자리 수를 만들었습니다. 이 수를 아래쪽으로 뒤집었을 때 만들어지는 수와 오른쪽으로 뒤집었을 때 만들어지는 수의 차를 구해 보세요. (단, 네 자리 수를 한꺼번에 뒤집습니다.) $\\\\$ $0$ $1$ $5$ $8$"
+        }
+      ]
+    }
+  ]
+}

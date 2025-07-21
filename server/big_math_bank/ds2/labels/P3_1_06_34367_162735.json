@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_06_34367_162735.png",
+  "id": "34367_162735",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106004",
+      "question_topic_name": "분수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 132,
+      "question_success_rate": 85.23
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "사각형의 마주 보는 꼭짓점을 점선으로 연결하고 마주 보는 변의 가운데 점을 점선으로 연결하여 8등분 한 삼각형 중 오른쪽 아래 2개를 제외한 6개가 파란색으로 되어 있는 도형을 보고 8분의 원 문자 ㄱ이라고 말하는 여자와 4분의 원 문자 ㄴ이라고 말하는 남자의 대화",
+      "question_text": "전체에 대한 색칠한 부분의 크기를 분수로 나타낸 것입니다. $㉠$과 $㉡$의 합을 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            560,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            271,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            69,
+            84,
+            528,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            575,
+            59
+          ],
+          "text": "전체에 대한 색칠한 부분의 크기를 분수로 나타낸 것입니다. $㉠$과 $㉡$의 합을 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

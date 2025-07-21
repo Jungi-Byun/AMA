@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_1_02_22753_60965.png",
+  "id": "22753_60965",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102011",
+      "question_topic_name": "각도의 합 또는 차의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 103,
+      "question_success_rate": 88.76
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 직선 위의 임의의 점을 시점으로 하는 좌상향하는 반직선과 직선이 이루는 예각은 50도이고 둔각의 크기는 원 문자 ㄱ 이고 좌하향하는 반직선과 직선이 이루는 예각의 크기는 원 문자 ㄴ 이고 우하향하는 반직선과 직선이 이루는 예각은 75도이고 좌하향하는 반직선과 우하향하는 반직선이 이루는 각은 55도인 도형",
+      "question_text": "다음 그림에서 $㉠$과 $㉡$의 합은 몇 도인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            513,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            160,
+            50,
+            437,
+            290
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            515,
+            30
+          ],
+          "text": "다음 그림에서 $㉠$과 $㉡$의 합은 몇 도인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

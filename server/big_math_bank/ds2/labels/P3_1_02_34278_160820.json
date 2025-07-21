@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_02_34278_160820.png",
+  "id": "34278_160820",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102005",
+      "question_topic_name": "선과 각",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 132,
+      "question_success_rate": 72.73
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "점 ㄱ에서 시작해서 점 ㄴ을 지나도록 한쪽으로 무한히 곧게 뻗은 선을 그은 도형을 반직선 ㄱㄴ이라고 읽은 수민이와 점 ㄷ과 점 ㄹ을 곧은 선으로 연결한 도형을 직선 ㄷㄹ이라고 읽은 희주",
+      "question_text": "수민이와 희주는 각자 그린 도형을 읽었습니다. 도형을 잘못 읽은 사람은 누구인가요? ",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            574,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            34,
+            243,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            36,
+            77,
+            561,
+            295
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            576,
+            60
+          ],
+          "text": "수민이와 희주는 각자 그린 도형을 읽었습니다. 도형을 잘못 읽은 사람은 누구인가요? "
+        }
+      ]
+    }
+  ]
+}

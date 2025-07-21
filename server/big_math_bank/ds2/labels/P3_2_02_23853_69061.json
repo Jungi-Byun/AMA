@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_02_23853_69061.png",
+  "id": "23853_69061",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202009",
+      "question_topic_name": "(세 자리 수)÷(한 자리 수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 110,
+      "question_success_rate": 77.35
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "준호가 아이스크림을 봉지에 담고 있습니다. 한 봉지에 $9$ 개씩 담을 수 있을 때 아이스크림 $393$ 개를 모두 담으려면 봉지는 적어도 몇 개가 필요한지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            588,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            594,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            342,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            89
+          ],
+          "text": "준호가 아이스크림을 봉지에 담고 있습니다. 한 봉지에 $9$ 개씩 담을 수 있을 때 아이스크림 $393$ 개를 모두 담으려면 봉지는 적어도 몇 개가 필요한지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

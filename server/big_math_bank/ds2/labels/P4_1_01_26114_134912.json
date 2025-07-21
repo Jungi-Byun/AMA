@@ -1,0 +1,131 @@
+﻿{
+  "question_filename": "P4_1_01_26114_134912.png",
+  "id": "26114_134912",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101003",
+      "question_topic_name": "다섯 자리 수",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 107,
+      "question_success_rate": 89.47
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 재연이가 집안일을 하고 받는 용돈입니다. 한 달 동안 설거지를 $10 번$, 옷 정리를 $10 번$ 했다면 재연이가 한 달 동안 받은 용돈은 모두 얼마인지 구해 보세요. 설거지 $1 번$: $2000$원 옷 정리 $1 번$: $400$원 (1) 설거지를 $10 번$ 하여 받은 용돈은 얼마인지 구해 보세요. (2) 옷 정리를 $10 번$ 하여 받은 용돈은 얼마인지 구해 보세요. (3) 한 달 동안 받은 용돈은 모두 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            575,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            386,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            64,
+            124,
+            532,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            184,
+            566,
+            211
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            412,
+            571,
+            439
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            651,
+            522,
+            678
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            584,
+            212
+          ],
+          "text": "다음은 재연이가 집안일을 하고 받는 용돈입니다. 한 달 동안 설거지를 $10 번$, 옷 정리를 $10 번$ 했다면 재연이가 한 달 동안 받은 용돈은 모두 얼마인지 구해 보세요. 설거지 $1 번$: $2000$원 옷 정리 $1 번$: $400$원 (1) 설거지를 $10 번$ 하여 받은 용돈은 얼마인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            410,
+            574,
+            441
+          ],
+          "text": "(2) 옷 정리를 $10 번$ 하여 받은 용돈은 얼마인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            649,
+            524,
+            680
+          ],
+          "text": "(3) 한 달 동안 받은 용돈은 모두 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

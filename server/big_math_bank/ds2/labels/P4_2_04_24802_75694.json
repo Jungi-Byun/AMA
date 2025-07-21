@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_04_24802_75694.png",
+  "id": "24802_75694",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204003",
+      "question_topic_name": "수직",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 156,
+      "question_success_rate": 76.63
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "수평인 직선 가와 오른쪽 아래로 내려가는 직선 나, 오른쪽 위로 올라가는 직선 다가 한 점에서 교차하고 직선 가와 나는 왼쪽에서 62도, 직선 가와 다는 아래쪽에서 원 문자 ㄱ인 각을 이룬 도형",
+      "question_text": "직선 나와 직선 다는 서로 수직입니다. $㉠$은 몇 도인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            51,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            184,
+            90,
+            417,
+            282
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            59
+          ],
+          "text": "직선 나와 직선 다는 서로 수직입니다. $㉠$은 몇 도인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

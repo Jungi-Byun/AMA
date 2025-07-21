@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_04_25931_136022.png",
+  "id": "25931_136022",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104002",
+      "question_topic_name": "(몇십) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 44,
+      "question_success_rate": 77.9
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색종이를 수아는 $30$ 장씩 $3$ 묶음, 연화는 $20$ 장씩 $3$ 묶음 가지고 있습니다. 수아와 연화 중 색종이를 더 적게 가지고 있는 사람은 누구인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            597,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            33,
+            583,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            149,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            89
+          ],
+          "text": "색종이를 수아는 $30$ 장씩 $3$ 묶음, 연화는 $20$ 장씩 $3$ 묶음 가지고 있습니다. 수아와 연화 중 색종이를 더 적게 가지고 있는 사람은 누구인가요? "
+        }
+      ]
+    }
+  ]
+}

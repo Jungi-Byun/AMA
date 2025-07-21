@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P3_2_04_32815_126499.png",
+  "id": "32815_126499",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204007",
+      "question_topic_name": "길이에 대한 분수만큼은 얼마인지 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 99,
+      "question_success_rate": 89.88
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자두 $54$ 개 중 $\\frac{2}{9}$는 아름이가 먹고, $\\frac{1}{6}$은 진희가 먹었습니다. 물음에 답하세요. (1) 아름이가 먹은 자두는 몇 개인지 구해 보세요. (2) 진희가 먹은 자두는 몇 개인지 구해 보세요. (3) 아름이와 진희 중 자두를 더 많이 먹은 사람은 누구인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            596,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            144,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            89,
+            467,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            350,
+            445,
+            377
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            611,
+            593,
+            638
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            597,
+            116
+          ],
+          "text": "자두 $54$ 개 중 $\\frac{2}{9}$는 아름이가 먹고, $\\frac{1}{6}$은 진희가 먹었습니다. 물음에 답하세요. (1) 아름이가 먹은 자두는 몇 개인지 구해 보세요. (2) 진희가 먹은 자두는 몇 개인지 구해 보세요. (3) 아름이와 진희 중 자두를 더 많이 먹은 사람은 누구인가요?"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            348,
+            447,
+            379
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            609,
+            595,
+            640
+          ],
+          "text": null
+        }
+      ]
+    }
+  ]
+}

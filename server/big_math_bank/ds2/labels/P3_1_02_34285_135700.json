@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_02_34285_135700.png",
+  "id": "34285_135700",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102008",
+      "question_topic_name": "직각과 직각삼각형",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 138,
+      "question_success_rate": 75.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 11줄, 세로 11줄의 점선으로 이루어진 모눈종이 위에 가운데 점을 ㅅ, ㅅ에서 오른쪽으로 세 칸인 점 ㅂ, ㅅ에서 왼쪽으로 세 칸인 지점 ㄷ, ㅅ에서 위로 세 칸인 지점 ㄱ, ㅅ에서 왼쪽으로 세 칸 가고 위로 세 칸 간 지점 ㄴ, ㅅ에서 왼쪽으로 세 칸 가고 아래로 세 칸 간 지점 ㄹ, ㅅ에서 오른쪽으로 세 칸 가고 아래로 세 칸 간 지점 ㅁ이 있고 점 ㄷ의 왼쪽 한 칸 간 지점부터 점 ㅂ의 오른쪽 한 칸 간 지점까지 점 ㄷ, 점 ㅅ, 점 ㅂ을 지나는 선분을 연결하고, 점 ㄴ에서 왼쪽 위로 한 칸씩 간 지점부터 점 ㅁ에서 오른쪽 아래로 한 칸씩 간 지점까지 대각선으로 점 ㄴ, 점 ㅅ, 점 ㅁ을 지나는 선분을 연결하고, 점 ㅅ과 점 ㄹ에서 왼쪽 아래로 한 칸 간 지점을 대각선으로 연결하고, 점 ㅅ 에서 점 ㄱ 위로 한 칸 간 지점까지 연결하여 그린 그래프",
+      "question_text": "직각은 모두 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            342,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            171,
+            49,
+            426,
+            303
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            344,
+            30
+          ],
+          "text": "직각은 모두 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

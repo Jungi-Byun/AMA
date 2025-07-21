@@ -1,0 +1,141 @@
+﻿{
+  "question_filename": "P3_1_06_34371_163152.png",
+  "id": "34371_163152",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106015",
+      "question_topic_name": "소수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 152,
+      "question_success_rate": 70.83
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "길이가 $76mm$ 인 색테이프를 사용하여 네 변의 길이가 각각 $13mm$ 인 사각형을 한 개 만들었습니다. 남은 색테이프의 길이는 몇 $cm$인지 소수로 나타내어 보세요.  (1) 사용한 색테이프의 길이는 몇 $mm$인지 구해 보세요. (2) 남은 색테이프의 길이는 몇 $mm$인지 구해 보세요. (3) 남은 색테이프의 길이는 몇 $cm$인지 소수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            7,
+            3,
+            591,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            584,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            63,
+            342,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            5,
+            143,
+            523,
+            170
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            302,
+            501,
+            329
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            432,
+            581,
+            459
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            464,
+            29,
+            485
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.87,
+            0,
+            594.87,
+            90.85
+          ],
+          "text": "길이가 $76mm$ 인 색테이프를 사용하여 네 변의 길이가 각각 $13mm$ 인 사각형을 한 개 만들었습니다. 남은 색테이프의 길이는 몇 $cm$인지 소수로 나타내어 보세요. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.87,
+            139.85,
+            525.87,
+            174.85
+          ],
+          "text": "(1) 사용한 색테이프의 길이는 몇 $mm$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1.87,
+            299.85,
+            505.87,
+            330.85
+          ],
+          "text": "(2) 남은 색테이프의 길이는 몇 $mm$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            433.47,
+            584.87,
+            488.47
+          ],
+          "text": "(3) 남은 색테이프의 길이는 몇 $cm$인지 소수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_03_40069_156605.png",
+  "id": "40069_156605",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 83,
+      "question_success_rate": 95.38
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$㉡$은 $㉠$의 몇 배인지 구해 보세요. $㉠$ $10$이 $1$ 개, $1$이 $8$ 개, $\\frac{1}{10}$이 $13$ 개, $0.01$이 $8$ 개 인 수 $㉡$ $193.8$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            320,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            61,
+            521,
+            101
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            118,
+            108,
+            141
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            524,
+            147
+          ],
+          "text": "$㉡$은 $㉠$의 몇 배인지 구해 보세요. $㉠$ $10$이 $1$ 개, $1$이 $8$ 개, $\\frac{1}{10}$이 $13$ 개, $0.01$이 $8$ 개 인 수 $㉡$ $193.8$"
+        }
+      ]
+    }
+  ]
+}

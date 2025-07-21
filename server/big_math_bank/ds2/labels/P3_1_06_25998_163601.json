@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_1_06_25998_163601.png",
+  "id": "25998_163601",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106001",
+      "question_topic_name": "똑같이 나누기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 132,
+      "question_success_rate": 76.83
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색칠한 부분에 대한 설명입니다. $㉠$과 $㉡$의 합을 구해 보세요.   ·전체를 똑같이 $12$로 나눈 것 중의 $㉠$입니다.  ·전체를 똑같이 $㉡$으로 나눈 것 중의 $1$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            75,
+            279,
+            508,
+            304
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            75,
+            309,
+            519,
+            334
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            201,
+            56,
+            396,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            586,
+            30
+          ],
+          "text": "색칠한 부분에 대한 설명입니다. $㉠$과 $㉡$의 합을 구해 보세요.   ·전체를 똑같이 $12$로 나눈 것 중의 $㉠$입니다.  ·전체를 똑같이 $㉡$으로 나눈 것 중의 $1$입니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            73,
+            278,
+            521,
+            335
+          ],
+          "text": null
+        }
+      ]
+    }
+  ]
+}

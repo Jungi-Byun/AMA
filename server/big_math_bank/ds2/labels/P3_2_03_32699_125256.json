@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_03_32699_125256.png",
+  "id": "32699_125256",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 53,
+      "question_success_rate": 88.71
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "반지름이 7 cm인 원을 시작으로 동일한 중심을 갖는 원들의 반지름이 7 cm씩 증가하는 규칙을 갖는 세 개의 원이 있고 이러한 패턴이 반복됨을 뜻하는 줄임표가 있는 도형",
+      "question_text": "규칙에 따라 원을 그렸습니다. 다음에 그릴 원의 반지름은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            578,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            199,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            132,
+            80,
+            524,
+            412
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            580,
+            59
+          ],
+          "text": "규칙에 따라 원을 그렸습니다. 다음에 그릴 원의 반지름은 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

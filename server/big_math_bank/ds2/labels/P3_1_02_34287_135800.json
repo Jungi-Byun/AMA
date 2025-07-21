@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_1_02_34287_135800.png",
+  "id": "34287_135800",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102013",
+      "question_topic_name": "직사각형과 정사각형",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 155,
+      "question_success_rate": 76.92
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "모눈종이 위의 왼쪽에 가로 5칸, 세로 3칸의 직사각형 가와 오른쪽에 가로 3칸, 세로 3칸의 정사각형 나",
+      "question_text": "지훈이와 홍경이 중 옳게 설명한 사람은 누구인가요? 지훈 : 두 도형의 네변의 길이가 모두 같아. 홍경 : 가는 직사각형이고 나는 정사각형이야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            507,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            62,
+            270,
+            458,
+            299
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            53,
+            300,
+            491,
+            329
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            121,
+            49,
+            476,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            509,
+            30
+          ],
+          "text": "지훈이와 홍경이 중 옳게 설명한 사람은 누구인가요? 지훈 : 두 도형의 네변의 길이가 모두 같아. 홍경 : 가는 직사각형이고 나는 정사각형이야."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            51,
+            269,
+            493,
+            330
+          ],
+          "text": null
+        }
+      ]
+    }
+  ]
+}

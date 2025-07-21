@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_06_24316_72347.png",
+  "id": "24316_72347",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206001",
+      "question_topic_name": "표를 보고 내용 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 108,
+      "question_success_rate": 88.06
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은혜네 학교 학생들이 좋아하는 색깔을 조사하여 표로 나타내었습니다. $㉠$과 $㉡$의 합을 구해 보세요. 좋아하는 색깔별 학생 수 <table border> <tbody> <tr> <td>색깔</td> <td>파랑</td> <td>초록</td> <td>보라</td> <td>주황</td> <td>합계</td> </tr> <tr> <td>남학생 수 (명)</td> <td>$33$</td> <td>$35$</td> <td>$25$</td> <td>$㉠$</td> <td>$100$</td> </tr> <tr> <td>여학생 수 (명)</td> <td>$35$</td> <td>$22$</td> <td>$㉡$</td> <td>$28$</td> <td>$95$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            588,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            370,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            174,
+            69,
+            423,
+            113
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            74,
+            121,
+            524,
+            247
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            590,
+            249
+          ],
+          "text": "은혜네 학교 학생들이 좋아하는 색깔을 조사하여 표로 나타내었습니다. $㉠$과 $㉡$의 합을 구해 보세요. 좋아하는 색깔별 학생 수 <table border> <tbody> <tr> <td>색깔</td> <td>파랑</td> <td>초록</td> <td>보라</td> <td>주황</td> <td>합계</td> </tr> <tr> <td>남학생 수 (명)</td> <td>$33$</td> <td>$35$</td> <td>$25$</td> <td>$㉠$</td> <td>$100$</td> </tr> <tr> <td>여학생 수 (명)</td> <td>$35$</td> <td>$22$</td> <td>$㉡$</td> <td>$28$</td> <td>$95$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

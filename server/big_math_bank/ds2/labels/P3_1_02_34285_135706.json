@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_02_34285_135706.png",
+  "id": "34285_135706",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102008",
+      "question_topic_name": "직각과 직각삼각형",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 89,
+      "question_success_rate": 70.21
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "모눈종이 위의 점 ㅅ을 중심으로 제2사분면에 45도 기울어져 있는 반직선이 반시계 방향으로 45도 회전, 90도 회전, 225도 회전, 270도 회전, 315도 회전한 6개의 반직선과 왼쪽 반직선을 시작으로 반직선 위에 반시계 방향으로 차례대로 ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ으로 적힌 점",
+      "question_text": "직각은 모두 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            342,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            171,
+            49,
+            426,
+            303
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            344,
+            30
+          ],
+          "text": "직각은 모두 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_05_25973_136324.png",
+  "id": "25973_136324",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105015",
+      "question_topic_name": "1분보다 작은 단위",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 109,
+      "question_success_rate": 84.42
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "같은 시간을 보고 희연이는 \"253초\", 지우는 \"4분 23초\", 우재는 \"263초\"라고 말하는 그림",
+      "question_text": "세 사람 중 다른 시간을 말한 사람은 누구인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            468,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            77,
+            47,
+            520,
+            257
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            470,
+            30
+          ],
+          "text": "세 사람 중 다른 시간을 말한 사람은 누구인가요?"
+        }
+      ]
+    }
+  ]
+}

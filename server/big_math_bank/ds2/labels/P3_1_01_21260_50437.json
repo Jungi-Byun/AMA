@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_1_01_21260_50437.png",
+  "id": "21260_50437",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101018",
+      "question_topic_name": "받아내림이 있는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 102,
+      "question_success_rate": 89.9
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "인하네 학교의 학년별 학생 수를 나타낸 표입니다. 학생 수가 가장 많은 학년은 가장 적은 학년보다 몇 명 더 많은지 구해 보세요. $\\\\$학년별 학생 수 <table border> <tbody> <tr> <td>학년</td> <td>$1$</td> <td>$2$</td><td>$3$</td><td>$4$</td><td>$5$</td><td>$6$</td> </tr> <tr> <td>학생 수(명)</td> <td>$175$</td> <td>$478$</td> <td>$179$</td> <td>$352$</td> <td>$368$</td> <td>$523$</td>  </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            580,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            589,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            51,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            226,
+            104,
+            371,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            80,
+            141,
+            517,
+            226
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            230
+          ],
+          "text": "인하네 학교의 학년별 학생 수를 나타낸 표입니다. 학생 수가 가장 많은 학년은 가장 적은 학년보다 몇 명 더 많은지 구해 보세요. $\\\\$학년별 학생 수 <table border> <tbody> <tr> <td>학년</td> <td>$1$</td> <td>$2$</td><td>$3$</td><td>$4$</td><td>$5$</td><td>$6$</td> </tr> <tr> <td>학생 수(명)</td> <td>$175$</td> <td>$478$</td> <td>$179$</td> <td>$352$</td> <td>$368$</td> <td>$523$</td>  </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

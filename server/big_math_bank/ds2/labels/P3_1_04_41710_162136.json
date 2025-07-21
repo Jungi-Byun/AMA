@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_04_41710_162136.png",
+  "id": "41710_162136",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104006",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 179,
+      "question_success_rate": 81.29
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "컵을 ㉮ 공장에서는 $41$ 분 동안 $1$ 분에 $9$ 개씩 만들었고, ㉯ 공장에서는 $1$ 시간 $20$ 분 동안 $1$ 분에 $4$ 개씩 만들었습니다. 어느 공장에서 컵을 몇 개 더 많이 만들었는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            580,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            585,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            513,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            89
+          ],
+          "text": "컵을 ㉮ 공장에서는 $41$ 분 동안 $1$ 분에 $9$ 개씩 만들었고, ㉯ 공장에서는 $1$ 시간 $20$ 분 동안 $1$ 분에 $4$ 개씩 만들었습니다. 어느 공장에서 컵을 몇 개 더 많이 만들었는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

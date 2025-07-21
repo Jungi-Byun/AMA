@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_03_32697_125230.png",
+  "id": "32697_125230",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 52,
+      "question_success_rate": 95.33
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "반지름이 4 cm인 원 두 개가 한 원이 다른 원의 중심을 지나도록 그려져 있고, 두 원의 지름은 일직선으로 그어져 있으며, 두 원의 중심을 그은 선을 지름으로 하는 원이 있는 도형",
+      "question_text": "크기가 같은 두 원의 겹쳐진 부분에 작은 원을 맞닿게 그렸습니다. 작은 원의 반지름은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            474,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            158,
+            83,
+            439,
+            271
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            59
+          ],
+          "text": "크기가 같은 두 원의 겹쳐진 부분에 작은 원을 맞닿게 그렸습니다. 작은 원의 반지름은 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

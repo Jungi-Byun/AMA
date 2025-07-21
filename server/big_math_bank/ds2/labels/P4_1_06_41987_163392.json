@@ -1,0 +1,51 @@
+﻿{
+  "question_filename": "P4_1_06_41987_163392.png",
+  "id": "41987_163392",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106003",
+      "question_topic_name": "수의 배열의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 67,
+      "question_success_rate": 97.16
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "규칙적인 수의 배열에서 $●$와 $■$의 합을 구해 보세요. <table border> <tbody> <tr> <td></td> <td>$10$</td> <td>$20$</td> <td>$30$</td> <td>$40$</td> <td>$50$</td> </tr> <tr> <td>$100$</td> <td>$2$</td> <td>$3$</td> <td>$4$</td> <td>$5$</td> <td>$6$</td> </tr> <tr> <td>$101$</td> <td>$3$</td> <td>$4$</td> <td>$5$</td> <td>$6$</td> <td>$7$</td> </tr> <tr> <td>$102$</td> <td>$4$</td> <td>$5$</td> <td>$6$</td> <td>$7$</td> <td>$8$</td> </tr> <tr> <td>$103$</td> <td>$5$</td> <td>$●$</td> <td>$7$</td> <td>$8$</td> <td>$9$</td> </tr> <tr> <td>$104$</td> <td>$6$</td> <td>$7$</td> <td>$8$</td> <td>$■$</td> <td>$10$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            497,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.67,
+            0.94,
+            498.67,
+            321.94
+          ],
+          "text": "규칙적인 수의 배열에서 $●$와 $■$의 합을 구해 보세요. <table border> <tbody> <tr> <td></td> <td>$10$</td> <td>$20$</td> <td>$30$</td> <td>$40$</td> <td>$50$</td> </tr> <tr> <td>$100$</td> <td>$2$</td> <td>$3$</td> <td>$4$</td> <td>$5$</td> <td>$6$</td> </tr> <tr> <td>$101$</td> <td>$3$</td> <td>$4$</td> <td>$5$</td> <td>$6$</td> <td>$7$</td> </tr> <tr> <td>$102$</td> <td>$4$</td> <td>$5$</td> <td>$6$</td> <td>$7$</td> <td>$8$</td> </tr> <tr> <td>$103$</td> <td>$5$</td> <td>$●$</td> <td>$7$</td> <td>$8$</td> <td>$9$</td> </tr> <tr> <td>$104$</td> <td>$6$</td> <td>$7$</td> <td>$8$</td> <td>$■$</td> <td>$10$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

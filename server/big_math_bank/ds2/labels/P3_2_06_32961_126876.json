@@ -1,0 +1,131 @@
+﻿{
+  "question_filename": "P3_2_06_32961_126876.png",
+  "id": "32961_126876",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 130,
+      "question_success_rate": 70.32
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민준이네 학교 학생들이 좋아하는 한국 음식을 조사하여 표로 나타내었습니다. 민준이네 학교 학생이 모두 $190$ 명일 때, 불고기를 좋아하는 여학생은 몇 명인지 구해 보세요. 좋아하는 음식별 학생 수 <table border> <tbody>   <tr>     <td>음식</td>     <td>된장국</td>     <td>비빔밥</td>     <td>블고기</td>     <td>잡채</td>     <td>합계</td>   </tr>   <tr>     <td> 남학생&nbsp;&nbsp;수 (명)</td>     <td>$18$</td>     <td>$32$</td>     <td>$19$</td>     <td>$25$</td>     <td>$94$</td>   </tr>   <tr>     <td>여학생 수 (명)</td>     <td>$112kcal$</td>     <td>$27$</td>     <td></td>     <td>$15$</td>     <td></td>   </tr> </tbody> </table> (1) 민준이네 학교 여학생은 몇 명인지 구해 보세요. (2) 불고기를 좋아하는 여학생은 몇 명인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            592,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            458,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            174,
+            99,
+            420,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            14,
+            151,
+            583,
+            277
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            5,
+            329,
+            489,
+            356
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            524,
+            533,
+            551
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            594,
+            279
+          ],
+          "text": "민준이네 학교 학생들이 좋아하는 한국 음식을 조사하여 표로 나타내었습니다. 민준이네 학교 학생이 모두 $190$ 명일 때, 불고기를 좋아하는 여학생은 몇 명인지 구해 보세요. 좋아하는 음식별 학생 수 <table border> <tbody>   <tr>     <td>음식</td>     <td>된장국</td>     <td>비빔밥</td>     <td>블고기</td>     <td>잡채</td>     <td>합계</td>   </tr>   <tr>     <td> 남학생&nbsp;&nbsp;수 (명)</td>     <td>$18$</td>     <td>$32$</td>     <td>$19$</td>     <td>$25$</td>     <td>$94$</td>   </tr>   <tr>     <td>여학생 수 (명)</td>     <td>$112kcal$</td>     <td>$27$</td>     <td></td>     <td>$15$</td>     <td></td>   </tr> </tbody> </table>"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            327,
+            491,
+            358
+          ],
+          "text": "(1) 민준이네 학교 여학생은 몇 명인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            505,
+            567,
+            552
+          ],
+          "text": "(2) 불고기를 좋아하는 여학생은 몇 명인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

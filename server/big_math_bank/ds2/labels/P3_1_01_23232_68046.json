@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P3_1_01_23232_68046.png",
+  "id": "23232_68046",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101018",
+      "question_topic_name": "받아내림이 있는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 93,
+      "question_success_rate": 67.08
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 읽고 진아네 마을 주민과 동환이네 마을 주민은 각각 몇 명인지 구해 보세요.  나리 : 우리 마을 주민은 모두 $845$ 명이야.  진아 : 우리 마을 주민은 나리네 마을 주민보다 $159$ 명이 더 적어.  동환 : 우리 마을 주민은 진아네 마을 주민보다 $137$ 명이 더 많아.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            574,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            221,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            94,
+            432,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            124,
+            546,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            158,
+            206,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            39,
+            184,
+            546,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            218,
+            206,
+            243
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            585,
+            252
+          ],
+          "text": "다음을 읽고 진아네 마을 주민과 동환이네 마을 주민은 각각 몇 명인지 구해 보세요.  나리 : 우리 마을 주민은 모두 $845$ 명이야.  진아 : 우리 마을 주민은 나리네 마을 주민보다 $159$ 명이 더 적어.  동환 : 우리 마을 주민은 진아네 마을 주민보다 $137$ 명이 더 많아. "
+        }
+      ]
+    }
+  ]
+}

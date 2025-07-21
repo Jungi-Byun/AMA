@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_1_02_41369_160723.png",
+  "id": "41369_160723",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102005",
+      "question_topic_name": "각의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 223,
+      "question_success_rate": 45.54
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㅇㅅ과 가까운 순서대로 선분 ㅇㅂ, ㅇㅁ, ㅇㄹ, ㅇㄷ, ㅇㄴ으로 크기가 같은 각 6개로 나눈 둔각 ㄱㅇㅅ",
+      "question_text": "각 $ㄱㅇㅅ$을 크기가 같은 각 $6$ 개로 나눈 것입니다. 각 $ㄱㅇㄷ$보다 크고 각 $ㄴㅇㅅ$보다 작은 각은 모두 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            576,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            583,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            65,
+            29,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            173,
+            116,
+            422,
+            319
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            585,
+            87
+          ],
+          "text": "각 $ㄱㅇㅅ$을 크기가 같은 각 $6$ 개로 나눈 것입니다. 각 $ㄱㅇㄷ$보다 크고 각 $ㄴㅇㅅ$보다 작은 각은 모두 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

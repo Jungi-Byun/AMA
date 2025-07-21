@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P4_1_03_41743_162405.png",
+  "id": "41743_162405",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 252,
+      "question_success_rate": 79.82
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "조건을 만족하는 어떤 수를 모두 구해 보세요.  조건 $\\bullet$ 세 자리 수 입니다. $\\bullet$ $86$으로 나누었을 때 몫과 나머지는 같습니다. $\\bullet$ $86$으로 나누었을 때 나머지는 두 자리 수입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            432,
+            34
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            89,
+            43,
+            130,
+            72
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            75,
+            86,
+            265,
+            111
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            75,
+            125,
+            524,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            75,
+            164,
+            522,
+            189
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            94,
+            194,
+            122,
+            219
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            550,
+            224
+          ],
+          "text": "조건을 만족하는 어떤 수를 모두 구해 보세요.  조건 $\\bullet$ 세 자리 수 입니다. $\\bullet$ $86$으로 나누었을 때 몫과 나머지는 같습니다. $\\bullet$ $86$으로 나누었을 때 나머지는 두 자리 수입니다."
+        }
+      ]
+    }
+  ]
+}

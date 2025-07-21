@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P4_2_04_33250_128667.png",
+  "id": "33250_128667",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204003",
+      "question_topic_name": "수직",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 52,
+      "question_success_rate": 94.38
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "선분 ㄱㄹ 위에 점 ㅁ이 있고 선분 ㄴㅁ과 선분 ㄱㅁ의 교각이 57도이고 선분 ㄴㅁ의 수선인 선분 ㄷㅁ이 선분 ㅁㄹ과 이루는 교각이 예각인 도형",
+      "question_text": "선분 $ㄴㅁ$은 선분 $ㄷㅁ$에 대한 수선입니다. 각 $ㄷㅁㄹ$의 크기는 몇 도인지 구해 보세요.    (1) 각 $ㄴㅁㄷ$의 크기는 몇 도인지 구해 보세요. (2) 각 $ㄷㅁㄹ$의 크기는 몇 도인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            249,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            293,
+            445,
+            320
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            543,
+            445,
+            570
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            112,
+            73,
+            462,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            579,
+            59
+          ],
+          "text": "선분 $ㄴㅁ$은 선분 $ㄷㅁ$에 대한 수선입니다. 각 $ㄷㅁㄹ$의 크기는 몇 도인지 구해 보세요.   "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            291,
+            447,
+            322
+          ],
+          "text": "(1) 각 $ㄴㅁㄷ$의 크기는 몇 도인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            541,
+            447,
+            572
+          ],
+          "text": "(2) 각 $ㄷㅁㄹ$의 크기는 몇 도인지 구해 보세요. "
+        }
+      ]
+    }
+  ]
+}

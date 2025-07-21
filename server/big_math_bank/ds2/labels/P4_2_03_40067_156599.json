@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_03_40067_156599.png",
+  "id": "40067_156599",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203005",
+      "question_topic_name": "소수의 크기 비교",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 176,
+      "question_success_rate": 74.41
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 카드를 모두 한 번씩만 사용하여 소수 세 자리 수를 만들려고 합니다. $0.1$이 $42$ 개인 수보다 작은 수는 모두 몇 개인지 구해 보세요. $1$   $4$   $6$   $9$   $.$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            582,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            580,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            100,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            176,
+            103,
+            422,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            584,
+            174
+          ],
+          "text": "수 카드를 모두 한 번씩만 사용하여 소수 세 자리 수를 만들려고 합니다. $0.1$이 $42$ 개인 수보다 작은 수는 모두 몇 개인지 구해 보세요. $1$   $4$   $6$   $9$   $.$"
+        }
+      ]
+    }
+  ]
+}

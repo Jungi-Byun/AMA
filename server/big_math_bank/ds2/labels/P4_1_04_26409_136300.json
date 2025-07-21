@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_1_04_26409_136300.png",
+  "id": "26409_136300",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104006",
+      "question_topic_name": "밀기와 뒤집기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 76,
+      "question_success_rate": 56.04
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "오른쪽에는 원 모양의 거울을 바라보고 있는 여자의 뒷모습이 있고, 거울 속에는 위쪽에는 시계, 아래쪽에는 여자의 모습이 비치고 있고, 왼쪽에는 오른쪽 거울 속에 비추는 시계가 말풍선 속에 크게 확대되어 있고, 시계 속에는 1부터 12까지 각각의 숫자가 좌우 반대로 시계 반대 방향으로 쓰여있으며, 초록색인 짧은 바늘이 3과 4 사이 중 4에 가까이 위치, 빨간색인 긴 바늘은 10에 위치해 있는 그림",
+      "question_text": "태연이가 오후에 청소를 끝내고 거울에 비친 시계를 보았더니 다음과 같았습니다. 태연이가 청소를 오후 $2 시 15 분$에 시작했다면 청소를 하는 데 걸린 시간은 몇 시간 몇 분인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            588,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            595,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            63,
+            588,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            95,
+            29,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            82.67,
+            120,
+            517.67,
+            338
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            2,
+            594.67,
+            116
+          ],
+          "text": "태연이가 오후에 청소를 끝내고 거울에 비친 시계를 보았더니 다음과 같았습니다. 태연이가 청소를 오후 $2 시 15 분$에 시작했다면 청소를 하는 데 걸린 시간은 몇 시간 몇 분인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

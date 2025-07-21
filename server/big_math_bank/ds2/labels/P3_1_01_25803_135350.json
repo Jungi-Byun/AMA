@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P3_1_01_25803_135350.png",
+  "id": "25803_135350",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101010",
+      "question_topic_name": "받아올림이 있는 세 자리 수의 덧셈",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 151,
+      "question_success_rate": 75.41
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가, 나, 다 세 개의 건물이 있습니다. 나 건물의 높이는 가 건물보다 $239m$ 더 높고, 다 건물의 높이는 나 건물보다 $196 m$ 더 높습니다. 가 건물의 높이가 $116m$일 때 다 건물의 높이는 몇 $m$인지 구해보세요. (1) 나 건물의 높이는 몇 $m$인지 구해 보세요.  (2) 다 건물의 높이는 몇 $m$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            568,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            595,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            166,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            134,
+            418,
+            161
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            426,
+            418,
+            453
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            162
+          ],
+          "text": "가, 나, 다 세 개의 건물이 있습니다. 나 건물의 높이는 가 건물보다 $239m$ 더 높고, 다 건물의 높이는 나 건물보다 $196 m$ 더 높습니다. 가 건물의 높이가 $116m$일 때 다 건물의 높이는 몇 $m$인지 구해보세요. (1) 나 건물의 높이는 몇 $m$인지 구해 보세요. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            424,
+            420,
+            455
+          ],
+          "text": "(2) 다 건물의 높이는 몇 $m$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_1_03_22995_62473.png",
+  "id": "22995_62473",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103013",
+      "question_topic_name": "몇십으로 나누기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 77,
+      "question_success_rate": 77.99
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영희가 $286$ 쪽인 소설책을 모두 읽으려고 합니다. 하루에 $50$ 쪽씩 읽으면 적어도 며칠 안에 모두 읽을 수 있는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            590,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "영희가 $286$ 쪽인 소설책을 모두 읽으려고 합니다. 하루에 $50$ 쪽씩 읽으면 적어도 며칠 안에 모두 읽을 수 있는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

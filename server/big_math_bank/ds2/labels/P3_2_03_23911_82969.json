@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_03_23911_82969.png",
+  "id": "23911_82969",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203005",
+      "question_topic_name": "지름과 반지름 사이의 관계 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 48,
+      "question_success_rate": 88.63
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "큰 원부터 순서대로 기호를 써 보세요. ㄱ. 반지름이 $12cm$인 원 ㄴ. 지름이 $30cm$인 원 ㄷ. 지름이 $21cm$인 원 ㄹ. 반지름이 $19cm$인 원",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            364,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            64,
+            515,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            31,
+            102,
+            537,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            152
+          ],
+          "text": "큰 원부터 순서대로 기호를 써 보세요. ㄱ. 반지름이 $12cm$인 원 ㄴ. 지름이 $30cm$인 원 ㄷ. 지름이 $21cm$인 원 ㄹ. 반지름이 $19cm$인 원"
+        }
+      ]
+    }
+  ]
+}

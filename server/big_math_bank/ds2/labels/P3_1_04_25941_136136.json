@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P3_1_04_25941_136136.png",
+  "id": "25941_136136",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104004",
+      "question_topic_name": "올림이 없는 (몇십몇) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 100,
+      "question_success_rate": 87.5
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "배가 한 상자에 $6$ 개씩 $7$ 줄 들어 있습니다. 배가 $2$ 상자 있을 때, 상자에 들어 있는 배는 모두 몇 개인지 구해 보세요. (1) 한 상자에 들어 있는 배는 몇 개인지 구해 보세요. (2) 상자에 들어 있는 배는 모두 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            569,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            524,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            113,
+            500,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            244,
+            522,
+            271
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            571,
+            60
+          ],
+          "text": "배가 한 상자에 $6$ 개씩 $7$ 줄 들어 있습니다. 배가 $2$ 상자 있을 때, 상자에 들어 있는 배는 모두 몇 개인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            111,
+            502,
+            142
+          ],
+          "text": "(1) 한 상자에 들어 있는 배는 몇 개인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            242,
+            524,
+            273
+          ],
+          "text": "(2) 상자에 들어 있는 배는 모두 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

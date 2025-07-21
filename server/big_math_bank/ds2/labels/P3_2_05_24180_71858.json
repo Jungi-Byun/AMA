@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_05_24180_71858.png",
+  "id": "24180_71858",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205027",
+      "question_topic_name": "무게의 덧셈과 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 52,
+      "question_success_rate": 93.14
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 몇 $kg$ 몇 $g$인지 구해 보세요. $5100 g-1 kg ~400 g$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            337,
+            31
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            207,
+            67,
+            391,
+            92
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            576,
+            132
+          ],
+          "text": "다음은 몇 $kg$ 몇 $g$인지 구해 보세요. $5100 g-1 kg ~400 g$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+﻿{
+  "question_filename": "P4_1_01_26158_161012.png",
+  "id": "26158_161012",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 166,
+      "question_success_rate": 76.74
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "자릿수가 서로 같은 수의 크기를 비교했습니다. $0$부터 $9$까지의 수 중에서 $㉠$과 $㉡$에 공통으로 들어갈 수 있는 수를 모두 구해 보세요. $15㉠62478>15327593$ $3851532>38㉡7953$ (1) $㉠$과 $㉡$에 들어갈 수 있는 수를 각각 모두 찾아 선택해 보세요. (2) $㉠$과$㉡$에 공통으로 들어갈 수 있는 수를 모두 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            594,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            583,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            73,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            190,
+            125,
+            407,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            211,
+            151,
+            407,
+            174
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1.8,
+            209,
+            594.8,
+            246
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1.8,
+            246,
+            33.8,
+            272
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            677,
+            594.8,
+            706
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.8,
+            3,
+            595.8,
+            274
+          ],
+          "text": "자릿수가 서로 같은 수의 크기를 비교했습니다. $0$부터 $9$까지의 수 중에서 $㉠$과 $㉡$에 공통으로 들어갈 수 있는 수를 모두 구해 보세요. $15㉠62478>15327593$ $3851532>38㉡7953$ (1) $㉠$과 $㉡$에 들어갈 수 있는 수를 각각 모두 찾아 선택해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.8,
+            678,
+            593.8,
+            706
+          ],
+          "text": "(2) $㉠$과$㉡$에 공통으로 들어갈 수 있는 수를 모두 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

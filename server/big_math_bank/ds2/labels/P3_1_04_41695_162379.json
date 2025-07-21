@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_04_41695_162379.png",
+  "id": "41695_162379",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104004",
+      "question_topic_name": "올림이 없는 (몇십몇) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1,
+      "question_rtime": 199,
+      "question_success_rate": 82.67
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민하는 $9$ 일 동안 매일 아침에 달리기를 했습니다. 처음 $4$ 일 동안은 하루에 $12$ 분씩 했고, 다음 $3$ 일 동안은 하루에 $13$ 분씩, 나머지 $2$ 일 동안은 하루에 $14$ 분씩 했습니다. 민하가 $9$ 일 동안 한 달리기는 모두 몇 분인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            597,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            575,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            392,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            119
+          ],
+          "text": "민하는 $9$ 일 동안 매일 아침에 달리기를 했습니다. 처음 $4$ 일 동안은 하루에 $12$ 분씩 했고, 다음 $3$ 일 동안은 하루에 $13$ 분씩, 나머지 $2$ 일 동안은 하루에 $14$ 분씩 했습니다. 민하가 $9$ 일 동안 한 달리기는 모두 몇 분인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

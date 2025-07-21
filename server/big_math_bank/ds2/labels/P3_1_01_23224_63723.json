@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_01_23224_63723.png",
+  "id": "23224_63723",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101014",
+      "question_topic_name": "받아내림이 없는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 45,
+      "question_success_rate": 94.19
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "중국으로 가는 비행기에 어른 $266$ 명, 어린이 $125$ 명이 탔습니다. 어른은 어린이보다 몇 명 더 탔는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            496,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            586,
+            59
+          ],
+          "text": "중국으로 가는 비행기에 어른 $266$ 명, 어린이 $125$ 명이 탔습니다. 어른은 어린이보다 몇 명 더 탔는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

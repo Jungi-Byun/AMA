@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_05_21921_58621.png",
+  "id": "21921_58621",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105025",
+      "question_topic_name": "시간의 덧셈과 뺄셈의 활용 - 시/분/초 또는 시/분",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1,
+      "question_rtime": 126,
+      "question_success_rate": 84.02
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수현이는 그림을 $1시간 26분$ 동안 그려서 $10시 15분$에 다 그렸습니다. 수현이가 그림을 그리기 시작한 시각은 몇 시 몇 분인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            591,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            584,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            78,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            593,
+            89
+          ],
+          "text": "수현이는 그림을 $1시간 26분$ 동안 그려서 $10시 15분$에 다 그렸습니다. 수현이가 그림을 그리기 시작한 시각은 몇 시 몇 분인가요? "
+        }
+      ]
+    }
+  ]
+}

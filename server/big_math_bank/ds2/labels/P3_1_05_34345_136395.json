@@ -1,0 +1,131 @@
+﻿{
+  "question_filename": "P3_1_05_34345_136395.png",
+  "id": "34345_136395",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1,
+      "question_rtime": 225,
+      "question_success_rate": 78.95
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "승애가 일요일에 등산했습니다. $7\\text{ }\\text{시}\\text{ }30\\text{ }\\text{분}$에 출발하여 $1\\text{ }\\text{시간}\\text{ }25\\text{ }\\text{분}$ 동안 올라갔다가 쉬지 않고 $2\\text{ }\\text{시간}\\text{ }21\\text{ }\\text{분}$ 동안 내려왔습니다. 승애가 내려왔을 때의 시각은 몇 시 몇 분인지 구해 보세요.  (1) 승애가 등산하는 데 걸린 시간은 몇 시간 몇 분인지 구해 보세요. (2) 승애가 내려왔을 때의 시각은 몇 시 몇 분인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            586,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            580,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            63,
+            588,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            95,
+            29,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            172,
+            594,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            203,
+            83,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            398,
+            594,
+            425
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            590,
+            117
+          ],
+          "text": "승애가 일요일에 등산했습니다. $7\\text{ }\\text{시}\\text{ }30\\text{ }\\text{분}$에 출발하여 $1\\text{ }\\text{시간}\\text{ }25\\text{ }\\text{분}$ 동안 올라갔다가 쉬지 않고 $2\\text{ }\\text{시간}\\text{ }21\\text{ }\\text{분}$ 동안 내려왔습니다. 승애가 내려왔을 때의 시각은 몇 시 몇 분인지 구해 보세요. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            171,
+            596,
+            229
+          ],
+          "text": "(1) 승애가 등산하는 데 걸린 시간은 몇 시간 몇 분인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            396,
+            596,
+            427
+          ],
+          "text": "(2) 승애가 내려왔을 때의 시각은 몇 시 몇 분인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

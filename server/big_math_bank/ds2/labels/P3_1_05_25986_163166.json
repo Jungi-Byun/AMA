@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_05_25986_163166.png",
+  "id": "25986_163166",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 140,
+      "question_success_rate": 71.05
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성현이와 익준이는 $7$시에 만나기로 약속했습니다. 성현이는 약속 시간보다 $11$분 $32$초 전에 도착했고, 익준이는 성현이보다 $6$분$17$초 늦게 도착했습니다. 익준이가 도착한 시각은 몇 시 몇 분 몇 초인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            585,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            579,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            304,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            119
+          ],
+          "text": "성현이와 익준이는 $7$시에 만나기로 약속했습니다. 성현이는 약속 시간보다 $11$분 $32$초 전에 도착했고, 익준이는 성현이보다 $6$분$17$초 늦게 도착했습니다. 익준이가 도착한 시각은 몇 시 몇 분 몇 초인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

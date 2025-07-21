@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_01_24508_73575.png",
+  "id": "24508_73575",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 83,
+      "question_success_rate": 92.64
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정우는 사과파이를 만드는 데 사과를 $4\\frac{7}{10}$ 개 사용했습니다. 미성이는 사과주스를 만드는 데 사과를 $2\\frac{9}{10}$ 개 사용했습니다. 정우는 미성이보다 사과를 몇 개 더 많이 사용했는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            572,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            45,
+            593,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            92,
+            579,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            122,
+            51,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            596,
+            148
+          ],
+          "text": "정우는 사과파이를 만드는 데 사과를 $4\\frac{7}{10}$ 개 사용했습니다. 미성이는 사과주스를 만드는 데 사과를 $2\\frac{9}{10}$ 개 사용했습니다. 정우는 미성이보다 사과를 몇 개 더 많이 사용했는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

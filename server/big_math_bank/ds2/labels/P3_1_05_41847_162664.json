@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_05_41847_162664.png",
+  "id": "41847_162664",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105015",
+      "question_topic_name": "1분보다 작은 단위",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 105,
+      "question_success_rate": 84.91
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 거울에 비친 시계의 모습입니다. 시계가 나타내는 시각은 몇 시 몇 분 몇 초인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            265,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            76,
+            80,
+            521,
+            294
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "다음은 거울에 비친 시계의 모습입니다. 시계가 나타내는 시각은 몇 시 몇 분 몇 초인가요?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_1_01_41253_160485.png",
+  "id": "41253_160485",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101006",
+      "question_topic_name": "천만 단위까지 수 알기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 99,
+      "question_success_rate": 79.55
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$6$ 장의 수 카드를 모두 한 번씩만 사용하여 여섯 자리 수를 만들려고 합니다. 만들 수 있는 수 중에서 둘째로 큰 수를 구해 보세요. $3$$1$$6$$9$$2$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            51,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            150,
+            103,
+            447,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            0.6,
+            595.77,
+            174.05
+          ],
+          "text": "$6$ 장의 수 카드를 모두 한 번씩만 사용하여 여섯 자리 수를 만들려고 합니다. 만들 수 있는 수 중에서 둘째로 큰 수를 구해 보세요. $3$$1$$6$$9$$2$"
+        }
+      ]
+    }
+  ]
+}

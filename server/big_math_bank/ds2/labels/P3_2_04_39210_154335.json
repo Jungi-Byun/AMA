@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_04_39210_154335.png",
+  "id": "39210_154335",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 234,
+      "question_success_rate": 86.61
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지호는 가지고 있던 전체 젤리 수의 $\\frac{4}{9}$를 형에게 주고, 전체 젤리 수의 $\\frac{1}{7}$을 동생에게 주었습니다. 지호가 형에게 준 젤리가 $28$ 개라면 동생에게 준 젤리는 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            589,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            45,
+            580,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            92,
+            513,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            591,
+            118
+          ],
+          "text": "지호는 가지고 있던 전체 젤리 수의 $\\frac{4}{9}$를 형에게 주고, 전체 젤리 수의 $\\frac{1}{7}$을 동생에게 주었습니다. 지호가 형에게 준 젤리가 $28$ 개라면 동생에게 준 젤리는 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

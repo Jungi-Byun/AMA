@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_03_23882_69757.png",
+  "id": "23882_69757",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203003",
+      "question_topic_name": "원의 중심, 반지름, 지름",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 54,
+      "question_success_rate": 91.83
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "반지름의 길이가 5 cm인 원 ㄱ과 반지름의 길이가 6 cm인 원 ㄴ이 한 점을 교점으로 가질 때 두 원의 중심을 이은 선분 ㄱㄴ",
+      "question_text": "점 $ㄱ$, 점 $ㄴ$은 원의 중심입니다. 선분 $ㄱㄴ$의 길이를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            594,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            35,
+            29,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            84,
+            77,
+            512,
+            388
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            57
+          ],
+          "text": "점 $ㄱ$, 점 $ㄴ$은 원의 중심입니다. 선분 $ㄱㄴ$의 길이를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+﻿{
+  "question_filename": "P4_2_01_24515_73721.png",
+  "id": "24515_73721",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 119,
+      "question_success_rate": 93.46
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 민구, 영희, 성수, 유리가 일주일 동안 마신 우유의 양에 대한 설명입니다. 마신 우유의 양이 가장 적은 사람은 누구인지 구해 보세요. $\\bullet$ 민구는 $5\\frac{3}{8}$ L의 우유를 마셨습니다. $\\bullet$ 영희는 $6\\frac{2}{8}$ L의 우유를 마셨습니다. $\\bullet$ 성수는 민구보다 $1\\frac{1}{8}$ L의 우유를 적게 마셨습니다. $\\bullet$ 유리는 영희보다 $1\\frac{5}{8}$ L의 우유를 적게 마셨습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            593,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            577,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            150,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            60,
+            125,
+            419,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            60,
+            170,
+            419,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            60,
+            214,
+            532,
+            254
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            55,
+            262,
+            82,
+            287
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            60,
+            289,
+            532,
+            328
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            55,
+            336,
+            82,
+            361
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            595,
+            377
+          ],
+          "text": "다음은 민구, 영희, 성수, 유리가 일주일 동안 마신 우유의 양에 대한 설명입니다. 마신 우유의 양이 가장 적은 사람은 누구인지 구해 보세요. $\\bullet$ 민구는 $5\\frac{3}{8}$ L의 우유를 마셨습니다. $\\bullet$ 영희는 $6\\frac{2}{8}$ L의 우유를 마셨습니다. $\\bullet$ 성수는 민구보다 $1\\frac{1}{8}$ L의 우유를 적게 마셨습니다. $\\bullet$ 유리는 영희보다 $1\\frac{5}{8}$ L의 우유를 적게 마셨습니다."
+        }
+      ]
+    }
+  ]
+}

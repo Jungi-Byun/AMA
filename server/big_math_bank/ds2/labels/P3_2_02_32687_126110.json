@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P3_2_02_32687_126110.png",
+  "id": "32687_126110",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 67,
+      "question_success_rate": 91.48
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도로 한 쪽에 처음부터 끝까지 나무를 $5$ m 간격으로 심으려고 합니다. 도로의 길이가 $345$ m일 때 나무는 모두 몇 그루 필요한지 구해 보세요. (단, 나무의 두께는 생각하지 않습니다.) (1) 나무 사이의 간격은 몇 군데인지 구해 보세요. (2) 필요한 나무는 모두 몇 그루인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            585,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            597,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            533,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            104,
+            467,
+            131
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            376,
+            467,
+            403
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            132
+          ],
+          "text": "도로 한 쪽에 처음부터 끝까지 나무를 $5$ m 간격으로 심으려고 합니다. 도로의 길이가 $345$ m일 때 나무는 모두 몇 그루 필요한지 구해 보세요. (단, 나무의 두께는 생각하지 않습니다.) (1) 나무 사이의 간격은 몇 군데인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            374,
+            469,
+            405
+          ],
+          "text": "(2) 필요한 나무는 모두 몇 그루인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

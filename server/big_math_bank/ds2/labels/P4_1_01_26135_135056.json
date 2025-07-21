@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_01_26135_135056.png",
+  "id": "26135_135056",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101009",
+      "question_topic_name": "억",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 216,
+      "question_success_rate": 90.91
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "호석이가 가진 모형 돈을 세어 보니 $1$억 원짜리가 $432$ 장, 만 원 짜리가 $508$ 장, $1$ 원 짜리가 $8590$ 개였습니다. 호석이가 가진 모형 돈은 모두 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            590,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            342,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1.5,
+            1.5,
+            597.5,
+            89.5
+          ],
+          "text": "호석이가 가진 모형 돈을 세어 보니 $1$억 원짜리가 $432$ 장, 만 원 짜리가 $508$ 장, $1$ 원 짜리가 $8590$ 개였습니다. 호석이가 가진 모형 돈은 모두 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

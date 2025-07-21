@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P4_2_01_33088_126908.png",
+  "id": "33088_126908",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201012",
+      "question_topic_name": "(대분수)-(대분수)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 98,
+      "question_success_rate": 89.47
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "제과점, 병원, 학교, 집이 순서대로 일직선상에 위치할 때, 제과점에서 병원까지는 2와 1/7 km, 학교에서 집까지는 3과 2/7 km 임을 나타낸 그림",
+      "question_text": "제과점에서 집까지의 거리는 $6\\frac{4}{7} km$입니다. 그림을 보고 병원에서 학교까지의 거리는 몇 $km$인지 구해 보세요. (1) 병원에서 집까지의 거리는 몇 $km$인지 구해 보세요. (2) 병원에서 학교까지의 거리는 몇 $km$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            589,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            464,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            278,
+            517,
+            305
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            517,
+            539,
+            544
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            41,
+            93,
+            558,
+            244
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            591,
+            74
+          ],
+          "text": "제과점에서 집까지의 거리는 $6\\frac{4}{7} km$입니다. 그림을 보고 병원에서 학교까지의 거리는 몇 $km$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            276,
+            519,
+            307
+          ],
+          "text": "(1) 병원에서 집까지의 거리는 몇 $km$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            515,
+            541,
+            546
+          ],
+          "text": "(2) 병원에서 학교까지의 거리는 몇 $km$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

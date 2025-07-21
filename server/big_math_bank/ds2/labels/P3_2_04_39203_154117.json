@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_2_04_39203_154117.png",
+  "id": "39203_154117",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204005",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 97,
+      "question_success_rate": 87.21
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "꽃 시장에서 장미꽃을 $3$ 송이씩 묶어 팔고 있습니다. 은수는 분홍 장미꽃을 $3$ 송이, 노란 장미꽃을 $6$ 송이 샀습니다. 다음 그림을 보고 분홍 장미꽃의 수는 전체 장미꽃의 수의 얼마인지 분수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            33,
+            592,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            3,
+            63,
+            578,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            93,
+            216,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            145,
+            140,
+            453,
+            379
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            119
+          ],
+          "text": "꽃 시장에서 장미꽃을 $3$ 송이씩 묶어 팔고 있습니다. 은수는 분홍 장미꽃을 $3$ 송이, 노란 장미꽃을 $6$ 송이 샀습니다. 다음 그림을 보고 분홍 장미꽃의 수는 전체 장미꽃의 수의 얼마인지 분수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

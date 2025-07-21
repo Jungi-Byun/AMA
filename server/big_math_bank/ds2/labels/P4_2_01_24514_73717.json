@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_01_24514_73717.png",
+  "id": "24514_73717",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 149,
+      "question_success_rate": 79.54
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 피자집에 밀가루가 $7\\frac{5}{10}$ 컵이 있습니다. 피자 한 판을 만드는 데 밀가루가 $2\\frac{2}{10}$ 컵이 필요합니다. 만들 수 있는 피자는 모두 몇 판이고, 남는 밀가루는 몇 컵인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            584,
+            41
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            45,
+            584,
+            85
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            92,
+            518,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            586,
+            119
+          ],
+          "text": "어느 피자집에 밀가루가 $7\\frac{5}{10}$ 컵이 있습니다. 피자 한 판을 만드는 데 밀가루가 $2\\frac{2}{10}$ 컵이 필요합니다. 만들 수 있는 피자는 모두 몇 판이고, 남는 밀가루는 몇 컵인지 구해 보세요. "
+        }
+      ]
+    }
+  ]
+}

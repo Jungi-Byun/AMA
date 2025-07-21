@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_03_25885_135617.png",
+  "id": "25885_135617",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103003",
+      "question_topic_name": "똑같이 나누기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 132,
+      "question_success_rate": 76.67
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "총 30개의 지우개를 일정한 간격으로 한 줄에 6개씩 5줄의 배열로 나열한 그림",
+      "question_text": "지우개 $30$ 개를 한 명에게 $6$ 개씩 주려고 합니다. 몇 명에게 나누어 줄 수 있는지 두 가지 방법으로 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            586,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            469,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            169,
+            87,
+            428,
+            225
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            588,
+            59
+          ],
+          "text": "지우개 $30$ 개를 한 명에게 $6$ 개씩 주려고 합니다. 몇 명에게 나누어 줄 수 있는지 두 가지 방법으로 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

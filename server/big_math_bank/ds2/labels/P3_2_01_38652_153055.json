@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_2_01_38652_153055.png",
+  "id": "38652_153055",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201009",
+      "question_topic_name": "(몇십)×(몇십), (몇십몇)×(몇십몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 153,
+      "question_success_rate": 63.49
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로인 도로의 양쪽인 위, 아래에 검은색 선분이 있고, 위, 아래 선분에는 각각 같은 모양의 나무 그림이 좌측부터 순서대로 3개가 있고, 3번째 나무 옆에 같은 모양으로 계속 그려진다는 의미의 여섯개의 점인 줄임표가 나란히 있고 그 옆에는 같은 모양의 나무가 2개가 있고, 각 나무와 선분이 접하는 접점이 표시되어 있고, 좌측 첫 번째 나무와 우측 첫 번째 나무는 선분의 끝점에 위치하고, 위쪽 첫 번째 나무와 두 번째 나무의 간격이 30 m인 그림",
+      "question_text": "도로의 양쪽에 처음부터 끝까지 나무를 $24$ 그루 심었습니다. 나무 사이의 간격이 $30$ $m$가 되도록 심었다면 이 도로의 길이는 몇 $m$인지 구해 보세요. (단, 나무의 두께는 생각하지 않습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            574,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            593,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            63,
+            563,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            37,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            74,
+            133,
+            522,
+            267
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            121
+          ],
+          "text": "도로의 양쪽에 처음부터 끝까지 나무를 $24$ 그루 심었습니다. 나무 사이의 간격이 $30$ $m$가 되도록 심었다면 이 도로의 길이는 몇 $m$인지 구해 보세요. (단, 나무의 두께는 생각하지 않습니다.)"
+        }
+      ]
+    }
+  ]
+}

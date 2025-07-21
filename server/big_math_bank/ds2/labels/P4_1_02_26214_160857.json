@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_02_26214_160857.png",
+  "id": "26214_160857",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102016",
+      "question_topic_name": "삼각형과 사각형의 각의 크기의 합",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 82,
+      "question_success_rate": 91.43
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민혁이와 경훈이가 각도기를 이용하여 삼각형의 세 각의 크기를 재었습니다. 각도를 잘못 잰 사람은 누구인가요?  <table border> <tbody> <tr> <td>민혁</td> <td>$25\\degree$, $60\\degree$, $85\\degree$</td> </tr> <tr> <td>경훈</td> <td>$70\\degree$, $35\\degree$, $75\\degree$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            588,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            33,
+            490,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            132,
+            71,
+            465,
+            156
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            590,
+            158
+          ],
+          "text": "민혁이와 경훈이가 각도기를 이용하여 삼각형의 세 각의 크기를 재었습니다. 각도를 잘못 잰 사람은 누구인가요?  <table border> <tbody> <tr> <td>민혁</td> <td>$25\\degree$, $60\\degree$, $85\\degree$</td> </tr> <tr> <td>경훈</td> <td>$70\\degree$, $35\\degree$, $75\\degree$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

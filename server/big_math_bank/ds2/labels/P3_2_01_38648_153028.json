@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_01_38648_153028.png",
+  "id": "38648_153028",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201009",
+      "question_topic_name": "(몇십)×(몇십), (몇십몇)×(몇십몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 167,
+      "question_success_rate": 68.44
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 카드 $2$,$3$,$7$,$0$ 을 모두 한 번씩만 사용하여 $(몇십몇)\\times(몇십)$의 곱셈식을 만들려고 합니다. 계산 결과가 가장 큰 곱셈식을 만들고 계산해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            475,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            41,
+            574,
+            68
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            71,
+            386,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            576,
+            97
+          ],
+          "text": "수 카드 $2$,$3$,$7$,$0$ 을 모두 한 번씩만 사용하여 $(몇십몇)\\times(몇십)$의 곱셈식을 만들려고 합니다. 계산 결과가 가장 큰 곱셈식을 만들고 계산해 보세요."
+        }
+      ]
+    }
+  ]
+}

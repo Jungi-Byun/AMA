@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_05_24191_72015.png",
+  "id": "24191_72015",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205027",
+      "question_topic_name": "무게의 덧셈과 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 39,
+      "question_success_rate": 94.74
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "명수, 성규, 우현 세 사람이 $4 kg 400 g$인 컴퓨터의 무게를 다음과 같이 어림하였습니다. 가장 가깝게 어림한 사람은 누구인가요? $\\\\$<table border> <thead>   <tr>     <th>명수</th>     <th>성규</th>     <th>우현</th>   </tr> </thead> <tbody>   <tr>     <td>4kg 200g</td>     <td>4500g</td>     <td>4650g</td>   </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            591,
+            31
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            595,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            65,
+            34,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            118,
+            100,
+            479,
+            179
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            181
+          ],
+          "text": "명수, 성규, 우현 세 사람이 $4 kg 400 g$인 컴퓨터의 무게를 다음과 같이 어림하였습니다. 가장 가깝게 어림한 사람은 누구인가요? $\\\\$<table border> <thead>   <tr>     <th>명수</th>     <th>성규</th>     <th>우현</th>   </tr> </thead> <tbody>   <tr>     <td>4kg 200g</td>     <td>4500g</td>     <td>4650g</td>   </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_05_34343_136444.png",
+  "id": "34343_136444",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105008",
+      "question_topic_name": "길이를 나타낸 수를 보고 단위 선택하기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 212,
+      "question_success_rate": 66.67
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "옳은 문장을 찾아 기호를 선택해 보세요.  ㄱ. 학교의 높이는 약 $19 km$입니다. ㄴ. 책장의 높이는 약 $180 cm$입니다. ㄷ. 색종이 한 변의 길이는 약 $150 m$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            6,
+            3,
+            386,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            86,
+            102,
+            430,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            86,
+            141,
+            497,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            81.22,
+            58.39,
+            443.22,
+            94.39
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            502,
+            170
+          ],
+          "text": "옳은 문장을 찾아 기호를 선택해 보세요.  ㄱ. 학교의 높이는 약 $19 km$입니다. ㄴ. 책장의 높이는 약 $180 cm$입니다. ㄷ. 색종이 한 변의 길이는 약 $150 m$입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_03_39049_153663.png",
+  "id": "39049_153663",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203005",
+      "question_topic_name": "지름과 반지름 사이의 관계 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 200,
+      "question_success_rate": 82.15
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형 안에 크기가 각각 같은 큰 원 2개인 원 ㄱ과 원 ㄷ, 작은 원 2개인 원 ㄴ과 원 ㄹ을 직사각형의 좌측변을 기준으로 원 ㄱ, ㄴ, ㄷ, ㄹ 순으로 원의 중점이 일직선 상에 오도록 겹치지 않게 이어붙인 선분 ㄱㄹ이 있는 가로의 길이가 28 cm이고 세로의 길이가 10 cm인 직사각형",
+      "question_text": "그림과 같이 직사각형 안에 크기가 각각 같은 큰 원 $2$ 개와 작은 원 $2$개를 겹치지 않게 이어 붙여서 그렸습니다. 선분 $ㄱㄹ$의 길이는 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            576,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            325,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            128,
+            109,
+            472,
+            239
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            89
+          ],
+          "text": "그림과 같이 직사각형 안에 크기가 각각 같은 큰 원 $2$ 개와 작은 원 $2$개를 겹치지 않게 이어 붙여서 그렸습니다. 선분 $ㄱㄹ$의 길이는 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

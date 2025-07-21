@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_01_34275_135196.png",
+  "id": "34275_135196",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101010",
+      "question_topic_name": "받아올림이 있는 세 자리 수의 덧셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1,
+      "question_rtime": 92,
+      "question_success_rate": 85.92
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "음식의 열량을 나타낸 2행 3열의 표에서 1행에는 차례대로 초콜릿과 초콜릿의 그림, 케이크와 케이크의 그림, 빵과 빵의 그림이 나와있고 2행에는 차례대로 1 봉지 237 kcal, 1 조각 345 kcal, 1 개 486 kcal라고 적혀있는 그림",
+      "question_text": "열량은 음식을 먹었을 때 몸 속에서 발생하는 에너지의 양입니다. 영수는 초콜릿 $2$ 봉지와 케이크 $1$ 조각을 먹었습니다. 영수가 먹은 음식의 열량은 모두 몇 킬로칼로리인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            593,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            590,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            579,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            105,
+            568,
+            378
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            595,
+            89
+          ],
+          "text": "열량은 음식을 먹었을 때 몸 속에서 발생하는 에너지의 양입니다. 영수는 초콜릿 $2$ 봉지와 케이크 $1$ 조각을 먹었습니다. 영수가 먹은 음식의 열량은 모두 몇 킬로칼로리인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

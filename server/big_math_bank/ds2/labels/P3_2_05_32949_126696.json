@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_05_32949_126696.png",
+  "id": "32949_126696",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "3205013",
+      "question_topic_name": "들이의 덧셈과 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 95,
+      "question_success_rate": 81.25
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "우유 $2 L 300 mL$ 중에서 제인이는 $750 mL$를 마셨고 나연이는 $370 mL$를 마셨습니다. 남은 우유는 몇 $L$ 몇 $mL$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            583,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            586,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            65,
+            29,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            588,
+            87
+          ],
+          "text": "우유 $2 L 300 mL$ 중에서 제인이는 $750 mL$를 마셨고 나연이는 $370 mL$를 마셨습니다. 남은 우유는 몇 $L$ 몇 $mL$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

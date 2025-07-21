@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_02_38858_153647.png",
+  "id": "38858_153647",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202002",
+      "question_topic_name": "내림이 있는 (몇십)÷(몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 217,
+      "question_success_rate": 79.19
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미소와 나래가 $70 m$ 떨어진 곳에서 마주 보며 동시에 걷기 시작했습니다. 미소는 $12$ 초에 $3 m$씩 걷고, 나래는 $12$ 초에 $4 m$씩 걷는다면 두 사람이 만나는 때는 출발한지 몇 초 후인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            578,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            590,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            3,
+            63,
+            562,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            89
+          ],
+          "text": "미소와 나래가 $70 m$ 떨어진 곳에서 마주 보며 동시에 걷기 시작했습니다. 미소는 $12$ 초에 $3 m$씩 걷고, 나래는 $12$ 초에 $4 m$씩 걷는다면 두 사람이 만나는 때는 출발한지 몇 초 후인가요?"
+        }
+      ]
+    }
+  ]
+}

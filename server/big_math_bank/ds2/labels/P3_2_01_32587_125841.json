@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_2_01_32587_125841.png",
+  "id": "32587_125841",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201006",
+      "question_topic_name": "십의 자리, 백의 자리에서 올림이 있는 (세 자리 수)×(한 자리 수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 115,
+      "question_success_rate": 72.53
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "은규와 주연이는 각자 가지고 있는 끈을 남김없이 사용하여 서로 다른 도형을 한 개씩 만들었습니다. 은규는 한 변이 $122 cm$인 정사각형을 만들고, 주연이는 한 변이 $175 cm$로 세 변의 길이가 모두 같은 삼각형을 만들었습니다. 두 사람 중 누가 사용한 끈의 길이가 몇 $cm$ 더 긴지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            593,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            586,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            583,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            584,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            123,
+            408,
+            148
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            595,
+            149
+          ],
+          "text": "은규와 주연이는 각자 가지고 있는 끈을 남김없이 사용하여 서로 다른 도형을 한 개씩 만들었습니다. 은규는 한 변이 $122 cm$인 정사각형을 만들고, 주연이는 한 변이 $175 cm$로 세 변의 길이가 모두 같은 삼각형을 만들었습니다. 두 사람 중 누가 사용한 끈의 길이가 몇 $cm$ 더 긴지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

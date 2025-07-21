@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_01_39724_155624.png",
+  "id": "39724_155624",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201012",
+      "question_topic_name": "(대분수)-(대분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 184,
+      "question_success_rate": 73.15
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "직사각형의 가로는 $7\\frac{11}{19}$ cm이고 세로는 가로보다 $4\\frac{8}{19}$ cm 더 짧습니다. 이 직사각형의 네 변의 길이의 합은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            580,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            588,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            78,
+            73,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            590,
+            104
+          ],
+          "text": "직사각형의 가로는 $7\\frac{11}{19}$ cm이고 세로는 가로보다 $4\\frac{8}{19}$ cm 더 짧습니다. 이 직사각형의 네 변의 길이의 합은 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

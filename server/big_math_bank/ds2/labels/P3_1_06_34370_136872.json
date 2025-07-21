@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_06_34370_136872.png",
+  "id": "34370_136872",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106015",
+      "question_topic_name": "소수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 97,
+      "question_success_rate": 89.66
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$㉠$과 $㉡$에 알맞은 수의 합을 구해 보세요. $\\bullet$ $0.1$이 $㉠$ 개이면 $2.3$입니다. $\\bullet$ $5.6$은 $0.1$이 $㉡$ 개입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            392,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            119,
+            64,
+            393,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            119,
+            102,
+            371,
+            127
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            421,
+            135
+          ],
+          "text": "$㉠$과 $㉡$에 알맞은 수의 합을 구해 보세요. $\\bullet$ $0.1$이 $㉠$ 개이면 $2.3$입니다. $\\bullet$ $5.6$은 $0.1$이 $㉡$ 개입니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_01_38649_153037.png",
+  "id": "38649_153037",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201009",
+      "question_topic_name": "(몇십)×(몇십), (몇십몇)×(몇십몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 153,
+      "question_success_rate": 86.87
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 공장에 장난감을 $1$ 시간 동안 $30$ 개씩 만드는 기계가 있습니다. 이 기계로 쉬지 않고 $24$ 시간 동안 장난감을 만들었습니다. 만든 장난감을 한 상자에 $21$ 개씩 담아서 $20$ 상자를 팔았다면 팔고 남은 장난감은 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            583,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            591,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            3,
+            93,
+            441,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            119
+          ],
+          "text": "어느 공장에 장난감을 $1$ 시간 동안 $30$ 개씩 만드는 기계가 있습니다. 이 기계로 쉬지 않고 $24$ 시간 동안 장난감을 만들었습니다. 만든 장난감을 한 상자에 $21$ 개씩 담아서 $20$ 상자를 팔았다면 팔고 남은 장난감은 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

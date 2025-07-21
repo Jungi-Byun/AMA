@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_01_26109_160456.png",
+  "id": "26109_160456",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101003",
+      "question_topic_name": "다섯 자리 수",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 138,
+      "question_success_rate": 93.33
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현주가 어버이날 선물을 사기 위해 $10000 원$짜리 지폐 $8 장$, $1000 원$짜리 지폐 $2 장$, $100 원$짜리 동전 $5 개$를 모았습니다. 현주가 모은 돈은 모두 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            564,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            587,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            414,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            89
+          ],
+          "text": "현주가 어버이날 선물을 사기 위해 $10000 원$짜리 지폐 $8 장$, $1000 원$짜리 지폐 $2 장$, $100 원$짜리 동전 $5 개$를 모았습니다. 현주가 모은 돈은 모두 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

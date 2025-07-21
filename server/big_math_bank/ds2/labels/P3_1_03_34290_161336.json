@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_1_03_34290_161336.png",
+  "id": "34290_161336",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103009",
+      "question_topic_name": "곱셈과 나눗셈의 관계",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 82,
+      "question_success_rate": 93.6
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지우개가 $7$ 개씩 $5$ 줄로 놓여 있습니다.$ ㉠$과 $㉡$의 합을 구해 보세요. $7$상자에 똑같이 나누어 담으려면 한 상자에 지우개를   $㉠$개씩 담아야 합니다. 한 상자에 $5$ 개씩 담으려면 $㉡$상자가 필요합니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            591,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            51,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            46,
+            337,
+            555,
+            362
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            65,
+            367,
+            314,
+            392
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            45,
+            397,
+            539,
+            422
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            166,
+            80,
+            432,
+            290
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            166,
+            80,
+            432,
+            290
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "지우개가 $7$ 개씩 $5$ 줄로 놓여 있습니다.$ ㉠$과 $㉡$의 합을 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            44,
+            336,
+            557,
+            423
+          ],
+          "text": "$7$상자에 똑같이 나누어 담으려면 한 상자에 지우개를   $㉠$개씩 담아야 합니다. 한 상자에 $5$ 개씩 담으려면 $㉡$상자가 필요합니다."
+        }
+      ]
+    }
+  ]
+}

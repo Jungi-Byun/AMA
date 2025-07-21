@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_04_32824_126598.png",
+  "id": "32824_126598",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204011",
+      "question_topic_name": "대분수, 대분수를 가분수로, 가분수를 대분수로 만들어 보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 69,
+      "question_success_rate": 93.24
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$4$ 장의 수 카드 중 $3$ 장을 골라 한 번씩만 사용하여 대분수를 만들려고 합니다. 만들 수 있는 분수 중 분자가 $6$인 대분수를 모두 구해 보세요. $7~4~6~3$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            579,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            150,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            188,
+            103,
+            383,
+            164
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            166
+          ],
+          "text": "$4$ 장의 수 카드 중 $3$ 장을 골라 한 번씩만 사용하여 대분수를 만들려고 합니다. 만들 수 있는 분수 중 분자가 $6$인 대분수를 모두 구해 보세요. $7~4~6~3$"
+        }
+      ]
+    }
+  ]
+}

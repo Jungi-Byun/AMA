@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_01_24383_73066.png",
+  "id": "24383_73066",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201003",
+      "question_topic_name": "(진분수)+(진분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1,
+      "question_rtime": 59,
+      "question_success_rate": 91.11
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나연이와 태훈이는 이어달리기를 하였습니다. 나연이는 $\\frac{8}{15} km$를 달렸고, 태훈이는 $\\frac{11}{15} km$를 달렸습니다. 두 사람이 이어 달린 거리는 모두 몇 $km$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            569,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            45,
+            583,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            92,
+            398,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            585,
+            118
+          ],
+          "text": "나연이와 태훈이는 이어달리기를 하였습니다. 나연이는 $\\frac{8}{15} km$를 달렸고, 태훈이는 $\\frac{11}{15} km$를 달렸습니다. 두 사람이 이어 달린 거리는 모두 몇 $km$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

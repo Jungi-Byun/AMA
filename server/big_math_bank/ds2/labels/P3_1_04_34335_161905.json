@@ -1,0 +1,141 @@
+﻿{
+  "question_filename": "P3_1_04_34335_161905.png",
+  "id": "34335_161905",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104002",
+      "question_topic_name": "(몇십) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 104,
+      "question_success_rate": 93.55
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 학생의 대화를 읽고 물음에 답하세요. 혁준 : 나는 구슬을 $10$개 가지고 있어. 주하 : 나는 혁준이가 가지고 있는 구슬 수의 $3$ 배만큼 가지고 있어. 민수 :나는 주하가 가지고 있는 구슬 수의 $8$ 배만큼 가지고 있어. (1) 주하가 가지고 있는 구슬은 몇 개인지 구해 보세요. (2) 민수가 가지고 있는 구슬은 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            3,
+            386,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            64,
+            384,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            94,
+            561,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            86,
+            128,
+            186,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            154,
+            558,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            85,
+            188,
+            164,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            292,
+            517,
+            319
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            424,
+            517,
+            451
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            565,
+            221
+          ],
+          "text": "세 학생의 대화를 읽고 물음에 답하세요. 혁준 : 나는 구슬을 $10$개 가지고 있어. 주하 : 나는 혁준이가 가지고 있는 구슬 수의 $3$ 배만큼 가지고 있어. 민수 :나는 주하가 가지고 있는 구슬 수의 $8$ 배만큼 가지고 있어."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            290,
+            519,
+            321
+          ],
+          "text": "(1) 주하가 가지고 있는 구슬은 몇 개인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            422,
+            519,
+            453
+          ],
+          "text": "(2) 민수가 가지고 있는 구슬은 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

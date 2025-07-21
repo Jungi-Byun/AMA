@@ -1,0 +1,131 @@
+﻿{
+  "question_filename": "P4_2_01_24515_82448.png",
+  "id": "24515_82448",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 77,
+      "question_success_rate": 91.13
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 현주, 지혜, 민호, 경수가 일주일 동안 먹는 사과의 양에 대한 설명입니다. 먹는 사과의 양이 가장 적은 사람은 누구인지 구해 보세요.  $\\bullet$ 현주는 $6\\frac{3}{5}$ 개의 사과를 먹었습니다. $\\bullet$  지혜는 $6\\frac{1}{5}$ 개의 사과를 먹었습니다. $\\bullet$  민호는 현주보다 $3\\frac{1}{5}$ 개의 사과를 적게 먹었습니다. $\\bullet$  경수는 지혜보다 $1\\frac{4}{5}$ 개의 사과를 적게 먹었습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            594,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            577,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            150,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            60,
+            125,
+            427,
+            165
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            60,
+            170,
+            427,
+            209
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            60,
+            214,
+            541,
+            254
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            55,
+            262,
+            82,
+            287
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            60,
+            288,
+            541,
+            328
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            55,
+            336,
+            82,
+            361
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            369
+          ],
+          "text": "다음은 현주, 지혜, 민호, 경수가 일주일 동안 먹는 사과의 양에 대한 설명입니다. 먹는 사과의 양이 가장 적은 사람은 누구인지 구해 보세요.  $\\bullet$ 현주는 $6\\frac{3}{5}$ 개의 사과를 먹었습니다. $\\bullet$  지혜는 $6\\frac{1}{5}$ 개의 사과를 먹었습니다. $\\bullet$  민호는 현주보다 $3\\frac{1}{5}$ 개의 사과를 적게 먹었습니다. $\\bullet$  경수는 지혜보다 $1\\frac{4}{5}$ 개의 사과를 적게 먹었습니다."
+        }
+      ]
+    }
+  ]
+}

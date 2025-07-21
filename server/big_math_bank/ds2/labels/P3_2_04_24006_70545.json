@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_04_24006_70545.png",
+  "id": "24006_70545",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 157,
+      "question_success_rate": 84.02
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민철이는 새로 산 건전지 $48$ 개 중 $\\frac{1}{6}$은 윤희에게 주고, $\\frac{3}{8}$은 태수에게 주었습니다. 윤희와 태수에게 준 건전지는 각각 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            1,
+            594,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            577,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            78,
+            172,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            596,
+            104
+          ],
+          "text": "민철이는 새로 산 건전지 $48$ 개 중 $\\frac{1}{6}$은 윤희에게 주고, $\\frac{3}{8}$은 태수에게 주었습니다. 윤희와 태수에게 준 건전지는 각각 몇 개인지 구해 보세요. "
+        }
+      ]
+    }
+  ]
+}

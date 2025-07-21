@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_01_23237_63930.png",
+  "id": "23237_63930",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101018",
+      "question_topic_name": "받아내림이 있는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 196,
+      "question_success_rate": 72.53
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 수 중에서 두 수를 골라 차가 가장 작게 나오도록 식을 만들어 보려고 합니다.  $□$안에 알맞은 수를 써넣으세요. $108$     $505$     $399$     $787$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            32,
+            524,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            119,
+            83,
+            479,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            104
+          ],
+          "text": "다음 수 중에서 두 수를 골라 차가 가장 작게 나오도록 식을 만들어 보려고 합니다.  $□$안에 알맞은 수를 써넣으세요. $108$     $505$     $399$     $787$"
+        }
+      ]
+    }
+  ]
+}

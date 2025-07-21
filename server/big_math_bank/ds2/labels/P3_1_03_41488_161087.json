@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_1_03_41488_161087.png",
+  "id": "41488_161087",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103003",
+      "question_topic_name": "똑같이 나누기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 170,
+      "question_success_rate": 83.58
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "빨간색 컵이 $28$ 개, 노란색 컵이 $30$ 개 있습니다. 빨간색 컵은 한 사람이 $4$ 개씩 모두 나누어 가졌고, 노란색 컵은 한 사람이 $6$ 개씩 모두 나누어 가졌습니다. 어떤 색 컵을 가진 사람이 몇 명 더 많은지 구해 보세요. (단, 한 사람은 한 가지 색 컵만 가집니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            574,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            595,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            588,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            584,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            123,
+            37,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            151
+          ],
+          "text": "빨간색 컵이 $28$ 개, 노란색 컵이 $30$ 개 있습니다. 빨간색 컵은 한 사람이 $4$ 개씩 모두 나누어 가졌고, 노란색 컵은 한 사람이 $6$ 개씩 모두 나누어 가졌습니다. 어떤 색 컵을 가진 사람이 몇 명 더 많은지 구해 보세요. (단, 한 사람은 한 가지 색 컵만 가집니다.)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_04_21633_68239.png",
+  "id": "21633_68239",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104006",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 52,
+      "question_success_rate": 79.87
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밭에서 고구마를 $360$ 개 수확했습니다. 이 고구마를 한 상자에 $41$ 개씩 담아 $8$ 상자를 판매했다면 남은 고구마는 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            589,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            100,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            89
+          ],
+          "text": "밭에서 고구마를 $360$ 개 수확했습니다. 이 고구마를 한 상자에 $41$ 개씩 담아 $8$ 상자를 판매했다면 남은 고구마는 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

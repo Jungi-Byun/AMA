@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_1_04_41873_162956.png",
+  "id": "41873_162956",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104009",
+      "question_topic_name": "돌리기의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 106,
+      "question_success_rate": 85.28
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민지가 철봉에 거꾸로 매달렸을 때 벽에 걸려 있는 시계를 보았더니 다음과 같았습니다. 민지가 철봉에 $7$ 분 동안 매달려 있었다면 민지가 철봉에서 내려온 시각은 몇 시 몇 분인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            578,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            73,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            194,
+            140,
+            403,
+            237
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            119
+          ],
+          "text": "민지가 철봉에 거꾸로 매달렸을 때 벽에 걸려 있는 시계를 보았더니 다음과 같았습니다. 민지가 철봉에 $7$ 분 동안 매달려 있었다면 민지가 철봉에서 내려온 시각은 몇 시 몇 분인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_2_01_24473_73330.png",
+  "id": "24473_73330",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201012",
+      "question_topic_name": "(대분수)-(대분수)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 52,
+      "question_success_rate": 93.94
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도준이네는 명절이 되면 큰아버지 댁에서 차례를 지냅니다. 차례상을 차리기 위해 차례상의 길이를 재어 보니 가로는 $2\\frac{4}{6} m$이고, 세로는 $1\\frac{1}{6} m$인 직사각형 모양이었습니다. 차례상의 가로는 세로보다 몇 $m$ 더 긴지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            29,
+            587,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            75,
+            586,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            122,
+            392,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            107,
+            175,
+            491,
+            368
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            148
+          ],
+          "text": "도준이네는 명절이 되면 큰아버지 댁에서 차례를 지냅니다. 차례상을 차리기 위해 차례상의 길이를 재어 보니 가로는 $2\\frac{4}{6} m$이고, 세로는 $1\\frac{1}{6} m$인 직사각형 모양이었습니다. 차례상의 가로는 세로보다 몇 $m$ 더 긴지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

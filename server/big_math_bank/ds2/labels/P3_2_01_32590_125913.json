@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_01_32590_125913.png",
+  "id": "32590_125913",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201009",
+      "question_topic_name": "(몇십)×(몇십), (몇십몇)×(몇십몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 58,
+      "question_success_rate": 89.87
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "형진이와 가희 중 바르게 말한 사람은 누구인가요? 형진 : $1$ 시간은 $60$ 분이니까 $20$ 시간은 $1200$ 분이야. 가희 : $1$ 분은 $60$ 초니까 $50$ 분은 $300$ 초야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            485,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69,
+            68,
+            513,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            70,
+            98,
+            119,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69,
+            128,
+            463,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            555,
+            182
+          ],
+          "text": "형진이와 가희 중 바르게 말한 사람은 누구인가요? 형진 : $1$ 시간은 $60$ 분이니까 $20$ 시간은 $1200$ 분이야. 가희 : $1$ 분은 $60$ 초니까 $50$ 분은 $300$ 초야."
+        }
+      ]
+    }
+  ]
+}

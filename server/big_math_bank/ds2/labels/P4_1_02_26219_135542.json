@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P4_1_02_26219_135542.png",
+  "id": "26219_135542",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102016",
+      "question_topic_name": "삼각형과 사각형의 각의 크기의 합",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 159,
+      "question_success_rate": 85.45
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직선 위에 그려진 사각형의 네 점의 각이 각각 ㄱ, ㄴ, ㄷ, ㄹ이고, 밑변을 이루는 두 점에 대한 외각의 크기가 각각 70도, 60도이고 각 ㄱ과 각 ㄹ은 예각인 사각형",
+      "question_text": "사각형에서 ㉠과 ㉣의 합은 몇 도인지 구해 보세요. (1) ㉡과 ㉢은 각각 몇 도인지 구해 보세요.  (2) ㉠과 ㉣의 합은 몇 도인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            483,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            291,
+            401,
+            318
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            468.41,
+            404.82,
+            502.41
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            147,
+            56,
+            450,
+            223
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            487,
+            30
+          ],
+          "text": "사각형에서 ㉠과 ㉣의 합은 몇 도인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            285.86,
+            417.82,
+            327.86
+          ],
+          "text": "(1) ㉡과 ㉢은 각각 몇 도인지 구해 보세요. "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            468.41,
+            405.82,
+            502.41
+          ],
+          "text": "(2) ㉠과 ㉣의 합은 몇 도인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

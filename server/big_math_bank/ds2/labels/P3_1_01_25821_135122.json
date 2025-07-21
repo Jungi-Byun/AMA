@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_01_25821_135122.png",
+  "id": "25821_135122",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101014",
+      "question_topic_name": "받아내림이 없는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 77,
+      "question_success_rate": 77.99
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민희가 계산한 값은 얼마인지 구해 보세요. 재훈 : 어떤 수에 $213$을 더했더니 $786$이 되었어. 민희 : 그럼 나는 어떤 수에서 $213$을 빼 볼래.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            408,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            69,
+            68,
+            517,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            71,
+            98,
+            489,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            534,
+            131
+          ],
+          "text": "민희가 계산한 값은 얼마인지 구해 보세요. 재훈 : 어떤 수에 $213$을 더했더니 $786$이 되었어. 민희 : 그럼 나는 어떤 수에서 $213$을 빼 볼래. "
+        }
+      ]
+    }
+  ]
+}

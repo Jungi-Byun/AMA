@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_04_26396_136272.png",
+  "id": "26396_136272",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104006",
+      "question_topic_name": "밀기와 뒤집기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 91,
+      "question_success_rate": 70.99
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 변의 길이가 1 cm인 정사각형이 5행 11열로 이루어진 방안지 위에 맨 아랫줄부터 세 줄의 왼쪽 두 번째 칸과 아래 두 번째 줄 왼쪽 3, 4번째 칸 5칸으로 이루어진 '한글 자음 ㅏ' 모양인 가 도형과 가 도형에서 오른쪽으로 6 cm, 위쪽으로 2 cm 떨어진 위치에 합동인 나 도형이 있는 그림",
+      "question_text": "㉮ 도형을 오른쪽으로 $□$ $cm$ 밀고 위쪽으로 $△$ $cm$ 밀면 ㉯ 도형이 됩니다. $□$와 $△$의 합을 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            588,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            365,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            102.16,
+            74.73,
+            451.16,
+            236.73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            590,
+            59
+          ],
+          "text": "㉮ 도형을 오른쪽으로 $□$ $cm$ 밀고 위쪽으로 $△$ $cm$ 밀면 ㉯ 도형이 됩니다. $□$와 $△$의 합을 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

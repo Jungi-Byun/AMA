@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_06_22114_56564.png",
+  "id": "22114_56564",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106021",
+      "question_topic_name": "단위분수의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 121,
+      "question_success_rate": 92.43
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성재는 물이 가득 담긴 컵의 $\\frac{6}{7}$을 마셨습니다. 마신 물의 양은 남아 있는 물의 양의 몇 배인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            584,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            325,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            586,
+            74
+          ],
+          "text": "성재는 물이 가득 담긴 컵의 $\\frac{6}{7}$을 마셨습니다. 마신 물의 양은 남아 있는 물의 양의 몇 배인가요?"
+        }
+      ]
+    }
+  ]
+}

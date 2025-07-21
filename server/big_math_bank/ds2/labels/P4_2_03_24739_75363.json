@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_03_24739_75363.png",
+  "id": "24739_75363",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203020",
+      "question_topic_name": "소수 한 자리 수의 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 41,
+      "question_success_rate": 93.81
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "병에 음료수가 $3.2$ $L$ 들어 있었습니다. 지희가 친구들과 나누어 마시고 남은 음료수는 $1.5L$입니다. 친구들과 나누어 마신 음료수는 몇 $L$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            573,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            575,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            306,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            577,
+            89
+          ],
+          "text": "병에 음료수가 $3.2$ $L$ 들어 있었습니다. 지희가 친구들과 나누어 마시고 남은 음료수는 $1.5L$입니다. 친구들과 나누어 마신 음료수는 몇 $L$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

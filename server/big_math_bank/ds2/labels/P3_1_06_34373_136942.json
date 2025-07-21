@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_06_34373_136942.png",
+  "id": "34373_136942",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106020",
+      "question_topic_name": "소수의 크기 비교 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 1,
+      "question_rtime": 59,
+      "question_success_rate": 100.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미술 시간에 사용한 리본의 길이는 수호가 $27 mm$ , 백현이가 $3.2 cm$, 정우가 $3 cm 4 mm$입니다. 리본을 가장 많이 사용한 학생은 누구인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            576,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            584,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            171,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            588,
+            89
+          ],
+          "text": "미술 시간에 사용한 리본의 길이는 수호가 $27 mm$ , 백현이가 $3.2 cm$, 정우가 $3 cm 4 mm$입니다. 리본을 가장 많이 사용한 학생은 누구인가요?"
+        }
+      ]
+    }
+  ]
+}

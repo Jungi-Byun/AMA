@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_01_41210_160180.png",
+  "id": "41210_160180",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101014",
+      "question_topic_name": "받아내림이 없는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 137,
+      "question_success_rate": 83.56
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과일 가게에 사과가 $256$ 개, 오렌지가 $294$ 개 있었습니다. 그중에서 사과를 $145$ 개, 오렌지를 $152$ 개 팔았다면 어느 과일이 몇 개 더 많이 남았는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            591,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            590,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            320,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            593,
+            89
+          ],
+          "text": "과일 가게에 사과가 $256$ 개, 오렌지가 $294$ 개 있었습니다. 그중에서 사과를 $145$ 개, 오렌지를 $152$ 개 팔았다면 어느 과일이 몇 개 더 많이 남았는지 구해 보세요. "
+        }
+      ]
+    }
+  ]
+}

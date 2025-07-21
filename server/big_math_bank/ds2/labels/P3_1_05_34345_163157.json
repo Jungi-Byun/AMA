@@ -1,0 +1,141 @@
+﻿{
+  "question_filename": "P3_1_05_34345_163157.png",
+  "id": "34345_163157",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1,
+      "question_rtime": 183,
+      "question_success_rate": 77.14
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "혜빈이가 일요일에 등산했습니다. $7$시 $50$분에 출발하여 $1$시간 $25$분 동안 올라갔다가 쉬지 않고 $1$시간 $12$분 동안 내려왔습니다. 혜빈이가 내려왔을 때의 시각은 몇 시 몇 분인지 구해 보세요. (1) 혜빈이가 등산하는 데 걸린 시간은 몇 시간 몇 분인지 구해 보세요. (2) 혜빈이가 내려왔을 때의 시각은 몇 시 몇 분인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            557,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            583,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            581,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            100,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            172,
+            588,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            203,
+            105,
+            228
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            398,
+            587,
+            425
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            430,
+            29,
+            454
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1.21,
+            0.74,
+            584.89,
+            120.87
+          ],
+          "text": "혜빈이가 일요일에 등산했습니다. $7$시 $50$분에 출발하여 $1$시간 $25$분 동안 올라갔다가 쉬지 않고 $1$시간 $12$분 동안 내려왔습니다. 혜빈이가 내려왔을 때의 시각은 몇 시 몇 분인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            2.43,
+            169.41,
+            589.75,
+            234.94
+          ],
+          "text": "(1) 혜빈이가 등산하는 데 걸린 시간은 몇 시간 몇 분인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            399.52,
+            589.75,
+            457.76
+          ],
+          "text": "(2) 혜빈이가 내려왔을 때의 시각은 몇 시 몇 분인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

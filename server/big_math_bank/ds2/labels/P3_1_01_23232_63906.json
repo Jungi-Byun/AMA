@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P3_1_01_23232_63906.png",
+  "id": "23232_63906",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101018",
+      "question_topic_name": "받아내림이 있는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 165,
+      "question_success_rate": 73.72
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 읽고 영우네 동네 주민과 승규네 동네 주민은 각각 몇 명인지 구해 보세요. 민재 : 우리 동네 주민은 모두 $723$명이야. 영우 : 우리 동네 주민은 민재네 동네 주민보다 $346$명이 더 적어. 승규 : 우리 동네 주민은 영우네 동네 주민보다 $159$ 명이 더 많아.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            578,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            194,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            41,
+            94,
+            432,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            40,
+            124,
+            546,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            158,
+            206,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            39,
+            185,
+            546,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            218,
+            206,
+            243
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            585,
+            272
+          ],
+          "text": "다음을 읽고 영우네 동네 주민과 승규네 동네 주민은 각각 몇 명인지 구해 보세요. 민재 : 우리 동네 주민은 모두 $723$명이야. 영우 : 우리 동네 주민은 민재네 동네 주민보다 $346$명이 더 적어. 승규 : 우리 동네 주민은 영우네 동네 주민보다 $159$ 명이 더 많아."
+        }
+      ]
+    }
+  ]
+}

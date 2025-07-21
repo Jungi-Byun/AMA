@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_05_21874_57345.png",
+  "id": "21874_57345",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 110,
+      "question_success_rate": 83.93
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지연이는 친구와 어제는 $35$분 $50$초, 오늘은 $22$분 $33$초 동안 줄넘기를 하였습니다. 지연이는 오늘보다 어제 몇 분 몇 초 동안 줄넘기를 더 오래 했는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            581,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            584,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            392,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            586,
+            89
+          ],
+          "text": "지연이는 친구와 어제는 $35$분 $50$초, 오늘은 $22$분 $33$초 동안 줄넘기를 하였습니다. 지연이는 오늘보다 어제 몇 분 몇 초 동안 줄넘기를 더 오래 했는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

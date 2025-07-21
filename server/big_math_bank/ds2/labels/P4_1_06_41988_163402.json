@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_1_06_41988_163402.png",
+  "id": "41988_163402",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106003",
+      "question_topic_name": "수의 배열의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 79,
+      "question_success_rate": 94.57
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "규칙적인 수의 배열에서 규칙을 찾아 $●\\times▲$를 구해 보세요. <table border style=\"undefined;table-layout: fixed; width: 312px\"> <colgroup> <col style=\"width: 55.2px\"> <col style=\"width: 55.2px\"> <col style=\"width: 54.2px\"> <col style=\"width: 55.2px\"> <col style=\"width: 51.2px\"> <col style=\"width: 41.2px\"> </colgroup> <tbody>   <tr>     <td></td>     <td>$12$</td>     <td>$23$</td>     <td>$34$</td>     <td>$45$</td>     <td>$55$</td>   </tr>   <tr>     <td>$66$</td>     <td>$5$</td>     <td>$4$</td>     <td>$3$</td>     <td>$2$</td>     <td>$1$</td>   </tr>   <tr>     <td>$77$</td>     <td>$6$</td>     <td>$5$</td>     <td>$●$</td>     <td>$3$</td>     <td>$2$</td>   </tr>   <tr>     <td>$88$</td>     <td>$7$</td>     <td>$6$</td>     <td>$5$</td>     <td>$4$</td>     <td>$3$</td>   </tr>   <tr>     <td>$99$</td>     <td>$8$</td>     <td>$7$</td>     <td>$6$</td>     <td>$▲$</td>     <td>$4$</td>   </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            567,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            167,
+            40,
+            430,
+            270
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            569,
+            272
+          ],
+          "text": "규칙적인 수의 배열에서 규칙을 찾아 $●\\times▲$를 구해 보세요. <table border style=\"undefined;table-layout: fixed; width: 312px\"> <colgroup> <col style=\"width: 55.2px\"> <col style=\"width: 55.2px\"> <col style=\"width: 54.2px\"> <col style=\"width: 55.2px\"> <col style=\"width: 51.2px\"> <col style=\"width: 41.2px\"> </colgroup> <tbody>   <tr>     <td></td>     <td>$12$</td>     <td>$23$</td>     <td>$34$</td>     <td>$45$</td>     <td>$55$</td>   </tr>   <tr>     <td>$66$</td>     <td>$5$</td>     <td>$4$</td>     <td>$3$</td>     <td>$2$</td>     <td>$1$</td>   </tr>   <tr>     <td>$77$</td>     <td>$6$</td>     <td>$5$</td>     <td>$●$</td>     <td>$3$</td>     <td>$2$</td>   </tr>   <tr>     <td>$88$</td>     <td>$7$</td>     <td>$6$</td>     <td>$5$</td>     <td>$4$</td>     <td>$3$</td>   </tr>   <tr>     <td>$99$</td>     <td>$8$</td>     <td>$7$</td>     <td>$6$</td>     <td>$▲$</td>     <td>$4$</td>   </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

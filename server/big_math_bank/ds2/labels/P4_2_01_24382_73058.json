@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_01_24382_73058.png",
+  "id": "24382_73058",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201003",
+      "question_topic_name": "(진분수)+(진분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 54,
+      "question_success_rate": 98.26
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경아와 종민이는 긴 끈 하나를 사용하여 각자 리본을 만들었습니다. 경아는 전체 끈의 $\\frac{3}{10}$을 사용하였고, 종민이는 전체 끈의 $\\frac{4}{10}$를 사용하였습니다. 두 사람이 사용한 끈은 전체의 얼마인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            30,
+            593,
+            71
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            3,
+            74,
+            582,
+            115
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            122,
+            56,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            148
+          ],
+          "text": "경아와 종민이는 긴 끈 하나를 사용하여 각자 리본을 만들었습니다. 경아는 전체 끈의 $\\frac{3}{10}$을 사용하였고, 종민이는 전체 끈의 $\\frac{4}{10}$를 사용하였습니다. 두 사람이 사용한 끈은 전체의 얼마인가요?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P4_2_01_33093_127363.png",
+  "id": "33093_127363",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 67,
+      "question_success_rate": 84.78
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "텃밭에 있는 감자와 당근에 다음과 같이 물을 주어야 합니다. 정아가 물 $1\\frac{4}{5}$ 병을 가지고 텃밭에 갔습니다. 정아에게 더 필요한 물은 몇 병인지 구해 보세요. 감자: 4$\\frac{3}{5}$병, 당근: 2$\\frac{2}{5}$병 (1) 감자와 당근에 주어야 하는 물은 몇 병인지 구해 보세요. (2) 정아에게 더 필요한 물은 몇 병인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            29,
+            591,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            78,
+            297,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            120,
+            115,
+            451,
+            214
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            227,
+            566,
+            254
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1.22,
+            498.22,
+            498.22,
+            528.22
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            255
+          ],
+          "text": "텃밭에 있는 감자와 당근에 다음과 같이 물을 주어야 합니다. 정아가 물 $1\\frac{4}{5}$ 병을 가지고 텃밭에 갔습니다. 정아에게 더 필요한 물은 몇 병인지 구해 보세요. 감자: 4$\\frac{3}{5}$병, 당근: 2$\\frac{2}{5}$병 (1) 감자와 당근에 주어야 하는 물은 몇 병인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            499.22,
+            504.22,
+            529.22
+          ],
+          "text": "(2) 정아에게 더 필요한 물은 몇 병인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

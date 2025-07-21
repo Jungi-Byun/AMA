@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_1_04_41870_162943.png",
+  "id": "41870_162943",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104009",
+      "question_topic_name": "돌리기의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 180,
+      "question_success_rate": 78.68
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 카드의 수에서 어떤 수를 빼야 할 것을 잘못하여 카드를 시계 반대 방향으로 $180\\degree$만큼 돌렸을 때 만들어지는 수에서 어떤 수를 뺐더니 $15$가 되었습니다. 바르게 계산한 값을 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            582,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            592,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            578,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            95,
+            29,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            191,
+            135,
+            406,
+            244
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            594,
+            117
+          ],
+          "text": "수 카드의 수에서 어떤 수를 빼야 할 것을 잘못하여 카드를 시계 반대 방향으로 $180\\degree$만큼 돌렸을 때 만들어지는 수에서 어떤 수를 뺐더니 $15$가 되었습니다. 바르게 계산한 값을 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_03_23891_69865.png",
+  "id": "23891_69865",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203003",
+      "question_topic_name": "원의 중심, 반지름, 지름",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 51,
+      "question_success_rate": 93.51
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "지름이 6 cm인 원과 지름이 8 cm인 원의 중심이 일직선상에 위치하고 한 점에서 접할 때 두 원의 지름의 합을 지름으로 가지고 두 원과 접하는 외부의 큰 원",
+      "question_text": "가장 큰 원의 지름은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            424,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            196,
+            54,
+            401,
+            258
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            426,
+            30
+          ],
+          "text": "가장 큰 원의 지름은 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

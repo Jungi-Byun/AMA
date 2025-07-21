@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_01_24445_73073.png",
+  "id": "24445_73073",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 57,
+      "question_success_rate": 93.37
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로의 길이가 15와 6분의 2 cm이고 세로의 길이가 20과 6분의 3 cm인 직사각형",
+      "question_text": "그림을 보고 직사각형의 가로와 세로의 합을 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            551,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            182,
+            52,
+            413,
+            273
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            553,
+            30
+          ],
+          "text": "그림을 보고 직사각형의 가로와 세로의 합을 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_06_23352_65122.png",
+  "id": "23352_65122",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106006",
+      "question_topic_name": "도형의 배열의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 100,
+      "question_success_rate": 77.78
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계단 모양의 배열을 보고 다섯째 모양에서 모형의 수는 넷째보다 몇 개 더 많은지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            594,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            304,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            8,
+            59.73,
+            592,
+            220.73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            2.77,
+            594.5,
+            60.16
+          ],
+          "text": "계단 모양의 배열을 보고 다섯째 모양에서 모형의 수는 넷째보다 몇 개 더 많은지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

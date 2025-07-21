@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P3_1_03_41584_161966.png",
+  "id": "41584_161966",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103011",
+      "question_topic_name": "나눗셈의 몫을 곱셈구구로 구하기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 257,
+      "question_success_rate": 81.63
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민환이의 방에는 가로가 $52 cm$이고 양쪽 두께가 각각 $1 cm$인 책꽂이가 있습니다. 이 책꽂이에 두께가 $3{cm}$인 만화책 몇 권과 두께가 $2{cm}$인 위인전 $9$ 권을 꽂았더니 $8{cm}$의 공간이 남았습니다. 두께가 $3{cm}$인 만화책을 몇 권 꽂았는지 구해 보세요. (단, 모든 책은 책꽂이와 이루는 각이 직각이 되도록 꽂습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            577,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            590,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            584,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            123,
+            562,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            153,
+            37,
+            180
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            7.75,
+            195.54,
+            579,
+            389.29
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            591,
+            181
+          ],
+          "text": "민환이의 방에는 가로가 $52 cm$이고 양쪽 두께가 각각 $1 cm$인 책꽂이가 있습니다. 이 책꽂이에 두께가 $3{cm}$인 만화책 몇 권과 두께가 $2{cm}$인 위인전 $9$ 권을 꽂았더니 $8{cm}$의 공간이 남았습니다. 두께가 $3{cm}$인 만화책을 몇 권 꽂았는지 구해 보세요. (단, 모든 책은 책꽂이와 이루는 각이 직각이 되도록 꽂습니다.)"
+        }
+      ]
+    }
+  ]
+}

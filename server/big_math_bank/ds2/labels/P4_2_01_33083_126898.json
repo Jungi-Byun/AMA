@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_01_33083_126898.png",
+  "id": "33083_126898",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201009",
+      "question_topic_name": "(대분수)+(대분수)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 47,
+      "question_success_rate": 89.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "하나의 큰 눈금이 작은 눈금으로 3등분 되어 있는 큰 눈금 3, 4, 5 이 있고, 기호 ㄱ이 3보다 큰 첫 번째 작은 눈금을 빨간 화살표로 가리키고, 기호 ㄴ이 4보다 큰 첫 번째 작은 눈금을 빨간 화살표로 가리키고 있는 직선",
+      "question_text": "수직선에서 ㉠과 ㉡이 나타내는 분수의 합을 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            3,
+            548,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            162,
+            51,
+            435,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            552,
+            30
+          ],
+          "text": "수직선에서 ㉠과 ㉡이 나타내는 분수의 합을 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

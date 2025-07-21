@@ -1,0 +1,161 @@
+﻿{
+  "question_filename": "P3_1_06_23291_64176.png",
+  "id": "23291_64176",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106002",
+      "question_topic_name": "부분과 전체의 크기 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 37,
+      "question_success_rate": 97.4
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "그림으로 알맞게 나타낸 것을 고르세요. ㉠ 전체를 $5$로 나눈 것 중의 $2$ ㉡ 전체를 $7$로 나눈 것 중의 $6$ ㉢ 전체를 $6$으로 나눈 것 중의 $3$ ㉣ 전체를 $4$로 나눈 것 중의 $1$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            379,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            13,
+            54,
+            308,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            13,
+            233,
+            308,
+            268
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            14,
+            412,
+            330,
+            447
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            13,
+            592,
+            308,
+            627
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            63,
+            79,
+            230,
+            203
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            62,
+            268,
+            227,
+            382
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            87,
+            447,
+            202,
+            561
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            87,
+            627,
+            202,
+            741
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            2,
+            379.89,
+            89
+          ],
+          "text": "그림으로 알맞게 나타낸 것을 고르세요. ㉠ 전체를 $5$로 나눈 것 중의 $2$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            12.89,
+            232,
+            308.89,
+            268
+          ],
+          "text": "㉡ 전체를 $7$로 나눈 것 중의 $6$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            13.89,
+            411,
+            331.89,
+            446
+          ],
+          "text": "㉢ 전체를 $6$으로 나눈 것 중의 $3$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            12.89,
+            591.11,
+            307.89,
+            628.11
+          ],
+          "text": "㉣ 전체를 $4$로 나눈 것 중의 $1$"
+        }
+      ]
+    }
+  ]
+}

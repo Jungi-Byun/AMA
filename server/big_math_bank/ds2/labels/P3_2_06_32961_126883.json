@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_2_06_32961_126883.png",
+  "id": "32961_126883",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206002",
+      "question_topic_name": "자료 수집하여 표로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 1,
+      "question_rtime": 111,
+      "question_success_rate": 72.84
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다정이네 학교 학생들이 좋아하는 운동을 조사하여 표로 나타내었습니다. 다정이네 학교 학생이 모두 $260$ 명일 때, 달리기를 좋아하는 여학생은 몇 명인지 구해 보세요. 좋아하는 운동별 학생 수 <table border> <tbody> <tr> <td>운동</td> <td>야구</td> <td>달리기</td> <td>수영</td> <td>줄넘기</td> <td>합계</td> </tr> <tr> <td>남학생 수 (명)</td> <td>$22$</td> <td>$46$</td> <td>$35$</td> <td>$31$</td> <td>$134$</td>  </tr> <tr> <td>여학생 수 (명)</td> <td>$39$</td> <td></td> <td>$31$</td> <td>$27$</td> <td></td>  </tr> </tbody> </table> (1) 다정이네 학교 여학생은 몇 명인지 구해 보세요.   (2) 달리기를 좋아하는 여학생은 몇 명인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            596,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            408,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            174,
+            99,
+            422,
+            143
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            14,
+            151,
+            583,
+            277
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            290,
+            489,
+            317
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            520,
+            563.11,
+            547
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            318
+          ],
+          "text": "다정이네 학교 학생들이 좋아하는 운동을 조사하여 표로 나타내었습니다. 다정이네 학교 학생이 모두 $260$ 명일 때, 달리기를 좋아하는 여학생은 몇 명인지 구해 보세요. 좋아하는 운동별 학생 수 <table border> <tbody> <tr> <td>운동</td> <td>야구</td> <td>달리기</td> <td>수영</td> <td>줄넘기</td> <td>합계</td> </tr> <tr> <td>남학생 수 (명)</td> <td>$22$</td> <td>$46$</td> <td>$35$</td> <td>$31$</td> <td>$134$</td>  </tr> <tr> <td>여학생 수 (명)</td> <td>$39$</td> <td></td> <td>$31$</td> <td>$27$</td> <td></td>  </tr> </tbody> </table> (1) 다정이네 학교 여학생은 몇 명인지 구해 보세요.  "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1.11,
+            516,
+            553.11,
+            548
+          ],
+          "text": "(2) 달리기를 좋아하는 여학생은 몇 명인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

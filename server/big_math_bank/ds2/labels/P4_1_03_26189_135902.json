@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_1_03_26189_135902.png",
+  "id": "26189_135902",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103008",
+      "question_topic_name": "몇십으로 나누기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 39,
+      "question_success_rate": 96.47
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "기차를 타고 서울역에서 강릉역까지 가는 데 $126$ 분이 걸렸다고 합니다. 걸린 시간은 몇 시간 몇 분인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            586,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            524,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            588,
+            59
+          ],
+          "text": "기차를 타고 서울역에서 강릉역까지 가는 데 $126$ 분이 걸렸다고 합니다. 걸린 시간은 몇 시간 몇 분인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

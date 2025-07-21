@@ -1,0 +1,131 @@
+﻿{
+  "question_filename": "P3_1_06_34369_136859.png",
+  "id": "34369_136859",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106015",
+      "question_topic_name": "소수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 181,
+      "question_success_rate": 75.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "테이프 $1m$를 똑같이 $10$ 조각으로 나누어 그중 지현이가 $2$ 조각, 한나가 $3$ 조각을 사용했습니다. 지현과 한나가 사용하고 남은 테이프의 길이는 몇 $m$인지 소수로 나타내어 보세요. (1) 지현이와 한나가 사용하고 남은 테이프는 몇 조각인지 구해 보세요. (2) 지현이와 한나가 사용하고 남은 테이프는 몇 $m$인지 소수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            580,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            33,
+            594,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            63,
+            524,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            142,
+            576,
+            168
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            173,
+            132,
+            198
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            7,
+            304,
+            591,
+            330
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            33,
+            335,
+            198,
+            360
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            89
+          ],
+          "text": "테이프 $1m$를 똑같이 $10$ 조각으로 나누어 그중 지현이가 $2$ 조각, 한나가 $3$ 조각을 사용했습니다. 지현과 한나가 사용하고 남은 테이프의 길이는 몇 $m$인지 소수로 나타내어 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            141,
+            580,
+            199
+          ],
+          "text": "(1) 지현이와 한나가 사용하고 남은 테이프는 몇 조각인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            303,
+            597,
+            361
+          ],
+          "text": "(2) 지현이와 한나가 사용하고 남은 테이프는 몇 $m$인지 소수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

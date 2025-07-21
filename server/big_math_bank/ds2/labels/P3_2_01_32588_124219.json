@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_01_32588_124219.png",
+  "id": "32588_124219",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201009",
+      "question_topic_name": "(몇십)×(몇십), (몇십몇)×(몇십몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 49,
+      "question_success_rate": 91.38
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직사각형으로 가로 6개, 세로는 7개로 총 42개의 동일한 크기로 나눈 사각형 내부에 첫째 줄에는 일, 월, 화, 수, 목, 금, 토가 쓰여있고, 1이 목요일부터 시작하고 28이 수요일에 끝나고 월, 수, 금의 숫자에 동그라미가 그려진 달력",
+      "question_text": "수영이가 한 달 동안 매주 월요일, 수요일, 금요일에 윗몸 말아 올리기를 각각 $40$ 번씩 했습니다. 수영이가 한 달 동안 윗몸 말아 올리기를 모두 몇 번 했는지 구해 보세요. <table border> <tbody> <tr> <td>일</td> <td>월</td> <td>화</td> <td>수</td> <td>목</td> <td>금</td> <td>토</td> </tr> <tr> <td>$\\quad$</td> <td>$\\quad$</td> <td>$\\quad$</td> <td>$\\quad$</td> <td>$1$</td> <td>$2$</td> <td>$3$</td> </tr> <tr> <td>$4$</td> <td>$5$</td> <td>$6$</td> <td>$7$</td> <td>$8$</td> <td>$9$</td> <td>$10$</td> </tr> <tr> <td>$11$</td> <td>$12$</td> <td>$13$</td> <td>$14$</td> <td>$15$</td> <td>$16$</td> <td>$17$</td> </tr> <tr> <td>$18$</td> <td>$19$</td> <td>$20$</td> <td>$21$</td> <td>$22$</td> <td>$23$</td> <td>$24$</td> </tr> <tr> <td>$25$</td> <td>$26$</td> <td>$27$</td> <td>$28$</td> <td>$\\quad$</td> <td>$\\quad$</td> <td>$\\quad$</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            589,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            419,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            142.64,
+            107.81,
+            459.83,
+            356.25
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            5.14,
+            0,
+            594.21,
+            362.5
+          ],
+          "text": "수영이가 한 달 동안 매주 월요일, 수요일, 금요일에 윗몸 말아 올리기를 각각 $40$ 번씩 했습니다. 수영이가 한 달 동안 윗몸 말아 올리기를 모두 몇 번 했는지 구해 보세요. <table border> <tbody> <tr> <td>일</td> <td>월</td> <td>화</td> <td>수</td> <td>목</td> <td>금</td> <td>토</td> </tr> <tr> <td>$\\quad$</td> <td>$\\quad$</td> <td>$\\quad$</td> <td>$\\quad$</td> <td>$1$</td> <td>$2$</td> <td>$3$</td> </tr> <tr> <td>$4$</td> <td>$5$</td> <td>$6$</td> <td>$7$</td> <td>$8$</td> <td>$9$</td> <td>$10$</td> </tr> <tr> <td>$11$</td> <td>$12$</td> <td>$13$</td> <td>$14$</td> <td>$15$</td> <td>$16$</td> <td>$17$</td> </tr> <tr> <td>$18$</td> <td>$19$</td> <td>$20$</td> <td>$21$</td> <td>$22$</td> <td>$23$</td> <td>$24$</td> </tr> <tr> <td>$25$</td> <td>$26$</td> <td>$27$</td> <td>$28$</td> <td>$\\quad$</td> <td>$\\quad$</td> <td>$\\quad$</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

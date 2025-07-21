@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_02_41369_160727.png",
+  "id": "41369_160727",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102005",
+      "question_topic_name": "각의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 214,
+      "question_success_rate": 41.54
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "크기가 같은 7개의 각 ㅇㅈㅅ, ㅅㅈㅂ, ㅂㅈㅁ, ㅁㅈㄹ, ㄹㅈㄷ, ㄷㅈㄴ, ㄴㅈㅁ으로 나눈 둔각 ㄱㅈㅇ",
+      "question_text": "각 $ㄱㅈㅇ$을 크기가 같은 각 $7$ 개로 나눈 것입니다. 각 $ㄷㅈㅅ$보다 크고 각 $ㄱㅈㅇ$보다 작은 각은 모두 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            0.6,
+            3.93,
+            577.6,
+            27.93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0.6,
+            33.93,
+            583.6,
+            60.93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0.6,
+            64.05,
+            30.6,
+            87.05
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.78,
+            4.78,
+            585.22,
+            87
+          ],
+          "text": "각 $ㄱㅈㅇ$을 크기가 같은 각 $7$ 개로 나눈 것입니다. 각 $ㄷㅈㅅ$보다 크고 각 $ㄱㅈㅇ$보다 작은 각은 모두 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_06_41953_163051.png",
+  "id": "41953_163051",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106003",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 175,
+      "question_success_rate": 83.05
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "정원 전체의 $\\frac{6}{12}$에는 진달래를 심었고, 진달래의 절반만큼 수선화를 심었습니다. 진달래와 수선화를 심지 않은 부분은 정원 전체의 얼마인지 분수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            583,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            592,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            78,
+            403,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            596,
+            104
+          ],
+          "text": "정원 전체의 $\\frac{6}{12}$에는 진달래를 심었고, 진달래의 절반만큼 수선화를 심었습니다. 진달래와 수선화를 심지 않은 부분은 정원 전체의 얼마인지 분수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

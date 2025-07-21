@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_02_24534_74057.png",
+  "id": "24534_74057",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202009",
+      "question_topic_name": "정삼각형의 성질",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 93,
+      "question_success_rate": 93.63
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "서쪽 공연장, 동쪽 학교, 북쪽 기차역, 남쪽 경찰서, 중앙에 전망대가 있고 다섯 곳의 앞부분을 점으로 위치 표현, 점들을 이은 모양은 전망대인 점을 공유하며 동서로 마주 보는 2개의 삼각형이고 공연장과 전망대의 거리는 280 m, 공연장-전망대-기차역을 잇는 각은 100도, 기차역-공연장-전망대를 잇는 각은 40도이며 학교와 경찰서의 거리는 340 m, 전망대-경찰서-학교를 잇는 각은 60도, 전망대-학교-경찰서를 잇는 각은 60도임을 나타내는 그림도형",
+      "question_text": "다음은 어느 마을의 $5$ 개 건물의 위치를 점으로 표시하고 각 지점을 선으로 연결한 것입니다. 기차역에서 전망대를 지나 경찰서까지 가는 거리는 몇 $m$인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            594,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            591,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            315,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            91,
+            108,
+            501,
+            514
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            87
+          ],
+          "text": "다음은 어느 마을의 $5$ 개 건물의 위치를 점으로 표시하고 각 지점을 선으로 연결한 것입니다. 기차역에서 전망대를 지나 경찰서까지 가는 거리는 몇 $m$인가요?"
+        }
+      ]
+    }
+  ]
+}

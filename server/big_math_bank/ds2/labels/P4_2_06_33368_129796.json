@@ -1,0 +1,161 @@
+﻿{
+  "question_filename": "P4_2_06_33368_129796.png",
+  "id": "33368_129796",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206008",
+      "question_topic_name": "모양 채우기의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 111,
+      "question_success_rate": 58.73
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "주어진 모양 조각을 모두 사용하여 오른쪽 모양을 만들었습니다. $㉠$은 몇 도인지 구해 보세요. (단, 같은 모양 조각을 여러 번 사용해도 됩니다.) 아래에서 알맞은 것을 찾아 $\\square$안에 끌어 놓아 보세요. 정육각형의 한 각과 정삼각형의 한 각의 크기의 합이므로 두 정삼각형의 한 각의 크기의 합이므로 $120\\degree$+ $60\\degree$ = $180\\degree$ $60\\degree$+ $60\\degree$ = $120\\degree$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            588,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            590,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            174,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            15,
+            626,
+            410,
+            660
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            35,
+            670,
+            562,
+            708
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            35,
+            706,
+            119,
+            737
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            33,
+            747,
+            462,
+            790
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            794,
+            244,
+            834
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            29,
+            836,
+            245,
+            876
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            98,
+            548,
+            234
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            8,
+            331,
+            207,
+            467
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            91
+          ],
+          "text": "주어진 모양 조각을 모두 사용하여 오른쪽 모양을 만들었습니다. $㉠$은 몇 도인지 구해 보세요. (단, 같은 모양 조각을 여러 번 사용해도 됩니다.)"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            11,
+            628,
+            588,
+            888
+          ],
+          "text": "아래에서 알맞은 것을 찾아 $\\square$안에 끌어 놓아 보세요. 정육각형의 한 각과 정삼각형의 한 각의 크기의 합이므로 두 정삼각형의 한 각의 크기의 합이므로 $120\\degree$+ $60\\degree$ = $180\\degree$ $60\\degree$+ $60\\degree$ = $120\\degree$"
+        }
+      ]
+    }
+  ]
+}

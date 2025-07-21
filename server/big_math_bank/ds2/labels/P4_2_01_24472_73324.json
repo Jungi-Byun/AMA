@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_01_24472_73324.png",
+  "id": "24472_73324",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201012",
+      "question_topic_name": "(대분수)-(대분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 72,
+      "question_success_rate": 93.94
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "혜민이의 몸무게는 $35\\frac{6}{15}kg$ 이고, 준혁이의 몸무게는 혜민이의 몸무게보다 $1\\frac{4}{15}kg$  더 가볍습니다. 준혁이의 몸무게는 몇 $kg$인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            576,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            44,
+            578,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            92,
+            100,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            580,
+            121
+          ],
+          "text": "혜민이의 몸무게는 $35\\frac{6}{15}kg$ 이고, 준혁이의 몸무게는 혜민이의 몸무게보다 $1\\frac{4}{15}kg$  더 가볍습니다. 준혁이의 몸무게는 몇 $kg$인가요?"
+        }
+      ]
+    }
+  ]
+}

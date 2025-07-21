@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_02_22768_61905.png",
+  "id": "22768_61905",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102016",
+      "question_topic_name": "삼각형과 사각형의 각의 크기의 합",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 81,
+      "question_success_rate": 86.62
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 직각 삼각자를 겹쳐 놓았습니다. $□$는 몇 도인지 구해 보세요. ",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            3,
+            578,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            35,
+            29,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            75.82,
+            82.86,
+            564.82,
+            457.86
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            580,
+            57
+          ],
+          "text": "두 직각 삼각자를 겹쳐 놓았습니다. $□$는 몇 도인지 구해 보세요. "
+        }
+      ]
+    }
+  ]
+}

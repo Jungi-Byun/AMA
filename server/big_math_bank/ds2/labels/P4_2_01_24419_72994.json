@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_01_24419_72994.png",
+  "id": "24419_72994",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201006",
+      "question_topic_name": "(진분수)-(진분수), 1-(진분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 94,
+      "question_success_rate": 89.69
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수에서 $\\frac{3}{12}$을 빼야 하는데 잘못하여 더했더니 $\\frac{8}{12}$이 되었습니다. 바르게 계산하면 얼마인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            593,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            364,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            593,
+            74
+          ],
+          "text": "어떤 수에서 $\\frac{3}{12}$을 빼야 하는데 잘못하여 더했더니 $\\frac{8}{12}$이 되었습니다. 바르게 계산하면 얼마인가요?"
+        }
+      ]
+    }
+  ]
+}

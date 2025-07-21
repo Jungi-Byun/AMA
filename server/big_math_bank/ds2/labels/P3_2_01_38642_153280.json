@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_01_38642_153280.png",
+  "id": "38642_153280",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201006",
+      "question_topic_name": "십의 자리, 백의 자리에서 올림이 있는 (세 자리 수)×(한 자리 수)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 250,
+      "question_success_rate": 76.78
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음은 어느 농장에 있는 동물의 수입니다. 이 농장에 있는 동물의 다리는 모두 몇 개인지 구해 보세요. <table border>   <tbody>     <tr>       <td>동물</td>       <td>돼지</td>       <td>오리</td> <td>소</td><td>병아리</td>            </tr>     <tr>       <td>동물의 수(마리)</td>       <td>$47$</td>       <td>$132$</td><td>$61$</td><td>$184$</td>    </tr>   </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            392,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            59,
+            70,
+            538,
+            187
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            586,
+            189
+          ],
+          "text": "다음은 어느 농장에 있는 동물의 수입니다. 이 농장에 있는 동물의 다리는 모두 몇 개인지 구해 보세요. <table border>   <tbody>     <tr>       <td>동물</td>       <td>돼지</td>       <td>오리</td> <td>소</td><td>병아리</td>            </tr>     <tr>       <td>동물의 수(마리)</td>       <td>$47$</td>       <td>$132$</td><td>$61$</td><td>$184$</td>    </tr>   </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

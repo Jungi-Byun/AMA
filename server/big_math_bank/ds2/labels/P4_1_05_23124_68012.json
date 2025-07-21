@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_1_05_23124_68012.png",
+  "id": "23124_68012",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "4105004",
+      "question_topic_name": "막대그래프의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 56,
+      "question_success_rate": 86.08
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어느 지역의 마을별 나무 수를 조사하여 나타낸 막대그래프입니다. 나무가 가장 많은 마을의 나무 수는 몇 그루인지 구해 보세요. 마을별 나무 수",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            588,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            589,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            51,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            59,
+            105,
+            539,
+            620
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            89
+          ],
+          "text": "어느 지역의 마을별 나무 수를 조사하여 나타낸 막대그래프입니다. 나무가 가장 많은 마을의 나무 수는 몇 그루인지 구해 보세요. 마을별 나무 수"
+        }
+      ]
+    }
+  ]
+}

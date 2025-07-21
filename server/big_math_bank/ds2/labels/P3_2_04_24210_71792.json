@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_04_24210_71792.png",
+  "id": "24210_71792",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204015",
+      "question_topic_name": "분모가 같은 가분수와 대분수의 크기 비교 _ 가분수를 대분수로",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 54,
+      "question_success_rate": 96.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "분수의 크기를 비교하여 가장 작은 수를 찾아 기호를 써 보세요. ㄱ. $\\frac{8}{3}$  ㄴ. $3\\frac{2}{3}$   ㄷ. $\\frac{5}{3}$   ㄹ. $2\\frac{1}{3}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            35,
+            29,
+            56
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            92,
+            488,
+            129
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            579,
+            158
+          ],
+          "text": "분수의 크기를 비교하여 가장 작은 수를 찾아 기호를 써 보세요. ㄱ. $\\frac{8}{3}$  ㄴ. $3\\frac{2}{3}$   ㄷ. $\\frac{5}{3}$   ㄹ. $2\\frac{1}{3}$"
+        }
+      ]
+    }
+  ]
+}

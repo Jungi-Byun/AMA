@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_01_24385_73087.png",
+  "id": "24385_73087",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201003",
+      "question_topic_name": "(진분수)+(진분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 41,
+      "question_success_rate": 97.58
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "태진이가 상자를 묶기 위해 노끈 $\\frac{3}{8} m$를 사용하였더니 $\\frac{2}{8} m$가 남았습니다. 상자를 묶기 전 노끈의 길이는 몇 $m$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            4.65,
+            1.42,
+            593.35,
+            46.34
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1.55,
+            44.79,
+            591.8,
+            80.43
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            77.33,
+            63.52,
+            108.31
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            3.1,
+            2.97,
+            596.45,
+            106.76
+          ],
+          "text": "태진이가 상자를 묶기 위해 노끈 $\\frac{3}{8} m$를 사용하였더니 $\\frac{2}{8} m$가 남았습니다. 상자를 묶기 전 노끈의 길이는 몇 $m$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

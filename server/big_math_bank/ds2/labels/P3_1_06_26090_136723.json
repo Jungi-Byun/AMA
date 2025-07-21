@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_06_26090_136723.png",
+  "id": "26090_136723",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106004",
+      "question_topic_name": "분수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 79,
+      "question_success_rate": 90.98
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로 5칸 세로 3칸인 직사각형을 첫 줄 왼쪽부터 3칸에 주황색을 칠하고 두 번째 칸에 마늘, 셋째 줄 왼쪽 1칸에 파란색을 칠하고 호박, 셋째 줄 나머지 4칸에 노란색을 칠하고 셋째, 넷째 칸에 걸쳐 옥수수, 나머지 부분에 분홍색을 칠하고 둘째 줄 네 번째 칸에 양파라고 표기한 그림",
+      "question_text": "연주네 밭에 심은 채소를 나타낸 것입니다. 가장 넓은 부분에 심은 채소는 무엇이고, 전체의 얼마인지 분수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            65,
+            29,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            171,
+            104,
+            426,
+            258
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            87
+          ],
+          "text": "연주네 밭에 심은 채소를 나타낸 것입니다. 가장 넓은 부분에 심은 채소는 무엇이고, 전체의 얼마인지 분수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

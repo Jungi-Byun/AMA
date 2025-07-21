@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_03_25886_135593.png",
+  "id": "25886_135593",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103003",
+      "question_topic_name": "똑같이 나누기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 64,
+      "question_success_rate": 92.99
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "한 줄에 100원을 7개씩 네 줄이 되도록 나열한 100원짜리 동전 전체 28개의 그림",
+      "question_text": "동욱이는 $100$ 원짜리 동전 $28$ 개를 저금통 $4$ 개에 똑같이 나누어 담으려고 합니다. 저금통 한 개에 담아야 하는 금액은 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            586,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            583,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            172,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            175,
+            116,
+            422,
+            276
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            588,
+            89
+          ],
+          "text": "동욱이는 $100$ 원짜리 동전 $28$ 개를 저금통 $4$ 개에 똑같이 나누어 담으려고 합니다. 저금통 한 개에 담아야 하는 금액은 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

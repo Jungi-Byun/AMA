@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_1_01_26150_160545.png",
+  "id": "26150_160545",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101012",
+      "question_topic_name": "조",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 71,
+      "question_success_rate": 98.6
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "십억의 자리 숫자가 다른 하나를 찾아 기호를 선택해 보세요. ㄱ. $4981253700000000$ ㄴ. $24조9761억5089만$ ㄷ.오천구십이조 천칠백육십팔억",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            67,
+            317,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            101,
+            327,
+            126
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            142,
+            427,
+            167
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            1.06,
+            580.73,
+            32.06
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            0,
+            581.73,
+            175.06
+          ],
+          "text": "십억의 자리 숫자가 다른 하나를 찾아 기호를 선택해 보세요. ㄱ. $4981253700000000$ ㄴ. $24조9761억5089만$ ㄷ.오천구십이조 천칠백육십팔억"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_01_23660_67712.png",
+  "id": "23660_67712",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201010",
+      "question_topic_name": "(몇)x(몇십몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 112,
+      "question_success_rate": 94.88
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$ 안에 알맞은 수를 넣으세요. $ \\begin{array} {r} \\square \\\\ \\times~~\\square ~3\\\\ \\hline 3~7~8 \\end{array} $",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1.6,
+            0.42,
+            327.6,
+            38.42
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            243.6,
+            50.23,
+            357.6,
+            151.23
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.6,
+            0.9,
+            360.6,
+            151.9
+          ],
+          "text": "$\\square$ 안에 알맞은 수를 넣으세요. $ \\begin{array} {r} \\square \\\\ \\times~~\\square ~3\\\\ \\hline 3~7~8 \\end{array} $"
+        }
+      ]
+    }
+  ]
+}

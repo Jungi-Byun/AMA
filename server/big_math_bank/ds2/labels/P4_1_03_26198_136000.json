@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_03_26198_136000.png",
+  "id": "26198_136000",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103015",
+      "question_topic_name": "몫이 한 자리 수인 몇십몇으로 나누기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 68,
+      "question_success_rate": 95.14
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "학생 $205$ 명이 버스를 타고 동물원에 가려고 합니다. 버스 한 대에 $35$ 명이 탈 수 있다면 버스는 적어도 몇 대 필요한지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            3.1,
+            5.19,
+            594.9,
+            33.08
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4.65,
+            36.18,
+            593.35,
+            67.16
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            3.1,
+            67.16,
+            91.4,
+            96.6
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            0.54,
+            594.9,
+            101.24
+          ],
+          "text": "학생 $205$ 명이 버스를 타고 동물원에 가려고 합니다. 버스 한 대에 $35$ 명이 탈 수 있다면 버스는 적어도 몇 대 필요한지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

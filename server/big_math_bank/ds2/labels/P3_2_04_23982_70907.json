@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_2_04_23982_70907.png",
+  "id": "23982_70907",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204005",
+      "question_topic_name": "분수로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 125,
+      "question_success_rate": 87.23
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "영배는 사탕 $16$ 개를 준영이와 시언이에게 나누어 주었습니다. $2$ 개는 준영이에게 주고, $8$ 개는 시언이에게 주었습니다.  $\\square$안에 알맞은 수를 써넣으세요. $16$을 $2$씩 묶으면 $\\square$묶음이 됩니다. 준영이에게 준 사탕은 $16$의 $\\frac{\\square}{8}$입니다. 시언이에게 준 사탕은 $16$의 $\\frac{\\square}{8}$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            32,
+            574,
+            67
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            68,
+            287,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            54,
+            236,
+            400,
+            270
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            53,
+            270,
+            437,
+            320
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            54,
+            327,
+            437,
+            376
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            106,
+            123,
+            485,
+            178
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            94
+          ],
+          "text": "영배는 사탕 $16$ 개를 준영이와 시언이에게 나누어 주었습니다. $2$ 개는 준영이에게 주고, $8$ 개는 시언이에게 주었습니다.  $\\square$안에 알맞은 수를 써넣으세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            27,
+            208,
+            570,
+            402
+          ],
+          "text": "$16$을 $2$씩 묶으면 $\\square$묶음이 됩니다. 준영이에게 준 사탕은 $16$의 $\\frac{\\square}{8}$입니다. 시언이에게 준 사탕은 $16$의 $\\frac{\\square}{8}$입니다."
+        }
+      ]
+    }
+  ]
+}

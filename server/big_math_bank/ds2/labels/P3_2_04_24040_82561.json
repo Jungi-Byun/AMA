@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_04_24040_82561.png",
+  "id": "24040_82561",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 89,
+      "question_success_rate": 57.91
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "(육각형)은 $1$이고, (육각형)을 $6$ 등분 한 것이 (삼각형) 이라고 할 때 다음 모양을 가분수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            3.77,
+            4.11,
+            582.77,
+            65.11
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2.77,
+            67.11,
+            334.77,
+            91.11
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            131.77,
+            97.11,
+            454.77,
+            334.11
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.77,
+            0,
+            582.77,
+            91.11
+          ],
+          "text": "(육각형)은 $1$이고, (육각형)을 $6$ 등분 한 것이 (삼각형) 이라고 할 때 다음 모양을 가분수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

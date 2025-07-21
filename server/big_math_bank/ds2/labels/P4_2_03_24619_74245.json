@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_03_24619_74245.png",
+  "id": "24619_74245",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203008",
+      "question_topic_name": "소수 사이의 관계",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 116,
+      "question_success_rate": 68.17
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$에 들어가는 수를 모두 더하면 얼마인지 구해 보세요. • $45$는 $4.5$의 $\\square$ 배입니다. • $18$은 $0.018$의 $\\square$ 배입니다. • $0.25$는 $0.025$의 $\\square$ 배입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            524,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            68,
+            68,
+            304,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            68,
+            98,
+            327,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            68,
+            128,
+            344,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            555,
+            182
+          ],
+          "text": "$\\square$에 들어가는 수를 모두 더하면 얼마인지 구해 보세요. • $45$는 $4.5$의 $\\square$ 배입니다. • $18$은 $0.018$의 $\\square$ 배입니다. • $0.25$는 $0.025$의 $\\square$ 배입니다."
+        }
+      ]
+    }
+  ]
+}

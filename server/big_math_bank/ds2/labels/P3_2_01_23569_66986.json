@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_01_23569_66986.png",
+  "id": "23569_66986",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201006",
+      "question_topic_name": "십의 자리, 백의 자리에서 올림이 있는 (세 자리 수)×(한 자리 수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 75,
+      "question_success_rate": 94.59
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "현진이네 집에서 한영이네 집까지의 거리는 $352$ $m$입니다. 현진이가 집에서 한영이네 집을 걸어서 갔다 왔을 때, 현진이가 걸은 거리는 모두 몇 $m$인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            580,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            63,
+            293,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            582,
+            89
+          ],
+          "text": "현진이네 집에서 한영이네 집까지의 거리는 $352$ $m$입니다. 현진이가 집에서 한영이네 집을 걸어서 갔다 왔을 때, 현진이가 걸은 거리는 모두 몇 $m$인가요?"
+        }
+      ]
+    }
+  ]
+}

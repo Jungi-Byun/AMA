@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_01_23235_63917.png",
+  "id": "23235_63917",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101018",
+      "question_topic_name": "받아내림이 있는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 71,
+      "question_success_rate": 93.13
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "서울역에서 출발하는 기차에 $323$ 명이 타고 있습니다. 다음 역에서 $155$ 명이 내리고 새로 탄 사람은 없습니다. 기차에는 몇 명이 타고 있는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            589,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            574,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            63,
+            293,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            591,
+            89
+          ],
+          "text": "서울역에서 출발하는 기차에 $323$ 명이 타고 있습니다. 다음 역에서 $155$ 명이 내리고 새로 탄 사람은 없습니다. 기차에는 몇 명이 타고 있는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

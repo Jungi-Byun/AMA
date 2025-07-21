@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_04_21565_68277.png",
+  "id": "21565_68277",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104002",
+      "question_topic_name": "(몇십) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 96,
+      "question_success_rate": 85.77
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1$부터 $9$까지의 수 중에서 $□$에 들어갈 수 있는 수를 모두 구해 보세요. $50\\times7<60\\times□<90\\times5$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            73,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            180,
+            98,
+            418,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            128
+          ],
+          "text": "$1$부터 $9$까지의 수 중에서 $□$에 들어갈 수 있는 수를 모두 구해 보세요. $50\\times7<60\\times□<90\\times5$ "
+        }
+      ]
+    }
+  ]
+}

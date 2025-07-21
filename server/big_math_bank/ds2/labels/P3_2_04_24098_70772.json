@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_04_24098_70772.png",
+  "id": "24098_70772",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204011",
+      "question_topic_name": "대분수, 대분수를 가분수로, 가분수를 대분수로 만들어 보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 80,
+      "question_success_rate": 93.29
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성민이와 지희가 초콜릿을 먹는데 성민이가 지희보다 $2\\frac{3}{8}$ 개 더 먹었습니다. 성민이가 얼마나 더 먹었는지 가분수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            578,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            593,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            78,
+            100,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            596,
+            104
+          ],
+          "text": "성민이와 지희가 초콜릿을 먹는데 성민이가 지희보다 $2\\frac{3}{8}$ 개 더 먹었습니다. 성민이가 얼마나 더 먹었는지 가분수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

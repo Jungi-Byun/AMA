@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_01_33087_127034.png",
+  "id": "33087_127034",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201012",
+      "question_topic_name": "(대분수)-(대분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 51,
+      "question_success_rate": 93.24
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민서는 밀가루를 $5\\frac{4}{5}kg$ 샀습니다. 혜성이는 민서보다 밀가루를 $\\frac{17}{5}kg$ 더 적게 샀습니다. 혜성이는 밀가루를 몇 $kg$ 샀는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            1,
+            585,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            44,
+            576,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            92,
+            122,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            587,
+            118
+          ],
+          "text": "민서는 밀가루를 $5\\frac{4}{5}kg$ 샀습니다. 혜성이는 민서보다 밀가루를 $\\frac{17}{5}kg$ 더 적게 샀습니다. 혜성이는 밀가루를 몇 $kg$ 샀는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

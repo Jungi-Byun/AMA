@@ -70,7 +70,7 @@ def upload_file():
 
         # 문제와 힌트를 병렬로 생성
         with concurrent.futures.ThreadPoolExecutor() as executor:
-            future_questions = executor.submit(QuestionAgent.generate_response, topic, question_type)
+            future_questions = executor.submit(question_agent.run, topic, question_type)
             future_hint = executor.submit(geometry_agent.run, topic)
 
             # 생성된 문제와 힌트 가져오기
@@ -90,7 +90,9 @@ if __name__ == '__main__':
     # Agent 인스턴스 생성
     file_agent = FileAgent()
     ocr_agent = OCRAgent()
+    question_agent = QuestionAgent()
     geometry_agent = GeometryAgent()
+    
     
     # 서버 실행
     app.run(host='0.0.0.0', port=5111, debug=False)

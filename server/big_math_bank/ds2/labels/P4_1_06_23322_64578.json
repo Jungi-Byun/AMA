@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_06_23322_64578.png",
+  "id": "23322_64578",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106003",
+      "question_topic_name": "수의 배열의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "변화와 관계",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 88,
+      "question_success_rate": 86.52
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 배열표를 보고 수 배열의 규칙에 따라 $■$에 알맞은 수를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            100,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            109,
+            71,
+            490,
+            251
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            59
+          ],
+          "text": "수 배열표를 보고 수 배열의 규칙에 따라 $■$에 알맞은 수를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

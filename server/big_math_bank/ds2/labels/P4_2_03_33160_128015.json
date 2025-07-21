@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P4_2_03_33160_128015.png",
+  "id": "33160_128015",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203011",
+      "question_topic_name": "소수 한 자리 수의 덧셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 52,
+      "question_success_rate": 94.9
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "사전의 무게는 $1.8 kg$이고 볼링공의 무게는 $3.3 kg$입니다. 빈 상자의 무게는 $0.5 kg$입니다. 사전과 볼링공을 모두 담은 상자의 무게는 몇 $kg$인지 구해 보세요. (1) 사전과 볼링공의 무게의 합은 몇 $kg$인지 구해 보세요. (2) 사전과 볼링공을 모두 담은 상자의 무게는 몇 kg인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            597,
+            31
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            583,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            293,
+            91
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            104,
+            539,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            373,
+            582,
+            402
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            404,
+            105,
+            429
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            133
+          ],
+          "text": "사전의 무게는 $1.8 kg$이고 볼링공의 무게는 $3.3 kg$입니다. 빈 상자의 무게는 $0.5 kg$입니다. 사전과 볼링공을 모두 담은 상자의 무게는 몇 $kg$인지 구해 보세요. (1) 사전과 볼링공의 무게의 합은 몇 $kg$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            372,
+            584,
+            430
+          ],
+          "text": "(2) 사전과 볼링공을 모두 담은 상자의 무게는 몇 kg인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

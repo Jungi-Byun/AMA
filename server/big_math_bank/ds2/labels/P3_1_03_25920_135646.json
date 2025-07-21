@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_03_25920_135646.png",
+  "id": "25920_135646",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103012",
+      "question_topic_name": "나눗셈의 몫 구하기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 93,
+      "question_success_rate": 86.84
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "밤 $24$ 개는 한 주머니에 $4$ 개씩 담고, 도토리 $48$ 개는 한 주머니에 $8$ 개씩 담아 포장하려고 합니다. 주머니는 모두 몇 개 필요한지 구해 보세요. (단, 밤과 도토리는 각각 포장합니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            589,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            579,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            533,
+            90
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            591,
+            91
+          ],
+          "text": "밤 $24$ 개는 한 주머니에 $4$ 개씩 담고, 도토리 $48$ 개는 한 주머니에 $8$ 개씩 담아 포장하려고 합니다. 주머니는 모두 몇 개 필요한지 구해 보세요. (단, 밤과 도토리는 각각 포장합니다.)"
+        }
+      ]
+    }
+  ]
+}

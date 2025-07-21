@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_03_26175_135835.png",
+  "id": "26175_135835",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103006",
+      "question_topic_name": "(세 자리 수) x (두 자리 수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 150,
+      "question_success_rate": 76.19
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "과일 가게에서 사과 한 개를 $950$ 원에 팔고 있습니다. 사과 $26$ 개를 사고 $30000$ 원을 냈다면 거스름돈은 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            553,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            588,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            51,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            593,
+            89
+          ],
+          "text": "과일 가게에서 사과 한 개를 $950$ 원에 팔고 있습니다. 사과 $26$ 개를 사고 $30000$ 원을 냈다면 거스름돈은 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

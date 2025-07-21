@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P4_2_01_33077_126946.png",
+  "id": "33077_126946",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201003",
+      "question_topic_name": "(진분수)+(진분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 88,
+      "question_success_rate": 83.04
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "서윤이는 색 테이프를 $\\frac{12}{17}$ $m$ 사용하였습니다. 선권이는 서윤이보다 색 테이프를 $\\frac{4}{17} m$ 더 사용하였습니다. 두 사람이 사용한 색 테이프의 길이는 모두 몇 $m$인지 구해 보세요. (1) 선권이가 사용한 색 테이프의 길이는 몇 $m$인지 구해 보세요. (2)두 사람이 사용한 색 테이프의 길이는 모두 몇 $m$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            579,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            40,
+            590,
+            83
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            92,
+            486,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            133,
+            576,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            165,
+            26,
+            186
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            432,
+            582,
+            458
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            32,
+            463,
+            105,
+            488
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            592,
+            187
+          ],
+          "text": "서윤이는 색 테이프를 $\\frac{12}{17}$ $m$ 사용하였습니다. 선권이는 서윤이보다 색 테이프를 $\\frac{4}{17} m$ 더 사용하였습니다. 두 사람이 사용한 색 테이프의 길이는 모두 몇 $m$인지 구해 보세요. (1) 선권이가 사용한 색 테이프의 길이는 몇 $m$인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            431,
+            585,
+            489
+          ],
+          "text": "(2)두 사람이 사용한 색 테이프의 길이는 모두 몇 $m$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

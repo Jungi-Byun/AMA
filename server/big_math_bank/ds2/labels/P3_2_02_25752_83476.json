@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_2_02_25752_83476.png",
+  "id": "25752_83476",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 61,
+      "question_success_rate": 92.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하고 계산 결과가 맞는지 확인하려고 합니다.  $\\square$안에 알맞은 수를 써넣으세요. $\\begin{array}{r}  7 \\\\ 8 {\\overline{{\\big)} 62}} \\\\56 \\\\ \\hline 6 \\end{array}$ 확인  $8\\times\\square=\\square \\Rightarrow \\square+6=\\square$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            588,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            38,
+            238,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            268,
+            82,
+            330,
+            191
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            100.87,
+            232.75,
+            145.87,
+            262.75
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            147.12,
+            232.75,
+            494.62,
+            269
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            590,
+            290
+          ],
+          "text": "계산을 하고 계산 결과가 맞는지 확인하려고 합니다.  $\\square$안에 알맞은 수를 써넣으세요. $\\begin{array}{r}  7 \\\\ 8 {\\overline{{\\big)} 62}} \\\\56 \\\\ \\hline 6 \\end{array}$ 확인  $8\\times\\square=\\square \\Rightarrow \\square+6=\\square$"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_01_38843_153586.png",
+  "id": "38843_153586",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201011",
+      "question_topic_name": "(몇십몇)x(몇십몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 130,
+      "question_success_rate": 90.44
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민석이는 $10$ 월에 매주 화요일, 금요일, 토요일에 소설책을 읽었습니다. 하루에 $35$ 쪽씩 읽었다면 민석이가 $10$ 월 한 달 동안 읽은 소설책은 모두 몇 쪽인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            583,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            591,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            414,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            163,
+            106,
+            434,
+            389
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            593,
+            89
+          ],
+          "text": "민석이는 $10$ 월에 매주 화요일, 금요일, 토요일에 소설책을 읽었습니다. 하루에 $35$ 쪽씩 읽었다면 민석이가 $10$ 월 한 달 동안 읽은 소설책은 모두 몇 쪽인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

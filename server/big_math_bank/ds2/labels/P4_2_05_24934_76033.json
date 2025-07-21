@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_05_24934_76033.png",
+  "id": "24934_76033",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205005",
+      "question_topic_name": "꺾은선그래프를 보고 내용 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 85,
+      "question_success_rate": 83.86
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축은 (년) 단위인 연도를 세로축은 (cm) 단위의 키를 2 cm인 단위로 0에서 120사이에 물결선으로 생략함을 그리고 5칸마다 120, 130, 140을 나타낼 때, 2014년에는 122 cm, 2015년에는 126 cm, 2016년에는 136 cm, 2017년에는 142 cm로 조사하여 나타낸 제목이 성진이의 키인 꺾은선그래프",
+      "question_text": "매년 $9$ 월에 상진이의 키를 재어 나타낸 꺾은선그래프입니다. $2015$ 년에 상진이의 키는 몇 cm인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            375,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            59,
+            75,
+            539,
+            590
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            586,
+            59
+          ],
+          "text": "매년 $9$ 월에 상진이의 키를 재어 나타낸 꺾은선그래프입니다. $2015$ 년에 상진이의 키는 몇 cm인가요?"
+        }
+      ]
+    }
+  ]
+}

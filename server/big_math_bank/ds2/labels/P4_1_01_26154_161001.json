@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_1_01_26154_161001.png",
+  "id": "26154_161001",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 52,
+      "question_success_rate": 91.01
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "어떤 수에서 $1000$조씩 $3$ 번 뛰어 세었더니 $5214$조가 되었습니다. 어떤 수는 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            348,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            586,
+            59
+          ],
+          "text": "어떤 수에서 $1000$조씩 $3$ 번 뛰어 세었더니 $5214$조가 되었습니다. 어떤 수는 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

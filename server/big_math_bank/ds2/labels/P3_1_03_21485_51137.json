@@ -1,0 +1,51 @@
+﻿{
+  "question_filename": "P3_1_03_21485_51137.png",
+  "id": "21485_51137",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103009",
+      "question_topic_name": "곱셈과 나눗셈의 관계",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 113,
+      "question_success_rate": 87.13
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$6$, $2$, $3$을 이용하여 곱셈식과 나눗셈식으로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            574,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            574,
+            31
+          ],
+          "text": "$6$, $2$, $3$을 이용하여 곱셈식과 나눗셈식으로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

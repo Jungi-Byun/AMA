@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_06_26102_136806.png",
+  "id": "26102_136806",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106012",
+      "question_topic_name": "분수의 크기 비교하기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 88,
+      "question_success_rate": 91.94
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지수는 수박 한 통의 $\\frac{1}{12}$을 먹고 나머지는 모두 엄마가 먹었습니다. 엄마가 먹은 수박의 양은 지수가 먹은 수박의 양의 몇 배인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            589,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            48,
+            586,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            78,
+            172,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            591,
+            104
+          ],
+          "text": "지수는 수박 한 통의 $\\frac{1}{12}$을 먹고 나머지는 모두 엄마가 먹었습니다. 엄마가 먹은 수박의 양은 지수가 먹은 수박의 양의 몇 배인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

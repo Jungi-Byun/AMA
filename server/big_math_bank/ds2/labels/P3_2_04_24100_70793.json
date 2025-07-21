@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_04_24100_70793.png",
+  "id": "24100_70793",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204011",
+      "question_topic_name": "대분수, 대분수를 가분수로, 가분수를 대분수로 만들어 보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 106,
+      "question_success_rate": 86.38
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "성준이와 친구들은 사과 $5$ 개를 먹고, 또 한 개를 똑같이 $5$ 조각으로 나눈 것 중의 $4$ 조각을 먹었습니다. 성준이와 친구들이 먹은 사과의 양을 대분수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            596,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            594,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            408,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            89
+          ],
+          "text": "성준이와 친구들은 사과 $5$ 개를 먹고, 또 한 개를 똑같이 $5$ 조각으로 나눈 것 중의 $4$ 조각을 먹었습니다. 성준이와 친구들이 먹은 사과의 양을 대분수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

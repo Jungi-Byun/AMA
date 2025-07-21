@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_04_24801_75688.png",
+  "id": "24801_75688",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "4204003",
+      "question_topic_name": "수직",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 38,
+      "question_success_rate": 95.42
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "직선 가가 가로로 놓여 있고 직선 가에 수선 나를 내려 한 점에서 만나고 직선 가와 수선 나가 만나 오른쪽 방향에 생기는 각을 나누는 선분에 의해 수선 나의 방향에 생기는 각의 크기는 58도이고 직선 가의 방향에 생기는 예각의 크기가 원 문자 ㄱ인 직선",
+      "question_text": "직선 나는 직선 가에 대한 수선입니다. $㉠$은 몇 도인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            51,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            172,
+            81,
+            425,
+            260
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            59
+          ],
+          "text": "직선 나는 직선 가에 대한 수선입니다. $㉠$은 몇 도인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

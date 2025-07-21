@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_05_25973_136328.png",
+  "id": "25973_136328",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105015",
+      "question_topic_name": "1분보다 작은 단위",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 64,
+      "question_success_rate": 94.59
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "같은 시간을 보고 각각 \"408초\"라고 말하는 예린이와 \"418초\"라고 말하는 원제와 \"6분 48초\"라고 하는 지안이의 대화",
+      "question_text": "세 사람 중 다른 시간을 말한 사람은 누구인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            1.06,
+            468.16,
+            36.06
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            74.16,
+            44.06,
+            527.16,
+            264.06
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            0.06,
+            471.16,
+            34.06
+          ],
+          "text": "세 사람 중 다른 시간을 말한 사람은 누구인가요?"
+        }
+      ]
+    }
+  ]
+}

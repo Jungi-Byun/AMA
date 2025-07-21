@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_03_25906_135627.png",
+  "id": "25906_135627",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103009",
+      "question_topic_name": "곱셈과 나눗셈의 관계",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 54,
+      "question_success_rate": 92.34
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$28\\div7=4$를 다음과 같이 나타내었습니다. $㉠-㉡$의 값을 구해 보세요. • ㉠을 $7$로 나누면 $4$가 됩니다.  • 곱셈식으로 나타내면 $7\\times㉡=28$입니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            580,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            100,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            90,
+            94,
+            379,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            90,
+            132,
+            497,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.82,
+            1.9,
+            580.55,
+            159.31
+          ],
+          "text": "$28\\div7=4$를 다음과 같이 나타내었습니다. $㉠-㉡$의 값을 구해 보세요. • ㉠을 $7$로 나누면 $4$가 됩니다.  • 곱셈식으로 나타내면 $7\\times㉡=28$입니다."
+        }
+      ]
+    }
+  ]
+}

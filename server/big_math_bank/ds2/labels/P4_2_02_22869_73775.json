@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_02_22869_73775.png",
+  "id": "22869_73775",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202005",
+      "question_topic_name": "이등변삼각형의 성질",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 112,
+      "question_success_rate": 79.73
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "꼭지각이 각 ㄱ으로 각도 표시를 하고, 변 ㄱㄴ과 변 ㄱㄷ의 길이는 각각 9 cm이며, 각 ㄴ의 크기는 40도인 삼각형 ㄱㄴㄷ",
+      "question_text": "삼각형 $ㄱㄴㄷ$에서 각 $ㄴㄱㄷ$의 크기를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            502,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            179,
+            47.9,
+            422,
+            244.9
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2.9,
+            504,
+            28.9
+          ],
+          "text": "삼각형 $ㄱㄴㄷ$에서 각 $ㄴㄱㄷ$의 크기를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

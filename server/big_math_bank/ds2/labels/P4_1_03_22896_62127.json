@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_1_03_22896_62127.png",
+  "id": "22896_62127",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103003",
+      "question_topic_name": "(세 자리 수) x (몇십)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 32,
+      "question_success_rate": 94.34
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산해 보세요. $600\\times70$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            144,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            256,
+            68,
+            341,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.37,
+            0,
+            351.37,
+            93.85
+          ],
+          "text": "계산해 보세요. $600\\times70$ "
+        }
+      ]
+    }
+  ]
+}

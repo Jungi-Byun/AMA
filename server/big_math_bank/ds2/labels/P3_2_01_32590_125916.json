@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_01_32590_125916.png",
+  "id": "32590_125916",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201009",
+      "question_topic_name": "(몇십)×(몇십), (몇십몇)×(몇십몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 53,
+      "question_success_rate": 92.86
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "나현이와 민지 중 바르게 말한 사람은 누구인가요? 나현 : $1$ 분은 $60$ 초니까 $40$ 분은 $2400$ 초야. 민지 : $1$ 일은 $24$ 시간이니까 $10$ 일은 $2400$ 시간이야.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            485,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            70,
+            68,
+            474,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            71,
+            98,
+            513,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            70,
+            128,
+            119,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            555,
+            182
+          ],
+          "text": "나현이와 민지 중 바르게 말한 사람은 누구인가요? 나현 : $1$ 분은 $60$ 초니까 $40$ 분은 $2400$ 초야. 민지 : $1$ 일은 $24$ 시간이니까 $10$ 일은 $2400$ 시간이야."
+        }
+      ]
+    }
+  ]
+}

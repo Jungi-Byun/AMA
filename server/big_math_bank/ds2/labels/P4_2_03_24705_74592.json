@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_03_24705_74592.png",
+  "id": "24705_74592",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203015",
+      "question_topic_name": "소수 두 자리 수의 덧셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 103,
+      "question_success_rate": 82.93
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "경진이는 물병에 있던 물을 $0.5 L$짜리 컵에 가득 따라 마셨고, 오빠가 나머지를 모두 마셨습니다. 오빠가 마신 물의 양이 $270 mL$였다면, 처음 물병에 있던 물은 몇 $L$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            582,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            549,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            578,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            584,
+            90
+          ],
+          "text": "경진이는 물병에 있던 물을 $0.5 L$짜리 컵에 가득 따라 마셨고, 오빠가 나머지를 모두 마셨습니다. 오빠가 마신 물의 양이 $270 mL$였다면, 처음 물병에 있던 물은 몇 $L$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

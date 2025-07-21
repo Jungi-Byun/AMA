@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_04_24099_70783.png",
+  "id": "24099_70783",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204011",
+      "question_topic_name": "대분수, 대분수를 가분수로, 가분수를 대분수로 만들어 보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 97,
+      "question_success_rate": 85.48
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "먹고 남은 피자를 대분수로 나타내면 $1\\frac{7}{8}$입니다. 똑같이 $8$ 조각으로 나누어진 피자는 몇 조각 남아 있는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            579,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            557,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            172,
+            92,
+            425,
+            207
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            581,
+            74
+          ],
+          "text": "먹고 남은 피자를 대분수로 나타내면 $1\\frac{7}{8}$입니다. 똑같이 $8$ 조각으로 나누어진 피자는 몇 조각 남아 있는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

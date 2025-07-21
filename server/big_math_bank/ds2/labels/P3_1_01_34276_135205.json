@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_1_01_34276_135205.png",
+  "id": "34276_135205",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101014",
+      "question_topic_name": "받아내림이 없는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 121,
+      "question_success_rate": 80.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "운동용품 공장에서 만든 훌라후프, 줄넘기, 공에 대한 설명입니다. 운동용품 공장에서 만든 공은 몇 개인지 구해 보세요.$\\\\$ $\\bullet$훌라후프는 $657$개 만들었습니다.$\\\\$ $\\bullet$줄넘기는 훌라후프보다 $296$개 많습니다.$\\\\$ $\\bullet$공은 줄넘기보다 $332$개 적습니다.$\\\\$ (1) 운동용품 공장에서 만든 줄넘기는 몇 개인지 구해 보세요. (2) 운동용품 공장에서 만든 공은 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            577,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            33,
+            560,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            75,
+            94,
+            414,
+            119
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            75,
+            132,
+            485,
+            157
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            75,
+            171,
+            419,
+            196
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            232,
+            577,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            526,
+            539,
+            553
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            585,
+            260
+          ],
+          "text": "운동용품 공장에서 만든 훌라후프, 줄넘기, 공에 대한 설명입니다. 운동용품 공장에서 만든 공은 몇 개인지 구해 보세요.$\\\\$ $\\bullet$훌라후프는 $657$개 만들었습니다.$\\\\$ $\\bullet$줄넘기는 훌라후프보다 $296$개 많습니다.$\\\\$ $\\bullet$공은 줄넘기보다 $332$개 적습니다.$\\\\$ (1) 운동용품 공장에서 만든 줄넘기는 몇 개인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            524,
+            541,
+            555
+          ],
+          "text": "(2) 운동용품 공장에서 만든 공은 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

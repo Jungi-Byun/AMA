@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_03_24740_75395.png",
+  "id": "24740_75395",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203020",
+      "question_topic_name": "소수 한 자리 수의 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 36,
+      "question_success_rate": 94.51
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민수는 설탕 $2.4$ $kg$과 밀가루 $3.2$ $kg$을 샀습니다. 밀가루는 설탕보다 몇 $kg$ 더 무거운지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            597,
+            31
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            348,
+            61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            62
+          ],
+          "text": "민수는 설탕 $2.4$ $kg$과 밀가루 $3.2$ $kg$을 샀습니다. 밀가루는 설탕보다 몇 $kg$ 더 무거운지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

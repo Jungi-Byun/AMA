@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_06_25033_76694.png",
+  "id": "25033_76694",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "4206006",
+      "question_topic_name": "모양 만들기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 67,
+      "question_success_rate": 92.28
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "(사다리꼴)모양 조각을 $2$ 개까지 사용하여 만들 수 있는 도형을 찾아 기호를 써 보세요. ㄱ. 정삼각형 ㄴ. 마름모 ㄷ. 정사각형 ㄹ. 정오각형 ㅁ. 정육각형",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            75,
+            109,
+            505,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            76,
+            148,
+            352,
+            173
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1.22,
+            2.17,
+            581.22,
+            47.17
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            3.22,
+            49.17,
+            251.22,
+            76.17
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.22,
+            0,
+            582.22,
+            209.17
+          ],
+          "text": "(사다리꼴)모양 조각을 $2$ 개까지 사용하여 만들 수 있는 도형을 찾아 기호를 써 보세요. ㄱ. 정삼각형 ㄴ. 마름모 ㄷ. 정사각형 ㄹ. 정오각형 ㅁ. 정육각형"
+        }
+      ]
+    }
+  ]
+}

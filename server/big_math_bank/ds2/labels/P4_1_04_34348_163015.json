@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_04_34348_163015.png",
+  "id": "34348_163015",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104009",
+      "question_topic_name": "돌리기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 83,
+      "question_success_rate": 86.96
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "보기의 도형을 시계 방향으로 돌린 도형이 아닌 것을 찾아 기호를 선택해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            35,
+            172,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            3.4,
+            0.55,
+            595.4,
+            31.55
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            40.42,
+            64.05,
+            546.42,
+            356.05
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.4,
+            1.55,
+            595.4,
+            60.55
+          ],
+          "text": "보기의 도형을 시계 방향으로 돌린 도형이 아닌 것을 찾아 기호를 선택해 보세요."
+        }
+      ]
+    }
+  ]
+}

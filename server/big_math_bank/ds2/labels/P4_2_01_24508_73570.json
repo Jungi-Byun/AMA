@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_01_24508_73570.png",
+  "id": "24508_73570",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201017",
+      "question_topic_name": "진분수 부분끼리 뺄 수 없는 (대분수)-(대분수), (대분수)-(가분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 93,
+      "question_success_rate": 88.55
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "슬기는 빵을 만드는 데 밀가루를 $8\\frac{3}{9}$ 컵 사용했습니다. 지혜는 쿠키를 만드는 데 밀가루를 $3\\frac{5}{9}$ 컵 사용했습니다. 슬기는 지혜보다 밀가루를 몇 컵 더 많이 사용했는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            590,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            45,
+            589,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            92,
+            513,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            592,
+            118
+          ],
+          "text": "슬기는 빵을 만드는 데 밀가루를 $8\\frac{3}{9}$ 컵 사용했습니다. 지혜는 쿠키를 만드는 데 밀가루를 $3\\frac{5}{9}$ 컵 사용했습니다. 슬기는 지혜보다 밀가루를 몇 컵 더 많이 사용했는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

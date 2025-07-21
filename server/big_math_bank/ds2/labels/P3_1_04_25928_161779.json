@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_04_25928_161779.png",
+  "id": "25928_161779",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104002",
+      "question_topic_name": "(몇십) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 100,
+      "question_success_rate": 75.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가장 큰 수와 가장 작은 수의 곱을 구해 보세요. $30~~$$20~~$$4~~$$40~~$$5$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            3.61,
+            470.22,
+            31.61
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            93.22,
+            48.61,
+            509.22,
+            92.61
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            513,
+            99
+          ],
+          "text": "가장 큰 수와 가장 작은 수의 곱을 구해 보세요. $30~~$$20~~$$4~~$$40~~$$5$"
+        }
+      ]
+    }
+  ]
+}

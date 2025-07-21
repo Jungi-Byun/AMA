@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_06_23298_64214.png",
+  "id": "23298_64214",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106012",
+      "question_topic_name": "분수의 크기 비교하기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 148,
+      "question_success_rate": 87.3
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "조건에 알맞은 분수를 모두 써 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            364,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            29,
+            42,
+            568,
+            224
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            366,
+            30
+          ],
+          "text": "조건에 알맞은 분수를 모두 써 보세요."
+        }
+      ]
+    }
+  ]
+}

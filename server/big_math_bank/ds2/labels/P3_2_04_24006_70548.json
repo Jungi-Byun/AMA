@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_04_24006_70548.png",
+  "id": "24006_70548",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 152,
+      "question_success_rate": 87.27
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "효인이는 새로 산 연필 $45$ 자루 중 $\\frac{1}{5}$은 은재에게 주고, $\\frac{4}{9}$는 윤아에게 주었습니다. 은재와 윤아에게 준 연필은 각각 몇 자루인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            596,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            579,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            78,
+            172,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            597,
+            104
+          ],
+          "text": "효인이는 새로 산 연필 $45$ 자루 중 $\\frac{1}{5}$은 은재에게 주고, $\\frac{4}{9}$는 윤아에게 주었습니다. 은재와 윤아에게 준 연필은 각각 몇 자루인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_02_25753_83483.png",
+  "id": "25753_83483",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202011",
+      "question_topic_name": "계산이 맞는지 확인하기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 69,
+      "question_success_rate": 80.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "계산을 하고 계산 결과가 맞는지 확인하려고 합니다. $□$ 안에 알맞은 수를 써넣으세요. $68\\div9$$=7$ ··· $5$ 확인 $□ \\times □= 63 ⇨ 63 + □ = □$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            588,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            38,
+            238,
+            63
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            227,
+            102,
+            370,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            104,
+            126,
+            490,
+            160
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            590,
+            184
+          ],
+          "text": "계산을 하고 계산 결과가 맞는지 확인하려고 합니다. $□$ 안에 알맞은 수를 써넣으세요. $68\\div9$$=7$ ··· $5$ 확인 $□ \\times □= 63 ⇨ 63 + □ = □$"
+        }
+      ]
+    }
+  ]
+}

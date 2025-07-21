@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_1_03_26207_136097.png",
+  "id": "26207_136097",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103018",
+      "question_topic_name": "몫이 두 자리 수인 몇십몇으로 나누기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 172,
+      "question_success_rate": 72.46
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "원희네 반은 한 모둠에 $8$ 명씩 $4$ 모둠이 있습니다. 색연필 $35 $타를 원희네 반 학생들에게 똑같이 나누어 주었더니 $4$ 자루가 남았습니다. 학생 한 명이 받은 색연필은 몇 자루인지 구해 보세요. (단, 색연필 $1$ 타는 $12$ 자루입니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            4.07,
+            4.5,
+            541.67,
+            27.7
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0.87,
+            31.7,
+            527.27,
+            59.7
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0.87,
+            63.7,
+            594.47,
+            94.9
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            0,
+            91.7,
+            458.47,
+            122.9
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.87,
+            0.05,
+            590.47,
+            125.65
+          ],
+          "text": "원희네 반은 한 모둠에 $8$ 명씩 $4$ 모둠이 있습니다. 색연필 $35 $타를 원희네 반 학생들에게 똑같이 나누어 주었더니 $4$ 자루가 남았습니다. 학생 한 명이 받은 색연필은 몇 자루인지 구해 보세요. (단, 색연필 $1$ 타는 $12$ 자루입니다.)"
+        }
+      ]
+    }
+  ]
+}

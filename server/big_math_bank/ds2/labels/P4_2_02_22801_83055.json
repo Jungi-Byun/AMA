@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P4_2_02_22801_83055.png",
+  "id": "22801_83055",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202005",
+      "question_topic_name": "이등변삼각형의 성질",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 22,
+      "question_success_rate": 96.33
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변의 길이가 빈칸 네모, 단위가 cm이고 옆변의 길이가 6 cm인 세 변의 길이의 합은 20 cm인 이등변삼각형",
+      "question_text": "이등변삼각형의 세 변의 길이의 합은 $20 cm$입니다. $\\square$의 값을 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            4.32,
+            581,
+            30.32
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33.32,
+            125,
+            57.32
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            3.32,
+            585,
+            60.32
+          ],
+          "text": "이등변삼각형의 세 변의 길이의 합은 $20 cm$입니다. $\\square$의 값을 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

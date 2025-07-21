@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_01_22640_60830.png",
+  "id": "22640_60830",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "4101017",
+      "question_topic_name": "큰 수를 뛰어 세기와 크기 비교",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 61,
+      "question_success_rate": 82.85
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$0$부터 $9$까지의 수 중에서 $\\square$에 들어갈 수 있는 수는 모두 몇 개인지 구해 보세요. $31\\square92>31789$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            172,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            225,
+            98,
+            372,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            586,
+            135
+          ],
+          "text": "$0$부터 $9$까지의 수 중에서 $\\square$에 들어갈 수 있는 수는 모두 몇 개인지 구해 보세요. $31\\square92>31789$"
+        }
+      ]
+    }
+  ]
+}

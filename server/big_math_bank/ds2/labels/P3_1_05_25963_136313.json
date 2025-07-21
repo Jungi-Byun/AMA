@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_05_25963_136313.png",
+  "id": "25963_136313",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105003",
+      "question_topic_name": "1cm보다 작은 단위",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 75,
+      "question_success_rate": 93.51
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두께가 $1mm$인 전단지를 여러 장 쌓았더니 높이가 $7cm~ 3mm$가 되었습니다. 쌓은 전단지는 모두 몇 장인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            585,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            562,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            590,
+            59
+          ],
+          "text": "두께가 $1mm$인 전단지를 여러 장 쌓았더니 높이가 $7cm~ 3mm$가 되었습니다. 쌓은 전단지는 모두 몇 장인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

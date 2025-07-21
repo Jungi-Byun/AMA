@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_1_02_34282_135435.png",
+  "id": "34282_135435",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "4102005",
+      "question_topic_name": "각의 크기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 180,
+      "question_success_rate": 71.43
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "각도를 바르게 읽은 사람은 누구인가요?  윤호 : $30\\degree$ 우석 : $150\\degree$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            386,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            163,
+            315,
+            434,
+            340
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            89,
+            50,
+            507,
+            269
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            388,
+            30
+          ],
+          "text": "각도를 바르게 읽은 사람은 누구인가요? "
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            161,
+            313,
+            436,
+            342
+          ],
+          "text": "윤호 : $30\\degree$ 우석 : $150\\degree$"
+        }
+      ]
+    }
+  ]
+}

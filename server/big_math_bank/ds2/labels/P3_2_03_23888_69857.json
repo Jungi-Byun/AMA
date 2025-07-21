@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_03_23888_69857.png",
+  "id": "23888_69857",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203003",
+      "question_topic_name": "원의 중심, 반지름, 지름",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 50,
+      "question_success_rate": 92.59
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "원주에서 원의 중심을 지나 반대쪽 원주까지의 거리가 12 cm이고, 길이가 10 cm인 현이 있는 원 가와 원주에서 원의 중심을 지나 반대쪽 원주까지의 거리가 13 cm이고, 길이가 12 cm인 현, 두 선을 이은 삼각형이 있는 원 나가 나란히 그려진 두 원 그림",
+      "question_text": "두 원 가와 나의 지름의 합은 몇 $cm$인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            407,
+            31
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            26,
+            49,
+            564,
+            321
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            409,
+            31
+          ],
+          "text": "두 원 가와 나의 지름의 합은 몇 $cm$인가요?"
+        }
+      ]
+    }
+  ]
+}

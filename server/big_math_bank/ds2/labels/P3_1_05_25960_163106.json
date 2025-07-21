@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_1_05_25960_163106.png",
+  "id": "25960_163106",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105006",
+      "question_topic_name": "1m보다 큰 단위",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 121,
+      "question_success_rate": 42.86
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "가영이네 집에서 수영장까지의 거리는 $3160 m$이고, 가영이네 집에서 학교까지의 거리는 $3 km 80 m$입니다. 물음에 답하세요. (1) 가영이네 집에서 학교까지의 거리는 몇 m인지 구해 보세요. (2) 수영장과 학교 중 가영이네 집에서 더 가까운 곳은 어디인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            584,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            596,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            113,
+            571,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            145,
+            29,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            309,
+            581,
+            336
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            339,
+            56,
+            364
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "가영이네 집에서 수영장까지의 거리는 $3160 m$이고, 가영이네 집에서 학교까지의 거리는 $3 km 80 m$입니다. 물음에 답하세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            112,
+            573,
+            167
+          ],
+          "text": "(1) 가영이네 집에서 학교까지의 거리는 몇 m인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            308,
+            583,
+            365
+          ],
+          "text": "(2) 수영장과 학교 중 가영이네 집에서 더 가까운 곳은 어디인가요?"
+        }
+      ]
+    }
+  ]
+}

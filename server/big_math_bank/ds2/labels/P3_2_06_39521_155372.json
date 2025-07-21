@@ -1,0 +1,101 @@
+﻿{
+  "question_filename": "P3_2_06_39521_155372.png",
+  "id": "39521_155372",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "06",
+      "question_topic": "3206003",
+      "question_topic_name": "그림그래프 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 248,
+      "question_success_rate": 71.04
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "㉮와 ㉯ 상점에서 하루에 판매한 가방 수를 각각 조사하여 나타낸 그림그래프입니다. 판매한 검정색 가방 수는 ㉯ 상점이 ㉮ 상점보다  $1$ 개,  $3$ 개 더 많을 때 두 상점에서 하루에 판매한 전체 가방 수의 차는 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            571,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            62,
+            597,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            97,
+            469,
+            122
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            4,
+            139,
+            295,
+            443
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            303,
+            139,
+            594,
+            443
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            123
+          ],
+          "text": "㉮와 ㉯ 상점에서 하루에 판매한 가방 수를 각각 조사하여 나타낸 그림그래프입니다. 판매한 검정색 가방 수는 ㉯ 상점이 ㉮ 상점보다  $1$ 개,  $3$ 개 더 많을 때 두 상점에서 하루에 판매한 전체 가방 수의 차는 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

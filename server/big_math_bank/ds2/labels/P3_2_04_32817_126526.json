@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_04_32817_126526.png",
+  "id": "32817_126526",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204007",
+      "question_topic_name": "길이에 대한 분수만큼은 얼마인지 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 54,
+      "question_success_rate": 93.98
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지석이는 하루 $24$ 시간의 $\\frac{3}{4}$만큼 비행기를 탔습니다. 지석이가 몇 시간 동안 비행기를 탔는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            594,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            48,
+            414,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            596,
+            74
+          ],
+          "text": "지석이는 하루 $24$ 시간의 $\\frac{3}{4}$만큼 비행기를 탔습니다. 지석이가 몇 시간 동안 비행기를 탔는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

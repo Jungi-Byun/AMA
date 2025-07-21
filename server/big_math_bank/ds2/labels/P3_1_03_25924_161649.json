@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P3_1_03_25924_161649.png",
+  "id": "25924_161649",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103006",
+      "question_topic_name": "나눗셈식으로 나타내기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 227,
+      "question_success_rate": 53.57
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "(2) $☆$이 나타내는 수를 구해 보세요. 같은 모양은 같은 수를 나타냅니다. $☆$이 나타내는 수를 구해 보세요. $20-\\triangle-\\triangle-\\triangle-\\triangle=0$ $☆\\div4=\\triangle$ (1) $\\triangle$가 나타내는 수를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            3,
+            572,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            73,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            109,
+            98,
+            489,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            198,
+            341,
+            225
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            396,
+            341,
+            423
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            394,
+            343,
+            425
+          ],
+          "text": "(2) $☆$이 나타내는 수를 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1.5,
+            0.3,
+            575.5,
+            136.3
+          ],
+          "text": "같은 모양은 같은 수를 나타냅니다. $☆$이 나타내는 수를 구해 보세요. $20-\\triangle-\\triangle-\\triangle-\\triangle=0$ $☆\\div4=\\triangle$"
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            197.3,
+            342.5,
+            226.3
+          ],
+          "text": "(1) $\\triangle$가 나타내는 수를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

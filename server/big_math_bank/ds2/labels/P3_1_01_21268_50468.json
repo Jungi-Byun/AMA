@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_01_21268_50468.png",
+  "id": "21268_50468",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101018",
+      "question_topic_name": "받아내림이 있는 세 자리 수의 뺄셈",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 85,
+      "question_success_rate": 86.86
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 카드 $8$,$7$,$4$,$2$    중에서 $3$ 장을 골라 한 번씩만 사용하여 세 자리 수를 만들려고 합니다. 만들 수 있는 수 중에서 가장 큰 수와 가장 작은 수의 차를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            591,
+            39
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            41,
+            593,
+            66
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            71,
+            370,
+            96
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            597,
+            97
+          ],
+          "text": "수 카드 $8$,$7$,$4$,$2$    중에서 $3$ 장을 골라 한 번씩만 사용하여 세 자리 수를 만들려고 합니다. 만들 수 있는 수 중에서 가장 큰 수와 가장 작은 수의 차를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

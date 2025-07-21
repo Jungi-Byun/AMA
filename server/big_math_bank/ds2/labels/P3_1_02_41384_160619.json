@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_02_41384_160619.png",
+  "id": "41384_160619",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102014",
+      "question_topic_name": "선분, 반직선, 직선",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 53,
+      "question_success_rate": 94.37
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도형에 있는 선분의 개수가 가장 많은 것과 가장 적은 것의 차는 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            585,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            249,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            43,
+            95,
+            549,
+            216
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            59
+          ],
+          "text": "도형에 있는 선분의 개수가 가장 많은 것과 가장 적은 것의 차는 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

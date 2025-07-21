@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P3_2_04_32815_126498.png",
+  "id": "32815_126498",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204007",
+      "question_topic_name": "길이에 대한 분수만큼은 얼마인지 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 122,
+      "question_success_rate": 87.69
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "복숭아 $64$ 개 중 $\\frac{1}{4}$은 도은이가 먹고, $\\frac{3}{8}$은 동생이 먹었습니다. 물음에 답하세요. (1) 도은이가 먹은 복숭아는 몇 개인지 구해 보세요. (2) 동생이 먹은 복숭아는 몇 개인지 구해 보세요. (3) 도은이와 동생 중 복숭아를 더 많이 먹은 사람은 누구인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            590,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            166,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            89,
+            489,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            350,
+            467,
+            377
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            611,
+            584,
+            638
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            643,
+            34,
+            664
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            592,
+            122
+          ],
+          "text": "복숭아 $64$ 개 중 $\\frac{1}{4}$은 도은이가 먹고, $\\frac{3}{8}$은 동생이 먹었습니다. 물음에 답하세요. (1) 도은이가 먹은 복숭아는 몇 개인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            348,
+            469,
+            379
+          ],
+          "text": "(2) 동생이 먹은 복숭아는 몇 개인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            610,
+            586,
+            665
+          ],
+          "text": "(3) 도은이와 동생 중 복숭아를 더 많이 먹은 사람은 누구인가요?"
+        }
+      ]
+    }
+  ]
+}

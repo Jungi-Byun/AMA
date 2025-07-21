@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_05_21901_58388.png",
+  "id": "21901_58388",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 134,
+      "question_success_rate": 81.33
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음을 보고 지윤이가 공부를 시작한 시각은 몇 시 몇 분 몇 초인지 구해 보세요. 지윤 : 지금 시각은 $5$ 시 $37$ 분 $31$ 초이고, $3$ 시간 $19$ 분 $23$ 초 전부터 공부를 했어.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            172,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            30,
+            94,
+            562,
+            124
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            97,
+            128,
+            318,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            594,
+            156
+          ],
+          "text": "다음을 보고 지윤이가 공부를 시작한 시각은 몇 시 몇 분 몇 초인지 구해 보세요. 지윤 : 지금 시각은 $5$ 시 $37$ 분 $31$ 초이고, $3$ 시간 $19$ 분 $23$ 초 전부터 공부를 했어."
+        }
+      ]
+    }
+  ]
+}

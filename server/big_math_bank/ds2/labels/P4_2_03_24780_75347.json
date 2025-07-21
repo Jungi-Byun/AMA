@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_03_24780_75347.png",
+  "id": "24780_75347",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203018",
+      "question_topic_name": "소수 두 자리 수의 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1,
+      "question_rtime": 132,
+      "question_success_rate": 77.72
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "규진이네 반은 미술시간에 철사를 사용하여 단체 작품을 만들었습니다. 철사 $24 m$가 있었는데 그중에서 $16.56 m$를 사용했고, $7.79 m$를 다시 구입했습니다. 사용할 수 있는 철사는 몇 $m$인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            575,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            582,
+            89
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            78,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            119
+          ],
+          "text": "규진이네 반은 미술시간에 철사를 사용하여 단체 작품을 만들었습니다. 철사 $24 m$가 있었는데 그중에서 $16.56 m$를 사용했고, $7.79 m$를 다시 구입했습니다. 사용할 수 있는 철사는 몇 $m$인가요?"
+        }
+      ]
+    }
+  ]
+}

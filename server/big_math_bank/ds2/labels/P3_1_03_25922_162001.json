@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_03_25922_162001.png",
+  "id": "25922_162001",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103012",
+      "question_topic_name": "나눗셈의 몫 구하기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 136,
+      "question_success_rate": 74.05
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "고양이 $3$ 마리가 하루에 블루베리 $6$ 개를 먹습니다. 모든 고양이가 매일 똑같은 수의 블루베리를 먹는다면 고양이 $6$ 마리가 블루베리 $48$ 개를 먹는 데 며칠이 걸리는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            585,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            585,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            535,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            89
+          ],
+          "text": "고양이 $3$ 마리가 하루에 블루베리 $6$ 개를 먹습니다. 모든 고양이가 매일 똑같은 수의 블루베리를 먹는다면 고양이 $6$ 마리가 블루베리 $48$ 개를 먹는 데 며칠이 걸리는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

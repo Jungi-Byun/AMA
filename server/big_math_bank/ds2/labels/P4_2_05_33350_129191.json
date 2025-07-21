@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P4_2_05_33350_129191.png",
+  "id": "33350_129191",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205005",
+      "question_topic_name": "꺾은선그래프를 보고 내용 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 1,
+      "question_rtime": 56,
+      "question_success_rate": 93.26
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "한강의 수온을 조사하여 나타낸 꺾은선그래프입니다. 꺾은선그래프에 대한 설명으로 옳은 기호를 선택해 보세요. ㄱ. 세로 눈금 한 칸은 $1 °C$를 나타냅니다.  ㄴ. 꺾은선은 시각의 변화를 나타냅니다.  ㄷ. $1$ 시간 간격으로 조사하였습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            583,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            502,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            390,
+            490,
+            415
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            420,
+            485,
+            445
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            101,
+            450,
+            452,
+            475
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            129,
+            63,
+            468,
+            351
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            585,
+            56
+          ],
+          "text": "한강의 수온을 조사하여 나타낸 꺾은선그래프입니다. 꺾은선그래프에 대한 설명으로 옳은 기호를 선택해 보세요. ㄱ. 세로 눈금 한 칸은 $1 °C$를 나타냅니다.  ㄴ. 꺾은선은 시각의 변화를 나타냅니다.  ㄷ. $1$ 시간 간격으로 조사하였습니다."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            99,
+            389,
+            493,
+            476
+          ],
+          "text": null
+        }
+      ]
+    }
+  ]
+}

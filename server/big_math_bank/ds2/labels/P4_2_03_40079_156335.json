@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_03_40079_156335.png",
+  "id": "40079_156335",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203011",
+      "question_topic_name": "소수 한 자리 수의 덧셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 63,
+      "question_success_rate": 82.77
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지윤이는 파란색 테이프를 $1.8$ m 가지고 있고, 노란색 테이프를 파란색 테이프보다 $0.5$ m 더 가지고 있습니다. 지윤이가 가지고 있는 테이프의 길이는 모두 몇 m인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            580,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            586,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            530,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            588,
+            89
+          ],
+          "text": "지윤이는 파란색 테이프를 $1.8$ m 가지고 있고, 노란색 테이프를 파란색 테이프보다 $0.5$ m 더 가지고 있습니다. 지윤이가 가지고 있는 테이프의 길이는 모두 몇 m인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

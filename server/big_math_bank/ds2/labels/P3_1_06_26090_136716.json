@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_06_26090_136716.png",
+  "id": "26090_136716",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106004",
+      "question_topic_name": "분수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 146,
+      "question_success_rate": 80.0
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로로 7칸, 세로로 2칸으로 똑같이 화단을 나누고, 왼쪽 위쪽의 첫 번째 줄의 처음 3칸은 장미를 심고, 바로 옆 4칸에 국화를 심고, 두 번째 줄의 처음 5칸에 해바라기를 심고, 마지막 2칸에 봉선화를 심은 영주네 화단",
+      "question_text": "영주네 화단에 심은 꽃을 나타낸 것입니다. 가장 넓은 부분에 심은 꽃은 무엇이고, 전체의 얼마인지 분수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            33,
+            572,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            65,
+            29,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            121,
+            104,
+            476,
+            208
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            579,
+            87
+          ],
+          "text": "영주네 화단에 심은 꽃을 나타낸 것입니다. 가장 넓은 부분에 심은 꽃은 무엇이고, 전체의 얼마인지 분수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

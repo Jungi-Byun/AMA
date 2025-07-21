@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_04_24217_82121.png",
+  "id": "24217_82121",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204015",
+      "question_topic_name": "분모가 같은 가분수와 대분수의 크기 비교 _ 가분수를 대분수로",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 47,
+      "question_success_rate": 95.95
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지민이네 집에서 학교까지는 $\\frac{16}{5} km$, 도서관까지는 $3\\frac{2}{5} km$, 서점까지는 $3\\frac{4}{5} km$입니다. 지민이네 집에서 가장 먼 곳은 어디인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            594,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            44,
+            595,
+            84
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            92,
+            56,
+            117
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            597,
+            118
+          ],
+          "text": "지민이네 집에서 학교까지는 $\\frac{16}{5} km$, 도서관까지는 $3\\frac{2}{5} km$, 서점까지는 $3\\frac{4}{5} km$입니다. 지민이네 집에서 가장 먼 곳은 어디인가요?"
+        }
+      ]
+    }
+  ]
+}

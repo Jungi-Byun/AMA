@@ -1,0 +1,121 @@
+﻿{
+  "question_filename": "P4_2_01_33089_127323.png",
+  "id": "33089_127323",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201012",
+      "question_topic_name": "(대분수)-(대분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1,
+      "question_rtime": 101,
+      "question_success_rate": 80.49
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "미술 시간에 찰흙으로 만들기를 했습니다. 경호는 찰흙이 부족해서 보경이에게 $2\\frac{3}{13}$ 개를 받았습니다. 경호가 찰흙 $3\\frac{2}{13} 개$를 사용하고 $\\frac{6}{13} 개$가 남았습니다. 경호가 처음에 가지고 있던 찰흙은 몇 개인지 구해 보세요. (1) 경호가 사용한 찰흙의 양과 남은 찰흙의 양을 더하면 몇 개인지 구해 보세요. (2) 경호가 처음에 가지고 있던 찰흙은 몇 개인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            30,
+            576,
+            70
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            75,
+            586,
+            114
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            122,
+            293,
+            147
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            162,
+            587,
+            188
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            33,
+            193,
+            204,
+            218
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            465,
+            586,
+            492
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            219
+          ],
+          "text": "미술 시간에 찰흙으로 만들기를 했습니다. 경호는 찰흙이 부족해서 보경이에게 $2\\frac{3}{13}$ 개를 받았습니다. 경호가 찰흙 $3\\frac{2}{13} 개$를 사용하고 $\\frac{6}{13} 개$가 남았습니다. 경호가 처음에 가지고 있던 찰흙은 몇 개인지 구해 보세요. (1) 경호가 사용한 찰흙의 양과 남은 찰흙의 양을 더하면 몇 개인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            5,
+            463,
+            589,
+            494
+          ],
+          "text": "(2) 경호가 처음에 가지고 있던 찰흙은 몇 개인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

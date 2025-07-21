@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_01_39687_155497.png",
+  "id": "39687_155497",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "4201006",
+      "question_topic_name": "(진분수)-(진분수), 1-(진분수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 139,
+      "question_success_rate": 88.59
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민재는 한 시간 동안 어떤 역사책을 전체의 $\\frac{4}{21}$만큼 읽었습니다. 민재가 같은 빠르기로 이 역사책을 $4$ 시간 동안 읽었다면 읽고 남은 역사책은 전체의 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            1,
+            581,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            572,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            78,
+            480,
+            103
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            583,
+            104
+          ],
+          "text": "민재는 한 시간 동안 어떤 역사책을 전체의 $\\frac{4}{21}$만큼 읽었습니다. 민재가 같은 빠르기로 이 역사책을 $4$ 시간 동안 읽었다면 읽고 남은 역사책은 전체의 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

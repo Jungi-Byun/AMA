@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_02_23803_82194.png",
+  "id": "23803_82194",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202005",
+      "question_topic_name": "나머지가 있는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 31,
+      "question_success_rate": 86.74
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "색종이 $38$ 장을 $5$ 명이 똑같이 나누어 사용하려고 합니다. 사용하고 남은 색종이는 몇 장인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            596,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            320,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "색종이 $38$ 장을 $5$ 명이 똑같이 나누어 사용하려고 합니다. 사용하고 남은 색종이는 몇 장인가요?"
+        }
+      ]
+    }
+  ]
+}

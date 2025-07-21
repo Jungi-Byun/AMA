@@ -1,0 +1,141 @@
+﻿{
+  "question_filename": "P4_1_04_26426_136367.png",
+  "id": "26426_136367",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "4104009",
+      "question_topic_name": "돌리기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 212,
+      "question_success_rate": 65.22
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "다음 도형을 시계 반대 방향으로 $270\\degree$만큼 돌렸을 때의 도형에 대한 설명 중 옳은 것을 찾아 기호를 선택해 보세요. ㄱ. 도형의 위쪽 부분이 오른쪽으로 이동합니다. ㄴ. 시계 방향으로 $90\\degree$만큼 $3$ 번 돌렸을 때의 도형과 같습니다. ㄷ. 시계 반대 방향으로 $90\\degree$만큼 돌렸을 때의 도형과 같습니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            592,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            491,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            156,
+            91,
+            562,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            189,
+            121,
+            238,
+            146
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            156,
+            151,
+            570,
+            176
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            187,
+            181,
+            353,
+            206
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            156,
+            211,
+            575,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            187,
+            241,
+            353,
+            266
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            9,
+            126,
+            115,
+            230
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            594,
+            59
+          ],
+          "text": "다음 도형을 시계 반대 방향으로 $270\\degree$만큼 돌렸을 때의 도형에 대한 설명 중 옳은 것을 찾아 기호를 선택해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            154,
+            90,
+            577,
+            267
+          ],
+          "text": "ㄱ. 도형의 위쪽 부분이 오른쪽으로 이동합니다. ㄴ. 시계 방향으로 $90\\degree$만큼 $3$ 번 돌렸을 때의 도형과 같습니다. ㄷ. 시계 반대 방향으로 $90\\degree$만큼 돌렸을 때의 도형과 같습니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P3_1_02_34286_160956.png",
+  "id": "34286_160956",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "02",
+      "question_topic": "3102008",
+      "question_topic_name": "직각과 직각삼각형",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 177,
+      "question_success_rate": 59.26
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "두 도형에 대한 설명으로 잘못된 것을 찾아 기호를 선택해 보세요. ㄱ. 두 삼각형 모두 직각삼각형입니다. ㄴ. 가는 세 변의 길이가 모두 같습니다. ㄷ. 나는 세 변의 길이가 모두 다릅니다.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            578,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            34,
+            51,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            302,
+            422,
+            327
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            57,
+            340,
+            433,
+            365
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            56,
+            379,
+            433,
+            404
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            134,
+            81,
+            463,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            60
+          ],
+          "text": "두 도형에 대한 설명으로 잘못된 것을 찾아 기호를 선택해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            54,
+            301,
+            435,
+            405
+          ],
+          "text": "ㄱ. 두 삼각형 모두 직각삼각형입니다. ㄴ. 가는 세 변의 길이가 모두 같습니다. ㄷ. 나는 세 변의 길이가 모두 다릅니다."
+        }
+      ]
+    }
+  ]
+}

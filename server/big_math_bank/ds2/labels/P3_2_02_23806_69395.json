@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_02_23806_69395.png",
+  "id": "23806_69395",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 56,
+      "question_success_rate": 96.98
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "귤이 한 상자에 $8$ 개씩 $3$ 상자 있습니다. 이것을 $2$ 명이 똑같이 나누어 먹는다면 한 명이 먹는 귤은 몇 개인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            583,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            468,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            585,
+            59
+          ],
+          "text": "귤이 한 상자에 $8$ 개씩 $3$ 상자 있습니다. 이것을 $2$ 명이 똑같이 나누어 먹는다면 한 명이 먹는 귤은 몇 개인가요?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+﻿{
+  "question_filename": "P3_1_05_25960_163105.png",
+  "id": "25960_163105",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105006",
+      "question_topic_name": "1m보다 큰 단위",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 1,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 222,
+      "question_success_rate": 64.29
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "지아네 집에서 영화관까지의 거리는 $7 km 60 m$이고, 지아네 집에서 마트까지의 거리는 $7580 m$입니다. 물음에 답하세요. (1) 지아네 집에서 영화관까지의 거리는 몇 m인지 구해 보세요. (2) 영화관과 마트 중 지아네 집에서 더 가까운 곳은 어디인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            547,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            113,
+            571,
+            140
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            145,
+            29,
+            166
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            309,
+            584,
+            336
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            341,
+            34,
+            362
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.55,
+            1.23,
+            595.55,
+            172.23
+          ],
+          "text": "지아네 집에서 영화관까지의 거리는 $7 km 60 m$이고, 지아네 집에서 마트까지의 거리는 $7580 m$입니다. 물음에 답하세요. (1) 지아네 집에서 영화관까지의 거리는 몇 m인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            308.23,
+            586.55,
+            365.23
+          ],
+          "text": "(2) 영화관과 마트 중 지아네 집에서 더 가까운 곳은 어디인가요?"
+        }
+      ]
+    }
+  ]
+}

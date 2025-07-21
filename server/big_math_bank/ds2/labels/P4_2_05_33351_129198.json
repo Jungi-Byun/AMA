@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_05_33351_129198.png",
+  "id": "33351_129198",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205005",
+      "question_topic_name": "꺾은선그래프를 보고 내용 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 54,
+      "question_success_rate": 97.92
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "단위가 (시)이고 5부터 11까지 단위가 1이면서 1칸마다 6부터 10까지 단위를 적은 시각을 가로로, 단위가 (개)이고 0부터 25까지 단위가 1이면서 5칸마다 5의 배수로 단위를 적은 판매량을 세로로 하고 6시는 7개, 7시는 16개, 8시는 20개, 9시는 24개, 10시는 21개를 나타낸 제목이 호떡 판매량인 꺾은선그래프",
+      "question_text": "어느 호떡 가게의 판매량을 오후에 조사하여 나타낸 꺾은선그래프입니다. 호떡 판매량이 감소하기 시작한 시각은 몇 시인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            590,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            591,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            65,
+            34,
+            86
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            125.73,
+            96,
+            473.73,
+            395
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            2.09,
+            3.31,
+            597.11,
+            87.84
+          ],
+          "text": "어느 호떡 가게의 판매량을 오후에 조사하여 나타낸 꺾은선그래프입니다. 호떡 판매량이 감소하기 시작한 시각은 몇 시인가요?"
+        }
+      ]
+    }
+  ]
+}

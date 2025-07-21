@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_03_32695_125199.png",
+  "id": "32695_125199",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "3203007",
+      "question_topic_name": "원 그리기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 37,
+      "question_success_rate": 92.73
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "지름이 6 cm이고, 길이가 4 cm인 현이 그려진 원 가와 지름이 8 cm이고, 길이가 4 cm인 현이 그려진 원 나에서 원 가의 현은 지름보다 아래에 있으며, 원 나의 현은 지름의 한 점과 이어져 있는 도형",
+      "question_text": "두 원 $가$와 $나$의 반지름의 차는 몇 $cm$인가요? ",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            429,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            24,
+            54,
+            196,
+            236
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            261,
+            53,
+            485,
+            259
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            431,
+            30
+          ],
+          "text": "두 원 $가$와 $나$의 반지름의 차는 몇 $cm$인가요? "
+        }
+      ]
+    }
+  ]
+}

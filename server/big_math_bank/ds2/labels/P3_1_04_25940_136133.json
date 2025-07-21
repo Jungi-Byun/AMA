@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_1_04_25940_136133.png",
+  "id": "25940_136133",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104006",
+      "question_topic_name": "십의 자리에서 올림이 있는 (몇십몇) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 55,
+      "question_success_rate": 82.11
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$41$ 개씩 포장된 도토리 $6$ 상자와 $62$ 개씩 포장된 밤 $4$ 상자가 있습니다. 도토리와 밤 중 더 적은 것은 어느 것인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            501,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            59
+          ],
+          "text": "$41$ 개씩 포장된 도토리 $6$ 상자와 $62$ 개씩 포장된 밤 $4$ 상자가 있습니다. 도토리와 밤 중 더 적은 것은 어느 것인가요?"
+        }
+      ]
+    }
+  ]
+}

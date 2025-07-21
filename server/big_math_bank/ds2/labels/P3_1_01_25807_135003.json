@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_01_25807_135003.png",
+  "id": "25807_135003",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "01",
+      "question_topic": "3101010",
+      "question_topic_name": "받아올림이 있는 세 자리 수의 덧셈",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 1,
+      "question_contents": 0,
+      "question_rtime": 154,
+      "question_success_rate": 58.46
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "공연장에 입장한 관객 수를 조사했습니다. 토요일과 일요일 중 입장한 관객이 더 적은 요일은 언제인가요? <table border> <tbody> <tr> <td></td> <td>토요일</td> <td>일요일</td> </tr> <tr> <td>남자</td> <td>$195$명</td> <td>$247$명</td> </tr> <tr> <td>여자</td> <td>$343$명</td> <td>$256$명</td> </tr> </tbody> </table>",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            4,
+            33,
+            413,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            163,
+            70,
+            434,
+            192
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            194
+          ],
+          "text": "공연장에 입장한 관객 수를 조사했습니다. 토요일과 일요일 중 입장한 관객이 더 적은 요일은 언제인가요? <table border> <tbody> <tr> <td></td> <td>토요일</td> <td>일요일</td> </tr> <tr> <td>남자</td> <td>$195$명</td> <td>$247$명</td> </tr> <tr> <td>여자</td> <td>$343$명</td> <td>$256$명</td> </tr> </tbody> </table>"
+        }
+      ]
+    }
+  ]
+}

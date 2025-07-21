@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_1_06_42088_164015.png",
+  "id": "42088_164015",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "4106010",
+      "question_topic_name": "계산식의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "변화와 관계",
+      "question_step": "실생활응용",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 137,
+      "question_success_rate": 92.94
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "도현이네 아파트의 엘리베이터 버튼의 수 배열에서  $\\square$안에 있는 $3$ 개의 수의 합은 $60$입니다.  $\\square$와 같은 모양으로 $3$ 개의 수를 더했을 때 $66$이 되는 $3$ 개의 수 중 가장 작은 수인 층에 도현이가 산다면 도현이는 몇 층에 사는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            574,
+            53
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            53,
+            575,
+            102
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            103,
+            591,
+            128
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            133,
+            507,
+            158
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            212,
+            180,
+            385,
+            450
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            593,
+            159
+          ],
+          "text": "도현이네 아파트의 엘리베이터 버튼의 수 배열에서  $\\square$안에 있는 $3$ 개의 수의 합은 $60$입니다.  $\\square$와 같은 모양으로 $3$ 개의 수를 더했을 때 $66$이 되는 $3$ 개의 수 중 가장 작은 수인 층에 도현이가 산다면 도현이는 몇 층에 사는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

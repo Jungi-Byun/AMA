@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P4_2_05_40352_157931.png",
+  "id": "40352_157931",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205008",
+      "question_topic_name": "꺾은선그래프 해석하기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 1,
+      "question_rtime": 107,
+      "question_success_rate": 85.06
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민혁이가 이번 달에 한 팔 굽혀 펴기 횟수를 나타낸 꺾은선그래프입니다. 민혁이가 매일 일정한 횟수만큼 늘려가며 팔 굽혀 펴기를 할 때 이번 달 $6$ 일에는 팔 굽혀 펴기를 몇 회 해야 하나요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            593,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            590,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            95,
+            34,
+            116
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            40.67,
+            121.65,
+            552.67,
+            660.65
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0.67,
+            0,
+            595.67,
+            122.65
+          ],
+          "text": "민혁이가 이번 달에 한 팔 굽혀 펴기 횟수를 나타낸 꺾은선그래프입니다. 민혁이가 매일 일정한 횟수만큼 늘려가며 팔 굽혀 펴기를 할 때 이번 달 $6$ 일에는 팔 굽혀 펴기를 몇 회 해야 하나요?"
+        }
+      ]
+    }
+  ]
+}

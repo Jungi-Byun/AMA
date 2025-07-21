@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_1_06_42043_163856.png",
+  "id": "42043_163856",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "06",
+      "question_topic": "3106016",
+      "question_topic_name": "mm와 cm의 관계를 이용하여 자연수와 소수 이해하기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 148,
+      "question_success_rate": 84.36
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "민영이는 한 도막의 길이가 $0.8\\text{ }\\text{cm}$인 철사 $7$ 도막을 가지고 있고, 주희는 한 도막의 길이가 $4\\text{ }\\text{mm}$인 철사 $8$ 도막을 가지고 있습니다. 두 사람 중 가지고 있는 철사의 길이의 합이 더 긴 사람을 선택하고 몇 $cm$ 더 긴지 소수로 나타내어 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            584,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            586,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            593,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            496,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            119
+          ],
+          "text": "민영이는 한 도막의 길이가 $0.8\\text{ }\\text{cm}$인 철사 $7$ 도막을 가지고 있고, 주희는 한 도막의 길이가 $4\\text{ }\\text{mm}$인 철사 $8$ 도막을 가지고 있습니다. 두 사람 중 가지고 있는 철사의 길이의 합이 더 긴 사람을 선택하고 몇 $cm$ 더 긴지 소수로 나타내어 보세요."
+        }
+      ]
+    }
+  ]
+}

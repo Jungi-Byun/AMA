@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_1_05_21894_58452.png",
+  "id": "21894_58452",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 102,
+      "question_success_rate": 84.04
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "상우는 박물관에 가는 데 전철을 $1$ 시간 $52$ 분 동안 타고, 버스를 $1 $시간 $19$ 분 동안 탔습니다. 상우가 전철과 버스를 탄 시간은 모두 몇 시간 몇 분인가요?",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            3,
+            584,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            585,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            281,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            89
+          ],
+          "text": "상우는 박물관에 가는 데 전철을 $1$ 시간 $52$ 분 동안 타고, 버스를 $1 $시간 $19$ 분 동안 탔습니다. 상우가 전철과 버스를 탄 시간은 모두 몇 시간 몇 분인가요? "
+        }
+      ]
+    }
+  ]
+}

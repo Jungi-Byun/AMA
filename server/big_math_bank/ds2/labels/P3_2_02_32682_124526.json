@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_02_32682_124526.png",
+  "id": "32682_124526",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "3202004",
+      "question_topic_name": "내림이 있고 나머지가 없는 (몇십몇)÷(몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 61,
+      "question_success_rate": 88.42
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "윗변의 가로의 길이가 33 cm, 오른쪽 세로의 길이가 40 cm인 네 각이 모두 직각인 직사각형",
+      "question_text": "다음 색 도화지의 긴 변을 $4$ $cm$씩 자르고, 짧은 변을 $3$ $cm$씩 잘라서 직사각형 모양의 카드를 만들려고 합니다. 카드는 몇 장까지 만들 수 있는지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            589,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            579,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            320,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            190,
+            115,
+            406,
+            323
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            591,
+            88
+          ],
+          "text": "다음 색 도화지의 긴 변을 $4$ $cm$씩 자르고, 짧은 변을 $3$ $cm$씩 잘라서 직사각형 모양의 카드를 만들려고 합니다. 카드는 몇 장까지 만들 수 있는지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

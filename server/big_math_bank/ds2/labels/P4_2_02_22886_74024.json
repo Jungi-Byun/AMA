@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_02_22886_74024.png",
+  "id": "22886_74024",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202009",
+      "question_topic_name": "정삼각형의 성질",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 147,
+      "question_success_rate": 93.11
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "점 ㄱ과 점 ㄹ을 이어 만든 각 ㅁㄹㄱ에 각 표시가 되어있는, 변 ㄴㅁ을 기준으로 겹치지 않게 이어 붙인 정삼각형 ㄱㄴㅁ과 아래에 있는 정사각형 ㄴㄷㄹㅁ인 두 도형 그림",
+      "question_text": "다음은 정삼각형 $ㄱㄴㅁ$과 정사각형 $ㄴㄷㄹㅁ$을 겹치지 않게 이어 붙인 것입니다. 각 $ㅁㄹㄱ$의 크기를 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            581,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            513,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            213.72,
+            81.67,
+            380.29,
+            331.81
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            0,
+            2.4,
+            582.4,
+            59.49
+          ],
+          "text": "다음은 정삼각형 $ㄱㄴㅁ$과 정사각형 $ㄴㄷㄹㅁ$을 겹치지 않게 이어 붙인 것입니다. 각 $ㅁㄹㄱ$의 크기를 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

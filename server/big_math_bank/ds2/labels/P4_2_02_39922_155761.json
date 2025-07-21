@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_02_39922_155761.png",
+  "id": "39922_155761",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "02",
+      "question_topic": "4202012",
+      "question_topic_name": "삼각형을 각의 크기에 따라 분류하기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 191,
+      "question_success_rate": 87.27
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "밑변의 길이가 15 cm이고, 밑변과 수직인 변의 길이가 20 cm, 빗변의 길이가 25 cm인 직각삼각형",
+      "question_text": "다음과 같은 삼각형 $2$ 개를 이어 붙여서 만들 수 있는 두 개의 이등변삼각형 중에서 예각삼각형의 세 변의 길이의 합과 둔각삼각형의 세 변의 길이의 합의 차는 $몇 cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            577,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            589,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            3,
+            63,
+            567,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            215,
+            110,
+            384,
+            275
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            592,
+            89
+          ],
+          "text": "다음과 같은 삼각형 $2$ 개를 이어 붙여서 만들 수 있는 두 개의 이등변삼각형 중에서 예각삼각형의 세 변의 길이의 합과 둔각삼각형의 세 변의 길이의 합의 차는 $몇 cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+﻿{
+  "question_filename": "P3_2_01_23565_66929.png",
+  "id": "23565_66929",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201006",
+      "question_topic_name": "십의 자리, 백의 자리에서 올림이 있는 (세 자리 수)×(한 자리 수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 54,
+      "question_success_rate": 93.15
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$\\square$안에 알맞은 수를 써넣으세요. $\\begin{array}{r} 35\\square\\\\ \\times~~~~ 8\\\\ \\hline 2848 \\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            326,
+            37
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            250,
+            48,
+            347,
+            132
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            349,
+            134
+          ],
+          "text": "$\\square$안에 알맞은 수를 써넣으세요. $\\begin{array}{r} 35\\square\\\\ \\times~~~~ 8\\\\ \\hline 2848 \\end{array}$"
+        }
+      ]
+    }
+  ]
+}

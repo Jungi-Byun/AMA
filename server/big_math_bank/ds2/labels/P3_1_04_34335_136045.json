@@ -1,0 +1,141 @@
+﻿{
+  "question_filename": "P3_1_04_34335_136045.png",
+  "id": "34335_136045",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104002",
+      "question_topic_name": "(몇십) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 106,
+      "question_success_rate": 81.25
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 학생의 대화를 읽고 물음에 답하세요.$\\\\$ 지현 : 나는 색연필을 $10$자루 가지고 있어.$\\\\$ 승해 : 나는 지현이가 가지고 있는 색연필 수의 $3$배 만큼 가지고 있어.$\\\\$ 민지 : 나는 승해가 가지고 있는 색연필 수의 $3$배만큼 가지고 있어. (1) 승해가 가지고 있는 색연필은 몇 자루인지 구해 보세요. (2) 민지가 가지고 있는 색연필은 몇 자루인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            386,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            64,
+            428,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            94,
+            555,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            86,
+            128,
+            208,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            154,
+            561,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            86,
+            188,
+            186,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            292,
+            558,
+            319
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            454,
+            561,
+            481
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            564,
+            222
+          ],
+          "text": "세 학생의 대화를 읽고 물음에 답하세요.$\\\\$ 지현 : 나는 색연필을 $10$자루 가지고 있어.$\\\\$ 승해 : 나는 지현이가 가지고 있는 색연필 수의 $3$배 만큼 가지고 있어.$\\\\$ 민지 : 나는 승해가 가지고 있는 색연필 수의 $3$배만큼 가지고 있어."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            290,
+            560,
+            321
+          ],
+          "text": "(1) 승해가 가지고 있는 색연필은 몇 자루인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            452,
+            561,
+            483
+          ],
+          "text": "(2) 민지가 가지고 있는 색연필은 몇 자루인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

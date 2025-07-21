@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_1_03_41488_161088.png",
+  "id": "41488_161088",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "3103003",
+      "question_topic_name": "똑같이 나누기",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 175,
+      "question_success_rate": 80.55
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "딸기맛 젤리가 $36$ 개, 망고맛 젤리가 $40$ 개 있습니다. 딸기맛 젤리는 한 사람이 $4$ 개씩 모두 나누어 가졌고, 망고맛 젤리는 한 사람이 $8$ 개씩 모두 나누어 가졌습니다. 어떤 맛 젤리를 가진 사람이 몇 명 더 많은지 구해 보세요. (단, 한 사람은 한 가지 맛 젤리만 가집니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            29
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            579,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            572,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            93,
+            591,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            123,
+            174,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            597,
+            151
+          ],
+          "text": "딸기맛 젤리가 $36$ 개, 망고맛 젤리가 $40$ 개 있습니다. 딸기맛 젤리는 한 사람이 $4$ 개씩 모두 나누어 가졌고, 망고맛 젤리는 한 사람이 $8$ 개씩 모두 나누어 가졌습니다. 어떤 맛 젤리를 가진 사람이 몇 명 더 많은지 구해 보세요. (단, 한 사람은 한 가지 맛 젤리만 가집니다.)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_2_04_24008_70822.png",
+  "id": "24008_70822",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204006",
+      "question_topic_name": "자연수에 대한 분수 만큼은 얼마인지 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 192,
+      "question_success_rate": 92.36
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$14$의 $\\frac{1}{2}$, $\\frac{2}{7}$, $\\frac{5}{7}$, $\\frac{3}{7}$만큼 되는 곳에 알맞은 글자를 찾아  안에 써넣어 속담을 완성하세요. $14$의$\\frac{1}{2} \\rightarrow$언  $14$의$\\frac{2}{7} \\rightarrow$아 $14$의$\\frac{5}{7} \\rightarrow$천 $14$의$\\frac{3}{7} \\rightarrow$일",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            1,
+            594,
+            40
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            48,
+            260,
+            73
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            146,
+            110,
+            453,
+            149
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            146,
+            154,
+            451,
+            194
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            1,
+            219,
+            576,
+            298
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            1,
+            597,
+            226
+          ],
+          "text": "$14$의 $\\frac{1}{2}$, $\\frac{2}{7}$, $\\frac{5}{7}$, $\\frac{3}{7}$만큼 되는 곳에 알맞은 글자를 찾아  안에 써넣어 속담을 완성하세요. $14$의$\\frac{1}{2} \\rightarrow$언  $14$의$\\frac{2}{7} \\rightarrow$아 $14$의$\\frac{5}{7} \\rightarrow$천 $14$의$\\frac{3}{7} \\rightarrow$일"
+        }
+      ]
+    }
+  ]
+}

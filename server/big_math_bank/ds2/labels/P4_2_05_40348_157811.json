@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P4_2_05_40348_157811.png",
+  "id": "40348_157811",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "05",
+      "question_topic": "4205005",
+      "question_topic_name": "꺾은선그래프를 보고 내용 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "자료와 가능성",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 110,
+      "question_success_rate": 86.88
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": "가로축에 단위가 (월)인 월이 계급으로, 세로축에는 단위가 (cm)인 키를 도수로, 눈금의 단위가 0.1이고, 0과 132 사이에는 물결선으로 생략 표시가 있고, 5칸마다 132, 132.5, 133의 숫자가 표시되어 있을 때, 희수의 키는 1월에는 132.1 cm, 2월에는 132.5 cm, 3월에는 132.8 cm, 4월에는 133 cm, 5월에는 133.1 cm로 빨간색 선으로 나타내고 문영이의 키는 1월에는 132.2 cm, 2월에는 132.4 cm, 3월에는 132.6 cm, 4월에는 132.7 cm, 5월에는 133 cm로 파란색 선으로 나타낸 제목이 희수와 문영이의 키인 꺾은선그래프",
+      "question_text": "희수와 문영이의 키를 매월 $1$ 일에 조사하여 나타낸 꺾은선그래프입니다. 희수가 문영이보다 $0.2$ $cm$ 더 큰 때의 두 사람의 키의 합은 몇 $cm$인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            585,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            571,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            325,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "image",
+          "bbox": [
+            57,
+            111,
+            540,
+            544
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            587,
+            89
+          ],
+          "text": "희수와 문영이의 키를 매월 $1$ 일에 조사하여 나타낸 꺾은선그래프입니다. 희수가 문영이보다 $0.2$ $cm$ 더 큰 때의 두 사람의 키의 합은 몇 $cm$인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

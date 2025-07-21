@@ -1,0 +1,81 @@
+﻿{
+  "question_filename": "P3_2_04_24052_70447.png",
+  "id": "24052_70447",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "04",
+      "question_topic": "3204008",
+      "question_topic_name": "진분수, 가분수, 자연수 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 97,
+      "question_success_rate": 96.43
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수 카드가 각각 $2$ 장씩 있습니다. 수 카드를 사용하여 만들 수 있는 가분수를 모두 고르세요. (정답 $3$ 개) $2$ $3$ $5$ $6$ ① $\\frac{5}{6}$ ② $\\frac{3}{3}$ ③ $\\frac{6}{2}$ ④ $\\frac{6}{5}$ ⑤ $\\frac{3}{6}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            396,
+            60
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            201,
+            73,
+            396,
+            134
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            14,
+            163,
+            555,
+            200
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            202
+          ],
+          "text": "수 카드가 각각 $2$ 장씩 있습니다. 수 카드를 사용하여 만들 수 있는 가분수를 모두 고르세요. (정답 $3$ 개) $2$ $3$ $5$ $6$ ① $\\frac{5}{6}$ ② $\\frac{3}{3}$ ③ $\\frac{6}{2}$ ④ $\\frac{6}{5}$ ⑤ $\\frac{3}{6}$"
+        }
+      ]
+    }
+  ]
+}

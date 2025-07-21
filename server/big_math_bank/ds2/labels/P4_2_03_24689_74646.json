@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_2_03_24689_74646.png",
+  "id": "24689_74646",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 2,
+      "question_unit": "03",
+      "question_topic": "4203015",
+      "question_topic_name": "소수 두 자리 수의 덧셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 3,
+      "question_contents": 0,
+      "question_rtime": 70,
+      "question_success_rate": 96.6
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "소수 두 자리 수의 덧셈식에 잉크가 묻어 일부분이 보이지 않습니다. ㉠, ㉡, ㉢에 들어갈 알맞은 수를 각각 구해 보세요. $\\begin{array}{r} 5.6㉠\\\\ +4.㉡6\\\\ \\hline ㉢.84 \\end{array}$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            557,
+            59
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            226,
+            88,
+            373,
+            199
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            199
+          ],
+          "text": "소수 두 자리 수의 덧셈식에 잉크가 묻어 일부분이 보이지 않습니다. ㉠, ㉡, ㉢에 들어갈 알맞은 수를 각각 구해 보세요. $\\begin{array}{r} 5.6㉠\\\\ +4.㉡6\\\\ \\hline ㉢.84 \\end{array}$"
+        }
+      ]
+    }
+  ]
+}

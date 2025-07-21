@@ -1,0 +1,141 @@
+﻿{
+  "question_filename": "P3_1_04_34335_136046.png",
+  "id": "34335_136046",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "04",
+      "question_topic": "3104002",
+      "question_topic_name": "(몇십) × (몇)",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "계산",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 84,
+      "question_success_rate": 90.91
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "세 학생의 대화를 읽고 물음에 답하세요. 승헌: 나는 딱지를 $10$장 가지고 있어 민철: 나는 승헌이가 가지고 있는 딱지 수의 $2$배 만큼 가지고 있어. 영훈: 나는 민철이가 가지고 있는 딱지 수의 $6$ 배만큼 가지고 있어. (1) 민철이가 가지고 있는 딱지는 몇 장인지 구해 보세요. (2) 영훈이가 가지고 있는 딱지는 몇 장인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            8,
+            3,
+            386,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            24,
+            64,
+            384,
+            93
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            26,
+            94,
+            561,
+            123
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            86,
+            128,
+            186,
+            153
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            25,
+            154,
+            561,
+            183
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            86,
+            188,
+            186,
+            213
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            8,
+            292,
+            539,
+            319
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            7,
+            454,
+            539,
+            481
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            562,
+            224
+          ],
+          "text": "세 학생의 대화를 읽고 물음에 답하세요. 승헌: 나는 딱지를 $10$장 가지고 있어 민철: 나는 승헌이가 가지고 있는 딱지 수의 $2$배 만큼 가지고 있어. 영훈: 나는 민철이가 가지고 있는 딱지 수의 $6$ 배만큼 가지고 있어."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            290,
+            541,
+            321
+          ],
+          "text": "(1) 민철이가 가지고 있는 딱지는 몇 장인지 구해 보세요."
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            452,
+            541,
+            483
+          ],
+          "text": "(2) 영훈이가 가지고 있는 딱지는 몇 장인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

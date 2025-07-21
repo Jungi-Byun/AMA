@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P3_2_01_38655_153169.png",
+  "id": "38655_153169",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 2,
+      "question_unit": "01",
+      "question_topic": "3201010",
+      "question_topic_name": "(몇)x(몇십몇) 알아보기",
+      "question_type1": "서술",
+      "question_type2": 1,
+      "question_condition": 0,
+      "question_sector1": "추론",
+      "question_sector2": "수와 연산",
+      "question_step": "기본",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 201,
+      "question_success_rate": 91.12
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "$1$부터 $9$까지의 수 중에서 $□$에 들어갈 수 있는 수를 모두 구해 보세요. $19\\times20<□\\times72<195\\times3$",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            579,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            73,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            169,
+            98,
+            428,
+            118
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            581,
+            148
+          ],
+          "text": "$1$부터 $9$까지의 수 중에서 $□$에 들어갈 수 있는 수를 모두 구해 보세요. $19\\times20<□\\times72<195\\times3$"
+        }
+      ]
+    }
+  ]
+}

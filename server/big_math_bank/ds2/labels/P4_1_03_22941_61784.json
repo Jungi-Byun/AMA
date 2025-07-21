@@ -1,0 +1,71 @@
+﻿{
+  "question_filename": "P4_1_03_22941_61784.png",
+  "id": "22941_61784",
+  "question_info": [
+    {
+      "question_grade": "P4",
+      "question_term": 1,
+      "question_unit": "03",
+      "question_topic": "4103006",
+      "question_topic_name": "(세 자리 수) x (두 자리 수)",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "이해",
+      "question_sector2": "수와 연산",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 71,
+      "question_success_rate": 90.88
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "수첩 한 개를 만드는 데 드는 재료비가 $375$ 원이라고 합니다. 수첩 $12$ 개를 만드는 데 드는 재료비는 모두 얼마인지 구해 보세요.",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            574,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            33,
+            585,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            51,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            586,
+            89
+          ],
+          "text": "수첩 한 개를 만드는 데 드는 재료비가 $375$ 원이라고 합니다. 수첩 $12$ 개를 만드는 데 드는 재료비는 모두 얼마인지 구해 보세요."
+        }
+      ]
+    }
+  ]
+}

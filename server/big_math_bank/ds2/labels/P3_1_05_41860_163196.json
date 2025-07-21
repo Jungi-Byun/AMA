@@ -1,0 +1,91 @@
+﻿{
+  "question_filename": "P3_1_05_41860_163196.png",
+  "id": "41860_163196",
+  "question_info": [
+    {
+      "question_grade": "P3",
+      "question_term": 1,
+      "question_unit": "05",
+      "question_topic": "3105022",
+      "question_topic_name": "시, 분, 초 단위의 시간의 덧셈과 뺄셈의 활용",
+      "question_type1": "서술",
+      "question_type2": 2,
+      "question_condition": 0,
+      "question_sector1": "문제해결",
+      "question_sector2": "도형과 측정",
+      "question_step": "실생활응용",
+      "question_difficulty": 2,
+      "question_contents": 0,
+      "question_rtime": 256,
+      "question_success_rate": 77.57
+    }
+  ],
+  "OCR_info": [
+    {
+      "figure_text": null,
+      "question_text": "규진이네 아파트 승강기는 $6$ 개의 층을 올라가는 데 $24$초가 걸린다고 합니다. 규진이는 $2$시 $37$분에 $1$ 층에서 승강기를 타고 $20$ 층인 집에 올라갔습니다. 규진이가 $20$ 층에 도착한 시각은 몇 시 몇 분 몇 초인가요? (단, 승강기는 일정한 빠르기로 움직이고 승강기를 기다린 시간은 생각하지 않습니다.)",
+      "question_bbox": [
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            3,
+            595,
+            28
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            33,
+            591,
+            58
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            63,
+            580,
+            88
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            2,
+            93,
+            583,
+            120
+          ],
+          "text": null
+        },
+        {
+          "type": "line",
+          "bbox": [
+            1,
+            123,
+            482,
+            150
+          ],
+          "text": null
+        },
+        {
+          "type": "paragraph",
+          "bbox": [
+            1,
+            2,
+            596,
+            151
+          ],
+          "text": "규진이네 아파트 승강기는 $6$ 개의 층을 올라가는 데 $24$초가 걸린다고 합니다. 규진이는 $2$시 $37$분에 $1$ 층에서 승강기를 타고 $20$ 층인 집에 올라갔습니다. 규진이가 $20$ 층에 도착한 시각은 몇 시 몇 분 몇 초인가요? (단, 승강기는 일정한 빠르기로 움직이고 승강기를 기다린 시간은 생각하지 않습니다.)"
+        }
+      ]
+    }
+  ]
+}
