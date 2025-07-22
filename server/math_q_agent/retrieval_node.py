@@ -97,9 +97,10 @@ def get_sample_question(state: State):
     # print(total_df.index)
     print(f"[{fn}] total_df :", len(total_df))
 
-    loop_count = 0
-    sample_question = None
-    if len(total_df) == 0:
+    questions_df = total_df[total_df['question_type2'] == 1]
+    print(f"[{fn}] questions_df :", len(questions_df))
+
+    if len(total_df) == 0 or len(questions_df) == 0:
         print(f'[{fn}] Error: 문제 생성을 위한 DataSet이 없습니다.')
 
         state["sample_question"] = ""
@@ -107,22 +108,27 @@ def get_sample_question(state: State):
     else:
         if state["count"] == 0:
             state["count"] = DEFAULT_QUESTION_COUNT
-        
-        while sample_question == None and loop_count < 10:
-            index = random.choice(total_df.index)
-            if total_df.loc[index]['question_type2'] == 1:
-                sample_question = add_newline_before_string(total_df.loc[index]['question_text'])
 
+        loop_count = 0
+        sample_question = None
+        sample_question_info = None
+
+        while sample_question == None and loop_count < len(questions_df):
+            index = random.choice(questions_df.index)
+            if len(questions_df.loc[index]['question_text']) > 0:
+                sample_question = add_newline_before_string(questions_df.loc[index]['question_text'])
                 sample_question_info = {
-                    "question_grade": total_df.loc[index]['question_grade'],
-                    "question_term": total_df.loc[index]['question_term'],
-                    "question_unit": total_df.loc[index]['question_unit'],
+                    "question_grade": questions_df.loc[index]['question_grade'],
+                    "question_term": questions_df.loc[index]['question_term'],
+                    "question_unit": questions_df.loc[index]['question_unit'],
                 }
+                break
             else:
                 loop_count =+1
         
         state["sample_question"] = sample_question
         state["sample_question_info"] = sample_question_info
+        print(f"[{fn}] loop: {loop_count} State: {state} ")
 
     return {
         "sample_question": state["sample_question"],
