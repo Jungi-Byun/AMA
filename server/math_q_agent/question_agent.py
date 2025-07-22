@@ -65,7 +65,6 @@ class QuestionAgent:
             'request_question_type': question_type,
             'count': 4
         })
-        print('answer = ', answer)
         question_list = answer['question_list']
 
         return question_list

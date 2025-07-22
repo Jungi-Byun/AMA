@@ -89,7 +89,7 @@ def generate_question(state: State):
                 add_info = ""
             
             messages = get_prompt(state["sample_question"], state["topic"], add_info)
-            print(f"[{fn}] messages: {messages}")
+            # print(f"[{fn}] messages: {messages}")
 
             model, tokenizer, device = get_llm_model()
             
@@ -121,9 +121,7 @@ def generate_question(state: State):
             else:
                 print("No JSON data found.")
         
-        state["question_list"] = question_list
-        print(f"[{fn}] State: {state}")
-        
+        state["question_list"] = question_list        
         return {"question_list": state["question_list"]}
     except Exception as e:
         print(f"[{fn}] Internal server error : ", e)

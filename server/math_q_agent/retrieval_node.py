@@ -94,11 +94,10 @@ def get_sample_question(state: State):
     fn = 'get_sample_question'
     
     total_df = get_math_question_list(state["topic"], state["request_question_type"])
-    # print(total_df.index)
-    print(f"[{fn}] total_df :", len(total_df))
+    print(f"[{fn}] total :", len(total_df))
 
     questions_df = total_df[total_df['question_type2'] == 1]
-    print(f"[{fn}] questions_df :", len(questions_df))
+    print(f"[{fn}] questions :", len(questions_df))
 
     if len(total_df) == 0 or len(questions_df) == 0:
         print(f'[{fn}] Error: 문제 생성을 위한 DataSet이 없습니다.')
