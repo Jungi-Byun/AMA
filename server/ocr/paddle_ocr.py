@@ -30,7 +30,7 @@ class OptimizedImagePreprocessor:
             raise ValueError(f"이미지를 읽을 수 없습니다: {image_path}")
 
         height, width = image.shape[:2]
-        if width > 1152:
+        if width >= 1280:
             scale = 0.6
             new_width = int(width * scale)
             new_height = int(height * scale)
@@ -80,39 +80,17 @@ class OptimizedOCR:
             text_det_thresh=0.2,
         )
 
-        self.logger.info("OCR 시스템 초기화 완료 (GPU, korean_PP-OCRv5_mobile_rec 사용자 지정 경로)")
+        # self.logger.info("OCR 시스템 초기화 완료 (GPU, korean_PP-OCRv5_mobile_rec 사용자 지정 경로)")
 
     def predict(self, image: np.ndarray) -> List[Dict[str, Any]]:
-        self.logger.info("OCR 예측 시작...")
-        start_time = time.time()
-        
+        # print("OptimizedOCR - predict")
+        # debug
+        # cv2.imwrite("debug_resized.png", image)
+
         try:
-            height, width = image.shape[:2]
-            max_size = 1280
-            
-            # if width > max_size or height > max_size:
-            if width >= 1280:
-                # scale = min(max_size / width, max_size / height)
-                scale = 0.7
-                new_width = int(width * scale)
-                new_height = int(height * scale)
-                image = cv2.resize(image, (new_width, new_height), interpolation=cv2.INTER_AREA)
-                self.logger.warning(f"이미지 크기 제한으로 리사이즈: {width}x{height} -> {new_width}x{new_height}")
-            
-            if image.dtype != np.uint8:
-                # print(f"이미지 값 범위: {image.min()} ~ {image.max()}")
-                if image.min() >= 0 and image.max() <= 1.0:
-                    image = (image * 255).astype(np.uint8)
-                elif image.min() >= 0 and image.max() <= 255:
-                    image = image.astype(np.uint8)
-                else:
-                    self.logger.warning(f"이미지 값 범위가 비정상적입니다: {image.min()} ~ {image.max()}. 강제 변환 및 debug_resized.png로 저장합니다.")
-                    image = np.clip(image, 0, 255).astype(np.uint8)
-
-            # debug
-            # cv2.imwrite("debug_resized.png", image)
-
+            start_time = time.time()
             result = self.ocr.predict(image)
+            processing_time = time.time() - start_time
 
             # debug
             # for res in result:
@@ -120,8 +98,7 @@ class OptimizedOCR:
             #     res.save_to_img("output")
             #     res.save_to_json("output")
 
-            processing_time = time.time() - start_time
-            self.logger.info(f"OCR 예측 완료 (소요시간: {processing_time:.2f}초) - STEP1 최적화 적용")
+            # self.logger.info(f"OCR 예측 완료 (소요시간: {processing_time:.2f}초) - STEP1 최적화 적용")
 
             return result
             
@@ -265,7 +242,7 @@ class OptimizedOCRSystem:
                    right_ratio > threshold_ratio and
                    center_ratio < 0.1)
         
-        self.logger.info(f"좌우 분할 판단: {'예' if is_split else '아니오'}")
+        # self.logger.info(f"좌우 분할 판단: {'예' if is_split else '아니오'}")
         return is_split
     
     def process_image_with_split_detection(self, image_path: str) -> Dict[str, Any]:
@@ -365,7 +342,7 @@ class OptimizedOCRSystem:
                 f.write(f"좌우 분할 감지: 아니오\n")
                 f.write(f"전체 텍스트:\n{results['full_text']}\n\n")
         
-        self.logger.info(f"결과 저장 완료: {save_path}")
+        # self.logger.info(f"결과 저장 완료: {save_path}")
         return results.get('full_text', '')
 
 def main():
@@ -415,4 +392,4 @@ def main():
         print(f"오류 발생: {str(e)}")
 
 if __name__ == '__main__':
-    main() 
+    main()

@@ -80,3 +80,4 @@ timm==1.0.13
 paddlepaddle
 paddleocr
 easyocr 
+accelerate
